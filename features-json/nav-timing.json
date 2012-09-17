@@ -1,0 +1,138 @@
+{
+  "title":"Navigation Timing API",
+  "description":"API for accessing timing information related to navigation and elements.",
+  "spec":"http:\/\/www.w3.org\/TR\/navigation-timing\/",
+  "status":"cr",
+  "links":[
+    {
+      "url":"https:\/\/developer.mozilla.org\/en\/API\/navigationTiming",
+      "title":"MDN article"
+    },
+    {
+      "url":"http:\/\/www.html5rocks.com\/en\/tutorials\/webperformance\/basics\/",
+      "title":"HTML5 Rocks tutorial"
+    }
+  ],
+  "bugs":[
+    
+  ],
+  "categories":[
+    "DOM",
+    "JS API"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"y",
+      "10":"y"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"y",
+      "8":"y",
+      "9":"y",
+      "10":"y",
+      "11":"y",
+      "12":"y",
+      "13":"y",
+      "14":"y",
+      "15":"y",
+      "16":"y",
+      "17":"y"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"y x",
+      "7":"y x",
+      "8":"y x",
+      "9":"y x",
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y",
+      "14":"y",
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"n"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "12.5":"n"
+    },
+    "ios_saf":{
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6":"u"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"y"
+    },
+    "bb":{
+      "7":"n",
+      "10":"y"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n"
+    },
+    "and_chr":{
+      "0":"y"
+    },
+    "and_ff":{
+      "0":"y"
+    }
+  },
+  "notes":"",
+  "usage_perc_y":63.76,
+  "usage_perc_a":0,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"performance,performance.timing",
+  "shown":true
+}

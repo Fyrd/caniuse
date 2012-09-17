@@ -1,0 +1,133 @@
+{
+  "title":"CSS3 Border images",
+  "description":"Method of using images for borders",
+  "spec":"http:\/\/www.w3.org\/TR\/css3-background\/#the-border-image",
+  "status":"cr",
+  "links":[
+    {
+      "url":"http:\/\/www.css3files.com\/border\/",
+      "title":"Information page"
+    }
+  ],
+  "bugs":[
+    
+  ],
+  "categories":[
+    "CSS3"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"u"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"a x",
+      "3.6":"a x",
+      "4":"a x",
+      "5":"a x",
+      "6":"a x",
+      "7":"a x",
+      "8":"a x",
+      "9":"a x",
+      "10":"a x",
+      "11":"a x",
+      "12":"a x",
+      "13":"a x",
+      "14":"a x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x"
+    },
+    "chrome":{
+      "4":"a x",
+      "5":"a x",
+      "6":"a x",
+      "7":"a x",
+      "8":"a x",
+      "9":"a x",
+      "10":"a x",
+      "11":"a x",
+      "12":"a x",
+      "13":"a x",
+      "14":"a x",
+      "15":"y x",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y"
+    },
+    "safari":{
+      "3.1":"a x",
+      "3.2":"a x",
+      "4":"a x",
+      "5":"a x",
+      "5.1":"a x",
+      "6":"y"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"a",
+      "10.6":"a",
+      "11":"a x",
+      "11.1":"a x",
+      "11.5":"a x",
+      "11.6":"a x",
+      "12":"a x",
+      "12.1":"a x",
+      "12.5":"a x"
+    },
+    "ios_saf":{
+      "3.2":"a x",
+      "4.0-4.1":"a x",
+      "4.2-4.3":"a x",
+      "5.0-5.1":"a x",
+      "6":"a x"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"a x",
+      "2.2":"a x",
+      "2.3":"a x",
+      "3":"a x",
+      "4":"a x"
+    },
+    "bb":{
+      "7":"a x",
+      "10":"y"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"a x",
+      "11.1":"a x",
+      "11.5":"a x",
+      "12":"a x"
+    },
+    "and_chr":{
+      "0":"y"
+    },
+    "and_ff":{
+      "0":"a x"
+    }
+  },
+  "notes":"Partial support refers to supporting the shorthand syntax, but not the individual properties (border-image-source, border-image-slice, etc)",
+  "usage_perc_y":30.47,
+  "usage_perc_a":32.8,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"",
+  "shown":true
+}

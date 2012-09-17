@@ -1,0 +1,137 @@
+{
+  "title":"CSS Hyphenation",
+  "description":"Method of controlling when words at the end of lines should be hyphenated using the \"hyphens\" property.",
+  "spec":"http:\/\/www.w3.org\/TR\/css3-text\/#hyphenation",
+  "status":"wd",
+  "links":[
+    {
+      "url":"https:\/\/developer.mozilla.org\/en\/CSS\/hyphens",
+      "title":"MDN article"
+    },
+    {
+      "url":"http:\/\/blog.fontdeck.com\/post\/9037028497\/hyphens",
+      "title":"Blog post"
+    }
+  ],
+  "bugs":[
+    
+  ],
+  "categories":[
+    "CSS3"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"y x"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
+      "4":"n",
+      "5":"n",
+      "6":"y x",
+      "7":"y x",
+      "8":"y x",
+      "9":"y x",
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y x",
+      "14":"y x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"y x",
+      "6":"y x"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "12.5":"n"
+    },
+    "ios_saf":{
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"y x",
+      "5.0-5.1":"y x",
+      "6":"y x"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n"
+    },
+    "bb":{
+      "7":"n",
+      "10":"n"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n"
+    },
+    "and_chr":{
+      "0":"n"
+    },
+    "and_ff":{
+      "0":"y x"
+    }
+  },
+  "notes":"Chrome and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property.",
+  "usage_perc_y":26.71,
+  "usage_perc_a":0,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"hyphen,shy",
+  "shown":true
+}

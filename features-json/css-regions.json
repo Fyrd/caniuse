@@ -1,0 +1,137 @@
+{
+  "title":"CSS Regions",
+  "description":"Method of flowing content into multiple elements.",
+  "spec":"http:\/\/www.w3.org\/TR\/css3-regions\/",
+  "status":"wd",
+  "links":[
+    {
+      "url":"http:\/\/html.adobe.com\/webstandards\/cssregions\/",
+      "title":"Adobe prototype build & samples"
+    },
+    {
+      "url":"http:\/\/msdn.microsoft.com\/en-us\/ie\/hh272902#_CSSConnected",
+      "title":"IE10 developer guide info"
+    }
+  ],
+  "bugs":[
+    
+  ],
+  "categories":[
+    "CSS3"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"a x"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"u",
+      "17":"u"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"a x",
+      "16":"a x",
+      "17":"a x",
+      "18":"a x",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"u",
+      "23":"u"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"n"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "12.5":"n"
+    },
+    "ios_saf":{
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6":"u"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n"
+    },
+    "bb":{
+      "7":"n",
+      "10":"n"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n"
+    },
+    "and_chr":{
+      "0":"a x"
+    },
+    "and_ff":{
+      "0":"n"
+    }
+  },
+  "notes":"Currently supported in WebKit using -webkit-flow: \"flow_name\"; and content: -webkit-from-flow(\"flow_name\"); Support in Chrome 19+ is disabled by default and can be enabled using command line flag <a href=\"http:\/\/peter.sh\/experiments\/chromium-command-line-switches\/#enable-css-regions\">--enable-css-regions<\/a>.  Supported in IE10 using an iframe with -ms-flow-into: flow_name; and -ms-flow-from: flow_name;",
+  "usage_perc_y":0,
+  "usage_perc_a":1.29,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"",
+  "shown":true
+}

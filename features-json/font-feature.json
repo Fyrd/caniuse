@@ -1,0 +1,137 @@
+{
+  "title":"Font feature settings",
+  "description":"Method of applying advanced typographic and language-specific font features to supported OpenType fonts.",
+  "spec":"http:\/\/w3.org\/TR\/css3-fonts\/#font-rend-props",
+  "status":"wd",
+  "links":[
+    {
+      "url":"http:\/\/ie.microsoft.com\/testdrive\/Graphics\/opentype\/",
+      "title":"Demo pages (IE\/Firefox only)"
+    },
+    {
+      "url":"http:\/\/hacks.mozilla.org\/2010\/11\/firefox-4-font-feature-support\/",
+      "title":"Mozilla hacks article"
+    }
+  ],
+  "bugs":[
+    
+  ],
+  "categories":[
+    "CSS3"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"y"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
+      "4":"a x",
+      "5":"a x",
+      "6":"a x",
+      "7":"a x",
+      "8":"a x",
+      "9":"a x",
+      "10":"a x",
+      "11":"a x",
+      "12":"a x",
+      "13":"a x",
+      "14":"a x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"a x",
+      "17":"a x",
+      "18":"a x",
+      "19":"a x",
+      "20":"a x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"n"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "12.5":"n"
+    },
+    "ios_saf":{
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6":"u"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n"
+    },
+    "bb":{
+      "7":"n",
+      "10":"y x"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n"
+    },
+    "and_chr":{
+      "0":"a x"
+    },
+    "and_ff":{
+      "0":"a x"
+    }
+  },
+  "notes":"Partial support in older Firefox versions refers to using an older syntax. Partial support in older Chrome versions refers to lacking support in Mac OS X. ",
+  "usage_perc_y":25.29,
+  "usage_perc_a":22.02,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",
+  "shown":true
+}

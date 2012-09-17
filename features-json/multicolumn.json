@@ -1,0 +1,139 @@
+{
+  "title":"CSS3 Multiple column layout",
+  "description":"Method of flowing information in multiple columns",
+  "spec":"http:\/\/www.w3.org\/TR\/css3-multicol\/",
+  "status":"cr",
+  "links":[
+    {
+      "url":"http:\/\/dev.opera.com\/articles\/view\/css3-multi-column-layout\/",
+      "title":"Dev.Opera article"
+    },
+    {
+      "url":"http:\/\/webdesign.tutsplus.com\/tutorials\/htmlcss-tutorials\/an-introduction-to-the-css3-multiple-column-layout-module\/",
+      "title":"Introduction page"
+    }
+  ],
+  "bugs":[
+    {
+      "description":"In Firefox 6, the property column-span (or -moz-column-span) does not yet work."
+    }
+  ],
+  "categories":[
+    "CSS3"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"y"
+    },
+    "firefox":{
+      "2":"a x",
+      "3":"a x",
+      "3.5":"a x",
+      "3.6":"a x",
+      "4":"a x",
+      "5":"a x",
+      "6":"a x",
+      "7":"a x",
+      "8":"a x",
+      "9":"a x",
+      "10":"a x",
+      "11":"a x",
+      "12":"a x",
+      "13":"a x",
+      "14":"a x",
+      "15":"a x",
+      "16":"a x",
+      "17":"a x"
+    },
+    "chrome":{
+      "4":"a x",
+      "5":"a x",
+      "6":"a x",
+      "7":"a x",
+      "8":"a x",
+      "9":"a x",
+      "10":"a x",
+      "11":"a x",
+      "12":"a x",
+      "13":"a x",
+      "14":"a x",
+      "15":"a x",
+      "16":"a x",
+      "17":"a x",
+      "18":"a x",
+      "19":"a x",
+      "20":"a x",
+      "21":"a x",
+      "22":"a x",
+      "23":"a x"
+    },
+    "safari":{
+      "3.1":"a x",
+      "3.2":"a x",
+      "4":"a x",
+      "5":"a x",
+      "5.1":"a x",
+      "6":"a x"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"y",
+      "11.5":"y",
+      "11.6":"y",
+      "12":"y",
+      "12.1":"y",
+      "12.5":"y"
+    },
+    "ios_saf":{
+      "3.2":"a x",
+      "4.0-4.1":"a x",
+      "4.2-4.3":"a x",
+      "5.0-5.1":"a x",
+      "6":"a x"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"a x",
+      "2.2":"a x",
+      "2.3":"a x",
+      "3":"a x",
+      "4":"a x"
+    },
+    "bb":{
+      "7":"a x",
+      "10":"a x"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"y",
+      "11.5":"y",
+      "12":"y"
+    },
+    "and_chr":{
+      "0":"a x"
+    },
+    "and_ff":{
+      "0":"a x"
+    }
+  },
+  "notes":"Partial support refers to not supporting the break-before, break-after, break-inside properties. Webkit browsers do have equivalent support for the non-standard -webkit-column-break-* properties.",
+  "usage_perc_y":1.46,
+  "usage_perc_a":62.02,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"column-count",
+  "shown":true
+}
