@@ -68,7 +68,7 @@
       "20":"a",
       "21":"a",
       "22":"a",
-      "23":"a"
+      "23":"y"
     },
     "safari":{
       "3.1":"a",
@@ -89,8 +89,8 @@
       "11.5":"a",
       "11.6":"a",
       "12":"a",
-      "12.1":"a",
-      "12.5":"a"
+      "12.1":"y",
+      "12.5":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -107,7 +107,8 @@
       "2.2":"a",
       "2.3":"a",
       "3":"a",
-      "4":"a"
+      "4":"a",
+      "4.1":"a"
     },
     "bb":{
       "7":"a",
@@ -128,8 +129,8 @@
     }
   },
   "notes":"Partial support refers to requiring the legacy name \"word-wrap\" (rather than overflow-wrap) to work.",
-  "usage_perc_y":0,
-  "usage_perc_a":94.44,
+  "usage_perc_y":0.04,
+  "usage_perc_a":94.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"wordwrap,word-wrap",

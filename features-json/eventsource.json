@@ -15,7 +15,10 @@
   ],
   "bugs":[
     {
-      "description":"As of now, CORS in EventSource is only supported in Firefox 10 nightly AFAIK. "
+      "description":"Reportedly, CORS in EventSource is currently only supported in Firefox 10+. "
+    },
+    {
+      "description":"Appears to work in some (modified) versions of the Android browser."
     }
   ],
   "categories":[
@@ -109,7 +112,8 @@
       "2.2":"n",
       "2.3":"n",
       "3":"n",
-      "4":"n"
+      "4":"n",
+      "4.1":"n"
     },
     "bb":{
       "7":"y",

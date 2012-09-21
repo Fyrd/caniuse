@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"IE8 is not able to combine :after with other hierarchical elements. For example .myClass:last-child:after will work in Firefox, Chrome or Safari, but not in IE8."
+    },
+    {
+      "description":"Firefox currently doesn't allow :before and :after on checkbox and radio fields.\r\n"
     }
   ],
   "categories":[
@@ -109,7 +112,8 @@
       "2.2":"y",
       "2.3":"y",
       "3":"y",
-      "4":"y"
+      "4":"y",
+      "4.1":"y"
     },
     "bb":{
       "7":"y",

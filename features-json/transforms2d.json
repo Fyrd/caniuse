@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Scaling transforms in Android 2.3 fails to scale element background images."
+    }
   ],
   "categories":[
     "CSS3"
@@ -119,7 +121,8 @@
       "2.2":"y x",
       "2.3":"y x",
       "3":"y x",
-      "4":"y x"
+      "4":"y x",
+      "4.1":"y x"
     },
     "bb":{
       "7":"y x",
