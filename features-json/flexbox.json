@@ -2,7 +2,7 @@
   "title":"Flexible Box Layout Module",
   "description":"Method of positioning elements in horizontal or vertical stacks.",
   "spec":"http:\/\/www.w3.org\/TR\/css3-flexbox\/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"http:\/\/www.the-haystack.com\/2010\/01\/23\/css3-flexbox-part-1\/",
@@ -78,7 +78,8 @@
       "20":"a x",
       "21":"y x",
       "22":"y x",
-      "23":"y x"
+      "23":"y x",
+      "24":"y x"
     },
     "safari":{
       "3.1":"a x",

@@ -11,6 +11,10 @@
     {
       "url":"http:\/\/hacks.mozilla.org\/2010\/11\/firefox-4-font-feature-support\/",
       "title":"Mozilla hacks article"
+    },
+    {
+      "url":"http:\/\/html5accessibility.com\/",
+      "title":"Detailed tables on accessability support"
     }
   ],
   "bugs":[
@@ -68,15 +72,16 @@
       "20":"a x",
       "21":"y x",
       "22":"y x",
-      "23":"y x"
+      "23":"y x",
+      "24":"y x"
     },
     "safari":{
       "3.1":"n",
       "3.2":"n",
-      "4":"n",
-      "5":"n",
-      "5.1":"n",
-      "6":"n"
+      "4":"a",
+      "5":"a",
+      "5.1":"a",
+      "6":"a"
     },
     "opera":{
       "9":"n",
@@ -93,11 +98,11 @@
       "12.5":"n"
     },
     "ios_saf":{
-      "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
-      "6":"n"
+      "3.2":"a",
+      "4.0-4.1":"a",
+      "4.2-4.3":"a",
+      "5.0-5.1":"a",
+      "6":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -130,7 +135,7 @@
   },
   "notes":"Partial support in older Firefox versions refers to using an older syntax. Partial support in older Chrome versions refers to lacking support in Mac OS X. ",
   "usage_perc_y":25.29,
-  "usage_perc_a":22.02,
+  "usage_perc_a":31.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",
