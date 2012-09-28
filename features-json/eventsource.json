@@ -15,10 +15,10 @@
   ],
   "bugs":[
     {
-      "description":"Reportedly, CORS in EventSource is currently only supported in Firefox 10+. "
+      "description":"Reportedly, CORS in EventSource is currently only supported in Firefox 10+ and Opera 12+. "
     },
     {
-      "description":"Appears to work in some (modified) versions of the Android browser."
+      "description":"Appears to work in some (modified) versions of the Android 4 browser."
     }
   ],
   "categories":[

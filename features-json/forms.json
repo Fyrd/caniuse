@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Safari (>= 5.1) on Windows has a bug in multiple file uploads when used together with FormData to do binary uploads; each file will be reported as 0 bytes. Single file selection, however, works fine."
+    },
+    {
+      "description":"File uploading is not possible on iOS Safari before iOS 6."
     }
   ],
   "categories":[
@@ -131,7 +134,7 @@
       "0":"a"
     }
   },
-  "notes":"Currently file uploading is not possible on iOS Safari.\r\n",
+  "notes":"",
   "usage_perc_y":6.1,
   "usage_perc_a":53.04,
   "ucprefix":false,
