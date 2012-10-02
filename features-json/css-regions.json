@@ -131,7 +131,7 @@
   },
   "notes":"Currently supported in WebKit using -webkit-flow: \"flow_name\"; and content: -webkit-from-flow(\"flow_name\"); Support in Chrome 19+ is disabled by default and can be enabled using command line flag <a href=\"http:\/\/peter.sh\/experiments\/chromium-command-line-switches\/#enable-css-regions\">--enable-css-regions<\/a>.  Supported in IE10 using an iframe with -ms-flow-into: flow_name; and -ms-flow-from: flow_name;",
   "usage_perc_y":0,
-  "usage_perc_a":1.29,
+  "usage_perc_a":1.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
