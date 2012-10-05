@@ -1,0 +1,136 @@
+{
+  "title":"Content Security Policy",
+  "description":"API allowing a more efficient way of running script-based animation, compared to traditional methods using timeouts.",
+  "description":"Mitigate cross-site scripting attacks by whitelisting allowed sources of script, style, and other resources.",
+  "spec":"http:\/\/www.w3.org\/TR\/CSP\/",
+  "status":"wd",
+  "links":[
+    {
+      "url":"http:\/\/html5rocks.com\/en\/tutorials\/security\/content-security-policy\/",
+      "title":"HTML5Rocks article"
+    }
+  ],
+  "bugs":[
+    
+  ],
+  "categories":[
+    "Other"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"a"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"y x",
+      "3.6":"y x",
+      "4":"y x",
+      "5":"y x",
+      "6":"y x",
+      "7":"y x",
+      "8":"y x",
+      "9":"y x",
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y x",
+      "14":"y x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"y x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x",
+      "18":"y x",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"y x"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "12.5":"n"
+    },
+    "ios_saf":{
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6":"y x"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n"
+    },
+    "bb":{
+      "7":"n",
+      "10":"n"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n"
+    },
+    "and_chr":{
+      "0":"y x"
+    },
+    "and_ff":{
+      "0":"y x"
+    }
+  },
+  "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10, and 'X-WebKit-CSP' for Safari and Chrome.",
+  "usage_perc_y":51.36,
+  "usage_perc_a":0,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"csp, security, header",
+  "shown":true
+}
