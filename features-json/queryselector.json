@@ -1,19 +1,19 @@
 {
-  "title":"querySelector\/querySelectorAll",
+  "title":"querySelector/querySelectorAll",
   "description":"Method of accessing DOM elements using CSS selectors",
-  "spec":"http:\/\/www.w3.org\/TR\/selectors-api\/",
+  "spec":"http://www.w3.org/TR/selectors-api/",
   "status":"cr",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/DOM\/element.querySelector",
+      "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
       "title":"MDN article on querySelector"
     },
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/DOM\/Element.querySelectorAll",
+      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
       "title":"MDN article on querySelectorAll"
     },
     {
-      "url":"http:\/\/cjihrig.com\/blog\/javascripts-selectors-api\/",
+      "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
     }
   ],
@@ -134,7 +134,7 @@
     }
   },
   "notes":"Only works for the CSS selectors available. Thus the IE8 implementation is limited to the CSS 2.1 selectors",
-  "usage_perc_y":91.41,
+  "usage_perc_y":93.94,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

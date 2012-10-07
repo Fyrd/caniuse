@@ -1,7 +1,7 @@
 {
-  "title":"TTF\/OTF - TrueType and OpenType font support",
+  "title":"TTF/OTF - TrueType and OpenType font support",
   "description":"Support for the TrueType (.ttf)and OpenType (.otf) outline font formats in @font-face. ",
-  "spec":"http:\/\/developer.apple.com\/fonts\/TTRefMan\/index.html",
+  "spec":"http://developer.apple.com/fonts/TTRefMan/index.html",
   "status":"other",
   "links":[
     
@@ -122,8 +122,8 @@
       "0":"y"
     }
   },
-  "notes":"Partial support in IE9 refers to the fonts only working <a href=\"http:\/\/blogs.msdn.com\/b\/ie\/archive\/2010\/07\/15\/the-css-corner-better-web-typography-for-better-design.aspx\">when set to be \"installable\"<\/a>.",
-  "usage_perc_y":61.55,
+  "notes":"Partial support in IE9 refers to the fonts only working <a href=\"http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx\">when set to be \"installable\"</a>.",
+  "usage_perc_y":64.06,
   "usage_perc_a":15.93,
   "ucprefix":false,
   "parent":"fontface",

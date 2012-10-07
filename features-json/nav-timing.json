@@ -1,15 +1,15 @@
 {
   "title":"Navigation Timing API",
   "description":"API for accessing timing information related to navigation and elements.",
-  "spec":"http:\/\/www.w3.org\/TR\/navigation-timing\/",
+  "spec":"http://www.w3.org/TR/navigation-timing/",
   "status":"cr",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/API\/navigationTiming",
+      "url":"https://developer.mozilla.org/en/API/navigationTiming",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/www.html5rocks.com\/en\/tutorials\/webperformance\/basics\/",
+      "url":"http://www.html5rocks.com/en/tutorials/webperformance/basics/",
       "title":"HTML5 Rocks tutorial"
     }
   ],
@@ -17,8 +17,8 @@
     
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{

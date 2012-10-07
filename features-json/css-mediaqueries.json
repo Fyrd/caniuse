@@ -1,19 +1,19 @@
 {
   "title":"CSS3 Media Queries",
   "description":"Method of applying styles based on media information. Includes things like page and device dimensions",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-mediaqueries\/",
+  "spec":"http://www.w3.org/TR/css3-mediaqueries/",
   "status":"rec",
   "links":[
     {
-      "url":"http:\/\/ie.microsoft.com\/testdrive\/HTML5\/85CSS3_MediaQueries\/",
+      "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
       "title":"IE demo page with information"
     },
     {
-      "url":"http:\/\/webdesignerwall.com\/tutorials\/responsive-design-with-css3-media-queries",
+      "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
       "title":"Media Queries tutorial"
     },
     {
-      "url":"https:\/\/github.com\/scottjehl\/Respond",
+      "url":"https://github.com/scottjehl/Respond",
       "title":"Polyfill for IE"
     }
   ],
@@ -136,7 +136,7 @@
     }
   },
   "notes":"Incomplete support by older webkit browsers refers to only acknowledging different media rules on page reload",
-  "usage_perc_y":79.84,
+  "usage_perc_y":82.36,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

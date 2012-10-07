@@ -1,11 +1,11 @@
 {
   "title":"WOFF - Web Open Font Format",
-  "description":"Compressed TrueType\/OpenType font that contains information about the font's source.",
-  "spec":"http:\/\/www.w3.org\/TR\/WOFF\/",
+  "description":"Compressed TrueType/OpenType font that contains information about the font's source.",
+  "spec":"http://www.w3.org/TR/WOFF/",
   "status":"cr",
   "links":[
     {
-      "url":"http:\/\/hacks.mozilla.org\/2009\/10\/woff\/",
+      "url":"http://hacks.mozilla.org/2009/10/woff/",
       "title":"Mozilla hacks blog post"
     }
   ],
@@ -126,7 +126,7 @@
     }
   },
   "notes":"Reported to be supported in some modified versions of the Android 4.0 browser.",
-  "usage_perc_y":72.83,
+  "usage_perc_y":75.17,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

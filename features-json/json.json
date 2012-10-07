@@ -1,16 +1,16 @@
 {
   "title":"JSON parsing",
   "description":"Method of converting JavaScript objects to JSON strings and JSON back to objects using JSON.stringify() and JSON.parse()",
-  "spec":"http:\/\/es5.github.com\/#x15.12",
+  "spec":"http://es5.github.com/#x15.12",
   "status":"other",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/Using_native_JSON",
+      "url":"https://developer.mozilla.org/En/Using_native_JSON",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/www.json.org\/js.html",
-      "title":"JSON in JS (includes script w\/support)"
+      "url":"http://www.json.org/js.html",
+      "title":"JSON in JS (includes script w/support)"
     }
   ],
   "bugs":[
@@ -129,8 +129,8 @@
       "0":"y"
     }
   },
-  "notes":"Requires document to be in IE8+ <a href=\"http:\/\/msdn.microsoft.com\/en-us\/library\/cc288325(VS.85).aspx\">standards mode<\/a> to work in IE8.",
-  "usage_perc_y":91.36,
+  "notes":"Requires document to be in IE8+ <a href=\"http://msdn.microsoft.com/en-us/library/cc288325(VS.85).aspx\">standards mode</a> to work in IE8.",
+  "usage_perc_y":93.88,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -1,15 +1,15 @@
 {
   "title":"Text API for Canvas",
   "description":"Method of displaying text on Canvas elements",
-  "spec":"http:\/\/www.whatwg.org\/specs\/web-apps\/current-work\/multipage\/the-canvas-element.html#text-0",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html#text-0",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/Drawing_text_using_a_canvas#Additional_examples",
+      "url":"https://developer.mozilla.org/en/Drawing_text_using_a_canvas#Additional_examples",
       "title":"Examples by Mozilla"
     },
     {
-      "url":"http:\/\/code.google.com\/p\/canvas-text\/",
+      "url":"http://code.google.com/p/canvas-text/",
       "title":"Support library"
     }
   ],
@@ -17,8 +17,8 @@
     
   ],
   "categories":[
-    "HTML5",
-    "Canvas"
+    "Canvas",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -131,7 +131,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":77.57,
+  "usage_perc_y":80.09,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

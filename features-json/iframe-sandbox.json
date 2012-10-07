@@ -1,15 +1,15 @@
 {
   "title":"sandbox attribute for iframes",
   "description":"Method of running external site pages with reduced privileges (i.e. no JavaScript) in iframes",
-  "spec":"http:\/\/www.w3.org\/TR\/html5\/the-iframe-element.html#attr-iframe-sandbox",
+  "spec":"http://www.w3.org/TR/html5/the-iframe-element.html#attr-iframe-sandbox",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/blog.chromium.org\/2010\/05\/security-in-depth-html5s-sandbox.html",
+      "url":"http://blog.chromium.org/2010/05/security-in-depth-html5s-sandbox.html",
       "title":"Chromium blog article"
     },
     {
-      "url":"http:\/\/msdn.microsoft.com\/en-us\/hh563496",
+      "url":"http://msdn.microsoft.com/en-us/hh563496",
       "title":"MSDN article"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":40.43,
+  "usage_perc_y":42.94,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

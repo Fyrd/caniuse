@@ -1,15 +1,15 @@
 {
   "title":"CSS3 Overflow-wrap",
   "description":"Allows lines to be broken within words if an otherwise unbreakable string is too long to fit.",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-text\/#overflow-wrap",
+  "spec":"http://www.w3.org/TR/css3-text/#overflow-wrap",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/CSS\/Word-wrap",
+      "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/www.css3files.com\/text\/#wordwrap",
+      "url":"http://www.css3files.com/text/#wordwrap",
       "title":"Information page"
     }
   ],
@@ -131,7 +131,7 @@
   },
   "notes":"Partial support refers to requiring the legacy name \"word-wrap\" (rather than overflow-wrap) to work.",
   "usage_perc_y":0.13,
-  "usage_perc_a":92.7,
+  "usage_perc_a":95.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"wordwrap,word-wrap",

@@ -1,15 +1,15 @@
 {
   "title":"Blob constructing",
   "description":"Construct Blobs (binary large objects) either using the BlobBuilder API (deprecated) or the Blob constructor.",
-  "spec":"http:\/\/www.w3.org\/TR\/file-writer-api\/#the-blobbuilder-interface",
+  "spec":"http://www.w3.org/TR/file-writer-api/#the-blobbuilder-interface",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/DOM\/BlobBuilder",
+      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
       "title":"MDN article on BlobBuilder"
     },
     {
-      "url":"https:\/\/developer.mozilla.org\/en-US\/docs\/DOM\/Blob",
+      "url":"https://developer.mozilla.org/en-US/docs/DOM/Blob",
       "title":"MDN article on Blobs"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"Partial support refers to only supporting the now deprecated BlobBuilder to create blobs.",
-  "usage_perc_y":46.18,
+  "usage_perc_y":47.6,
   "usage_perc_a":5.74,
   "ucprefix":true,
   "parent":"fileapi",

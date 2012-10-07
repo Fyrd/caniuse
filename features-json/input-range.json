@@ -1,19 +1,19 @@
 {
   "title":"Range input type",
   "description":"Form field type that allows the user to select a value using a slider widget.",
-  "spec":"http:\/\/www.w3.org\/TR\/html5\/number-state.html#range-state",
+  "spec":"http://www.w3.org/TR/html5/number-state.html#range-state",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/github.com\/fryn\/html5slider",
+      "url":"https://github.com/fryn/html5slider",
       "title":"Polyfill for Firefox"
     },
     {
-      "url":"https:\/\/github.com\/freqdec\/fd-slider",
+      "url":"https://github.com/freqdec/fd-slider",
       "title":"Cross-browser polyfill"
     },
     {
-      "url":"http:\/\/tutorialzine.com\/2011\/12\/what-you-need-to-know-html5-range-input\/",
+      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
       "title":"Tutorial"
     }
   ],
@@ -133,8 +133,8 @@
       "0":"n"
     }
   },
-  "notes":"Currently all Android browsers hide the slider input field by default. However, the element <a href=\"http:\/\/tiffanybbrown.com\/2012\/02\/07\/input-typerange-and-androids-stock-browser\/\">can be styled<\/a> to be made visible and usable.",
-  "usage_perc_y":38.65,
+  "notes":"Currently all Android browsers hide the slider input field by default. However, the element <a href=\"http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/\">can be styled</a> to be made visible and usable.",
+  "usage_perc_y":40.99,
   "usage_perc_a":3.38,
   "ucprefix":false,
   "parent":"forms",

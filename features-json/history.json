@@ -1,29 +1,29 @@
 {
   "title":"Session history management",
   "description":"Method of manipulating the user's browser's session history in JavaScript using history.pushState, history.replaceState and the popstate event",
-  "spec":"http:\/\/www.w3.org\/TR\/html5\/history.html",
+  "spec":"http://www.w3.org/TR/html5/history.html",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.adequatelygood.com\/2010\/7\/Saner-HTML5-History-Management",
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
       "title":"Introduction to history management"
     },
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/DOM\/Manipulating_the_browser_history",
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/html5demos.com\/history",
+      "url":"http://html5demos.com/history",
       "title":"Demo page"
     },
     {
-      "url":"https:\/\/github.com\/balupton\/history.js",
+      "url":"https://github.com/balupton/history.js",
       "title":"History.js polyfill "
     }
   ],
   "bugs":[
     {
-      "description":"history.pushState() is buggy in Android 2.2 and 2.3 in that it doesn't cause window.location to update with the new URL. This works in all other browsers that support pushState(). <a href=\"http:\/\/code.google.com\/p\/android\/issues\/detail?id=17471\">See Android bug report<\/a>."
+      "description":"history.pushState() is buggy in Android 2.2 and 2.3 in that it doesn't cause window.location to update with the new URL. This works in all other browsers that support pushState(). <a href=\"http://code.google.com/p/android/issues/detail?id=17471\">See Android bug report</a>."
     }
   ],
   "categories":[
@@ -140,8 +140,8 @@
     }
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
-  "usage_perc_y":55.23,
-  "usage_perc_a":4.29,
+  "usage_perc_y":57.57,
+  "usage_perc_a":4.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

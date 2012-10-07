@@ -1,23 +1,23 @@
 {
   "title":"Video element",
   "description":"Method of playing videos on webpages (without requiring a plug-in)",
-  "spec":"http:\/\/www.whatwg.org\/specs\/web-apps\/current-work\/multipage\/video.html#video",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html#video",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/dev.opera.com\/articles\/view\/everything-you-need-to-know-about-html5-video-and-audio\/",
-      "title":"Detailed article on video\/audio elements"
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     },
     {
-      "url":"http:\/\/webmproject.org",
+      "url":"http://webmproject.org",
       "title":"WebM format information"
     },
     {
-      "url":"http:\/\/camendesign.co.uk\/code\/video_for_everybody",
+      "url":"http://camendesign.co.uk/code/video_for_everybody",
       "title":"Video for Everybody"
     },
     {
-      "url":"http:\/\/diveinto.org\/html5\/video.html",
+      "url":"http://diveinto.org/html5/video.html",
       "title":"Video on the Web - includes info on Android support"
     }
   ],
@@ -137,8 +137,8 @@
       "0":"y"
     }
   },
-  "notes":"Different browsers have support for different video formats, see sub-features for details. \r\n\r\nThe Android browser (before 2.3) requires <a href=\"http:\/\/www.broken-links.com\/2010\/07\/08\/making-html5-video-work-on-android-phones\/\">specific handling<\/a> to run the video element.",
-  "usage_perc_y":76.96,
+  "notes":"Different browsers have support for different video formats, see sub-features for details. \r\n\r\nThe Android browser (before 2.3) requires <a href=\"http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/\">specific handling</a> to run the video element.",
+  "usage_perc_y":79.49,
   "usage_perc_a":0.6,
   "ucprefix":false,
   "parent":"",

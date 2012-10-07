@@ -1,15 +1,15 @@
 {
   "title":"input placeholder attribute",
   "description":"Method of setting placeholder text for text-like input fields, to suggest the expected inserted information.",
-  "spec":"http:\/\/dev.w3.org\/html5\/spec\/Overview.html#attr-input-placeholder",
+  "spec":"http://dev.w3.org/html5/spec/Overview.html#attr-input-placeholder",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.zachleat.com\/web\/placeholder\/",
+      "url":"http://www.zachleat.com/web/placeholder/",
       "title":"Article on usage"
     },
     {
-      "url":"https:\/\/github.com\/mathiasbynens\/jquery-placeholder",
+      "url":"https://github.com/mathiasbynens/jquery-placeholder",
       "title":"Polyfill"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"Partial support in older Safari and Opera versions refers to lacking placeholder support on textarea elements. ",
-  "usage_perc_y":60.49,
+  "usage_perc_y":63.02,
   "usage_perc_a":0.28,
   "ucprefix":false,
   "parent":"forms",

@@ -1,15 +1,15 @@
 {
   "title":"CSS text-stroke",
   "description":"Method of declaring the outline (stroke) width and color for text.",
-  "spec":"http:\/\/developer.apple.com\/library\/safari\/documentation\/appleapplications\/reference\/SafariCSSRef\/Articles\/StandardCSSProperties.html#\/\/apple_ref\/doc\/uid\/TP30001266-_webkit_text_stroke",
+  "spec":"http://developer.apple.com/library/safari/documentation/appleapplications/reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/doc/uid/TP30001266-_webkit_text_stroke",
   "status":"unoff",
   "links":[
     {
-      "url":"http:\/\/css-tricks.com\/7405-adding-stroke-to-web-text\/",
+      "url":"http://css-tricks.com/7405-adding-stroke-to-web-text/",
       "title":"Information & workarounds"
     },
     {
-      "url":"http:\/\/www.westciv.com\/tools\/textStroke\/",
+      "url":"http://www.westciv.com/tools/textStroke/",
       "title":"Live editor"
     }
   ],
@@ -130,8 +130,8 @@
     }
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
-  "usage_perc_y":40.62,
-  "usage_perc_a":0,
+  "usage_perc_y":43.14,
+  "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"textstroke,stroke-color,stroke-width,fill-color",

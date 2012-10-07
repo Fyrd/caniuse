@@ -1,15 +1,15 @@
 {
   "title":"IndexedDB",
   "description":"Method of storing data client-side, allows indexed database queries. Previously known as WebSimpleDB API.",
-  "spec":"http:\/\/www.w3.org\/TR\/IndexedDB\/",
+  "spec":"http://www.w3.org/TR/IndexedDB/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/hacks.mozilla.org\/2010\/06\/comparing-indexeddb-and-webdatabase\/",
+      "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
       "title":"Mozilla Hacks article"
     },
     {
-      "url":"https:\/\/github.com\/axemclion\/IndexedDBShim",
+      "url":"https://github.com/axemclion/IndexedDBShim",
       "title":"Polyfill for browsers supporting WebSQL"
     }
   ],

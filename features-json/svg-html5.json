@@ -1,15 +1,15 @@
 {
   "title":"Inline SVG in HTML5",
   "description":"Method of using SVG tags directly in HTML documents. Requires HTML5 parser.",
-  "spec":"http:\/\/dev.w3.org\/html5\/spec\/the-canvas-element.html#svg-0",
+  "spec":"http://dev.w3.org/html5/spec/the-canvas-element.html#svg-0",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/hacks.mozilla.org\/2010\/05\/firefox-4-the-html5-parser-inline-svg-speed-and-more\/",
+      "url":"http://hacks.mozilla.org/2010/05/firefox-4-the-html5-parser-inline-svg-speed-and-more/",
       "title":"Mozilla Hacks blog post"
     },
     {
-      "url":"http:\/\/samples.msdn.microsoft.com\/ietestcenter\/html5\/svghtml_harness.htm?url=SVG_HTML_Elements_001",
+      "url":"http://samples.msdn.microsoft.com/ietestcenter/html5/svghtml_harness.htm?url=SVG_HTML_Elements_001",
       "title":"Test suite"
     }
   ],
@@ -17,8 +17,8 @@
     
   ],
   "categories":[
-    "SVG",
-    "HTML5"
+    "HTML5",
+    "SVG"
   ],
   "stats":{
     "ie":{
@@ -131,7 +131,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":72.74,
+  "usage_perc_y":75.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

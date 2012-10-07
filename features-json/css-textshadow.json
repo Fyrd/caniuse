@@ -1,25 +1,25 @@
 {
   "title":"CSS3 Text-shadow",
   "description":"Method of applying one or more shadow or blur effects to text",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-text\/#text-shadow",
+  "spec":"http://www.w3.org/TR/css3-text/#text-shadow",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/hacks.mozilla.org\/2009\/06\/text-shadow\/",
+      "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
       "title":"Mozilla hacks article"
     },
     {
-      "url":"http:\/\/ie.microsoft.com\/testdrive\/Graphics\/hands-on-css3\/hands-on_text-shadow.htm",
+      "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
       "title":"Live editor"
     },
     {
-      "url":"http:\/\/www.css3files.com\/shadow\/#textshadow",
+      "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
     }
   ],
   "bugs":[
     {
-      "description":"According to http:\/\/code.google.com\/p\/android\/issues\/detail?id=7531, text-shadow doesn't work on Android (at least 2.3, from testing) when the blur-radius is 0."
+      "description":"According to http://code.google.com/p/android/issues/detail?id=7531, text-shadow doesn't work on Android (at least 2.3, from testing) when the blur-radius is 0."
     }
   ],
   "categories":[
@@ -136,7 +136,7 @@
     }
   },
   "notes":"Opera Mini ignores the blur-radius set, so no blur effect is visible. Text-shadow behavior can be somewhat emulated in older IE versions using the non-standard \"dropshadow\" or \"glow\" filters. ",
-  "usage_perc_y":61.63,
+  "usage_perc_y":64.15,
   "usage_perc_a":2.36,
   "ucprefix":false,
   "parent":"",

@@ -1,11 +1,11 @@
 {
   "title":"Blob URLs",
   "description":"Method of creating URL handles to the specified File or Blob object.",
-  "spec":"http:\/\/www.w3.org\/TR\/FileAPI\/#url",
+  "spec":"http://www.w3.org/TR/FileAPI/#url",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/DOM\/window.URL.createObjectURL",
+      "url":"https://developer.mozilla.org/en/DOM/window.URL.createObjectURL",
       "title":"MDN article"
     }
   ],
@@ -126,7 +126,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":52.24,
+  "usage_perc_y":53.66,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fileapi",

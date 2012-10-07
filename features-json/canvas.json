@@ -1,38 +1,38 @@
 {
   "title":"Canvas (basic support)",
   "description":"Method of generating fast, dynamic graphics using JavaScript",
-  "spec":"http:\/\/www.whatwg.org\/specs\/web-apps\/current-work\/multipage\/the-canvas-element.html#the-canvas-element",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html#the-canvas-element",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/Canvas_tutorial",
+      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
     },
     {
-      "url":"http:\/\/www.canvasdemos.com\/",
+      "url":"http://www.canvasdemos.com/",
       "title":"Showcase site"
     },
     {
-      "url":"http:\/\/glimr.rubyforge.org\/cake\/canvas.html",
+      "url":"http://glimr.rubyforge.org/cake/canvas.html",
       "title":"Animation kit "
     },
     {
-      "url":"http:\/\/www.diveinto.org\/html5\/canvas.html",
+      "url":"http://www.diveinto.org/html5/canvas.html",
       "title":"Another tutorial"
     },
     {
-      "url":"http:\/\/explorercanvas.googlecode.com\/",
+      "url":"http://explorercanvas.googlecode.com/",
       "title":"Implementation for Internet Explorer"
     }
   ],
   "bugs":[
     {
-      "description":"The Android browser does not support clipping on HTML5 canvas. See the bug filed here: http:\/\/code.google.com\/p\/android\/issues\/detail?id=21099"
+      "description":"The Android browser does not support clipping on HTML5 canvas. See the bug filed here: http://code.google.com/p/android/issues/detail?id=21099"
     }
   ],
   "categories":[
-    "Canvas",
-    "HTML5"
+    "HTML5",
+    "Canvas"
   ],
   "stats":{
     "ie":{
@@ -145,7 +145,7 @@
     }
   },
   "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications.",
-  "usage_perc_y":77.84,
+  "usage_perc_y":80.37,
   "usage_perc_a":2.21,
   "ucprefix":false,
   "parent":"",

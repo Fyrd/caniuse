@@ -1,15 +1,15 @@
 {
   "title":"CSS3 Multiple column layout",
   "description":"Method of flowing information in multiple columns",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-multicol\/",
+  "spec":"http://www.w3.org/TR/css3-multicol/",
   "status":"cr",
   "links":[
     {
-      "url":"http:\/\/dev.opera.com\/articles\/view\/css3-multi-column-layout\/",
+      "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
       "title":"Dev.Opera article"
     },
     {
-      "url":"http:\/\/webdesign.tutsplus.com\/tutorials\/htmlcss-tutorials\/an-introduction-to-the-css3-multiple-column-layout-module\/",
+      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
       "title":"Introduction page"
     }
   ],
@@ -133,7 +133,7 @@
   },
   "notes":"Partial support refers to not supporting the break-before, break-after, break-inside properties. Webkit browsers do have equivalent support for the non-standard -webkit-column-break-* properties.",
   "usage_perc_y":1.46,
-  "usage_perc_a":60.4,
+  "usage_perc_a":62.92,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count",

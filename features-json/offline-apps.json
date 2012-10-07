@@ -1,20 +1,20 @@
 {
   "title":"Offline web applications",
   "description":"Method of defining web page files to be cached using a cache manifest file, allowing them to work offline on subsequent visits to the page",
-  "spec":"http:\/\/www.whatwg.org\/specs\/web-apps\/current-work\/multipage\/offline.html",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.sitepoint.com\/offline-web-application-tutorial\/",
+      "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
       "title":"Sitepoint tutorial"
     },
     {
-      "url":"http:\/\/diveinto.org\/html5\/offline.html",
+      "url":"http://diveinto.org/html5/offline.html",
       "title":"Dive Into HTML5 article"
     },
     {
-      "url":"http:\/\/hacks.mozilla.org\/2010\/01\/offline-web-applications\/",
-      "title":"Mozilla Hacks article\/demo"
+      "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
+      "title":"Mozilla Hacks article/demo"
     }
   ],
   "bugs":[
@@ -136,7 +136,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":61.69,
+  "usage_perc_y":64.21,
   "usage_perc_a":0.16,
   "ucprefix":false,
   "parent":"",

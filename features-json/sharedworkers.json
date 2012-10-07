@@ -1,15 +1,15 @@
 {
   "title":"Shared Web Workers",
   "description":"Method of allowing multiple scripts to communicate with a single web worker.",
-  "spec":"http:\/\/www.w3.org\/TR\/workers\/#shared-workers-introduction",
+  "spec":"http://www.w3.org/TR/workers/#shared-workers-introduction",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.sitepoint.com\/javascript-shared-web-workers-html5\/",
+      "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
       "title":"Sitepoint article"
     },
     {
-      "url":"http:\/\/greenido.wordpress.com\/2011\/11\/03\/web-workers-part-3-out-of-3-shared-wrokers\/",
+      "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
       "title":"Blog post"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":38.25,
+  "usage_perc_y":40.59,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"webworkers",

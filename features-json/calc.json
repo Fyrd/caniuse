@@ -1,15 +1,15 @@
 {
   "title":"calc() as CSS unit value",
   "description":"Method of allowing calculated values for length units, i.e. width: calc(100% - 3em)",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-values\/#calc",
+  "spec":"http://www.w3.org/TR/css3-values/#calc",
   "status":"cr",
   "links":[
     {
-      "url":"http:\/\/hacks.mozilla.org\/2010\/06\/css3-calc\/",
+      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
       "title":"Mozilla Hacks article"
     },
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/CSS\/-moz-calc",
+      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
       "title":"MDN article"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax.",
-  "usage_perc_y":65.33,
+  "usage_perc_y":66.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

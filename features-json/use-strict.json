@@ -1,15 +1,15 @@
 {
   "title":"ECMAScript 5 Strict Mode",
   "description":"Method of placing code in a \"strict\" operating context.",
-  "spec":"http:\/\/www.ecma-international.org\/publications\/files\/ECMA-ST\/ECMA-262.pdf",
+  "spec":"http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf",
   "status":"other",
   "links":[
     {
-      "url":"http:\/\/ejohn.org\/blog\/ecmascript-5-strict-mode-json-and-more\/",
+      "url":"http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/",
       "title":"Information page"
     },
     {
-      "url":"http:\/\/javascriptweblog.wordpress.com\/2011\/05\/03\/javascript-strict-mode\/",
+      "url":"http://javascriptweblog.wordpress.com/2011/05/03/javascript-strict-mode/",
       "title":"Article with test suite"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"Partial support in Safari refers to strict mode still accepting a lot of JS that should be considered invalid.",
-  "usage_perc_y":52.9,
+  "usage_perc_y":55.24,
   "usage_perc_a":4.1,
   "ucprefix":false,
   "parent":"",

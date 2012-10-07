@@ -1,27 +1,27 @@
 {
   "title":"CSS3 Box-shadow",
   "description":"Method of displaying an inner or outer shadow effect to elements",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-background\/#box-shadow",
+  "spec":"http://www.w3.org/TR/css3-background/#box-shadow",
   "status":"cr",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/CSS\/-moz-box-shadow",
+      "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/westciv.com\/tools\/boxshadows\/index.html",
+      "url":"http://westciv.com/tools/boxshadows/index.html",
       "title":"Live editor"
     },
     {
-      "url":"http:\/\/tests.themasta.com\/blogstuff\/boxshadowdemo.html",
+      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
       "title":"Demo of various effects"
     },
     {
-      "url":"http:\/\/thany.nl\/apps\/boxshadows\/",
+      "url":"http://thany.nl/apps/boxshadows/",
       "title":"Visual browser comparison"
     },
     {
-      "url":"http:\/\/www.css3files.com\/shadow\/",
+      "url":"http://www.css3files.com/shadow/",
       "title":"Information page"
     }
   ],
@@ -147,8 +147,8 @@
     }
   },
   "notes":"Can be partially emulated in older IE versions using the non-standard \"shadow\" filter. Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\" and blur radius value support.",
-  "usage_perc_y":74.74,
-  "usage_perc_a":2.84,
+  "usage_perc_y":77.26,
+  "usage_perc_a":2.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"box-shadows,boxshadows,box shadow,shaow",

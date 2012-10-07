@@ -1,15 +1,15 @@
 {
   "title":"Ruby annotation",
   "description":"Method of adding pronunciation or other annotations using ruby elements (primarily used in East Asian typography)",
-  "spec":"http:\/\/www.w3.org\/TR\/html-markup\/ruby.html",
+  "spec":"http://www.w3.org/TR/html-markup/ruby.html",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/html5doctor.com\/ruby-rt-rp-element\/",
+      "url":"http://html5doctor.com/ruby-rt-rp-element/",
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"https:\/\/addons.mozilla.org\/en-US\/firefox\/addon\/1935\/",
+      "url":"https://addons.mozilla.org/en-US/firefox/addon/1935/",
       "title":"Add-on for support in Firefox"
     }
   ],
@@ -131,7 +131,7 @@
   },
   "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby",
   "usage_perc_y":0,
-  "usage_perc_a":66.51,
+  "usage_perc_a":68.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

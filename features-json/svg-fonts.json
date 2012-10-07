@@ -1,15 +1,15 @@
 {
   "title":"SVG fonts",
   "description":"Method of using fonts defined as SVG shapes",
-  "spec":"http:\/\/www.w3.org\/TR\/SVG\/fonts.html",
+  "spec":"http://www.w3.org/TR/SVG/fonts.html",
   "status":"rec",
   "links":[
     {
-      "url":"http:\/\/jeremie.patonnier.net\/post\/2011\/02\/07\/Why-are-SVG-Fonts-so-different",
+      "url":"http://jeremie.patonnier.net/post/2011/02/07/Why-are-SVG-Fonts-so-different",
       "title":"Blog post"
     },
     {
-      "url":"http:\/\/opentype.info\/blog\/2010\/04\/13\/the-ipad-and-svg-fonts-in-mobile-safari\/",
+      "url":"http://opentype.info/blog/2010/04/13/the-ipad-and-svg-fonts-in-mobile-safari/",
       "title":"Blog post on usage for iPad"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"Supported in Opera Mini in SVG images only, not in HTML.",
-  "usage_perc_y":39.64,
+  "usage_perc_y":42.16,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

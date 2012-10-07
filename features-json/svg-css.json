@@ -1,11 +1,11 @@
 {
   "title":"SVG in CSS backgrounds",
   "description":"Method of using SVG images as CSS backgrounds",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-background\/#background-image",
+  "spec":"http://www.w3.org/TR/css3-background/#background-image",
   "status":"cr",
   "links":[
     {
-      "url":"http:\/\/designfestival.com\/a-farewell-to-css3-gradients\/",
+      "url":"http://designfestival.com/a-farewell-to-css3-gradients/",
       "title":"Tutorial for advanced effects"
     }
   ],
@@ -14,12 +14,12 @@
       "description":"Does not work in Safari 4.x for the \"background-position\" property."
     },
     {
-      "description":"SVG-as-image is <a href=\"https:\/\/bugzilla.mozilla.org\/show_bug.cgi?id=600207\">fuzzy\/pixelated<\/a> when zoomed or printed in Firefox"
+      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in Firefox"
     }
   ],
   "categories":[
-    "SVG",
-    "CSS3"
+    "CSS3",
+    "SVG"
   ],
   "stats":{
     "ie":{
@@ -133,7 +133,7 @@
   },
   "notes":"Partial support in iOS Safari refers to buggy behavior.",
   "usage_perc_y":73.31,
-  "usage_perc_a":3.07,
+  "usage_perc_a":5.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"svg-in-css,svgincss,css-svg",

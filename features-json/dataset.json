@@ -1,19 +1,19 @@
 {
   "title":"dataset & data-* attributes",
   "description":"Method of applying and accessing custom data to elements.",
-  "spec":"http:\/\/www.w3.org\/TR\/html5\/elements.html#embedding-custom-non-visible-data-with-the-data-attributes",
+  "spec":"http://www.w3.org/TR/html5/elements.html#embedding-custom-non-visible-data-with-the-data-attributes",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/html5doctor.com\/html5-custom-data-attributes\/",
+      "url":"http://html5doctor.com/html5-custom-data-attributes/",
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"http:\/\/www.orangesoda.net\/jquery.dataset.html",
+      "url":"http://www.orangesoda.net/jquery.dataset.html",
       "title":"jQuery polyfill for dataset support"
     },
     {
-      "url":"http:\/\/html5demos.com\/dataset",
+      "url":"http://html5demos.com/dataset",
       "title":"Demo using dataset"
     }
   ],
@@ -134,8 +134,8 @@
     }
   },
   "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property.",
-  "usage_perc_y":56.47,
-  "usage_perc_a":36.62,
+  "usage_perc_y":58.81,
+  "usage_perc_a":36.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMStringMap",

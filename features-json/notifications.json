@@ -1,15 +1,15 @@
 {
   "title":"Web Notifications",
   "description":"Method of alerting the user outside of a web page by displaying notifications (that do not require interaction by the user).",
-  "spec":"http:\/\/www.w3.org\/TR\/notifications\/",
+  "spec":"http://www.w3.org/TR/notifications/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.html5rocks.com\/tutorials\/notifications\/quick\/",
+      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
     },
     {
-      "url":"http:\/\/www.chromium.org\/developers\/design-documents\/desktop-notifications\/api-specification",
+      "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
       "title":"Chromium API"
     }
   ],
@@ -129,7 +129,7 @@
       "0":"n"
     }
   },
-  "notes":"Partial support in Chrome refers to using an <a href=\"http:\/\/www.chromium.org\/developers\/design-documents\/desktop-notifications\/api-specification\">older version of the spec<\/a>. Partial support in Safari refers to support being limited to Safari in Mountain Lion.",
+  "notes":"Partial support in Chrome refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. Partial support in Safari refers to support being limited to Safari in Mountain Lion.",
   "usage_perc_y":0,
   "usage_perc_a":31.38,
   "ucprefix":false,

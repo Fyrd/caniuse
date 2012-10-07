@@ -1,25 +1,25 @@
 {
   "title":"CSS3 Box-sizing",
   "description":"Method of specifying whether or not an element's borders and padding should be included in size units",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-ui\/#box-sizing",
+  "spec":"http://www.w3.org/TR/css3-ui/#box-sizing",
   "status":"cr",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/CSS\/Box-sizing",
+      "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/www.456bereastreet.com\/archive\/201104\/controlling_width_with_css3_box-sizing\/",
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
       "title":"Blog post"
     },
     {
-      "url":"https:\/\/github.com\/Schepp\/box-sizing-polyfill",
+      "url":"https://github.com/Schepp/box-sizing-polyfill",
       "title":"Polyfill for IE"
     }
   ],
   "bugs":[
     {
-      "description":"Firefox (13 and older) don\u2019t handle the combination of `box-sizing` and `min-height`\/`max-height` properly. See this bug for more details: https:\/\/bugzilla.mozilla.org\/show_bug.cgi?id=308801"
+      "description":"Firefox (13 and older) don\u2019t handle the combination of `box-sizing` and `min-height`/`max-height` properly. See this bug for more details: https://bugzilla.mozilla.org/show_bug.cgi?id=308801"
     }
   ],
   "categories":[
@@ -136,7 +136,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":91.63,
+  "usage_perc_y":94.16,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

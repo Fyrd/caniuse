@@ -1,15 +1,15 @@
 {
   "title":"SVG in HTML img element",
   "description":"Method of displaying SVG images in HTML using &lt;img>",
-  "spec":"http:\/\/www.w3.org\/TR\/html5\/embedded-content-1.html#the-img-element",
+  "spec":"http://www.w3.org/TR/html5/embedded-content-1.html#the-img-element",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/blog.dholbert.org\/2010\/10\/svg-as-image.html",
+      "url":"http://blog.dholbert.org/2010/10/svg-as-image.html",
       "title":"Blog post with examples"
     },
     {
-      "url":"http:\/\/www.codedread.com\/blog\/",
+      "url":"http://www.codedread.com/blog/",
       "title":"Blog with SVGs an images"
     }
   ],
@@ -18,7 +18,7 @@
       "description":"IE9 doesn't support style=\"width:100px;\" for SVG images using &lt;img>"
     },
     {
-      "description":"SVG-as-image is <a href=\"https:\/\/bugzilla.mozilla.org\/show_bug.cgi?id=600207\">fuzzy\/pixelated<\/a> when zoomed or printed in Firefox"
+      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in Firefox"
     }
   ],
   "categories":[
@@ -135,7 +135,7 @@
     }
   },
   "notes":"Partial support in Safari 3.2 refers to buggy behavior with certain SVG images.",
-  "usage_perc_y":76.37,
+  "usage_perc_y":78.89,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

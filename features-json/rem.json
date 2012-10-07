@@ -1,11 +1,11 @@
 {
   "title":"rem (root em) units",
   "description":"Type of unit similar to \"em\", but relative only to the root element, not any parent element. Thus compounding does not occur as it does with \"em\" units.",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-values\/#relative0",
+  "spec":"http://www.w3.org/TR/css3-values/#relative0",
   "status":"cr",
   "links":[
     {
-      "url":"http:\/\/snook.ca\/archives\/html_and_css\/font-size-with-rem",
+      "url":"http://snook.ca/archives/html_and_css/font-size-with-rem",
       "title":"Article on usage"
     }
   ],
@@ -126,7 +126,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":77.02,
+  "usage_perc_y":79.55,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

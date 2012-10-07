@@ -1,19 +1,19 @@
 {
-  "title":"Web Storage - name\/value pairs",
+  "title":"Web Storage - name/value pairs",
   "description":"Method of storing data locally like cookies, but for larger amounts of data (sessionStorage and localStorage, used to fall under HTML5).",
-  "spec":"http:\/\/www.w3.org\/TR\/webstorage\/#storage",
+  "spec":"http://www.w3.org/TR/webstorage/#storage",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/DOM\/Storage",
+      "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
     },
     {
-      "url":"http:\/\/code.google.com\/p\/sessionstorage\/",
+      "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
     },
     {
-      "url":"http:\/\/html5demos.com\/storage",
+      "url":"http://html5demos.com/storage",
       "title":"Simple demo"
     }
   ],
@@ -134,7 +134,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":89.14,
+  "usage_perc_y":91.67,
   "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",

@@ -1,19 +1,19 @@
 {
   "title":"Web Workers",
   "description":"Method of running scripts in the background, isolated from the web page",
-  "spec":"http:\/\/www.whatwg.org\/specs\/web-workers\/current-work\/",
+  "spec":"http://www.whatwg.org/specs/web-workers/current-work/",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/Using_web_workers",
+      "url":"https://developer.mozilla.org/En/Using_web_workers",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/nerget.com\/rayjs-mt\/rayjs.html",
+      "url":"http://nerget.com/rayjs-mt/rayjs.html",
       "title":"Web Worker demo"
     },
     {
-      "url":"http:\/\/code.google.com\/p\/ie-web-worker\/",
+      "url":"http://code.google.com/p/ie-web-worker/",
       "title":"Polyfill for IE (single threaded)"
     }
   ],
@@ -134,7 +134,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":58.23,
+  "usage_perc_y":60.57,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

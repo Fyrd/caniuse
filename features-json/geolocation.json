@@ -1,7 +1,7 @@
 {
   "title":"Geolocation",
   "description":"Method of informing a website of the user's geographical location",
-  "spec":"http:\/\/www.w3.org\/TR\/geolocation-API\/",
+  "spec":"http://www.w3.org/TR/geolocation-API/",
   "status":"cr",
   "links":[
     {
@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"IE9 appears to <a href=\"http:\/\/social.technet.microsoft.com\/Forums\/en-IE\/ieitprocurrentver\/thread\/aea4db4e-0720-44fe-a9b8-09917e345080\">have some issues<\/a> in correctly determining longitude\/latitude."
+      "description":"IE9 appears to <a href=\"http://social.technet.microsoft.com/Forums/en-IE/ieitprocurrentver/thread/aea4db4e-0720-44fe-a9b8-09917e345080\">have some issues</a> in correctly determining longitude/latitude."
     }
   ],
   "categories":[
@@ -128,7 +128,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":77.33,
+  "usage_perc_y":79.85,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

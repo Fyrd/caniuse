@@ -1,15 +1,15 @@
 {
   "title":"CSS Hyphenation",
   "description":"Method of controlling when words at the end of lines should be hyphenated using the \"hyphens\" property.",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-text\/#hyphenation",
+  "spec":"http://www.w3.org/TR/css3-text/#hyphenation",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/CSS\/hyphens",
+      "url":"https://developer.mozilla.org/en/CSS/hyphens",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/blog.fontdeck.com\/post\/9037028497\/hyphens",
+      "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
       "title":"Blog post"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"Chrome and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property.",
-  "usage_perc_y":24.45,
+  "usage_perc_y":26.96,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

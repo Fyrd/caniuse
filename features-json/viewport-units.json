@@ -1,11 +1,11 @@
 {
   "title":"Viewport units: vw, vh, vmin",
   "description":"Length units representing 1% of the viewport size for viewport width (vw), height (vh) or the smallest of the two (vmin).",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-values\/#viewport-relative-lengths",
+  "spec":"http://www.w3.org/TR/css3-values/#viewport-relative-lengths",
   "status":"cr",
   "links":[
     {
-      "url":"http:\/\/css-tricks.com\/viewport-sized-typography\/",
+      "url":"http://css-tricks.com/viewport-sized-typography/",
       "title":"Blog post"
     }
   ],
@@ -126,7 +126,7 @@
     }
   },
   "notes":"Partial support in IE9 refers to not supporting the unit for font size, and supporting \"vm\" instead of \"vmin\".",
-  "usage_perc_y":30.53,
+  "usage_perc_y":31.95,
   "usage_perc_a":15.87,
   "ucprefix":false,
   "parent":"",

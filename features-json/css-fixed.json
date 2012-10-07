@@ -1,21 +1,21 @@
 {
   "title":"CSS position:fixed",
   "description":"Method of keeping an element in a fixed location regardless of scroll position",
-  "spec":"http:\/\/www.w3.org\/TR\/CSS21\/visuren.html#fixed-positioning",
+  "spec":"http://www.w3.org/TR/CSS21/visuren.html#fixed-positioning",
   "status":"rec",
   "links":[
     {
-      "url":"http:\/\/www.css-101.org\/fixed-positioning\/05.php",
+      "url":"http://www.css-101.org/fixed-positioning/05.php",
       "title":"Workaround for IE6"
     },
     {
-      "url":"http:\/\/bradfrostweb.com\/blog\/mobile\/fixed-position\/",
+      "url":"http://bradfrostweb.com/blog/mobile/fixed-position/",
       "title":"Article on mobile support"
     }
   ],
   "bugs":[
     {
-      "description":"Clicks will \"bleed\" though to underlying input elements on android &lt; 3. <a href=\"http:\/\/code.google.com\/p\/android\/issues\/detail?id=6721\">See bug<\/a>."
+      "description":"Clicks will \"bleed\" though to underlying input elements on android &lt; 3. <a href=\"http://code.google.com/p/android/issues/detail?id=6721\">See bug</a>."
     },
     {
       "description":"Looks buggy on Android Browser v3.1 on HTC Legend "
@@ -134,9 +134,9 @@
       "0":"y"
     }
   },
-  "notes":"Only works in Android 2.2+ by using the following meta tag: &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">. Partial support in iOS Safari refers to <a href=\"http:\/\/remysharp.com\/2012\/05\/24\/issues-with-position-fixed-scrolling-on-ios\/\">buggy behavior<\/a>.",
+  "notes":"Only works in Android 2.2+ by using the following meta tag: &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">. Partial support in iOS Safari refers to <a href=\"http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/\">buggy behavior</a>.",
   "usage_perc_y":85.02,
-  "usage_perc_a":5.18,
+  "usage_perc_a":7.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

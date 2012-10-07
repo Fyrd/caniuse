@@ -1,23 +1,23 @@
 {
   "title":"Cross-Origin Resource Sharing",
   "description":"Method of performing XMLHttpRequests across domains",
-  "spec":"http:\/\/www.w3.org\/TR\/cors\/",
+  "spec":"http://www.w3.org/TR/cors/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/hacks.mozilla.org\/2009\/07\/cross-site-xmlhttprequest-with-cors\/",
+      "url":"http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-with-cors/",
       "title":"Mozilla Hacks blog post"
     },
     {
-      "url":"http:\/\/msdn.microsoft.com\/en-us\/library\/cc288060(VS.85).aspx",
+      "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
       "title":"Alternative implementation by IE8"
     },
     {
-      "url":"http:\/\/saltybeagle.com\/2009\/09\/cross-origin-resource-sharing-demo\/",
+      "url":"http://saltybeagle.com/2009/09/cross-origin-resource-sharing-demo/",
       "title":"Demo and script with cross-browser support"
     },
     {
-      "url":"http:\/\/dev.opera.com\/articles\/view\/dom-access-control-using-cross-origin-resource-sharing\/",
+      "url":"http://dev.opera.com/articles/view/dom-access-control-using-cross-origin-resource-sharing/",
       "title":"DOM access using CORS"
     }
   ],
@@ -138,7 +138,7 @@
     }
   },
   "notes":"Supported somewhat in IE8 and IE9 using the XDomainRequest object",
-  "usage_perc_y":61.44,
+  "usage_perc_y":63.96,
   "usage_perc_a":27.45,
   "ucprefix":false,
   "parent":"",

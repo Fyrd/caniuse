@@ -1,19 +1,19 @@
 {
   "title":"Touch events",
   "description":"Method of registering when, where and how the interface is touched, for devices with a touch screen. These DOM events are similar to mousedown, mousemove, etc.",
-  "spec":"http:\/\/www.w3.org\/TR\/touch-events\/",
+  "spec":"http://www.w3.org/TR/touch-events/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.quirksmode.org\/mobile\/tableTouch.html",
+      "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
     {
-      "url":"http:\/\/schepers.cc\/getintouch",
+      "url":"http://schepers.cc/getintouch",
       "title":"Information on the spec development"
     },
     {
-      "url":"http:\/\/www.quirksmode.org\/m\/tests\/drag2.html",
+      "url":"http://www.quirksmode.org/m/tests/drag2.html",
       "title":"Multi-touch demo"
     }
   ],
@@ -22,12 +22,12 @@
       "description":"Beware, android 2.3 and below do not detect multiple touches."
     },
     {
-      "description":"Firefox 4 & 5 support a <a href=\"https:\/\/hacks.mozilla.org\/2010\/08\/firefox4-beta3\/\">non-standard<\/a> implementation to achieve the same."
+      "description":"Firefox 4 & 5 support a <a href=\"https://hacks.mozilla.org/2010/08/firefox4-beta3/\">non-standard</a> implementation to achieve the same."
     }
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -139,8 +139,8 @@
       "0":"y"
     }
   },
-  "notes":"Partial support in IE10 refers to using \"<a href=\"http:\/\/msdn.microsoft.com\/en-us\/ie\/hh272903.aspx#_DOMTouch\">Pointer events<\/a>\".",
-  "usage_perc_y":24.72,
+  "notes":"Partial support in IE10 refers to using \"<a href=\"http://msdn.microsoft.com/en-us/ie/hh272903.aspx#_DOMTouch\">Pointer events</a>\".",
+  "usage_perc_y":27.25,
   "usage_perc_a":0.47,
   "ucprefix":false,
   "parent":"",

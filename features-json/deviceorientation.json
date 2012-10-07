@@ -1,11 +1,11 @@
 {
   "title":"Device Orientation events",
   "description":"API for detecting orientation and motion events from the device running the browser.",
-  "spec":"http:\/\/www.w3.org\/TR\/orientation-event\/",
+  "spec":"http://www.w3.org/TR/orientation-event/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.html5rocks.com\/en\/tutorials\/device\/orientation\/",
+      "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
       "title":"HTML5 Rocks tutorial"
     }
   ],
@@ -125,8 +125,8 @@
       "0":"y"
     }
   },
-  "notes":"Firefox 3.6, 4 and 5 support the non-standard <a href=\\\"https:\/\/developer.mozilla.org\/en\/DOM\/MozOrientation\\\">MozOrientation<\/a> event. Firefox 6+ claims support, but does not appear to work where Chrome does (tested on macbook pro).",
-  "usage_perc_y":33.71,
+  "notes":"Firefox 3.6, 4 and 5 support the non-standard <a href=\\\"https://developer.mozilla.org/en/DOM/MozOrientation\\\">MozOrientation</a> event. Firefox 6+ claims support, but does not appear to work where Chrome does (tested on macbook pro).",
+  "usage_perc_y":36.22,
   "usage_perc_a":19.29,
   "ucprefix":false,
   "parent":"",

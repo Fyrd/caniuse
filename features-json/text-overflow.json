@@ -1,19 +1,19 @@
 {
   "title":"CSS3 Text-overflow",
   "description":"Append ellipsis when text overflows its containing element",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-ui\/#text-overflow0",
+  "spec":"http://www.w3.org/TR/css3-ui/#text-overflow0",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.css3files.com\/text\/",
+      "url":"http://www.css3files.com/text/",
       "title":"Information page"
     },
     {
-      "url":"https:\/\/developer.mozilla.org\/En\/CSS\/Text-overflow",
+      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/devongovett.wordpress.com\/2009\/04\/06\/text-overflow-ellipsis-for-firefox-via-jquery\/",
+      "url":"http://devongovett.wordpress.com/2009/04/06/text-overflow-ellipsis-for-firefox-via-jquery/",
       "title":"jQuery polyfill for Firefox"
     }
   ],
@@ -133,8 +133,8 @@
       "0":"y"
     }
   },
-  "notes":"Opera also supports the non-standard <a href=\"http:\/\/dev.opera.com\/static\/dstorey\/text\/text-overflow.html\">-o-ellipsis-lastline<\/a> value.",
-  "usage_perc_y":91.4,
+  "notes":"Opera also supports the non-standard <a href=\"http://dev.opera.com/static/dstorey/text/text-overflow.html\">-o-ellipsis-lastline</a> value.",
+  "usage_perc_y":93.93,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

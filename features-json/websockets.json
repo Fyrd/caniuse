@@ -1,19 +1,19 @@
 {
   "title":"Web Sockets",
   "description":"Bidirectional communication technology for web apps",
-  "spec":"http:\/\/www.w3.org\/TR\/websockets\/",
+  "spec":"http://www.w3.org/TR/websockets/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/websocket.org\/aboutwebsocket.html",
+      "url":"http://websocket.org/aboutwebsocket.html",
       "title":"WebSockets information"
     },
     {
-      "url":"http:\/\/updates.html5rocks.com\/2011\/08\/What-s-different-in-the-new-WebSocket-protocol",
+      "url":"http://updates.html5rocks.com/2011/08/What-s-different-in-the-new-WebSocket-protocol",
       "title":"Details on newer protocol"
     },
     {
-      "url":"http:\/\/en.wikipedia.org\/wiki\/WebSocket",
+      "url":"http://en.wikipedia.org/wiki/WebSocket",
       "title":"Wikipedia"
     }
   ],
@@ -133,9 +133,9 @@
       "0":"y"
     }
   },
-  "notes":"Partial support refers to the websockets implementation using an older version of the protocol and\/or the implementation being disabled by default (due to security issues with the older protocol). \r\nMicrosoft is currently <a href=\\\"http:\/\/html5labs.interoperabilitybridges.com\/html5labs\/prototypes\/websockets\/websockets\/info\/\\\">experimenting<\/a> with the technology.",
-  "usage_perc_y":50.54,
-  "usage_perc_a":6.63,
+  "notes":"Partial support refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol). \r\nMicrosoft is currently <a href=\\\"http://html5labs.interoperabilitybridges.com/html5labs/prototypes/websockets/websockets/info/\\\">experimenting</a> with the technology.",
+  "usage_perc_y":51.95,
+  "usage_perc_a":7.72,
   "ucprefix":true,
   "parent":"",
   "keywords":"",

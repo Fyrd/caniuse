@@ -1,19 +1,19 @@
 {
   "title":"Font feature settings",
   "description":"Method of applying advanced typographic and language-specific font features to supported OpenType fonts.",
-  "spec":"http:\/\/w3.org\/TR\/css3-fonts\/#font-rend-props",
+  "spec":"http://w3.org/TR/css3-fonts/#font-rend-props",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/ie.microsoft.com\/testdrive\/Graphics\/opentype\/",
-      "title":"Demo pages (IE\/Firefox only)"
+      "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
+      "title":"Demo pages (IE/Firefox only)"
     },
     {
-      "url":"http:\/\/hacks.mozilla.org\/2010\/11\/firefox-4-font-feature-support\/",
+      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
       "title":"Mozilla hacks article"
     },
     {
-      "url":"http:\/\/html5accessibility.com\/",
+      "url":"http://html5accessibility.com/",
       "title":"Detailed tables on accessability support"
     }
   ],
@@ -135,7 +135,7 @@
   },
   "notes":"Partial support in older Firefox versions refers to using an older syntax. Partial support in older Chrome versions refers to lacking support in Mac OS X. ",
   "usage_perc_y":39.02,
-  "usage_perc_a":15.59,
+  "usage_perc_a":18.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",

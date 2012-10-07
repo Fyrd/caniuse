@@ -1,19 +1,19 @@
 {
   "title":"CSS Filter Effects",
   "description":"Method of applying filter effects (like blur, grayscale, brightness, contrast and hue) to elements, previously only possible by using SVG.",
-  "spec":"https:\/\/dvcs.w3.org\/hg\/FXTF\/raw-file\/tip\/filters\/index.html",
+  "spec":"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html",
   "status":"unoff",
   "links":[
     {
-      "url":"http:\/\/html5-demos.appspot.com\/static\/css\/filters\/index.html",
+      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
       "title":"Demo file for WebKit browsers"
     },
     {
-      "url":"http:\/\/www.html5rocks.com\/en\/tutorials\/filters\/understanding-css\/",
+      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
       "title":"Mozilla hacks article"
     },
     {
-      "url":"http:\/\/dl.dropbox.com\/u\/3260327\/angular\/CSS3ImageManipulation.html",
+      "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
       "title":"Filter editor"
     }
   ],
@@ -21,8 +21,8 @@
     
   ],
   "categories":[
-    "CSS3",
-    "CSS"
+    "CSS",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -134,8 +134,8 @@
       "0":"n"
     }
   },
-  "notes":"Note that this property is significantly different from and incompatible with Microsoft's <a href=\"http:\/\/msdn.microsoft.com\/en-us\/library\/ie\/ms530752%28v=vs.85%29.aspx\">older \"filter\" property<\/a>.",
-  "usage_perc_y":31.09,
+  "notes":"Note that this property is significantly different from and incompatible with Microsoft's <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx\">older \"filter\" property</a>.",
+  "usage_perc_y":32.51,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

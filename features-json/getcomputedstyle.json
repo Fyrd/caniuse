@@ -1,19 +1,19 @@
 {
   "title":"getComputedStyle",
   "description":"API to get the current computed CSS styles applied to an element. This may be the current value applied by an animation or as set by a stylesheet.",
-  "spec":"http:\/\/www.w3.org\/TR\/DOM-Level-2-Style\/css.html#CSS-CSSview-getComputedStyle",
+  "spec":"http://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSview-getComputedStyle",
   "status":"rec",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/DOM\/window.getComputedStyle",
+      "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/ie.microsoft.com\/testdrive\/HTML5\/getComputedStyle\/",
+      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
       "title":"Demo"
     },
     {
-      "url":"http:\/\/snipplr.com\/view\/13523\/",
+      "url":"http://snipplr.com/view/13523/",
       "title":"Polyfill for IE"
     }
   ],
@@ -21,9 +21,9 @@
     
   ],
   "categories":[
-    "JS API",
     "CSS3",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -136,8 +136,8 @@
     }
   },
   "notes":"Partial support in older Firefox versions refers to requiring the second parameter to be included. Partial support in all other browsers refers to not supporting getComputedStyle on pseudo-elements.",
-  "usage_perc_y":73.07,
-  "usage_perc_a":6.94,
+  "usage_perc_y":75.41,
+  "usage_perc_a":7.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

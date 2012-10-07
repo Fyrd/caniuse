@@ -1,15 +1,15 @@
 {
   "title":"Number input type",
   "description":"Form field type for numbers.",
-  "spec":"http:\/\/www.w3.org\/TR\/html5\/number-state.html",
+  "spec":"http://www.w3.org/TR/html5/number-state.html",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.html5tutorial.info\/html5-number.php",
+      "url":"http://www.html5tutorial.info/html5-number.php",
       "title":"Tutorial"
     },
     {
-      "url":"https:\/\/github.com\/jonstipe\/number-polyfill",
+      "url":"https://github.com/jonstipe/number-polyfill",
       "title":"Polyfill"
     }
   ],
@@ -129,9 +129,9 @@
       "0":"n"
     }
   },
-  "notes":"iOS Safari, Android 4 and Chrome for Android show number input, but do not use \"step\", \"min\" or \"max\" attributes or show increment\/decrement buttons.",
+  "notes":"iOS Safari, Android 4 and Chrome for Android show number input, but do not use \"step\", \"min\" or \"max\" attributes or show increment/decrement buttons.",
   "usage_perc_y":35.44,
-  "usage_perc_a":3.67,
+  "usage_perc_a":6.2,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"spinner",

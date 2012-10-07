@@ -1,15 +1,15 @@
 {
   "title":"CSS Gradients",
   "description":"Method of defining a linear or radial color gradient as a CSS image.",
-  "spec":"http:\/\/www.w3.org\/TR\/css3-images\/",
+  "spec":"http://www.w3.org/TR/css3-images/",
   "status":"cr",
   "links":[
     {
-      "url":"http:\/\/www.colorzilla.com\/gradient-editor\/",
+      "url":"http://www.colorzilla.com/gradient-editor/",
       "title":"Cross-browser editor"
     },
     {
-      "url":"http:\/\/www.css3files.com\/gradient\/",
+      "url":"http://www.css3files.com/gradient/",
       "title":"Information page"
     }
   ],
@@ -130,8 +130,8 @@
     }
   },
   "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Support can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. Firefox 10+, Opera 11.6+ and IE10 also support the new \"to (side)\" syntax.",
-  "usage_perc_y":57.24,
-  "usage_perc_a":4.25,
+  "usage_perc_y":59.58,
+  "usage_perc_a":4.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

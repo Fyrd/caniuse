@@ -1,19 +1,19 @@
 {
   "title":"Cross-document messaging",
   "description":"Method of sending information from a page on one domain to a page on a different one (using postMessage)",
-  "spec":"http:\/\/www.whatwg.org\/specs\/web-apps\/current-work\/multipage\/comms.html#crossDocumentMessages",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/comms.html#crossDocumentMessages",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/72lions.com\/2011\/05\/cross-origin-communication-with-html5",
+      "url":"http://72lions.com/2011/05/cross-origin-communication-with-html5",
       "title":"Article and demo"
     },
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/DOM\/window.postMessage",
+      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
       "title":"MDN article"
     },
     {
-      "url":"http:\/\/html5demos.com\/postmessage2",
+      "url":"http://html5demos.com/postmessage2",
       "title":"Simple demo"
     }
   ],
@@ -133,8 +133,8 @@
       "0":"y"
     }
   },
-  "notes":"Partial support in IE refers to only working in frames\/iframes (not other tabs\/windows).",
-  "usage_perc_y":64.06,
+  "notes":"Partial support in IE refers to only working in frames/iframes (not other tabs/windows).",
+  "usage_perc_y":66.59,
   "usage_perc_a":27.51,
   "ucprefix":false,
   "parent":"",

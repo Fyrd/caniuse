@@ -1,15 +1,15 @@
 {
   "title":"HTML5 form features",
   "description":"Expanded form options, including things like date pickers, sliders, validation, placeholders and multiple file uploads. Previously known as \"Web forms 2.0\".",
-  "spec":"http:\/\/www.whatwg.org\/specs\/web-apps\/current-work\/multipage\/forms.html",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/forms.html",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.miketaylr.com\/code\/input-type-attr.html",
+      "url":"http://www.miketaylr.com/code/input-type-attr.html",
       "title":"HTML5 inputs and attribute support page"
     },
     {
-      "url":"https:\/\/github.com\/westonruter\/webforms2",
+      "url":"https://github.com/westonruter/webforms2",
       "title":"Cross-browser JS implementation (based on original spec)"
     }
   ],
@@ -135,8 +135,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":4.14,
-  "usage_perc_a":53.2,
+  "usage_perc_y":6.48,
+  "usage_perc_a":53.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"input,datepicker",

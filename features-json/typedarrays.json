@@ -1,11 +1,11 @@
 {
   "title":"Typed Arrays",
   "description":"JavaScript typed arrays provide a mechanism for accessing raw binary data much more efficiently.\r\n",
-  "spec":"http:\/\/www.khronos.org\/registry\/typedarray\/specs\/latest\/",
+  "spec":"http://www.khronos.org/registry/typedarray/specs/latest/",
   "status":"other",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/javascript_typed_arrays",
+      "url":"https://developer.mozilla.org/en/javascript_typed_arrays",
       "title":"MDN article"
     }
   ],
@@ -14,7 +14,7 @@
       "description":"Firefox 14 and under do not have DataView yet."
     },
     {
-      "description":"while Safari does support Typed Arrays, they are actually much, much slower than normal arrays.  Reported here in this bug: https:\/\/bugs.webkit.org\/show_bug.cgi?id=70687"
+      "description":"while Safari does support Typed Arrays, they are actually much, much slower than normal arrays.  Reported here in this bug: https://bugs.webkit.org/show_bug.cgi?id=70687"
     }
   ],
   "categories":[
@@ -131,7 +131,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":56.86,
+  "usage_perc_y":59.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

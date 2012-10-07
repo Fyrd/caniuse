@@ -1,19 +1,19 @@
 {
   "title":"XMLHttpRequest 2",
   "description":"Adds more functionality to AJAX requests like file uploads, transfer progress information and the ability to send form data.",
-  "spec":"http:\/\/www.w3.org\/TR\/XMLHttpRequest2\/",
+  "spec":"http://www.w3.org/TR/XMLHttpRequest2/",
   "status":"wd",
   "links":[
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/XMLHttpRequest\/FormData",
+      "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
       "title":"MDN article on FormData"
     },
     {
-      "url":"http:\/\/www.profilepicture.co.uk\/tutorials\/ajax-file-upload-xmlhttprequest-level-2\/",
+      "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
       "title":"Article with file upload demo"
     },
     {
-      "url":"https:\/\/github.com\/3nr1c\/jUri.js",
+      "url":"https://github.com/3nr1c/jUri.js",
       "title":"Polyfill for FormData object"
     }
   ],
@@ -23,8 +23,8 @@
     }
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -137,7 +137,7 @@
     }
   },
   "notes":"Firefox 3.5 and 3.6 partial support refers to only including support for the progress event.",
-  "usage_perc_y":57.45,
+  "usage_perc_y":59.79,
   "usage_perc_a":0.91,
   "ucprefix":false,
   "parent":"",

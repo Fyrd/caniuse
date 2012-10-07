@@ -1,27 +1,27 @@
 {
   "title":"MathML",
   "description":"An XML language that allows mathematical formulas and notations to be written on web pages.",
-  "spec":"http:\/\/www.w3.org\/TR\/REC-MathML\/",
+  "spec":"http://www.w3.org/TR/REC-MathML/",
   "status":"rec",
   "links":[
     {
-      "url":"http:\/\/en.wikipedia.org\/wiki\/MathML",
+      "url":"http://en.wikipedia.org/wiki/MathML",
       "title":"Wikipedia"
     },
     {
-      "url":"http:\/\/www.mozilla.org\/projects\/mathml\/demo\/",
+      "url":"http://www.mozilla.org/projects/mathml/demo/",
       "title":"MathML demos"
     },
     {
-      "url":"http:\/\/golem.ph.utexas.edu\/~distler\/blog\/archives\/001588.html",
+      "url":"http://golem.ph.utexas.edu/~distler/blog/archives/001588.html",
       "title":"Info on Opera's MathML support"
     },
     {
-      "url":"http:\/\/www.mathjax.org",
+      "url":"http://www.mathjax.org",
       "title":"Cross-browser support script"
     },
     {
-      "url":"https:\/\/developer.mozilla.org\/en\/MathML\/Element",
+      "url":"https://developer.mozilla.org/en/MathML/Element",
       "title":"MDN element reference"
     }
   ],
@@ -142,7 +142,7 @@
     }
   },
   "notes":"Opera's support is limited to a CSS profile of MathML. Expected to be supported in an upcoming version of Chrome, as support is available in Webkit builds.",
-  "usage_perc_y":25.71,
+  "usage_perc_y":28.05,
   "usage_perc_a":1.41,
   "ucprefix":false,
   "parent":"",

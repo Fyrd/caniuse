@@ -1,15 +1,15 @@
 {
   "title":"CSS inline-block",
   "description":"Method of displaying an element as a block while flowing it with text. ",
-  "spec":"http:\/\/www.w3.org\/TR\/CSS21\/visuren.html#fixed-positioning",
+  "spec":"http://www.w3.org/TR/CSS21/visuren.html#fixed-positioning",
   "status":"rec",
   "links":[
     {
-      "url":"http:\/\/robertnyman.com\/2010\/02\/24\/css-display-inline-block-why-it-rocks-and-why-it-sucks\/",
-      "title":"Blog post w\/info"
+      "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
+      "title":"Blog post w/info"
     },
     {
-      "url":"http:\/\/blog.mozilla.com\/webdev\/2009\/02\/20\/cross-browser-inline-block\/",
+      "url":"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/",
       "title":"Info on cross browser support"
     }
   ],
@@ -129,8 +129,8 @@
       "0":"y"
     }
   },
-  "notes":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. <a href=\"http:\/\/blog.mozilla.com\/webdev\/2009\/02\/20\/cross-browser-inline-block\/\">Alternative properties<\/a> are available to provide complete cross-browser support.",
-  "usage_perc_y":91.59,
+  "notes":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. <a href=\"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/\">Alternative properties</a> are available to provide complete cross-browser support.",
+  "usage_perc_y":94.11,
   "usage_perc_a":1.5,
   "ucprefix":false,
   "parent":"",

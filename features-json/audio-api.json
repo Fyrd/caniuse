@@ -1,19 +1,15 @@
 {
-  "title":"Audio API",
+  "title":"Web Audio API",
   "description":"High-level JavaScript API for processing and synthesizing audio",
-  "spec":"http:\/\/www.w3.org\/TR\/audioproc\/",
+  "spec":"http://www.w3.org/TR/audioproc/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/www.w3.org\/TR\/streamproc\/",
-      "title":"MediaStream Processing API"
-    },
-    {
-      "url":"http:\/\/www.w3.org\/TR\/webaudio\/",
+      "url":"http://www.w3.org/TR/webaudio/",
       "title":"Web Audio API by Google"
     },
     {
-      "url":"https:\/\/github.com\/corbanbrook\/audionode.js",
+      "url":"https://github.com/corbanbrook/audionode.js",
       "title":"Polyfill to support Web Audio API in Firefox"
     }
   ],
@@ -37,20 +33,20 @@
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"a x",
-      "5":"a x",
-      "6":"a x",
-      "7":"a x",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"a x",
-      "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x"
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"u"
     },
     "chrome":{
       "4":"n",
@@ -130,14 +126,14 @@
       "0":"a x"
     },
     "and_ff":{
-      "0":"a x"
+      "0":"n"
     }
   },
-  "notes":"Current support in Gecko\/WebKit is based on two different proposals.",
+  "notes":"Currently Firefox supports an alternative, deprecated audio API, with support for the Web Audio API <a href=\"https://wiki.mozilla.org/Web_Audio_API\">being planned</a>.",
   "usage_perc_y":0,
-  "usage_perc_a":51.3,
+  "usage_perc_a":34.12,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"web-audio",
   "shown":true
 }

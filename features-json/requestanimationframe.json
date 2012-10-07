@@ -1,15 +1,15 @@
 {
   "title":"requestAnimationFrame",
   "description":"API allowing a more efficient way of running script-based animation, compared to traditional methods using timeouts.",
-  "spec":"http:\/\/www.w3.org\/TR\/animation-timing\/#requestAnimationFrame",
+  "spec":"http://www.w3.org/TR/animation-timing/#requestAnimationFrame",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/paulirish.com\/2011\/requestanimationframe-for-smart-animating\/",
+      "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
       "title":"Blog post"
     },
     {
-      "url":"http:\/\/hacks.mozilla.org\/2011\/08\/animating-with-javascript-from-setinterval-to-requestanimationframe\/",
+      "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
       "title":"Mozilla Hacks article"
     }
   ],
@@ -130,7 +130,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":51.36,
+  "usage_perc_y":52.78,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

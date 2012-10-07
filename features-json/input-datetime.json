@@ -1,15 +1,15 @@
 {
-  "title":"Date\/time input types",
-  "description":"Form field widget to easily allow users to enter dates and\/or times, generally by using a calendar widget.",
-  "spec":"http:\/\/www.w3.org\/TR\/html5\/states-of-the-type-attribute.html#date-and-time-state",
+  "title":"Date/time input types",
+  "description":"Form field widget to easily allow users to enter dates and/or times, generally by using a calendar widget.",
+  "spec":"http://www.w3.org/TR/html5/states-of-the-type-attribute.html#date-and-time-state",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/net.tutsplus.com\/tutorials\/javascript-ajax\/quick-tip-cross-browser-datepickers-within-minutes\/",
-      "title":"Datepicker tutorial w\/polyfill"
+      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
+      "title":"Datepicker tutorial w/polyfill"
     },
     {
-      "url":"https:\/\/github.com\/zoltan-dulac\/html5Forms.js",
+      "url":"https://github.com/zoltan-dulac/html5Forms.js",
       "title":"Polyfill for HTML5 forms"
     }
   ],
@@ -129,8 +129,8 @@
       "0":"n"
     }
   },
-  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date\/type fields.",
-  "usage_perc_y":4.23,
+  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date/type fields.",
+  "usage_perc_y":6.57,
   "usage_perc_a":27.51,
   "ucprefix":false,
   "parent":"forms",
