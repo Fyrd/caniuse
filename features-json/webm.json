@@ -50,7 +50,8 @@
       "14":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "chrome":{
       "4":"n",
@@ -116,7 +117,7 @@
       "4.1":"y"
     },
     "bb":{
-      "7":"y",
+      "7":"n",
       "10":"n"
     },
     "op_mob":{
@@ -124,7 +125,8 @@
       "11":"y",
       "11.1":"y",
       "11.5":"y",
-      "12":"y"
+      "12":"y",
+      "12.1":"y"
     },
     "and_chr":{
       "0":"y"
@@ -134,7 +136,7 @@
     }
   },
   "notes":"Will work in IE9 and Safari provided the user has the WebM codecs installed.",
-  "usage_perc_y":52.92,
+  "usage_perc_y":52.79,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",

@@ -1,11 +1,11 @@
 {
   "title":"Content Security Policy",
   "description":"Mitigate cross-site scripting attacks by whitelisting allowed sources of script, style, and other resources.",
-  "spec":"http:\/\/www.w3.org\/TR\/CSP\/",
+  "spec":"http://www.w3.org/TR/CSP/",
   "status":"wd",
   "links":[
     {
-      "url":"http:\/\/html5rocks.com\/en\/tutorials\/security\/content-security-policy\/",
+      "url":"http://html5rocks.com/en/tutorials/security/content-security-policy/",
       "title":"HTML5Rocks article"
     }
   ],
@@ -42,7 +42,8 @@
       "14":"y x",
       "15":"y x",
       "16":"y x",
-      "17":"y x"
+      "17":"y x",
+      "18":"y x"
     },
     "chrome":{
       "4":"n",
@@ -116,7 +117,8 @@
       "11":"n",
       "11.1":"n",
       "11.5":"n",
-      "12":"n"
+      "12":"n",
+      "12.1":"n"
     },
     "and_chr":{
       "0":"y x"
@@ -126,10 +128,10 @@
     }
   },
   "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10, and 'X-WebKit-CSP' for Safari and Chrome. IE 10's support is limited to the 'sandbox' directive.",
-  "usage_perc_y":51.36,
-  "usage_perc_a":0,
+  "usage_perc_y":53.06,
+  "usage_perc_a":0.06,
   "ucprefix":false,
   "parent":"",
-  "keywords":"csp, security, header",
+  "keywords":"csp,security,header",
   "shown":true
 }
