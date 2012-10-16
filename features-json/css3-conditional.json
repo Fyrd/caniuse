@@ -1,8 +1,8 @@
 {
   "title":"CSS Conditional Rules",
   "description":"CSS Conditional Rules allows authors to condition rules based on whether particular property declarations are supported in CSS.",
-  "spec":"http://dev.w3.org/csswg/css3-conditional/",
-  "status":"unoff",
+  "spec":"http://www.w3.org/TR/css3-conditional/#at-supports",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "CSS3"
@@ -50,8 +50,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"y",
-      "18":"y"
+      "17":"n",
+      "18":"n"
     },
     "chrome":{
       "4":"n",
@@ -135,8 +135,8 @@
       "0":"n"
     }
   },
-  "notes":"Firefox: @supports at-rule is only supported if the user enables it by setting the config value layout.css.supports-rule.enable to true.",
-  "usage_perc_y":0,
+  "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true.",
+  "usage_perc_y":0.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
