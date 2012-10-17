@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Safari on iOS (including 5) can not apply box-shadow to input elements."
+      "description":"Safari on iOS (including 6) can not apply box-shadow to input elements."
     },
     {
       "description":"ie9 box-shadow has incorrect (smaller) radius, that can be easily checked, even 2px 2px 8px has left and top shadows invisible (should be visible like in FF ans WebKit).\r\n\r\nFirefox (up to current 14.0) has incorrect (bigger) radius. Can be checked with 4px 4px 4px, it has left and top shadows visible in FF (should be invisible, like in WebKit).\r\n\r\nOverall, the browsers render shadows quite differently, and the support is buggy."
