@@ -1,28 +1,16 @@
 {
-  "title":"CSS Filter Effects",
-  "description":"Method of applying filter effects (like blur, grayscale, brightness, contrast and hue) to elements, previously only possible by using SVG.",
-  "spec":"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html",
-  "status":"unoff",
+  "title":"CSS Feature Queries",
+  "description":"CSS Conditional Rules allows authors to condition rules based on whether particular property declarations are supported in CSS.",
+  "spec":"http://www.w3.org/TR/css3-conditional/#at-supports",
+  "status":"wd",
   "links":[
-    {
-      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
-      "title":"Demo file for WebKit browsers"
-    },
-    {
-      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
-      "title":"Mozilla hacks article"
-    },
-    {
-      "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
-      "title":"Filter editor"
-    }
+    
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS",
-    "CSS3"
+    null
   ],
   "stats":{
     "ie":{
@@ -31,7 +19,7 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"u"
+      "10":"n"
     },
     "firefox":{
       "2":"n",
@@ -51,8 +39,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"u",
-      "18":"u"
+      "17":"n",
+      "18":"n"
     },
     "chrome":{
       "4":"n",
@@ -69,13 +57,13 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"y x",
-      "19":"y x",
-      "20":"y x",
-      "21":"y x",
-      "22":"y x",
-      "23":"y x",
-      "24":"y x"
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n"
     },
     "safari":{
       "3.1":"n",
@@ -83,7 +71,7 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"y x"
+      "6":"n"
     },
     "opera":{
       "9":"n",
@@ -96,15 +84,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "12.5":"n"
+      "12.1":"y",
+      "12.5":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6":"y x"
+      "6":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -119,7 +107,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"y x"
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -136,11 +124,11 @@
       "0":"n"
     }
   },
-  "notes":"Note that this property is significantly different from and incompatible with Microsoft's <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx\">older \"filter\" property</a>.",
-  "usage_perc_y":32.51,
+  "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true.",
+  "usage_perc_y":0.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"sepia,hue-rotate,invert,saturate",
-  "shown":true
+  "keywords":"supports,conditional",
+  "shown":false
 }
