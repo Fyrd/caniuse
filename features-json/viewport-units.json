@@ -42,8 +42,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"u",
-      "18":"u"
+      "17":"n",
+      "18":"n"
     },
     "chrome":{
       "4":"n",
@@ -127,7 +127,7 @@
       "0":"n"
     }
   },
-  "notes":"Partial support in IE9 refers to not supporting the unit for font size, and supporting \"vm\" instead of \"vmin\".",
+  "notes":"Expected to be supported in Firefox 19. Partial support in IE9 refers to not supporting the unit for font size, and supporting \"vm\" instead of \"vmin\".",
   "usage_perc_y":31.95,
   "usage_perc_a":15.87,
   "ucprefix":false,
