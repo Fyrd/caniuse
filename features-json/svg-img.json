@@ -16,9 +16,6 @@
   "bugs":[
     {
       "description":"IE9 doesn't support style=\"width:100px;\" for SVG images using &lt;img>"
-    },
-    {
-      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in Firefox"
     }
   ],
   "categories":[
