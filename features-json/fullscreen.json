@@ -1,20 +1,20 @@
 {
   "title":"Full Screen API",
   "description":"API for allowing content (like a video or canvas element) to take up the entire screen.",
-  "spec":"http://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html",
-  "status":"unoff",
+  "spec":"http://www.w3.org/TR/fullscreen/",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
       "title":"MDN article"
     },
     {
-      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
       "title":"Blog post"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -30,7 +30,7 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"u"
+      "10":"n"
     },
     "firefox":{
       "2":"n",

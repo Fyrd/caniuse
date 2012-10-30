@@ -11,9 +11,6 @@
   ],
   "bugs":[
     {
-      "description":"Does not work in Safari 4.x for the \"background-position\" property."
-    },
-    {
       "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in Firefox"
     }
   ],
@@ -99,9 +96,9 @@
     "ios_saf":{
       "3.2":"a",
       "4.0-4.1":"a",
-      "4.2-4.3":"a",
-      "5.0-5.1":"a",
-      "6":"a"
+      "4.2-4.3":"y",
+      "5.0-5.1":"y",
+      "6":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"
@@ -133,9 +130,9 @@
       "0":"y"
     }
   },
-  "notes":"Partial support in iOS Safari refers to buggy behavior.",
-  "usage_perc_y":73.31,
-  "usage_perc_a":5.59,
+  "notes":"Partial support in iOS Safari and older Safari versions refers to failing to support tiling or the background-position property.",
+  "usage_perc_y":78.64,
+  "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"svg-in-css,svgincss,css-svg",

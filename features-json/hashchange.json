@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
-      "title":"MDN article"
-    },
-    {
       "url":"http://github.com/3nr1c/jUri.js",
       "title":"Polyfill"
     },
@@ -19,14 +15,18 @@
     {
       "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
       "title":"Simple demo"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
+      "title":"MDN article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "HTML5"
+    "HTML5",
+    "JS API"
   ],
   "stats":{
     "ie":{
