@@ -1,20 +1,20 @@
 {
   "title":"CSS Feature Queries",
-  "description":"CSS Feature Queries allow authors to condition rules based on whether particular property declarations are supported in CSS.",
+  "description":"CSS Feature Queries allow authors to condition rules based on whether particular property declarations are supported in CSS using the @supports at rule.",
   "spec":"http://www.w3.org/TR/css3-conditional/#at-supports",
   "status":"wd",
   "links":[
     {
-      "url":"http://mcc.id.au/blog/2012/08/supports",
-      "title":"@supports in Firefox"
+      "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
+      "title":"MDN Article"
     },
     {
       "url":"http://dabblet.com/gist/3895764",
       "title":"Test case"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
-      "title":"MDN Article"
+      "url":"http://mcc.id.au/blog/2012/08/supports",
+      "title":"@supports in Firefox"
     }
   ],
   "bugs":[
@@ -135,11 +135,11 @@
       "0":"n"
     }
   },
-  "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true.",
+  "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true. Also added to WebKit and expected to be in an upcoming version of Chrome.",
   "usage_perc_y":0.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"supports,conditional",
-  "shown":false
+  "shown":true
 }
