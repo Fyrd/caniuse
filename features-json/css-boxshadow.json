@@ -17,12 +17,12 @@
       "title":"Visual browser comparison"
     },
     {
-      "url":"http://www.css3files.com/shadow/",
-      "title":"Information page"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
       "title":"MDN article"
+    },
+    {
+      "url":"http://www.css3files.com/shadow/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -146,7 +146,7 @@
     }
   },
   "notes":"Can be partially emulated in older IE versions using the non-standard \"shadow\" filter. Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\" and blur radius value support.",
-  "usage_perc_y":77.26,
+  "usage_perc_y":77.84,
   "usage_perc_a":2.85,
   "ucprefix":false,
   "parent":"",

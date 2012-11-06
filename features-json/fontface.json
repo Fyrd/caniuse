@@ -9,16 +9,16 @@
       "title":"News and information site"
     },
     {
+      "url":"http://opentype.info/blog/category/webfonts/",
+      "title":"Blog on web fonts & typography"
+    },
+    {
       "url":"http://www.css3files.com/font/",
       "title":"Information page"
     },
     {
       "url":"http://en.wikipedia.org/wiki/Web_typography",
       "title":"Wikipedia"
-    },
-    {
-      "url":"http://opentype.info/blog/category/webfonts/",
-      "title":"Blog on web fonts & typography"
     }
   ],
   "bugs":[
@@ -142,8 +142,8 @@
     }
   },
   "notes":"Partial support before IE9 refers to only supporting EOT fonts. Safari for iOS 4.1 and below only supports SVG fonts.",
-  "usage_perc_y":77.36,
-  "usage_perc_a":15.69,
+  "usage_perc_y":77.91,
+  "usage_perc_a":15.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face",

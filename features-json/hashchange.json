@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
-      "title":"Simple demo"
-    },
-    {
-      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
-      "title":"MSDN article"
-    },
-    {
       "url":"http://github.com/3nr1c/jUri.js",
       "title":"Polyfill"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
       "title":"MDN article"
+    },
+    {
+      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
+      "title":"Simple demo"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
+      "title":"MSDN article"
     }
   ],
   "bugs":[
@@ -141,7 +141,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":91.15,
+  "usage_perc_y":91.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

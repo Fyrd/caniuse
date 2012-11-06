@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome does not support viewport units for border widths."
+    }
   ],
   "categories":[
     "CSS3"
@@ -128,8 +130,8 @@
     }
   },
   "notes":"Expected to be supported in Firefox 19. Partial support in IE9 refers to not supporting the unit for font size, and supporting \"vm\" instead of \"vmin\".",
-  "usage_perc_y":31.95,
-  "usage_perc_a":15.87,
+  "usage_perc_y":33.14,
+  "usage_perc_a":15.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage",

@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/ie/hh272902#_CSSConnected",
-      "title":"IE10 developer guide info"
-    },
-    {
       "url":"http://html.adobe.com/webstandards/cssregions/",
       "title":"Adobe prototype build & samples"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/ie/hh272902#_CSSConnected",
+      "title":"IE10 developer guide info"
     }
   ],
   "bugs":[
@@ -133,7 +133,7 @@
   },
   "notes":"Currently supported in WebKit using -webkit-flow: \"flow_name\"; and content: -webkit-from-flow(\"flow_name\"); Support in Chrome 19+ is disabled by default and can be enabled using command line flag <a href=\"http://peter.sh/experiments/chromium-command-line-switches/#enable-css-regions\">--enable-css-regions</a>.  Supported in IE10 using an iframe with -ms-flow-into: flow_name; and -ms-flow-from: flow_name;",
   "usage_perc_y":0,
-  "usage_perc_a":1.22,
+  "usage_perc_a":1.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

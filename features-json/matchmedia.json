@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
-      "title":"MDN article"
-    },
-    {
       "url":"https://github.com/paulirish/matchMedia.js/",
       "title":"matchMedia.js polyfill"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
+      "title":"MDN article"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
@@ -137,7 +137,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":57.23,
+  "usage_perc_y":58.2,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

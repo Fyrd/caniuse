@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
-      "title":"SPDY whitepaper"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/SPDY",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
+      "title":"SPDY whitepaper"
     }
   ],
   "bugs":[
@@ -132,8 +132,8 @@
     }
   },
   "notes":"Partial support in Firefox refers to being disabled by default.",
-  "usage_perc_y":46.52,
-  "usage_perc_a":1.27,
+  "usage_perc_y":47.45,
+  "usage_perc_a":1.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -1,18 +1,27 @@
 {
-  "title":"CSS Grid Layout",
-  "description":"Method of using a grid concept to lay out content, providing a mechanism for authors to divide available space for lay out into columns and rows using a set of predictable sizing behaviors",
-  "spec":"http://www.w3.org/TR/css3-grid-layout/",
+  "title":"Scoped CSS",
+  "description":"Allows CSS rules to be scoped to part of the document, based on the position of the style element.",
+  "spec":"http://dev.w3.org/html5/spec-preview/the-style-element.html#attr-style-scoped",
   "status":"wd",
   "links":[
     {
-      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
-      "title":"IE Blog post"
+      "url":"http://html5doctor.com/the-scoped-attribute/",
+      "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"https://github.com/PM5544/scoped-polyfill",
+      "title":"Polyfill"
+    },
+    {
+      "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
+      "title":"HTML5Rocks article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
+    "HTML5",
     "CSS"
   ],
   "stats":{
@@ -22,7 +31,7 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y x"
+      "10":"n"
     },
     "firefox":{
       "2":"n",
@@ -87,8 +96,8 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "12.5":"n"
+      "12.1":"u",
+      "12.5":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -110,7 +119,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"n"
+      "10":"u"
     },
     "op_mob":{
       "10":"n",
@@ -118,7 +127,7 @@
       "11.1":"n",
       "11.5":"n",
       "12":"n",
-      "12.1":"n"
+      "12.1":"u"
     },
     "and_chr":{
       "0":"n"
@@ -127,11 +136,11 @@
       "0":"n"
     }
   },
-  "notes":"",
-  "usage_perc_y":0.07,
+  "notes":"Supported in Chrome 20+ by enabling the \"&lt;style scoped>\" flag in chrome://flags.",
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"grids,grid-row,grid-column",
-  "shown":true
+  "keywords":"scope",
+  "shown":false
 }
