@@ -9,20 +9,20 @@
       "title":"Wikipedia"
     },
     {
-      "url":"http://animatedpng.com/",
-      "title":"An APNG editor"
-    },
-    {
-      "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
-      "title":"APNG tutorial"
+      "url":"https://github.com/davidmz/apng-canvas",
+      "title":"Polyfill using canvas"
     },
     {
       "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
       "title":"Chrome extension providing support"
     },
     {
-      "url":"https://github.com/davidmz/apng-canvas",
-      "title":"Polyfill using canvas"
+      "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
+      "title":"APNG tutorial"
+    },
+    {
+      "url":"http://animatedpng.com/",
+      "title":"An APNG editor"
     }
   ],
   "bugs":[
@@ -81,8 +81,9 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"u",
-      "24":"u"
+      "23":"n",
+      "24":"u",
+      "25":"u"
     },
     "safari":{
       "3.1":"n",

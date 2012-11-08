@@ -5,6 +5,14 @@
   "status":"other",
   "links":[
     {
+      "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
+      "title":"Firefox blog post"
+    },
+    {
+      "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
+      "title":"Instructions on enabling WebGL"
+    },
+    {
       "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
       "title":"Webkit blog post"
     },
@@ -13,16 +21,8 @@
       "title":"Tutorial"
     },
     {
-      "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
-      "title":"Instructions on enabling WebGL"
-    },
-    {
       "url":"http://iewebgl.com/",
       "title":"Polyfill for IE"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
-      "title":"Firefox blog post"
     }
   ],
   "bugs":[
@@ -82,7 +82,8 @@
       "21":"y",
       "22":"y",
       "23":"y",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"n",

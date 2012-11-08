@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://addyosmani.github.com/jQuery-contextMenu/",
-      "title":"jQuery polyfill"
-    },
-    {
       "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
       "title":"Demo"
+    },
+    {
+      "url":"http://addyosmani.github.com/jQuery-contextMenu/",
+      "title":"jQuery polyfill"
     }
   ],
   "bugs":[
@@ -69,8 +69,9 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"u",
-      "24":"u"
+      "23":"n",
+      "24":"u",
+      "25":"u"
     },
     "safari":{
       "3.1":"n",

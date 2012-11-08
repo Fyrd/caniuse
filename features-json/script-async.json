@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
-      "title":"MDN article"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
       "title":"Demo"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -71,7 +71,8 @@
       "21":"y",
       "22":"y",
       "23":"y",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"n",

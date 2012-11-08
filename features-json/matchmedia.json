@@ -9,12 +9,12 @@
       "title":"matchMedia.js polyfill"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
-      "title":"MDN article"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
       "title":"MDN tutorial"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "21":"y",
       "22":"y",
       "23":"y",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"n",

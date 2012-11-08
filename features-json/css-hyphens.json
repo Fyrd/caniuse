@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/hyphens",
-      "title":"MDN article"
-    },
-    {
       "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/hyphens",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"n"
+      "24":"n",
+      "25":"n"
     },
     "safari":{
       "3.1":"n",

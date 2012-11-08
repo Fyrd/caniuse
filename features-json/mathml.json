@@ -5,12 +5,8 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://golem.ph.utexas.edu/~distler/blog/archives/001588.html",
-      "title":"Info on Opera's MathML support"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/MathML/Element",
-      "title":"MDN element reference"
+      "url":"http://www.mathjax.org",
+      "title":"Cross-browser support script"
     },
     {
       "url":"http://www.mozilla.org/projects/mathml/demo/",
@@ -21,8 +17,12 @@
       "title":"Wikipedia"
     },
     {
-      "url":"http://www.mathjax.org",
-      "title":"Cross-browser support script"
+      "url":"http://golem.ph.utexas.edu/~distler/blog/archives/001588.html",
+      "title":"Info on Opera's MathML support"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/MathML/Element",
+      "title":"MDN element reference"
     }
   ],
   "bugs":[
@@ -82,7 +82,8 @@
       "21":"p",
       "22":"p",
       "23":"p",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"p",

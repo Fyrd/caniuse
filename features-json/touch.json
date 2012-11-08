@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.quirksmode.org/mobile/tableTouch.html",
+      "title":"Detailed support tables"
+    },
+    {
       "url":"http://www.quirksmode.org/m/tests/drag2.html",
       "title":"Multi-touch demo"
     },
     {
       "url":"http://schepers.cc/getintouch",
       "title":"Information on the spec development"
-    },
-    {
-      "url":"http://www.quirksmode.org/mobile/tableTouch.html",
-      "title":"Detailed support tables"
     }
   ],
   "bugs":[
@@ -79,8 +79,9 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"u",
-      "24":"u"
+      "23":"n",
+      "24":"u",
+      "25":"u"
     },
     "safari":{
       "3.1":"n",

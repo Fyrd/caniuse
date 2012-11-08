@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://samshull.blogspot.com/2010/10/ajax-push-in-ios-safari-and-chrome-with.html",
-      "title":"Blog post with demo"
-    },
-    {
       "url":"http://www.html5rocks.com/tutorials/eventsource/basics/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://samshull.blogspot.com/2010/10/ajax-push-in-ios-safari-and-chrome-with.html",
+      "title":"Blog post with demo"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "21":"y",
       "22":"y",
       "23":"y",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"n",

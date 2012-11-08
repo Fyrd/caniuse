@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
-      "title":"Blog post"
-    },
-    {
       "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
       "title":"MDN article on querySelectorAll"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
       "title":"MDN article on querySelector"
+    },
+    {
+      "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -74,7 +74,8 @@
       "21":"y",
       "22":"y",
       "23":"y",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"y",

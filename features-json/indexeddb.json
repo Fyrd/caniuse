@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"https://github.com/axemclion/IndexedDBShim",
       "title":"Polyfill for browsers supporting WebSQL"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "21":"a x",
       "22":"a x",
       "23":"y x",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"n",

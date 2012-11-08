@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://reference.sitepoint.com/css/dimensions",
-      "title":"Sitepoint reference"
-    },
-    {
       "url":"http://code.google.com/p/ie7-js/",
       "title":"JS library with support"
+    },
+    {
+      "url":"http://reference.sitepoint.com/css/dimensions",
+      "title":"Sitepoint reference"
     }
   ],
   "bugs":[
@@ -72,7 +72,8 @@
       "21":"y",
       "22":"y",
       "23":"y",
-      "24":"y"
+      "24":"y",
+      "25":"y"
     },
     "safari":{
       "3.1":"y",

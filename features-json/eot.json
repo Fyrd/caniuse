@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Embedded_OpenType",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://www.microsoft.com/typography/web/embedding/default.aspx",
       "title":"Example pages"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Embedded_OpenType",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"n"
+      "24":"n",
+      "25":"n"
     },
     "safari":{
       "3.1":"n",
