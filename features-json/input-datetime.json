@@ -110,7 +110,7 @@
       "2.2":"n",
       "2.3":"n",
       "3":"n",
-      "4":"n",
+      "4":"a",
       "4.1":"n"
     },
     "bb":{
@@ -132,7 +132,7 @@
       "0":"n"
     }
   },
-  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date/type fields.",
+  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date/type fields. Android browser supports the \"date\" and \"time\".",
   "usage_perc_y":6.78,
   "usage_perc_a":28.14,
   "ucprefix":false,
