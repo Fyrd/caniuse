@@ -133,7 +133,7 @@
       "0":"n"
     }
   },
-  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date/type fields. Chrome 23 supports \"time\" type",
+  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date/type fields. Chrome 23 supports the \"time\" type. Chrome 25 adds support for the \"week\" and \"month\" types.",
   "usage_perc_y":6.78,
   "usage_perc_a":28.14,
   "ucprefix":false,
