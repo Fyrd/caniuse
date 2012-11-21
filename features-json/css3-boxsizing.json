@@ -19,7 +19,10 @@
   ],
   "bugs":[
     {
-      "description":"Firefox (13 and older) don\u2019t handle the combination of `box-sizing` and `min-height`/`max-height` properly. See this bug for more details: https://bugzilla.mozilla.org/show_bug.cgi?id=308801"
+      "description":"Firefox (13 and older) don't handle the combination of `box-sizing` and `min-height`/`max-height` properly. See this bug for more details: https://bugzilla.mozilla.org/show_bug.cgi?id=308801"
+    },
+    {
+      "description":"Internet Explorer 8 (but not 9) doesn't handle the combination of `box-sizing` and `min-height`/`max-height` properly."
     }
   ],
   "categories":[
