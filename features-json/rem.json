@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE 9 & IE 10 do not support rem units when used in the \"font\" shorthand property."
+    }
   ],
   "categories":[
     "CSS3"

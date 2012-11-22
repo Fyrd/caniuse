@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"The dataset property of SVG elements appears to be not working in Firefox and Opera."
+    }
   ],
   "categories":[
     "HTML5"

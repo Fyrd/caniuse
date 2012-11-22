@@ -9,20 +9,25 @@
       "title":"Information page"
     },
     {
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
+    },
+    {
       "url":"http://css3pie.com/",
       "title":"Polyfill for that includes border-radius"
     },
     {
       "url":"http://border-radius.com",
       "title":"Border-radius CSS Generator"
-    },
-    {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"border-radius is not respected when used with overflow:hidden on WebKit (Chrome 23, Chromium http://code.google.com/p/chromium/issues/detail?id=62363) works fine on IE9 and Firefox 16"
+    },
+    {
+      "description":"Chrome and Safari do not support border-radius on &lt;video> elements."
+    }
   ],
   "categories":[
     "CSS3"
