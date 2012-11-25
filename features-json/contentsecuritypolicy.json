@@ -2,7 +2,7 @@
   "title":"Content Security Policy",
   "description":"Mitigate cross-site scripting attacks by whitelisting allowed sources of script, style, and other resources.",
   "spec":"http://www.w3.org/TR/CSP/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"http://html5rocks.com/en/tutorials/security/content-security-policy/",
@@ -22,14 +22,14 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a",
-      "11":"a"
+      "10":"a x",
+      "11":"a x"
     },
     "firefox":{
       "2":"n",
       "3":"n",
-      "3.5":"y x",
-      "3.6":"y x",
+      "3.5":"n",
+      "3.6":"n",
       "4":"y x",
       "5":"y x",
       "6":"y x",
