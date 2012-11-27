@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"IE7 & 8 do not support PNG alpha transparency, if you put an alpha filter on them or a parent element."
+      "description":"IE7 & 8 do not support PNG's alpha transparency when you apply CSS alpha filter on them or a parent element."
     }
   ],
   "categories":[
