@@ -22,13 +22,13 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a"
+      "10":"a x"
     },
     "firefox":{
       "2":"n",
       "3":"n",
-      "3.5":"y x",
-      "3.6":"y x",
+      "3.5":"n",
+      "3.6":"n",
       "4":"y x",
       "5":"y x",
       "6":"y x",
@@ -130,7 +130,7 @@
     }
   },
   "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10, and 'X-WebKit-CSP' for Safari and Chrome. IE 10's support is limited to the 'sandbox' directive.",
-  "usage_perc_y":54.01,
+  "usage_perc_y":53.21,
   "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",

@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url": "http://dev.chromium.org/sts",
-      "title": "Strict Transport Security @ Chromium"
+      "url":"http://dev.chromium.org/sts",
+      "title":"Strict Transport Security @ Chromium"
     },
     {
-      "url": "https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security",
-      "title": "Strict Transport Security @ Mozilla Developer Network"
+      "url":"https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security",
+      "title":"Strict Transport Security @ Mozilla Developer Network"
     }
   ],
   "bugs":[
@@ -26,8 +26,7 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"n",
-      "11":"n"
+      "10":"n"
     },
     "firefox":{
       "2":"n",
@@ -135,10 +134,10 @@
     }
   },
   "notes":"The HTTP header is 'Strict-Transport-Security'.",
-  "usage_perc_y":54.01,
-  "usage_perc_a":0.07,
+  "usage_perc_y":50.19,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"sts,hsts,security,header",
-  "shown":true
+  "keywords":"",
+  "shown":false
 }
