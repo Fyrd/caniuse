@@ -27,6 +27,9 @@
     },
     {
       "description":"Chrome and Safari do not support border-radius on &lt;video> elements."
+    },
+    {
+      "description":"IE does not apply rounded corners if a fieldset contains a legend."
     }
   ],
   "categories":[
