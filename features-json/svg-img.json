@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://blog.dholbert.org/2010/10/svg-as-image.html",
-      "title":"Blog post with examples"
-    },
-    {
       "url":"http://www.codedread.com/blog/",
       "title":"Blog with SVGs an images"
+    },
+    {
+      "url":"http://blog.dholbert.org/2010/10/svg-as-image.html",
+      "title":"Blog post with examples"
     }
   ],
   "bugs":[
@@ -136,7 +136,7 @@
     }
   },
   "notes":"Partial support in Safari 3.2 refers to buggy behavior with certain SVG images.",
-  "usage_perc_y":79.53,
+  "usage_perc_y":80.13,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

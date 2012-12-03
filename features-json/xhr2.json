@@ -9,12 +9,12 @@
       "title":"MDN article on FormData"
     },
     {
-      "url":"https://github.com/3nr1c/jUri.js",
-      "title":"Polyfill for FormData object"
-    },
-    {
       "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
       "title":"Article with file upload demo"
+    },
+    {
+      "url":"https://github.com/3nr1c/jUri.js",
+      "title":"Polyfill for FormData object"
     }
   ],
   "bugs":[
@@ -141,8 +141,8 @@
     }
   },
   "notes":"Firefox 3.5 and 3.6 partial support refers to only including support for the progress event.",
-  "usage_perc_y":60.69,
-  "usage_perc_a":0.8,
+  "usage_perc_y":61.66,
+  "usage_perc_a":0.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"formdata",

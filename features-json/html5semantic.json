@@ -9,12 +9,12 @@
       "title":"Article on structural elements"
     },
     {
-      "url":"http://blog.whatwg.org/styling-ie-noscript",
-      "title":"Alternate workaround"
-    },
-    {
       "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
       "title":"Workaround for IE"
+    },
+    {
+      "url":"http://blog.whatwg.org/styling-ie-noscript",
+      "title":"Alternate workaround"
     }
   ],
   "bugs":[
@@ -138,8 +138,8 @@
     }
   },
   "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway).",
-  "usage_perc_y":79.47,
-  "usage_perc_a":3.62,
+  "usage_perc_y":80.25,
+  "usage_perc_a":3.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

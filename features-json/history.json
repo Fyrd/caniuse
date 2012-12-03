@@ -9,12 +9,12 @@
       "title":"Demo page"
     },
     {
-      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
-      "title":"Introduction to history management"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
       "title":"MDN article"
+    },
+    {
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
+      "title":"Introduction to history management"
     },
     {
       "url":"https://github.com/balupton/history.js",
@@ -144,8 +144,8 @@
     }
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
-  "usage_perc_y":58.22,
-  "usage_perc_a":4.48,
+  "usage_perc_y":59.23,
+  "usage_perc_a":4.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

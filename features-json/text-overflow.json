@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://devongovett.wordpress.com/2009/04/06/text-overflow-ellipsis-for-firefox-via-jquery/",
+      "title":"jQuery polyfill for Firefox"
+    },
+    {
       "url":"http://www.css3files.com/text/",
       "title":"Information page"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
       "title":"MDN article"
-    },
-    {
-      "url":"http://devongovett.wordpress.com/2009/04/06/text-overflow-ellipsis-for-firefox-via-jquery/",
-      "title":"jQuery polyfill for Firefox"
     }
   ],
   "bugs":[
@@ -138,7 +138,7 @@
     }
   },
   "notes":"Opera also supports the non-standard <a href=\"http://dev.opera.com/static/dstorey/text/text-overflow.html\">-o-ellipsis-lastline</a> value.",
-  "usage_perc_y":94.1,
+  "usage_perc_y":94.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

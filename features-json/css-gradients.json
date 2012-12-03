@@ -13,12 +13,12 @@
       "title":"Information page"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/radial-gradient",
-      "title":"WebPlatform Docs: radial-gradient"
-    },
-    {
       "url":"http://www.colorzilla.com/gradient-editor/",
       "title":"Cross-browser editor"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/radial-gradient",
+      "title":"WebPlatform Docs: radial-gradient"
     }
   ],
   "bugs":[
@@ -142,8 +142,8 @@
     }
   },
   "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Support can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. Firefox 10+, Opera 11.6+ and IE10 also support the new \"to (side)\" syntax.",
-  "usage_perc_y":60.43,
-  "usage_perc_a":4.29,
+  "usage_perc_y":61.37,
+  "usage_perc_a":4.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

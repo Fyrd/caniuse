@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://glimr.rubyforge.org/cake/canvas.html",
-      "title":"Animation kit "
-    },
-    {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
-      "title":"Tutorial by Mozilla"
+      "url":"http://explorercanvas.googlecode.com/",
+      "title":"Implementation for Internet Explorer"
     },
     {
       "url":"http://www.diveinto.org/html5/canvas.html",
       "title":"Another tutorial"
     },
     {
-      "url":"http://explorercanvas.googlecode.com/",
-      "title":"Implementation for Internet Explorer"
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
+    },
+    {
+      "url":"http://glimr.rubyforge.org/cake/canvas.html",
+      "title":"Animation kit "
+    },
+    {
+      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
+      "title":"Tutorial by Mozilla"
     }
   ],
   "bugs":[
@@ -31,8 +31,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "Canvas"
+    "Canvas",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -149,7 +149,7 @@
     }
   },
   "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications.",
-  "usage_perc_y":80.93,
+  "usage_perc_y":81.62,
   "usage_perc_a":2.19,
   "ucprefix":false,
   "parent":"",

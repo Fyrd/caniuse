@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/Drawing_text_using_a_canvas#Additional_examples",
-      "title":"Examples by Mozilla"
-    },
-    {
       "url":"http://code.google.com/p/canvas-text/",
       "title":"Support library"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/Drawing_text_using_a_canvas#Additional_examples",
+      "title":"Examples by Mozilla"
     }
   ],
   "bugs":[
@@ -135,7 +135,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":80.67,
+  "usage_perc_y":81.39,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

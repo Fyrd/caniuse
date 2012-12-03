@@ -5,16 +5,8 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/APNG",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
       "title":"APNG tutorial"
-    },
-    {
-      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
-      "title":"Chrome extension providing support"
     },
     {
       "url":"http://animatedpng.com/",
@@ -23,6 +15,14 @@
     {
       "url":"https://github.com/davidmz/apng-canvas",
       "title":"Polyfill using canvas"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/APNG",
+      "title":"Wikipedia"
+    },
+    {
+      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
+      "title":"Chrome extension providing support"
     }
   ],
   "bugs":[
@@ -146,7 +146,7 @@
     }
   },
   "notes":"Where support for APNG is missing, only the first frame is displayed",
-  "usage_perc_y":21.09,
+  "usage_perc_y":20.8,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
