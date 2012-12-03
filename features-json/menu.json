@@ -1,16 +1,16 @@
 {
   "title":"Toolbar/context menu",
   "description":"Method of defining a toolbar menu, a context menu or a list of (interactive) options using the &lt;menu> element.",
-  "spec":"http://www.w3.org/TR/html5/interactive-elements.html#menus",
+  "spec":"http://www.w3.org/TR/html5/the-menu-element.html#the-menu-element",
   "status":"wd",
   "links":[
     {
-      "url":"http://addyosmani.github.com/jQuery-contextMenu/",
-      "title":"jQuery polyfill"
-    },
-    {
       "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
       "title":"Demo"
+    },
+    {
+      "url":"http://addyosmani.github.com/jQuery-contextMenu/",
+      "title":"jQuery polyfill"
     }
   ],
   "bugs":[
