@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome has performance problems with <a href=\"http://oddlystudios.com/blog/html5-video-problems-in-chrome/\">long h.264 videos</a>."
+    }
   ],
   "categories":[
     "Other"
