@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-    
+    "IE10 does not send cookies when withCredential=true (<a href=\"https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true\">IE Bug #759587</a>)"
   ],
   "categories":[
     "JS API"
