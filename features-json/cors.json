@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
-      "title":"Alternative implementation by IE8"
+      "url":"http://saltybeagle.com/2009/09/cross-origin-resource-sharing-demo/",
+      "title":"Demo and script with cross-browser support"
     },
     {
       "url":"http://dev.opera.com/articles/view/dom-access-control-using-cross-origin-resource-sharing/",
@@ -17,13 +17,13 @@
       "title":"Mozilla Hacks blog post"
     },
     {
-      "url":"http://saltybeagle.com/2009/09/cross-origin-resource-sharing-demo/",
-      "title":"Demo and script with cross-browser support"
+      "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
+      "title":"Alternative implementation by IE8"
     }
   ],
   "bugs":[
     {
-      "description":"IE10 does not send cookies when withCredential=true (<a href=\\\"https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true\\\">IE Bug #759587</a>)"
+      "description":"IE10 does not send cookies when withCredential=true (<a href=\"https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true\">IE Bug #759587</a>)"
     }
   ],
   "categories":[
