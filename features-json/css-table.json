@@ -16,9 +16,6 @@
   "bugs":[
     {
       "description":"Safari 5.1.17 has a bug in when using an element with display:table, with padding and width.  It seems to force the use of the border-box model instead of the content-box model.  Chrome 21.0 however works correctly, making it difficult to resolve with CSS alone."
-    },
-    {
-      "description":"Chrome 23 appears to add a few pixels of padding to the left and right sides of a container with display:table."
     }
   ],
   "categories":[
