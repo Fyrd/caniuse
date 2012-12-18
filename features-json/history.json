@@ -2,7 +2,7 @@
   "title":"Session history management",
   "description":"Method of manipulating the user's browser's session history in JavaScript using history.pushState, history.replaceState and the popstate event",
   "spec":"http://www.w3.org/TR/html5/history.html",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
@@ -13,12 +13,12 @@
       "title":"History.js polyfill "
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
-      "title":"MDN article"
-    },
-    {
       "url":"http://html5demos.com/history",
       "title":"Demo page"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
+      "title":"MDN article"
     }
   ],
   "bugs":[

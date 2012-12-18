@@ -5,16 +5,16 @@
   "status":"other",
   "links":[
     {
-      "url":"http://webmproject.org",
-      "title":"Officical website"
-    },
-    {
       "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
       "title":"Info on supporting WebM in Safari"
     },
     {
       "url":"https://tools.google.com/dlpage/webmmf",
       "title":"Codec for IE9 support"
+    },
+    {
+      "url":"http://webmproject.org",
+      "title":"Officical website"
     }
   ],
   "bugs":[
@@ -137,7 +137,7 @@
       "0":"y"
     }
   },
-  "notes":"Will work in IE9 and Safari provided the user has the WebM codecs installed.",
+  "notes":"Will work in IE9+ and Safari provided the user has the WebM codecs installed.",
   "usage_perc_y":54.18,
   "usage_perc_a":0,
   "ucprefix":false,

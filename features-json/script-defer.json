@@ -2,7 +2,7 @@
   "title":"defer attribute for external scripts",
   "description":"The boolean defer attribute on script elements allows the external JavaScript file to run when the DOM is loaded, without delaying page load first.",
   "spec":"http://www.w3.org/TR/html5/the-script-element.html#attr-script-defer",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
