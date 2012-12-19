@@ -139,7 +139,7 @@
       "0":"y"
     }
   },
-  "notes":"Partial support in IE refers to only working in frames/iframes (not other tabs/windows).",
+  "notes":"Partial support in IE refers to only working in frames/iframes (not other tabs/windows). Also in IE an object cannot be sent using postMessage.",
   "usage_perc_y":68.04,
   "usage_perc_a":26.22,
   "ucprefix":false,
