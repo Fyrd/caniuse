@@ -11,10 +11,10 @@
   ],
   "bugs":[
     {
-      "description":"Opera &lt;= 9.6 doesn't find elements by there second class. means it doesn't find &lt;a class=\"a b\">&lt;/a> if you search for the class \"b\"."
+      "description":"Opera &lt;= 9.6 doesn't find elements by their second class, meaning it doesn't find &lt;a class=\"a b\">&lt;/a> if you search for the class \"b\"."
     },
     {
-      "description":"Safari 3.1 has a caching bug. If the class of an element changes it won't for getElementsByClassName."
+      "description":"Safari 3.1 has a caching bug. If the class of an element changes it won't be available for getElementsByClassName."
     }
   ],
   "categories":[
