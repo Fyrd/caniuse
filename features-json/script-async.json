@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
-      "title":"Demo"
-    },
-    {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
       "title":"MDN article"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
