@@ -28,6 +28,9 @@
   "bugs":[
     {
       "description":"Scaling transforms in Android 2.3 fails to scale element background images."
+    },
+    {
+      "description":"Transforms on element with 'display: table-cell' fails on Opera 12.12."
     }
   ],
   "categories":[
