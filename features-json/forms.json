@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.miketaylr.com/code/input-type-attr.html",
-      "title":"HTML5 inputs and attribute support page"
-    },
-    {
       "url":"https://github.com/westonruter/webforms2",
       "title":"Cross-browser JS implementation (based on original spec)"
+    },
+    {
+      "url":"http://www.miketaylr.com/code/input-type-attr.html",
+      "title":"HTML5 inputs and attribute support page"
     }
   ],
   "bugs":[
@@ -53,7 +53,8 @@
       "16":"a",
       "17":"a",
       "18":"a",
-      "19":"a"
+      "19":"a",
+      "20":"a"
     },
     "chrome":{
       "4":"a",
@@ -139,8 +140,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":6.79,
-  "usage_perc_a":54.36,
+  "usage_perc_y":7.11,
+  "usage_perc_a":53.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"input,datepicker",

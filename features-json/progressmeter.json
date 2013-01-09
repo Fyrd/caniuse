@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
+      "title":"HTML5 Doctor on meter element "
+    },
+    {
       "url":"http://peter.sh/examples/?/html/meter-progress.html",
       "title":"Examples of progress and meter elements"
     },
     {
       "url":"http://dev.opera.com/articles/view/new-form-features-in-HTML5/#newoutput",
       "title":"Dev.Opera article"
-    },
-    {
-      "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
-      "title":"HTML5 Doctor on meter element "
     }
   ],
   "bugs":[
@@ -52,7 +52,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"n",
@@ -138,8 +139,8 @@
     }
   },
   "notes":"Partial support in Firefox 6-15 and IE10 refers to supporting the progress element, but not the meter element.",
-  "usage_perc_y":48.1,
-  "usage_perc_a":4.26,
+  "usage_perc_y":48.24,
+  "usage_perc_a":3.77,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

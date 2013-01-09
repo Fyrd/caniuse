@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.westciv.com/tools/textStroke/",
-      "title":"Live editor"
-    },
-    {
       "url":"http://css-tricks.com/7405-adding-stroke-to-web-text/",
       "title":"Information & workarounds"
+    },
+    {
+      "url":"http://www.westciv.com/tools/textStroke/",
+      "title":"Live editor"
     }
   ],
   "bugs":[
@@ -47,8 +47,9 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"u",
-      "19":"u"
+      "18":"n",
+      "19":"u",
+      "20":"u"
     },
     "chrome":{
       "4":"y x",
@@ -134,7 +135,7 @@
     }
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
-  "usage_perc_y":45,
+  "usage_perc_y":45.91,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

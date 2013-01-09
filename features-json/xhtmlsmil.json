@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/XHTML%2BSMIL",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://leunen.me/fakesmile/",
       "title":"JS library to support XHTML+SMIL"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/XHTML%2BSMIL",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -48,7 +48,8 @@
       "16":"p",
       "17":"p",
       "18":"p",
-      "19":"p"
+      "19":"p",
+      "20":"p"
     },
     "chrome":{
       "4":"p",
@@ -135,7 +136,7 @@
   },
   "notes":"Internet Explorer supports the W3C proposal HTML+TIME, which is largely the same as XHTML+SMIL",
   "usage_perc_y":0,
-  "usage_perc_a":11.63,
+  "usage_perc_a":10.93,
   "ucprefix":false,
   "parent":"xhtml",
   "keywords":"",

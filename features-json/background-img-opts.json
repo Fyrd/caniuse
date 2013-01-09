@@ -9,12 +9,12 @@
       "title":"Information page"
     },
     {
-      "url":"https://github.com/louisremi/jquery.backgroundSize.js",
-      "title":"jQuery polyfill for IE6-8"
-    },
-    {
       "url":"http://www.standardista.com/css3/css3-background-properties",
       "title":"Detailed compatibility tables and demos"
+    },
+    {
+      "url":"https://github.com/louisremi/jquery.backgroundSize.js",
+      "title":"jQuery polyfill for IE6-8"
     }
   ],
   "bugs":[
@@ -57,7 +57,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"y",
@@ -143,8 +144,8 @@
     }
   },
   "notes":"Partial support in Opera Mini refers to not supporting background sizing or background attachments.",
-  "usage_perc_y":80.37,
-  "usage_perc_a":3.13,
+  "usage_perc_y":80.43,
+  "usage_perc_a":3.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

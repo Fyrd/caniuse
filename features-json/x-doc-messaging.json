@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/postmessage2",
-      "title":"Simple demo"
+      "url":"http://72lions.com/2011/05/cross-origin-communication-with-html5",
+      "title":"Article and demo"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
       "title":"MDN article"
     },
     {
-      "url":"http://72lions.com/2011/05/cross-origin-communication-with-html5",
-      "title":"Article and demo"
+      "url":"http://html5demos.com/postmessage2",
+      "title":"Simple demo"
     }
   ],
   "bugs":[
@@ -54,7 +54,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"y",
@@ -140,8 +141,8 @@
     }
   },
   "notes":"Partial support in IE refers to only working in frames/iframes (not other tabs/windows). Also in IE an object cannot be sent using postMessage.",
-  "usage_perc_y":68.04,
-  "usage_perc_a":26.22,
+  "usage_perc_y":68.16,
+  "usage_perc_a":25.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

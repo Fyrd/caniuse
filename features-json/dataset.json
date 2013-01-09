@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/dataset",
-      "title":"Demo using dataset"
-    },
-    {
       "url":"http://www.orangesoda.net/jquery.dataset.html",
       "title":"jQuery polyfill for dataset support"
+    },
+    {
+      "url":"http://html5demos.com/dataset",
+      "title":"Demo using dataset"
     },
     {
       "url":"http://html5doctor.com/html5-custom-data-attributes/",
@@ -54,7 +54,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"a",
@@ -140,8 +141,8 @@
     }
   },
   "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property.",
-  "usage_perc_y":60.59,
-  "usage_perc_a":34.85,
+  "usage_perc_y":60.71,
+  "usage_perc_a":34.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMStringMap",

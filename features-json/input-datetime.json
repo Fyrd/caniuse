@@ -47,8 +47,9 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"u",
-      "19":"u"
+      "18":"n",
+      "19":"u",
+      "20":"u"
     },
     "chrome":{
       "4":"n",
@@ -134,8 +135,8 @@
     }
   },
   "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date/type fields. Chrome 23 supports the \"time\" type. Chrome 25 adds support for the \"week\" and \"month\" types. Some modified versions of the Android 4.x browser do have support for date/time fields. ",
-  "usage_perc_y":6.96,
-  "usage_perc_a":28.76,
+  "usage_perc_y":7.34,
+  "usage_perc_a":29.49,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker",

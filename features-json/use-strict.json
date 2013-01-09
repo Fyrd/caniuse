@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://javascriptweblog.wordpress.com/2011/05/03/javascript-strict-mode/",
-      "title":"Article with test suite"
-    },
-    {
       "url":"http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/",
       "title":"Information page"
+    },
+    {
+      "url":"http://javascriptweblog.wordpress.com/2011/05/03/javascript-strict-mode/",
+      "title":"Article with test suite"
     }
   ],
   "bugs":[
@@ -48,7 +48,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"n",
@@ -134,8 +135,8 @@
     }
   },
   "notes":"Partial support in Safari refers to strict mode still accepting a lot of JS that should be considered invalid.",
-  "usage_perc_y":58.79,
-  "usage_perc_a":2.46,
+  "usage_perc_y":59.39,
+  "usage_perc_a":2.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://dev.w3.org/csswg/css3-ui/#outline",
-      "title":"CSS Basic User Interface Module Level 3"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/outline",
       "title":"Mozilla Developer Network: outline"
+    },
+    {
+      "url":"http://dev.w3.org/csswg/css3-ui/#outline",
+      "title":"CSS Basic User Interface Module Level 3"
     }
   ],
   "bugs":[
@@ -48,7 +48,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"y",
@@ -134,7 +135,7 @@
     }
   },
   "notes":"Starting with Gecko 1.8 (Firefox 1.5), the standard CSS 2.1 'outline' is preferred to -moz-outline. Starting with Gecko 1.9.2 <a href='https://developer.mozilla.org/en-US/docs/CSS/-moz-outline'>-moz-outline</a> is no longer supported at all.",
-  "usage_perc_y":92.12,
+  "usage_perc_y":91.45,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

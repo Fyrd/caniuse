@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2011/08/Downloading-resources-in-HTML5-a-download",
-      "title":"HTML5Rocks post"
-    },
-    {
       "url":"http://html5-demos.appspot.com/static/a.download.html",
       "title":"Demo: creating a text file and downloading it."
+    },
+    {
+      "url":"http://updates.html5rocks.com/2011/08/Downloading-resources-in-HTML5-a-download",
+      "title":"HTML5Rocks post"
     }
   ],
   "bugs":[
@@ -48,7 +48,8 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "19":"n"
+      "19":"n",
+      "20":"y"
     },
     "chrome":{
       "4":"n",
@@ -133,8 +134,8 @@
       "0":"n"
     }
   },
-  "notes":"Firefox support coming in FF 20.",
-  "usage_perc_y":30.24,
+  "notes":"",
+  "usage_perc_y":30.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

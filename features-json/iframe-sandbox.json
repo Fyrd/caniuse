@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/hh563496",
-      "title":"MSDN article"
-    },
-    {
       "url":"http://blog.chromium.org/2010/05/security-in-depth-html5s-sandbox.html",
       "title":"Chromium blog article"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/hh563496",
+      "title":"MSDN article"
     }
   ],
   "bugs":[
@@ -48,7 +48,8 @@
       "16":"n",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"y",
@@ -134,7 +135,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":45.97,
+  "usage_perc_y":56.92,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

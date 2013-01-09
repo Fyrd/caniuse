@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.quirksmode.org/m/tests/drag2.html",
-      "title":"Multi-touch demo"
+      "url":"http://schepers.cc/getintouch",
+      "title":"Information on the spec development"
     },
     {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
     {
-      "url":"http://schepers.cc/getintouch",
-      "title":"Information on the spec development"
+      "url":"http://www.quirksmode.org/m/tests/drag2.html",
+      "title":"Multi-touch demo"
     }
   ],
   "bugs":[
@@ -26,8 +26,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -58,7 +58,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "chrome":{
       "4":"n",
@@ -144,8 +145,8 @@
     }
   },
   "notes":"Partial support in IE10 refers to using \"<a href=\"http://msdn.microsoft.com/en-us/ie/hh272903.aspx#_DOMTouch\">Pointer events</a>\".",
-  "usage_perc_y":56.39,
-  "usage_perc_a":0.58,
+  "usage_perc_y":57.94,
+  "usage_perc_a":0.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

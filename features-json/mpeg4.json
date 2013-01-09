@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC",
-      "title":"Wikipedia article"
-    },
-    {
       "url":"http://www.interoperabilitybridges.com/html5-extension-for-wmp-plugin",
       "title":"Firefox extension allowing support in Win7"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC",
+      "title":"Wikipedia article"
     }
   ],
   "bugs":[
@@ -49,8 +49,9 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"u",
-      "19":"u"
+      "18":"n",
+      "19":"u",
+      "20":"u"
     },
     "chrome":{
       "4":"y",
@@ -136,8 +137,8 @@
     }
   },
   "notes":"Support in Chrome may <a href=\"http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html\">be dropped</a> in some upcoming version. The Android 2.3 browser currently requires <a href=\"http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/\">specific handling</a> to play videos. Firefox <a href=\"http://blog.lizardwrangler.com/2012/03/18/video-user-experience-and-our-mission/\">may include support</a> on some platforms in an upcoming version.",
-  "usage_perc_y":56.8,
-  "usage_perc_a":3.98,
+  "usage_perc_y":57.06,
+  "usage_perc_a":4.58,
   "ucprefix":false,
   "parent":"video",
   "keywords":"avc,mp4,mpv,mov,aac",
