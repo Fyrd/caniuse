@@ -5,8 +5,16 @@
   "status":"unoff",
   "links":[
     {
+      "url":"https://github.com/davidmz/apng-canvas",
+      "title":"Polyfill using canvas"
+    },
+    {
       "url":"http://animatedpng.com/",
       "title":"An APNG editor"
+    },
+    {
+      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
+      "title":"Chrome extension providing support"
     },
     {
       "url":"http://en.wikipedia.org/wiki/APNG",
@@ -15,14 +23,6 @@
     {
       "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
       "title":"APNG tutorial"
-    },
-    {
-      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
-      "title":"Chrome extension providing support"
-    },
-    {
-      "url":"https://github.com/davidmz/apng-canvas",
-      "title":"Polyfill using canvas"
     }
   ],
   "bugs":[
@@ -84,8 +84,9 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"u",
-      "25":"u"
+      "24":"n",
+      "25":"u",
+      "26":"u"
     },
     "safari":{
       "3.1":"n",
@@ -125,7 +126,8 @@
       "2.3":"n",
       "3":"n",
       "4":"n",
-      "4.1":"n"
+      "4.1":"n",
+      "4.2":"n"
     },
     "bb":{
       "7":"n",

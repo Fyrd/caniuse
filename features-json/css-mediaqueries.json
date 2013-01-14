@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
+      "title":"IE demo page with information"
+    },
+    {
       "url":"https://github.com/scottjehl/Respond",
       "title":"Polyfill for IE"
     },
     {
       "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
       "title":"Media Queries tutorial"
-    },
-    {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
-      "title":"IE demo page with information"
     }
   ],
   "bugs":[
@@ -79,7 +79,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"a",
@@ -119,7 +120,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

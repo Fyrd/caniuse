@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-with-cors/",
-      "title":"Mozilla Hacks blog post"
+      "url":"http://saltybeagle.com/2009/09/cross-origin-resource-sharing-demo/",
+      "title":"Demo and script with cross-browser support"
     },
     {
       "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
@@ -17,8 +17,8 @@
       "title":"DOM access using CORS"
     },
     {
-      "url":"http://saltybeagle.com/2009/09/cross-origin-resource-sharing-demo/",
-      "title":"Demo and script with cross-browser support"
+      "url":"http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-with-cors/",
+      "title":"Mozilla Hacks blog post"
     }
   ],
   "bugs":[
@@ -83,7 +83,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"n",
@@ -123,7 +124,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

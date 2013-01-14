@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://oli.jp/2009/html5-structure3/",
-      "title":"Article on structural elements"
+      "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
+      "title":"Workaround for IE"
     },
     {
       "url":"http://blog.whatwg.org/styling-ie-noscript",
       "title":"Alternate workaround"
     },
     {
-      "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
-      "title":"Workaround for IE"
+      "url":"http://oli.jp/2009/html5-structure3/",
+      "title":"Article on structural elements"
     }
   ],
   "bugs":[
@@ -77,7 +77,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"a",
@@ -117,7 +118,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

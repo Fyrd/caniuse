@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://bennettfeely.com/flexplorer/",
-      "title":"Flexbox CSS generator"
+      "url":"http://flexiejs.com/playground/",
+      "title":"Flexbox playground"
     },
     {
       "url":"http://hacks.mozilla.org/2010/04/the-css-3-flexible-box-model/",
       "title":"Mozilla hacks article"
     },
     {
-      "url":"http://flexiejs.com/playground/",
-      "title":"Flexbox playground"
-    },
-    {
       "url":"http://www.the-haystack.com/2010/01/23/css3-flexbox-part-1/",
       "title":"Introduction with demos"
+    },
+    {
+      "url":"http://bennettfeely.com/flexplorer/",
+      "title":"Flexbox CSS generator"
     }
   ],
   "bugs":[
@@ -83,7 +83,8 @@
       "22":"y x",
       "23":"y x",
       "24":"y x",
-      "25":"y x"
+      "25":"y x",
+      "26":"y x"
     },
     "safari":{
       "3.1":"a x",
@@ -123,7 +124,8 @@
       "2.3":"a x",
       "3":"a x",
       "4":"a x",
-      "4.1":"a x"
+      "4.1":"a x",
+      "4.2":"a x"
     },
     "bb":{
       "7":"a x",

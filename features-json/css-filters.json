@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
-      "title":"Mozilla hacks article"
+      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
+      "title":"Demo file for WebKit browsers"
     },
     {
       "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
       "title":"Filter editor"
     },
     {
-      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
-      "title":"Demo file for WebKit browsers"
+      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3",
-    "CSS"
+    "CSS",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -78,7 +78,8 @@
       "22":"y x",
       "23":"y x",
       "24":"y x",
-      "25":"y x"
+      "25":"y x",
+      "26":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -118,7 +119,8 @@
       "2.3":"n",
       "3":"n",
       "4":"n",
-      "4.1":"n"
+      "4.1":"n",
+      "4.2":"n"
     },
     "bb":{
       "7":"n",

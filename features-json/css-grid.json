@@ -9,12 +9,12 @@
       "title":"Mozilla (Firefox) feature request"
     },
     {
-      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
-      "title":"IE Blog post"
-    },
-    {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
       "title":"Webkit (Chrome, Safari, etc.) feature request"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
+      "title":"IE Blog post"
     }
   ],
   "bugs":[
@@ -77,7 +77,8 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"u"
+      "25":"u",
+      "26":"u"
     },
     "safari":{
       "3.1":"n",
@@ -117,7 +118,8 @@
       "2.3":"n",
       "3":"n",
       "4":"n",
-      "4.1":"n"
+      "4.1":"n",
+      "4.2":"n"
     },
     "bb":{
       "7":"n",

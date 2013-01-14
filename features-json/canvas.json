@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
+    },
+    {
       "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
     },
@@ -19,10 +23,6 @@
     {
       "url":"http://explorercanvas.googlecode.com/",
       "title":"Implementation for Internet Explorer"
-    },
-    {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
     }
   ],
   "bugs":[
@@ -31,8 +31,8 @@
     }
   ],
   "categories":[
-    "Canvas",
-    "HTML5"
+    "HTML5",
+    "Canvas"
   ],
   "stats":{
     "ie":{
@@ -88,7 +88,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"y",
@@ -128,7 +129,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

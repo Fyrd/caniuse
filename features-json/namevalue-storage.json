@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://html5demos.com/storage",
+      "title":"Simple demo"
+    },
+    {
       "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
     },
     {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
-    },
-    {
-      "url":"http://html5demos.com/storage",
-      "title":"Simple demo"
     }
   ],
   "bugs":[
@@ -77,7 +77,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"n",
@@ -117,7 +118,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

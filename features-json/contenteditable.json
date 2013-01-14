@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
-      "title":"Blog post on usage problems"
-    },
-    {
       "url":"http://html5demos.com/contenteditable",
       "title":"Demo page"
+    },
+    {
+      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
+      "title":"Blog post on usage problems"
     },
     {
       "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
@@ -77,7 +77,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"y",
@@ -117,7 +118,8 @@
       "2.3":"n",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

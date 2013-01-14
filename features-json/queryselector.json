@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
-      "title":"MDN article on querySelector"
-    },
-    {
       "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
       "title":"MDN article on querySelectorAll"
     },
     {
       "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
+      "title":"MDN article on querySelector"
     }
   ],
   "bugs":[
@@ -77,7 +77,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"y",
@@ -117,7 +118,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

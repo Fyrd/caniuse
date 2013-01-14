@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
+    },
+    {
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
     },
     {
       "url":"https://github.com/Schepp/box-sizing-polyfill",
@@ -30,9 +30,9 @@
       "5.5":"p",
       "6":"p",
       "7":"p",
-      "8":"y",
-      "9":"y",
-      "10":"y"
+      "8":"a",
+      "9":"a",
+      "10":"a"
     },
     "firefox":{
       "2":"y x",
@@ -58,93 +58,95 @@
       "20":"y x"
     },
     "chrome":{
-      "4":"y x",
-      "5":"y x",
-      "6":"y x",
-      "7":"y x",
-      "8":"y x",
-      "9":"y x",
-      "10":"y",
-      "11":"y",
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y"
+      "4":"a x",
+      "5":"a x",
+      "6":"a x",
+      "7":"a x",
+      "8":"a x",
+      "9":"a x",
+      "10":"a",
+      "11":"a",
+      "12":"a",
+      "13":"a",
+      "14":"a",
+      "15":"a",
+      "16":"a",
+      "17":"a",
+      "18":"a",
+      "19":"a",
+      "20":"a",
+      "21":"a",
+      "22":"a",
+      "23":"a",
+      "24":"a",
+      "25":"a",
+      "26":"a"
     },
     "safari":{
-      "3.1":"y x",
-      "3.2":"y x",
-      "4":"y x",
-      "5":"y x",
-      "5.1":"y",
-      "6":"y"
+      "3.1":"a x",
+      "3.2":"a x",
+      "4":"a x",
+      "5":"a x",
+      "5.1":"a",
+      "6":"a"
     },
     "opera":{
       "9":"n",
-      "9.5-9.6":"y",
-      "10.0-10.1":"y",
-      "10.5":"y",
-      "10.6":"y",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
-      "11.6":"y",
-      "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "9.5-9.6":"a",
+      "10.0-10.1":"a",
+      "10.5":"a",
+      "10.6":"a",
+      "11":"a",
+      "11.1":"a",
+      "11.5":"a",
+      "11.6":"a",
+      "12":"a",
+      "12.1":"a",
+      "12.5":"a"
     },
     "ios_saf":{
-      "3.2":"y x",
-      "4.0-4.1":"y x",
-      "4.2-4.3":"y x",
-      "5.0-5.1":"y",
-      "6":"y"
+      "3.2":"a x",
+      "4.0-4.1":"a x",
+      "4.2-4.3":"a x",
+      "5.0-5.1":"a",
+      "6":"a"
     },
     "op_mini":{
-      "5.0-7.0":"y"
+      "5.0-7.0":"a"
     },
     "android":{
-      "2.1":"y x",
-      "2.2":"y x",
-      "2.3":"y x",
-      "3":"y x",
-      "4":"y",
-      "4.1":"y"
+      "2.1":"a x",
+      "2.2":"a x",
+      "2.3":"a x",
+      "3":"a x",
+      "4":"a",
+      "4.1":"a",
+      "4.2":"a"
     },
     "bb":{
-      "7":"y x",
-      "10":"y"
+      "7":"a x",
+      "10":"a"
     },
     "op_mob":{
-      "10":"y",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
-      "12":"y",
-      "12.1":"y"
+      "10":"a",
+      "11":"a",
+      "11.1":"a",
+      "11.5":"a",
+      "12":"a",
+      "12.1":"a"
     },
     "and_chr":{
-      "0":"y"
+      "0":"a"
     },
     "and_ff":{
       "0":"y x"
     }
   },
-  "notes":"",
-  "usage_perc_y":93.78,
-  "usage_perc_a":0,
+  "notes":"Partial support refers to supporting only the \"border-box\" property, not \"padding-box\" (which was added to the spec later).",
+  "usage_perc_y":18.72,
+  "usage_perc_a":75.07,
   "ucprefix":false,
   "parent":"",
-  "keywords":"border-box,content-box",
+  "keywords":"border-box,content-box,padding-box",
   "shown":true
 }

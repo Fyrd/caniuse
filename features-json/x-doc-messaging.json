@@ -9,12 +9,12 @@
       "title":"Article and demo"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
-      "title":"MDN article"
-    },
-    {
       "url":"http://html5demos.com/postmessage2",
       "title":"Simple demo"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -79,7 +79,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"n",
@@ -119,7 +120,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

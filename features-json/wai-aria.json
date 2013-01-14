@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.alistapart.com/articles/the-accessibility-of-wai-aria/",
-      "title":"ALA Article"
-    },
-    {
-      "url":"http://www.w3.org/WAI/intro/aria",
-      "title":"Information page"
-    },
-    {
-      "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
-      "title":"Links to various test results"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
       "title":"Wikipedia"
     },
     {
       "url":"http://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
       "title":"HTML5/WAI-ARIA information"
+    },
+    {
+      "url":"http://www.alistapart.com/articles/the-accessibility-of-wai-aria/",
+      "title":"ALA Article"
+    },
+    {
+      "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
+      "title":"Links to various test results"
+    },
+    {
+      "url":"http://www.w3.org/WAI/intro/aria",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -85,7 +85,8 @@
       "22":"a",
       "23":"a",
       "24":"a",
-      "25":"a"
+      "25":"a",
+      "26":"a"
     },
     "safari":{
       "3.1":"n",
@@ -125,7 +126,8 @@
       "2.3":"n",
       "3":"n",
       "4":"n",
-      "4.1":"n"
+      "4.1":"n",
+      "4.2":"n"
     },
     "bb":{
       "7":"n",

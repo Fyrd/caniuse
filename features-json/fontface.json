@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://opentype.info/blog/category/webfonts/",
-      "title":"Blog on web fonts & typography"
-    },
-    {
       "url":"http://webfonts.info",
       "title":"News and information site"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/Web_typography",
-      "title":"Wikipedia"
+      "url":"http://opentype.info/blog/category/webfonts/",
+      "title":"Blog on web fonts & typography"
     },
     {
       "url":"http://www.css3files.com/font/",
       "title":"Information page"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Web_typography",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -83,7 +83,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"n",
@@ -123,7 +124,8 @@
       "2.3":"a",
       "3":"a",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"a",

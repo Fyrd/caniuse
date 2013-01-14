@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://svg-wow.org/blog/category/animation/",
-      "title":"Examples on SVG WOW"
-    },
-    {
       "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
       "title":"MDN article"
+    },
+    {
+      "url":"http://svg-wow.org/blog/category/animation/",
+      "title":"Examples on SVG WOW"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"p",
@@ -115,7 +116,8 @@
       "2.3":"n",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

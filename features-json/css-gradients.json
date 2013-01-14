@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/css/radial-gradient",
+      "title":"WebPlatform Docs: radial-gradient"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/linear-gradient",
       "title":"WebPlatform Docs: linear-gradient"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://www.colorzilla.com/gradient-editor/",
       "title":"Cross-browser editor"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/radial-gradient",
-      "title":"WebPlatform Docs: radial-gradient"
     }
   ],
   "bugs":[
@@ -81,7 +81,8 @@
       "22":"y x",
       "23":"y x",
       "24":"y x",
-      "25":"y x"
+      "25":"y x",
+      "26":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -121,7 +122,8 @@
       "2.3":"a x",
       "3":"a x",
       "4":"y x",
-      "4.1":"y x"
+      "4.1":"y x",
+      "4.2":"y x"
     },
     "bb":{
       "7":"a x",

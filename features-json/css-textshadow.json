@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
-      "title":"Live editor"
-    },
-    {
       "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
+      "title":"Live editor"
     },
     {
       "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
@@ -79,7 +79,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"a",
@@ -119,7 +120,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"a",

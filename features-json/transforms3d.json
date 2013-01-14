@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
+      "title":"Mozilla hacks article"
+    },
+    {
       "url":"http://css3.bradshawenterprises.com/flip/",
       "title":"Multi-browser demo"
     },
     {
       "url":"http://thewebrocks.com/demos/3D-css-tester/",
       "title":"3D CSS Tester"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
-      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -30,7 +30,7 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y"
+      "10":"a"
     },
     "firefox":{
       "2":"n",
@@ -77,7 +77,8 @@
       "22":"y x",
       "23":"y x",
       "24":"y x",
-      "25":"y x"
+      "25":"y x",
+      "26":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -117,7 +118,8 @@
       "2.3":"n",
       "3":"y x",
       "4":"y x",
-      "4.1":"y x"
+      "4.1":"y x",
+      "4.2":"y x"
     },
     "bb":{
       "7":"y x",
@@ -138,9 +140,9 @@
       "0":"y x"
     }
   },
-  "notes":"",
-  "usage_perc_y":60.21,
-  "usage_perc_a":0,
+  "notes":"Partial support in IE10 refers to <a href=\"not supporting <a href=\"http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property\">the transform-style: preserve-3d property</a>. This prevents nesting 3D transformed elements.",
+  "usage_perc_y":59.67,
+  "usage_perc_a":0.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"css 3d,3dtransforms",

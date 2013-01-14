@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.digital-web.com/articles/everything_you_know_about_CSS_Is_wrong/",
-      "title":"Detailed article on usage"
-    },
-    {
       "url":"http://www.onenaught.com/posts/201/use-css-displaytable-for-layout",
       "title":"Blog post on usage"
+    },
+    {
+      "url":"http://www.digital-web.com/articles/everything_you_know_about_CSS_Is_wrong/",
+      "title":"Detailed article on usage"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"y",
@@ -115,7 +116,8 @@
       "2.3":"y",
       "3":"y",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"y",

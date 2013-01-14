@@ -9,12 +9,12 @@
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
-      "title":"jQuery fallback script"
-    },
-    {
       "url":"https://gist.github.com/370590",
       "title":"Fallback script"
+    },
+    {
+      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
+      "title":"jQuery fallback script"
     }
   ],
   "bugs":[
@@ -77,7 +77,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "safari":{
       "3.1":"p",
@@ -117,7 +118,8 @@
       "2.3":"p",
       "3":"p",
       "4":"y",
-      "4.1":"y"
+      "4.1":"y",
+      "4.2":"y"
     },
     "bb":{
       "7":"p",

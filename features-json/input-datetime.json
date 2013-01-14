@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/zoltan-dulac/html5Forms.js",
-      "title":"Polyfill for HTML5 forms"
-    },
-    {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
       "title":"Datepicker tutorial w/polyfill"
+    },
+    {
+      "url":"https://github.com/zoltan-dulac/html5Forms.js",
+      "title":"Polyfill for HTML5 forms"
     }
   ],
   "bugs":[
@@ -73,7 +73,8 @@
       "22":"a",
       "23":"a",
       "24":"a",
-      "25":"a"
+      "25":"a",
+      "26":"a"
     },
     "safari":{
       "3.1":"n",
@@ -113,7 +114,8 @@
       "2.3":"n",
       "3":"n",
       "4":"n",
-      "4.1":"n"
+      "4.1":"n",
+      "4.2":"n"
     },
     "bb":{
       "7":"n",

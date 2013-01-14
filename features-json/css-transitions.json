@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.opera.com/docs/specs/presto2.12/css/transitions/#anima",
-      "title":"Animation of property types support in Opera"
-    },
-    {
-      "url":"http://www.the-art-of-web.com/css/timing-function/",
-      "title":"Examples on timing functions"
-    },
-    {
       "url":"http://www.css3files.com/transition/",
       "title":"Information page"
     },
     {
       "url":"http://www.webdesignerdepot.com/2010/01/css-transitions-101/",
       "title":"Article on usage"
+    },
+    {
+      "url":"http://www.opera.com/docs/specs/presto2.12/css/transitions/#anima",
+      "title":"Animation of property types support in Opera"
+    },
+    {
+      "url":"http://www.the-art-of-web.com/css/timing-function/",
+      "title":"Examples on timing functions"
     }
   ],
   "bugs":[
@@ -29,7 +29,7 @@
       "description":"Not currently supported on ::before and ::after pseudo-elements for any browser but Firefox."
     },
     {
-      "description":"Currently no known browser is able to transition CSS gradients."
+      "description":"Currently no known browser but IE10 is able to transition CSS gradients."
     }
   ],
   "categories":[
@@ -89,7 +89,8 @@
       "22":"y x",
       "23":"y x",
       "24":"y x",
-      "25":"y x"
+      "25":"y x",
+      "26":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -129,7 +130,8 @@
       "2.3":"y x",
       "3":"y x",
       "4":"y x",
-      "4.1":"y x"
+      "4.1":"y x",
+      "4.2":"y x"
     },
     "bb":{
       "7":"y x",
