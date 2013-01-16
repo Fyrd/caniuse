@@ -11,7 +11,9 @@
   ],
   "bugs":[
     {
-      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in Firefox"
+      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in Firefox",
+      "description":"SVG-as-image is fuzzy/pixelated when zoomed in Opera 12.12, Safari 5.1.7",
+      "description":"Problems with positioning of SVG backgrounds in Opera 12.12"
     }
   ],
   "categories":[
