@@ -16,9 +16,6 @@
   "bugs":[
     {
       "description":"Reportedly, CORS in EventSource is currently supported in Firefox 10+, Opera 12+, Chrome 26, other WebKit-based browsers will support soon."
-    },
-    {
-      "description":"Appears to work in some (modified) versions of the Android 4 browser."
     }
   ],
   "categories":[

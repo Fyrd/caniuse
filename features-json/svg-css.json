@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in Firefox"
+      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in all browsers but Chrome 23+ and IE9+."
     }
   ],
   "categories":[

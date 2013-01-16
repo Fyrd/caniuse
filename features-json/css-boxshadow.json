@@ -24,12 +24,6 @@
   "bugs":[
     {
       "description":"Safari on iOS (including 6) can not apply box-shadow to input elements. (Solution: Add -webkit-appearance: none; to the input elements.)"
-    },
-    {
-      "description":"On IE9, box-shadow won't work if an element or its parent has `border-collapse` set to `collapse`. To fix this, set `border-collapse:separate;`."
-    },
-    {
-      "description":"For using inset shadows on iOS an additional property has to be declared in CSS: -webkit-appearance: none;"
     }
   ],
   "categories":[
