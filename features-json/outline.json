@@ -5,16 +5,18 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/CSS/outline",
-      "title":"Mozilla Developer Network: outline"
-    },
-    {
       "url":"http://dev.w3.org/csswg/css3-ui/#outline",
       "title":"CSS Basic User Interface Module Level 3"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/CSS/outline",
+      "title":"Mozilla Developer Network: outline"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE9 and IE10 don't support outline-offset as defined here: http://dev.w3.org/csswg/css3-ui/#outline-offset0"
+    }
   ],
   "categories":[
     "CSS2"
