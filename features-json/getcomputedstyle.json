@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
-      "title":"MDN article"
-    },
-    {
       "url":"http://snipplr.com/view/13523/",
       "title":"Polyfill for IE"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
       "title":"Demo"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
+      "title":"MDN article"
     }
   ],
   "bugs":[
