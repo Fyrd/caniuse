@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Partial support in Safari refers to <a href=\"http://stackoverflow.com/questions/13663302/why-does-my-content-security-policy-work-everywhere-but-safari\">buggy behavior</a>."
+    }
   ],
   "categories":[
     "Other"
@@ -77,7 +79,7 @@
       "3.2":"n",
       "4":"n",
       "5":"n",
-      "5.1":"n",
+      "5.1":"a x",
       "6":"y x"
     },
     "opera":{
@@ -134,7 +136,7 @@
   },
   "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10, and 'X-WebKit-CSP' for Safari and Chrome. IE 10's support is limited to the 'sandbox' directive.",
   "usage_perc_y":54.87,
-  "usage_perc_a":0.54,
+  "usage_perc_a":2.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",
