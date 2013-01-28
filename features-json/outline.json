@@ -17,9 +17,6 @@
     {
       "description":"IE9 and IE10 don't support outline-offset as defined here: http://dev.w3.org/csswg/css3-ui/#outline-offset0"
     }
-    {
-      "description":"Firefox renders outlines outside of a box-shadow. Decent workaround is using a second box-shadow instead of an outline. Discussion here: https://bugzilla.mozilla.org/show_bug.cgi?id=480888"
-    }
   ],
   "categories":[
     "CSS2"
