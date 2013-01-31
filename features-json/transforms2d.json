@@ -5,12 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.css3files.com/transform/",
-      "title":"Information page"
-    },
-    {
-      "url":"http://www.useragentman.com/IETransformsTranslator/",
-      "title":"Converter for IE"
+      "url":"http://www.westciv.com/tools/transforms/",
+      "title":"Live editor"
     },
     {
       "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
@@ -21,8 +17,12 @@
       "title":"MDN article"
     },
     {
-      "url":"http://www.westciv.com/tools/transforms/",
-      "title":"Live editor"
+      "url":"http://www.css3files.com/transform/",
+      "title":"Information page"
+    },
+    {
+      "url":"http://www.useragentman.com/IETransformsTranslator/",
+      "title":"Converter for IE"
     }
   ],
   "bugs":[
@@ -147,7 +147,7 @@
       "0":"y x"
     },
     "and_ff":{
-      "0":"y x"
+      "0":"y"
     }
   },
   "notes":"The scale transform can be emulated in IE < 9 using Microsoft's \"zoom\" extension, others are (not easily) possible using the MS Matrix filter",

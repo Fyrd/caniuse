@@ -1,16 +1,16 @@
 {
-  "title":"Data URLs",
+  "title":"Data URIs",
   "description":"Method of embedding images and other files in webpages as a string of text",
   "spec":"http://www.ietf.org/rfc/rfc2397.txt",
   "status":"other",
   "links":[
     {
-      "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
-      "title":"Data URL converter"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
+      "title":"Data URL converter"
     },
     {
       "url":"http://css-tricks.com/5970-data-uris/",
