@@ -18,7 +18,12 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In Chromium/Chrome contenteditable cannot be edited when nested into draggable (https://code.google.com/p/chromium/issues/detail?id=170139). Still not fixed in Chrome version 26.0.1384.2."
+    },
+    {
+      "description":"In Firefox when clicking on contenteditable nested into draggable, cursor is always positioned to the start of editable text. Still not fixed in version 18.0.1."
+    }
   ],
   "categories":[
     "HTML5"
