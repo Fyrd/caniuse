@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
       "title":"MDN article"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
@@ -137,7 +137,7 @@
     }
   },
   "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax.",
-  "usage_perc_y":69.72,
+  "usage_perc_y":70.81,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

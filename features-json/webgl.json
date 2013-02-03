@@ -5,20 +5,20 @@
   "status":"other",
   "links":[
     {
-      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
-      "title":"Webkit blog post"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
-      "title":"Firefox blog post"
+      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
+      "title":"Tutorial"
     },
     {
       "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
       "title":"Instructions on enabling WebGL"
     },
     {
-      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
-      "title":"Tutorial"
+      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
+      "title":"Webkit blog post"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
+      "title":"Firefox blog post"
     },
     {
       "url":"http://iewebgl.com/",
@@ -149,8 +149,8 @@
     }
   },
   "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have <a href=\"http://blog.mozilla.com/bjacob/2011/03/28/do-users-actually-get-hardware-acceleration/\">up to date video drivers</a>. This problem was <a href=\"http://www.geek.com/articles/news/chrome-18-adds-gpu-acceleration-and-swiftshader-for-better-gaming-performance-20120329/\">solved in Chrome</a> as of version 18.\r\n\r\nNote that WebGL is part of the <a href=\"http://www.khronos.org/webgl/\">Khronos Group</a>, not the W3C.",
-  "usage_perc_y":29.73,
-  "usage_perc_a":23.18,
+  "usage_perc_y":29.94,
+  "usage_perc_a":23.06,
   "ucprefix":false,
   "parent":"canvas",
   "keywords":"web gl",

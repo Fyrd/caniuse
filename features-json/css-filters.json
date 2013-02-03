@@ -9,20 +9,20 @@
       "title":"Filter editor"
     },
     {
-      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
-      "title":"Demo file for WebKit browsers"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
       "title":"Mozilla hacks article"
+    },
+    {
+      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
+      "title":"Demo file for WebKit browsers"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3",
-    "CSS"
+    "CSS",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -142,7 +142,7 @@
     }
   },
   "notes":"Note that this property is significantly different from and incompatible with Microsoft's <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx\">older \"filter\" property</a>.",
-  "usage_perc_y":36.22,
+  "usage_perc_y":37.13,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

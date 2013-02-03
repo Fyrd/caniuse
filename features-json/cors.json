@@ -9,12 +9,12 @@
       "title":"Mozilla Hacks blog post"
     },
     {
-      "url":"http://dev.opera.com/articles/view/dom-access-control-using-cross-origin-resource-sharing/",
-      "title":"DOM access using CORS"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
       "title":"Alternative implementation by IE8"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/dom-access-control-using-cross-origin-resource-sharing/",
+      "title":"DOM access using CORS"
     },
     {
       "url":"http://saltybeagle.com/2009/09/cross-origin-resource-sharing-demo/",
@@ -147,8 +147,8 @@
     }
   },
   "notes":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has <a href=\" http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx\">limitations</a>)",
-  "usage_perc_y":66.05,
-  "usage_perc_a":25.03,
+  "usage_perc_y":67.29,
+  "usage_perc_a":24.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

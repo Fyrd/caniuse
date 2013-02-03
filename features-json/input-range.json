@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
+      "title":"Tutorial"
+    },
+    {
       "url":"https://github.com/fryn/html5slider",
       "title":"Polyfill for Firefox"
     },
     {
       "url":"https://github.com/freqdec/fd-slider",
       "title":"Cross-browser polyfill"
-    },
-    {
-      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
-      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -141,8 +141,8 @@
     }
   },
   "notes":"Currently all Android browsers hide the slider input field by default. However, the element <a href=\"http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/\">can be styled</a> to be made visible and usable.",
-  "usage_perc_y":42.88,
-  "usage_perc_a":4.58,
+  "usage_perc_y":44.06,
+  "usage_perc_a":4.89,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

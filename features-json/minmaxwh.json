@@ -5,17 +5,17 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://reference.sitepoint.com/css/dimensions",
-      "title":"Sitepoint reference"
-    },
-    {
       "url":"http://code.google.com/p/ie7-js/",
       "title":"JS library with support"
+    },
+    {
+      "url":"http://reference.sitepoint.com/css/dimensions",
+      "title":"Sitepoint reference"
     }
   ],
   "bugs":[
     {
-      "description":"IE7 doesn't support min-width on input button/submit button/reset button.\r\nhttp://steve.ganz.name/examples/Forms/min-width-input.html"
+      "description":"IE7 doesn't support min-width on input button/submit button/reset button."
     }
   ],
   "categories":[
@@ -139,7 +139,7 @@
     }
   },
   "notes":"IE7 does not support \"inherit\" as a value on any of these properties. IE8 has some bugs with max-width/height combined with overflow: auto/scroll.",
-  "usage_perc_y":94.47,
+  "usage_perc_y":95.1,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

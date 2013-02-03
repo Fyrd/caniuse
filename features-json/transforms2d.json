@@ -5,6 +5,14 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
+      "title":"MDN article"
+    },
+    {
+      "url":"http://www.westciv.com/tools/transforms/",
+      "title":"Live editor"
+    },
+    {
       "url":"http://www.useragentman.com/IETransformsTranslator/",
       "title":"Converter for IE"
     },
@@ -15,14 +23,6 @@
     {
       "url":"http://www.css3files.com/transform/",
       "title":"Information page"
-    },
-    {
-      "url":"http://www.westciv.com/tools/transforms/",
-      "title":"Live editor"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -151,7 +151,7 @@
     }
   },
   "notes":"The scale transform can be emulated in IE < 9 using Microsoft's \"zoom\" extension, others are (not easily) possible using the MS Matrix filter",
-  "usage_perc_y":81.36,
+  "usage_perc_y":82.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
