@@ -26,7 +26,10 @@
       "description":"Opera (versions unknown) fails at transitioning the background-position property."
     },
     {
-      "description":"Not currently supported on ::before and ::after pseudo-elements for any browser but Firefox."
+      "description":"Not currently supported on ::before and ::after pseudo-elements for any browser but Firefox and Chrome (26 and later)."
+    },
+    {
+      "description":"WebKit computes \"auto\" as 0 in transitions, so transitions of width between auto and 800px shrinks the element first and then widens it to 800px."
     },
     {
       "description":"Currently no known browser but IE10 is able to transition CSS gradients."
