@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IndexedDB is only available on websites with http or https URL schemes (not locally)"
+    }
   ],
   "categories":[
     "JS API"

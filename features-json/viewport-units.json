@@ -12,6 +12,9 @@
   "bugs":[
     {
       "description":"Chrome does not support viewport units for border widths."
+    },
+    {
+      "description":"Chrome does not correctly adjust the viewport units on vertical resizing of the window"
     }
   ],
   "categories":[
