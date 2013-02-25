@@ -9,12 +9,12 @@
       "title":"Detailed tables on accessability support"
     },
     {
-      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
       "title":"Demo pages (IE/Firefox only)"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -53,7 +53,8 @@
       "17":"y x",
       "18":"y x",
       "19":"y x",
-      "20":"y x"
+      "20":"y x",
+      "21":"y x"
     },
     "chrome":{
       "4":"n",

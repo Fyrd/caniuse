@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.css3.info/selectors-test/",
-      "title":"Automated CSS3 selector test"
-    },
-    {
       "url":"http://www.quirksmode.org/css/contents.html",
       "title":"Detailed support information"
+    },
+    {
+      "url":"http://www.css3.info/selectors-test/",
+      "title":"Automated CSS3 selector test"
     },
     {
       "url":"http://selectivizr.com",
@@ -53,7 +53,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"y",

@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
-      "title":"MDN article"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -49,7 +49,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"n",

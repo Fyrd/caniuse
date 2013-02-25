@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
-      "title":"jQuery fallback script"
-    },
-    {
       "url":"http://html5doctor.com/summary-figcaption-element/",
       "title":"HTML5 Doctor article"
     },
     {
       "url":"https://gist.github.com/370590",
       "title":"Fallback script"
+    },
+    {
+      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
+      "title":"jQuery fallback script"
     }
   ],
   "bugs":[
@@ -52,8 +52,9 @@
       "16":"p",
       "17":"p",
       "18":"p",
-      "19":"u",
-      "20":"u"
+      "19":"p",
+      "20":"u",
+      "21":"u"
     },
     "chrome":{
       "4":"p",

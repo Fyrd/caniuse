@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
-      "title":"MDN article"
-    },
-    {
       "url":"http://www.css3files.com/gradient/#repeatinglineargradient",
       "title":"Information page"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -49,7 +49,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"n",

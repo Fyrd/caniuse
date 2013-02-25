@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://onwebdev.blogspot.com/2012/02/css-counters-tutorial.html",
-      "title":"Tutorial and information"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS_Counters",
       "title":"MDN article"
+    },
+    {
+      "url":"http://onwebdev.blogspot.com/2012/02/css-counters-tutorial.html",
+      "title":"Tutorial and information"
     }
   ],
   "bugs":[
@@ -49,7 +49,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"y",

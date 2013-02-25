@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://github.com/Schepp/box-sizing-polyfill",
+      "title":"Polyfill for IE"
+    },
+    {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
     },
     {
       "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
       "title":"Blog post"
-    },
-    {
-      "url":"https://github.com/Schepp/box-sizing-polyfill",
-      "title":"Polyfill for IE"
     }
   ],
   "bugs":[
@@ -55,7 +55,8 @@
       "17":"y x",
       "18":"y x",
       "19":"y x",
-      "20":"y x"
+      "20":"y x",
+      "21":"y x"
     },
     "chrome":{
       "4":"a x",

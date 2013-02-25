@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html.adobe.com/webstandards/cssregions/",
-      "title":"Adobe demos and samples"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/ie/hh272902#_CSSConnected",
       "title":"IE10 developer guide info"
+    },
+    {
+      "url":"http://html.adobe.com/webstandards/cssregions/",
+      "title":"Adobe demos and samples"
     }
   ],
   "bugs":[
@@ -49,7 +49,8 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"n"
+      "20":"n",
+      "21":"n"
     },
     "chrome":{
       "4":"n",

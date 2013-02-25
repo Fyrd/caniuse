@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/storage",
-      "title":"Simple demo"
-    },
-    {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
+    },
+    {
+      "url":"http://html5demos.com/storage",
+      "title":"Simple demo"
     },
     {
       "url":"http://code.google.com/p/sessionstorage/",
@@ -53,7 +53,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"y",

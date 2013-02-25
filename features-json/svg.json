@@ -5,10 +5,6 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://svg-edit.googlecode.com",
-      "title":"Web-based SVG editor"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
       "title":"Wikipedia"
     },
@@ -17,12 +13,16 @@
       "title":"A List Apart article"
     },
     {
+      "url":"http://svg-wow.org/",
+      "title":"SVG showcase site"
+    },
+    {
       "url":"http://code.google.com/p/svgweb/",
       "title":"SVG Web: Flash-based polyfill"
     },
     {
-      "url":"http://svg-wow.org/",
-      "title":"SVG showcase site"
+      "url":"http://svg-edit.googlecode.com",
+      "title":"Web-based SVG editor"
     }
   ],
   "bugs":[
@@ -61,7 +61,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"y",

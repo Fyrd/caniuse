@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
       "title":"Blog post"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
       "title":"MDN article"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -53,7 +53,8 @@
       "17":"a x",
       "18":"a x",
       "19":"a x",
-      "20":"a x"
+      "20":"a x",
+      "21":"a x"
     },
     "chrome":{
       "4":"n",

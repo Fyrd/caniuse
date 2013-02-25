@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.xmlplease.com/xhtml/xhtml5polyglot/",
-      "title":"Information on XHTML5"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/XHTML",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://www.xmlplease.com/xhtml/xhtml5polyglot/",
+      "title":"Information on XHTML5"
     }
   ],
   "bugs":[
@@ -49,7 +49,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"y",

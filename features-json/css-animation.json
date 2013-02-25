@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://robertnyman.com/2010/05/06/css3-animations/",
-      "title":"Blog post on usage"
-    },
-    {
       "url":"http://www.css3files.com/animation/",
       "title":"Information page"
+    },
+    {
+      "url":"http://robertnyman.com/2010/05/06/css3-animations/",
+      "title":"Blog post on usage"
     }
   ],
   "bugs":[
@@ -51,7 +51,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "chrome":{
       "4":"y x",
