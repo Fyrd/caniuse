@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/jonstipe/number-polyfill",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://www.html5tutorial.info/html5-number.php",
       "title":"Tutorial"
+    },
+    {
+      "url":"https://github.com/jonstipe/number-polyfill",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"n",

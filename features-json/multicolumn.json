@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
       "title":"Introduction page"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -83,7 +83,8 @@
       "23":"a x",
       "24":"a x",
       "25":"a x",
-      "26":"a x"
+      "26":"a x",
+      "27":"a x"
     },
     "safari":{
       "3.1":"a x",

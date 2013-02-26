@@ -9,10 +9,6 @@
       "title":"Polyfill for IE"
     },
     {
-      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
-      "title":"Webkit blog post"
-    },
-    {
       "url":"http://www.khronos.org/webgl/wiki/Tutorial",
       "title":"Tutorial"
     },
@@ -23,6 +19,10 @@
     {
       "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
       "title":"Instructions on enabling WebGL"
+    },
+    {
+      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
+      "title":"Webkit blog post"
     }
   ],
   "bugs":[
@@ -87,7 +87,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"n",

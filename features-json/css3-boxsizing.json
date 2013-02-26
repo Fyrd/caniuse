@@ -9,12 +9,12 @@
       "title":"Polyfill for IE"
     },
     {
-      "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
-      "title":"MDN article"
-    },
-    {
       "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -81,7 +81,8 @@
       "23":"a",
       "24":"a",
       "25":"a",
-      "26":"a"
+      "26":"a",
+      "27":"a"
     },
     "safari":{
       "3.1":"a x",

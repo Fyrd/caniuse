@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
-      "title":"Tutorial"
+      "url":"https://github.com/fryn/html5slider",
+      "title":"Polyfill for Firefox"
     },
     {
       "url":"https://github.com/freqdec/fd-slider",
       "title":"Cross-browser polyfill"
     },
     {
-      "url":"https://github.com/fryn/html5slider",
-      "title":"Polyfill for Firefox"
+      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
+      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -79,7 +79,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"y",

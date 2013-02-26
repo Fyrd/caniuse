@@ -9,16 +9,16 @@
       "title":"Information page"
     },
     {
-      "url":"http://border-radius.com",
-      "title":"Border-radius CSS Generator"
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
     },
     {
       "url":"http://css3pie.com/",
       "title":"Polyfill for that includes border-radius"
     },
     {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
+      "url":"http://border-radius.com",
+      "title":"Border-radius CSS Generator"
     }
   ],
   "bugs":[
@@ -91,7 +91,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"y x",

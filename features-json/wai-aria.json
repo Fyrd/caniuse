@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
+      "title":"Wikipedia"
+    },
+    {
       "url":"http://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
       "title":"HTML5/WAI-ARIA information"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
       "title":"Links to various test results"
-    },
-    {
-      "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
-      "title":"Wikipedia"
     },
     {
       "url":"http://www.alistapart.com/articles/the-accessibility-of-wai-aria/",
@@ -87,7 +87,8 @@
       "23":"a",
       "24":"a",
       "25":"a",
-      "26":"a"
+      "26":"a",
+      "27":"a"
     },
     "safari":{
       "3.1":"n",

@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/WebSocket",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://updates.html5rocks.com/2011/08/What-s-different-in-the-new-WebSocket-protocol",
       "title":"Details on newer protocol"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/WebSocket",
+      "title":"Wikipedia"
     },
     {
       "url":"http://websocket.org/aboutwebsocket.html",
@@ -79,7 +79,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"n",

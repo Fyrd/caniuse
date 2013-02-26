@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5doctor.com/native-drag-and-drop/",
-      "title":"HTML5 Doctor article"
+      "url":"http://html5demos.com/drag",
+      "title":"Demo with link blocks"
     },
     {
       "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
       "title":"Shopping cart demo"
     },
     {
-      "url":"http://html5demos.com/drag",
-      "title":"Demo with link blocks"
+      "url":"http://html5doctor.com/native-drag-and-drop/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -81,7 +81,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"y",

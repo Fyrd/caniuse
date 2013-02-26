@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/DOM/Storage",
-      "title":"Gecko reference"
-    },
-    {
       "url":"http://html5demos.com/storage",
       "title":"Simple demo"
     },
     {
       "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/DOM/Storage",
+      "title":"Gecko reference"
     }
   ],
   "bugs":[
@@ -79,7 +79,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"n",

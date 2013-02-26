@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://dev.chromium.org/sts",
-      "title":"Strict Transport Security @ Chromium"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security",
       "title":"Strict Transport Security @ Mozilla Developer Network"
+    },
+    {
+      "url":"http://dev.chromium.org/sts",
+      "title":"Strict Transport Security @ Chromium"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"n",

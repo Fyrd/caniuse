@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
-      "title":"MDN article on BlobBuilder"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/DOM/Blob",
       "title":"MDN article on Blobs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
+      "title":"MDN article on BlobBuilder"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "safari":{
       "3.1":"n",
