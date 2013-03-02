@@ -5,24 +5,24 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/APNG",
-      "title":"Wikipedia"
-    },
-    {
-      "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
-      "title":"APNG tutorial"
-    },
-    {
-      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
-      "title":"Chrome extension providing support"
+      "url":"http://animatedpng.com/",
+      "title":"An APNG editor"
     },
     {
       "url":"https://github.com/davidmz/apng-canvas",
       "title":"Polyfill using canvas"
     },
     {
-      "url":"http://animatedpng.com/",
-      "title":"An APNG editor"
+      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
+      "title":"Chrome extension providing support"
+    },
+    {
+      "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
+      "title":"APNG tutorial"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/APNG",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -34,9 +34,18 @@
   "stats":{
     "ie":{
       "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
       "10":"n"
     },
     "firefox":{
+      "2":"n",
+      "3":"y",
+      "3.5":"y",
+      "3.6":"y",
+      "4":"y",
       "5":"y",
       "6":"y",
       "7":"y",
@@ -56,6 +65,12 @@
       "21":"y"
     },
     "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
       "10":"n",
       "11":"n",
       "12":"n",
@@ -76,11 +91,20 @@
       "27":"n"
     },
     "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
       "6":"n"
     },
     "opera":{
       "9":"n",
       "9.5-9.6":"y",
+      "10.0-10.1":"y",
+      "10.5":"y",
+      "10.6":"y",
+      "11":"y",
       "11.1":"y",
       "11.5":"y",
       "11.6":"y",
@@ -127,7 +151,7 @@
     }
   },
   "notes":"Where support for APNG is missing, only the first frame is displayed",
-  "usage_perc_y":18.64,
+  "usage_perc_y":19.5,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

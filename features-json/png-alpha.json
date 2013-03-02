@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://dillerdesign.com/experiment/DD_belatedPNG/",
-      "title":"Workaround for IE6"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/Portable_Network_Graphics",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://dillerdesign.com/experiment/DD_belatedPNG/",
+      "title":"Workaround for IE6"
     }
   ],
   "bugs":[
@@ -24,9 +24,18 @@
   "stats":{
     "ie":{
       "5.5":"n",
+      "6":"p",
+      "7":"y",
+      "8":"y",
+      "9":"y",
       "10":"y"
     },
     "firefox":{
+      "2":"y",
+      "3":"y",
+      "3.5":"y",
+      "3.6":"y",
+      "4":"y",
       "5":"y",
       "6":"y",
       "7":"y",
@@ -46,6 +55,12 @@
       "21":"y"
     },
     "chrome":{
+      "4":"y",
+      "5":"y",
+      "6":"y",
+      "7":"y",
+      "8":"y",
+      "9":"y",
       "10":"y",
       "11":"y",
       "12":"y",
@@ -66,11 +81,20 @@
       "27":"y"
     },
     "safari":{
+      "3.1":"y",
+      "3.2":"y",
+      "4":"y",
+      "5":"y",
+      "5.1":"y",
       "6":"y"
     },
     "opera":{
       "9":"y",
       "9.5-9.6":"y",
+      "10.0-10.1":"y",
+      "10.5":"y",
+      "10.6":"y",
+      "11":"y",
       "11.1":"y",
       "11.5":"y",
       "11.6":"y",
@@ -117,7 +141,7 @@
     }
   },
   "notes":"IE6 does support full transparency in 8-bit PNGs, which can sometimes be an alternative to 24-bit PNGs.",
-  "usage_perc_y":66.25,
+  "usage_perc_y":95.1,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

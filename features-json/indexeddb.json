@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"https://github.com/axemclion/IndexedDBShim",
       "title":"Polyfill for browsers supporting WebSQL"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
@@ -134,15 +134,15 @@
       "12.1":"n"
     },
     "and_chr":{
-      "0":"a x"
+      "0":"y"
     },
     "and_ff":{
       "0":"y"
     }
   },
   "notes":"",
-  "usage_perc_y":46.93,
-  "usage_perc_a":2.67,
+  "usage_perc_y":47.25,
+  "usage_perc_a":2.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb",

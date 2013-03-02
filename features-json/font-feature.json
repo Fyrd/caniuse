@@ -9,12 +9,12 @@
       "title":"Demo pages (IE/Firefox only)"
     },
     {
-      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://html5accessibility.com/",
       "title":"Detailed tables on accessability support"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -136,15 +136,15 @@
       "12.1":"n"
     },
     "and_chr":{
-      "0":"a x"
+      "0":"y x"
     },
     "and_ff":{
       "0":"y x"
     }
   },
   "notes":"Partial support in older Firefox versions refers to using an older syntax. Partial support in older Chrome versions refers to lacking support in Mac OS X. ",
-  "usage_perc_y":45.74,
-  "usage_perc_a":14.16,
+  "usage_perc_y":46.06,
+  "usage_perc_a":13.84,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",
