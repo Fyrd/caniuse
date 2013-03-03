@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/storage",
-      "title":"Simple demo"
-    },
-    {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
     },
@@ -16,10 +12,14 @@
       "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
     },
-	{
+    {
+      "url":"http://html5demos.com/storage",
+      "title":"Simple demo"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-localstorage;native-sessionstorage",
-	  "title":"has.js test"
-	}
+      "title":"has.js test"
+    }
   ],
   "bugs":[
     
