@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://nerget.com/rayjs-mt/rayjs.html",
+      "title":"Web Worker demo"
+    },
+    {
       "url":"http://code.google.com/p/ie-web-worker/",
       "title":"Polyfill for IE (single threaded)"
     },
     {
       "url":"https://developer.mozilla.org/En/Using_web_workers",
       "title":"MDN article"
-    },
-    {
-      "url":"http://nerget.com/rayjs-mt/rayjs.html",
-      "title":"Web Worker demo"
     }
   ],
   "bugs":[
@@ -143,7 +143,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":62.37,
+  "usage_perc_y":63.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

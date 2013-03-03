@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://websocket.org/aboutwebsocket.html",
-      "title":"WebSockets information"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/WebSocket",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://websocket.org/aboutwebsocket.html",
+      "title":"WebSockets information"
     },
     {
       "url":"http://updates.html5rocks.com/2011/08/What-s-different-in-the-new-WebSocket-protocol",
@@ -143,8 +143,8 @@
     }
   },
   "notes":"Partial support refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol).",
-  "usage_perc_y":57.1,
-  "usage_perc_a":4.64,
+  "usage_perc_y":58.69,
+  "usage_perc_a":4.11,
   "ucprefix":true,
   "parent":"",
   "keywords":"",

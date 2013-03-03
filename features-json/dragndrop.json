@@ -9,12 +9,12 @@
       "title":"Demo with link blocks"
     },
     {
-      "url":"http://html5doctor.com/native-drag-and-drop/",
-      "title":"HTML5 Doctor article"
-    },
-    {
       "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
       "title":"Shopping cart demo"
+    },
+    {
+      "url":"http://html5doctor.com/native-drag-and-drop/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -145,8 +145,8 @@
     }
   },
   "notes":"Partial support in IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData.",
-  "usage_perc_y":55.16,
-  "usage_perc_a":25.74,
+  "usage_perc_y":55.54,
+  "usage_perc_a":24.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/hyphens",
-      "title":"MDN article"
-    },
-    {
       "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/hyphens",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -139,7 +139,7 @@
     }
   },
   "notes":"Chrome and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property.",
-  "usage_perc_y":28.46,
+  "usage_perc_y":29.14,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

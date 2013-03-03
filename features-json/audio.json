@@ -5,6 +5,14 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://html5doctor.com/native-audio-in-the-browser/",
+      "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
+    },
+    {
       "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
       "title":"The State of HTML5 Audio"
     },
@@ -19,14 +27,6 @@
     {
       "url":"http://www.jplayer.org/latest/demos/",
       "title":"Demos of audio player that uses <audio>"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
-    },
-    {
-      "url":"http://html5doctor.com/native-audio-in-the-browser/",
-      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -160,7 +160,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":82.05,
+  "usage_perc_y":82.71,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

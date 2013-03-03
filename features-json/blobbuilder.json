@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
-      "title":"MDN article on BlobBuilder"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/DOM/Blob",
       "title":"MDN article on Blobs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
+      "title":"MDN article on BlobBuilder"
     }
   ],
   "bugs":[
@@ -139,8 +139,8 @@
     }
   },
   "notes":"Partial support refers to only supporting the now deprecated BlobBuilder to create blobs.",
-  "usage_perc_y":54.49,
-  "usage_perc_a":5.02,
+  "usage_perc_y":56.19,
+  "usage_perc_a":5.15,
   "ucprefix":true,
   "parent":"fileapi",
   "keywords":"",

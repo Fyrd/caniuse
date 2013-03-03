@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
-      "title":"MDN article"
+      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
+      "title":"Mozilla hacks article"
     },
     {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
       "title":"Blog post"
     },
     {
-      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
-      "title":"Mozilla hacks article"
+      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -143,8 +143,8 @@
     }
   },
   "notes":"Partial support refers to supporting an earlier draft of the spec.",
-  "usage_perc_y":32.27,
-  "usage_perc_a":19.11,
+  "usage_perc_y":32.78,
+  "usage_perc_a":18.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen",

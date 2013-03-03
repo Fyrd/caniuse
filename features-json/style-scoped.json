@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
-      "title":"HTML5Rocks article"
-    },
-    {
       "url":"http://html5doctor.com/the-scoped-attribute/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
+      "title":"HTML5Rocks article"
     },
     {
       "url":"https://github.com/PM5544/scoped-polyfill",
@@ -144,7 +144,7 @@
     }
   },
   "notes":"Supported in Chrome 20+ by enabling the \"&lt;style scoped>\" flag in chrome://flags.",
-  "usage_perc_y":0,
+  "usage_perc_y":0.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

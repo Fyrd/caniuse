@@ -5,24 +5,24 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
-      "title":"A List Apart article"
-    },
-    {
-      "url":"http://code.google.com/p/svgweb/",
-      "title":"SVG Web: Flash-based polyfill"
-    },
-    {
       "url":"http://svg-edit.googlecode.com",
       "title":"Web-based SVG editor"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
+      "title":"Wikipedia"
     },
     {
       "url":"http://svg-wow.org/",
       "title":"SVG showcase site"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
-      "title":"Wikipedia"
+      "url":"http://code.google.com/p/svgweb/",
+      "title":"SVG Web: Flash-based polyfill"
+    },
+    {
+      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
+      "title":"A List Apart article"
     }
   ],
   "bugs":[
@@ -151,7 +151,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":81.88,
+  "usage_perc_y":82.61,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
