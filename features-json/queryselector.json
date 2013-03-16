@@ -2,19 +2,19 @@
   "title":"querySelector/querySelectorAll",
   "description":"Method of accessing DOM elements using CSS selectors",
   "spec":"http://www.w3.org/TR/selectors-api/",
-  "status":"cr",
+  "status":"rec",
   "links":[
     {
       "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
       "title":"MDN article on querySelector"
     },
     {
-      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
-      "title":"MDN article on querySelectorAll"
-    },
-    {
       "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
+      "title":"MDN article on querySelectorAll"
     }
   ],
   "bugs":[

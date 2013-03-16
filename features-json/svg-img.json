@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"IE9 doesn't support style=\"width:100px;\" for SVG images using &lt;img>"
+    },
+    {
+      "description":"Chrome & Safari may show text using an incorrect font for SVGs with text using &lt;img>"
     }
   ],
   "categories":[
