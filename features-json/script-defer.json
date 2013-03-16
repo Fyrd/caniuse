@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE<10 may interleave execution of scripts, <a href=\"https://github.com/h5bp/lazyweb-requests/issues/42\">See the discussion</a>."
+    }
   ],
   "categories":[
     "DOM",
@@ -22,11 +24,11 @@
   ],
   "stats":{
     "ie":{
-      "5.5":"y",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
+      "5.5":"a",
+      "6":"a",
+      "7":"a",
+      "8":"a",
+      "9":"a",
       "10":"y"
     },
     "firefox":{
@@ -139,7 +141,7 @@
       "0":"y"
     }
   },
-  "notes":"",
+  "notes":"Partial support refers to a buggy implementation in IE<10",
   "usage_perc_y":88.97,
   "usage_perc_a":0,
   "ucprefix":false,
