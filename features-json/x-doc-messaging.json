@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Internet Explorer 8 and 9, and Firefox versions 3.6 and below only support strings as postMessage's message. Reference: http://dev.opera.com/articles/view/window-postmessage-messagechannel/#crossdoc"
+      "description":"Internet Explorer 8 and 9, and Firefox versions 6.0 and below only support strings as postMessage's message. References: http://dev.opera.com/articles/view/window-postmessage-messagechannel/#crossdoc, https://developer.mozilla.org/en-US/docs/DOM/window.postMessage"
     }
   ],
   "categories":[
