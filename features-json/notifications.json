@@ -5,16 +5,18 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
-      "title":"Chromium API"
-    },
-    {
       "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
+      "title":"Chromium API"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Support coming in Firefox 22."
+    }
   ],
   "categories":[
     "JS API"
@@ -49,8 +51,8 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"u",
-      "21":"u"
+      "20":"n",
+      "21":"n"
     },
     "chrome":{
       "4":"n",

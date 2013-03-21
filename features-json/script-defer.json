@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
-      "title":"MDN article"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
       "title":"has.js test"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -142,8 +142,8 @@
     }
   },
   "notes":"Partial support refers to a buggy implementation in IE<10",
-  "usage_perc_y":88.97,
-  "usage_perc_a":0,
+  "usage_perc_y":64.25,
+  "usage_perc_a":24.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
