@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5tutorial.info/html5-color.php",
-      "title":"Tutorial"
-    },
-    {
       "url":"https://github.com/jonstipe/color-polyfill",
       "title":"Polyfill"
+    },
+    {
+      "url":"http://www.html5tutorial.info/html5-color.php",
+      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -97,8 +97,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

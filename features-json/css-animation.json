@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.css3files.com/animation/",
-      "title":"Information page"
-    },
-    {
       "url":"http://robertnyman.com/2010/05/06/css3-animations/",
       "title":"Blog post on usage"
+    },
+    {
+      "url":"http://www.css3files.com/animation/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -99,8 +99,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"y x",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"y x",

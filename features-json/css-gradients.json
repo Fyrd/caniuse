@@ -9,16 +9,20 @@
       "title":"WebPlatform Docs: radial-gradient"
     },
     {
+      "url":"http://docs.webplatform.org/wiki/css/linear-gradient",
+      "title":"WebPlatform Docs: linear-gradient"
+    },
+    {
       "url":"http://www.colorzilla.com/gradient-editor/",
       "title":"Cross-browser editor"
     },
     {
-      "url":"http://www.css3files.com/gradient/",
-      "title":"Information page"
+      "url":"http://css3pie.com/",
+      "title":"Tool to emulate support in IE"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/linear-gradient",
-      "title":"WebPlatform Docs: linear-gradient"
+      "url":"http://www.css3files.com/gradient/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -105,8 +109,7 @@
       "11.5":"a x",
       "11.6":"y x",
       "12":"y x",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"a x",

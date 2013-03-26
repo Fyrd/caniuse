@@ -9,12 +9,12 @@
       "title":"Detailed support tables"
     },
     {
-      "url":"http://www.quirksmode.org/m/tests/drag2.html",
-      "title":"Multi-touch demo"
-    },
-    {
       "url":"http://schepers.cc/getintouch",
       "title":"Information on the spec development"
+    },
+    {
+      "url":"http://www.quirksmode.org/m/tests/drag2.html",
+      "title":"Multi-touch demo"
     }
   ],
   "bugs":[
@@ -107,8 +107,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "12.5":"n"
+      "12.1":"n"
     },
     "ios_saf":{
       "3.2":"y",

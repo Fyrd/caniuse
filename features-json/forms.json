@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.miketaylr.com/code/input-type-attr.html",
-      "title":"HTML5 inputs and attribute support page"
-    },
-    {
       "url":"https://github.com/westonruter/webforms2",
       "title":"Cross-browser JS implementation (based on original spec)"
+    },
+    {
+      "url":"http://www.miketaylr.com/code/input-type-attr.html",
+      "title":"HTML5 inputs and attribute support page"
     }
   ],
   "bugs":[
@@ -102,8 +102,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

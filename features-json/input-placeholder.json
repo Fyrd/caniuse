@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
-      "title":"has.js test"
-    },
-    {
       "url":"http://www.zachleat.com/web/placeholder/",
       "title":"Article on usage"
     },
     {
       "url":"https://github.com/mathiasbynens/jquery-placeholder",
       "title":"Polyfill"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -101,8 +101,7 @@
       "11.5":"a",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"y",

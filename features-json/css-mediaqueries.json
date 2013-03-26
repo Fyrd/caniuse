@@ -5,21 +5,24 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
-      "title":"Media Queries tutorial"
+      "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
+      "title":"IE demo page with information"
     },
     {
       "url":"https://github.com/scottjehl/Respond",
       "title":"Polyfill for IE"
     },
     {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
-      "title":"IE demo page with information"
+      "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
+      "title":"Media Queries tutorial"
     }
   ],
   "bugs":[
     {
       "description":"Firefox (9 and previous?) is buggy with min-width media queries not being recognized, but the rules inside those being parsed and used."
+    },
+    {
+      "description":"Opera 12.1 and IE9 incorrectly include scrollbar width for media queries based on window width."
     }
   ],
   "categories":[
@@ -103,8 +106,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"y",

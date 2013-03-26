@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.css3files.com/transition/",
-      "title":"Information page"
-    },
-    {
       "url":"http://www.webdesignerdepot.com/2010/01/css-transitions-101/",
       "title":"Article on usage"
     },
     {
       "url":"http://www.the-art-of-web.com/css/timing-function/",
       "title":"Examples on timing functions"
+    },
+    {
+      "url":"http://www.css3files.com/transition/",
+      "title":"Information page"
     },
     {
       "url":"http://www.opera.com/docs/specs/presto2.12/css/transitions/#anima",
@@ -113,8 +113,7 @@
       "11.5":"y x",
       "11.6":"y x",
       "12":"y x",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"y x",

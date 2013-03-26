@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://mcc.id.au/blog/2012/08/supports",
-      "title":"@supports in Firefox"
-    },
-    {
       "url":"http://dabblet.com/gist/3895764",
       "title":"Test case"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
       "title":"MDN Article"
+    },
+    {
+      "url":"http://mcc.id.au/blog/2012/08/supports",
+      "title":"@supports in Firefox"
     }
   ],
   "bugs":[
@@ -101,8 +101,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

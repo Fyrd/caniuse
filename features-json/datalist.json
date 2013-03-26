@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://afarkas.github.com/webshim/demos/",
+      "title":"HTML5 Library including datalist support"
+    },
+    {
       "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
       "title":"Mozilla Hacks article"
     },
     {
       "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
       "title":"MDN reference"
-    },
-    {
-      "url":"http://afarkas.github.com/webshim/demos/",
-      "title":"HTML5 Library including datalist support"
     }
   ],
   "bugs":[
@@ -101,8 +101,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"p",

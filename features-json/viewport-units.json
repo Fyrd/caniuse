@@ -11,10 +11,13 @@
   ],
   "bugs":[
     {
-      "description":"Chrome does not support viewport units for border widths."
+      "description":"Chrome does not support viewport units for border widths or column gaps."
     },
     {
       "description":"Chrome does not correctly adjust the viewport units on vertical resizing of the window"
+    },
+    {
+      "description":"Viewport units don\u2019t work on WebKit for fonts after resizing the window."
     }
   ],
   "categories":[
@@ -98,8 +101,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "12.5":"u"
+      "12.1":"n"
     },
     "ios_saf":{
       "3.2":"n",

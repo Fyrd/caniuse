@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
-      "title":"MDN article on BlobBuilder"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/DOM/Blob",
       "title":"MDN article on Blobs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
+      "title":"MDN article on BlobBuilder"
     }
   ],
   "bugs":[
@@ -97,8 +97,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

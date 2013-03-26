@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
-      "title":"MSDN Documentation"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
       "title":"MDN article"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
+      "title":"MSDN Documentation"
     },
     {
       "url":"http://css-tricks.com/almanac/properties/u/user-select/",
@@ -101,8 +101,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "12.5":"n"
+      "12.1":"n"
     },
     "ios_saf":{
       "3.2":"y x",

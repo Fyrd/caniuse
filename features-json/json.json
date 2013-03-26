@@ -9,12 +9,12 @@
       "title":"has.js test"
     },
     {
-      "url":"https://developer.mozilla.org/En/Using_native_JSON",
-      "title":"MDN article"
-    },
-    {
       "url":"http://www.json.org/js.html",
       "title":"JSON in JS (includes script w/support)"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/Using_native_JSON",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -101,8 +101,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

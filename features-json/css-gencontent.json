@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/css-generated-content-techniques/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://www.westciv.com/style_master/academy/css_tutorial/advanced/generated_content.html",
       "title":"Guide on usage"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/css-generated-content-techniques/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -102,8 +102,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"y",

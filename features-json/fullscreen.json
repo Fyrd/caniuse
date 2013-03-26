@@ -9,12 +9,12 @@
       "title":"MDN article"
     },
     {
-      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
       "title":"Blog post"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -101,8 +101,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

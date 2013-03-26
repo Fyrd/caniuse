@@ -13,18 +13,16 @@
       "title":"jQuery polyfill for dataset support"
     },
     {
-      "url":"http://html5demos.com/dataset",
-      "title":"Demo using dataset"
-    },
-    {
       "url":"http://html5doctor.com/html5-custom-data-attributes/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"http://html5demos.com/dataset",
+      "title":"Demo using dataset"
     }
   ],
   "bugs":[
-    {
-      "description":"The dataset property of SVG elements appears to be not working in Firefox and Opera."
-    }
+    
   ],
   "categories":[
     "HTML5"
@@ -107,8 +105,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -148,7 +145,7 @@
       "0":"y"
     }
   },
-  "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property.",
+  "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",
   "usage_perc_y":62.98,
   "usage_perc_a":32.71,
   "ucprefix":false,

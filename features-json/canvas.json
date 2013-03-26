@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
+      "title":"Tutorial by Mozilla"
+    },
+    {
       "url":"http://www.canvasdemos.com/",
       "title":"Showcase site"
     },
@@ -23,10 +27,6 @@
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
       "title":"has.js test"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
-      "title":"Tutorial by Mozilla"
     }
   ],
   "bugs":[
@@ -116,8 +116,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"y",

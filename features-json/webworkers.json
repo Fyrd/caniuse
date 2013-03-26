@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-worker",
-      "title":"has.js test"
-    },
-    {
       "url":"https://developer.mozilla.org/En/Using_web_workers",
       "title":"MDN article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://nerget.com/rayjs-mt/rayjs.html",
       "title":"Web Worker demo"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-worker",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -105,8 +105,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

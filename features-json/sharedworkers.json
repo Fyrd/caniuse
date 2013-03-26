@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
+      "title":"Blog post"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-sharedworker",
       "title":"has.js test"
     },
     {
       "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
       "title":"Sitepoint article"
-    },
-    {
-      "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
-      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -101,8 +101,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

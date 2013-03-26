@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.css-101.org/fixed-positioning/05.php",
-      "title":"Workaround for IE6"
-    },
-    {
       "url":"http://bradfrostweb.com/blog/mobile/fixed-position/",
       "title":"Article on mobile support"
+    },
+    {
+      "url":"http://www.css-101.org/fixed-positioning/05.php",
+      "title":"Workaround for IE6"
     }
   ],
   "bugs":[
@@ -102,8 +102,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

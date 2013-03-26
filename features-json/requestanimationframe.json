@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -97,8 +97,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "12.5":"n"
+      "12.1":"n"
     },
     "ios_saf":{
       "3.2":"n",

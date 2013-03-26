@@ -5,12 +5,8 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
-      "title":"Wikipedia"
-    },
-    {
-      "url":"http://svg-edit.googlecode.com",
-      "title":"Web-based SVG editor"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
+      "title":"has.js test"
     },
     {
       "url":"http://svg-wow.org/",
@@ -21,12 +17,16 @@
       "title":"A List Apart article"
     },
     {
+      "url":"http://svg-edit.googlecode.com",
+      "title":"Web-based SVG editor"
+    },
+    {
       "url":"http://code.google.com/p/svgweb/",
       "title":"SVG Web: Flash-based polyfill"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
-      "title":"has.js test"
+      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -113,8 +113,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"y",

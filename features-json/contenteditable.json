@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://html5demos.com/contenteditable",
+      "title":"Demo page"
+    },
+    {
       "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
       "title":"Blog post on usage problems"
     },
     {
       "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
       "title":"WHATWG blog post"
-    },
-    {
-      "url":"http://html5demos.com/contenteditable",
-      "title":"Demo page"
     }
   ],
   "bugs":[
@@ -106,8 +106,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

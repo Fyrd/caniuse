@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://peter.sh/examples/?/html/meter-progress.html",
-      "title":"Examples of progress and meter elements"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/new-form-features-in-HTML5/#newoutput",
       "title":"Dev.Opera article"
     },
     {
       "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
       "title":"HTML5 Doctor on meter element "
+    },
+    {
+      "url":"http://peter.sh/examples/?/html/meter-progress.html",
+      "title":"Examples of progress and meter elements"
     }
   ],
   "bugs":[
@@ -101,8 +101,7 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y",
-      "12.5":"y"
+      "12.1":"y"
     },
     "ios_saf":{
       "3.2":"n",

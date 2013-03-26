@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://css-tricks.com/7405-adding-stroke-to-web-text/",
-      "title":"Information & workarounds"
-    },
-    {
       "url":"http://www.westciv.com/tools/textStroke/",
       "title":"Live editor"
+    },
+    {
+      "url":"http://css-tricks.com/7405-adding-stroke-to-web-text/",
+      "title":"Information & workarounds"
     }
   ],
   "bugs":[
@@ -97,8 +97,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "12.5":"n"
+      "12.1":"n"
     },
     "ios_saf":{
       "3.2":"a x",
