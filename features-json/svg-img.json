@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.codedread.com/blog/",
-      "title":"Blog with SVGs an images"
-    },
-    {
       "url":"http://blog.dholbert.org/2010/10/svg-as-image.html",
       "title":"Blog post with examples"
+    },
+    {
+      "url":"http://www.codedread.com/blog/",
+      "title":"Blog with SVGs an images"
     }
   ],
   "bugs":[
@@ -55,7 +55,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -81,7 +82,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -143,7 +145,7 @@
     }
   },
   "notes":"Partial support in Safari 3.2 refers to buggy behavior with certain SVG images.",
-  "usage_perc_y":81.96,
+  "usage_perc_y":82.5,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

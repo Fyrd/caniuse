@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.zachleat.com/web/placeholder/",
-      "title":"Article on usage"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
+      "title":"has.js test"
     },
     {
       "url":"https://github.com/mathiasbynens/jquery-placeholder",
       "title":"Polyfill"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
-      "title":"has.js test"
+      "url":"http://www.zachleat.com/web/placeholder/",
+      "title":"Article on usage"
     }
   ],
   "bugs":[
@@ -54,7 +54,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -80,7 +81,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"a",
@@ -142,8 +144,8 @@
     }
   },
   "notes":"Partial support in older Safari and Opera versions refers to lacking placeholder support on textarea elements. ",
-  "usage_perc_y":67.93,
-  "usage_perc_a":0.2,
+  "usage_perc_y":69.21,
+  "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

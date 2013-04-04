@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/corbanbrook/audionode.js",
-      "title":"Polyfill to support Web Audio API in Firefox"
-    },
-    {
       "url":"http://www.w3.org/TR/webaudio/",
       "title":"Web Audio API by Google"
+    },
+    {
+      "url":"https://github.com/corbanbrook/audionode.js",
+      "title":"Polyfill to support Web Audio API in Firefox"
     }
   ],
   "bugs":[
@@ -49,8 +49,9 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"u",
-      "21":"u"
+      "20":"n",
+      "21":"u",
+      "22":"u"
     },
     "chrome":{
       "4":"n",
@@ -76,7 +77,8 @@
       "24":"a x",
       "25":"a x",
       "26":"a x",
-      "27":"a x"
+      "27":"a x",
+      "28":"a x"
     },
     "safari":{
       "3.1":"n",
@@ -139,7 +141,7 @@
   },
   "notes":"Currently Firefox supports an alternative, deprecated audio API, with support for the Web Audio API <a href=\"https://wiki.mozilla.org/Web_Audio_API\">being planned</a>.",
   "usage_perc_y":0,
-  "usage_perc_a":39.38,
+  "usage_perc_a":40.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"web-audio",

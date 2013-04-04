@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/balupton/history.js",
-      "title":"History.js polyfill "
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
+      "title":"Introduction to history management"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
-      "title":"MDN article"
+      "url":"https://github.com/balupton/history.js",
+      "title":"History.js polyfill "
     },
     {
       "url":"http://html5demos.com/history",
       "title":"Demo page"
     },
     {
-      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
-      "title":"Introduction to history management"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
       "title":"has.js test"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -64,7 +64,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"n",
@@ -90,7 +91,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -152,8 +154,8 @@
     }
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
-  "usage_perc_y":61.44,
-  "usage_perc_a":4.15,
+  "usage_perc_y":62.83,
+  "usage_perc_a":3.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

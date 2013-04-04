@@ -48,7 +48,8 @@
       "18":"y x",
       "19":"y x",
       "20":"y x",
-      "21":"y x"
+      "21":"y x",
+      "22":"y x"
     },
     "chrome":{
       "4":"n",
@@ -74,7 +75,8 @@
       "24":"y x",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -118,7 +120,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"n"
+      "10":"y x"
     },
     "op_mob":{
       "10":"n",
@@ -136,8 +138,8 @@
     }
   },
   "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10, and 'X-WebKit-CSP' for Safari and Chrome. IE 10's support is limited to the 'sandbox' directive.",
-  "usage_perc_y":57,
-  "usage_perc_a":2.58,
+  "usage_perc_y":57.49,
+  "usage_perc_a":3.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/Using_web_workers",
-      "title":"MDN article"
-    },
-    {
       "url":"http://code.google.com/p/ie-web-worker/",
       "title":"Polyfill for IE (single threaded)"
     },
     {
-      "url":"http://nerget.com/rayjs-mt/rayjs.html",
-      "title":"Web Worker demo"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-worker",
       "title":"has.js test"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/Using_web_workers",
+      "title":"MDN article"
+    },
+    {
+      "url":"http://nerget.com/rayjs-mt/rayjs.html",
+      "title":"Web Worker demo"
     }
   ],
   "bugs":[
@@ -58,7 +58,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -84,7 +85,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"p",
@@ -146,7 +148,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":63.42,
+  "usage_perc_y":64.73,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

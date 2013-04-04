@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/API/navigationTiming",
-      "title":"MDN article"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/webperformance/basics/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/API/navigationTiming",
+      "title":"MDN article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -51,7 +51,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"n",
@@ -77,7 +78,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -139,7 +141,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":66.8,
+  "usage_perc_y":67.47,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

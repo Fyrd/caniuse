@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://opentype.info/blog/category/webfonts/",
-      "title":"Blog on web fonts & typography"
-    },
-    {
-      "url":"http://en.wikipedia.org/wiki/Web_typography",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://webfonts.info",
       "title":"News and information site"
     },
     {
       "url":"http://www.css3files.com/font/",
       "title":"Information page"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Web_typography",
+      "title":"Wikipedia"
+    },
+    {
+      "url":"http://opentype.info/blog/category/webfonts/",
+      "title":"Blog on web fonts & typography"
     }
   ],
   "bugs":[
@@ -60,7 +60,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -86,7 +87,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -148,8 +150,8 @@
     }
   },
   "notes":"Partial support before IE8 refers to only supporting EOT fonts. Safari for iOS 4.1 and below only supports SVG fonts.",
-  "usage_perc_y":80.19,
-  "usage_perc_a":13.12,
+  "usage_perc_y":80.66,
+  "usage_perc_a":12.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face",

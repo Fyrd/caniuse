@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
-      "title":"jQuery fallback script"
-    },
-    {
-      "url":"http://html5doctor.com/summary-figcaption-element/",
-      "title":"HTML5 Doctor article"
-    },
-    {
       "url":"https://gist.github.com/370590",
       "title":"Fallback script"
     },
     {
+      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
+      "title":"jQuery fallback script"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-details",
       "title":"has.js test"
+    },
+    {
+      "url":"http://html5doctor.com/summary-figcaption-element/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -57,8 +57,9 @@
       "17":"p",
       "18":"p",
       "19":"p",
-      "20":"u",
-      "21":"u"
+      "20":"p",
+      "21":"u",
+      "22":"u"
     },
     "chrome":{
       "4":"p",
@@ -84,7 +85,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"p",
@@ -146,7 +148,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":41.77,
+  "usage_perc_y":42.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -1,14 +1,16 @@
 {
   "title":"Intrinsic & Extrinsic Sizing",
-  "description":"Allows for the heights and widths to be specified in intrinsic values",
+  "description":"Allows for the heights and widths to be specified in intrinsic values using the fill-available, max-content, min-content, and fit-content properties.",
   "spec":"http://www.w3.org/TR/css3-sizing/",
   "status":"wd",
   "links":[
     {
       "url":"http://demosthenes.info/blog/662/Design-From-the-Inside-Out-With-CSS-MinContent",
       "title":"Min-Content tutorial"
-    }  ],
+    }
+  ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS3"
@@ -27,24 +29,25 @@
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"x",
-      "5":"x",
-      "6":"x",
-      "7":"x",
-      "8":"x",
-      "9":"x",
-      "10":"x",
-      "11":"x",
-      "12":"x",
-      "13":"x",
-      "14":"x",
-      "15":"x",
-      "16":"x",
-      "17":"x",
-      "18":"x",
-      "19":"x",
-      "20":"x",
-      "21":"x"
+      "4":"y x",
+      "5":"y x",
+      "6":"y x",
+      "7":"y x",
+      "8":"y x",
+      "9":"y x",
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y x",
+      "14":"y x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x",
+      "18":"y x",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x"
     },
     "chrome":{
       "4":"n",
@@ -65,12 +68,13 @@
       "19":"n",
       "20":"n",
       "21":"n",
-      "22":"x",
-      "23":"x",
-      "24":"x",
-      "25":"x",
-      "26":"x",
-      "27":"x"
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
+      "27":"y x",
+      "28":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -93,7 +97,6 @@
       "12":"n",
       "12.1":"n"
     },
-
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
@@ -115,7 +118,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"n"
+      "10":"y x"
     },
     "op_mob":{
       "10":"n",
@@ -126,17 +129,17 @@
       "12.1":"n"
     },
     "and_chr":{
-      "0":"n"
+      "0":"y x"
     },
     "and_ff":{
-      "0":"n"
+      "0":"y x"
     }
   },
-  "notes":"",
-  "usage_perc_y":35.29,
+  "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content) Firefox currently supports the \"-moz-available\" property rather than \"-moz-fill-available\".",
+  "usage_perc_y":48.29,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"fill-available, max-content, min-content, fit-content, contain-floats",
+  "keywords":"fill-available,max-content,min-content,fit-content,contain-floats",
   "shown":true
 }

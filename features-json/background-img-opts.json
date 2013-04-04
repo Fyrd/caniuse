@@ -9,12 +9,12 @@
       "title":"jQuery polyfill for IE6-8"
     },
     {
-      "url":"http://www.css3files.com/background/",
-      "title":"Information page"
-    },
-    {
       "url":"http://www.standardista.com/css3/css3-background-properties",
       "title":"Detailed compatibility tables and demos"
+    },
+    {
+      "url":"http://www.css3files.com/background/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -59,7 +59,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -85,7 +86,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"a",
@@ -147,8 +149,8 @@
     }
   },
   "notes":"Partial support in Opera Mini refers to not supporting background sizing or background attachments.",
-  "usage_perc_y":82.46,
-  "usage_perc_a":2.84,
+  "usage_perc_y":82.84,
+  "usage_perc_a":2.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/storage",
-      "title":"Simple demo"
-    },
-    {
-      "url":"http://code.google.com/p/sessionstorage/",
-      "title":"Support library"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-localstorage;native-sessionstorage",
       "title":"has.js test"
     },
     {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
+    },
+    {
+      "url":"http://code.google.com/p/sessionstorage/",
+      "title":"Support library"
+    },
+    {
+      "url":"http://html5demos.com/storage",
+      "title":"Simple demo"
     }
   ],
   "bugs":[
@@ -58,7 +58,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -84,7 +85,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -146,7 +148,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":92.54,
+  "usage_perc_y":92.46,
   "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",

@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://robertnyman.com/2010/05/06/css3-animations/",
-      "title":"Blog post on usage"
-    },
-    {
       "url":"http://www.css3files.com/animation/",
       "title":"Information page"
+    },
+    {
+      "url":"http://robertnyman.com/2010/05/06/css3-animations/",
+      "title":"Blog post on usage"
     }
   ],
   "bugs":[
@@ -52,7 +52,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y x",
@@ -78,7 +79,8 @@
       "24":"y x",
       "25":"y x",
       "26":"y x",
-      "27":"y x"
+      "27":"y x",
+      "28":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -140,8 +142,8 @@
     }
   },
   "notes":"Partial support in Android browser refers to buggy behavior in different scenarios.",
-  "usage_perc_y":64.87,
-  "usage_perc_a":2.96,
+  "usage_perc_y":66.34,
+  "usage_perc_a":2.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"animations,css-animations,keyframe",

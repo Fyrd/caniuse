@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.css3files.com/gradient/#repeatinglineargradient",
-      "title":"Information page"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
       "title":"MDN article"
+    },
+    {
+      "url":"http://www.css3files.com/gradient/#repeatinglineargradient",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -50,7 +50,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"n",
@@ -76,7 +77,8 @@
       "24":"y x",
       "25":"y x",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -138,8 +140,8 @@
     }
   },
   "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Firefox 10+, Chrome 26+ and Opera 11.6+ also support the new \"to (side)\" syntax.",
-  "usage_perc_y":64.38,
-  "usage_perc_a":0.04,
+  "usage_perc_y":65.9,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"css-gradients",
   "keywords":"",

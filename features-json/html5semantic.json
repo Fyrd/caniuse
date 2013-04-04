@@ -9,16 +9,16 @@
       "title":"Workaround for IE"
     },
     {
+      "url":"http://oli.jp/2009/html5-structure3/",
+      "title":"Article on structural elements"
+    },
+    {
       "url":"http://blog.whatwg.org/styling-ie-noscript",
       "title":"Alternate workaround"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
       "title":"has.js test"
-    },
-    {
-      "url":"http://oli.jp/2009/html5-structure3/",
-      "title":"Article on structural elements"
     }
   ],
   "bugs":[
@@ -58,7 +58,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"a",
@@ -84,7 +85,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"a",
@@ -146,8 +148,8 @@
     }
   },
   "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway).",
-  "usage_perc_y":82.36,
-  "usage_perc_a":3.14,
+  "usage_perc_y":82.75,
+  "usage_perc_a":3.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

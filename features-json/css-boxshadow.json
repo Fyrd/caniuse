@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.css3files.com/shadow/",
-      "title":"Information page"
-    },
-    {
-      "url":"http://westciv.com/tools/boxshadows/index.html",
-      "title":"Live editor"
-    },
-    {
       "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
       "title":"Demo of various effects"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
       "title":"MDN article"
+    },
+    {
+      "url":"http://www.css3files.com/shadow/",
+      "title":"Information page"
+    },
+    {
+      "url":"http://westciv.com/tools/boxshadows/index.html",
+      "title":"Live editor"
     }
   ],
   "bugs":[
@@ -63,7 +63,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y x",
@@ -89,7 +90,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"a x",
@@ -151,8 +153,8 @@
     }
   },
   "notes":"Can be partially emulated in older IE versions using the non-standard \"shadow\" filter. Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\" and blur radius value support.",
-  "usage_perc_y":80.15,
-  "usage_perc_a":3.11,
+  "usage_perc_y":80.62,
+  "usage_perc_a":2.95,
   "ucprefix":false,
   "parent":"",
   "keywords":"box-shadows,boxshadows,box shadow,shaow",

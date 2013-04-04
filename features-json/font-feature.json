@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5accessibility.com/",
-      "title":"Detailed tables on accessability support"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
       "title":"Mozilla hacks article"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
       "title":"Demo pages (IE/Firefox only)"
+    },
+    {
+      "url":"http://html5accessibility.com/",
+      "title":"Detailed tables on accessability support"
     }
   ],
   "bugs":[
@@ -54,7 +54,8 @@
       "18":"y x",
       "19":"y x",
       "20":"y x",
-      "21":"y x"
+      "21":"y x",
+      "22":"y x"
     },
     "chrome":{
       "4":"n",
@@ -80,7 +81,8 @@
       "24":"y x",
       "25":"y x",
       "26":"y x",
-      "27":"y x"
+      "27":"y x",
+      "28":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -142,8 +144,8 @@
     }
   },
   "notes":"Partial support in older Firefox versions refers to using an older syntax. Partial support in older Chrome versions refers to lacking support in Mac OS X. ",
-  "usage_perc_y":46.87,
-  "usage_perc_a":14.11,
+  "usage_perc_y":48.71,
+  "usage_perc_a":13.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",

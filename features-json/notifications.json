@@ -5,18 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
       "title":"Chromium API"
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
+      "title":"HTML5 Rocks tutorial"
     }
   ],
   "bugs":[
-    {
-      "description":"Support coming in Firefox 22."
-    }
+    
   ],
   "categories":[
     "JS API"
@@ -52,7 +50,8 @@
       "18":"n",
       "19":"n",
       "20":"n",
-      "21":"n"
+      "21":"n",
+      "22":"y"
     },
     "chrome":{
       "4":"n",
@@ -78,7 +77,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -140,8 +140,8 @@
     }
   },
   "notes":"Partial support in Chrome refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. Partial support in Safari refers to support being limited to Safari in Mountain Lion.",
-  "usage_perc_y":29.7,
-  "usage_perc_a":3.92,
+  "usage_perc_y":30.61,
+  "usage_perc_a":3.95,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

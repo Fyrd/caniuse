@@ -53,8 +53,9 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"y",
-      "21":"y"
+      "20":"n",
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"n",
@@ -80,7 +81,8 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"n"
+      "27":"n",
+      "28":"n"
     },
     "safari":{
       "3.1":"n",
@@ -142,7 +144,7 @@
     }
   },
   "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true. Also added to WebKit and expected to be in an upcoming version of Chrome.",
-  "usage_perc_y":0.82,
+  "usage_perc_y":0.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

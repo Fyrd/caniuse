@@ -13,8 +13,8 @@
     
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -47,7 +47,8 @@
       "18":"a x",
       "19":"a x",
       "20":"a x",
-      "21":"a x"
+      "21":"a x",
+      "22":"a x"
     },
     "chrome":{
       "4":"a x",
@@ -73,7 +74,8 @@
       "24":"a x",
       "25":"a x",
       "26":"a x",
-      "27":"a x"
+      "27":"a x",
+      "28":"a x"
     },
     "safari":{
       "3.1":"n",
@@ -136,7 +138,7 @@
   },
   "notes":"Partial support refers to supporting the older specification's \"matchesSelector\" name rather than just \"matches\".",
   "usage_perc_y":0,
-  "usage_perc_a":82.85,
+  "usage_perc_a":83.21,
   "ucprefix":false,
   "parent":"",
   "keywords":" matchesSelector",

@@ -9,12 +9,12 @@
       "title":"has.js test"
     },
     {
-      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
-      "title":"Datepicker tutorial w/polyfill"
-    },
-    {
       "url":"https://github.com/zoltan-dulac/html5Forms.js",
       "title":"Polyfill for HTML5 forms"
+    },
+    {
+      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
+      "title":"Datepicker tutorial w/polyfill"
     }
   ],
   "bugs":[
@@ -53,8 +53,9 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"u",
-      "21":"u"
+      "20":"n",
+      "21":"u",
+      "22":"u"
     },
     "chrome":{
       "4":"n",
@@ -80,7 +81,8 @@
       "24":"a",
       "25":"a",
       "26":"a",
-      "27":"a"
+      "27":"a",
+      "28":"a"
     },
     "safari":{
       "3.1":"n",
@@ -142,8 +144,8 @@
     }
   },
   "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a calendar widget for the \"date\" type, but just text fields for all other date/type fields. Chrome 23 supports the \"time\" type. Chrome 25 adds support for the \"week\" and \"month\" types. Some modified versions of the Android 4.x browser do have support for date/time fields. ",
-  "usage_perc_y":8.59,
-  "usage_perc_a":30.15,
+  "usage_perc_y":8.73,
+  "usage_perc_a":31.13,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker",

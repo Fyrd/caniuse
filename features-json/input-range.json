@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
+      "title":"has.js test"
+    },
+    {
       "url":"https://github.com/fryn/html5slider",
       "title":"Polyfill for Firefox"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
       "title":"Tutorial"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
-      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -58,7 +58,8 @@
       "18":"n",
       "19":"n",
       "20":"n",
-      "21":"n"
+      "21":"n",
+      "22":"y"
     },
     "chrome":{
       "4":"u",
@@ -84,7 +85,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"y",
@@ -145,9 +147,9 @@
       "0":"n"
     }
   },
-  "notes":"Support coming in Firefox 22. Currently all Android browsers with partial support hide the slider input field by default. However, the element <a href=\"http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/\">can be styled</a> to be made visible and usable. ",
-  "usage_perc_y":45.24,
-  "usage_perc_a":5.09,
+  "notes":"Currently all Android browsers with partial support hide the slider input field by default. However, the element <a href=\"http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/\">can be styled</a> to be made visible and usable. ",
+  "usage_perc_y":47.03,
+  "usage_perc_a":5.02,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

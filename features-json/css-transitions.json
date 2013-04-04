@@ -13,12 +13,12 @@
       "title":"Examples on timing functions"
     },
     {
-      "url":"http://www.css3files.com/transition/",
-      "title":"Information page"
-    },
-    {
       "url":"http://www.opera.com/docs/specs/presto2.12/css/transitions/#anima",
       "title":"Animation of property types support in Opera"
+    },
+    {
+      "url":"http://www.css3files.com/transition/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y x",
@@ -92,7 +93,8 @@
       "24":"y x",
       "25":"y x",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -154,7 +156,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":68.16,
+  "usage_perc_y":69.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://code.google.com/p/ie7-js/",
-      "title":"JS library with support"
-    },
-    {
       "url":"http://reference.sitepoint.com/css/dimensions",
       "title":"Sitepoint reference"
+    },
+    {
+      "url":"http://code.google.com/p/ie7-js/",
+      "title":"JS library with support"
     }
   ],
   "bugs":[
@@ -52,7 +52,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -78,7 +79,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"y",
@@ -140,7 +142,7 @@
     }
   },
   "notes":"IE7 does not support \"inherit\" as a value on any of these properties. IE8 has some bugs with max-width/height combined with overflow: auto/scroll.",
-  "usage_perc_y":95.42,
+  "usage_perc_y":95.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

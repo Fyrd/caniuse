@@ -9,16 +9,16 @@
       "title":"Detailed compliance table"
     },
     {
-      "url":"http://css3pie.com/",
-      "title":"Polyfill for that includes border-radius"
-    },
-    {
       "url":"http://www.css3files.com/border/#borderradius",
       "title":"Information page"
     },
     {
       "url":"http://border-radius.com",
       "title":"Border-radius CSS Generator"
+    },
+    {
+      "url":"http://css3pie.com/",
+      "title":"Polyfill for that includes border-radius"
     }
   ],
   "bugs":[
@@ -69,7 +69,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y x",
@@ -95,7 +96,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -157,7 +159,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":83.36,
+  "usage_perc_y":83.67,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
-      "title":"Mozilla Hacks article/demo"
-    },
-    {
       "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
       "title":"Sitepoint tutorial"
     },
     {
       "url":"http://diveinto.org/html5/offline.html",
       "title":"Dive Into HTML5 article"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
+      "title":"Mozilla Hacks article/demo"
     }
   ],
   "bugs":[
@@ -56,7 +56,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -82,7 +83,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"p",
@@ -144,7 +146,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":68.67,
+  "usage_perc_y":69.89,
   "usage_perc_a":0.1,
   "ucprefix":false,
   "parent":"",

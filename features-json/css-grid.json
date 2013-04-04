@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
-      "title":"IE Blog post"
-    },
-    {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
       "title":"Webkit (Chrome, Safari, etc.) feature request"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=616605",
       "title":"Mozilla (Firefox) feature request"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
+      "title":"IE Blog post"
     }
   ],
   "bugs":[
@@ -53,8 +53,9 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"u",
-      "21":"u"
+      "20":"n",
+      "21":"u",
+      "22":"u"
     },
     "chrome":{
       "4":"n",
@@ -79,8 +80,9 @@
       "23":"n",
       "24":"n",
       "25":"n",
-      "26":"u",
-      "27":"u"
+      "26":"n",
+      "27":"u",
+      "28":"u"
     },
     "safari":{
       "3.1":"n",
@@ -142,7 +144,7 @@
     }
   },
   "notes":"Reported to be supported in Chrome 27.",
-  "usage_perc_y":1.05,
+  "usage_perc_y":1.95,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

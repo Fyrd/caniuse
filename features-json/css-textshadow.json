@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
+      "title":"Mozilla hacks article"
+    },
+    {
       "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
       "title":"Live editor"
     },
     {
       "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
-      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -56,7 +56,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"y",
@@ -82,7 +83,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"a",
@@ -144,8 +146,8 @@
     }
   },
   "notes":"Opera Mini ignores the blur-radius set, so no blur effect is visible. Text-shadow behavior can be somewhat emulated in older IE versions using the non-standard \"dropshadow\" or \"glow\" filters. ",
-  "usage_perc_y":68.6,
-  "usage_perc_a":2.22,
+  "usage_perc_y":69.82,
+  "usage_perc_a":2.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

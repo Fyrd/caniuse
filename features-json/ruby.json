@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5doctor.com/ruby-rt-rp-element/",
-      "title":"HTML5 Doctor article"
-    },
-    {
       "url":"https://addons.mozilla.org/en-US/firefox/addon/1935/",
       "title":"Add-on for support in Firefox"
+    },
+    {
+      "url":"http://html5doctor.com/ruby-rt-rp-element/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -49,8 +49,9 @@
       "17":"p",
       "18":"p",
       "19":"p",
-      "20":"u p",
-      "21":"u p"
+      "20":"p",
+      "21":"u p",
+      "22":"u p"
     },
     "chrome":{
       "4":"p",
@@ -76,7 +77,8 @@
       "24":"a",
       "25":"a",
       "26":"a",
-      "27":"a"
+      "27":"a",
+      "28":"a"
     },
     "safari":{
       "3.1":"p",
@@ -139,7 +141,7 @@
   },
   "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby",
   "usage_perc_y":0,
-  "usage_perc_a":70.78,
+  "usage_perc_a":71.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

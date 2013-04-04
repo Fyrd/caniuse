@@ -5,12 +5,8 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
-      "title":"Chrome extension providing support"
-    },
-    {
-      "url":"http://en.wikipedia.org/wiki/APNG",
-      "title":"Wikipedia"
+      "url":"http://animatedpng.com/",
+      "title":"An APNG editor"
     },
     {
       "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
@@ -21,8 +17,12 @@
       "title":"Polyfill using canvas"
     },
     {
-      "url":"http://animatedpng.com/",
-      "title":"An APNG editor"
+      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
+      "title":"Chrome extension providing support"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/APNG",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -62,7 +62,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "chrome":{
       "4":"n",
@@ -88,7 +89,8 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"n"
+      "27":"n",
+      "28":"n"
     },
     "safari":{
       "3.1":"n",
@@ -150,7 +152,7 @@
     }
   },
   "notes":"Where support for APNG is missing, only the first frame is displayed",
-  "usage_perc_y":19.38,
+  "usage_perc_y":18.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

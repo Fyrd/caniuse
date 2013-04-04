@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-orientation",
-      "title":"has.js test"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-orientation",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -50,7 +50,8 @@
       "18":"n",
       "19":"n",
       "20":"n",
-      "21":"n"
+      "21":"n",
+      "22":"n"
     },
     "chrome":{
       "4":"n",
@@ -76,7 +77,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "safari":{
       "3.1":"n",
@@ -138,7 +140,7 @@
     }
   },
   "notes":"Firefox 3.6, 4 and 5 support the non-standard <a href=\\\"https://developer.mozilla.org/en/DOM/MozOrientation\\\">MozOrientation</a> event. ",
-  "usage_perc_y":41.3,
+  "usage_perc_y":42.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
