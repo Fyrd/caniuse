@@ -15,9 +15,6 @@
   ],
   "bugs":[
     {
-      "description":"Firefox currently doesn't allow :before and :after on checkbox and radio fields.\r\n"
-    },
-    {
       "description":"WebKit (Chrome, Safari) support for transitions on pseudo elements has been fixed, but is not yet added."
     }
   ],
