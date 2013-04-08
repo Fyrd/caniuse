@@ -5,19 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://polycrypt.net/",
-      "title":"PolyCrypt: A WebCrypto Polyfill"
+      "url":"http://mozilla.6506.n7.nabble.com/Web-Crypto-API-s-and-what-Mozilla-wants-needs-td272521.html",
+      "title":"Web Crypto API(s) and what Mozilla wants / needs"
     },
     {
       "url":"http://www.slideshare.net/Channy/the-history-and-status-of-web-crypto-api",
       "title":"The History and Status of Web Crypto API"
     },
     {
-      "url":"http://mozilla.6506.n7.nabble.com/Web-Crypto-API-s-and-what-Mozilla-wants-needs-td272521.html",
-      "title":"Web Crypto API(s) and what Mozilla wants / needs"
+      "url":"http://polycrypt.net/",
+      "title":"PolyCrypt: A WebCrypto Polyfill"
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "JS API",
@@ -58,6 +59,26 @@
       "22":"p"
     },
     "chrome":{
+      "4":"u",
+      "5":"u",
+      "6":"u",
+      "7":"u",
+      "8":"u",
+      "9":"u",
+      "10":"u",
+      "11":"u",
+      "12":"u",
+      "13":"u",
+      "14":"u",
+      "15":"u",
+      "16":"u",
+      "17":"u",
+      "18":"u",
+      "19":"u",
+      "20":"u",
+      "21":"u",
+      "22":"u",
+      "23":"u",
       "24":"p",
       "25":"p",
       "26":"p",
@@ -65,17 +86,35 @@
       "28":"p"
     },
     "safari":{
+      "3.1":"u",
+      "3.2":"u",
+      "4":"u",
+      "5":"u",
       "5.1":"p",
       "6":"p"
     },
     "opera":{
+      "9":"u",
+      "9.5-9.6":"u",
+      "10.0-10.1":"u",
+      "10.5":"u",
+      "10.6":"u",
+      "11":"u",
+      "11.1":"u",
+      "11.5":"u",
+      "11.6":"u",
       "12":"p",
       "12.1":"p"
     },
     "ios_saf":{
+      "3.2":"u",
+      "4.0-4.1":"u",
+      "4.2-4.3":"u",
+      "5.0-5.1":"u",
       "6":"p"
     },
     "op_mini":{
+      "5.0-7.0":"u"
     },
     "android":{
       "2.1":"n",
@@ -87,8 +126,16 @@
       "4.2":"n"
     },
     "bb":{
+      "7":"u",
+      "10":"u"
     },
     "op_mob":{
+      "10":"u",
+      "11":"u",
+      "11.1":"u",
+      "11.5":"u",
+      "12":"u",
+      "12.1":"u"
     },
     "and_chr":{
       "0":"p"
