@@ -5,8 +5,8 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
-      "title":"Wikipedia"
+      "url":"http://svg-edit.googlecode.com",
+      "title":"Web-based SVG editor"
     },
     {
       "url":"http://code.google.com/p/svgweb/",
@@ -17,21 +17,21 @@
       "title":"A List Apart article"
     },
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
+      "title":"has.js test"
+    },
+    {
       "url":"http://svg-wow.org/",
       "title":"SVG showcase site"
     },
     {
-      "url":"http://svg-edit.googlecode.com",
-      "title":"Web-based SVG editor"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
-      "title":"has.js test"
+      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
     {
-      "description": "Chrome 26 doesn't support the attribute preserveAspectRatio=none."
+      "description":"Chrome 26 doesn't support the attribute preserveAspectRatio=none."
     }
   ],
   "categories":[
