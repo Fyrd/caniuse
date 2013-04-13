@@ -30,7 +30,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description": "Chrome 26 doesn't support the attribute preserveAspectRatio=none."
+    }
   ],
   "categories":[
     "SVG"
