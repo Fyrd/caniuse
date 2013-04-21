@@ -5,16 +5,18 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
       "title":"Blog post"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"There's <a href=\"http://forums.greensock.com/topic/6639-tweens-not-working-on-ios6/?p=24455#entry24455\">an issue</a> with requestAnimationFrame on iOS6, the bug still appears to exist in 6.1.3"
+    }
   ],
   "categories":[
     "JS API"

@@ -5,25 +5,25 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.opera.com/docs/specs/presto2.12/css/transitions/#anima",
-      "title":"Animation of property types support in Opera"
+      "url":"http://www.css3files.com/transition/",
+      "title":"Information page"
     },
     {
       "url":"http://www.webdesignerdepot.com/2010/01/css-transitions-101/",
       "title":"Article on usage"
     },
     {
-      "url":"http://www.css3files.com/transition/",
-      "title":"Information page"
-    },
-    {
       "url":"http://www.the-art-of-web.com/css/timing-function/",
       "title":"Examples on timing functions"
+    },
+    {
+      "url":"http://www.opera.com/docs/specs/presto2.12/css/transitions/#anima",
+      "title":"Animation of property types support in Opera"
     }
   ],
   "bugs":[
     {
-      "description":"Not currently supported on ::before and ::after pseudo-elements for any browser but Firefox and Chrome (26 and later)."
+      "description":"Only supported on ::before and ::after pseudo-elements for Firefox, Chrome 26+ and IE10+."
     },
     {
       "description":"WebKit computes \"auto\" as 0 in transitions, so transitions of width between auto and 800px shrinks the element first and then widens it to 800px."

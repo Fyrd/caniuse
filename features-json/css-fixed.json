@@ -19,6 +19,9 @@
     },
     {
       "description":"Looks buggy on Android Browser v3.1 on HTC Legend "
+    },
+    {
+      "description":"position:fixed breaks in chrome (all current versions) when using hardware-accelerated rendering, depending on your graphics card."
     }
   ],
   "categories":[

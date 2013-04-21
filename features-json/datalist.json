@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://afarkas.github.com/webshim/demos/",
+      "title":"HTML5 Library including datalist support"
+    },
+    {
       "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
       "title":"MDN reference"
     },
     {
       "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
       "title":"Mozilla Hacks article"
-    },
-    {
-      "url":"http://afarkas.github.com/webshim/demos/",
-      "title":"HTML5 Library including datalist support"
     }
   ],
   "bugs":[
@@ -30,7 +30,7 @@
       "7":"p",
       "8":"p",
       "9":"p",
-      "10":"y"
+      "10":"a"
     },
     "firefox":{
       "2":"p",
@@ -143,9 +143,9 @@
       "0":"y"
     }
   },
-  "notes":"",
-  "usage_perc_y":51.39,
-  "usage_perc_a":0,
+  "notes":"Partial support in IE10 refers to <a href=\"http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/\">significantly buggy behavior</a>.",
+  "usage_perc_y":49.43,
+  "usage_perc_a":1.95,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute",

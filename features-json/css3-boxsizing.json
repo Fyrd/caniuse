@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://css-tricks.com/box-sizing/",
       "title":"CSS Tricks"
+    },
+    {
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
     },
     {
       "url":"https://github.com/Schepp/box-sizing-polyfill",
@@ -22,9 +22,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"Firefox (16 and older) don't handle the combination of `box-sizing` and `min-height`/`max-height` properly. See this bug for more details: https://bugzilla.mozilla.org/show_bug.cgi?id=308801"
-    }
+    
   ],
   "categories":[
     "CSS3"

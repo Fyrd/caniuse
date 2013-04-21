@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://bennettfeely.com/flexplorer/",
-      "title":"Flexbox CSS generator"
-    },
-    {
       "url":"http://www.the-haystack.com/2010/01/23/css3-flexbox-part-1/",
       "title":"Introduction with demos"
     },
@@ -19,11 +15,18 @@
     {
       "url":"http://flexiejs.com/playground/",
       "title":"Flexbox playground"
+    },
+    {
+      "url":"http://bennettfeely.com/flexplorer/",
+      "title":"Flexbox CSS generator"
     }
   ],
   "bugs":[
     {
       "description":"Firefox does not support specifying widths in percentages. <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=529761\">See bug</a>."
+    },
+    {
+      "description":"Firefox 21+ does not support flex-wrap."
     }
   ],
   "categories":[
