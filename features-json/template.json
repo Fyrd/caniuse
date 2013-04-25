@@ -1,7 +1,7 @@
 {
-  "title":"<template>",
+  "title":"HTML templates",
   "description":"Method of declaring a portion of reusable markup that is parsed but not rendered until cloned.",
-  "spec":"https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/templates/index.html",
+  "spec":"http://www.w3.org/TR/html-templates/",
   "status":"wd",
   "links":[
     {
@@ -137,8 +137,10 @@
     }
   },
   "notes":"",
+  "usage_perc_y":1.77,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components, template",
-  "shown":true
+  "shown":false
 }
