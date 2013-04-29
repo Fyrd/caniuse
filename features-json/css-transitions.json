@@ -23,9 +23,6 @@
   ],
   "bugs":[
     {
-      "description":"Only supported on ::before and ::after pseudo-elements for Firefox, Chrome 26+ and IE10+."
-    },
-    {
       "description":"WebKit computes \"auto\" as 0 in transitions, so transitions of width between auto and 800px shrinks the element first and then widens it to 800px."
     },
     {
