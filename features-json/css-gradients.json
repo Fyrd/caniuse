@@ -5,24 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.colorzilla.com/gradient-editor/",
-      "title":"Cross-browser editor"
+      "url":"http://www.css3files.com/gradient/",
+      "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://css3pie.com/",
       "title":"Tool to emulate support in IE"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/linear-gradient",
-      "title":"WebPlatform Docs: linear-gradient"
-    },
-    {
-      "url":"http://www.css3files.com/gradient/",
-      "title":"Information page"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/radial-gradient",
-      "title":"WebPlatform Docs: radial-gradient"
+      "url":"http://www.colorzilla.com/gradient-editor/",
+      "title":"Cross-browser editor"
     }
   ],
   "bugs":[
@@ -152,8 +148,8 @@
     }
   },
   "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Support can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. Firefox 10+, Opera 11.6+, Chrome 26+ and IE10 also support the new \"to (side)\" syntax.",
-  "usage_perc_y":65.9,
-  "usage_perc_a":3.89,
+  "usage_perc_y":69.72,
+  "usage_perc_a":3.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

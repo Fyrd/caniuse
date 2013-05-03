@@ -7,14 +7,18 @@
     {
       "url":"http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview",
       "title":"Technology preview from Opera"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/methods/getUserMedia",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "JS API"
+    "JS API",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -137,7 +141,7 @@
     }
   },
   "notes":"Supported on Chrome for Android under chrome://flags",
-  "usage_perc_y":46.37,
+  "usage_perc_y":46.6,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

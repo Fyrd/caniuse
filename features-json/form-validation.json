@@ -4,7 +4,10 @@
   "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/forms.html#client-side-form-validation",
   "status":"wd",
   "links":[
-    
+    {
+      "url":"http://docs.webplatform.org/wiki/html/attributes/required",
+      "title":"WebPlatform Docs"
+    }
   ],
   "bugs":[
     {
@@ -135,8 +138,8 @@
     }
   },
   "notes":"Partial support in Safari refers to lack of notice when form with required fields is attempted to be submitted.",
-  "usage_perc_y":52.71,
-  "usage_perc_a":3.83,
+  "usage_perc_y":56.66,
+  "usage_perc_a":3.69,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

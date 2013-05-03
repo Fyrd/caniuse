@@ -7,6 +7,10 @@
     {
       "url":"https://developer.mozilla.org/en/Using_files_from_web_applications",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/file",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -136,8 +140,8 @@
     }
   },
   "notes":"Partial support in Safari refers to lacking FileReader support. ",
-  "usage_perc_y":60.97,
-  "usage_perc_a":4.34,
+  "usage_perc_y":64.55,
+  "usage_perc_a":4.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

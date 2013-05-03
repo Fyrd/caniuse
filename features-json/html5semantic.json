@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://blog.whatwg.org/styling-ie-noscript",
-      "title":"Alternate workaround"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
+      "title":"has.js test"
     },
     {
       "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
@@ -17,8 +17,8 @@
       "title":"Article on structural elements"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
-      "title":"has.js test"
+      "url":"http://blog.whatwg.org/styling-ie-noscript",
+      "title":"Alternate workaround"
     }
   ],
   "bugs":[
@@ -148,8 +148,8 @@
     }
   },
   "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway).",
-  "usage_perc_y":82.75,
-  "usage_perc_a":3.09,
+  "usage_perc_y":83.9,
+  "usage_perc_a":2.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

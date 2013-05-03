@@ -5,12 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
-      "title":"Blog post w/info"
+      "url":"http://docs.webplatform.org/wiki/css/data_types/inline-block",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/",
       "title":"Info on cross browser support"
+    },
+    {
+      "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
+      "title":"Blog post w/info"
     }
   ],
   "bugs":[
@@ -140,8 +144,8 @@
     }
   },
   "notes":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. <a href=\"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/\">Alternative properties</a> are available to provide complete cross-browser support.",
-  "usage_perc_y":94.73,
-  "usage_perc_a":0.85,
+  "usage_perc_y":94.9,
+  "usage_perc_a":0.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"inlineblock",

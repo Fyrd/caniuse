@@ -7,6 +7,10 @@
     {
       "url":"http://www.css3files.com/border/",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/border-image",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -136,8 +140,8 @@
     }
   },
   "notes":"In Firefox both the border-style and border-width must be specified for border-images to work. Partial support refers to supporting the shorthand syntax, but not the individual properties (border-image-source, border-image-slice, etc).",
-  "usage_perc_y":55.42,
-  "usage_perc_a":12.53,
+  "usage_perc_y":55.93,
+  "usage_perc_a":11.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

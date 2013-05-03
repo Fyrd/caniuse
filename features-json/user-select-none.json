@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
-      "title":"MSDN Documentation"
+      "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
+      "title":"MDN article"
     },
     {
       "url":"http://css-tricks.com/almanac/properties/u/user-select/",
       "title":"CSS Tricks article"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
-      "title":"MDN article"
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
+      "title":"MSDN Documentation"
     }
   ],
   "bugs":[
@@ -144,7 +144,7 @@
     }
   },
   "notes":"Currently the user-select property does not appear in any W3C specification. Support information here is only for \"none\" value, not others.",
-  "usage_perc_y":68.94,
+  "usage_perc_y":72.19,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

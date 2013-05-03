@@ -9,20 +9,20 @@
       "title":"has.js test"
     },
     {
-      "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
-      "title":"Demo"
-    },
-    {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
       "title":"MDN article"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -145,8 +145,8 @@
     }
   },
   "notes":"Using script.async = false; to maintain execution order for dynamically-added scripts isn't supported in Safari 5.0",
-  "usage_perc_y":65.16,
-  "usage_perc_a":0.48,
+  "usage_perc_y":69.08,
+  "usage_perc_a":0.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

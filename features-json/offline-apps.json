@@ -5,16 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://diveinto.org/html5/offline.html",
-      "title":"Dive Into HTML5 article"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
       "title":"Mozilla Hacks article/demo"
     },
     {
+      "url":"http://docs.webplatform.org/wiki/apis/ApplicationCache",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
       "title":"Sitepoint tutorial"
+    },
+    {
+      "url":"http://diveinto.org/html5/offline.html",
+      "title":"Dive Into HTML5 article"
     }
   ],
   "bugs":[
@@ -146,8 +150,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":69.89,
-  "usage_perc_a":0.1,
+  "usage_perc_y":72.99,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"appcache,app cache,application cache,online",

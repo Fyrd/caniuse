@@ -9,12 +9,16 @@
       "title":"Demo page"
     },
     {
-      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
-      "title":"Blog post on usage problems"
-    },
-    {
       "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
       "title":"WHATWG blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/attributes/contentEditable",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
+      "title":"Blog post on usage problems"
     }
   ],
   "bugs":[
@@ -149,8 +153,8 @@
     }
   },
   "notes":"This support only refers to very basic editing capability, implementations vary significantly on how certain elements can be edited.",
-  "usage_perc_y":90.4,
-  "usage_perc_a":0.1,
+  "usage_perc_y":91.17,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -7,14 +7,18 @@
     {
       "url":"https://developer.mozilla.org/en/DOM/Element.mozMatchesSelector",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/methods/matchesSelector",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -138,7 +142,7 @@
   },
   "notes":"Partial support refers to supporting the older specification's \"matchesSelector\" name rather than just \"matches\".",
   "usage_perc_y":0,
-  "usage_perc_a":83.21,
+  "usage_perc_a":84.32,
   "ucprefix":false,
   "parent":"",
   "keywords":" matchesSelector",

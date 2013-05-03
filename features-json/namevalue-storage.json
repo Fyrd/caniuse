@@ -17,6 +17,10 @@
       "title":"has.js test"
     },
     {
+      "url":"http://docs.webplatform.org/wiki/apis/web-storage/properties/localStorage",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
     }
@@ -148,8 +152,8 @@
     }
   },
   "notes":"In private browsing mode Safari and iOS Safari don\u00b4t support to set localStorage.",
-  "usage_perc_y":92.46,
-  "usage_perc_a":0.14,
+  "usage_perc_y":92.72,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"webstorage,local storage",
