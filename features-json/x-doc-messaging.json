@@ -36,7 +36,7 @@
       "7":"n",
       "8":"a",
       "9":"a",
-      "10":"a"
+      "10":"y"
     },
     "firefox":{
       "2":"n",
@@ -149,7 +149,7 @@
       "0":"y"
     }
   },
-  "notes":"Partial support in IE refers to only working in frames/iframes (not other tabs/windows). Also in IE an object cannot be sent using postMessage.",
+  "notes":"Partial support in IE refers to only working in frames/iframes (not other tabs/windows). Also in IE 9 and below an object cannot be sent using postMessage.",
   "usage_perc_y":70.2,
   "usage_perc_a":24.51,
   "ucprefix":false,
