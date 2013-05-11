@@ -5,16 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
-    },
-    {
       "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
-      "title":"has.js test"
     },
     {
       "url":"http://explorercanvas.googlecode.com/",
@@ -27,6 +19,14 @@
     {
       "url":"http://glimr.rubyforge.org/cake/canvas.html",
       "title":"Animation kit "
+    },
+    {
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -35,8 +35,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "Canvas"
+    "Canvas",
+    "HTML5"
   ],
   "stats":{
     "ie":{

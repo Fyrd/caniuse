@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://css-tricks.com/box-sizing/",
+      "title":"CSS Tricks"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
       "title":"WebPlatform Docs"
     },
@@ -13,16 +17,12 @@
       "title":"Blog post"
     },
     {
-      "url":"https://github.com/Schepp/box-sizing-polyfill",
-      "title":"Polyfill for IE"
-    },
-    {
-      "url":"http://css-tricks.com/box-sizing/",
-      "title":"CSS Tricks"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
+    },
+    {
+      "url":"https://github.com/Schepp/box-sizing-polyfill",
+      "title":"Polyfill for IE"
     }
   ],
   "bugs":[

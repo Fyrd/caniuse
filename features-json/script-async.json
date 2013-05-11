@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
-      "title":"Demo"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-async",
       "title":"has.js test"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
+      "title":"Demo"
     },
     {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
@@ -21,8 +21,8 @@
     
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
