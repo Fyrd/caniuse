@@ -9,16 +9,16 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://snipplr.com/view/13523/",
-      "title":"Polyfill for IE"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
       "title":"MDN article"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
       "title":"Demo"
+    },
+    {
+      "url":"http://snipplr.com/view/13523/",
+      "title":"Polyfill for IE"
     }
   ],
   "bugs":[
@@ -36,7 +36,8 @@
       "7":"n",
       "8":"n",
       "9":"y",
-      "10":"y"
+      "10":"y",
+      "11":"y"
     },
     "firefox":{
       "2":"n",

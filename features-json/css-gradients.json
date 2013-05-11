@@ -5,8 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css3pie.com/",
-      "title":"Tool to emulate support in IE"
+      "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.css3files.com/gradient/",
@@ -17,8 +17,8 @@
       "title":"Cross-browser editor"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
-      "title":"WebPlatform Docs"
+      "url":"http://css3pie.com/",
+      "title":"Tool to emulate support in IE"
     }
   ],
   "bugs":[
@@ -34,7 +34,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y"
+      "10":"y",
+      "11":"y"
     },
     "firefox":{
       "2":"n",

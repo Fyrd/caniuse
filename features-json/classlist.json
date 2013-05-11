@@ -9,20 +9,20 @@
       "title":"Mozilla Hacks article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/dom/properties/classList",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://github.com/eligrey/classList.js",
       "title":"Polyfill  script"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/properties/classList",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -31,7 +31,8 @@
       "7":"p",
       "8":"p",
       "9":"p",
-      "10":"y"
+      "10":"y",
+      "11":"y"
     },
     "firefox":{
       "2":"p",

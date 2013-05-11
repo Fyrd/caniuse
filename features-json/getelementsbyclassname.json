@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/methods/getElementsByClassName",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.quirksmode.org/dom/tests/basics.html#getElementsByClassName",
       "title":"Test page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/methods/getElementsByClassName",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -29,7 +29,8 @@
       "7":"p",
       "8":"p",
       "9":"y",
-      "10":"y"
+      "10":"y",
+      "11":"y"
     },
     "firefox":{
       "2":"p",

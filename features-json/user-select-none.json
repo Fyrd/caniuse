@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
+      "title":"MDN article"
+    },
+    {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
       "title":"MSDN Documentation"
     },
     {
       "url":"http://css-tricks.com/almanac/properties/u/user-select/",
       "title":"CSS Tricks article"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -30,7 +30,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y x"
+      "10":"y x",
+      "11":"y x"
     },
     "firefox":{
       "2":"y x",

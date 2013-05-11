@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://selectivizr.com",
-      "title":"Selectivizr: Polyfill for IE6-8"
-    },
-    {
       "url":"http://www.yourhtmlsource.com/stylesheets/advancedselectors.html",
       "title":"Examples of advanced selectors"
     },
     {
-      "url":"http://www.quirksmode.org/css/contents.html",
-      "title":"Detailed support information"
+      "url":"http://selectivizr.com",
+      "title":"Selectivizr: Polyfill for IE6-8"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.quirksmode.org/css/contents.html",
+      "title":"Detailed support information"
     }
   ],
   "bugs":[
@@ -36,7 +36,8 @@
       "7":"y",
       "8":"y",
       "9":"y",
-      "10":"y"
+      "10":"y",
+      "11":"y"
     },
     "firefox":{
       "2":"y",

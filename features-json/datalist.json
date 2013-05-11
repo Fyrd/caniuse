@@ -9,16 +9,16 @@
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
+      "title":"Mozilla Hacks article"
+    },
+    {
       "url":"http://afarkas.github.com/webshim/demos/",
       "title":"HTML5 Library including datalist support"
     },
     {
       "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
       "title":"MDN reference"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
-      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
@@ -34,7 +34,8 @@
       "7":"p",
       "8":"p",
       "9":"p",
-      "10":"a"
+      "10":"a",
+      "11":"a"
     },
     "firefox":{
       "2":"p",

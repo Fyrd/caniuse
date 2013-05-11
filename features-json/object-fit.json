@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/object-fit",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -26,7 +26,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"n"
+      "10":"n",
+      "11":"u"
     },
     "firefox":{
       "2":"n",

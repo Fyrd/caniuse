@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.css3files.com/color/#opacity",
-      "title":"Information page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/opacity",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.css3files.com/color/#opacity",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -26,7 +26,8 @@
       "7":"a",
       "8":"a",
       "9":"y",
-      "10":"y"
+      "10":"y",
+      "11":"y"
     },
     "firefox":{
       "2":"y",

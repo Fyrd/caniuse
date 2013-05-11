@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/methods/matchesSelector",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/Element.mozMatchesSelector",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/methods/matchesSelector",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -27,7 +27,8 @@
       "7":"n",
       "8":"n",
       "9":"a x",
-      "10":"a x"
+      "10":"a x",
+      "11":"a x"
     },
     "firefox":{
       "2":"n",
