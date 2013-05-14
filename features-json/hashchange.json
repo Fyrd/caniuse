@@ -5,12 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
-      "title":"MSDN article"
-    },
-    {
-      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
-      "title":"Simple demo"
+      "url":"http://docs.webplatform.org/wiki/dom/events/hashchange",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
@@ -21,8 +17,12 @@
       "title":"Polyfill"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/dom/events/hashchange",
-      "title":"WebPlatform Docs"
+      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
+      "title":"MSDN article"
+    },
+    {
+      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
+      "title":"Simple demo"
     }
   ],
   "bugs":[
