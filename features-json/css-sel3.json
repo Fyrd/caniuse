@@ -13,12 +13,12 @@
       "title":"Detailed support information"
     },
     {
-      "url":"http://selectivizr.com",
-      "title":"Selectivizr: Polyfill for IE6-8"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://selectivizr.com",
+      "title":"Selectivizr: Polyfill for IE6-8"
     }
   ],
   "bugs":[
@@ -60,7 +60,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "chrome":{
       "4":"y",

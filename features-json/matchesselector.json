@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/methods/matchesSelector",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/Element.mozMatchesSelector",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/methods/matchesSelector",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -53,7 +53,8 @@
       "19":"a x",
       "20":"a x",
       "21":"a x",
-      "22":"a x"
+      "22":"a x",
+      "23":"a x"
     },
     "chrome":{
       "4":"a x",

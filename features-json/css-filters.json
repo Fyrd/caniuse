@@ -9,24 +9,24 @@
       "title":"Filter editor"
     },
     {
-      "url":"http://bennettfeely.com/filters/",
-      "title":"Filter Playground"
-    },
-    {
       "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
       "title":"Demo file for WebKit browsers"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
       "title":"Mozilla hacks article"
+    },
+    {
+      "url":"http://bennettfeely.com/filters/",
+      "title":"Filter Playground"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3",
-    "CSS"
+    "CSS",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -60,8 +60,9 @@
       "18":"n",
       "19":"n",
       "20":"n",
-      "21":"u",
-      "22":"u"
+      "21":"n",
+      "22":"u",
+      "23":"u"
     },
     "chrome":{
       "4":"n",

@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5doctor.com/ruby-rt-rp-element/",
-      "title":"HTML5 Doctor article"
+      "url":"http://docs.webplatform.org/wiki/html/elements/ruby",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://addons.mozilla.org/en-US/firefox/addon/1935/",
       "title":"Add-on for support in Firefox"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/ruby",
-      "title":"WebPlatform Docs"
+      "url":"http://html5doctor.com/ruby-rt-rp-element/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -56,7 +56,8 @@
       "19":"p",
       "20":"p",
       "21":"p",
-      "22":"p"
+      "22":"p",
+      "23":"p"
     },
     "chrome":{
       "4":"p",

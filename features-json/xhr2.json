@@ -9,12 +9,12 @@
       "title":"MDN article on FormData"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/xhr/objects/XMLHttpRequest",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
       "title":"Article with file upload demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/xhr/objects/XMLHttpRequest",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://github.com/3nr1c/jUri.js",
@@ -27,8 +27,8 @@
     }
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -63,7 +63,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "chrome":{
       "4":"u",

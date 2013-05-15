@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/eligrey/classList.js",
-      "title":"Polyfill  script"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/properties/classList",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/eligrey/classList.js",
+      "title":"Polyfill  script"
     },
     {
       "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
@@ -21,8 +21,8 @@
     
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -57,7 +57,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "chrome":{
       "4":"p",
