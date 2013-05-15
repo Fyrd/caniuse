@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"WebKit (Chrome, Safari) support for transitions on pseudo elements has been fixed, but is not yet added."
+      "description":"Chrome supports CSS transitions on generated content as of v. 26. Safari does not support transitions or animations on pseudo elements as of v. 6."
     }
   ],
   "categories":[
