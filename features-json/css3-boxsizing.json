@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description": "Android browsers do not calculate correctly the dimensions (width and height) of the HTML select element."
+    }
   ],
   "categories":[
     "CSS3"
