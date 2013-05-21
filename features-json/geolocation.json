@@ -5,21 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/geolocation",
-      "title":"WebPlatform Docs"
+      "url":"http://html5demos.com/geo",
+      "title":"Simple demo"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-geolocation",
       "title":"has.js test"
     },
     {
-      "url":"http://html5demos.com/geo",
-      "title":"Simple demo"
+      "url":"http://docs.webplatform.org/wiki/apis/geolocation",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     {
       "description":"IE9 appears to <a href=\"http://social.technet.microsoft.com/Forums/en-IE/ieitprocurrentver/thread/aea4db4e-0720-44fe-a9b8-09917e345080\">have some issues</a> in correctly determining longitude/latitude."
+    },
+    {
+      "description":"iOS6 has problems with returning <a href=\"https://discussions.apple.com/thread/4313850?start=0&tstart=0\">high accuracy data</a>."
     }
   ],
   "categories":[
