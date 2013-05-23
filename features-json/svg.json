@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
+      "title":"has.js test"
+    },
+    {
       "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
       "title":"Wikipedia"
     },
@@ -13,8 +17,8 @@
       "title":"Web-based SVG editor"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
-      "title":"has.js test"
+      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
+      "title":"A List Apart article"
     },
     {
       "url":"http://code.google.com/p/svgweb/",
@@ -23,10 +27,6 @@
     {
       "url":"http://svg-wow.org/",
       "title":"SVG showcase site"
-    },
-    {
-      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
-      "title":"A List Apart article"
     }
   ],
   "bugs":[
@@ -151,7 +151,8 @@
       "11.1":"y",
       "11.5":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"y"
     },
     "and_chr":{
       "0":"y"

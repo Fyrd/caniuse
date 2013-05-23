@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://jeremie.patonnier.net/post/2011/02/07/Why-are-SVG-Fonts-so-different",
-      "title":"Blog post"
-    },
-    {
       "url":"http://opentype.info/blog/2010/04/13/the-ipad-and-svg-fonts-in-mobile-safari/",
       "title":"Blog post on usage for iPad"
+    },
+    {
+      "url":"http://jeremie.patonnier.net/post/2011/02/07/Why-are-SVG-Fonts-so-different",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -133,7 +133,8 @@
       "11.1":"y",
       "11.5":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"y"
     },
     "and_chr":{
       "0":"y"

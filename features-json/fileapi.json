@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/Using_files_from_web_applications",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/file",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/Using_files_from_web_applications",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -133,7 +133,8 @@
       "11.1":"y",
       "11.5":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"y"
     },
     "and_chr":{
       "0":"y"

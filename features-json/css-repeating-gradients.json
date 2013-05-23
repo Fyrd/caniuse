@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/repeating-linear-gradient",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.css3files.com/gradient/#repeatinglineargradient",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/repeating-linear-gradient",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
@@ -137,7 +137,8 @@
       "11.1":"a x",
       "11.5":"a x",
       "12":"y x",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"y"
     },
     "and_chr":{
       "0":"y x"

@@ -9,16 +9,16 @@
       "title":"Dev.Opera article"
     },
     {
+      "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
+      "title":"HTML5 Doctor on meter element "
+    },
+    {
       "url":"http://peter.sh/examples/?/html/meter-progress.html",
       "title":"Examples of progress and meter elements"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/progress",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
-      "title":"HTML5 Doctor on meter element "
     }
   ],
   "bugs":[
@@ -141,7 +141,8 @@
       "11.1":"y",
       "11.5":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"y"
     },
     "and_chr":{
       "0":"y"

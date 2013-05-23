@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-number",
-      "title":"has.js test"
+      "url":"https://github.com/jonstipe/number-polyfill",
+      "title":"Polyfill"
     },
     {
       "url":"http://www.html5tutorial.info/html5-number.php",
       "title":"Tutorial"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-number",
+      "title":"has.js test"
     },
     {
-      "url":"https://github.com/jonstipe/number-polyfill",
-      "title":"Polyfill"
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -141,7 +141,8 @@
       "11.1":"y",
       "11.5":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"a"
     },
     "and_chr":{
       "0":"a"

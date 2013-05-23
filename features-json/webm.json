@@ -9,16 +9,16 @@
       "title":"Info on supporting WebM in Safari"
     },
     {
-      "url":"https://tools.google.com/dlpage/webmmf",
-      "title":"Codec for IE9 support"
-    },
-    {
       "url":"http://webmproject.org",
       "title":"Officical website"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video-webm",
       "title":"has.js test"
+    },
+    {
+      "url":"https://tools.google.com/dlpage/webmmf",
+      "title":"Codec for IE9 support"
     }
   ],
   "bugs":[
@@ -141,7 +141,8 @@
       "11.1":"n",
       "11.5":"n",
       "12":"n",
-      "12.1":"n"
+      "12.1":"n",
+      "14":"y"
     },
     "and_chr":{
       "0":"y"

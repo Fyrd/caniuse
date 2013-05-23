@@ -5,14 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/details",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-details",
-      "title":"has.js test"
-    },
-    {
       "url":"https://gist.github.com/370590",
       "title":"Fallback script"
     },
@@ -23,6 +15,14 @@
     {
       "url":"http://html5doctor.com/summary-figcaption-element/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-details",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/details",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -145,7 +145,8 @@
       "11.1":"p",
       "11.5":"p",
       "12":"p",
-      "12.1":"p"
+      "12.1":"p",
+      "14":"y"
     },
     "and_chr":{
       "0":"y"

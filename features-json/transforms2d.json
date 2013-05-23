@@ -5,18 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
-      "title":"Workaround script for IE"
-    },
-    {
-      "url":"http://www.css3files.com/transform/",
-      "title":"Information page"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
-      "title":"has.js test"
-    },
-    {
       "url":"http://www.westciv.com/tools/transforms/",
       "title":"Live editor"
     },
@@ -25,12 +13,24 @@
       "title":"MDN article"
     },
     {
-      "url":"http://www.useragentman.com/IETransformsTranslator/",
-      "title":"Converter for IE"
+      "url":"http://www.css3files.com/transform/",
+      "title":"Information page"
+    },
+    {
+      "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
+      "title":"Workaround script for IE"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.useragentman.com/IETransformsTranslator/",
+      "title":"Converter for IE"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -155,7 +155,8 @@
       "11.1":"y",
       "11.5":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"y x"
     },
     "and_chr":{
       "0":"y x"

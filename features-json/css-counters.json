@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS_Counters",
-      "title":"MDN article"
-    },
-    {
       "url":"http://onwebdev.blogspot.com/2012/02/css-counters-tutorial.html",
       "title":"Tutorial and information"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS_Counters",
+      "title":"MDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/counter-reset",
@@ -137,7 +137,8 @@
       "11.1":"y",
       "11.5":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "14":"y"
     },
     "and_chr":{
       "0":"y"

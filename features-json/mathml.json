@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.mathjax.org",
-      "title":"Cross-browser support script"
+      "url":"https://developer.mozilla.org/en/MathML/Element",
+      "title":"MDN element reference"
     },
     {
-      "url":"http://golem.ph.utexas.edu/~distler/blog/archives/001588.html",
-      "title":"Info on Opera's MathML support"
+      "url":"http://www.mathjax.org",
+      "title":"Cross-browser support script"
     },
     {
       "url":"http://www.mozilla.org/projects/mathml/demo/",
       "title":"MathML demos"
     },
     {
-      "url":"https://developer.mozilla.org/en/MathML/Element",
-      "title":"MDN element reference"
+      "url":"http://golem.ph.utexas.edu/~distler/blog/archives/001588.html",
+      "title":"Info on Opera's MathML support"
     },
     {
       "url":"http://en.wikipedia.org/wiki/MathML",
@@ -145,7 +145,8 @@
       "11.1":"p",
       "11.5":"p",
       "12":"p",
-      "12.1":"p"
+      "12.1":"p",
+      "14":"p"
     },
     "and_chr":{
       "0":"p"
