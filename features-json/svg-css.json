@@ -12,6 +12,7 @@
   "bugs":[
     {
       "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in all browsers but Chrome 23+ and IE9+."
+      "description":"Opera messes background repeat when changing zoom level: <a href=\"http://stackoverflow.com/questions/15220910/svg-as-css-background-problems-with-zoom-level-in-opera#comment21458317_15220910\">known issue in Opera's private bug tracker (CORE-33071)</a>"
     }
   ],
   "categories":[
