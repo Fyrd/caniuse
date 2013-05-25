@@ -23,14 +23,14 @@
     }
   ],
   "categories":[
-    "CSS2"
+    "CSS2", "CSS3"
   ],
   "stats":{
     "ie":{
       "5.5":"n",
       "6":"n",
       "7":"n",
-      "8":"y",
+      "8":"a",
       "9":"y",
       "10":"y",
       "11":"y"
@@ -149,7 +149,7 @@
       "0":"y"
     }
   },
-  "notes":"",
+  "notes":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. pseudo-class). It does not support the double-colon CSS3 syntax (i.e. pseudo-element)",
   "usage_perc_y":94.93,
   "usage_perc_a":0,
   "ucprefix":false,
