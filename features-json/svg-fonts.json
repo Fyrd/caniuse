@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://opentype.info/blog/2010/04/13/the-ipad-and-svg-fonts-in-mobile-safari/",
-      "title":"Blog post on usage for iPad"
-    },
-    {
       "url":"http://jeremie.patonnier.net/post/2011/02/07/Why-are-SVG-Fonts-so-different",
       "title":"Blog post"
+    },
+    {
+      "url":"http://opentype.info/blog/2010/04/13/the-ipad-and-svg-fonts-in-mobile-safari/",
+      "title":"Blog post on usage for iPad"
     }
   ],
   "bugs":[
@@ -102,14 +102,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"y",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

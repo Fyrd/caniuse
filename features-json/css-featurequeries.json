@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://mcc.id.au/blog/2012/08/supports",
-      "title":"@supports in Firefox"
-    },
-    {
-      "url":"http://dabblet.com/gist/3895764",
-      "title":"Test case"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
       "title":"MDN Article"
     },
     {
+      "url":"http://mcc.id.au/blog/2012/08/supports",
+      "title":"@supports in Firefox"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://dabblet.com/gist/3895764",
+      "title":"Test case"
     }
   ],
   "bugs":[
@@ -110,14 +110,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6":"n"
+      "6.0-6.1":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"

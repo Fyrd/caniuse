@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/events/hashchange",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://github.com/3nr1c/jUri.js",
       "title":"Polyfill"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/events/hashchange",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
@@ -115,14 +115,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

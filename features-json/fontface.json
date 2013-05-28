@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.css3files.com/font/",
-      "title":"Information page"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/Web_typography",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://www.css3files.com/font/",
+      "title":"Information page"
     },
     {
       "url":"http://webfonts.info",
@@ -112,14 +112,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"a",
       "4.0-4.1":"a",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

@@ -5,14 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
-      "title":"Tutorial by Mozilla"
-    },
-    {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
-    },
-    {
       "url":"http://glimr.rubyforge.org/cake/canvas.html",
       "title":"Animation kit "
     },
@@ -21,12 +13,20 @@
       "title":"Another tutorial"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
-      "title":"has.js test"
-    },
-    {
       "url":"http://explorercanvas.googlecode.com/",
       "title":"Implementation for Internet Explorer"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
+      "title":"Tutorial by Mozilla"
+    },
+    {
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -35,8 +35,8 @@
     }
   ],
   "categories":[
-    "Canvas",
-    "HTML5"
+    "HTML5",
+    "Canvas"
   ],
   "stats":{
     "ie":{
@@ -121,14 +121,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"y",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"a"

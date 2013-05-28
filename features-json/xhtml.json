@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.xmlplease.com/xhtml/xhtml5polyglot/",
-      "title":"Information on XHTML5"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/concepts/internet_and_web/the_web_standards_model#What_is_XHTML.3F",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://en.wikipedia.org/wiki/XHTML",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://www.xmlplease.com/xhtml/xhtml5polyglot/",
+      "title":"Information on XHTML5"
     }
   ],
   "bugs":[
@@ -106,14 +106,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"y",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

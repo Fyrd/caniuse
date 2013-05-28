@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://webkit.org/blog/181/css-masks/",
       "title":"Old Webkit blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -102,14 +102,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n"
+      "12.1":"n",
+      "15":"a x"
     },
     "ios_saf":{
       "3.2":"a x",
       "4.0-4.1":"a x",
       "4.2-4.3":"a x",
       "5.0-5.1":"a x",
-      "6":"a x"
+      "6.0-6.1":"a x"
     },
     "op_mini":{
       "5.0-7.0":"n"

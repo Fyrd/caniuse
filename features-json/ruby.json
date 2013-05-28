@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://addons.mozilla.org/firefox/addon/1935/",
-      "title":"Add-on \"XHTML Ruby Support\" for Firefox"
-    },
-    {
-      "url":"http://html5doctor.com/ruby-rt-rp-element/",
-      "title":"HTML5 Doctor article"
+      "url":"http://docs.webplatform.org/wiki/html/elements/ruby",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://addons.mozilla.org/firefox/addon/6812/",
       "title":"Addon \"HTML Ruby\" for Firefox support"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/ruby",
-      "title":"WebPlatform Docs"
+      "url":"http://html5doctor.com/ruby-rt-rp-element/",
+      "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"https://addons.mozilla.org/firefox/addon/1935/",
+      "title":"Add-on \"XHTML Ruby Support\" for Firefox"
     }
   ],
   "bugs":[
@@ -110,14 +110,15 @@
       "11.5":"p",
       "11.6":"p",
       "12":"p",
-      "12.1":"p"
+      "12.1":"p",
+      "15":"a"
     },
     "ios_saf":{
       "3.2":"p",
       "4.0-4.1":"p",
       "4.2-4.3":"p",
       "5.0-5.1":"a",
-      "6":"a"
+      "6.0-6.1":"a"
     },
     "op_mini":{
       "5.0-7.0":"p"

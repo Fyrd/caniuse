@@ -5,28 +5,28 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
-      "title":"A List Apart article"
-    },
-    {
       "url":"http://svg-wow.org/",
       "title":"SVG showcase site"
+    },
+    {
+      "url":"http://code.google.com/p/svgweb/",
+      "title":"SVG Web: Flash-based polyfill"
     },
     {
       "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
       "title":"Wikipedia"
     },
     {
-      "url":"http://svg-edit.googlecode.com",
-      "title":"Web-based SVG editor"
+      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
+      "title":"A List Apart article"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
       "title":"has.js test"
     },
     {
-      "url":"http://code.google.com/p/svgweb/",
-      "title":"SVG Web: Flash-based polyfill"
+      "url":"http://svg-edit.googlecode.com",
+      "title":"Web-based SVG editor"
     }
   ],
   "bugs":[
@@ -120,14 +120,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"y",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

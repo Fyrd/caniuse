@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
+      "title":"Demo pages (IE/Firefox only)"
+    },
+    {
       "url":"http://html5accessibility.com/",
       "title":"Detailed tables on accessability support"
     },
     {
       "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
       "title":"Mozilla hacks article"
-    },
-    {
-      "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
-      "title":"Demo pages (IE/Firefox only)"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/font-feature-settings",
@@ -110,14 +110,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n"
+      "12.1":"n",
+      "15":"y x"
     },
     "ios_saf":{
       "3.2":"a",
       "4.0-4.1":"a",
       "4.2-4.3":"a",
       "5.0-5.1":"a",
-      "6":"a"
+      "6.0-6.1":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"

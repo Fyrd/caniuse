@@ -5,28 +5,28 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
-      "title":"MDN article"
+      "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
+      "title":"MDN tutorial"
     },
     {
       "url":"https://github.com/paulirish/matchMedia.js/",
       "title":"matchMedia.js polyfill"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
+      "title":"MDN article"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
-      "title":"MDN tutorial"
+      "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -111,14 +111,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

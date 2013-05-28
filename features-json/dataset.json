@@ -9,10 +9,6 @@
       "title":"Demo using dataset"
     },
     {
-      "url":"http://html5doctor.com/html5-custom-data-attributes/",
-      "title":"HTML5 Doctor article"
-    },
-    {
       "url":"http://www.orangesoda.net/jquery.dataset.html",
       "title":"jQuery polyfill for dataset support"
     },
@@ -23,6 +19,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://html5doctor.com/html5-custom-data-attributes/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -114,14 +114,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"a",
       "4.0-4.1":"a",
       "4.2-4.3":"a",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"a"

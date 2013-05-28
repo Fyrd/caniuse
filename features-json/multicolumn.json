@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
-      "title":"Introduction page"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
       "title":"Dev.Opera article"
+    },
+    {
+      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
+      "title":"Introduction page"
     }
   ],
   "bugs":[
@@ -114,14 +114,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"a x"
     },
     "ios_saf":{
       "3.2":"a x",
       "4.0-4.1":"a x",
       "4.2-4.3":"a x",
       "5.0-5.1":"a x",
-      "6":"a x"
+      "6.0-6.1":"a x"
     },
     "op_mini":{
       "5.0-7.0":"y"

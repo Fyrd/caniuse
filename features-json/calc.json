@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
-      "title":"MDN article"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -106,14 +106,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n"
+      "12.1":"n",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6":"y x"
+      "6.0-6.1":"y x"
     },
     "op_mini":{
       "5.0-7.0":"n"

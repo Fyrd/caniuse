@@ -13,12 +13,12 @@
       "title":"has.js test"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/json",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.json.org/js.html",
       "title":"JSON in JS (includes script w/support)"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/json",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -110,14 +110,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

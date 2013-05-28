@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://westciv.com/tools/boxshadows/index.html",
-      "title":"Live editor"
+      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
+      "title":"Demo of various effects"
     },
     {
-      "url":"http://www.css3files.com/shadow/",
-      "title":"Information page"
+      "url":"http://westciv.com/tools/boxshadows/index.html",
+      "title":"Live editor"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
@@ -21,8 +21,8 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
-      "title":"Demo of various effects"
+      "url":"http://www.css3files.com/shadow/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -119,14 +119,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"a x",
       "4.0-4.1":"y x",
       "4.2-4.3":"y x",
       "5.0-5.1":"y",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-number",
       "title":"has.js test"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://www.html5tutorial.info/html5-number.php",
       "title":"Tutorial"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -110,14 +110,15 @@
       "11.5":"y",
       "11.6":"y",
       "12":"y",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"a",
       "4.0-4.1":"a",
       "4.2-4.3":"a",
       "5.0-5.1":"a",
-      "6":"a"
+      "6.0-6.1":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"

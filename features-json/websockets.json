@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/WebSocket",
-      "title":"Wikipedia"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-websockets",
-      "title":"has.js test"
+      "url":"http://docs.webplatform.org/wiki/apis/websocket",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://websocket.org/aboutwebsocket.html",
       "title":"WebSockets information"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/websocket",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-websockets",
+      "title":"has.js test"
     },
     {
       "url":"http://updates.html5rocks.com/2011/08/What-s-different-in-the-new-WebSocket-protocol",
       "title":"Details on newer protocol"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/WebSocket",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -114,14 +114,15 @@
       "11.5":"a",
       "11.6":"a",
       "12":"a",
-      "12.1":"y"
+      "12.1":"y",
+      "15":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"a",
       "5.0-5.1":"a",
-      "6":"y"
+      "6.0-6.1":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"
