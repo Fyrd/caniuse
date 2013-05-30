@@ -1,0 +1,71 @@
+{
+  "title":"pointer-events",
+  "description":"Pointer Events provides a unified model for mouse, pen, and touch input types without requiring web developers to write unique code for each.",
+  "spec":"http://www.w3.org/TR/pointerevents/ ",
+  "status":"cr",
+  "links":[
+    {
+      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "title":"Hand.js polyfill for pointer events"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
+      "title":"Article & tutorial"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/PointerEvents",
+      "title": "Tutorial on Web Platform Docs"
+    }
+  ],
+  "bugs":[],
+  "categories":[
+    "HTML5", "DOM"
+  ],
+  "stats":{
+    "ie":{
+      "8":"p",
+      "9":"p",
+      "10":"y",
+      "11":"y"
+    },
+    "firefox":{
+      "14":"p",
+      "15":"p",
+      "16":"p",
+      "17":"p",
+      "18":"p",
+      "19":"p",
+      "20":"p",
+      "21":"p",
+      "22":"p",
+      "23":"p"
+    },
+    "chrome":{
+      "23":"p",
+      "24":"p",
+      "25":"p",
+      "26":"p",
+      "27":"p",
+      "28":"p",
+      "29":"p"
+    },
+    "safari":{
+      "5.1":"p",
+      "6":"p"
+    },
+    "opera":{
+      "11":"p",
+      "11.1":"p",
+      "11.5":"p",
+      "11.6":"p",
+      "12":"p",
+      "12.1":"p",
+      "15":"p"
+    }
+  },
+  "notes":"",
+  "ucprefix":"Ms",
+  "parent":"",
+  "keywords":"pointerevents",
+  "shown":true
+}
