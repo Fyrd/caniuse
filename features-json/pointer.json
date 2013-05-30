@@ -1,24 +1,28 @@
 {
   "title":"Pointer events",
-  "description":"This specification integrates various inputs from mice, touchscreens, and pens, making separate implementations no more necessary and authoring for cross-device pointer easier.",
+  "description":"This specification integrates various inputs from mice, touchscreens, and pens, making separate implementations no longer necessary and authoring for cross-device pointers easier.",
   "spec":"http://www.w3.org/TR/pointerevents/",
   "status":"cr",
   "links":[
+    {
+      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
+    },
     {
       "url":"http://blogs.msdn.com/b/ie/archive/2011/09/20/touch-input-for-ie10-and-metro-style-apps.aspx",
       "title":"Implementation of Pointer Events in IE10"
     },
     {
-      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
-      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
+      "url":"http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
+      "title":"Article & tutorial"
     }
   ],
   "bugs":[
-  
+    
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -101,14 +105,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n"
+      "12.1":"n",
+      "15":"p"
     },
     "ios_saf":{
       "3.2":"p",
       "4.0-4.1":"p",
       "4.2-4.3":"p",
       "5.0-5.1":"p",
-      "6":"p"
+      "6.0-6.1":"p"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -132,7 +137,8 @@
       "11.1":"p",
       "11.5":"p",
       "12":"p",
-      "12.1":"p"
+      "12.1":"p",
+      "14":"p"
     },
     "and_chr":{
       "0":"p"
@@ -141,9 +147,9 @@
       "0":"p"
     }
   },
-  "notes":"Partial support in IE10 refers the lacks of onpointerenter and onpointerleave.",
+  "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events.",
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":5.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",
