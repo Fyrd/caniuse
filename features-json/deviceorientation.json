@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Opera Mobile 12 supports "
+      "description":"Opera Mobile 12 supports compassneedscalibration event with addEventListener, but it doesn't have required window.oncompassneedscalibration property."
     },
   ],
   "categories":[
@@ -150,7 +150,7 @@
       "0":"a"
     }
   },
-  "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of deviceorientation event support for Android stock browser and iOS Safari. Firefox 3.6, 4 and 5 support the non-standard <a href=\"https://developer.mozilla.org/en/DOM/MozOrientation\">MozOrientation</a> event. Chrome and Opera support devicemotion event only in their OS X versions. Opera Mobile 12 supports compassneedscalibration event with addEventListener, but it doesn't have required window.oncompassneedscalibration property. Opera Mobile 14 lost the ondevicemotion event support.",
+  "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of deviceorientation event support for Android stock browser and iOS Safari. Firefox 3.6, 4 and 5 support the non-standard <a href=\"https://developer.mozilla.org/en/DOM/MozOrientation\">MozOrientation</a> event. Chrome and Opera support devicemotion event only in their OS X versions. Opera Mobile 14 lost the ondevicemotion event support.",
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
