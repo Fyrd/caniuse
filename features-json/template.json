@@ -13,8 +13,8 @@
     
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -132,10 +132,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "14":"y x"
+      "14":"y"
     },
     "and_chr":{
-      "0":"y x"
+      "0":"y"
     },
     "and_ff":{
       "0":"n"
@@ -147,5 +147,5 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"web components, template",
-  "shown":false
+  "shown":true
 }

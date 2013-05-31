@@ -1,13 +1,9 @@
 {
   "title":"Pointer events",
-  "description":"This specification integrates various inputs from mice, touchscreens, and pens, making separate implementations no longer necessary and authoring for cross-device pointers easier.",
+  "description":"This specification integrates various inputs from mice, touchscreens, and pens, making separate implementations no longer necessary and authoring for cross-device pointers easier. Not to be mistaken with the unrelated \"pointer-events\" CSS property.",
   "spec":"http://www.w3.org/TR/pointerevents/",
   "status":"cr",
   "links":[
-    {
-      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
-      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
-    },
     {
       "url":"http://blogs.msdn.com/b/ie/archive/2011/09/20/touch-input-for-ie10-and-metro-style-apps.aspx",
       "title":"Implementation of Pointer Events in IE10"
@@ -15,14 +11,18 @@
     {
       "url":"http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
       "title":"Article & tutorial"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -57,7 +57,8 @@
       "19":"p",
       "20":"p",
       "21":"p",
-      "22":"p"
+      "22":"p",
+      "23":"p"
     },
     "chrome":{
       "4":"n",
@@ -84,7 +85,7 @@
       "25":"p",
       "26":"p",
       "27":"p",
-      "28":"p"
+      "29":"p"
     },
     "safari":{
       "3.1":"n",
