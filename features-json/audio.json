@@ -46,6 +46,12 @@
     },
     {
       "description":"Playback rate not supported on the stock android browser"
+    },
+    {
+      "description":"Only one Audio file can be played at one time in iOS so forces you to use sprites for multiple audios"
+    },
+    {
+      "description":"Audio can not be auto played. It even starts downloading after a user triggered event"
     }
   ],
   "categories":[
