@@ -5,12 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
-    },
-    {
-      "url":"http://24ways.org/2010/the-state-of-html5-audio",
-      "title":"Detailed article on support"
+      "url":"http://docs.webplatform.org/wiki/html/elements/audio",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://textopia.org/androidsoundformats.html",
@@ -21,20 +17,24 @@
       "title":"The State of HTML5 Audio"
     },
     {
-      "url":"http://www.jplayer.org/latest/demos/",
-      "title":"Demos of audio player that uses <audio>"
-    },
-    {
       "url":"http://html5doctor.com/native-audio-in-the-browser/",
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/audio",
-      "title":"WebPlatform Docs"
+      "url":"http://24ways.org/2010/the-state-of-html5-audio",
+      "title":"Detailed article on support"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/audio.js#audio",
       "title":"has.js test"
+    },
+    {
+      "url":"http://www.jplayer.org/latest/demos/",
+      "title":"Demos of audio player that uses <audio>"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     }
   ],
   "bugs":[
@@ -51,7 +51,7 @@
       "description":"Only one Audio file can be played at one time in iOS so forces you to use sprites for multiple audios"
     },
     {
-      "description":"Audio can not be auto played. It even starts downloading after a user triggered event"
+      "description":"Audio in iOS can not be auto played. It even starts downloading after a user triggered event"
     }
   ],
   "categories":[
