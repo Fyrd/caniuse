@@ -25,7 +25,7 @@
       "description":"DeviceOrientationEvent.absolute property is undefined in iOS Safari."
     },
     {
-      "description":"window.oncompassneedscalibration property is initially undefined in Opera Mobile 12, while the event is correctly fired when the property is defined later."
+      "description":"window.oncompassneedscalibration property is initially undefined in Opera Mobile 12, while the event will be correctly fired when the property is defined later."
     }
   ],
   "categories":[
