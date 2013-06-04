@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-    
+    "description":"Internet Explorer does not accept calculcations without spaces (ie. calc(100%-30px) is invalid, but calc(100% - 30px) works fine)."
   ],
   "categories":[
     "CSS3"
