@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"As of version 21, Firefox fails when the childList option is applied to the MutationObserver."
+    }
   ],
   "categories":[
     "DOM",
@@ -24,7 +26,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"u"
+      "11":"a"
     },
     "firefox":{
       "2":"n",
@@ -41,16 +43,16 @@
       "11":"n",
       "12":"n",
       "13":"n",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y"
+      "14":"a",
+      "15":"a",
+      "16":"a",
+      "17":"a",
+      "18":"a",
+      "19":"a",
+      "20":"a",
+      "21":"a",
+      "22":"a",
+      "23":"a"
     },
     "chrome":{
       "4":"n",
@@ -138,10 +140,10 @@
       "0":"y"
     },
     "and_ff":{
-      "0":"y"
+      "0":"a"
     }
   },
-  "notes":"",
+  "notes":"Partial support in Firefox refers to the lack of characterData option support, and in IE11 refers to the lack of characterData and childList option support.",
   "usage_perc_y":49.03,
   "usage_perc_a":0,
   "ucprefix":false,
