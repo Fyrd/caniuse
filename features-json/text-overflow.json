@@ -5,8 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
-      "title":"has.js test"
+      "url":"http://www.css3files.com/text/",
+      "title":"Information page"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
+      "title":"MDN article"
     },
     {
       "url":"http://devongovett.wordpress.com/2009/04/06/text-overflow-ellipsis-for-firefox-via-jquery/",
@@ -17,12 +21,8 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
-      "title":"MDN article"
-    },
-    {
-      "url":"http://www.css3files.com/text/",
-      "title":"Information page"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
+      "title":"has.js test"
     }
   ],
   "bugs":[

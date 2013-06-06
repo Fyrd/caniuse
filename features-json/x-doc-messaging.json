@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-crosswindowmessaging",
-      "title":"has.js test"
+      "url":"http://docs.webplatform.org/wiki/apis/web-messaging/methods/postMessage_%28window%29",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://72lions.com/2011/05/cross-origin-communication-with-html5",
       "title":"Article and demo"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/web-messaging/methods/postMessage_%28window%29",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
+      "title":"MDN article"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-crosswindowmessaging",
+      "title":"has.js test"
     },
     {
       "url":"http://html5demos.com/postmessage2",
       "title":"Simple demo"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
-      "title":"MDN article"
     }
   ],
   "bugs":[
