@@ -17,7 +17,7 @@
       "description":"Chrome does not correctly adjust the viewport units on vertical resizing of the window"
     },
     {
-      "description":"Viewport units don\u2019t work on WebKit for fonts after resizing the window."
+      "description":"Viewport units don't work on WebKit for fonts after resizing the window."
     }
   ],
   "categories":[
@@ -30,7 +30,7 @@
       "7":"n",
       "8":"n",
       "9":"a",
-      "10":"y",
+      "10":"a",
       "11":"y"
     },
     "firefox":{
@@ -76,12 +76,12 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
+      "20":"a",
+      "21":"a",
+      "22":"a",
+      "23":"a",
+      "24":"a",
+      "25":"a",
       "26":"y",
       "27":"y",
       "28":"y",
@@ -93,7 +93,7 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"y"
+      "6":"a"
     },
     "opera":{
       "9":"n",
@@ -114,7 +114,7 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"y"
+      "6.0-6.1":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -130,7 +130,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"y"
+      "10":"a"
     },
     "op_mob":{
       "10":"n",
@@ -145,12 +145,12 @@
       "0":"y"
     },
     "and_ff":{
-      "0":"n"
+      "0":"y"
     }
   },
-  "notes":"Partial support in IE9 refers to not supporting the unit for font size, and supporting \"vm\" instead of \"vmin\".",
-  "usage_perc_y":62.66,
-  "usage_perc_a":8.3,
+  "notes":"Partial support in IE9 refers to not supporting the unit for font size, and supporting \"vm\" instead of \"vmin\". All other partial support refers to not supporting the \"vmax\" unit.",
+  "usage_perc_y":43.74,
+  "usage_perc_a":27.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage",
