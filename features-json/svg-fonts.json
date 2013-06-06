@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://jeremie.patonnier.net/post/2011/02/07/Why-are-SVG-Fonts-so-different",
-      "title":"Blog post"
-    },
-    {
       "url":"http://opentype.info/blog/2010/04/13/the-ipad-and-svg-fonts-in-mobile-safari/",
       "title":"Blog post on usage for iPad"
+    },
+    {
+      "url":"http://jeremie.patonnier.net/post/2011/02/07/Why-are-SVG-Fonts-so-different",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -145,7 +145,7 @@
     }
   },
   "notes":"Supported in Opera Mini in SVG images only, not in HTML.",
-  "usage_perc_y":48.33,
+  "usage_perc_y":50.1,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

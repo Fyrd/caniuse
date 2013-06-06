@@ -9,25 +9,25 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
-      "title":"MDN article"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
       "title":"Demo"
     },
     {
       "url":"http://snipplr.com/view/13523/",
       "title":"Polyfill for IE"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
+      "title":"MDN article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
     "JS API",
-    "CSS3"
+    "CSS3",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -155,8 +155,8 @@
     }
   },
   "notes":"Partial support in older Firefox versions refers to requiring the second parameter to be included. Partial support in all other browsers refers to not supporting getComputedStyle on pseudo-elements.",
-  "usage_perc_y":81.35,
-  "usage_perc_a":5.46,
+  "usage_perc_y":81.53,
+  "usage_perc_a":5.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

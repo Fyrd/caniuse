@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/opacity",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.css3files.com/color/#opacity",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/opacity",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -145,8 +145,8 @@
     }
   },
   "notes":"Transparency for elements in IE8 and older can be achieved using the proprietary \"filter\" property and does not work well with PNG images using alpha transparency.",
-  "usage_perc_y":86.83,
-  "usage_perc_a":8.85,
+  "usage_perc_y":87.22,
+  "usage_perc_a":8.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"transparent,transparency,alpha",

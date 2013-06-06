@@ -1,16 +1,12 @@
 {
-  "title":"Shadow DOM",
-  "description":"Method of establishing and maintaining functional boundaries between DOM trees and how these trees interact with each other within a document, thus enabling better functional encapsulation within the DOM.",
-  "spec":"http://www.w3.org/TR/shadow-dom/",
+  "title":"Mutation Observer",
+  "description":"Method for observing and reacting to changes to the DOM. Replaces MutationEvents, which is deprecated.",
+  "spec":"http://www.w3.org/TR/dom/",
   "status":"wd",
   "links":[
     {
-      "url":"http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html",
-      "title":"Shadow DOM Visualizer"
-    },
-    {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/shadowdom/",
-      "title":"HTML5Rocks - Shadow DOM 101 article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
+      "title":"MutationObserver from MDN"
     }
   ],
   "bugs":[
@@ -18,7 +14,7 @@
   ],
   "categories":[
     "DOM",
-    "HTML5"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -45,16 +41,16 @@
       "11":"n",
       "12":"n",
       "13":"n",
-      "14":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n"
+      "14":"y",
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y"
     },
     "chrome":{
       "4":"n",
@@ -71,13 +67,13 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
+      "18":"y x",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
       "25":"y x",
       "26":"y",
       "27":"y",
@@ -127,7 +123,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"n"
+      "10":"y x"
     },
     "op_mob":{
       "10":"n",
@@ -136,20 +132,20 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "14":"y x"
+      "14":"y"
     },
     "and_chr":{
-      "0":"y x"
+      "0":"y"
     },
     "and_ff":{
-      "0":"n"
+      "0":"y"
     }
   },
   "notes":"",
-  "usage_perc_y":31.03,
+  "usage_perc_y":49.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"web components",
+  "keywords":"MutationObserver",
   "shown":true
 }

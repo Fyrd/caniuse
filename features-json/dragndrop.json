@@ -13,12 +13,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://html5demos.com/drag",
-      "title":"Demo with link blocks"
-    },
-    {
       "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
       "title":"Shopping cart demo"
+    },
+    {
+      "url":"http://html5demos.com/drag",
+      "title":"Demo with link blocks"
     }
   ],
   "bugs":[
@@ -155,8 +155,8 @@
     }
   },
   "notes":"Partial support in IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData.",
-  "usage_perc_y":60.42,
-  "usage_perc_a":20.47,
+  "usage_perc_y":63.57,
+  "usage_perc_a":16.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://code.google.com/p/canvas-text/",
+      "title":"Support library"
+    },
+    {
       "url":"https://developer.mozilla.org/en/Drawing_text_using_a_canvas#Additional_examples",
       "title":"Examples by Mozilla"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas-text",
       "title":"has.js test"
-    },
-    {
-      "url":"http://code.google.com/p/canvas-text/",
-      "title":"Support library"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/canvas/CanvasRenderingContext2D/fillText",
@@ -25,8 +25,8 @@
     
   ],
   "categories":[
-    "HTML5",
-    "Canvas"
+    "Canvas",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -154,7 +154,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":84.62,
+  "usage_perc_y":84.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

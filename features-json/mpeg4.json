@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://www.interoperabilitybridges.com/html5-extension-for-wmp-plugin",
-      "title":"Firefox extension allowing support in Win7"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC",
       "title":"Wikipedia article"
+    },
+    {
+      "url":"http://www.interoperabilitybridges.com/html5-extension-for-wmp-plugin",
+      "title":"Firefox extension allowing support in Win7"
     }
   ],
   "bugs":[
@@ -105,7 +105,7 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"y"
+      "15":"n"
     },
     "ios_saf":{
       "3.2":"y",
@@ -147,8 +147,8 @@
     }
   },
   "notes":"Support in Chrome may <a href=\"http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html\">be dropped</a> in some upcoming version. The Android 2.3 browser currently requires <a href=\"http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/\">specific handling</a> to play videos. Firefox <a href=\"http://blog.lizardwrangler.com/2012/03/18/video-user-experience-and-our-mission/\">will include support</a> on some platforms in upcoming versions. Firefox supports H.264 on Windows 7 and later since version 21.",
-  "usage_perc_y":62.11,
-  "usage_perc_a":4.94,
+  "usage_perc_y":66.22,
+  "usage_perc_a":5.12,
   "ucprefix":false,
   "parent":"video",
   "keywords":"avc,mp4,mpv,mov,aac",

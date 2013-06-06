@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://addyosmani.github.com/jQuery-contextMenu/",
+      "title":"jQuery polyfill"
+    },
+    {
       "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
       "title":"Demo"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
       "title":"has.js test"
-    },
-    {
-      "url":"http://addyosmani.github.com/jQuery-contextMenu/",
-      "title":"jQuery polyfill"
     }
   ],
   "bugs":[
@@ -150,7 +150,7 @@
   },
   "notes":"Partial support in Firefox refers to using the non-standard \"menuitem\" child elements, where the current spec uses \"<a href=\"http://www.w3.org/TR/html5/interactive-elements.html#the-command-element\">command</a>\" child elements. It is also currently limited to context menus, not toolbar menus.",
   "usage_perc_y":0,
-  "usage_perc_a":16.33,
+  "usage_perc_a":16.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"contextmenu,menuitem,command",

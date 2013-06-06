@@ -5,10 +5,6 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.quirksmode.org/css/contents.html",
-      "title":"Detailed support information"
-    },
-    {
       "url":"http://www.css3.info/selectors-test/",
       "title":"Automated CSS3 selector test"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.quirksmode.org/css/contents.html",
+      "title":"Detailed support information"
     }
   ],
   "bugs":[
@@ -153,7 +153,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":86.7,
+  "usage_perc_y":87.1,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

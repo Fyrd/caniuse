@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.css-101.org/fixed-positioning/05.php",
-      "title":"Workaround for IE6"
-    },
-    {
       "url":"http://bradfrostweb.com/blog/mobile/fixed-position/",
       "title":"Article on mobile support"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/position",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.css-101.org/fixed-positioning/05.php",
+      "title":"Workaround for IE6"
     }
   ],
   "bugs":[
@@ -157,8 +157,8 @@
     }
   },
   "notes":"Only works in Android 2.2+ by using the following meta tag: &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">. Partial support in iOS Safari refers to <a href=\"http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/\">buggy behavior</a>.",
-  "usage_perc_y":84.33,
-  "usage_perc_a":8.91,
+  "usage_perc_y":83.69,
+  "usage_perc_a":9.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
