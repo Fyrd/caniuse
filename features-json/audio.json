@@ -52,6 +52,9 @@
     },
     {
       "description":"Audio in iOS can not be auto played. It even starts downloading after a user triggered event"
+    },
+    {
+      "description":"Volume is read-only on iOS"
     }
   ],
   "categories":[
