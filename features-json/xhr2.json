@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/xhr/objects/XMLHttpRequest",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://github.com/3nr1c/jUri.js",
       "title":"Polyfill for FormData object"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
       "title":"Article with file upload demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/xhr/objects/XMLHttpRequest",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
