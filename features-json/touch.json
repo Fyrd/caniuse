@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"Beware, android 2.3 and below do not detect multiple touches."
+    },
+    {
+      "description":"Firefox 4 & 5 support a <a href=\"https://hacks.mozilla.org/2010/08/firefox4-beta3/\">non-standard</a> implementation to achieve the same."
     }
   ],
   "categories":[
@@ -33,8 +36,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"p",
-      "11":"p"
+      "10":"a",
+      "11":"a"
     },
     "firefox":{
       "2":"n",
@@ -151,7 +154,7 @@
       "0":"y"
     }
   },
-  "notes":"Firefox 4 & 5 support a <a href=\"https://hacks.mozilla.org/2010/08/firefox4-beta3/\">non-standard</a> implementation to achieve the same. Internet Explorer implements Pointer Events specification which supports more input devices than Touch Events one.",
+  "notes":"Partial support in IE10 refers to using \"<a href=\"http://msdn.microsoft.com/en-us/ie/hh272903.aspx#_DOMTouch\">Pointer events</a>\".",
   "usage_perc_y":61.63,
   "usage_perc_a":7.69,
   "ucprefix":false,

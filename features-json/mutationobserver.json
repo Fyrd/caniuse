@@ -24,7 +24,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"a"
+      "11":"u"
     },
     "firefox":{
       "2":"n",
@@ -141,7 +141,7 @@
       "0":"y"
     }
   },
-  "notes":"Partial support in IE11 refers to the lack of childList option support. When the content of a node with a single CharacterData child node is changed by innerHTML attribute and the node have a single different one as a result, WebKit browsers consider it as a characterData mutation of the child CharacterData node, while other browsers think it as a childList mutation of the parent node.",
+  "notes":"",
   "usage_perc_y":49.03,
   "usage_perc_a":0,
   "ucprefix":false,
