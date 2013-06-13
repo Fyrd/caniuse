@@ -9,14 +9,6 @@
       "title":"A List Apart article"
     },
     {
-      "url":"http://svg-edit.googlecode.com",
-      "title":"Web-based SVG editor"
-    },
-    {
-      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://code.google.com/p/svgweb/",
       "title":"SVG Web: Flash-based polyfill"
     },
@@ -27,6 +19,14 @@
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
       "title":"has.js test"
+    },
+    {
+      "url":"http://svg-edit.googlecode.com",
+      "title":"Web-based SVG editor"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -107,7 +107,8 @@
       "4":"y",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"y",
@@ -128,7 +129,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

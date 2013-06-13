@@ -5,24 +5,24 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/color#RGBA_Notation",
-      "title":"WebPlatform Docs"
+      "url":"http://dev.opera.com/articles/view/color-in-opera-10-hsl-rgb-and-alpha-transparency/",
+      "title":"Dev.Opera article"
     },
     {
       "url":"http://www.zenelements.com/blog/css3-hsl-hsla-color-opacity/",
       "title":"Guide to HSL & HSLA"
     },
     {
-      "url":"http://www.zenelements.com/blog/css3-rgb-rgba-color-opacity/",
-      "title":"Guide to RGB & RGBA"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/color-in-opera-10-hsl-rgb-and-alpha-transparency/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://www.css3files.com/color/",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/color#RGBA_Notation",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.zenelements.com/blog/css3-rgb-rgba-color-opacity/",
+      "title":"Guide to RGB & RGBA"
     }
   ],
   "bugs":[
@@ -101,7 +101,8 @@
       "4":"y",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -122,7 +123,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

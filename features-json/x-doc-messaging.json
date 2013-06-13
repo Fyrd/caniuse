@@ -5,6 +5,14 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://html5demos.com/postmessage2",
+      "title":"Simple demo"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
+      "title":"MDN article"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-crosswindowmessaging",
       "title":"has.js test"
     },
@@ -15,14 +23,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/apis/web-messaging/methods/postMessage_%28window%29",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html5demos.com/postmessage2",
-      "title":"Simple demo"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -103,7 +103,8 @@
       "4":"y",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -124,7 +125,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

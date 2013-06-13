@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/codler/Grid-Layout-Polyfill",
-      "title":"Grid Layout Polyfill"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=616605",
       "title":"Mozilla (Firefox) feature request"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
       "title":"IE Blog post"
+    },
+    {
+      "url":"https://github.com/codler/Grid-Layout-Polyfill",
+      "title":"Grid Layout Polyfill"
     }
   ],
   "bugs":[
@@ -97,7 +97,8 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"p"
+      "6":"p",
+      "7":"p"
     },
     "opera":{
       "9":"n",
@@ -118,7 +119,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"p"
+      "6.0-6.1":"p",
+      "7.0":"p"
     },
     "op_mini":{
       "5.0-7.0":"n"

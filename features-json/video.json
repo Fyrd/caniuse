@@ -5,12 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://diveinto.org/html5/video.html",
-      "title":"Video on the Web - includes info on Android support"
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     },
     {
       "url":"http://camendesign.co.uk/code/video_for_everybody",
@@ -21,12 +17,16 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://webmproject.org",
-      "title":"WebM format information"
+      "url":"http://diveinto.org/html5/video.html",
+      "title":"Video on the Web - includes info on Android support"
     },
     {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://webmproject.org",
+      "title":"WebM format information"
     }
   ],
   "bugs":[
@@ -105,7 +105,8 @@
       "4":"y",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -126,7 +127,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

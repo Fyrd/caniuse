@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://samshull.blogspot.com/2010/10/ajax-push-in-ios-safari-and-chrome-with.html",
-      "title":"Blog post with demo"
-    },
-    {
       "url":"http://www.html5rocks.com/tutorials/eventsource/basics/",
       "title":"HTML5 Rocks tutorial"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-eventsource",
       "title":"has.js test"
+    },
+    {
+      "url":"http://samshull.blogspot.com/2010/10/ajax-push-in-ios-safari-and-chrome-with.html",
+      "title":"Blog post with demo"
     }
   ],
   "bugs":[
@@ -95,7 +95,8 @@
       "4":"n",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"a",
@@ -116,7 +117,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

@@ -9,14 +9,6 @@
       "title":"Tutorial by Mozilla"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://www.diveinto.org/html5/canvas.html",
-      "title":"Another tutorial"
-    },
-    {
       "url":"http://www.canvasdemos.com/",
       "title":"Showcase site"
     },
@@ -25,8 +17,16 @@
       "title":"Animation kit "
     },
     {
+      "url":"http://www.diveinto.org/html5/canvas.html",
+      "title":"Another tutorial"
+    },
+    {
       "url":"http://explorercanvas.googlecode.com/",
       "title":"Implementation for Internet Explorer"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -35,8 +35,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "Canvas"
+    "Canvas",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -108,7 +108,8 @@
       "4":"y",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"y",
@@ -129,7 +130,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"a"

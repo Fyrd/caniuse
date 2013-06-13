@@ -13,12 +13,12 @@
       "title":"has.js test"
     },
     {
-      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
-      "title":"MDN article"
-    },
-    {
       "url":"http://svg-wow.org/blog/category/animation/",
       "title":"Examples on SVG WOW"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -99,7 +99,8 @@
       "4":"a",
       "5":"a",
       "5.1":"a",
-      "6":"a"
+      "6":"a",
+      "7":"a"
     },
     "opera":{
       "9":"y",
@@ -120,7 +121,8 @@
       "4.0-4.1":"a",
       "4.2-4.3":"a",
       "5.0-5.1":"a",
-      "6.0-6.1":"a"
+      "6.0-6.1":"a",
+      "7.0":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"

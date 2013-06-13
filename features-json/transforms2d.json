@@ -9,8 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
-      "title":"MDN article"
+      "url":"http://www.useragentman.com/IETransformsTranslator/",
+      "title":"Converter for IE"
+    },
+    {
+      "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
+      "title":"Workaround script for IE"
     },
     {
       "url":"http://www.css3files.com/transform/",
@@ -21,12 +25,8 @@
       "title":"Live editor"
     },
     {
-      "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
-      "title":"Workaround script for IE"
-    },
-    {
-      "url":"http://www.useragentman.com/IETransformsTranslator/",
-      "title":"Converter for IE"
+      "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
+      "title":"MDN article"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
@@ -111,7 +111,8 @@
       "4":"y x",
       "5":"y x",
       "5.1":"y x",
-      "6":"y x"
+      "6":"y x",
+      "7":"y x"
     },
     "opera":{
       "9":"n",
@@ -132,7 +133,8 @@
       "4.0-4.1":"y x",
       "4.2-4.3":"y x",
       "5.0-5.1":"y x",
-      "6.0-6.1":"y x"
+      "6.0-6.1":"y x",
+      "7.0":"y x"
     },
     "op_mini":{
       "5.0-7.0":"n"

@@ -5,8 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/dom/events/hashchange",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
       "title":"Simple demo"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
+      "title":"MSDN article"
     },
     {
       "url":"http://github.com/3nr1c/jUri.js",
@@ -15,22 +23,14 @@
     {
       "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
       "title":"MDN article"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/dom/events/hashchange",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
-      "title":"MSDN article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "JS API"
+    "JS API",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -102,7 +102,8 @@
       "4":"p",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"p",
@@ -123,7 +124,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

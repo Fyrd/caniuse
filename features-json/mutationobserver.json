@@ -13,8 +13,8 @@
     
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -24,7 +24,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"u"
+      "11":"a"
     },
     "firefox":{
       "2":"n",
@@ -86,7 +86,8 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"n"
+      "6":"n",
+      "7":"u"
     },
     "opera":{
       "9":"n",
@@ -107,7 +108,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"n"
+      "6.0-6.1":"n",
+      "7.0":"u"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -141,7 +143,7 @@
       "0":"y"
     }
   },
-  "notes":"",
+  "notes":"Partial support in IE11 refers to the lack of childList option support. When the content of a node with a single CharacterData child node is changed by innerHTML attribute and the node have a single different one as a result, WebKit browsers consider it as a characterData mutation of the child CharacterData node, while other browsers think it as a childList mutation of the parent node.",
   "usage_perc_y":49.03,
   "usage_perc_a":0,
   "ucprefix":false,

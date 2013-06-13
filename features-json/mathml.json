@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://www.mathjax.org",
+      "title":"Cross-browser support script"
+    },
+    {
       "url":"http://www.mozilla.org/projects/mathml/demo/",
       "title":"MathML demos"
     },
@@ -15,10 +19,6 @@
     {
       "url":"https://developer.mozilla.org/en/MathML/Element",
       "title":"MDN element reference"
-    },
-    {
-      "url":"http://www.mathjax.org",
-      "title":"Cross-browser support script"
     }
   ],
   "bugs":[
@@ -97,7 +97,8 @@
       "4":"p",
       "5":"p",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -118,7 +119,8 @@
       "4.0-4.1":"p",
       "4.2-4.3":"p",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"p"

@@ -9,20 +9,20 @@
       "title":"jQuery fallback script"
     },
     {
-      "url":"https://gist.github.com/370590",
-      "title":"Fallback script"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-details",
-      "title":"has.js test"
+      "url":"http://html5doctor.com/summary-figcaption-element/",
+      "title":"HTML5 Doctor article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/details",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://html5doctor.com/summary-figcaption-element/",
-      "title":"HTML5 Doctor article"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-details",
+      "title":"has.js test"
+    },
+    {
+      "url":"https://gist.github.com/370590",
+      "title":"Fallback script"
     }
   ],
   "bugs":[
@@ -101,7 +101,8 @@
       "4":"p",
       "5":"p",
       "5.1":"p",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"p",
@@ -122,7 +123,8 @@
       "4.0-4.1":"p",
       "4.2-4.3":"p",
       "5.0-5.1":"p",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"p"

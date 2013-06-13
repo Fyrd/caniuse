@@ -13,12 +13,12 @@
       "title":"has.js test"
     },
     {
-      "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
-      "title":"Info on supporting WebM in Safari"
-    },
-    {
       "url":"https://tools.google.com/dlpage/webmmf",
       "title":"Codec for IE9 support"
+    },
+    {
+      "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
+      "title":"Info on supporting WebM in Safari"
     }
   ],
   "bugs":[
@@ -97,7 +97,8 @@
       "4":"p",
       "5":"p",
       "5.1":"p",
-      "6":"p"
+      "6":"p",
+      "7":"p"
     },
     "opera":{
       "9":"n",
@@ -118,7 +119,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"n"
+      "6.0-6.1":"n",
+      "7.0":"u"
     },
     "op_mini":{
       "5.0-7.0":"n"

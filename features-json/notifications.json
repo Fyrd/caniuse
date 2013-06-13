@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
-      "title":"Chromium API"
-    },
-    {
       "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
       "title":"Add-on &#34;HTML Desktop Notifications&#34; for Firefox 3.5-21 support"
     },
     {
       "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
+      "title":"Chromium API"
     }
   ],
   "bugs":[
@@ -93,7 +93,8 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"a x"
+      "6":"a x",
+      "7":"a x"
     },
     "opera":{
       "9":"n",
@@ -114,7 +115,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"n"
+      "6.0-6.1":"n",
+      "7.0":"u"
     },
     "op_mini":{
       "5.0-7.0":"n"

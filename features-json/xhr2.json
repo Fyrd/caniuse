@@ -13,12 +13,12 @@
       "title":"MDN article on FormData"
     },
     {
-      "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
-      "title":"Article with file upload demo"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/xhr/objects/XMLHttpRequest",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
+      "title":"Article with file upload demo"
     }
   ],
   "bugs":[
@@ -27,8 +27,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -100,7 +100,8 @@
       "4":"n",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -121,7 +122,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

@@ -9,12 +9,12 @@
       "title":"Datepicker tutorial w/polyfill"
     },
     {
-      "url":"https://github.com/zoltan-dulac/html5Forms.js",
-      "title":"Polyfill for HTML5 forms"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
       "title":"has.js test"
+    },
+    {
+      "url":"https://github.com/zoltan-dulac/html5Forms.js",
+      "title":"Polyfill for HTML5 forms"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
@@ -97,7 +97,8 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"n"
+      "6":"n",
+      "7":"u"
     },
     "opera":{
       "9":"y",
@@ -118,7 +119,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

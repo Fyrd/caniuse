@@ -9,20 +9,20 @@
       "title":"Firefox blog post"
     },
     {
-      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
-      "title":"Tutorial"
-    },
-    {
       "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
       "title":"Webkit blog post"
     },
     {
-      "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
-      "title":"Instructions on enabling WebGL"
+      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
+      "title":"Tutorial"
     },
     {
       "url":"http://iewebgl.com/",
       "title":"Polyfill for IE"
+    },
+    {
+      "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
+      "title":"Instructions on enabling WebGL"
     }
   ],
   "bugs":[
@@ -101,7 +101,8 @@
       "4":"n",
       "5":"n",
       "5.1":"a",
-      "6":"a"
+      "6":"a",
+      "7":"a"
     },
     "opera":{
       "9":"n",
@@ -122,7 +123,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"n"
+      "6.0-6.1":"n",
+      "7.0":"u"
     },
     "op_mini":{
       "5.0-7.0":"n"

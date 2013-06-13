@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/XHTML%2BSMIL",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://leunen.me/fakesmile/",
       "title":"JS library to support XHTML+SMIL"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/XHTML%2BSMIL",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -89,7 +89,8 @@
       "4":"p",
       "5":"p",
       "5.1":"p",
-      "6":"p"
+      "6":"p",
+      "7":"p"
     },
     "opera":{
       "9":"p",
@@ -110,7 +111,8 @@
       "4.0-4.1":"p",
       "4.2-4.3":"p",
       "5.0-5.1":"p",
-      "6.0-6.1":"p"
+      "6.0-6.1":"p",
+      "7.0":"p"
     },
     "op_mini":{
       "5.0-7.0":"p"

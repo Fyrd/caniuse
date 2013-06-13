@@ -9,12 +9,12 @@
       "title":"Article on using the latest spec"
     },
     {
-      "url":"http://bennettfeely.com/flexplorer/",
-      "title":"Flexbox CSS generator"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
       "title":"Tutuorial on cross-browser support"
+    },
+    {
+      "url":"http://bennettfeely.com/flexplorer/",
+      "title":"Flexbox CSS generator"
     }
   ],
   "bugs":[
@@ -98,7 +98,8 @@
       "4":"a x",
       "5":"a x",
       "5.1":"a x",
-      "6":"a x"
+      "6":"a x",
+      "7":"y x"
     },
     "opera":{
       "9":"n",
@@ -119,7 +120,8 @@
       "4.0-4.1":"a x",
       "4.2-4.3":"a x",
       "5.0-5.1":"a x",
-      "6.0-6.1":"a x"
+      "6.0-6.1":"a x",
+      "7.0":"y x"
     },
     "op_mini":{
       "5.0-7.0":"n"

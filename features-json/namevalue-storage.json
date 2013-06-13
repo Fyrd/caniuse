@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/storage",
-      "title":"Simple demo"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-localstorage;native-sessionstorage",
       "title":"has.js test"
+    },
+    {
+      "url":"http://code.google.com/p/sessionstorage/",
+      "title":"Support library"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/web-storage/properties/localStorage",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/En/DOM/Storage",
-      "title":"Gecko reference"
+      "url":"http://html5demos.com/storage",
+      "title":"Simple demo"
     },
     {
-      "url":"http://code.google.com/p/sessionstorage/",
-      "title":"Support library"
+      "url":"https://developer.mozilla.org/En/DOM/Storage",
+      "title":"Gecko reference"
     }
   ],
   "bugs":[
@@ -101,7 +101,8 @@
       "4":"y",
       "5":"y",
       "5.1":"y",
-      "6":"y"
+      "6":"y",
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -122,7 +123,8 @@
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
-      "6.0-6.1":"y"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

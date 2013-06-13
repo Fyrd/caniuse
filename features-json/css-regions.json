@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://html.adobe.com/webstandards/cssregions/",
+      "title":"Adobe demos and samples"
+    },
+    {
       "url":"http://msdn.microsoft.com/en-us/ie/hh272902#_CSSConnected",
       "title":"IE10 developer guide info"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@region",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html.adobe.com/webstandards/cssregions/",
-      "title":"Adobe demos and samples"
     }
   ],
   "bugs":[
@@ -93,7 +93,8 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"n"
+      "6":"n",
+      "7":"y x"
     },
     "opera":{
       "9":"n",
@@ -114,7 +115,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"n"
+      "6.0-6.1":"n",
+      "7.0":"y x"
     },
     "op_mini":{
       "5.0-7.0":"n"
