@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"In both Firefox 9 and Chrome 16, xhr.timeout and xhr.ontimeout don't appear to be supported."
+      "description":"xhr.timeout and xhr.ontimeout are supported in Chrome 29+ and Firefox 12+."
     }
   ],
   "categories":[
