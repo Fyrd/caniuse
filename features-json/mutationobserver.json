@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"WebKitMutationObserver in iOS 6 has bug: it doesn't trigger `\"childList\"` changes until you bind one of the deprecated mutation events (for example, `\"DOMNodeInserted\"`) to the node which is watched by observer."
+    }
   ],
   "categories":[
     "JS API",
