@@ -1,16 +1,20 @@
 {
   "title":"WebP image format",
-  "description":"Image format that employs both lossy and lossless compression.",
+  "description":"Image format that supports lossy and lossless compression, as well as animation and alpha transparency.",
   "spec":"https://developers.google.com/speed/webp/",
   "status":"other",
   "links":[
     {
-      "url":"https://developers.google.com/speed/webp/",
-      "title":"Official website"
+      "url":"http://libwebpjs.appspot.com/",
+      "title":"Decoder in JS"
     },
     {
       "url":"http://antimatter15.github.io/weppy/demo.html",
       "title":"Polyfill for browsers with WebM support"
+    },
+    {
+      "url":"https://developers.google.com/speed/webp/",
+      "title":"Official website"
     }
   ],
   "bugs":[

@@ -5,24 +5,21 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://bennettfeely.com/flexplorer/",
+      "title":"Flexbox CSS generator"
+    },
+    {
       "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
-      "title":"Tutuorial on cross-browser support"
+      "title":"Tutorial on cross-browser support"
     },
     {
       "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
       "title":"Article on using the latest spec"
-    },
-    {
-      "url":"http://bennettfeely.com/flexplorer/",
-      "title":"Flexbox CSS generator"
     }
   ],
   "bugs":[
     {
       "description":"Firefox does not support specifying widths in percentages. <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=529761\">See bug</a>."
-    },
-    {
-      "description":"Firefox 21+ does not support flex-wrap."
     }
   ],
   "categories":[
@@ -61,8 +58,8 @@
       "19":"a x",
       "20":"a x",
       "21":"a x",
-      "22":"y",
-      "23":"y"
+      "22":"a",
+      "23":"a"
     },
     "chrome":{
       "4":"a x",
@@ -155,9 +152,9 @@
       "0":"a x"
     }
   },
-  "notes":"Partial support refers to supporting an <a href=\"http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/\">older version</a> of the specification or an <a href=\"http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/\">older syntax</a>.",
-  "usage_perc_y":34.58,
-  "usage_perc_a":41.94,
+  "notes":"Most partial support refers to supporting an <a href=\"http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/\">older version</a> of the specification or an <a href=\"http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/\">older syntax</a>. For Firefox 21+ it refers to lack of flex-wrap & flex-flow support.",
+  "usage_perc_y":34.39,
+  "usage_perc_a":42.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex",

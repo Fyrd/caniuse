@@ -5,21 +5,21 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
+      "title":"Mozilla Hacks article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/functions/calc",
       "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
       "title":"MDN article"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
-      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
     {
-      "description":"Internet Explorer does not accept calculations without spaces for additions/subtractions (ie. calc(100%-30px) is invalid, but calc(100% - 30px) works fine)."
+      "description":"Internet Explorer (in accordance with the spec) does not accept calculations without spaces for additions/subtractions (ie. calc(100%-30px) is invalid, but calc(100% - 30px) works fine)."
     }
   ],
   "categories":[
@@ -152,7 +152,7 @@
       "0":"y"
     }
   },
-  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax.",
+  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax. ",
   "usage_perc_y":74.22,
   "usage_perc_a":0,
   "ucprefix":false,
