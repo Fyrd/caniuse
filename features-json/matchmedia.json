@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://github.com/paulirish/matchMedia.js/",
+      "title":"matchMedia.js polyfill"
+    },
+    {
       "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
       "title":"MDN article"
     },
@@ -15,10 +19,6 @@
     {
       "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
       "title":"MDN tutorial"
-    },
-    {
-      "url":"https://github.com/paulirish/matchMedia.js/",
-      "title":"matchMedia.js polyfill"
     }
   ],
   "bugs":[
