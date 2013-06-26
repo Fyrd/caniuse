@@ -13,12 +13,12 @@
       "title":"Cross-browser editor"
     },
     {
-      "url":"http://css3pie.com/",
-      "title":"Tool to emulate support in IE"
-    },
-    {
       "url":"http://www.css3files.com/gradient/",
       "title":"Information page"
+    },
+    {
+      "url":"http://css3pie.com/",
+      "title":"Tool to emulate support in IE"
     }
   ],
   "bugs":[
@@ -61,7 +61,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "chrome":{
       "4":"a x",

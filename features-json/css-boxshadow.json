@@ -9,10 +9,6 @@
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
       "title":"Demo of various effects"
     },
@@ -23,6 +19,10 @@
     {
       "url":"http://westciv.com/tools/boxshadows/index.html",
       "title":"Live editor"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "chrome":{
       "4":"y x",

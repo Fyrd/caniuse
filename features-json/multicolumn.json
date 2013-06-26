@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
+      "title":"Dev.Opera article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/column-width",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
       "title":"Introduction page"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
-      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -65,7 +65,8 @@
       "20":"a x",
       "21":"a x",
       "22":"a x",
-      "23":"a x"
+      "23":"a x",
+      "24":"a x"
     },
     "chrome":{
       "4":"a x",

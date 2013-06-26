@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/XHTML",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/concepts/internet_and_web/the_web_standards_model#What_is_XHTML.3F",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.xmlplease.com/xhtml/xhtml5polyglot/",
       "title":"Information on XHTML5"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/XHTML",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -57,7 +57,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "chrome":{
       "4":"y",

@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
-      "title":"has.js test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/attributes/placeholder",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
+      "title":"has.js test"
     },
     {
       "url":"http://www.zachleat.com/web/placeholder/",
@@ -61,7 +61,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "chrome":{
       "4":"y",

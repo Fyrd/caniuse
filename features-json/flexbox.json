@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://bennettfeely.com/flexplorer/",
-      "title":"Flexbox CSS generator"
+      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
+      "title":"Article on using the latest spec"
     },
     {
       "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
       "title":"Tutorial on cross-browser support"
     },
     {
-      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
-      "title":"Article on using the latest spec"
+      "url":"http://bennettfeely.com/flexplorer/",
+      "title":"Flexbox CSS generator"
     }
   ],
   "bugs":[
@@ -59,7 +59,8 @@
       "20":"a x",
       "21":"a x",
       "22":"a",
-      "23":"a"
+      "23":"a",
+      "24":"a"
     },
     "chrome":{
       "4":"a x",
