@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"IE 9 & IE 10 do not support rem units when used in the \"font\" shorthand property."
+      "description":"IE 9 & IE 10 do not support rem units when used in the \"font\" shorthand property (fixed in IE11)."
     }
   ],
   "categories":[

@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://dabblet.com/gist/3895764",
-      "title":"Test case"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
       "title":"MDN Article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
-      "title":"WebPlatform Docs"
+      "url":"http://dabblet.com/gist/3895764",
+      "title":"Test case"
     },
     {
       "url":"http://mcc.id.au/blog/2012/08/supports",
       "title":"@supports in Firefox"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -152,11 +152,11 @@
       "0":"n"
     },
     "and_ff":{
-      "0":"n"
+      "0":"y"
     }
   },
   "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true. Also added to WebKit and expected to be in an upcoming version of Chrome.",
-  "usage_perc_y":0.97,
+  "usage_perc_y":1.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
