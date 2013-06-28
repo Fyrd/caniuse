@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/3nr1c/jUri.js",
-      "title":"Polyfill for FormData object"
-    },
-    {
       "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
       "title":"MDN article on FormData"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/apis/xhr/objects/XMLHttpRequest",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/3nr1c/jUri.js",
+      "title":"Polyfill for FormData object"
     }
   ],
   "bugs":[

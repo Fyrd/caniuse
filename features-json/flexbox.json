@@ -9,12 +9,12 @@
       "title":"Tutorial on cross-browser support"
     },
     {
-      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
-      "title":"Article on using the latest spec"
-    },
-    {
       "url":"http://bennettfeely.com/flexplorer/",
       "title":"Flexbox CSS generator"
+    },
+    {
+      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
+      "title":"Article on using the latest spec"
     }
   ],
   "bugs":[
@@ -88,7 +88,7 @@
       "26":"y x",
       "27":"y x",
       "28":"y x",
-      "29":"y x"
+      "29":"y"
     },
     "safari":{
       "3.1":"a x",
