@@ -1,11 +1,11 @@
 {
   "title":"Web Workers",
   "description":"Method of running scripts in the background, isolated from the web page",
-  "spec":"http://www.whatwg.org/specs/web-workers/current-work/",
-  "status":"wd",
+  "spec":"http://www.w3.org/TR/workers/",
+  "status":"cr",
   "links":[
     {
-      "url":"http://code.google.com/p/ie-web-worker/",
+      "url":"https://code.google.com/p/ie-web-worker/",
       "title":"Polyfill for IE (single threaded)"
     },
     {
@@ -13,12 +13,8 @@
       "title":"Web Worker demo"
     },
     {
-      "url":"https://developer.mozilla.org/En/Using_web_workers",
+      "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers",
       "title":"MDN article"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-worker",
-      "title":"has.js test"
     },
     {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-web-workers/",
