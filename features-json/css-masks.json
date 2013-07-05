@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
-      "title":"WebPlatform Docs"
+      "url":"http://thenittygritty.co/css-masking",
+      "title":"Detailed blog post"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/masking/adobe/",
       "title":"HTML5 Rocks article"
     },
     {
-      "url":"http://thenittygritty.co/css-masking",
-      "title":"Detailed blog post"
+      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -153,7 +153,7 @@
   },
   "notes":"Previously a WebKit-only property, now a W3C specification. Partial support refers to not yet fully supporting the new spec (details currently unknown).",
   "usage_perc_y":0,
-  "usage_perc_a":51.44,
+  "usage_perc_a":52.84,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

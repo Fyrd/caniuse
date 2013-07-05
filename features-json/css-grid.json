@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/codler/Grid-Layout-Polyfill",
-      "title":"Grid Layout Polyfill"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=616605",
-      "title":"Mozilla (Firefox) feature request"
-    },
-    {
       "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
       "title":"IE Blog post"
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
       "title":"Webkit (Chrome, Safari, etc.) feature request"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=616605",
+      "title":"Mozilla (Firefox) feature request"
+    },
+    {
+      "url":"https://github.com/codler/Grid-Layout-Polyfill",
+      "title":"Grid Layout Polyfill"
     }
   ],
   "bugs":[
@@ -113,7 +113,7 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"u"
+      "15":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -156,7 +156,7 @@
     }
   },
   "notes":"Reported to be supported in Chrome 27.",
-  "usage_perc_y":7.51,
+  "usage_perc_y":8.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

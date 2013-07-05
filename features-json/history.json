@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/history",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://html5demos.com/history",
       "title":"Demo page"
     },
@@ -17,16 +13,20 @@
       "title":"has.js test"
     },
     {
-      "url":"https://github.com/balupton/history.js",
-      "title":"History.js polyfill "
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
+      "title":"Introduction to history management"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/history",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
       "title":"MDN article"
     },
     {
-      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
-      "title":"Introduction to history management"
+      "url":"https://github.com/balupton/history.js",
+      "title":"History.js polyfill "
     }
   ],
   "bugs":[
@@ -166,8 +166,8 @@
     }
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
-  "usage_perc_y":69.45,
-  "usage_perc_a":3.68,
+  "usage_perc_y":71.53,
+  "usage_perc_a":3.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

@@ -9,12 +9,12 @@
       "title":"Implementation of Pointer Events in IE10"
     },
     {
-      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
-      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
-    },
-    {
       "url":"http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
       "title":"Article & tutorial"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
     }
   ],
   "bugs":[
@@ -154,7 +154,7 @@
   },
   "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events.",
   "usage_perc_y":0,
-  "usage_perc_a":7.51,
+  "usage_perc_a":8.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",

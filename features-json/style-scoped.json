@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/PM5544/scoped-polyfill",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
       "title":"HTML5Rocks article"
     },
     {
       "url":"http://html5doctor.com/the-scoped-attribute/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"https://github.com/PM5544/scoped-polyfill",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -110,7 +110,7 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"u"
+      "15":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -153,7 +153,7 @@
     }
   },
   "notes":"Supported in Chrome 20+ by enabling the \"experimental WebKit features\" flag in chrome://flags.",
-  "usage_perc_y":4,
+  "usage_perc_y":13.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

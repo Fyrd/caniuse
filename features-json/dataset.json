@@ -9,20 +9,20 @@
       "title":"jQuery polyfill for dataset support"
     },
     {
-      "url":"http://html5demos.com/dataset",
-      "title":"Demo using dataset"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
       "title":"has.js test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://html5doctor.com/html5-custom-data-attributes/",
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
-      "title":"WebPlatform Docs"
+      "url":"http://html5demos.com/dataset",
+      "title":"Demo using dataset"
     }
   ],
   "bugs":[
@@ -160,8 +160,8 @@
     }
   },
   "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",
-  "usage_perc_y":65.48,
-  "usage_perc_a":29.88,
+  "usage_perc_y":66.73,
+  "usage_perc_a":28.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMStringMap",

@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
+      "title":"MDN article"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
       "title":"has.js test"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/defer",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -155,8 +155,8 @@
     }
   },
   "notes":"Partial support refers to a buggy implementation in IE<10",
-  "usage_perc_y":73.13,
-  "usage_perc_a":16.44,
+  "usage_perc_y":75.23,
+  "usage_perc_a":13.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
