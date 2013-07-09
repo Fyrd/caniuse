@@ -9,12 +9,12 @@
       "title":"MDN Reference page"
     },
     {
-      "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
-      "title":"MDN Tutorial"
-    },
-    {
       "url":"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html",
       "title":"Filter Effects draft"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
+      "title":"MDN Tutorial"
     }
   ],
   "bugs":[
@@ -152,8 +152,8 @@
     }
   },
   "notes":"Partial support refers to lack of filter support or buggy result from effects. A <a href=\"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html\">CSS Filter Effects</a> specification is in the works that would replace this method.",
-  "usage_perc_y":16.78,
-  "usage_perc_a":63,
+  "usage_perc_y":16.71,
+  "usage_perc_a":62.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
