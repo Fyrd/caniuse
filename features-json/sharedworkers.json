@@ -2,19 +2,15 @@
   "title":"Shared Web Workers",
   "description":"Method of allowing multiple scripts to communicate with a single web worker.",
   "spec":"http://www.w3.org/TR/workers/#shared-workers-introduction",
-  "status":"wd",
+  "status":"cr",
   "links":[
-    {
-      "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
-      "title":"Sitepoint article"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-sharedworker",
-      "title":"has.js test"
-    },
     {
       "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
       "title":"Blog post"
+    },
+    {
+      "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
+      "title":"Sitepoint article"
     }
   ],
   "bugs":[
@@ -57,7 +53,7 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"u",
+      "23":"n",
       "24":"u"
     },
     "chrome":{
