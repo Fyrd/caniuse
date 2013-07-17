@@ -5,14 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/web-storage/properties/localStorage",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/En/DOM/Storage",
-      "title":"Gecko reference"
-    },
-    {
       "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
     },
@@ -23,6 +15,14 @@
     {
       "url":"http://html5demos.com/storage",
       "title":"Simple demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/web-storage/properties/localStorage",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/DOM/Storage",
+      "title":"Gecko reference"
     }
   ],
   "bugs":[
