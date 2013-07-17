@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
-      "title":"Add-on "
+      "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
+      "title":"Chromium API"
     },
     {
       "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
     },
     {
-      "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
-      "title":"Chromium API"
+      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
+      "title":"Add-on "
     }
   ],
   "bugs":[
@@ -109,7 +109,7 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"y"
+      "15":"n"
     },
     "ios_saf":{
       "3.2":"n",

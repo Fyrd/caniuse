@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://github.com/Polymer/MutationObservers",
+      "title":"Polyfill"
+    },
+    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
       "title":"MutationObserver from MDN"
     }
@@ -15,8 +19,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -24,8 +28,8 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"n",
-      "10":"n",
+      "9":"p",
+      "10":"p",
       "11":"y"
     },
     "firefox":{
@@ -122,9 +126,9 @@
       "2.2":"n",
       "2.3":"n",
       "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2":"n"
+      "4":"p",
+      "4.1":"p",
+      "4.2":"p"
     },
     "bb":{
       "7":"n",

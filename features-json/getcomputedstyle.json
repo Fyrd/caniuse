@@ -13,21 +13,21 @@
       "title":"Polyfill for IE"
     },
     {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
-      "title":"Demo"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
       "title":"MDN article"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
+      "title":"Demo"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
+    "CSS3",
     "DOM",
-    "JS API",
-    "CSS3"
+    "JS API"
   ],
   "stats":{
     "ie":{
