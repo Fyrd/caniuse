@@ -5,7 +5,7 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@supports",
       "title":"MDN Article"
     },
     {
@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Using @supports on Chrome 22+ and Opera 15+ breaks following :not selectors. <a href=\"http://crbug.com/257695\">crbug.com/257695</a>"
+      "description":"Using @supports on Chrome 28+ and Opera 15+ breaks following :not selectors. <a href=\"http://crbug.com/257695\">crbug.com/257695</a>"
     }
   ],
   "categories":[
@@ -151,13 +151,13 @@
       "14":"y"
     },
     "and_chr":{
-      "0":"n"
+      "0":"y"
     },
     "and_ff":{
       "0":"y"
     }
   },
-  "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true. Also added to WebKit and expected to be in an upcoming version of Chrome.",
+  "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true.",
   "usage_perc_y":2.39,
   "usage_perc_a":0,
   "ucprefix":false,
