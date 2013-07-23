@@ -26,7 +26,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "Canvas"
@@ -154,13 +154,13 @@
       "14":"y"
     },
     "and_chr":{
-      "0":"n"
+      "0":"y"
     },
     "and_ff":{
       "0":"y"
     }
   },
-  "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have <a href=\"http://blog.mozilla.com/bjacob/2011/03/28/do-users-actually-get-hardware-acceleration/\">up to date video drivers</a>. This problem was <a href=\"http://www.geek.com/articles/news/chrome-18-adds-gpu-acceleration-and-swiftshader-for-better-gaming-performance-20120329/\">solved in Chrome</a> as of version 18.\r\n\r\nNote that WebGL is part of the <a href=\"http://www.khronos.org/webgl/\">Khronos Group</a>, not the W3C.",
+  "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have <a href=\"http://blog.mozilla.com/bjacob/2011/03/28/do-users-actually-get-hardware-acceleration/\">up to date video drivers</a>. This problem was <a href=\"http://www.geek.com/articles/news/chrome-18-adds-gpu-acceleration-and-swiftshader-for-better-gaming-performance-20120329/\">solved in Chrome</a> as of version 18.\r\n\r\nNote that WebGL is part of the <a href=\"http://www.khronos.org/webgl/\">Khronos Group</a>, not the W3C. Supported on Chrome for Android by enabling the \"Enable WebGL\" flag under chrome://flags",
   "usage_perc_y":33.97,
   "usage_perc_a":21.54,
   "ucprefix":false,
