@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Using @supports on Chrome 28+ and Opera 15+ breaks following :not selectors. <a href=\"http://crbug.com/257695\">crbug.com/257695</a>"
+      "description":"Using @supports on Chrome 28-29 and Opera 15-16 breaks following :not selectors. <a href=\"http://crbug.com/257695\">crbug.com/257695</a>"
     }
   ],
   "categories":[
