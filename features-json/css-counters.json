@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://onwebdev.blogspot.com/2012/02/css-counters-tutorial.html",
-      "title":"Tutorial and information"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS_Counters",
       "title":"MDN article"
+    },
+    {
+      "url":"http://onwebdev.blogspot.com/2012/02/css-counters-tutorial.html",
+      "title":"Tutorial and information"
     }
   ],
   "bugs":[
@@ -110,7 +110,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"y",

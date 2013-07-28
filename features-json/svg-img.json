@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://blog.dholbert.org/2010/10/svg-as-image.html",
-      "title":"Blog post with examples"
-    },
-    {
       "url":"http://www.codedread.com/blog/",
       "title":"Blog with SVGs an images"
+    },
+    {
+      "url":"http://blog.dholbert.org/2010/10/svg-as-image.html",
+      "title":"Blog post with examples"
     }
   ],
   "bugs":[
@@ -111,7 +111,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"a",

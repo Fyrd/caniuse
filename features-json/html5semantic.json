@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://blog.whatwg.org/styling-ie-noscript",
+      "title":"Alternate workaround"
+    },
+    {
       "url":"http://oli.jp/2009/html5-structure3/",
       "title":"Article on structural elements"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
       "title":"Workaround for IE"
-    },
-    {
-      "url":"http://blog.whatwg.org/styling-ie-noscript",
-      "title":"Alternate workaround"
     }
   ],
   "bugs":[
@@ -114,7 +114,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"a",

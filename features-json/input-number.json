@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-number",
-      "title":"has.js test"
-    },
-    {
       "url":"https://github.com/jonstipe/number-polyfill",
       "title":"Polyfill"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-number",
+      "title":"has.js test"
     },
     {
       "url":"http://www.html5tutorial.info/html5-number.php",
@@ -114,7 +114,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"a",

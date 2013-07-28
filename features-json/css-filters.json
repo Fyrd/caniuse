@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
-      "title":"Mozilla hacks article"
-    },
-    {
-      "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
-      "title":"Filter editor"
+      "url":"http://bennettfeely.com/filters/",
+      "title":"Filter Playground"
     },
     {
       "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
       "title":"Demo file for WebKit browsers"
     },
     {
-      "url":"http://bennettfeely.com/filters/",
-      "title":"Filter Playground"
+      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
+      "title":"Mozilla hacks article"
+    },
+    {
+      "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
+      "title":"Filter editor"
     }
   ],
   "bugs":[
@@ -115,7 +115,8 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"y x"
+      "15":"y x",
+      "16":"y x"
     },
     "ios_saf":{
       "3.2":"n",

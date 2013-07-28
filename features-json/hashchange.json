@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
-      "title":"MDN article"
+      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
+      "title":"Simple demo"
     },
     {
       "url":"http://docs.webplatform.org/wiki/dom/events/hashchange",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
-      "title":"Simple demo"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
       "title":"MSDN article"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
+      "title":"MDN article"
     },
     {
       "url":"http://github.com/3nr1c/jUri.js",
@@ -119,7 +119,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"n",

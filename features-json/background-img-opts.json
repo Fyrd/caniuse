@@ -9,12 +9,12 @@
       "title":"Detailed compatibility tables and demos"
     },
     {
-      "url":"https://github.com/louisremi/background-size-polyfill",
-      "title":"jQuery polyfill for IE6-8"
-    },
-    {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
+    },
+    {
+      "url":"https://github.com/louisremi/background-size-polyfill",
+      "title":"jQuery polyfill for IE6-8"
     }
   ],
   "bugs":[
@@ -115,7 +115,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"a",

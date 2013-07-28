@@ -5,6 +5,18 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://github.com/balupton/history.js",
+      "title":"History.js polyfill "
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
+      "title":"MDN article"
+    },
+    {
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
+      "title":"Introduction to history management"
+    },
+    {
       "url":"http://html5demos.com/history",
       "title":"Demo page"
     },
@@ -13,20 +25,8 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
-      "title":"Introduction to history management"
-    },
-    {
-      "url":"https://github.com/balupton/history.js",
-      "title":"History.js polyfill "
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
       "title":"has.js test"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -124,7 +124,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"n",

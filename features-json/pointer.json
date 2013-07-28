@@ -9,12 +9,12 @@
       "title":"Implementation of Pointer Events in IE10"
     },
     {
-      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
-      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
-    },
-    {
       "url":"http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
       "title":"Article & tutorial"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
     }
   ],
   "bugs":[
@@ -111,7 +111,8 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"p"
+      "15":"p",
+      "16":"p"
     },
     "ios_saf":{
       "3.2":"p",

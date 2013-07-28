@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
+      "title":"Mozilla Hacks article/demo"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/apis/ApplicationCache",
       "title":"WebPlatform Docs"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
       "title":"Sitepoint tutorial"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
-      "title":"Mozilla Hacks article/demo"
     }
   ],
   "bugs":[
@@ -116,7 +116,8 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y"
     },
     "ios_saf":{
       "3.2":"y",

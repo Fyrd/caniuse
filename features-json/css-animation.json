@@ -9,12 +9,12 @@
       "title":"Blog post on usage"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/animations",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.css3files.com/animation/",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/animations",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -112,7 +112,8 @@
       "11.6":"n",
       "12":"y x",
       "12.1":"y",
-      "15":"y x"
+      "15":"y x",
+      "16":"y x"
     },
     "ios_saf":{
       "3.2":"y x",
