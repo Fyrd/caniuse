@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
-      "title":"Article on using the latest spec"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
       "title":"Tutorial on cross-browser support"
+    },
+    {
+      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
+      "title":"Article on using the latest spec"
     },
     {
       "url":"http://bennettfeely.com/flexplorer/",
@@ -32,54 +32,54 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a x",
+      "10":"a x #2",
       "11":"y"
     },
     "firefox":{
-      "2":"a x",
-      "3":"a x",
-      "3.5":"a x",
-      "3.6":"a x",
-      "4":"a x",
-      "5":"a x",
-      "6":"a x",
-      "7":"a x",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"a x",
-      "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x",
-      "19":"a x",
-      "20":"a x",
-      "21":"a x",
-      "22":"a",
-      "23":"a",
-      "24":"a"
+      "2":"a x #1",
+      "3":"a x #1",
+      "3.5":"a x #1",
+      "3.6":"a x #1",
+      "4":"a x #1",
+      "5":"a x #1",
+      "6":"a x #1",
+      "7":"a x #1",
+      "8":"a x #1",
+      "9":"a x #1",
+      "10":"a x #1",
+      "11":"a x #1",
+      "12":"a x #1",
+      "13":"a x #1",
+      "14":"a x #1",
+      "15":"a x #1",
+      "16":"a x #1",
+      "17":"a x #1",
+      "18":"a x #1",
+      "19":"a x #1",
+      "20":"a x #1",
+      "21":"a x #1",
+      "22":"a #3",
+      "23":"a #3",
+      "24":"a #3"
     },
     "chrome":{
-      "4":"a x",
-      "5":"a x",
-      "6":"a x",
-      "7":"a x",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"a x",
-      "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x",
-      "19":"a x",
-      "20":"a x",
+      "4":"a x #1",
+      "5":"a x #1",
+      "6":"a x #1",
+      "7":"a x #1",
+      "8":"a x #1",
+      "9":"a x #1",
+      "10":"a x #1",
+      "11":"a x #1",
+      "12":"a x #1",
+      "13":"a x #1",
+      "14":"a x #1",
+      "15":"a x #1",
+      "16":"a x #1",
+      "17":"a x #1",
+      "18":"a x #1",
+      "19":"a x #1",
+      "20":"a x #1",
       "21":"y x",
       "22":"y x",
       "23":"y x",
@@ -92,12 +92,12 @@
       "30":"y"
     },
     "safari":{
-      "3.1":"a x",
-      "3.2":"a x",
-      "4":"a x",
-      "5":"a x",
-      "5.1":"a x",
-      "6":"a x",
+      "3.1":"a x #1",
+      "3.2":"a x #1",
+      "4":"a x #1",
+      "5":"a x #1",
+      "5.1":"a x #1",
+      "6":"a x #1",
       "7":"y x"
     },
     "opera":{
@@ -116,27 +116,27 @@
       "16":"y x"
     },
     "ios_saf":{
-      "3.2":"a x",
-      "4.0-4.1":"a x",
-      "4.2-4.3":"a x",
-      "5.0-5.1":"a x",
-      "6.0-6.1":"a x",
+      "3.2":"a x #1",
+      "4.0-4.1":"a x #1",
+      "4.2-4.3":"a x #1",
+      "5.0-5.1":"a x #1",
+      "6.0-6.1":"a x #1",
       "7.0":"y x"
     },
     "op_mini":{
       "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"a x",
-      "2.2":"a x",
-      "2.3":"a x",
-      "3":"a x",
-      "4":"a x",
-      "4.1":"a x",
-      "4.2":"a x"
+      "2.1":"a x #1",
+      "2.2":"a x #1",
+      "2.3":"a x #1",
+      "3":"a x #1",
+      "4":"a x #1",
+      "4.1":"a x #1",
+      "4.2":"a x #1"
     },
     "bb":{
-      "7":"a x",
+      "7":"a x #1",
       "10":"y x"
     },
     "op_mob":{
@@ -152,7 +152,7 @@
       "0":"y x"
     },
     "and_ff":{
-      "0":"a x"
+      "0":"a x #1"
     }
   },
   "notes":"Most partial support refers to supporting an <a href=\"http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/\">older version</a> of the specification or an <a href=\"http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/\">older syntax</a>. For Firefox 21+ it refers to lack of flex-wrap & flex-flow support.",

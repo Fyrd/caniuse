@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://quirksmode.org/css/selectors/selection.html",
-      "title":"::selection test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors/pseudo-elements/::selection",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://quirksmode.org/css/selectors/selection.html",
+      "title":"::selection test"
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "CSS"
@@ -109,15 +109,15 @@
       "15":"y"
     },
     "ios_saf":{
-      "3.2":"u",
-      "4.0-4.1":"u",
-      "4.2-4.3":"u",
-      "5.0-5.1":"u",
-      "6.0-6.1":"u",
-      "7.0":"u"
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6.0-6.1":"n",
+      "7.0":"n"
     },
     "op_mini":{
-      "5.0-7.0":"u"
+      "5.0-7.0":"n"
     },
     "android":{
       "2.1":"u",
@@ -125,32 +125,32 @@
       "2.3":"u",
       "3":"u",
       "4":"u",
-      "4.1":"u",
-      "4.2":"u"
+      "4.1":"n",
+      "4.2":"n"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"u",
       "11":"u",
       "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "14":"u"
+      "11.5":"y",
+      "12":"y",
+      "12.1":"y",
+      "14":"y"
     },
     "and_chr":{
-      "0":"u"
+      "0":"a"
     },
     "and_ff":{
-      "0":"u"
+      "0":"n"
     }
   },
   "notes":"",
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":54.13,
+  "usage_perc_a":0.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"::selection,selection",
