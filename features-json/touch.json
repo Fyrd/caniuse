@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.quirksmode.org/m/tests/drag2.html",
-      "title":"Multi-touch demo"
-    },
-    {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
+    },
+    {
+      "url":"http://www.quirksmode.org/m/tests/drag2.html",
+      "title":"Multi-touch demo"
     },
     {
       "url":"http://schepers.cc/getintouch",
@@ -160,8 +160,8 @@
     }
   },
   "notes":"Firefox 4 & 5 support a <a href=\"https://hacks.mozilla.org/2010/08/firefox4-beta3/\">non-standard</a> implementation to achieve the same. Internet Explorer implements Pointer Events specification which supports more input devices than Touch Events one.",
-  "usage_perc_y":63.04,
-  "usage_perc_a":0.18,
+  "usage_perc_y":64.01,
+  "usage_perc_a":0.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

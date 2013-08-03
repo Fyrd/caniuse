@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview",
-      "title":"Technology preview from Opera"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/methods/getUserMedia",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview",
+      "title":"Technology preview from Opera"
     }
   ],
   "bugs":[
@@ -151,7 +151,7 @@
     }
   },
   "notes":"Supported on Chrome for Android by enabling the \"Enable WebRTC\" flag under chrome://flags",
-  "usage_perc_y":48.57,
+  "usage_perc_y":48.64,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
+      "title":"Dev.Opera article"
+    },
+    {
       "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
       "title":"Introduction page"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/column-width",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
-      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -162,8 +162,8 @@
     }
   },
   "notes":"Partial support refers to not supporting the break-before, break-after, break-inside properties. Webkit browsers do have equivalent support for the non-standard -webkit-column-break-* properties.",
-  "usage_perc_y":11.75,
-  "usage_perc_a":69.68,
+  "usage_perc_y":12.63,
+  "usage_perc_a":70.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count",

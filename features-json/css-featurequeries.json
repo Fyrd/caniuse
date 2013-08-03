@@ -13,12 +13,12 @@
       "title":"Test case"
     },
     {
-      "url":"http://mcc.id.au/blog/2012/08/supports",
-      "title":"@supports in Firefox"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://mcc.id.au/blog/2012/08/supports",
+      "title":"@supports in Firefox"
     }
   ],
   "bugs":[
@@ -160,7 +160,7 @@
     }
   },
   "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true.",
-  "usage_perc_y":3.18,
+  "usage_perc_y":32.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
