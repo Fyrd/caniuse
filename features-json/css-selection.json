@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/selectors/pseudo-elements/::selection",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://quirksmode.org/css/selectors/selection.html",
       "title":"::selection test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/selectors/pseudo-elements/::selection",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -120,11 +120,11 @@
       "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
       "4.1":"n",
       "4.2":"n"
     },
@@ -148,11 +148,11 @@
       "0":"n"
     }
   },
-  "notes":"",
+  "notes":"Partial support for Chrome/Android refers to only the background color being affected. ",
   "usage_perc_y":69.87,
   "usage_perc_a":0.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"::selection,selection",
-  "shown":false
+  "shown":true
 }
