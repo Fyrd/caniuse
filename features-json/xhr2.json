@@ -13,12 +13,12 @@
       "title":"Polyfill for FormData object"
     },
     {
-      "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
-      "title":"Article with file upload demo"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/xhr/XMLHttpRequest",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.profilepicture.co.uk/tutorials/ajax-file-upload-xmlhttprequest-level-2/",
+      "title":"Article with file upload demo"
     }
   ],
   "bugs":[
@@ -95,7 +95,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"n",

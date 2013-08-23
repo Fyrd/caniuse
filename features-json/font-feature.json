@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
       "title":"Demo pages (IE/Firefox only)"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
+      "title":"Mozilla hacks article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/font-feature-settings",
@@ -92,7 +92,8 @@
       "27":"y x",
       "28":"y x",
       "29":"y x",
-      "30":"y x"
+      "30":"y x",
+      "31":"y x"
     },
     "safari":{
       "3.1":"n",

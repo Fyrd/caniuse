@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://www.alistapart.com/articles/the-accessibility-of-wai-aria/",
       "title":"ALA Article"
     },
@@ -17,12 +13,16 @@
       "title":"HTML5/WAI-ARIA information"
     },
     {
+      "url":"http://www.w3.org/WAI/intro/aria",
+      "title":"Information page"
+    },
+    {
       "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
       "title":"Links to various test results"
     },
     {
-      "url":"http://www.w3.org/WAI/intro/aria",
-      "title":"Information page"
+      "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -96,7 +96,8 @@
       "27":"a",
       "28":"a",
       "29":"a",
-      "30":"a"
+      "30":"a",
+      "31":"a"
     },
     "safari":{
       "3.1":"n",

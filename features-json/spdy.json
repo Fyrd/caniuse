@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/SPDY",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
       "title":"SPDY whitepaper"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/SPDY",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -84,7 +84,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"n",

@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://onwebdev.blogspot.com/2012/02/css-counters-tutorial.html",
-      "title":"Tutorial and information"
+      "url":"https://developer.mozilla.org/en/CSS_Counters",
+      "title":"MDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/counter-reset",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS_Counters",
-      "title":"MDN article"
+      "url":"http://onwebdev.blogspot.com/2012/02/css-counters-tutorial.html",
+      "title":"Tutorial and information"
     }
   ],
   "bugs":[
@@ -88,7 +88,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"y",

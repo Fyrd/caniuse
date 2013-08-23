@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://schepers.cc/getintouch",
-      "title":"Information on the spec development"
+      "url":"http://www.quirksmode.org/m/tests/drag2.html",
+      "title":"Multi-touch demo"
     },
     {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
     {
-      "url":"http://www.quirksmode.org/m/tests/drag2.html",
-      "title":"Multi-touch demo"
+      "url":"http://schepers.cc/getintouch",
+      "title":"Information on the spec development"
     }
   ],
   "bugs":[
@@ -94,7 +94,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "safari":{
       "3.1":"n",

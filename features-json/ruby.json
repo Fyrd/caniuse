@@ -9,16 +9,16 @@
       "title":"Add-on \"XHTML Ruby Support\" for Firefox"
     },
     {
+      "url":"http://html5doctor.com/ruby-rt-rp-element/",
+      "title":"HTML5 Doctor article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/html/elements/ruby",
       "title":"WebPlatform Docs"
     },
     {
       "url":"https://addons.mozilla.org/firefox/addon/6812/",
       "title":"Addon \"HTML Ruby\" for Firefox support"
-    },
-    {
-      "url":"http://html5doctor.com/ruby-rt-rp-element/",
-      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "27":"a",
       "28":"a",
       "29":"a",
-      "30":"a"
+      "30":"a",
+      "31":"a"
     },
     "safari":{
       "3.1":"p",

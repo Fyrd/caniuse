@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.w3.org/TR/webaudio/",
-      "title":"Web Audio API by Google"
+      "url":"https://github.com/corbanbrook/audionode.js",
+      "title":"Polyfill to support Web Audio API in Firefox"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/webaudio",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://github.com/corbanbrook/audionode.js",
-      "title":"Polyfill to support Web Audio API in Firefox"
+      "url":"http://www.w3.org/TR/webaudio/",
+      "title":"Web Audio API by Google"
     }
   ],
   "bugs":[
@@ -88,7 +88,8 @@
       "27":"a x",
       "28":"a x",
       "29":"a x",
-      "30":"a x"
+      "30":"a x",
+      "31":"a x"
     },
     "safari":{
       "3.1":"n",
