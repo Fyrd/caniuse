@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://html5rocks.com/en/tutorials/security/content-security-policy/",
-      "title":"HTML5Rocks article"
+      "url":"http://content-security-policy.com/",
+      "title":"CSP Examples & Quick Reference"
     },
     {
-      "url":"http://content-security-policy.com/",
-      "title":"CSP Examples &amp; Quick Reference"
+      "url":"http://html5rocks.com/en/tutorials/security/content-security-policy/",
+      "title":"HTML5Rocks article"
     }
   ],
   "bugs":[
@@ -147,7 +147,7 @@
       "14":"y"
     },
     "and_chr":{
-      "0":"y x"
+      "0":"y"
     },
     "and_ff":{
       "0":"y x"
