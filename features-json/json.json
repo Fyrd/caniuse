@@ -5,20 +5,20 @@
   "status":"other",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/Using_native_JSON",
-      "title":"MDN article"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/json.js#json",
-      "title":"has.js test"
-    },
-    {
       "url":"http://www.json.org/js.html",
       "title":"JSON in JS (includes script w/support)"
     },
     {
+      "url":"https://developer.mozilla.org/En/Using_native_JSON",
+      "title":"MDN article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/apis/json",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/json.js#json",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -161,7 +161,7 @@
     }
   },
   "notes":"Requires document to be in IE8+ <a href=\"http://msdn.microsoft.com/en-us/library/cc288325(VS.85).aspx\">standards mode</a> to work in IE8.",
-  "usage_perc_y":93.54,
+  "usage_perc_y":93.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

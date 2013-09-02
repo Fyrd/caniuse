@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
       "title":"MDN tutorial"
     },
@@ -15,10 +19,6 @@
     {
       "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
       "title":"MDN article"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -162,7 +162,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":76.28,
+  "usage_perc_y":75.54,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

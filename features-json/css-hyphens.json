@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/hyphens",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/hyphens",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/hyphens",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -157,7 +157,7 @@
     }
   },
   "notes":"Chrome 29- and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. Chrome 30+ doesn't support it either.",
-  "usage_perc_y":36.26,
+  "usage_perc_y":35.67,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

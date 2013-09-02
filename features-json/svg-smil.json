@@ -5,10 +5,6 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://leunen.me/fakesmile/",
-      "title":"JS library to support SMIL in SVG"
-    },
-    {
       "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
       "title":"MDN article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://svg-wow.org/blog/category/animation/",
       "title":"Examples on SVG WOW"
+    },
+    {
+      "url":"http://leunen.me/fakesmile/",
+      "title":"JS library to support SMIL in SVG"
     }
   ],
   "bugs":[
@@ -163,8 +163,8 @@
     }
   },
   "notes":"Partial support in Safari refers to not working in HTML files.",
-  "usage_perc_y":56.72,
-  "usage_perc_a":11.59,
+  "usage_perc_y":55.81,
+  "usage_perc_a":11.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

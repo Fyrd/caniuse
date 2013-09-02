@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://html5demos.com/drag",
+      "title":"Demo with link blocks"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/dom/events/drag",
       "title":"WebPlatform Docs"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://html5doctor.com/native-drag-and-drop/",
       "title":"HTML5 Doctor article"
-    },
-    {
-      "url":"http://html5demos.com/drag",
-      "title":"Demo with link blocks"
     }
   ],
   "bugs":[
@@ -163,8 +163,8 @@
     }
   },
   "notes":"Partial support in IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData.",
-  "usage_perc_y":65.16,
-  "usage_perc_a":11.41,
+  "usage_perc_y":64.1,
+  "usage_perc_a":11.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

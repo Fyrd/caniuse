@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/atrules/@media",
-      "title":"WebPlatform Docs"
+      "url":"https://github.com/scottjehl/Respond",
+      "title":"Polyfill for IE"
     },
     {
       "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
       "title":"Media Queries tutorial"
     },
     {
-      "url":"https://github.com/scottjehl/Respond",
-      "title":"Polyfill for IE"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
       "title":"IE demo page with information"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/atrules/@media",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -166,7 +166,7 @@
     }
   },
   "notes":"Incomplete support by older webkit browsers refers to only acknowledging different media rules on page reload",
-  "usage_perc_y":87.17,
+  "usage_perc_y":86.37,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

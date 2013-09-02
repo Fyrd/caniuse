@@ -5,14 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/datalist",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://demo.agektmr.com/datalist/",
-      "title":"Eiji Kitamura's options demos & tests"
-    },
-    {
       "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
       "title":"MDN reference"
     },
@@ -21,8 +13,16 @@
       "title":"Mozilla Hacks article"
     },
     {
+      "url":"http://demo.agektmr.com/datalist/",
+      "title":"Eiji Kitamura's options demos & tests"
+    },
+    {
       "url":"http://afarkas.github.com/webshim/demos/",
       "title":"HTML5 Library including datalist support"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/datalist",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -165,8 +165,8 @@
     }
   },
   "notes":"Partial support in IE10 refers to <a href=\"http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/\">significantly buggy behavior</a>.",
-  "usage_perc_y":50.85,
-  "usage_perc_a":9.19,
+  "usage_perc_y":49.5,
+  "usage_perc_a":9.48,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute",
