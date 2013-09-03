@@ -162,6 +162,9 @@
     },
     "and_ff":{
       "0":"y"
+    },
+    "ie_mob":{
+      "10":"a"
     }
   },
   "notes":"Partial support in IE10 refers to not supporting <a href=\"http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property\">the transform-style: preserve-3d property</a>. This prevents nesting 3D transformed elements.",

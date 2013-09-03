@@ -150,6 +150,9 @@
     },
     "and_ff":{
       "0":"y"
+    },
+    "ie_mob":{
+      "10":"n"
     }
   },
   "notes":"In Firefox both the border-style and border-width must be specified for border-images to work. Partial support refers to supporting the shorthand syntax, but not the individual properties (border-image-source, border-image-slice, etc).",
