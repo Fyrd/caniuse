@@ -26,6 +26,9 @@
     },
     {
       "description":"position:fixed breaks in chrome (all current versions) when using hardware-accelerated rendering, depending on your graphics card."
+    },
+    {
+      "description":"in iOS Safari 5, position:fixed will move to center of window with focus event on child text input field."
     }
   ],
   "categories":[
