@@ -2,27 +2,27 @@
   "title":"CSS3 Box-sizing",
   "description":"Method of specifying whether or not an element's borders and padding should be included in size units",
   "spec":"http://www.w3.org/TR/css3-ui/#box-sizing",
-  "status":"cr",
+  "status":"wd",
   "links":[
     {
-      "url":"https://github.com/Schepp/box-sizing-polyfill",
-      "title":"Polyfill for IE"
+      "url":"http://css-tricks.com/box-sizing/",
+      "title":"CSS Tricks"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
     },
     {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
-    },
-    {
-      "url":"http://css-tricks.com/box-sizing/",
-      "title":"CSS Tricks"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/Schepp/box-sizing-polyfill",
+      "title":"Polyfill for IE"
+    },
+    {
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
     }
   ],
   "bugs":[

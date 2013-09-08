@@ -5,16 +5,18 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/SPDY",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
       "title":"SPDY whitepaper"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/SPDY",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Partial support in IE11 refers to not working on Windows 7."
+    }
   ],
   "categories":[
     "Other"
@@ -27,7 +29,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"y"
+      "11":"a"
     },
     "firefox":{
       "2":"n",
@@ -156,8 +158,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":54.63,
-  "usage_perc_a":0,
+  "usage_perc_y":54.61,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
