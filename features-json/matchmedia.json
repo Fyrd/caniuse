@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/paulirish/matchMedia.js/",
-      "title":"matchMedia.js polyfill"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
       "title":"WebPlatform Docs"
     },
@@ -19,14 +15,18 @@
     {
       "url":"https://developer.mozilla.org/en/DOM/window.matchMedia",
       "title":"MDN article"
+    },
+    {
+      "url":"https://github.com/paulirish/matchMedia.js/",
+      "title":"matchMedia.js polyfill"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{

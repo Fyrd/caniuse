@@ -1,16 +1,16 @@
 {
   "title":"CSS Device Adaptation",
-  "description":"A standard way to override the size of viewport in web page, standardizing and replacing Apple's own popular <META> viewport implementation.",
+  "description":"A standard way to override the size of viewport in web page, standardizing and replacing Apple's own popular &lt;META> viewport implementation.",
   "spec":"http://www.w3.org/TR/css-device-adapt/",
   "status":"wd",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/",
-      "title":"Introduction to meta viewport and @viewport in Opera Mobile"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh708740(v=vs.85).aspx",
       "title":"Device adaptation in Internet Explorer 10"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/",
+      "title":"Introduction to meta viewport and @viewport in Opera Mobile"
     }
   ],
   "bugs":[
@@ -53,7 +53,9 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n"
+      "23":"n",
+      "24":"u",
+      "25":"u"
     },
     "chrome":{
       "4":"n",
@@ -81,7 +83,9 @@
       "26":"n",
       "27":"n",
       "28":"n",
-      "29":"n"
+      "29":"n",
+      "30":"u",
+      "31":"u"
     },
     "safari":{
       "3.1":"n",
@@ -104,7 +108,9 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"n"
+      "15":"n",
+      "16":"u",
+      "17":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -144,11 +150,14 @@
     },
     "and_ff":{
       "0":"n"
+    },
+    "ie_mob":{
+      "10":"u"
     }
   },
   "notes":"Partial support refers to the only support for 'width' and 'height' property in IE, and the lack of support for 'orientation' property in Opera Mobile and Mini.",
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":12.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"viewport",
