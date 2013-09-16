@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/Schepp/box-sizing-polyfill",
-      "title":"Polyfill for IE"
-    },
-    {
       "url":"http://css-tricks.com/box-sizing/",
       "title":"CSS Tricks"
     },
@@ -23,6 +19,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/Schepp/box-sizing-polyfill",
+      "title":"Polyfill for IE"
     }
   ],
   "bugs":[

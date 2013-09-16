@@ -1,23 +1,19 @@
 {
-  "title":"Opus",
-  "description":"Royalty-free open audio codec by Mozilla, which incorporated SILK from Skype and CELT from Xiph.org, to serve higher sound quality and lower latency at the same bitrate.",
-  "spec":"http://tools.ietf.org/html/rfc6716",
-  "status":"other",
+  "title":"Canvas blend modes",
+  "description":"Method of defining the effect resulting from overlaying two layers on a Canvas element. ",
+  "spec":"http://www.w3.org/TR/compositing-1/#blending",
+  "status":"wd",
   "links":[
     {
-      "url":"https://hacks.mozilla.org/2012/07/firefox-beta-15-supports-the-new-opus-audio-format/",
-      "title":"Introduction of Opus by Mozilla"
-    },
-    {
-      "url":"http://www.ietf.org/mail-archive/web/rtcweb/current/msg04953.html",
-      "title":"Google's statement about the use of VP8 and Opus codec for WebRTC standard"
+      "url":"http://blogs.adobe.com/webplatform/2013/01/28/blending-features-in-canvas/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "Other"
+    "Canvas"
   ],
   "stats":{
     "ie":{
@@ -45,11 +41,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
       "20":"y",
       "21":"y",
       "22":"y",
@@ -94,7 +90,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "7":"u"
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -110,7 +106,7 @@
       "12.1":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -118,7 +114,7 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"u"
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -155,11 +151,11 @@
       "10":"n"
     }
   },
-  "notes":"Chrome does not support Opus by default but users can enable it via the 'enable-opus-playback' flag. When it comes to Opera, it is said that the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
-  "usage_perc_y":14.25,
+  "notes":"Supported in Chrome 29+ by enabling experimental WebKit features under chrome://flags",
+  "usage_perc_y":13.19,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"audio",
+  "parent":"canvas",
   "keywords":"",
   "shown":true
 }
