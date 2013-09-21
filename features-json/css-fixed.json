@@ -19,19 +19,13 @@
   ],
   "bugs":[
     {
-      "description":"Clicks will \"bleed\" though to underlying input elements on android &lt; 3. <a href=\"http://code.google.com/p/android/issues/detail?id=6721\">See bug</a>."
-    },
-    {
-      "description":"Looks buggy on Android Browser v3.1 on HTC Legend "
-    },
-    {
-      "description":"position:fixed breaks in chrome (all current versions) when using hardware-accelerated rendering, depending on your graphics card."
+      "description":"in iOS Safari 5-7, position:fixed will move to center of window with focus event on child text input field."
     },
     {
       "description":"in iOS Safari 5-7, position:fixed will move to center of window with focus event on child text input field."
     },
     {
-      "description":"in Android 4+ Chrome browsers, nested fixed position divs will scroll along with rest of page scroll, then snap back to position."
+      "description":"in iOS Safari 5-7, position:fixed will move to center of window with focus event on child text input field."
     }
   ],
   "categories":[
