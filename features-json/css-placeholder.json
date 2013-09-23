@@ -9,12 +9,12 @@
       "title":"CSSWG discussion"
     },
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
-      "title":"MSDN article"
-    },
-    {
       "url":"http://css-tricks.com/snippets/css/style-placeholder-text/",
       "title":"CSS-Tricks article with all prefixes"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
+      "title":"MSDN article"
     }
   ],
   "bugs":[
@@ -59,7 +59,8 @@
       "22":"y x",
       "23":"y x",
       "24":"y x",
-      "25":"y x"
+      "25":"y x",
+      "26":"y x"
     },
     "chrome":{
       "4":"y x",

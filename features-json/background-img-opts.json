@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/louisremi/background-size-polyfill",
-      "title":"Polyfill for IE7-8"
-    },
-    {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
+    },
+    {
+      "url":"https://github.com/louisremi/background-size-polyfill",
+      "title":"Polyfill for IE7-8"
     },
     {
       "url":"http://www.standardista.com/css3/css3-background-properties",
@@ -64,7 +64,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "chrome":{
       "4":"y",

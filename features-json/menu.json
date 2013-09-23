@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
+      "title":"Demo"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
       "title":"has.js test"
     },
     {
       "url":"http://addyosmani.github.com/jQuery-contextMenu/",
       "title":"jQuery polyfill"
-    },
-    {
-      "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
-      "title":"Demo"
     }
   ],
   "bugs":[
@@ -59,7 +59,8 @@
       "22":"a",
       "23":"a",
       "24":"a",
-      "25":"a"
+      "25":"a",
+      "26":"a"
     },
     "chrome":{
       "4":"n",

@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/MathML/Element",
+      "title":"MDN element reference"
+    },
+    {
       "url":"http://www.mozilla.org/projects/mathml/demo/",
       "title":"MathML demos"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://en.wikipedia.org/wiki/MathML",
       "title":"Wikipedia"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/MathML/Element",
-      "title":"MDN element reference"
     }
   ],
   "bugs":[
@@ -63,7 +63,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "chrome":{
       "4":"p",

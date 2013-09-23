@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/shadowdom/",
-      "title":"HTML5Rocks - Shadow DOM 101 article"
-    },
-    {
       "url":"http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html",
       "title":"Shadow DOM Visualizer"
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/webcomponents/shadowdom/",
+      "title":"HTML5Rocks - Shadow DOM 101 article"
     }
   ],
   "bugs":[
@@ -56,7 +56,8 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"n"
+      "25":"n",
+      "26":"n"
     },
     "chrome":{
       "4":"n",

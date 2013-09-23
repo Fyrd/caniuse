@@ -1,33 +1,33 @@
 {
-  "title":"CSS3 word-break",
-  "description":"Property to prevent or allow words to be broken over multiple lines between letters.",
-  "spec":"http://www.w3.org/TR/css3-text/#word-break",
+  "title":"Clipboard API",
+  "description":"API to provide copy, cut and paste functionality using the OS clipboard.",
+  "spec":"http://www.w3.org/TR/clipboard-apis/",
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/word-break",
-      "title":"WebPlatform Docs"
+      "url":"http://www.deluxeblogtips.com/2010/06/javascript-copy-to-clipboard.html",
+      "title":"Blog post on cross-browser usage"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/word-break",
-      "title":"MDN article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent",
+      "title":"MDN page on ClipboardEvent"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3"
+    "JS API"
   ],
   "stats":{
     "ie":{
-      "5.5":"y",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "5.5":"a #1",
+      "6":"a #1",
+      "7":"a #1",
+      "8":"a #1",
+      "9":"a #1",
+      "10":"a #1",
+      "11":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -45,13 +45,13 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
       "22":"y",
       "23":"y",
       "24":"y",
@@ -59,15 +59,15 @@
       "26":"y"
     },
     "chrome":{
-      "4":"a",
-      "5":"a",
-      "6":"a",
-      "7":"a",
-      "8":"a",
-      "9":"a",
-      "10":"a",
-      "11":"a",
-      "12":"a",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
       "13":"a",
       "14":"a",
       "15":"a",
@@ -89,8 +89,8 @@
       "31":"a"
     },
     "safari":{
-      "3.1":"a",
-      "3.2":"a",
+      "3.1":"u",
+      "3.2":"u",
       "4":"a",
       "5":"a",
       "5.1":"a",
@@ -109,14 +109,14 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"a",
+      "15":"n",
       "16":"a",
       "17":"a"
     },
     "ios_saf":{
-      "3.2":"a",
-      "4.0-4.1":"a",
-      "4.2-4.3":"a",
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
       "5.0-5.1":"a",
       "6.0-6.1":"a",
       "7.0":"a"
@@ -125,16 +125,16 @@
       "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"a",
-      "2.2":"a",
-      "2.3":"a",
-      "3":"a",
-      "4":"a",
-      "4.1":"a",
-      "4.2":"a"
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2":"n"
     },
     "bb":{
-      "7":"a",
+      "7":"n",
       "10":"a"
     },
     "op_mob":{
@@ -153,14 +153,14 @@
       "0":"y"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"n"
     }
   },
-  "notes":"Partial support refers to supporting the \"break-all\" value, but not the \"keep-all\" value.",
-  "usage_perc_y":35.74,
-  "usage_perc_a":53.23,
+  "notes":"Partial support in IE refers using <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx\">a non-standard method</a> of interacting with the clipboard. For other browsers it refers to not supporting the ClipboardEvent constructor.",
+  "usage_perc_y":12.57,
+  "usage_perc_a":67.68,
   "ucprefix":false,
   "parent":"",
-  "keywords":"break-all,keep-all",
+  "keywords":"cut,copy,paste,clipboarddata",
   "shown":true
 }

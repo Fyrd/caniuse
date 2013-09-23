@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5doctor.com/html5-custom-data-attributes/",
-      "title":"HTML5 Doctor article"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
       "title":"has.js test"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
-      "title":"WebPlatform Docs"
+      "url":"http://html5demos.com/dataset",
+      "title":"Demo using dataset"
+    },
+    {
+      "url":"http://html5doctor.com/html5-custom-data-attributes/",
+      "title":"HTML5 Doctor article"
     },
     {
       "url":"http://www.orangesoda.net/jquery.dataset.html",
       "title":"jQuery polyfill for dataset support"
     },
     {
-      "url":"http://html5demos.com/dataset",
-      "title":"Demo using dataset"
+      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -67,7 +67,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "chrome":{
       "4":"a",

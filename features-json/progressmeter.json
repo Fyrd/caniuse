@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://peter.sh/examples/?/html/meter-progress.html",
-      "title":"Examples of progress and meter elements"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/new-form-features-in-HTML5/#newoutput",
       "title":"Dev.Opera article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/progress",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://peter.sh/examples/?/html/meter-progress.html",
+      "title":"Examples of progress and meter elements"
     }
   ],
   "bugs":[
@@ -63,7 +63,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "chrome":{
       "4":"n",

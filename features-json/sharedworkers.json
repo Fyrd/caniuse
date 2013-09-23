@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
-      "title":"Sitepoint article"
-    },
-    {
       "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
       "title":"Blog post"
+    },
+    {
+      "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
+      "title":"Sitepoint article"
     }
   ],
   "bugs":[
@@ -54,8 +54,9 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"u",
-      "25":"u"
+      "24":"n",
+      "25":"u",
+      "26":"u"
     },
     "chrome":{
       "4":"y",

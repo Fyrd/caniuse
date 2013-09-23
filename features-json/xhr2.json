@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/3nr1c/jUri.js",
-      "title":"Polyfill for FormData object"
+      "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
+      "title":"MDN article on FormData"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/xhr/XMLHttpRequest",
@@ -17,8 +17,8 @@
       "title":"Article with file upload demo"
     },
     {
-      "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
-      "title":"MDN article on FormData"
+      "url":"https://github.com/3nr1c/jUri.js",
+      "title":"Polyfill for FormData object"
     }
   ],
   "bugs":[
@@ -27,8 +27,8 @@
     }
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -66,7 +66,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "chrome":{
       "4":"u",
