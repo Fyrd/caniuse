@@ -1,23 +1,19 @@
 {
-  "title":"Opus",
-  "description":"Royalty-free open audio codec by Mozilla, which incorporated SILK from Skype and CELT from Xiph.org, to serve higher sound quality and lower latency at the same bitrate.",
-  "spec":"http://tools.ietf.org/html/rfc6716",
-  "status":"other",
+  "title":"WebRTC Peer-to-peer connections",
+  "description":"Method of allowing two users to communicate directly, browser to browser using the RTCPeerConnection API.",
+  "spec":"http://www.w3.org/TR/webrtc/#peer-to-peer-connections",
+  "status":"wd",
   "links":[
     {
-      "url":"https://hacks.mozilla.org/2012/07/firefox-beta-15-supports-the-new-opus-audio-format/",
-      "title":"Introduction of Opus by Mozilla"
-    },
-    {
-      "url":"http://www.ietf.org/mail-archive/web/rtcweb/current/msg04953.html",
-      "title":"Google's statement about the use of VP8 and Opus codec for WebRTC standard"
+      "url":"http://www.webrtc.org/",
+      "title":"WebRTC Project site"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "Other"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -45,18 +41,18 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x"
     },
     "chrome":{
       "4":"n",
@@ -78,15 +74,15 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n"
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
+      "27":"y x",
+      "28":"y x",
+      "29":"y x",
+      "30":"y x",
+      "31":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -111,7 +107,7 @@
       "12.1":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -119,7 +115,7 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"u"
+      "7.0":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -147,20 +143,20 @@
       "14":"n"
     },
     "and_chr":{
-      "0":"n"
+      "0":"y x"
     },
     "and_ff":{
-      "0":"y"
+      "0":"y x"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"Chrome does not support Opus by default but users can enable it via the 'enable-opus-playback' flag. When it comes to Opera, it is said that the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
-  "usage_perc_y":14.25,
+  "notes":"BB10 recognizes RTCPeerConnection but real support is unconfirmed.",
+  "usage_perc_y":46.02,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"audio",
+  "parent":"",
   "keywords":"",
   "shown":true
 }
