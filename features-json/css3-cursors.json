@@ -2,7 +2,7 @@
   "title": "CSS3 Cursors",
   "description": "New cursors available in CSS3",
   "spec": "http://www.w3.org/TR/css3-ui/#cursor",
-  "status":"wd",
+  "status": "wd",
   "links":[
     {
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor",
@@ -14,25 +14,25 @@
   ],
   "stats":{
     "ie":{
-      "4.0":"a"
+      "4.0": "a"
     },
     "firefox":{
       "1.0": "a x",
-      "24":"y x"
+      "24": "y x"
     },
     "chrome":{
       "1": "a x",
-      "5":"y x"
+      "5": "y x"
     },
     "safari":{
       "1.2": "a x",
       "5.0": "y x",
     },
     "opera":{
-      "7":"a"
+      "7": "a"
     }
   },
   "notes": "Internet Explorer does not support the alias, cell, copy, ew-resize, ns-resize, nesw-resize, nwse-resize, context-menu, zoom-in, or zoom-out cursors. Opera does not support none or a URI. Chrome and Safari require the -webkit- prefix and Firefox requires the -moz- prefix for the zoom-in and zoom-out cursors.",
   "keywords": "cursors, pointers",
-  "shown":true
+  "shown": false
 }
