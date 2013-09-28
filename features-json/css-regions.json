@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/css/atrules/@region",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://html.adobe.com/webstandards/cssregions/",
       "title":"Adobe demos and samples"
     },
     {
       "url":"http://msdn.microsoft.com/en-us/ie/hh272902#_CSSConnected",
       "title":"IE10 developer guide info"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/atrules/@region",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -160,7 +160,7 @@
       "10":"a x"
     }
   },
-  "notes":"Currently supported in WebKit Nightly using <code>-webkit-flow-into: flow_name;</code> and <code>-webkit-from-flow: flow_name;</code>. Support in Chrome 19+ is disabled by default and can be enabled using a runtime flag (see <code>about:flags</code>) or a command line flag (see  <a href=\"http://peter.sh/experiments/chromium-command-line-switches/#enable-css-regions\">this list</a>). For Chrome 19-22 the flag is named \"Enable CSS Regions\" / <code>--enable-css-regions</code>, while for Chrome 23+ the flag is named \"Enable experimental WebKit features\" / <code>--enable-experimental-webkit-features</code>. Support in IE10 is limited to using an iframe as a content source with the <code>-ms-flow-into: flow_name;</code> and <code>-ms-flow-from: flow_name;</code> syntax.",
+  "notes":"Currently supported in WebKit Nightly using <code>-webkit-flow-into: flow_name;</code> and <code>-webkit-from-flow: flow_name;</code>. Support in Chrome 19+ is disabled by default and can be enabled using a runtime flag (see <code>about:flags</code>) or a command line flag (see  <a href=\"http://peter.sh/experiments/chromium-command-line-switches/#enable-css-regions\">this list</a>). For Chrome 19-22 the flag is named \"Enable CSS Regions\" / <code>--enable-css-regions</code>, while for Chrome 23+ the flag is named \"Enable experimental WebKit features\" / <code>--enable-experimental-webkit-features</code>. Support in IE10 is limited to using an iframe as a content source with the <code>-ms-flow-into: flow_name;</code> and <code>-ms-flow-from: flow_name;</code> syntax. Support for Safari 6.1&7 is <a href=\"http://www.broken-links.com/2013/07/10/web-platform-technologies-in-safari-6-1-and-7/\">likely</a> but not official.",
   "usage_perc_y":0.01,
   "usage_perc_a":10.1,
   "ucprefix":false,

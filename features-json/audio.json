@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
-    },
-    {
       "url":"http://html5doctor.com/native-audio-in-the-browser/",
       "title":"HTML5 Doctor article"
     },
@@ -29,12 +25,16 @@
       "title":"has.js test"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/audio",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://24ways.org/2010/the-state-of-html5-audio",
       "title":"Detailed article on support"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/audio",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
