@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"Firefox does not support specifying widths in percentages. <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=529761\">See bug</a>."
+    },
+    {
+      "description":"Containers with `display: flex` and `flex-direction: column` will not properly calculate their flexed childrens' sizes if the container has `min-height` but no explicit `height` property. <a href=\"https://connect.microsoft.com/IE/feedback/details/802625/min-height-and-flexbox-flex-direction-column-dont-work-together-in-ie-10-11-preview\">See bug</a>."
     }
   ],
   "categories":[
