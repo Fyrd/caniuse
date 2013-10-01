@@ -32,7 +32,7 @@
       "8":"n",
       "9":"n",
       "10":"a x",
-      "11":"y x"
+      "11":"a"
     },
     "firefox":{
       "2":"n",
@@ -166,6 +166,6 @@
   "usage_perc_a":9.64,
   "ucprefix":false,
   "parent":"",
-  "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",
+  "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave,gotpointercapture,lostpointercapture",
   "shown":true
 }
