@@ -16,7 +16,11 @@
   "bugs":[
     {
       "description":"Partial support in Safari refers to <a href=\"http://stackoverflow.com/questions/13663302/why-does-my-content-security-policy-work-everywhere-but-safari\">buggy behavior</a>."
+    },
+    {
+      "description":"Partially support in iOS Safari 5.0-5.1 refers to the browser recognizing the X-Webkit-CSP header but failing to handle complex cases correctly, often resulting in broken pages." 
     }
+}
   ],
   "categories":[
     "Other"
@@ -119,7 +123,7 @@
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
-      "5.0-5.1":"n",
+      "5.0-5.1":"a x",
       "6.0-6.1":"y x",
       "7.0":"y x"
     },
