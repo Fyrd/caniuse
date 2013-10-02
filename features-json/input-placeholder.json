@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
-      "title":"has.js test"
-    },
-    {
       "url":"https://github.com/mathiasbynens/jquery-placeholder",
       "title":"Polyfill"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/attributes/placeholder",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.zachleat.com/web/placeholder/",
       "title":"Article on usage"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/placeholder",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -165,7 +165,7 @@
     }
   },
   "notes":"Partial support in older Safari and Opera versions refers to lacking placeholder support on textarea elements. ",
-  "usage_perc_y":78.88,
+  "usage_perc_y":77.1,
   "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"forms",

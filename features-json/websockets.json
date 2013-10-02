@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-websockets",
-      "title":"has.js test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/websocket",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://websocket.org/aboutwebsocket.html",
+      "title":"WebSockets information"
     },
     {
       "url":"http://en.wikipedia.org/wiki/WebSocket",
@@ -21,8 +21,8 @@
       "title":"Details on newer protocol"
     },
     {
-      "url":"http://websocket.org/aboutwebsocket.html",
-      "title":"WebSockets information"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-websockets",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -171,8 +171,8 @@
     }
   },
   "notes":"Partial support refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol).",
-  "usage_perc_y":69.72,
-  "usage_perc_a":3.25,
+  "usage_perc_y":68.47,
+  "usage_perc_a":2.87,
   "ucprefix":true,
   "parent":"",
   "keywords":"",

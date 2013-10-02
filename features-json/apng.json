@@ -5,10 +5,6 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
-      "title":"Chrome extension providing support"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/APNG",
       "title":"Wikipedia"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
       "title":"APNG tutorial"
+    },
+    {
+      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
+      "title":"Chrome extension providing support"
     }
   ],
   "bugs":[
@@ -165,7 +165,7 @@
     }
   },
   "notes":"Where support for APNG is missing, only the first frame is displayed",
-  "usage_perc_y":16.61,
+  "usage_perc_y":15.9,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

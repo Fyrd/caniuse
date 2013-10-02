@@ -5,16 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
+      "title":"has.js test"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/video",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
-      "title":"has.js test"
+      "url":"http://diveinto.org/html5/video.html",
+      "title":"Video on the Web - includes info on Android support"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     },
     {
       "url":"http://webmproject.org",
@@ -23,10 +27,6 @@
     {
       "url":"http://camendesign.co.uk/code/video_for_everybody",
       "title":"Video for Everybody"
-    },
-    {
-      "url":"http://diveinto.org/html5/video.html",
-      "title":"Video on the Web - includes info on Android support"
     }
   ],
   "bugs":[
@@ -173,8 +173,8 @@
     }
   },
   "notes":"Different browsers have support for different video formats, see sub-features for details. \r\n\r\nThe Android browser (before 2.3) requires <a href=\"http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/\">specific handling</a> to run the video element.",
-  "usage_perc_y":83.48,
-  "usage_perc_a":0.22,
+  "usage_perc_y":82.32,
+  "usage_perc_a":0.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"<video>",

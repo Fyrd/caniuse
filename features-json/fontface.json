@@ -9,16 +9,16 @@
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://www.css3files.com/font/",
+      "title":"Information page"
+    },
+    {
       "url":"http://en.wikipedia.org/wiki/Web_typography",
       "title":"Wikipedia"
     },
     {
       "url":"http://webfonts.info",
       "title":"News and information site"
-    },
-    {
-      "url":"http://www.css3files.com/font/",
-      "title":"Information page"
     }
   ],
   "bugs":[
@@ -167,8 +167,8 @@
     }
   },
   "notes":"Partial support before IE8 refers to only supporting EOT fonts. Safari for iOS 4.1 and below only supports SVG fonts.",
-  "usage_perc_y":81.38,
-  "usage_perc_a":9.77,
+  "usage_perc_y":80.44,
+  "usage_perc_a":10.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face",

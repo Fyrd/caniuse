@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-sql-db",
-      "title":"has.js test"
-    },
-    {
       "url":"http://html5doctor.com/introducing-web-sql-databases/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-sql-db",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -157,7 +157,7 @@
     }
   },
   "notes":"The Web SQL Database specification is no longer being maintained and support may be dropped in future versions.",
-  "usage_perc_y":54.01,
+  "usage_perc_y":52.19,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

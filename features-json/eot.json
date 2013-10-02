@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.microsoft.com/typography/web/embedding/default.aspx",
-      "title":"Example pages"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/Embedded_OpenType",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://www.microsoft.com/typography/web/embedding/default.aspx",
+      "title":"Example pages"
     }
   ],
   "bugs":[
@@ -157,7 +157,7 @@
     }
   },
   "notes":"Proposal by Microsoft, being considered for W3C standardization.",
-  "usage_perc_y":21.3,
+  "usage_perc_y":23.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
+      "title":"MDN article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/word-wrap",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.css3files.com/text/#wordwrap",
       "title":"Information page"
-    },
-    {
-      "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -161,8 +161,8 @@
     }
   },
   "notes":"Partial support refers to requiring the legacy name \"word-wrap\" (rather than overflow-wrap) to work.",
-  "usage_perc_y":34.16,
-  "usage_perc_a":59.85,
+  "usage_perc_y":36.94,
+  "usage_perc_a":57.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"wordwrap,word-wrap",

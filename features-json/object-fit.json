@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/object-fit",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
       "title":"Dev.Opera article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/object-fit",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -157,7 +157,7 @@
     }
   },
   "notes":"Can be enabled in Chrome 31+ by enabling experimental Web Platform features under chrome://flags/.",
-  "usage_perc_y":0.77,
+  "usage_perc_y":0.75,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

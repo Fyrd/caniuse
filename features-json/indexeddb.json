@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
       "title":"has.js test"
     },
     {
       "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
       "title":"Mozilla Hacks article"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
-      "title":"WebPlatform Docs"
     },
     {
       "url":"https://github.com/axemclion/IndexedDBShim",
@@ -167,8 +167,8 @@
     }
   },
   "notes":"Partial support in BB10 refers to an <a href=\"http://www.w3.org/TR/2011/WD-IndexedDB-20110419/\">outdated specification</a> being implemented. Code targeting the <a href=\"http://www.w3.org/TR/IndexedDB/\">current state of the specification</a> might not work.",
-  "usage_perc_y":58.25,
-  "usage_perc_a":2.28,
+  "usage_perc_y":57.52,
+  "usage_perc_a":1.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb",
