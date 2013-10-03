@@ -1,6 +1,6 @@
 {
-  "title":"CSS3 Cursors New Values",
-  "description":"Support for zoom-in, zoom-out, grab and grabbing values for CSS3 cursors",
+  "title":"CSS3 Cursors (new values)",
+  "description":"Support for zoom-in and zoom-out values for the CSS3 cursor property.",
   "spec":"http://www.w3.org/TR/css3-ui/#cursor",
   "status":"wd",
   "links":[
@@ -10,6 +10,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS3"
@@ -49,9 +50,9 @@
       "21":"y x",
       "22":"y x",
       "23":"y x",
-      "24":"y x",
-      "25":"y x",
-      "26":"y x"
+      "24":"y",
+      "25":"y",
+      "26":"y"
     },
     "chrome":{
       "4":"y x",
@@ -101,9 +102,9 @@
       "11":"n",
       "11.1":"n",
       "11.5":"n",
-      "11.6":"a",
-      "12":"a",
-      "12.1":"a",
+      "11.6":"y",
+      "12":"y",
+      "12.1":"y",
       "15":"y x",
       "16":"y x",
       "17":"y x"
@@ -129,8 +130,8 @@
       "4.2":"n"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"u",
+      "10":"u"
     },
     "op_mob":{
       "10":"n",
@@ -151,9 +152,9 @@
       "10":"n"
     }
   },
-  "notes":"Opera from 11.6 to 15 doesn’t support grab and grabbing values",
-  "usage_perc_y":5.31,
-  "usage_perc_a":71.11,
+  "notes":"Chrome, Safari and Firefox also support the unofficial 'grab' and 'grabbing' values (with prefix)",
+  "usage_perc_y":52.5,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"cursors, pointers",

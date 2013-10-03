@@ -18,9 +18,8 @@
       "description":"Partial support in Safari refers to <a href=\"http://stackoverflow.com/questions/13663302/why-does-my-content-security-policy-work-everywhere-but-safari\">buggy behavior</a>."
     },
     {
-      "description":"Partially support in iOS Safari 5.0-5.1 refers to the browser recognizing the X-Webkit-CSP header but failing to handle complex cases correctly, often resulting in broken pages." 
+      "description":"Partially support in iOS Safari 5.0-5.1 refers to the browser recognizing the X-Webkit-CSP header but failing to handle complex cases correctly, often resulting in broken pages."
     }
-}
   ],
   "categories":[
     "Other"
@@ -164,7 +163,7 @@
   },
   "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10, and 'X-WebKit-CSP' for Safari and Chrome. IE 10's support is limited to the 'sandbox' directive.",
   "usage_perc_y":57.51,
-  "usage_perc_a":11.64,
+  "usage_perc_a":12.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

@@ -5,8 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css3pie.com/",
-      "title":"Polyfill which includes border-radius"
+      "url":"http://www.css3files.com/border/#borderradius",
+      "title":"Information page"
+    },
+    {
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
@@ -17,12 +21,8 @@
       "title":"Border-radius CSS Generator"
     },
     {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
-    },
-    {
-      "url":"http://www.css3files.com/border/#borderradius",
-      "title":"Information page"
+      "url":"http://css3pie.com/",
+      "title":"Polyfill which includes border-radius"
     }
   ],
   "bugs":[
@@ -31,6 +31,9 @@
     },
     {
       "description":"Border-radius does not work on fieldset elements in IE9."
+    },
+    {
+      "description":"The stock browser on the Samsung Galaxy S with Android 4.2 does not support the \"border-radius\" shorthand property but does support the long-hand properties for each corner like \"border-top-left-radius\"."
     }
   ],
   "categories":[
