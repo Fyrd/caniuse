@@ -1,20 +1,20 @@
 {
   "title":"async attribute for external scripts",
   "description":"The boolean async attribute on script elements allows the external JavaScript file to run when it's available, without delaying page load first.",
-  "spec":"http://www.w3.org/TR/html5/the-script-element.html#attr-script-async",
+  "spec":"http://www.w3.org/TR/html5/scripting-1.html#attr-script-async",
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-async",
-      "title":"has.js test"
+      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
+      "title":"MDN article"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
       "title":"Demo"
     },
     {
-      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
-      "title":"MDN article"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-async",
+      "title":"has.js test"
     }
   ],
   "bugs":[

@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://wiki.csswg.org/ideas/placeholder-styling",
-      "title":"CSSWG discussion"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
       "title":"MSDN article"
+    },
+    {
+      "url":"http://wiki.csswg.org/ideas/placeholder-styling",
+      "title":"CSSWG discussion"
     },
     {
       "url":"http://css-tricks.com/snippets/css/style-placeholder-text/",
@@ -113,7 +113,9 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"y x"
+      "15":"y x",
+      "16":"a",
+      "17":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -160,7 +162,7 @@
   },
   "notes":"",
   "usage_perc_y":70.21,
-  "usage_perc_a":0,
+  "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",
