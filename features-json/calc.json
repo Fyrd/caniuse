@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
@@ -92,7 +92,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "safari":{
       "3.1":"n",

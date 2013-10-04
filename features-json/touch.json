@@ -9,12 +9,12 @@
       "title":"Detailed support tables"
     },
     {
-      "url":"http://schepers.cc/getintouch",
-      "title":"Information on the spec development"
-    },
-    {
       "url":"http://www.quirksmode.org/m/tests/drag2.html",
       "title":"Multi-touch demo"
+    },
+    {
+      "url":"http://schepers.cc/getintouch",
+      "title":"Information on the spec development"
     }
   ],
   "bugs":[
@@ -96,7 +96,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "safari":{
       "3.1":"n",

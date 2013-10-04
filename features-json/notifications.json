@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
       "title":"Chromium API"
     },
     {
       "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
       "title":"Add-on "
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
+      "title":"HTML5 Rocks tutorial"
     }
   ],
   "bugs":[
@@ -90,7 +90,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "safari":{
       "3.1":"n",

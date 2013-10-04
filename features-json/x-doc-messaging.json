@@ -17,12 +17,12 @@
       "title":"Simple demo"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/web-messaging/methods/postMessage_%28window%29",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://72lions.com/2011/05/cross-origin-communication-with-html5",
       "title":"Article and demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/web-messaging/methods/postMessage_%28window%29",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -100,7 +100,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "safari":{
       "3.1":"n",

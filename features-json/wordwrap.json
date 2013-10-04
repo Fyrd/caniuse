@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/word-wrap",
-      "title":"WebPlatform Docs"
+      "url":"http://www.css3files.com/text/#wordwrap",
+      "title":"Information page"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
       "title":"MDN article"
     },
     {
-      "url":"http://www.css3files.com/text/#wordwrap",
-      "title":"Information page"
+      "url":"http://docs.webplatform.org/wiki/css/properties/word-wrap",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -90,7 +90,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "safari":{
       "3.1":"a",

@@ -9,16 +9,16 @@
       "title":"Alternate workaround"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
-      "title":"has.js test"
+      "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
+      "title":"Workaround for IE"
     },
     {
       "url":"http://oli.jp/2009/html5-structure3/",
       "title":"Article on structural elements"
     },
     {
-      "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
-      "title":"Workaround for IE"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -94,7 +94,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "safari":{
       "3.1":"a",
