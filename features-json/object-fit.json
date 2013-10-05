@@ -112,8 +112,7 @@
       "12.1":"y x",
       "15":"n",
       "16":"n",
-      "17":"n",
-      "18":"y"
+      "17":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -158,7 +157,7 @@
       "10":"n"
     }
   },
-  "notes":"Can be enabled in Chrome 31+ by enabling experimental Web Platform features under chrome://flags/.",
+  "notes":"Can be enabled in Chrome 31+ by enabling experimental Web Platform features under chrome://flags/. Will also be supported in Opera 18+",
   "usage_perc_y":0.75,
   "usage_perc_a":0,
   "ucprefix":false,
