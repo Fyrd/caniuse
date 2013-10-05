@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://philipwalton.github.io/solved-by-flexbox/",
-      "title":"Examples on how to solve common layout problems with flexbox"
-    },
-    {
-      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
-      "title":"Article on using the latest spec"
-    },
-    {
       "url":"http://bennettfeely.com/flexplorer/",
       "title":"Flexbox CSS generator"
     },
     {
       "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
       "title":"Tutorial on cross-browser support"
+    },
+    {
+      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
+      "title":"Article on using the latest spec"
+    },
+    {
+      "url":"http://philipwalton.github.io/solved-by-flexbox/",
+      "title":"Examples on how to solve common layout problems with flexbox"
     }
   ],
   "bugs":[
@@ -30,6 +30,9 @@
     },
     {
       "description":"IE10 and IE11 default values for `flex` are `0 0 auto` (<a href=\"http://www.css666.com/properties/flex\">see here</a>) rather than `0 1 auto`, as per the draft spec, as of September 2013."
+    },
+    {
+      "description":"Firefox does not support flex-wrap, align-content properties. <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=702508\">See bug</a>"
     }
   ],
   "categories":[
