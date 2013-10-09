@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
-      "title":"MDN article"
-    },
-    {
       "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
       "title":"Mozilla hacks article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -153,7 +153,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "14":"y x"
+      "0":"y x"
     },
     "and_chr":{
       "0":"y x"

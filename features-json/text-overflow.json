@@ -5,6 +5,14 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://devongovett.wordpress.com/2009/04/06/text-overflow-ellipsis-for-firefox-via-jquery/",
+      "title":"jQuery polyfill for Firefox"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow ",
       "title":"WebPlatform Docs"
     },
@@ -13,16 +21,8 @@
       "title":"Information page"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
-      "title":"has.js test"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
       "title":"MDN article"
-    },
-    {
-      "url":"http://devongovett.wordpress.com/2009/04/06/text-overflow-ellipsis-for-firefox-via-jquery/",
-      "title":"jQuery polyfill for Firefox"
     }
   ],
   "bugs":[
@@ -157,7 +157,7 @@
       "11.5":"y x",
       "12":"y x",
       "12.1":"y",
-      "14":"y"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"

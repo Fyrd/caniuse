@@ -9,8 +9,12 @@
       "title":"Demo page"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/dom/history",
-      "title":"WebPlatform Docs"
+      "url":"https://github.com/balupton/history.js",
+      "title":"History.js polyfill "
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
+      "title":"MDN article"
     },
     {
       "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
@@ -21,12 +25,8 @@
       "title":"has.js test"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
-      "title":"MDN article"
-    },
-    {
-      "url":"https://github.com/balupton/history.js",
-      "title":"History.js polyfill "
+      "url":"http://docs.webplatform.org/wiki/dom/history",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -163,7 +163,7 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "14":"y"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"

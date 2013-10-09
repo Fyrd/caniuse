@@ -13,12 +13,12 @@
       "title":"has.js test"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.html5tutorial.info/html5-number.php",
       "title":"Tutorial"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -153,7 +153,7 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "14":"a"
+      "0":"a"
     },
     "and_chr":{
       "0":"a"

@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.css3files.com/border/",
-      "title":"Information page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/border-image",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.css3files.com/border/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -145,7 +145,7 @@
       "11.5":"a x",
       "12":"a x",
       "12.1":"a x",
-      "14":"y"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"

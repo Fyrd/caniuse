@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
-      "title":"WebPlatform Docs"
+      "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
+      "title":"Live editor"
     },
     {
       "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
     },
     {
-      "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
-      "title":"Mozilla hacks article"
+      "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
+      "title":"WebPlatform Docs"
     },
     {
-      "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
-      "title":"Live editor"
+      "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
+      "title":"Mozilla hacks article"
     }
   ],
   "bugs":[
@@ -155,7 +155,7 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "14":"y"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"

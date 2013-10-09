@@ -13,12 +13,12 @@
       "title":"Tutorial on cross-browser support"
     },
     {
-      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
-      "title":"Article on using the latest spec"
-    },
-    {
       "url":"http://philipwalton.github.io/solved-by-flexbox/",
       "title":"Examples on how to solve common layout problems with flexbox"
+    },
+    {
+      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
+      "title":"Article on using the latest spec"
     }
   ],
   "bugs":[
@@ -131,7 +131,7 @@
       "12.1":"y",
       "15":"y x",
       "16":"y x",
-      "17":"y x"
+      "17":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -164,7 +164,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "14":"y x"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"

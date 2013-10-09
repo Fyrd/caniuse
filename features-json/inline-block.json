@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/",
-      "title":"Info on cross browser support"
-    },
-    {
       "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
       "title":"Blog post w/info"
+    },
+    {
+      "url":"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/",
+      "title":"Info on cross browser support"
     }
   ],
   "bugs":[
@@ -149,7 +149,7 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "14":"y"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"

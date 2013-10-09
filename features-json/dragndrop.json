@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/events/drag",
-      "title":"WebPlatform Docs"
+      "url":"http://html5demos.com/drag",
+      "title":"Demo with link blocks"
     },
     {
       "url":"http://html5doctor.com/native-drag-and-drop/",
@@ -17,8 +17,8 @@
       "title":"Shopping cart demo"
     },
     {
-      "url":"http://html5demos.com/drag",
-      "title":"Demo with link blocks"
+      "url":"http://docs.webplatform.org/wiki/dom/events/drag",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -155,7 +155,7 @@
       "11.5":"p",
       "12":"p",
       "12.1":"y",
-      "14":"n"
+      "0":"n"
     },
     "and_chr":{
       "0":"n"

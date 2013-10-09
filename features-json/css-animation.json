@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/css/properties/animations",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://www.css3files.com/animation/",
       "title":"Information page"
     },
     {
       "url":"http://robertnyman.com/2010/05/06/css3-animations/",
       "title":"Blog post on usage"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/animations",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -151,7 +151,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "14":"y x"
+      "0":"y x"
     },
     "and_chr":{
       "0":"y x"

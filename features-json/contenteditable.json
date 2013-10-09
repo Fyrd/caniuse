@@ -13,12 +13,12 @@
       "title":"Blog post on usage problems"
     },
     {
-      "url":"http://html5demos.com/contenteditable",
-      "title":"Demo page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/attributes/contentEditable",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://html5demos.com/contenteditable",
+      "title":"Demo page"
     }
   ],
   "bugs":[
@@ -158,7 +158,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "14":"y"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"

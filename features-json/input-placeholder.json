@@ -13,12 +13,12 @@
       "title":"has.js test"
     },
     {
-      "url":"https://github.com/mathiasbynens/jquery-placeholder",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://www.zachleat.com/web/placeholder/",
       "title":"Article on usage"
+    },
+    {
+      "url":"https://github.com/mathiasbynens/jquery-placeholder",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -153,7 +153,7 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "14":"y"
+      "0":"y"
     },
     "and_chr":{
       "0":"y"
