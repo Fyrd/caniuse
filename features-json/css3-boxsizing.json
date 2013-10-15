@@ -5,14 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
-    },
-    {
       "url":"https://github.com/Schepp/box-sizing-polyfill",
       "title":"Polyfill for IE"
     },
@@ -23,11 +15,22 @@
     {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
+    },
+    {
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     {
       "description":"Android browsers do not calculate correctly the dimensions (width and height) of the HTML select element."
+    },
+    {
+      "description":"Safari 6.0.x does not use box-sizing on elements with display: table;"
     }
   ],
   "categories":[
