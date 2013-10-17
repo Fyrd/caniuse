@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"Animation in SVG is not supported in iOS safari when the SVG is displayed in an img tag."
+    },
+    {
+      "description":"No events are fired at all in Webkit during animation (onbegin/onrepeat/onend): https://bugs.webkit.org/show_bug.cgi?id=63727"
     }
   ],
   "categories":[
