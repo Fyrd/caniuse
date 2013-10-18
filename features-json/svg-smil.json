@@ -9,21 +9,32 @@
       "title":"has.js test"
     },
     {
+      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
+      "title":"MDN article"
+    },
+    {
+      "url":"https://github.com/madsgraphics/SVGEventListener",
+      "title":"Polyfill for SMIL animate events on SVG"
+    },
+    {
+      "url":"",
+      "title":""
+    },
+    {
       "url":"http://svg-wow.org/blog/category/animation/",
       "title":"Examples on SVG WOW"
     },
     {
       "url":"http://leunen.me/fakesmile/",
       "title":"JS library to support SMIL in SVG"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
-      "title":"MDN article"
     }
   ],
   "bugs":[
     {
       "description":"Animation in SVG is not supported in iOS safari when the SVG is displayed in an img tag."
+    },
+    {
+      "description":"No events are fired at all in Webkit during animation (onbegin/onrepeat/onend) <a href=\"https://bugs.webkit.org/show_bug.cgi?id=63727\">see bug</a>"
     }
   ],
   "categories":[
