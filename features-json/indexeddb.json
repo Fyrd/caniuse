@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
-      "title":"WebPlatform Docs"
+      "url":"https://github.com/axemclion/IndexedDBShim",
+      "title":"Polyfill for browsers supporting WebSQL"
     },
     {
       "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
@@ -17,8 +17,8 @@
       "title":"has.js test"
     },
     {
-      "url":"https://github.com/axemclion/IndexedDBShim",
-      "title":"Polyfill for browsers supporting WebSQL"
+      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[

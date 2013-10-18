@@ -5,6 +5,10 @@
   "status":"other",
   "links":[
     {
+      "url":"http://www.json.org/js.html",
+      "title":"JSON in JS (includes script w/support)"
+    },
+    {
       "url":"https://developer.mozilla.org/En/Using_native_JSON",
       "title":"MDN article"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/apis/json",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.json.org/js.html",
-      "title":"JSON in JS (includes script w/support)"
     }
   ],
   "bugs":[
