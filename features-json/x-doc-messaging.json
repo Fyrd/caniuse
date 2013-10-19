@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/postmessage2",
-      "title":"Simple demo"
+      "url":"http://72lions.com/2011/05/cross-origin-communication-with-html5",
+      "title":"Article and demo"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/web-messaging/methods/postMessage_%28window%29",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://72lions.com/2011/05/cross-origin-communication-with-html5",
-      "title":"Article and demo"
+      "url":"http://html5demos.com/postmessage2",
+      "title":"Simple demo"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
@@ -126,7 +126,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -146,7 +147,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

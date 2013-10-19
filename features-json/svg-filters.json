@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://svg-wow.org/blog/category/filters/",
-      "title":"SVG filter demos"
-    },
-    {
       "url":"http://electricbeach.org/?p=950",
       "title":"Experiments with filter effects"
     },
     {
       "url":"http://docs.webplatform.org/wiki/svg/elements/filter",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://svg-wow.org/blog/category/filters/",
+      "title":"SVG filter demos"
     }
   ],
   "bugs":[
@@ -118,7 +118,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -138,7 +139,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"n"
+      "4.2-4.3":"n"
     },
     "bb":{
       "7":"n",

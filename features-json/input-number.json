@@ -9,12 +9,12 @@
       "title":"has.js test"
     },
     {
-      "url":"https://github.com/jonstipe/number-polyfill",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://www.html5tutorial.info/html5-number.php",
       "title":"Tutorial"
+    },
+    {
+      "url":"https://github.com/jonstipe/number-polyfill",
+      "title":"Polyfill"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
@@ -120,7 +120,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -140,7 +141,7 @@
       "3":"n",
       "4":"a",
       "4.1":"a",
-      "4.2":"a"
+      "4.2-4.3":"a"
     },
     "bb":{
       "7":"n",

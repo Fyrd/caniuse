@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
-      "title":"Shopping cart demo"
-    },
-    {
-      "url":"http://html5demos.com/drag",
-      "title":"Demo with link blocks"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/events/drag",
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
+      "title":"Shopping cart demo"
+    },
+    {
       "url":"http://html5doctor.com/native-drag-and-drop/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"http://html5demos.com/drag",
+      "title":"Demo with link blocks"
     }
   ],
   "bugs":[
@@ -122,7 +122,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -142,7 +143,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"n"
+      "4.2-4.3":"n"
     },
     "bb":{
       "7":"n",

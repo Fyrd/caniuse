@@ -13,12 +13,12 @@
       "title":"HTML5 Doctor on meter element "
     },
     {
-      "url":"http://peter.sh/examples/?/html/meter-progress.html",
-      "title":"Examples of progress and meter elements"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/elements/progress",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://peter.sh/examples/?/html/meter-progress.html",
+      "title":"Examples of progress and meter elements"
     }
   ],
   "bugs":[
@@ -120,7 +120,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -140,7 +141,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"n"
+      "4.2-4.3":"n"
     },
     "bb":{
       "7":"y",

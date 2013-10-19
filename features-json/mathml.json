@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.mozilla.org/projects/mathml/demo/",
-      "title":"MathML demos"
-    },
-    {
       "url":"https://developer.mozilla.org/en/MathML/Element",
       "title":"MDN element reference"
     },
     {
       "url":"http://en.wikipedia.org/wiki/MathML",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://www.mozilla.org/projects/mathml/demo/",
+      "title":"MathML demos"
     },
     {
       "url":"http://www.mathjax.org",
@@ -120,7 +120,8 @@
       "12.1":"a",
       "15":"p",
       "16":"p",
-      "17":"p"
+      "17":"p",
+      "18":"p"
     },
     "ios_saf":{
       "3.2":"p",
@@ -140,7 +141,7 @@
       "3":"p",
       "4":"p",
       "4.1":"p",
-      "4.2":"p"
+      "4.2-4.3":"p"
     },
     "bb":{
       "7":"p",

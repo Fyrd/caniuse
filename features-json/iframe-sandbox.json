@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/hh563496",
-      "title":"MSDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/attributes/sandbox",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/hh563496",
+      "title":"MSDN article"
     },
     {
       "url":"http://blog.chromium.org/2010/05/security-in-depth-html5s-sandbox.html",
@@ -118,7 +118,8 @@
       "12.1":"n",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -138,7 +139,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

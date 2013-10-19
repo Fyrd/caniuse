@@ -17,12 +17,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://dev.opera.com/articles/view/color-in-opera-10-hsl-rgb-and-alpha-transparency/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://www.zenelements.com/blog/css3-rgb-rgba-color-opacity/",
       "title":"Guide to RGB & RGBA"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/color-in-opera-10-hsl-rgb-and-alpha-transparency/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -124,7 +124,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -144,7 +145,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

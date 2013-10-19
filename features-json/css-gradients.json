@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.css3files.com/gradient/",
-      "title":"Information page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
       "title":"WebPlatform Docs"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://css3pie.com/",
       "title":"Tool to emulate support in IE"
+    },
+    {
+      "url":"http://www.css3files.com/gradient/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -120,7 +120,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -140,7 +141,7 @@
       "3":"a x",
       "4":"y x",
       "4.1":"y x",
-      "4.2":"y x"
+      "4.2-4.3":"y x"
     },
     "bb":{
       "7":"a x",

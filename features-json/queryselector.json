@@ -13,12 +13,12 @@
       "title":"MDN article on querySelectorAll"
     },
     {
-      "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -120,7 +120,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -140,7 +141,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

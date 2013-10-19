@@ -9,12 +9,12 @@
       "title":"Dev.Opera article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.westciv.com/style_master/academy/css_tutorial/advanced/generated_content.html",
       "title":"Guide on usage"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -119,7 +119,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -139,7 +140,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

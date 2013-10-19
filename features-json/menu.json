@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
-      "title":"has.js test"
-    },
-    {
       "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
       "title":"Demo"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
+      "title":"has.js test"
     },
     {
       "url":"http://addyosmani.github.com/jQuery-contextMenu/",
@@ -31,7 +31,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"u"
+      "11":"n"
     },
     "firefox":{
       "2":"n",
@@ -116,7 +116,8 @@
       "12.1":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -136,7 +137,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"n"
+      "4.2-4.3":"n"
     },
     "bb":{
       "7":"n",

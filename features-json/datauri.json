@@ -9,12 +9,12 @@
       "title":"Wikipedia"
     },
     {
-      "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
-      "title":"Data URL converter"
-    },
-    {
       "url":"http://css-tricks.com/5970-data-uris/",
       "title":"Information page"
+    },
+    {
+      "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
+      "title":"Data URL converter"
     }
   ],
   "bugs":[
@@ -116,7 +116,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -136,7 +137,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

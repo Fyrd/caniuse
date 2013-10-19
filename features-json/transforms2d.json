@@ -5,28 +5,28 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
+      "title":"MDN article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.css3files.com/transform/",
-      "title":"Information page"
-    },
-    {
-      "url":"http://www.useragentman.com/IETransformsTranslator/",
-      "title":"Converter for IE"
     },
     {
       "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
       "title":"Workaround script for IE"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
-      "title":"has.js test"
+      "url":"http://www.useragentman.com/IETransformsTranslator/",
+      "title":"Converter for IE"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
-      "title":"MDN article"
+      "url":"http://www.css3files.com/transform/",
+      "title":"Information page"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
+      "title":"has.js test"
     },
     {
       "url":"http://www.westciv.com/tools/transforms/",
@@ -134,7 +134,8 @@
       "12.1":"y",
       "15":"y x",
       "16":"y x",
-      "17":"y x"
+      "17":"y x",
+      "18":"y x"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -154,7 +155,7 @@
       "3":"y x",
       "4":"y x",
       "4.1":"y x",
-      "4.2":"y x"
+      "4.2-4.3":"y x"
     },
     "bb":{
       "7":"y x",
