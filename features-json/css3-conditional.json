@@ -1,33 +1,36 @@
 {
-  "title":"EOT - Embedded OpenType fonts",
-  "description":"Type of font that can be derived from a regular font, allowing small files and legal use of high-quality fonts. Usage is restricted by the file being tied to the website",
-  "spec":"http://www.w3.org/Submission/EOT/",
-  "status":"unoff",
+  "title":"CSS Conditional Rules",
+  "description":"CSS Conditional Rules allows authors to condition rules based on whether particular property declarations are supported in CSS.",
+  "spec":"http://www.w3.org/TR/css3-conditional/#at-supports",
+  "status":"wd",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Embedded_OpenType",
-      "title":"Wikipedia"
+      "url":"https://developer.mozilla.org/en-US/docs/CSS/@supports",
+      "title":"MDN Article"
     },
     {
-      "url":"http://www.microsoft.com/typography/web/embedding/default.aspx",
-      "title":"Example pages"
+      "url":"http://mcc.id.au/blog/2012/08/supports",
+      "title":"@supports in Firefox"
+    },
+    {
+      "url":"http://dabblet.com/gist/3895764",
+      "title":"Test case"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "Other"
+    "CSS3"
   ],
   "stats":{
     "ie":{
       "5.5":"n",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n"
     },
     "firefox":{
       "2":"n",
@@ -48,15 +51,7 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n"
+      "18":"n"
     },
     "chrome":{
       "4":"n",
@@ -79,15 +74,7 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n"
+      "24":"n"
     },
     "safari":{
       "3.1":"n",
@@ -95,8 +82,7 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"n",
-      "7":"n"
+      "6":"n"
     },
     "opera":{
       "9":"n",
@@ -109,19 +95,15 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n"
+      "12.1":"y",
+      "12.5":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"n",
-      "7.0":"n"
+      "6":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -132,8 +114,7 @@
       "2.3":"n",
       "3":"n",
       "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n"
+      "4.1":"n"
     },
     "bb":{
       "7":"n",
@@ -145,24 +126,20 @@
       "11.1":"n",
       "11.5":"n",
       "12":"n",
-      "12.1":"n",
-      "0":"n"
+      "12.1":"n"
     },
     "and_chr":{
       "0":"n"
     },
     "and_ff":{
       "0":"n"
-    },
-    "ie_mob":{
-      "10":"n"
     }
   },
-  "notes":"Proposal by Microsoft, being considered for W3C standardization.",
-  "usage_perc_y":23.82,
+  "notes":"@supports at-rule can be made to work in Firefox 17+ by setting the config value layout.css.supports-rule.enable to true.",
+  "usage_perc_y":0.02,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"fontface",
-  "keywords":"",
-  "shown":true
+  "parent":"",
+  "keywords":"supports,conditional",
+  "shown":false
 }
