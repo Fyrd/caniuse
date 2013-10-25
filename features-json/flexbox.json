@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "title":"A Complete Guide to Flexbox"
+    },
+    {
       "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
       "title":"Article on using the latest spec"
     },
@@ -13,16 +17,12 @@
       "title":"Examples on how to solve common layout problems with flexbox"
     },
     {
-      "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
-      "title":"Tutorial on cross-browser support"
-    },
-    {
       "url":"http://bennettfeely.com/flexplorer/",
       "title":"Flexbox CSS generator"
     },
     {
-      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-      "title":"A Complete Guide to Flexbox"
+      "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
+      "title":"Tutorial on cross-browser support"
     }
   ],
   "bugs":[
