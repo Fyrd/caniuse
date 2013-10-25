@@ -5,8 +5,8 @@
   "status":"other",
   "links":[
     {
-      "url":"http://www.json.org/js.html",
-      "title":"JSON in JS (includes script w/support)"
+      "url":"http://docs.webplatform.org/wiki/apis/json",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/json.js#json",
@@ -17,8 +17,8 @@
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/json",
-      "title":"WebPlatform Docs"
+      "url":"http://www.json.org/js.html",
+      "title":"JSON in JS (includes script w/support)"
     }
   ],
   "bugs":[
@@ -104,6 +104,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

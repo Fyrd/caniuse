@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/timing/methods/requestAnimationFrame",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
       "title":"Blog post"
     },
     {
       "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/timing/methods/requestAnimationFrame",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -102,6 +102,7 @@
       "5":"n",
       "5.1":"n",
       "6":"y x",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
-      "title":"MDN reference"
+      "url":"http://docs.webplatform.org/wiki/html/elements/datalist",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://demo.agektmr.com/datalist/",
       "title":"Eiji Kitamura's options demos & tests"
     },
     {
-      "url":"http://afarkas.github.com/webshim/demos/",
-      "title":"HTML5 Library including datalist support"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/html/elements/datalist",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
+      "title":"MDN reference"
+    },
+    {
+      "url":"http://afarkas.github.com/webshim/demos/",
+      "title":"HTML5 Library including datalist support"
     }
   ],
   "bugs":[
@@ -108,6 +108,7 @@
       "5":"p",
       "5.1":"p",
       "6":"n",
+      "6.1":"n",
       "7":"n"
     },
     "opera":{

@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://www.impressivewebs.com/min-max-width-height-css/",
+      "title":"CSS Basics post"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/min-width",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://code.google.com/p/ie7-js/",
       "title":"JS library with support"
-    },
-    {
-      "url":"http://www.impressivewebs.com/min-max-width-height-css/",
-      "title":"CSS Basics post"
     }
   ],
   "bugs":[
@@ -102,6 +102,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

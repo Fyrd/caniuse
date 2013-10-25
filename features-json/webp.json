@@ -5,20 +5,20 @@
   "status":"other",
   "links":[
     {
-      "url":"https://developers.google.com/speed/webp/",
-      "title":"Official website"
-    },
-    {
-      "url":"http://antimatter15.github.io/weppy/demo.html",
-      "title":"Polyfill for browsers with WebM support"
+      "url":"http://webpjs.appspot.com/",
+      "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
     },
     {
       "url":"http://libwebpjs.appspot.com/",
       "title":"Decoder in JS"
     },
     {
-      "url":"http://webpjs.appspot.com/",
-      "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
+      "url":"https://developers.google.com/speed/webp/",
+      "title":"Official website"
+    },
+    {
+      "url":"http://antimatter15.github.io/weppy/demo.html",
+      "title":"Polyfill for browsers with WebM support"
     }
   ],
   "bugs":[
@@ -104,6 +104,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
+      "6.1":"n",
       "7":"n"
     },
     "opera":{
@@ -166,7 +167,7 @@
       "10":"n"
     }
   },
-  "notes":"",
+  "notes":"Animated webp images are supported in Chrome 32+ and Opera 19+.",
   "usage_perc_y":38.67,
   "usage_perc_a":0,
   "ucprefix":false,

@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
-      "title":"Tutorial"
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
+      "title":"has.js test"
     },
     {
       "url":"https://github.com/freqdec/fd-slider",
       "title":"Cross-browser polyfill"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://github.com/fryn/html5slider",
       "title":"Polyfill for Firefox"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
-      "title":"has.js test"
+      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
+      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -108,6 +108,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

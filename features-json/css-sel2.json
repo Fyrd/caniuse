@@ -5,8 +5,8 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/selectors",
-      "title":"WebPlatform Docs"
+      "url":"http://www.quirksmode.org/css/contents.html",
+      "title":"Detailed support information"
     },
     {
       "url":"http://selectivizr.com",
@@ -17,8 +17,8 @@
       "title":"Examples of advanced selectors"
     },
     {
-      "url":"http://www.quirksmode.org/css/contents.html",
-      "title":"Detailed support information"
+      "url":"http://docs.webplatform.org/wiki/css/selectors",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -109,6 +109,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

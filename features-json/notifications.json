@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
-      "title":"Add-on "
-    },
-    {
       "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
     },
     {
       "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
       "title":"Chromium API"
+    },
+    {
+      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
+      "title":"Add-on "
     }
   ],
   "bugs":[
@@ -99,8 +99,9 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"a x",
-      "7":"a x"
+      "6":"n",
+      "6.1":"n",
+      "7":"y"
     },
     "opera":{
       "9":"n",
@@ -162,9 +163,9 @@
       "10":"n"
     }
   },
-  "notes":"Partial support in Chrome refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. Partial support in Safari refers to support being limited to Safari in Mountain Lion.",
-  "usage_perc_y":43.88,
-  "usage_perc_a":4.69,
+  "notes":"Partial support in Chrome refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. ",
+  "usage_perc_y":43.89,
+  "usage_perc_a":2.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

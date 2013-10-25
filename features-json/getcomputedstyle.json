@@ -9,25 +9,25 @@
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
+      "title":"Demo"
+    },
+    {
       "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
       "title":"MDN article"
     },
     {
       "url":"http://snipplr.com/view/13523/",
       "title":"Polyfill for IE"
-    },
-    {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
-      "title":"Demo"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3",
     "DOM",
-    "JS API"
+    "JS API",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -106,6 +106,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

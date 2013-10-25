@@ -9,16 +9,16 @@
       "title":"Mozilla hacks article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
       "title":"Live editor"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -106,6 +106,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

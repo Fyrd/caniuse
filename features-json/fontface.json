@@ -9,16 +9,16 @@
       "title":"News and information site"
     },
     {
-      "url":"http://www.css3files.com/font/",
-      "title":"Information page"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/Web_typography",
       "title":"Wikipedia"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@font-face",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.css3files.com/font/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -106,6 +106,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{

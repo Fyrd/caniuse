@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent",
-      "title":"MDN page on ClipboardEvent"
-    },
-    {
       "url":"http://www.deluxeblogtips.com/2010/06/javascript-copy-to-clipboard.html",
       "title":"Blog post on cross-browser usage"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent",
+      "title":"MDN page on ClipboardEvent"
     }
   ],
   "bugs":[
@@ -96,6 +96,7 @@
       "5":"a",
       "5.1":"a",
       "6":"a",
+      "6.1":"a",
       "7":"a"
     },
     "opera":{
