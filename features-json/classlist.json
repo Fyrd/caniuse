@@ -10,11 +10,7 @@
     },
     {
       "url":"https://github.com/eligrey/classList.js",
-      "title":"Polyfill script"
-    },
-    {
-      "url":"https://github.com/eligrey/classList.js/pull/12",
-      "title":"Polyfill script for classList on SVG elements on WebKit"
+      "title":"Polyfill  script"
     },
     {
       "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
@@ -24,9 +20,6 @@
   "bugs":[
     {
       "description":"IE does not support classList for SVGElements"
-    },
-    {
-      "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) do not have support for classList on SVG elements. A polyfill script is available."
     }
   ],
   "categories":[
