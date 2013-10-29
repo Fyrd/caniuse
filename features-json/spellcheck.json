@@ -1,23 +1,20 @@
 {
-  "title":"CSS Device Adaptation",
-  "description":"A standard way to override the size of viewport in web page, standardizing and replacing Apple's own popular &lt;META> viewport implementation.",
-  "spec":"http://www.w3.org/TR/css-device-adapt/",
-  "status":"wd",
+  "title":"Spellcheck",
+  "description":"Spellcheck input or textarea controls, or contentEditable marked elements.",
+  "spec":"http://www.w3.org/html/wg/drafts/html/master/editing.html#spelling-and-grammar-checking",
+  "status":"ed",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh708740(v=vs.85).aspx",
-      "title":"Device adaptation in Internet Explorer 10"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/",
-      "title":"Introduction to meta viewport and @viewport in Opera Mobile"
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh920763(v=vs.85).aspx",
+      "title":"Spellcheck"
     }
+	
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS"
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -25,42 +22,17 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"n",
-      "10":"a x",
-      "11":"a x"
+      "9":"u",
+      "10":"y",
+      "11":"y"
     },
     "firefox":{
       "2":"n",
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"n",
-      "5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"n",
-      "9":"n",
-      "10":"n",
-      "11":"n",
-      "12":"n",
-      "13":"n",
-      "14":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"u",
-      "26":"u"
-    },
-    "chrome":{
-      "4":"n",
-      "5":"n",
+      "4":"u",
+      "5":"u",
       "6":"n",
       "7":"n",
       "8":"n",
@@ -81,22 +53,46 @@
       "23":"n",
       "24":"n",
       "25":"n",
+      "26":"n"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"u",
+      "12":"u",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
       "26":"n",
       "27":"n",
       "28":"n",
       "29":"n",
       "30":"n",
-      "31":"u",
-      "32":"u"
+      "31":"n",
+      "32":"n"
     },
     "safari":{
       "3.1":"n",
       "3.2":"n",
       "4":"n",
-      "5":"n",
+      "5":"u",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
       "7":"u"
     },
     "opera":{
@@ -106,15 +102,14 @@
       "10.5":"n",
       "10.6":"n",
       "11":"n",
-      "11.1":"n",
+      "11.1":"u",
       "11.5":"n",
       "11.6":"n",
       "12":"n",
       "12.1":"n",
       "15":"n",
-      "16":"u",
-      "17":"n",
-      "18":"n"
+      "16":"n",
+      "17":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -125,28 +120,28 @@
       "7.0":"u"
     },
     "op_mini":{
-      "5.0-7.0":"a x"
+      "5.0-7.0":"n"
     },
     "android":{
       "2.1":"n",
       "2.2":"n",
-      "2.3":"n",
+      "2.3":"",
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2":"n"
     },
     "bb":{
-      "7":"n",
+      "7":"",
       "10":"n"
     },
     "op_mob":{
       "10":"n",
-      "11":"a x",
-      "11.1":"a x",
-      "11.5":"a x",
-      "12":"a x",
-      "12.1":"a x",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
       "0":"n"
     },
     "and_chr":{
@@ -156,14 +151,14 @@
       "0":"n"
     },
     "ie_mob":{
-      "10":"u"
+      "10":"n"
     }
   },
-  "notes":"Partial support refers to the only support for 'width' and 'height' property in IE, and the lack of support for 'orientation' property in Opera Mobile and Mini. IE10 has an issue where device-width value doesn't work properly. Workaround - http://timkadlec.com/2013/01/windows-phone-8-and-device-width/.",
+  "notes":"",
   "usage_perc_y":0,
-  "usage_perc_a":13.13,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"viewport",
+  "keywords":"Spellcheck, spell checking",
   "shown":false
 }
