@@ -9,16 +9,16 @@
       "title":"Polyfill for browsers with WebM support"
     },
     {
+      "url":"http://libwebpjs.appspot.com/",
+      "title":"Decoder in JS"
+    },
+    {
       "url":"http://webpjs.appspot.com/",
       "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
     },
     {
       "url":"https://developers.google.com/speed/webp/",
       "title":"Official website"
-    },
-    {
-      "url":"http://libwebpjs.appspot.com/",
-      "title":"Decoder in JS"
     }
   ],
   "bugs":[
@@ -104,6 +104,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
+      "6.1":"n",
       "7":"n"
     },
     "opera":{
@@ -120,7 +121,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -140,7 +142,7 @@
       "3":"n",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"n",
@@ -165,7 +167,7 @@
       "10":"n"
     }
   },
-  "notes":"",
+  "notes":"Animated webp images are supported in Chrome 32+ and Opera 19+.",
   "usage_perc_y":38.67,
   "usage_perc_a":0,
   "ucprefix":false,

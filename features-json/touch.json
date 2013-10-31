@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.quirksmode.org/m/tests/drag2.html",
-      "title":"Multi-touch demo"
+      "url":"http://schepers.cc/getintouch",
+      "title":"Information on the spec development"
     },
     {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
     {
-      "url":"http://schepers.cc/getintouch",
-      "title":"Information on the spec development"
+      "url":"http://www.quirksmode.org/m/tests/drag2.html",
+      "title":"Multi-touch demo"
     }
   ],
   "bugs":[
@@ -26,8 +26,8 @@
     }
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -106,6 +106,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
+      "6.1":"u",
       "7":"u"
     },
     "opera":{
@@ -122,7 +123,8 @@
       "12.1":"n",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -142,7 +144,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

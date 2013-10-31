@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
+      "title":"MSDN article"
+    },
+    {
       "url":"http://css-tricks.com/snippets/css/style-placeholder-text/",
       "title":"CSS-Tricks article with all prefixes"
     },
     {
       "url":"http://wiki.csswg.org/ideas/placeholder-styling",
       "title":"CSSWG discussion"
-    },
-    {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
-      "title":"MSDN article"
     }
   ],
   "bugs":[
@@ -100,6 +100,7 @@
       "5":"y x",
       "5.1":"y x",
       "6":"y x",
+      "6.1":"y x",
       "7":"y x"
     },
     "opera":{
@@ -116,7 +117,8 @@
       "12.1":"n",
       "15":"y x",
       "16":"a",
-      "17":"a"
+      "17":"a",
+      "18":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -136,7 +138,7 @@
       "3":"u",
       "4":"u",
       "4.1":"u",
-      "4.2":"u"
+      "4.2-4.3":"u"
     },
     "bb":{
       "7":"u",

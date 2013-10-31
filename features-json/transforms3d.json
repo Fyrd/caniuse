@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://css3.bradshawenterprises.com/flip/",
-      "title":"Multi-browser demo"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
-      "title":"WebPlatform Docs"
+      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
+      "title":"Mozilla hacks article"
     },
     {
       "url":"http://thewebrocks.com/demos/3D-css-tester/",
       "title":"3D CSS Tester"
     },
     {
-      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
       "title":"has.js test"
+    },
+    {
+      "url":"http://css3.bradshawenterprises.com/flip/",
+      "title":"Multi-browser demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -108,6 +108,7 @@
       "5":"y x",
       "5.1":"y x",
       "6":"y x",
+      "6.1":"y x",
       "7":"y x"
     },
     "opera":{
@@ -124,7 +125,8 @@
       "12.1":"n",
       "15":"y x",
       "16":"y x",
-      "17":"y x"
+      "17":"y x",
+      "18":"y x"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -144,7 +146,7 @@
       "3":"y x",
       "4":"y x",
       "4.1":"y x",
-      "4.2":"y x"
+      "4.2-4.3":"y x"
     },
     "bb":{
       "7":"y x",

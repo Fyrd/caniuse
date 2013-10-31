@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"https://hacks.mozilla.org/2012/07/firefox-beta-15-supports-the-new-opus-audio-format/",
-      "title":"Introduction of Opus by Mozilla"
-    },
-    {
       "url":"http://www.ietf.org/mail-archive/web/rtcweb/current/msg04953.html",
       "title":"Google's statement about the use of VP8 and Opus codec for WebRTC standard"
+    },
+    {
+      "url":"https://hacks.mozilla.org/2012/07/firefox-beta-15-supports-the-new-opus-audio-format/",
+      "title":"Introduction of Opus by Mozilla"
     }
   ],
   "bugs":[
@@ -96,6 +96,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
+      "6.1":"u",
       "7":"u"
     },
     "opera":{
@@ -112,7 +113,8 @@
       "12.1":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -132,7 +134,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"n"
+      "4.2-4.3":"n"
     },
     "bb":{
       "7":"n",

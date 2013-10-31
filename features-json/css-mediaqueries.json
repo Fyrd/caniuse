@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
-      "title":"Media Queries tutorial"
-    },
-    {
       "url":"https://github.com/scottjehl/Respond",
       "title":"Polyfill for IE"
+    },
+    {
+      "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
+      "title":"Media Queries tutorial"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
@@ -109,6 +109,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{
@@ -125,7 +126,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -145,7 +147,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

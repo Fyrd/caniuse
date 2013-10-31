@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/file",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/Using_files_from_web_applications",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/file",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -96,6 +96,7 @@
       "5":"n",
       "5.1":"a",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{
@@ -112,7 +113,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -132,7 +134,7 @@
       "3":"a",
       "4":"a",
       "4.1":"a",
-      "4.2":"a"
+      "4.2-4.3":"a"
     },
     "bb":{
       "7":"a",

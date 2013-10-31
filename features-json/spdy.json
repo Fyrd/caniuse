@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/SPDY",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
       "title":"SPDY whitepaper"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/SPDY",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -98,6 +98,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
+      "6.1":"u",
       "7":"u"
     },
     "opera":{
@@ -114,7 +115,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -134,7 +136,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"n",

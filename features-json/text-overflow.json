@@ -5,16 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow ",
+      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
-      "title":"MDN article"
     },
     {
       "url":"http://www.css3files.com/text/",
@@ -23,6 +15,14 @@
     {
       "url":"https://github.com/rmorse/AutoEllipsis",
       "title":"jQuery polyfill for Firefox"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
+      "title":"has.js test"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -108,6 +108,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{
@@ -124,7 +125,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -144,7 +146,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

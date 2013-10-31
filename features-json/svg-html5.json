@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Inline SVG in HTML works in Android 4+, but is reported to have bugs when manipulating the elements using JS, e.g. setting className does not work."
+      "description":"Inline SVG in HTML works in Android 4+, but is reported to have bugs when manipulating the elements using JS, e.g. setting className does not work. Using getAttribute('class') and setAttribute('class', 'foobar') works."
     }
   ],
   "categories":[
@@ -99,6 +99,7 @@
       "5":"p",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{
@@ -115,7 +116,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -135,7 +137,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

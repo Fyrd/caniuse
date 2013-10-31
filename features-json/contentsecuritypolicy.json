@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://html5rocks.com/en/tutorials/security/content-security-policy/",
-      "title":"HTML5Rocks article"
-    },
-    {
       "url":"http://content-security-policy.com/",
       "title":"CSP Examples & Quick Reference"
+    },
+    {
+      "url":"http://html5rocks.com/en/tutorials/security/content-security-policy/",
+      "title":"HTML5Rocks article"
     }
   ],
   "bugs":[
@@ -101,6 +101,7 @@
       "5":"n",
       "5.1":"a x",
       "6":"y x",
+      "6.1":"y x",
       "7":"y x"
     },
     "opera":{
@@ -117,7 +118,8 @@
       "12.1":"n",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -137,7 +139,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"n"
+      "4.2-4.3":"n"
     },
     "bb":{
       "7":"n",
@@ -162,7 +164,7 @@
       "10":"a x"
     }
   },
-  "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10, and 'X-WebKit-CSP' for Safari and Chrome. IE 10's support is limited to the 'sandbox' directive.",
+  "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox and IE 10&11, and 'X-WebKit-CSP' for Safari and Chrome. IE 10&11's support is limited to the 'sandbox' directive.",
   "usage_perc_y":57.51,
   "usage_perc_a":12.09,
   "ucprefix":false,

@@ -5,20 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
-      "title":"MDN article"
-    },
-    {
-      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
-      "title":"Introduction to history management"
-    },
-    {
       "url":"http://html5demos.com/history",
       "title":"Demo page"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
-      "title":"has.js test"
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
+      "title":"MDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/dom/history",
@@ -27,6 +19,14 @@
     {
       "url":"https://github.com/browserstate/history.js",
       "title":"History.js polyfill "
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
+      "title":"Introduction to history management"
     }
   ],
   "bugs":[
@@ -114,6 +114,7 @@
       "5":"a",
       "5.1":"a",
       "6":"a",
+      "6.1":"a",
       "7":"a"
     },
     "opera":{
@@ -130,7 +131,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -150,7 +152,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",

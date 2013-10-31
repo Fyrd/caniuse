@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/Using_web_workers",
-      "title":"MDN article"
-    },
-    {
-      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-web-workers/",
-      "title":"Tutorial"
-    },
-    {
       "url":"http://code.google.com/p/ie-web-worker/",
       "title":"Polyfill for IE (single threaded)"
     },
     {
       "url":"http://nerget.com/rayjs-mt/rayjs.html",
       "title":"Web Worker demo"
+    },
+    {
+      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-web-workers/",
+      "title":"Tutorial"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/Using_web_workers",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -104,6 +104,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{
@@ -120,7 +121,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -140,7 +142,7 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2":"n"
+      "4.2-4.3":"n"
     },
     "bb":{
       "7":"y",

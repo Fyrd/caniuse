@@ -5,6 +5,18 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
+    },
+    {
+      "url":"http://explorercanvas.googlecode.com/",
+      "title":"Implementation for Internet Explorer"
+    },
+    {
       "url":"http://www.diveinto.org/html5/canvas.html",
       "title":"Another tutorial"
     },
@@ -15,18 +27,6 @@
     {
       "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
-    },
-    {
-      "url":"http://explorercanvas.googlecode.com/",
-      "title":"Implementation for Internet Explorer"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
     }
   ],
   "bugs":[
@@ -35,8 +35,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "Canvas"
+    "Canvas",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -115,6 +115,7 @@
       "5":"y",
       "5.1":"y",
       "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{
@@ -131,7 +132,8 @@
       "12.1":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -151,7 +153,7 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2":"y"
+      "4.2-4.3":"y"
     },
     "bb":{
       "7":"y",
