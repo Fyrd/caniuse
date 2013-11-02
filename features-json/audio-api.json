@@ -1,20 +1,24 @@
 {
   "title":"Web Audio API",
   "description":"High-level JavaScript API for processing and synthesizing audio",
-  "spec":"http://www.w3.org/TR/audioproc/",
+  "spec":"http://www.w3.org/TR/webaudio/",
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/webaudio",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.w3.org/TR/webaudio/",
-      "title":"Web Audio API by Google"
+      "url":"https://github.com/g200kg/WAAPISim",
+      "title":"Polyfill to enable Web Audio API through Firefox Audio Data api or flash"
     },
     {
       "url":"https://github.com/corbanbrook/audionode.js",
       "title":"Polyfill to support Web Audio API in Firefox"
+    },
+    {
+      "url":"http://www.doboism.com/projects/webaudio-compatibility/",
+      "title":"Additional browser compatibility tests for specific features"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/webaudio",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -59,8 +63,9 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"a",
-      "26":"a"
+      "25":"y",
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -69,29 +74,29 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"a x",
-      "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x",
-      "19":"a x",
-      "20":"a x",
-      "21":"a x",
-      "22":"a x",
-      "23":"a x",
-      "24":"a x",
-      "25":"a x",
-      "26":"a x",
-      "27":"a x",
-      "28":"a x",
-      "29":"a x",
-      "30":"a x",
-      "31":"a x",
-      "32":"a x"
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y x",
+      "14":"y x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x",
+      "18":"y x",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
+      "27":"y x",
+      "28":"y x",
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
+      "32":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -99,9 +104,9 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"a x",
-      "6.1":"a x",
-      "7":"a x"
+      "6":"y x",
+      "6.1":"y x",
+      "7":"y x"
     },
     "opera":{
       "9":"n",
@@ -115,18 +120,18 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x"
+      "15":"y x",
+      "16":"y x",
+      "17":"y x",
+      "18":"y x"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"a x",
-      "7.0":"a x"
+      "6.0-6.1":"y x",
+      "7.0":"y x"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -154,7 +159,7 @@
       "0":"n"
     },
     "and_chr":{
-      "0":"a x"
+      "0":"y x"
     },
     "and_ff":{
       "0":"n"
@@ -163,9 +168,9 @@
       "10":"n"
     }
   },
-  "notes":"Older Firefox versions support an alternative, deprecated audio API, with support for the cross browser Web Audio API available from version 25 on.",
-  "usage_perc_y":0,
-  "usage_perc_a":43.25,
+  "notes":"Firefox versions < 25 support an alternative, deprecated audio API.",
+  "usage_perc_y":43.25,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"web-audio",

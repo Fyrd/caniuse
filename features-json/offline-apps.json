@@ -9,16 +9,16 @@
       "title":"Dive Into HTML5 article"
     },
     {
-      "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
-      "title":"Sitepoint tutorial"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/appcache/ApplicationCache",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
       "title":"Mozilla Hacks article/demo"
+    },
+    {
+      "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
+      "title":"Sitepoint tutorial"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"y",

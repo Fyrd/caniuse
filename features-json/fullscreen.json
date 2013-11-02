@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://jlongster.com/2011/11/21/canvas.html",
-      "title":"Blog post"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
+      "title":"MDN article"
     },
     {
       "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
       "title":"Mozilla hacks article"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
-      "title":"MDN article"
+      "url":"http://jlongster.com/2011/11/21/canvas.html",
+      "title":"Blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -64,7 +64,8 @@
       "23":"a x",
       "24":"a x",
       "25":"a x",
-      "26":"a x"
+      "26":"a x",
+      "27":"a x"
     },
     "chrome":{
       "4":"n",
