@@ -27,6 +27,9 @@
     },
     {
       "description":"In Firefox when clicking on contenteditable nested into draggable, cursor is always positioned to the start of editable text. Still not fixed in version 18.0.1."
+    },
+    {
+      "description":"In Internet Explorer contenteditable cannot be applied to the TABLE, COL, COLGROUP, TBODY, TD, TFOOT, TH, THEAD, and TR elements directly, a content editable SPAN, or DIV element can be placed inside the individual table cells (See http://msdn.microsoft.com/en-us/library/ie/ms533690(v=vs.85).aspx)."
     }
   ],
   "categories":[
