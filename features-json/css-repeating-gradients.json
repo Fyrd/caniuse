@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Partial support in Opera 11.10 and 11.50 refers to only having support for linear gradients."
+    }
   ],
   "categories":[
     "CSS3"
@@ -164,7 +166,7 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Firefox 10+, Chrome 26+ and Opera 11.6+ also support the new \"to (side)\" syntax.",
+  "notes":"Firefox 10+, Chrome 26+ and Opera 11.6+ also support the new \"to (side)\" syntax.",
   "usage_perc_y":73.31,
   "usage_perc_a":0.03,
   "ucprefix":false,

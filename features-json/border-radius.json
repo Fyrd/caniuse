@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
-    },
-    {
       "url":"http://www.css3files.com/border/#borderradius",
       "title":"Information page"
     },
@@ -17,12 +13,16 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://border-radius.com",
-      "title":"Border-radius CSS Generator"
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
     },
     {
       "url":"http://css3pie.com/",
       "title":"Polyfill which includes border-radius"
+    },
+    {
+      "url":"http://border-radius.com",
+      "title":"Border-radius CSS Generator"
     }
   ],
   "bugs":[

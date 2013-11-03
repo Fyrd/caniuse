@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.css3files.com/text/",
+      "title":"Information page"
+    },
+    {
       "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
       "title":"MDN article"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://github.com/rmorse/AutoEllipsis",
-      "title":"jQuery polyfill for Firefox"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
       "title":"has.js test"
     },
     {
-      "url":"http://www.css3files.com/text/",
-      "title":"Information page"
+      "url":"https://github.com/rmorse/AutoEllipsis",
+      "title":"jQuery polyfill for Firefox"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -172,7 +172,7 @@
       "10":"y"
     }
   },
-  "notes":"Opera also supported the non-standard <a href=\"http://dev.opera.com/static/dstorey/text/text-overflow.html\">-o-ellipsis-lastline</a> value until its switch to Blink in v. 15.",
+  "notes":"",
   "usage_perc_y":93.95,
   "usage_perc_a":0,
   "ucprefix":false,
