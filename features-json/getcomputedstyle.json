@@ -25,9 +25,9 @@
     
   ],
   "categories":[
-    "DOM",
     "JS API",
-    "CSS3"
+    "CSS3",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -171,8 +171,8 @@
     }
   },
   "notes":"Partial support in older Firefox versions refers to requiring the second parameter to be included. Partial support in all other browsers refers to not supporting getComputedStyle on pseudo-elements.",
-  "usage_perc_y":79.68,
-  "usage_perc_a":5.82,
+  "usage_perc_y":78.53,
+  "usage_perc_a":7,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
