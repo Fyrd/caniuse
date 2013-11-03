@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
-      "title":"Demo of various effects"
-    },
-    {
       "url":"http://www.css3files.com/shadow/",
       "title":"Information page"
     },
@@ -17,12 +13,16 @@
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
-      "title":"WebPlatform Docs"
+      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
+      "title":"Demo of various effects"
     },
     {
       "url":"http://westciv.com/tools/boxshadows/index.html",
       "title":"Live editor"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -152,7 +152,8 @@
       "3":"a x",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y x",

@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.colorzilla.com/gradient-editor/",
-      "title":"Cross-browser editor"
-    },
-    {
       "url":"http://css3pie.com/",
       "title":"Tool to emulate support in IE"
     },
     {
       "url":"http://www.css3files.com/gradient/",
       "title":"Information page"
+    },
+    {
+      "url":"http://www.colorzilla.com/gradient-editor/",
+      "title":"Cross-browser editor"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -143,7 +143,8 @@
       "3":"a x",
       "4":"y x",
       "4.1":"y x",
-      "4.2-4.3":"y x"
+      "4.2-4.3":"y x",
+      "4.4":"y"
     },
     "bb":{
       "7":"a x",

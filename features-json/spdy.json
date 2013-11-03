@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
-      "title":"SPDY whitepaper"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/SPDY",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
+      "title":"SPDY whitepaper"
     }
   ],
   "bugs":[
@@ -137,7 +137,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"n",

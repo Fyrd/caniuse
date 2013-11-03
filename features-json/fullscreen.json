@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
+      "title":"MDN article"
     },
     {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
@@ -17,8 +17,8 @@
       "title":"Mozilla hacks article"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
-      "title":"MDN article"
+      "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -143,7 +143,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"n",

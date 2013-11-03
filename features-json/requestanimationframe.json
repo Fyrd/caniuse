@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
+      "title":"Blog post"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/timing/methods/requestAnimationFrame",
@@ -141,7 +141,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"y"
     },
     "bb":{
       "7":"n",

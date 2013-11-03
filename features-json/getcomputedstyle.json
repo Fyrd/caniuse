@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://snipplr.com/view/13523/",
-      "title":"Polyfill for IE"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
       "title":"Demo"
+    },
+    {
+      "url":"http://snipplr.com/view/13523/",
+      "title":"Polyfill for IE"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
@@ -145,7 +145,8 @@
       "3":"a",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"a",
