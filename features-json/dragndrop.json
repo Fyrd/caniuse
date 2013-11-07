@@ -171,7 +171,7 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData.",
+  "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome",
   "usage_perc_y":64.83,
   "usage_perc_a":14.25,
   "ucprefix":false,
