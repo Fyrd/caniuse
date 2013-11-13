@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/Polymer/MutationObservers",
-      "title":"Polyfill"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
       "title":"MutationObserver from MDN"
+    },
+    {
+      "url":"https://github.com/Polymer/MutationObservers",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
