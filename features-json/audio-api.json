@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome for Android does not support the Web Audio API in conjunction with getUserMedia."
+    }
   ],
   "categories":[
     "JS API"
@@ -175,6 +177,6 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"web-audio",
+  "keywords":"web-audio,webaudio",
   "shown":true
 }
