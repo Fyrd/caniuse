@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome for Android does not support getUserMedia in conjunction with the Web Audio API."
+    }
   ],
   "categories":[
     "HTML5",
