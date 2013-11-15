@@ -19,10 +19,14 @@
     {
       "url":"https://developers.google.com/speed/webp/",
       "title":"Official website"
+    },
+    {
+      "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
+      "title": "Official website FAQ - Which web browsers natively support WebP?"
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "Other"
@@ -73,20 +77,20 @@
       "6":"p",
       "7":"p",
       "8":"p",
-      "9":"y",
-      "10":"y",
-      "11":"y",
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
+      "9":"a",
+      "10":"a",
+      "11":"a",
+      "12":"a",
+      "13":"a",
+      "14":"a",
+      "15":"a",
+      "16":"a",
+      "17":"a",
+      "18":"a",
+      "19":"a",
+      "20":"a",
+      "21":"a",
+      "22":"a",
       "23":"y",
       "24":"y",
       "25":"y",
@@ -116,9 +120,9 @@
       "10.5":"n",
       "10.6":"p",
       "11":"p",
-      "11.1":"p",
-      "11.5":"p",
-      "11.6":"p",
+      "11.1":"a",
+      "11.5":"a",
+      "11.6":"a",
       "12":"y",
       "12.1":"y",
       "15":"y",
@@ -142,8 +146,8 @@
       "2.2":"n",
       "2.3":"n",
       "3":"n",
-      "4":"y",
-      "4.1":"y",
+      "4":"a",
+      "4.1":"a",
       "4.2-4.3":"y",
       "4.4":"y"
     },
@@ -170,7 +174,7 @@
       "10":"n"
     }
   },
-  "notes":"Animated webp images are supported in Chrome 32+ and Opera 19+.",
+  "notes":"Partial support in older Chrome, Opera and Android refers to browser not supporting lossless and alpha versions of WebP. Animated webp images are supported in Chrome 32+ and Opera 19+.",
   "usage_perc_y":39.4,
   "usage_perc_a":0.01,
   "ucprefix":false,
