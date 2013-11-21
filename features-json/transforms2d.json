@@ -36,6 +36,9 @@
   "bugs":[
     {
       "description":"Scaling transforms in Android 2.3 fails to scale element background images."
+    },
+    {
+      "description":"IE doesn't support CSS transforms on SVG elements (version 11 or prior)."
     }
   ],
   "categories":[
