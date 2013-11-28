@@ -2,15 +2,15 @@
   "title":"PageVisibility",
   "description":"JavaScript API for determining whether a document is visible on the display",
   "spec":"http://www.w3.org/TR/page-visibility/",
-  "status":"cr",
+  "status":"rec",
   "links":[
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/timing/properties/visibilityState",
-      "title":"WebPlatform Docs"
-    },
     {
       "url":"https://developer.mozilla.org/en-US/docs/DOM/Using_the_Page_Visibility_API",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/timing/properties/visibilityState",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
