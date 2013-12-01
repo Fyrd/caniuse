@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Does not work on SVG elements in Safari 5.1 or  Android <= 4.1."
+    },
+    {
+      "description":"Does not work on links in IE11."
     }
   ],
   "categories":[
