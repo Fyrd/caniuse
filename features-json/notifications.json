@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
       "title":"Add-on "
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
+      "title":"HTML5 Rocks tutorial"
     },
     {
       "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Partial support in older Chrome versions refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. "
+    }
   ],
   "categories":[
     "JS API"
@@ -60,7 +62,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -91,7 +94,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -138,7 +142,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"a x"
     },
     "bb":{
       "7":"n",
@@ -163,9 +168,9 @@
       "10":"n"
     }
   },
-  "notes":"Partial support in Chrome refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. ",
-  "usage_perc_y":43.89,
-  "usage_perc_a":2.58,
+  "notes":"",
+  "usage_perc_y":45.27,
+  "usage_perc_a":2.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Embedded_OpenType",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://www.microsoft.com/typography/web/embedding/default.aspx",
       "title":"Example pages"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Embedded_OpenType",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -56,7 +56,8 @@
       "23":"n",
       "24":"n",
       "25":"n",
-      "26":"n"
+      "26":"n",
+      "27":"n"
     },
     "chrome":{
       "4":"n",
@@ -87,7 +88,8 @@
       "29":"n",
       "30":"n",
       "31":"n",
-      "32":"n"
+      "32":"n",
+      "33":"n"
     },
     "safari":{
       "3.1":"n",
@@ -134,7 +136,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"n",
@@ -160,7 +163,7 @@
     }
   },
   "notes":"Proposal by Microsoft, being considered for W3C standardization.",
-  "usage_perc_y":23.82,
+  "usage_perc_y":25.14,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

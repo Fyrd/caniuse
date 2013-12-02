@@ -62,7 +62,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"y",
@@ -93,7 +94,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"y",
@@ -140,7 +142,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -166,8 +169,8 @@
     }
   },
   "notes":"Only works in Android 2.2+ by using the following meta tag: &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">. Partial support in iOS Safari refers to <a href=\"http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/\">buggy behavior</a>.",
-  "usage_perc_y":81.84,
-  "usage_perc_a":9.24,
+  "usage_perc_y":84.35,
+  "usage_perc_a":5.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

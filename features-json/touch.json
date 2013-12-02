@@ -5,16 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://schepers.cc/getintouch",
-      "title":"Information on the spec development"
-    },
-    {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
     {
+      "url":"http://schepers.cc/getintouch",
+      "title":"Information on the spec development"
+    },
+    {
       "url":"http://www.quirksmode.org/m/tests/drag2.html",
       "title":"Multi-touch demo"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh673557(v=vs.85).aspx",
+      "title":"Internet Explorer's gesture and touch implementation."
     }
   ],
   "bugs":[
@@ -26,8 +30,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -46,18 +50,18 @@
       "3.6":"n",
       "4":"a",
       "5":"a",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y",
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
+      "6":"a",
+      "7":"a",
+      "8":"a",
+      "9":"a",
+      "10":"a",
+      "11":"a",
+      "12":"a",
+      "13":"a",
+      "14":"a",
+      "15":"a",
+      "16":"a",
+      "17":"a",
       "18":"y",
       "19":"y",
       "20":"y",
@@ -65,8 +69,9 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y",
-      "26":"y"
+      "25":"n",
+      "26":"n",
+      "27":"n"
     },
     "chrome":{
       "4":"n",
@@ -97,7 +102,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -106,8 +112,8 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
-      "7":"u"
+      "6.1":"n",
+      "7":"n"
     },
     "opera":{
       "9":"n",
@@ -144,7 +150,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -169,9 +176,9 @@
       "10":"p"
     }
   },
-  "notes":"Firefox 4 & 5 support a <a href=\"https://hacks.mozilla.org/2010/08/firefox4-beta3/\">non-standard</a> implementation to achieve the same. Internet Explorer implements Pointer Events specification which supports more input devices than Touch Events one.",
-  "usage_perc_y":61.01,
-  "usage_perc_a":0.12,
+  "notes":"Internet Explorer implements Pointer Events specification which supports more input devices than Touch Events one.",
+  "usage_perc_y":56.19,
+  "usage_perc_a":1.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

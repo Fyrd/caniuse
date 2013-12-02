@@ -1,24 +1,24 @@
 {
   "title":"contenteditable attribute (basic support)",
   "description":"Method of making any HTML element editable",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/editing.html#contenteditable",
-  "status":"wd",
+  "spec":"http://www.w3.org/TR/html/editing.html#contenteditable",
+  "status":"cr",
   "links":[
     {
-      "url":"http://html5demos.com/contenteditable",
-      "title":"Demo page"
+      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
+      "title":"Blog post on usage problems"
     },
     {
       "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
       "title":"WHATWG blog post"
     },
     {
-      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
-      "title":"Blog post on usage problems"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/attributes/contentEditable",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://html5demos.com/contenteditable",
+      "title":"Demo page"
     }
   ],
   "bugs":[
@@ -27,6 +27,9 @@
     },
     {
       "description":"In Firefox when clicking on contenteditable nested into draggable, cursor is always positioned to the start of editable text. Still not fixed in version 18.0.1."
+    },
+    {
+      "description":"In Internet Explorer contenteditable cannot be applied to the TABLE, COL, COLGROUP, TBODY, TD, TFOOT, TH, THEAD, and TR elements directly, a content editable SPAN, or DIV element can be placed inside the individual table cells (See http://msdn.microsoft.com/en-us/library/ie/ms533690(v=vs.85).aspx)."
     }
   ],
   "categories":[
@@ -69,7 +72,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"y",
@@ -100,7 +104,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"y",
@@ -147,7 +152,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -173,8 +179,8 @@
     }
   },
   "notes":"This support only refers to very basic editing capability, implementations vary significantly on how certain elements can be edited.",
-  "usage_perc_y":89.18,
-  "usage_perc_a":0.08,
+  "usage_perc_y":88.37,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

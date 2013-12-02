@@ -56,7 +56,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -87,7 +88,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -134,7 +136,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -159,8 +162,8 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in Safari refers to strict mode still accepting a lot of JS that should be considered invalid.",
-  "usage_perc_y":73.05,
+  "notes":"Partial support in older Safari refers to strict mode still accepting a lot of JS that should be considered invalid.",
+  "usage_perc_y":71.65,
   "usage_perc_a":1.59,
   "ucprefix":false,
   "parent":"",

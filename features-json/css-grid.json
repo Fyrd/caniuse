@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
-      "title":"IE Blog post"
-    },
-    {
       "url":"https://github.com/codler/Grid-Layout-Polyfill",
       "title":"Grid Layout Polyfill"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
+      "title":"Webkit (Chrome, Safari, etc.) feature request"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=616605",
       "title":"Mozilla (Firefox) feature request"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
-      "title":"Webkit (Chrome, Safari, etc.) feature request"
+      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
+      "title":"IE Blog post"
     }
   ],
   "bugs":[
@@ -63,8 +63,9 @@
       "22":"p",
       "23":"p",
       "24":"p",
-      "25":"u",
-      "26":"u"
+      "25":"p",
+      "26":"u",
+      "27":"u"
     },
     "chrome":{
       "4":"n",
@@ -94,8 +95,9 @@
       "28":"p",
       "29":"p",
       "30":"p",
-      "31":"u",
-      "32":"u"
+      "31":"p",
+      "32":"u",
+      "33":"u"
     },
     "safari":{
       "3.1":"n",
@@ -142,7 +144,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"p"
+      "4.2-4.3":"p",
+      "4.4":"p"
     },
     "bb":{
       "7":"n",
@@ -168,7 +171,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":10.36,
+  "usage_perc_y":11.11,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -9,12 +9,12 @@
       "title":"MSDN article"
     },
     {
-      "url":"http://css-tricks.com/snippets/css/style-placeholder-text/",
-      "title":"CSS-Tricks article with all prefixes"
-    },
-    {
       "url":"http://wiki.csswg.org/ideas/placeholder-styling",
       "title":"CSSWG discussion"
+    },
+    {
+      "url":"http://css-tricks.com/snippets/css/style-placeholder-text/",
+      "title":"CSS-Tricks article with all prefixes"
     }
   ],
   "bugs":[
@@ -60,7 +60,8 @@
       "23":"y x",
       "24":"y x",
       "25":"y x",
-      "26":"y x"
+      "26":"y x",
+      "27":"y x"
     },
     "chrome":{
       "4":"y x",
@@ -91,7 +92,8 @@
       "29":"y x",
       "30":"y x",
       "31":"y x",
-      "32":"y x"
+      "32":"y x",
+      "33":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -138,7 +140,8 @@
       "3":"u",
       "4":"u",
       "4.1":"u",
-      "4.2-4.3":"u"
+      "4.2-4.3":"u",
+      "4.4":"y x"
     },
     "bb":{
       "7":"u",
@@ -164,8 +167,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":70.21,
-  "usage_perc_a":0.18,
+  "usage_perc_y":68.86,
+  "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

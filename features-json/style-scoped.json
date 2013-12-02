@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
-      "title":"HTML5Rocks article"
+      "url":"http://html5doctor.com/the-scoped-attribute/",
+      "title":"HTML5 Doctor article"
     },
     {
       "url":"https://github.com/PM5544/scoped-polyfill",
       "title":"Polyfill"
     },
     {
-      "url":"http://html5doctor.com/the-scoped-attribute/",
-      "title":"HTML5 Doctor article"
+      "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
+      "title":"HTML5Rocks article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS",
-    "HTML5"
+    "HTML5",
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -61,7 +61,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -91,8 +92,9 @@
       "28":"n",
       "29":"n",
       "30":"n",
-      "31":"u",
-      "32":"u"
+      "31":"n",
+      "32":"u",
+      "33":"u"
     },
     "safari":{
       "3.1":"n",
@@ -101,8 +103,8 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
-      "7":"u"
+      "6.1":"n",
+      "7":"n"
     },
     "opera":{
       "9":"n",
@@ -139,7 +141,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"n",
@@ -165,7 +168,7 @@
     }
   },
   "notes":"Supported in Chrome 20+ by enabling the \"experimental WebKit features\" flag in chrome://flags.",
-  "usage_perc_y":12.66,
+  "usage_perc_y":13.05,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -5,21 +5,24 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
+      "title":"Mozilla Hacks article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/dom/properties/classList",
       "title":"WebPlatform Docs"
     },
     {
       "url":"https://github.com/eligrey/classList.js",
-      "title":"Polyfill  script"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
-      "title":"Mozilla Hacks article"
+      "title":"Polyfill script"
     }
   ],
   "bugs":[
     {
       "description":"IE does not support classList for SVGElements"
+    },
+    {
+      "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) do not have support for classList on SVG elements. A polyfill script is available."
     }
   ],
   "categories":[
@@ -63,7 +66,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"p",
@@ -94,7 +98,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"p",
@@ -141,7 +146,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -167,7 +173,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":74.91,
+  "usage_perc_y":73.54,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

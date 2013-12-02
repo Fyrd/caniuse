@@ -55,8 +55,9 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"u",
-      "26":"u"
+      "25":"n",
+      "26":"u",
+      "27":"u"
     },
     "chrome":{
       "4":"y x",
@@ -87,7 +88,8 @@
       "29":"y x",
       "30":"y x",
       "31":"y x",
-      "32":"y x"
+      "32":"y x",
+      "33":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -134,7 +136,8 @@
       "3":"n",
       "4":"y x",
       "4.1":"y x",
-      "4.2-4.3":"y x"
+      "4.2-4.3":"y x",
+      "4.4":"y x"
     },
     "bb":{
       "7":"y x",
@@ -160,8 +163,8 @@
     }
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
-  "usage_perc_y":51.42,
-  "usage_perc_a":0.01,
+  "usage_perc_y":48.41,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"textstroke,stroke-color,stroke-width,fill-color",

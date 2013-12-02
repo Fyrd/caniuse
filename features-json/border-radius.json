@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
-    },
-    {
-      "url":"http://border-radius.com",
-      "title":"Border-radius CSS Generator"
+      "url":"http://css3pie.com/",
+      "title":"Polyfill which includes border-radius"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
+    },
+    {
       "url":"http://www.css3files.com/border/#borderradius",
       "title":"Information page"
     },
     {
-      "url":"http://css3pie.com/",
-      "title":"Polyfill which includes border-radius"
+      "url":"http://border-radius.com",
+      "title":"Border-radius CSS Generator"
     }
   ],
   "bugs":[
@@ -76,7 +76,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"y x",
@@ -107,7 +108,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -154,7 +156,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -180,7 +183,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":82.61,
+  "usage_perc_y":80.91,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

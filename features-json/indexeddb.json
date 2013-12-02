@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
-      "title":"has.js test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
       "title":"WebPlatform Docs"
     },
@@ -19,6 +15,10 @@
     {
       "url":"https://github.com/axemclion/IndexedDBShim",
       "title":"Polyfill for browsers supporting WebSQL"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -97,7 +98,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -144,7 +146,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"y"
     },
     "bb":{
       "7":"n",
@@ -170,8 +173,8 @@
     }
   },
   "notes":"Partial support in BB10 refers to an <a href=\"http://www.w3.org/TR/2011/WD-IndexedDB-20110419/\">outdated specification</a> being implemented. Code targeting the <a href=\"http://www.w3.org/TR/IndexedDB/\">current state of the specification</a> might not work.",
-  "usage_perc_y":57.52,
-  "usage_perc_a":1.66,
+  "usage_perc_y":59.46,
+  "usage_perc_a":1.68,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb",

@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.colorzilla.com/gradient-editor/",
-      "title":"Cross-browser editor"
-    },
-    {
       "url":"http://www.css3files.com/gradient/",
       "title":"Information page"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
-      "title":"WebPlatform Docs"
+      "url":"http://www.colorzilla.com/gradient-editor/",
+      "title":"Cross-browser editor"
     },
     {
       "url":"http://css3pie.com/",
       "title":"Tool to emulate support in IE"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -64,7 +64,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"a x",
@@ -95,7 +96,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -142,7 +144,8 @@
       "3":"a x",
       "4":"y x",
       "4.1":"y x",
-      "4.2-4.3":"y x"
+      "4.2-4.3":"y x",
+      "4.4":"y"
     },
     "bb":{
       "7":"a x",
@@ -168,8 +171,8 @@
     }
   },
   "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Support can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. Firefox 10+, Opera 11.6+, Chrome 26+ and IE10 also support the new \"to (side)\" syntax.",
-  "usage_perc_y":74.69,
-  "usage_perc_a":2.8,
+  "usage_perc_y":73.31,
+  "usage_perc_a":2.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

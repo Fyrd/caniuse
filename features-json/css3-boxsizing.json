@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
+      "url":"https://github.com/Schepp/box-sizing-polyfill",
+      "title":"Polyfill for IE"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
     },
     {
-      "url":"https://github.com/Schepp/box-sizing-polyfill",
-      "title":"Polyfill for IE"
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
@@ -73,7 +73,8 @@
       "23":"y x",
       "24":"y x",
       "25":"y x",
-      "26":"y x"
+      "26":"y x",
+      "27":"y x"
     },
     "chrome":{
       "4":"a x",
@@ -104,7 +105,8 @@
       "29":"a",
       "30":"a",
       "31":"a",
-      "32":"a"
+      "32":"a",
+      "33":"a"
     },
     "safari":{
       "3.1":"a x",
@@ -151,7 +153,8 @@
       "3":"a x",
       "4":"a",
       "4.1":"a",
-      "4.2-4.3":"a"
+      "4.2-4.3":"a",
+      "4.4":"a"
     },
     "bb":{
       "7":"a x",
@@ -177,8 +180,8 @@
     }
   },
   "notes":"Partial support refers to supporting only the \"border-box\" value, not \"padding-box\" (which was added to the spec later).",
-  "usage_perc_y":15.14,
-  "usage_perc_a":78.34,
+  "usage_perc_y":15.43,
+  "usage_perc_a":78.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-box,content-box,padding-box",

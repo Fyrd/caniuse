@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
-      "title":"Introduction page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/column-width",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
+      "title":"Introduction page"
     },
     {
       "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
@@ -68,7 +68,8 @@
       "23":"a x",
       "24":"a x",
       "25":"a x",
-      "26":"a x"
+      "26":"a x",
+      "27":"a x"
     },
     "chrome":{
       "4":"a x",
@@ -99,7 +100,8 @@
       "29":"a x",
       "30":"a x",
       "31":"a x",
-      "32":"a x"
+      "32":"a x",
+      "33":"a x"
     },
     "safari":{
       "3.1":"a x",
@@ -146,7 +148,8 @@
       "3":"a x",
       "4":"a x",
       "4.1":"a x",
-      "4.2-4.3":"a x"
+      "4.2-4.3":"a x",
+      "4.4":"a x"
     },
     "bb":{
       "7":"a x",
@@ -172,8 +175,8 @@
     }
   },
   "notes":"Partial support refers to not supporting the break-before, break-after, break-inside properties. Webkit browsers do have equivalent support for the non-standard -webkit-column-break-* properties.",
-  "usage_perc_y":13.94,
-  "usage_perc_a":66.57,
+  "usage_perc_y":16.41,
+  "usage_perc_a":63.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count",

@@ -5,16 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://html5demos.com/history",
-      "title":"Demo page"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
       "title":"MDN article"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/dom/history",
-      "title":"WebPlatform Docs"
     },
     {
       "url":"https://github.com/browserstate/history.js",
@@ -25,8 +17,16 @@
       "title":"has.js test"
     },
     {
+      "url":"http://html5demos.com/history",
+      "title":"Demo page"
+    },
+    {
       "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
       "title":"Introduction to history management"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/history",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -74,7 +74,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -105,7 +106,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -152,7 +154,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -178,8 +181,8 @@
     }
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
-  "usage_perc_y":69.89,
-  "usage_perc_a":3.78,
+  "usage_perc_y":68.29,
+  "usage_perc_a":3.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

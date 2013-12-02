@@ -56,7 +56,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -87,7 +88,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -134,7 +136,8 @@
       "3":"a",
       "4":"a",
       "4.1":"a",
-      "4.2-4.3":"a"
+      "4.2-4.3":"a",
+      "4.4":"y"
     },
     "bb":{
       "7":"a",
@@ -159,9 +162,9 @@
       "10":"n"
     }
   },
-  "notes":"Partial support in Safari refers to lacking FileReader support. ",
-  "usage_perc_y":68.75,
-  "usage_perc_a":5.6,
+  "notes":"Partial support in older Safari refers to lacking FileReader support. ",
+  "usage_perc_y":67.73,
+  "usage_perc_a":5.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

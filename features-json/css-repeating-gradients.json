@@ -5,20 +5,22 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
+      "title":"MDN article"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/repeating-linear-gradient",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.css3files.com/gradient/#repeatinglineargradient",
       "title":"Information page"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
-      "title":"MDN article"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Partial support in Opera 11.10 and 11.50 refers to only having support for linear gradients."
+    }
   ],
   "categories":[
     "CSS3"
@@ -60,7 +62,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -91,7 +94,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -138,7 +142,8 @@
       "3":"n",
       "4":"y x",
       "4.1":"y x",
-      "4.2-4.3":"y x"
+      "4.2-4.3":"y x",
+      "4.4":"y"
     },
     "bb":{
       "7":"n",
@@ -163,8 +168,8 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Firefox 10+, Chrome 26+ and Opera 11.6+ also support the new \"to (side)\" syntax.",
-  "usage_perc_y":74.69,
+  "notes":"Firefox 10+, Chrome 26+ and Opera 11.6+ also support the new \"to (side)\" syntax.",
+  "usage_perc_y":73.31,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"css-gradients",

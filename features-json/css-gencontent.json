@@ -5,26 +5,26 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/css-generated-content-techniques/",
       "title":"Dev.Opera article"
     },
     {
       "url":"http://www.westciv.com/style_master/academy/css_tutorial/advanced/generated_content.html",
       "title":"Guide on usage"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     {
-      "description":"Chrome supports CSS transitions on generated content as of v. 26. Safari does not support transitions or animations on pseudo elements as of v. 6."
+      "description":"Chrome supports CSS transitions on generated content as of v. 26. Safari v6 and below do not support transitions or animations on pseudo elements."
     }
   ],
   "categories":[
-    "CSS2",
-    "CSS3"
+    "CSS3",
+    "CSS2"
   ],
   "stats":{
     "ie":{
@@ -63,7 +63,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"y",
@@ -94,7 +95,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"y",
@@ -141,7 +143,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -167,8 +170,8 @@
     }
   },
   "notes":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. pseudo-class). It does not support the double-colon CSS3 syntax (i.e. pseudo-element)",
-  "usage_perc_y":85.53,
-  "usage_perc_a":7.96,
+  "usage_perc_y":85.55,
+  "usage_perc_a":8.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"before,after",

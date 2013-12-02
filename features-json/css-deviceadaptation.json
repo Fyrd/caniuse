@@ -55,9 +55,9 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"u",
-      "26":"u"
-	  "27":"u"
+      "25":"n",
+      "26":"u",
+      "27":"u"
     },
     "chrome":{
       "4":"n",
@@ -87,8 +87,9 @@
       "28":"n",
       "29":"n",
       "30":"n",
-      "31":"u",
-      "32":"u"
+      "31":"n",
+      "32":"u",
+      "33":"u"
     },
     "safari":{
       "3.1":"n",
@@ -135,8 +136,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
-      "4.4":"n",	  
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"n",
@@ -164,7 +165,7 @@
   "notes":"Partial support refers to the only support for 'width' and 'height' property in IE, and the lack of support for 'orientation' property in Opera Mobile and Mini. 
   IE10 has an issue where device-width value doesn't work properly. Workaround - 'http://timkadlec.com/2013/01/windows-phone-8-and-device-width/'. This issue has been fixed in update 3 on Windows Phone 8 - http://go.microsoft.com/fwlink/p/?LinkID=378273",
   "usage_perc_y":0,
-  "usage_perc_a":13.13,
+  "usage_perc_a":15.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"viewport",

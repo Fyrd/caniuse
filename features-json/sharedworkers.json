@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
       "title":"Sitepoint article"
+    },
+    {
+      "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -55,8 +55,9 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"u",
-      "26":"u"
+      "25":"n",
+      "26":"u",
+      "27":"u"
     },
     "chrome":{
       "4":"y",
@@ -87,7 +88,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -134,7 +136,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"y",
@@ -160,7 +163,7 @@
     }
   },
   "notes":"Expected to be supported in Firefox 27.",
-  "usage_perc_y":41.28,
+  "usage_perc_y":40.07,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"webworkers",

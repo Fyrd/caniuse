@@ -9,12 +9,12 @@
       "title":"Information page"
     },
     {
-      "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/word-wrap",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -60,7 +60,8 @@
       "23":"a",
       "24":"a",
       "25":"a",
-      "26":"a"
+      "26":"a",
+      "27":"a"
     },
     "chrome":{
       "4":"a",
@@ -91,7 +92,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"a",
@@ -138,7 +140,8 @@
       "3":"a",
       "4":"a",
       "4.1":"a",
-      "4.2-4.3":"a"
+      "4.2-4.3":"a",
+      "4.4":"y"
     },
     "bb":{
       "7":"a",
@@ -164,8 +167,8 @@
     }
   },
   "notes":"Partial support refers to requiring the legacy name \"word-wrap\" (rather than overflow-wrap) to work.",
-  "usage_perc_y":36.94,
-  "usage_perc_a":57.15,
+  "usage_perc_y":36.93,
+  "usage_perc_a":57.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"wordwrap,word-wrap",

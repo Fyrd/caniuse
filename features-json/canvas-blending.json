@@ -52,7 +52,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -83,7 +84,8 @@
       "29":"n",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -130,7 +132,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"y"
     },
     "bb":{
       "7":"n",
@@ -146,7 +149,7 @@
       "0":"n"
     },
     "and_chr":{
-      "0":"n"
+      "0":"y"
     },
     "and_ff":{
       "0":"y"
@@ -155,8 +158,8 @@
       "10":"n"
     }
   },
-  "notes":"Supported in Chrome 29+ by enabling experimental WebKit features under chrome://flags",
-  "usage_perc_y":16.74,
+  "notes":"",
+  "usage_perc_y":42.33,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

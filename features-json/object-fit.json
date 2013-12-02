@@ -5,12 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/object-fit",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/anselmh/object-fit",
+      "title":"object-fit JavaScript-Polyfill"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -55,8 +59,9 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"u",
-      "26":"u"
+      "25":"n",
+      "26":"u",
+      "27":"u"
     },
     "chrome":{
       "4":"n",
@@ -87,7 +92,8 @@
       "29":"n",
       "30":"n",
       "31":"n",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -96,8 +102,8 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
-      "7":"u"
+      "6.1":"n",
+      "7":"n"
     },
     "opera":{
       "9":"n",
@@ -134,7 +140,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"n",
@@ -160,7 +167,7 @@
     }
   },
   "notes":"Can be enabled in Chrome 31+ and Opera 18+ by enabling experimental Web Platform features under chrome://flags/ or opera://flags/.",
-  "usage_perc_y":0.75,
+  "usage_perc_y":0.81,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

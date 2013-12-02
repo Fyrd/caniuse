@@ -13,16 +13,16 @@
       "title":"3D CSS Tester"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
-      "title":"has.js test"
-    },
-    {
       "url":"http://css3.bradshawenterprises.com/flip/",
       "title":"Multi-browser demo"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -68,7 +68,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -99,7 +100,8 @@
       "29":"y x",
       "30":"y x",
       "31":"y x",
-      "32":"y x"
+      "32":"y x",
+      "33":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -146,7 +148,8 @@
       "3":"y x",
       "4":"y x",
       "4.1":"y x",
-      "4.2-4.3":"y x"
+      "4.2-4.3":"y x",
+      "4.4":"y x"
     },
     "bb":{
       "7":"y x",
@@ -172,8 +175,8 @@
     }
   },
   "notes":"Partial support in IE10 refers to not supporting <a href=\"http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property\">the transform-style: preserve-3d property</a>. This prevents nesting 3D transformed elements.",
-  "usage_perc_y":63.51,
-  "usage_perc_a":10.36,
+  "usage_perc_y":61.31,
+  "usage_perc_a":11.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"css 3d,3dtransforms,translate3d,transform3d",

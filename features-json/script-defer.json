@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
-      "title":"has.js test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/attributes/defer",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
+      "title":"has.js test"
     },
     {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
@@ -23,8 +23,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -63,7 +63,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"n",
@@ -94,7 +95,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -141,7 +143,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -167,8 +170,8 @@
     }
   },
   "notes":"Partial support refers to a buggy implementation in IE<10",
-  "usage_perc_y":74.56,
-  "usage_perc_a":13.65,
+  "usage_perc_y":73.17,
+  "usage_perc_a":14.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

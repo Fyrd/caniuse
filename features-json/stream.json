@@ -14,11 +14,13 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome for Android does not support getUserMedia in conjunction with the Web Audio API."
+    }
   ],
   "categories":[
-    "JS API",
-    "HTML5"
+    "HTML5",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -57,7 +59,8 @@
       "23":"y x",
       "24":"y x",
       "25":"y x",
-      "26":"y x"
+      "26":"y x",
+      "27":"y x"
     },
     "chrome":{
       "4":"n",
@@ -88,7 +91,8 @@
       "29":"y x",
       "30":"y x",
       "31":"y x",
-      "32":"y x"
+      "32":"y x",
+      "33":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -97,8 +101,8 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
-      "7":"u"
+      "6.1":"n",
+      "7":"n"
     },
     "opera":{
       "9":"n",
@@ -135,7 +139,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"n",
@@ -161,7 +166,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":47.23,
+  "usage_perc_y":48.44,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

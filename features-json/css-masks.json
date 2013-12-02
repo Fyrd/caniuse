@@ -9,12 +9,12 @@
       "title":"Detailed blog post"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/masking/adobe/",
       "title":"HTML5 Rocks article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -59,8 +59,9 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"u",
-      "26":"u"
+      "25":"n",
+      "26":"u",
+      "27":"u"
     },
     "chrome":{
       "4":"a x",
@@ -91,7 +92,8 @@
       "29":"a x",
       "30":"a x",
       "31":"a x",
-      "32":"a x"
+      "32":"a x",
+      "33":"a x"
     },
     "safari":{
       "3.1":"n",
@@ -138,7 +140,8 @@
       "3":"a x",
       "4":"a x",
       "4.1":"a x",
-      "4.2-4.3":"a x"
+      "4.2-4.3":"a x",
+      "4.4":"a x"
     },
     "bb":{
       "7":"a x",
@@ -165,7 +168,7 @@
   },
   "notes":"Previously a WebKit-only property, now a W3C specification. Partial support refers to not yet fully supporting the new spec (details currently unknown).",
   "usage_perc_y":0,
-  "usage_perc_a":51.42,
+  "usage_perc_a":48.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -11,15 +11,12 @@
   ],
   "bugs":[
     {
-      "description":"SVG-as-image is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">fuzzy/pixelated</a> when zoomed or printed in all browsers but Chrome 23+ and IE9+."
-    },
-    {
       "description":"Opera messes background repeat when changing zoom level: <a href=\"http://stackoverflow.com/questions/15220910/svg-as-css-background-problems-with-zoom-level-in-opera#comment21458317_15220910\">known issue in Opera's private bug tracker (CORE-33071)</a>"
     }
   ],
   "categories":[
-    "SVG",
-    "CSS3"
+    "CSS3",
+    "SVG"
   ],
   "stats":{
     "ie":{
@@ -58,7 +55,8 @@
       "23":"a",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"a",
@@ -89,7 +87,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -136,7 +135,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -161,9 +161,9 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in Firefox and Opera Mini/Mobile refers to SVG images being blurry when scaled, fixed in Firefox 24. Partial support in iOS Safari and older Safari versions refers to failing to support tiling or the background-position property.",
-  "usage_perc_y":67,
-  "usage_perc_a":16.15,
+  "notes":"Partial support in older Firefox and Opera Mini/Mobile refers to SVG images being blurry when scaled. Partial support in iOS Safari and older Safari versions refers to failing to support tiling or the background-position property.",
+  "usage_perc_y":75.45,
+  "usage_perc_a":8.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"svg-in-css,svgincss,css-svg",

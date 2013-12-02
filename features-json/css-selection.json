@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"::selection does not work on input elements in Chrome (tested on OS X)"
+      "description":"::selection does not work on input elements in Chrome (tested on OS X and Windows XP)"
     }
   ],
   "categories":[
@@ -58,7 +58,8 @@
       "23":"y x",
       "24":"y x",
       "25":"y x",
-      "26":"y x"
+      "26":"y x",
+      "27":"y x"
     },
     "chrome":{
       "4":"y",
@@ -89,7 +90,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"y",
@@ -136,7 +138,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"y"
     },
     "bb":{
       "7":"n",
@@ -162,7 +165,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":69.29,
+  "usage_perc_y":71.68,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

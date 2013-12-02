@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
-      "title":"Shopping cart demo"
+      "url":"http://html5demos.com/drag",
+      "title":"Demo with link blocks"
     },
     {
       "url":"http://docs.webplatform.org/wiki/dom/events/drag",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://html5doctor.com/native-drag-and-drop/",
-      "title":"HTML5 Doctor article"
+      "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
+      "title":"Shopping cart demo"
     },
     {
-      "url":"http://html5demos.com/drag",
-      "title":"Demo with link blocks"
+      "url":"http://html5doctor.com/native-drag-and-drop/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"y",
@@ -97,7 +98,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"y",
@@ -144,7 +146,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"n"
     },
     "bb":{
       "7":"n",
@@ -169,9 +172,9 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData.",
-  "usage_perc_y":62.79,
-  "usage_perc_a":13.65,
+  "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome",
+  "usage_perc_y":64.83,
+  "usage_perc_a":14.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

@@ -225,7 +225,11 @@
         if (error) {
             throw Error('Error: ' + error);
         }
-        data = JSON.parse(data);
+        try {
+            data = JSON.parse(data);
+        } catch(e) {
+            throw Error('Error in file "' + fileName + '": ' + e);
+        }
         var matches = fileName.match(/([a-z0-9-]+)\.json$/);
         if( !matches || matches.length < 2  ) {
             console.log('Skipping file: ' + fileName);

@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/WebSocket",
-      "title":"Wikipedia"
-    },
-    {
-      "url":"http://websocket.org/aboutwebsocket.html",
-      "title":"WebSockets information"
+      "url":"http://updates.html5rocks.com/2011/08/What-s-different-in-the-new-WebSocket-protocol",
+      "title":"Details on newer protocol"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/websocket",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://updates.html5rocks.com/2011/08/What-s-different-in-the-new-WebSocket-protocol",
-      "title":"Details on newer protocol"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-websockets",
       "title":"has.js test"
+    },
+    {
+      "url":"http://websocket.org/aboutwebsocket.html",
+      "title":"WebSockets information"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/WebSocket",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"a",
@@ -101,7 +102,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"n",
@@ -148,7 +150,8 @@
       "3":"n",
       "4":"n",
       "4.1":"n",
-      "4.2-4.3":"n"
+      "4.2-4.3":"n",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -174,8 +177,8 @@
     }
   },
   "notes":"Partial support refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol).",
-  "usage_perc_y":68.47,
-  "usage_perc_a":2.87,
+  "usage_perc_y":67.46,
+  "usage_perc_a":2.62,
   "ucprefix":true,
   "parent":"",
   "keywords":"",

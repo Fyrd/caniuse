@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://svg-wow.org/blog/category/animation/",
-      "title":"Examples on SVG WOW"
-    },
-    {
-      "url":"http://leunen.me/fakesmile/",
-      "title":"JS library to support SMIL in SVG"
+      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
+      "title":"MDN article"
     },
     {
       "url":"https://github.com/madsgraphics/SVGEventListener",
       "title":"Polyfill for SMIL animate events on SVG"
     },
     {
-      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
-      "title":"MDN article"
+      "url":"http://svg-wow.org/blog/category/animation/",
+      "title":"Examples on SVG WOW"
+    },
+    {
+      "url":"http://leunen.me/fakesmile/",
+      "title":"JS library to support SMIL in SVG"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg-smil",
@@ -73,7 +73,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"a",
@@ -104,7 +105,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"p",
@@ -151,7 +153,8 @@
       "3":"y",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"y",
@@ -177,8 +180,8 @@
     }
   },
   "notes":"Partial support in Safari refers to not working in HTML files.",
-  "usage_perc_y":53.77,
-  "usage_perc_a":11.22,
+  "usage_perc_y":54.76,
+  "usage_perc_a":7.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

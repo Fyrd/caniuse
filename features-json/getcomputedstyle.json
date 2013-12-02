@@ -13,21 +13,21 @@
       "title":"Polyfill for IE"
     },
     {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
-      "title":"Demo"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
       "title":"MDN article"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
+      "title":"Demo"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
     "JS API",
-    "CSS3"
+    "CSS3",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -66,7 +66,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "chrome":{
       "4":"a",
@@ -97,7 +98,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "safari":{
       "3.1":"a",
@@ -144,7 +146,8 @@
       "3":"a",
       "4":"y",
       "4.1":"y",
-      "4.2-4.3":"y"
+      "4.2-4.3":"y",
+      "4.4":"y"
     },
     "bb":{
       "7":"a",
@@ -170,8 +173,8 @@
     }
   },
   "notes":"Partial support in older Firefox versions refers to requiring the second parameter to be included. Partial support in all other browsers refers to not supporting getComputedStyle on pseudo-elements.",
-  "usage_perc_y":79.68,
-  "usage_perc_a":5.82,
+  "usage_perc_y":78.53,
+  "usage_perc_a":7,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
