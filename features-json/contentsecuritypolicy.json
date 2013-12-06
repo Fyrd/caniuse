@@ -168,8 +168,8 @@
     }
   },
   "notes":"The HTTP header is 'X-Content-Security-Policy' for Firefox until version 23 and IE10&11, and 'X-Webkit-CSP' for Chrome until version 25 and Safari. 'Content-Security-Policy' is the official W3C defined header, used by Chrome version 25 and later, and Firefox version 23 and later.",
-  "usage_perc_y":55.74,
-  "usage_perc_a":12.68,
+  "usage_perc_y":57,
+  "usage_perc_a":12.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",
