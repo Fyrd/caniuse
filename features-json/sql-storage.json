@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-sql-db",
-      "title":"has.js test"
-    },
-    {
       "url":"http://html5doctor.com/introducing-web-sql-databases/",
       "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-sql-db",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -57,7 +57,8 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"n"
+      "27":"n",
+      "28":"n"
     },
     "chrome":{
       "4":"y",

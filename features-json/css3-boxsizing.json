@@ -5,6 +5,14 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
     },
@@ -13,16 +21,8 @@
       "title":"Polyfill for IE"
     },
     {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://css-tricks.com/box-sizing/",
       "title":"CSS Tricks"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -74,7 +74,8 @@
       "24":"y x",
       "25":"y x",
       "26":"y x",
-      "27":"y x"
+      "27":"y x",
+      "28":"y x"
     },
     "chrome":{
       "4":"a x",

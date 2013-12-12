@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
+      "title":"Mozilla hacks article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
@@ -67,7 +67,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "chrome":{
       "4":"y",

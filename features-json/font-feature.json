@@ -9,16 +9,16 @@
       "title":"Mozilla hacks article"
     },
     {
+      "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
+      "title":"Demo pages (IE/Firefox only)"
+    },
+    {
       "url":"http://html5accessibility.com/",
       "title":"Detailed tables on accessability support"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/font-feature-settings",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
-      "title":"Demo pages (IE/Firefox only)"
     }
   ],
   "bugs":[
@@ -65,7 +65,8 @@
       "24":"y x",
       "25":"y x",
       "26":"y x",
-      "27":"y x"
+      "27":"y x",
+      "28":"y x"
     },
     "chrome":{
       "4":"n",

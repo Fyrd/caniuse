@@ -13,12 +13,12 @@
       "title":"Examples of progress and meter elements"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/progress",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
       "title":"HTML5 Doctor on meter element "
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/progress",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -65,7 +65,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "chrome":{
       "4":"n",

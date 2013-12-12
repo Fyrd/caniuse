@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/webcomponents/template/",
-      "title":"HTML5Rocks - HTML's New template Tag"
-    },
-    {
       "url":"http://polymer-project.org",
       "title":"Polymer project (polyfill & web compontents framework)"
+    },
+    {
+      "url":"http://www.html5rocks.com/en/tutorials/webcomponents/template/",
+      "title":"HTML5Rocks - HTML's New template Tag"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -58,7 +58,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "chrome":{
       "4":"n",

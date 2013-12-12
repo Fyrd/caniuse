@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://www.interoperabilitybridges.com/html5-extension-for-wmp-plugin",
-      "title":"Firefox extension allowing support in Win7"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC",
       "title":"Wikipedia article"
+    },
+    {
+      "url":"http://www.interoperabilitybridges.com/html5-extension-for-wmp-plugin",
+      "title":"Firefox extension allowing support in Win7"
     }
   ],
   "bugs":[
@@ -59,7 +59,8 @@
       "24":"a",
       "25":"a",
       "26":"a",
-      "27":"a"
+      "27":"a",
+      "28":"a"
     },
     "chrome":{
       "4":"y",

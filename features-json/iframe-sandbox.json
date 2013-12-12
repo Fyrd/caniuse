@@ -1,7 +1,7 @@
 {
   "title":"sandbox attribute for iframes",
   "description":"Method of running external site pages with reduced privileges (e.g. no JavaScript) in iframes",
-  "spec":"http://www.w3.org/TR/html5/the-iframe-element.html#attr-iframe-sandbox",
+  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#attr-iframe-sandbox",
   "status":"cr",
   "links":[
     {
@@ -63,7 +63,8 @@
       "24":"a",
       "25":"a",
       "26":"a",
-      "27":"a"
+      "27":"a",
+      "28":"a"
     },
     "chrome":{
       "4":"y",

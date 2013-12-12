@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://webfonts.info",
-      "title":"News and information site"
-    },
-    {
-      "url":"http://en.wikipedia.org/wiki/Web_typography",
-      "title":"Wikipedia"
+      "url":"http://www.css3files.com/font/",
+      "title":"Information page"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@font-face",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.css3files.com/font/",
-      "title":"Information page"
+      "url":"http://en.wikipedia.org/wiki/Web_typography",
+      "title":"Wikipedia"
+    },
+    {
+      "url":"http://webfonts.info",
+      "title":"News and information site"
     }
   ],
   "bugs":[
@@ -67,7 +67,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "chrome":{
       "4":"y",
