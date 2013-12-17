@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/column-width",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/css3-multi-column-layout/",
       "title":"Dev.Opera article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/column-width",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
@@ -19,13 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"In Firefox 17, the property column-span (or -moz-column-span) does not yet work. See the bug 616436 on Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=616436."
-    },
-    {
-      "description":"Column support is removed when attempting to print a page in webkit browsers."
-    },
-    {
-      "description":"In Chrome and Safari a box-shadow on an item is cropped by the column when it spreads beyond it. Firefox does not have this problem."
+      "description":"In Firefox, the property column-span (or -moz-column-span) does not yet work. See the bug 616436 on Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=616436."
     }
   ],
   "categories":[
