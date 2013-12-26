@@ -28,6 +28,9 @@
   "bugs":[
     {
       "description":"IE10 does not send cookies when withCredential=true (<a href=\"https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true\">IE Bug #759587</a>)"
+    },
+    {
+      "description":"IE10+ does not make a CORS request if port is the only difference (<a href=\"http://connect.microsoft.com/IE/feedback/details/781303\">IE Bug #781303</a>)"
     }
   ],
   "categories":[
