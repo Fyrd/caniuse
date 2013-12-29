@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/Polymer/MutationObservers",
-      "title":"Polyfill"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
       "title":"MutationObserver from MDN"
+    },
+    {
+      "url":"https://github.com/Polymer/MutationObservers",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -120,7 +120,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"n",

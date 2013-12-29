@@ -9,16 +9,16 @@
       "title":"Polyfill for IE (single threaded)"
     },
     {
-      "url":"http://nerget.com/rayjs-mt/rayjs.html",
-      "title":"Web Worker demo"
-    },
-    {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-web-workers/",
       "title":"Tutorial"
     },
     {
       "url":"https://developer.mozilla.org/En/Using_web_workers",
       "title":"MDN article"
+    },
+    {
+      "url":"http://nerget.com/rayjs-mt/rayjs.html",
+      "title":"Web Worker demo"
     }
   ],
   "bugs":[
@@ -125,7 +125,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"n",

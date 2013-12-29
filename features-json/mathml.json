@@ -9,16 +9,16 @@
       "title":"Wikipedia"
     },
     {
+      "url":"https://developer.mozilla.org/en/MathML/Element",
+      "title":"MDN element reference"
+    },
+    {
       "url":"http://www.mathjax.org",
       "title":"Cross-browser support script"
     },
     {
       "url":"http://www.mozilla.org/projects/mathml/demo/",
       "title":"MathML demos"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/MathML/Element",
-      "title":"MDN element reference"
     }
   ],
   "bugs":[
@@ -125,7 +125,8 @@
       "15":"p",
       "16":"p",
       "17":"p",
-      "18":"p"
+      "18":"p",
+      "19":"p"
     },
     "ios_saf":{
       "3.2":"p",

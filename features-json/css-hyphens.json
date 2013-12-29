@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/hyphens",
-      "title":"MDN article"
+      "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
+      "title":"Blog post"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/hyphens",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
-      "title":"Blog post"
+      "url":"https://developer.mozilla.org/en/CSS/hyphens",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -121,7 +121,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "19":"n"
     },
     "ios_saf":{
       "3.2":"n",

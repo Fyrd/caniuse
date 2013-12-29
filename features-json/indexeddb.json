@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
-      "title":"has.js test"
+      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
@@ -17,8 +17,8 @@
       "title":"Polyfill for browsers supporting WebSQL"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -127,7 +127,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"n",

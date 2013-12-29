@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://davidwalsh.name/textarea-resize",
-      "title":"On textarea resizing"
-    },
-    {
       "url":"http://css-tricks.com/almanac/properties/r/resize/",
       "title":"CSS Tricks info"
+    },
+    {
+      "url":"http://davidwalsh.name/textarea-resize",
+      "title":"On textarea resizing"
     }
   ],
   "bugs":[
@@ -117,7 +117,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"n",

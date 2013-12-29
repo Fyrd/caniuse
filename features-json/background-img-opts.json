@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/louisremi/background-size-polyfill",
-      "title":"Polyfill for IE7-8"
+      "url":"http://www.standardista.com/css3/css3-background-properties",
+      "title":"Detailed compatibility tables and demos"
     },
     {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
     },
     {
-      "url":"http://www.standardista.com/css3/css3-background-properties",
-      "title":"Detailed compatibility tables and demos"
+      "url":"https://github.com/louisremi/background-size-polyfill",
+      "title":"Polyfill for IE7-8"
     }
   ],
   "bugs":[
@@ -126,7 +126,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"a",

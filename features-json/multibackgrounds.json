@@ -9,12 +9,12 @@
       "title":"Information page"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/background-image",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.css3.info/preview/multiple-backgrounds/",
       "title":"Demo & information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/background-image",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -123,7 +123,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"y",

@@ -17,12 +17,12 @@
       "title":"Codec for IE9 support"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video-webm",
-      "title":"has.js test"
-    },
-    {
       "url":"http://webmproject.org",
       "title":"Officical website"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video-webm",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -129,7 +129,8 @@
       "15":"a",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"n",

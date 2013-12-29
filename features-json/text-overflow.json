@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
       "title":"MDN article"
     },
@@ -23,6 +19,10 @@
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
       "title":"has.js test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -129,7 +129,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"y",

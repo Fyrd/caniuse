@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://quirksmode.org/css/selectors/selection.html",
-      "title":"::selection test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors/pseudo-elements/::selection",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://quirksmode.org/css/selectors/selection.html",
+      "title":"::selection test"
     }
   ],
   "bugs":[
@@ -119,7 +119,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "19":"y"
     },
     "ios_saf":{
       "3.2":"n",
