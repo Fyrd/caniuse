@@ -37,10 +37,10 @@ Currently the following feature information can be modified:
 	* `Canvas`
 	* `DOM`
 	* `Other`
-* **stats** — The collection of support data for a given set of browsers/versions. Only the support value strings can be modified. Values are space-separated characters with these meanings:
-	* `y` - (**Y**)es, supported
+* **stats** — The collection of support data for a given set of browsers/versions. Only the support value strings can be modified. Values are space-separated characters with these meanings, and must answer the question "*Can I use* the feature by default?":
+	* `y` - (**Y**)es, supported by default
 	* `a` - (**A**)lmost supported (aka Partial support)
-	* `n` - (**N**)o support
+	* `n` - (**N**)o support, or disabled by default
 	* `p` - No support, but has (**P**)olyfill
 	* `u` - Support (**u**)nknown
 	* `x` - Requires prefi(**x**) to work 
