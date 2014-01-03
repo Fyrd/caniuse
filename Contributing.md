@@ -43,7 +43,7 @@ Currently the following feature information can be modified:
 	* `n` - (**N**)o support
 	* `p` - No support, but has (**P**)olyfill
 	* `u` - Support (**u**)nknown
-	* `x` - Requires prefi(**x**) to work 
+	* `x` - Requires prefi(**x**) to work
 * **notes** — Notes on feature support, often to explain what partial support refers to
 * **ucprefix** — Prefix should start with an uppercase letter
 * **parent** — ID of parent feature
