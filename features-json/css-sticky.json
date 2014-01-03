@@ -1,23 +1,24 @@
 {
   "title":"CSS position:sticky",
-  "description":"The element is static until it’d be scrolled out of the viewport and then gets fixed",
+  "description":"Keeps elements positioned as \"fixed\" or \"relative\" depending on how it appears in the viewport. As a result the element is \"stuck\" when necessary while scrolling.",
   "spec":"http://dev.w3.org/csswg/css-position-3/#sticky-positioning",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
-      "title":"HTML5Rocks"
+      "url":"http://docs.webplatform.org/wiki/css/properties/position",
+      "title":"WebPlatform Docs"
     },
     {
-      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/position",
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "title":"MDN article"
     },
     {
-      "url": "http://docs.webplatform.org/wiki/css/properties/position",
-      "title":"WebPlatform Docs"
+      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
+      "title":"HTML5Rocks"
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS"
@@ -168,10 +169,10 @@
     }
   },
   "notes":"",
-  "usage_perc_y":83.91,
-  "usage_perc_a":5.77,
+  "usage_perc_y":6.23,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
-  "shown":false
+  "shown":true
 }
