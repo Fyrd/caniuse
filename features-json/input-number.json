@@ -9,16 +9,16 @@
       "title":"Polyfill"
     },
     {
+      "url":"http://www.html5tutorial.info/html5-number.php",
+      "title":"Tutorial"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-number",
       "title":"has.js test"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.html5tutorial.info/html5-number.php",
-      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -173,8 +173,8 @@
     }
   },
   "notes":"iOS Safari, Android 4 and Chrome for Android show number input, but do not use \"step\", \"min\" or \"max\" attributes or show increment/decrement buttons. Internet Explorer 10 does not show increment/decrement buttons.",
-  "usage_perc_y":39.19,
-  "usage_perc_a":20.6,
+  "usage_perc_y":39.49,
+  "usage_perc_a":21.61,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"spinner",

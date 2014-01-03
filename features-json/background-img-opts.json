@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://github.com/louisremi/background-size-polyfill",
+      "title":"Polyfill for IE7-8"
+    },
+    {
       "url":"http://www.standardista.com/css3/css3-background-properties",
       "title":"Detailed compatibility tables and demos"
     },
     {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
-    },
-    {
-      "url":"https://github.com/louisremi/background-size-polyfill",
-      "title":"Polyfill for IE7-8"
     }
   ],
   "bugs":[
@@ -174,8 +174,8 @@
     }
   },
   "notes":"Partial support in Opera Mini refers to not supporting background sizing or background attachments. Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
-  "usage_perc_y":78.82,
-  "usage_perc_a":5.92,
+  "usage_perc_y":79.15,
+  "usage_perc_a":6.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

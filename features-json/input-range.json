@@ -9,10 +9,6 @@
       "title":"Polyfill for Firefox"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
-      "title":"has.js test"
-    },
-    {
       "url":"https://github.com/freqdec/fd-slider",
       "title":"Cross-browser polyfill"
     },
@@ -23,6 +19,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -177,8 +177,8 @@
     }
   },
   "notes":"Currently all Android browsers with partial support hide the slider input field by default. However, the element <a href=\"http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/\">can be styled</a> to be made visible and usable.",
-  "usage_perc_y":69.84,
-  "usage_perc_a":4.56,
+  "usage_perc_y":71.13,
+  "usage_perc_a":5.11,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

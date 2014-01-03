@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
-      "title":"SPDY whitepaper"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/SPDY",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
+      "title":"SPDY whitepaper"
     }
   ],
   "bugs":[
@@ -167,8 +167,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":54.89,
-  "usage_perc_a":1.28,
+  "usage_perc_y":56.66,
+  "usage_perc_a":5.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

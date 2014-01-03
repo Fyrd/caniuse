@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
-      "title":"WebPlatform Docs"
+      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
+      "title":"Mozilla hacks article"
     },
     {
       "url":"http://css3.bradshawenterprises.com/flip/",
       "title":"Multi-browser demo"
     },
     {
-      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
-      "title":"Mozilla hacks article"
+      "url":"http://thewebrocks.com/demos/3D-css-tester/",
+      "title":"3D CSS Tester"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
       "title":"has.js test"
     },
     {
-      "url":"http://thewebrocks.com/demos/3D-css-tester/",
-      "title":"3D CSS Tester"
+      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -177,8 +177,8 @@
     }
   },
   "notes":"Partial support in IE10 refers to not supporting <a href=\"http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property\">the transform-style: preserve-3d property</a>. This prevents nesting 3D transformed elements.",
-  "usage_perc_y":62.56,
-  "usage_perc_a":11.21,
+  "usage_perc_y":64.9,
+  "usage_perc_a":10.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"css 3d,3dtransforms,translate3d,transform3d",

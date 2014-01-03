@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/DOM/Using_the_Page_Visibility_API",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/timing/properties/visibilityState",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/DOM/Using_the_Page_Visibility_API",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -165,7 +165,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":66.47,
+  "usage_perc_y":67.57,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

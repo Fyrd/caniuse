@@ -9,20 +9,20 @@
       "title":"Border-radius CSS Generator"
     },
     {
-      "url":"http://www.css3files.com/border/#borderradius",
-      "title":"Information page"
-    },
-    {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://www.css3files.com/border/#borderradius",
+      "title":"Information page"
+    },
+    {
       "url":"http://css3pie.com/",
       "title":"Polyfill which includes border-radius"
+    },
+    {
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
     }
   ],
   "bugs":[
@@ -185,7 +185,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":81.69,
+  "usage_perc_y":82.04,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
