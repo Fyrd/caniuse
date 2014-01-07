@@ -5,6 +5,14 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://leunen.me/fakesmile/",
+      "title":"JS library to support SMIL in SVG"
+    },
+    {
+      "url":"http://svg-wow.org/blog/category/animation/",
+      "title":"Examples on SVG WOW"
+    },
+    {
       "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
       "title":"MDN article"
     },
@@ -15,14 +23,6 @@
     {
       "url":"https://github.com/madsgraphics/SVGEventListener",
       "title":"Polyfill for SMIL animate events on SVG"
-    },
-    {
-      "url":"http://leunen.me/fakesmile/",
-      "title":"JS library to support SMIL in SVG"
-    },
-    {
-      "url":"http://svg-wow.org/blog/category/animation/",
-      "title":"Examples on SVG WOW"
     }
   ],
   "bugs":[
