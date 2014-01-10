@@ -5,6 +5,14 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/css/properties/transition",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.webdesignerdepot.com/2010/01/css-transitions-101/",
+      "title":"Article on usage"
+    },
+    {
       "url":"http://www.the-art-of-web.com/css/timing-function/",
       "title":"Examples on timing functions"
     },
@@ -15,14 +23,6 @@
     {
       "url":"http://www.css3files.com/transition/",
       "title":"Information page"
-    },
-    {
-      "url":"http://www.webdesignerdepot.com/2010/01/css-transitions-101/",
-      "title":"Article on usage"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/transition",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -132,7 +132,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"y x",

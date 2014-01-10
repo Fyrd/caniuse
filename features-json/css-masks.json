@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/masking/adobe/",
       "title":"HTML5 Rocks article"
     },
     {
       "url":"http://thenittygritty.co/css-masking",
       "title":"Detailed blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/mask",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -122,7 +122,8 @@
       "16":"a x",
       "17":"a x",
       "18":"a x",
-      "19":"a x"
+      "19":"a x",
+      "20":"a x"
     },
     "ios_saf":{
       "3.2":"a x",

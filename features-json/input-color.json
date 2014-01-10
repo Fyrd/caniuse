@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/jonstipe/color-polyfill",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://www.html5tutorial.info/html5-color.php",
       "title":"Tutorial"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/color",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/jonstipe/color-polyfill",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -122,7 +122,8 @@
       "16":"n",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"n",

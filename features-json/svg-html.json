@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/Applying_SVG_effects_to_HTML_content",
-      "title":"MDN Reference page"
-    },
-    {
       "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
       "title":"MDN Tutorial"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/Applying_SVG_effects_to_HTML_content",
+      "title":"MDN Reference page"
     },
     {
       "url":"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html",
@@ -122,7 +122,8 @@
       "16":"a",
       "17":"a",
       "18":"a",
-      "19":"a"
+      "19":"a",
+      "20":"a"
     },
     "ios_saf":{
       "3.2":"a",

@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
+      "title":"MDN article"
+    },
+    {
       "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
       "title":"Mozilla Hacks article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/functions/calc",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -23,6 +23,9 @@
     },
     {
       "description":"Chrome does not support viewport units in calc() expressions."
+    },
+    {
+      "description":"calc() does not work within translate/translateX on Internet Explorer 11: http://jsfiddle.net/Y5x93/\r\nIt does work in Firefox 25+ and Chrome 31+ with the -webkit- prefix."
     }
   ],
   "categories":[
@@ -127,7 +130,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"n",

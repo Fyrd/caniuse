@@ -5,16 +5,16 @@
   "status":"other",
   "links":[
     {
+      "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
+      "title":"Data URL converter"
+    },
+    {
       "url":"http://css-tricks.com/5970-data-uris/",
       "title":"Information page"
     },
     {
       "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
       "title":"Wikipedia"
-    },
-    {
-      "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
-      "title":"Data URL converter"
     }
   ],
   "bugs":[
@@ -122,7 +122,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"y",

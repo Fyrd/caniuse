@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/file/FileReader",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/FileReader",
       "title":"FileReader API"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/file/FileReader",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -118,7 +118,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"n",

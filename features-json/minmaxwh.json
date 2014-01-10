@@ -5,21 +5,24 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://www.impressivewebs.com/min-max-width-height-css/",
+      "title":"CSS Basics post"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/min-width",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://code.google.com/p/ie7-js/",
       "title":"JS library with support"
-    },
-    {
-      "url":"http://www.impressivewebs.com/min-max-width-height-css/",
-      "title":"CSS Basics post"
     }
   ],
   "bugs":[
     {
       "description":"IE7 doesn't support min-width on input button/submit button/reset button."
+    },
+    {
+      "description":"Safari on iOS 5.1 does not support \"min-width\" on table elements."
     }
   ],
   "categories":[
@@ -124,7 +127,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"y",

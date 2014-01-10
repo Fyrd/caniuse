@@ -9,12 +9,12 @@
       "title":"Information page"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/repeating-linear-gradient",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -124,7 +124,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"n",

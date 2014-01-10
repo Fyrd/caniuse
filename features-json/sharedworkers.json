@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://www.sitepoint.com/javascript-shared-web-workers-html5/",
       "title":"Sitepoint article"
+    },
+    {
+      "url":"http://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -118,7 +118,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"n",

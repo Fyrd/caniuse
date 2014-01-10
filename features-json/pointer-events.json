@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://robertnyman.com/2010/03/22/css-pointer-events-to-allow-clicks-on-underlying-elements/",
-      "title":"Article & tutorial"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-pointerevents",
       "title":"has.js test"
+    },
+    {
+      "url":"http://robertnyman.com/2010/03/22/css-pointer-events-to-allow-clicks-on-underlying-elements/",
+      "title":"Article & tutorial"
     }
   ],
   "bugs":[
@@ -123,7 +123,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"y",

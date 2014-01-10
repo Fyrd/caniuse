@@ -9,12 +9,12 @@
       "title":"Blog post"
     },
     {
-      "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/timing/methods/requestAnimationFrame",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
@@ -124,7 +124,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"n",

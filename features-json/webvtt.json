@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/track/basics/",
-      "title":"Getting Started With the Track Element"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/an-introduction-to-webvtt-and-track/",
       "title":"An Introduction to WebVTT and &lt;track>"
+    },
+    {
+      "url":"http://www.html5rocks.com/en/tutorials/track/basics/",
+      "title":"Getting Started With the Track Element"
     }
   ],
   "bugs":[
@@ -118,7 +118,8 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "19":"y"
+      "19":"y",
+      "20":"y"
     },
     "ios_saf":{
       "3.2":"n",
