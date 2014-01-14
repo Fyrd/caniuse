@@ -22,6 +22,9 @@
     },
     {
       "description":"Viewport units don't work on WebKit for fonts after resizing the window."
+    },
+    {
+      "description":"iOS 6-7 has a problem with <a href=\"https://github.com/scottjehl/Device-Bugs/issues/36\">viewport units and height</a>."
     }
   ],
   "categories":[
