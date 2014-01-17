@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://www.mathjax.org",
+      "title":"Cross-browser support script"
+    },
+    {
       "url":"http://en.wikipedia.org/wiki/MathML",
       "title":"Wikipedia"
     },
@@ -15,10 +19,6 @@
     {
       "url":"https://developer.mozilla.org/en/MathML/Element",
       "title":"MDN element reference"
-    },
-    {
-      "url":"http://www.mathjax.org",
-      "title":"Cross-browser support script"
     }
   ],
   "bugs":[

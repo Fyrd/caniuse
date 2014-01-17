@@ -5,10 +5,6 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://html5demos.com/storage",
-      "title":"Simple demo"
-    },
-    {
       "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
     },
@@ -19,6 +15,10 @@
     {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
+    },
+    {
+      "url":"http://html5demos.com/storage",
+      "title":"Simple demo"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/web-storage/Storage/localStorage",

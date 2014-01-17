@@ -5,12 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.css3files.com/border/#borderradius",
-      "title":"Information page"
-    },
-    {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
+      "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://border-radius.com",
@@ -21,8 +17,12 @@
       "title":"Polyfill which includes border-radius"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
-      "title":"WebPlatform Docs"
+      "url":"http://www.css3files.com/border/#borderradius",
+      "title":"Information page"
+    },
+    {
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
     }
   ],
   "bugs":[
@@ -34,6 +34,9 @@
     },
     {
       "description":"The stock browser on the Samsung Galaxy S4 with Android 4.2 does not support the \"border-radius\" shorthand property but does support the long-hand properties for each corner like \"border-top-left-radius\"."
+    },
+    {
+      "description":"Safari does not apply border-radius correctly to image borders: http://stackoverflow.com/questions/17202128/rounded-cornes-border-radius-safari-issue"
     }
   ],
   "categories":[
