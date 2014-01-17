@@ -5,12 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
+      "title":"has.js test"
+    },
+    {
       "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
-      "title":"has.js test"
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
     },
     {
       "url":"http://glimr.rubyforge.org/cake/canvas.html",
@@ -23,10 +27,6 @@
     {
       "url":"http://explorercanvas.googlecode.com/",
       "title":"Implementation for Internet Explorer"
-    },
-    {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
     }
   ],
   "bugs":[

@@ -5,16 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/elements/datalist",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://demo.agektmr.com/datalist/",
-      "title":"Eiji Kitamura's options demos & tests"
     },
     {
       "url":"http://afarkas.github.com/webshim/demos/",
@@ -25,8 +17,16 @@
       "title":"Minimal Datalist polyfill w/tutorial"
     },
     {
+      "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
+      "title":"Mozilla Hacks article"
+    },
+    {
       "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
       "title":"MDN reference"
+    },
+    {
+      "url":"http://demo.agektmr.com/datalist/",
+      "title":"Eiji Kitamura's options demos & tests"
     }
   ],
   "bugs":[

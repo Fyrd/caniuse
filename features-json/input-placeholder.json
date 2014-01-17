@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://github.com/mathiasbynens/jquery-placeholder",
+      "title":"Polyfill"
+    },
+    {
       "url":"http://www.zachleat.com/web/placeholder/",
       "title":"Article on usage"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/placeholder",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://github.com/mathiasbynens/jquery-placeholder",
-      "title":"Polyfill"
     }
   ],
   "bugs":[

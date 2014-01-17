@@ -90,8 +90,8 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"n",
-      "34":"n"
+      "33":"y",
+      "34":"y"
     },
     "safari":{
       "3.1":"n",
@@ -166,8 +166,8 @@
       "10":"n"
     }
   },
-  "notes":"Chrome does not support Opus by default but users can enable it via the 'enable-opus-playback' flag. When it comes to Opera, it is said that the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
-  "usage_perc_y":14.34,
+  "notes":"For Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
+  "usage_perc_y":14.56,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"audio",
