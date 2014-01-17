@@ -34,7 +34,10 @@
     },
     {
       "description":"The stock browser on the Samsung Galaxy S4 with Android 4.2 does not support the \"border-radius\" shorthand property but does support the long-hand properties for each corner like \"border-top-left-radius\"."
-    }
+    },
+    {
+      "description":"Safari does not apply border-radius correctly to image borders: http://stackoverflow.com/questions/17202128/rounded-cornes-border-radius-safari-issue"
+    },
   ],
   "categories":[
     "CSS3"
