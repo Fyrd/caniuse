@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
+      "title":"MDN article"
+    },
+    {
       "url":"http://www.css3files.com/shadow/",
       "title":"Information page"
     },
     {
       "url":"http://westciv.com/tools/boxshadows/index.html",
       "title":"Live editor"
-    },
-    {
-      "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
-      "title":"MDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
@@ -75,7 +75,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y x",
@@ -108,7 +109,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"a x",

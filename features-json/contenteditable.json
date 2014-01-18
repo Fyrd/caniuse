@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/contentEditable",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html5demos.com/contenteditable",
-      "title":"Demo page"
+      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
+      "title":"Blog post on usage problems"
     },
     {
       "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
       "title":"WHATWG blog post"
     },
     {
-      "url":"http://accessgarage.wordpress.com/2009/05/08/how-to-hack-your-app-to-make-contenteditable-work/",
-      "title":"Blog post on usage problems"
+      "url":"http://docs.webplatform.org/wiki/html/attributes/contentEditable",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://html5demos.com/contenteditable",
+      "title":"Demo page"
     }
   ],
   "bugs":[
@@ -74,7 +74,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y",
@@ -107,7 +108,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"y",

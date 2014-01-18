@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/mathiasbynens/jquery-placeholder",
-      "title":"Polyfill"
+      "url":"http://docs.webplatform.org/wiki/html/attributes/placeholder",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.zachleat.com/web/placeholder/",
       "title":"Article on usage"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
-      "title":"has.js test"
+      "url":"https://github.com/mathiasbynens/jquery-placeholder",
+      "title":"Polyfill"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/placeholder",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y",
@@ -99,7 +100,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"a",

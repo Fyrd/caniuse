@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://peter.sh/examples/?/html/meter-progress.html",
-      "title":"Examples of progress and meter elements"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/new-form-features-in-HTML5/#newoutput",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/elements/progress",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
       "title":"HTML5 Doctor on meter element "
+    },
+    {
+      "url":"http://peter.sh/examples/?/html/meter-progress.html",
+      "title":"Examples of progress and meter elements"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/new-form-features-in-HTML5/#newoutput",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"n",
@@ -99,7 +100,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"n",

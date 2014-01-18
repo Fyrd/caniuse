@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
+      "title":"has.js test"
     },
     {
       "url":"https://github.com/zoltan-dulac/html5Forms.js",
       "title":"Polyfill for HTML5 forms"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
-      "title":"has.js test"
-    },
-    {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
       "title":"Datepicker tutorial w/polyfill"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"n"
+      "28":"n",
+      "29":"n"
     },
     "chrome":{
       "4":"n",
@@ -99,7 +100,8 @@
       "31":"a",
       "32":"a",
       "33":"a",
-      "34":"a"
+      "34":"a",
+      "35":"a"
     },
     "safari":{
       "3.1":"n",

@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://github.com/freqdec/fd-slider",
+      "title":"Cross-browser polyfill"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
       "title":"WebPlatform Docs"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
       "title":"Tutorial"
-    },
-    {
-      "url":"https://github.com/freqdec/fd-slider",
-      "title":"Cross-browser polyfill"
     },
     {
       "url":"https://github.com/fryn/html5slider",
@@ -70,7 +70,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"u",
@@ -103,7 +104,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"y",

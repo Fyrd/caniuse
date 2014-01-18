@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-orientation",
       "title":"has.js test"
     },
     {
       "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
       "title":"DeviceOrientation implementation prototype for IE10"
+    },
+    {
+      "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
+      "title":"HTML5 Rocks tutorial"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "25":"a",
       "26":"a",
       "27":"a",
-      "28":"a"
+      "28":"a",
+      "29":"a"
     },
     "chrome":{
       "4":"n",
@@ -103,7 +104,8 @@
       "31":"a",
       "32":"a",
       "33":"a",
-      "34":"a"
+      "34":"a",
+      "35":"a"
     },
     "safari":{
       "3.1":"n",

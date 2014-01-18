@@ -5,8 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
+      "title":"Article on using the latest spec"
+    },
+    {
       "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
       "title":"A Complete Guide to Flexbox"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
+      "title":"Tutorial on cross-browser support"
     },
     {
       "url":"http://bennettfeely.com/flexplorer/",
@@ -15,14 +23,6 @@
     {
       "url":"http://philipwalton.github.io/solved-by-flexbox/",
       "title":"Examples on how to solve common layout problems with flexbox"
-    },
-    {
-      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
-      "title":"Article on using the latest spec"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
-      "title":"Tutorial on cross-browser support"
     }
   ],
   "bugs":[
@@ -81,7 +81,8 @@
       "25":"a #3",
       "26":"a #3",
       "27":"a #3",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -114,7 +115,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"a x #1",

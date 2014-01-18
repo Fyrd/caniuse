@@ -9,16 +9,16 @@
       "title":"MDN Article"
     },
     {
+      "url":"http://dabblet.com/gist/3895764",
+      "title":"Test case"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://mcc.id.au/blog/2012/08/supports",
       "title":"@supports in Firefox"
-    },
-    {
-      "url":"http://dabblet.com/gist/3895764",
-      "title":"Test case"
     }
   ],
   "bugs":[
@@ -68,7 +68,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"n",
@@ -101,7 +102,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"n",

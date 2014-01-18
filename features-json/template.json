@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://polymer-project.org",
-      "title":"Polymer project (polyfill & web compontents framework)"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/webcomponents/template/",
       "title":"HTML5Rocks - HTML's New template Tag"
+    },
+    {
+      "url":"http://polymer-project.org",
+      "title":"Polymer project (polyfill & web compontents framework)"
     }
   ],
   "bugs":[
@@ -59,7 +59,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"n",
@@ -92,7 +93,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"n",

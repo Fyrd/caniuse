@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5accessibility.com/",
-      "title":"Detailed tables on accessability support"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/Graphics/opentype/",
       "title":"Demo pages (IE/Firefox only)"
+    },
+    {
+      "url":"http://html5accessibility.com/",
+      "title":"Detailed tables on accessability support"
     },
     {
       "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
@@ -66,7 +66,8 @@
       "25":"y x",
       "26":"y x",
       "27":"y x",
-      "28":"y x"
+      "28":"y x",
+      "29":"y x"
     },
     "chrome":{
       "4":"n",
@@ -99,7 +100,8 @@
       "31":"y x",
       "32":"y x",
       "33":"y x",
-      "34":"y x"
+      "34":"y x",
+      "35":"y x"
     },
     "safari":{
       "3.1":"n",

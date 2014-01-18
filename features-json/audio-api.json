@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/webaudio",
-      "title":"WebPlatform Docs"
+      "url":"https://github.com/corbanbrook/audionode.js",
+      "title":"Polyfill to support Web Audio API in Firefox"
     },
     {
       "url":"http://www.doboism.com/projects/webaudio-compatibility/",
       "title":"Additional browser compatibility tests for specific features"
     },
     {
-      "url":"https://github.com/corbanbrook/audionode.js",
-      "title":"Polyfill to support Web Audio API in Firefox"
+      "url":"http://docs.webplatform.org/wiki/apis/webaudio",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://github.com/g200kg/WAAPISim",
@@ -68,7 +68,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"n",
@@ -101,7 +102,8 @@
       "31":"y x",
       "32":"y x",
       "33":"y x",
-      "34":"y x"
+      "34":"y x",
+      "35":"y x"
     },
     "safari":{
       "3.1":"n",

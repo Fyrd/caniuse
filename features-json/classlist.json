@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"https://github.com/eligrey/classList.js",
       "title":"Polyfill script"
     },
     {
       "url":"http://docs.webplatform.org/wiki/dom/Element/classList",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
@@ -26,8 +26,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -68,7 +68,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"p",
@@ -101,7 +102,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"p",

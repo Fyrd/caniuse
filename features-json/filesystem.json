@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/file/filesystem/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/filesystem",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.html5rocks.com/en/tutorials/file/filesystem/",
+      "title":"HTML5 Rocks tutorial"
     }
   ],
   "bugs":[
@@ -58,7 +58,8 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"n"
+      "28":"n",
+      "29":"n"
     },
     "chrome":{
       "4":"n",
@@ -91,7 +92,8 @@
       "31":"y x",
       "32":"y x",
       "33":"y x",
-      "34":"y x"
+      "34":"y x",
+      "35":"y x"
     },
     "safari":{
       "3.1":"n",

@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://selectivizr.com",
+      "title":"Selectivizr: Polyfill for IE6-8"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.quirksmode.org/css/selectors/",
       "title":"Detailed support information"
-    },
-    {
-      "url":"http://selectivizr.com",
-      "title":"Selectivizr: Polyfill for IE6-8"
     },
     {
       "url":"http://www.css3.info/selectors-test/",
@@ -66,7 +66,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y",
@@ -99,7 +100,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"n",

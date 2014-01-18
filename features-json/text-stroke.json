@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.westciv.com/tools/textStroke/",
-      "title":"Live editor"
-    },
-    {
       "url":"http://css-tricks.com/7405-adding-stroke-to-web-text/",
       "title":"Information & workarounds"
+    },
+    {
+      "url":"http://www.westciv.com/tools/textStroke/",
+      "title":"Live editor"
     }
   ],
   "bugs":[
@@ -58,7 +58,8 @@
       "25":"n",
       "26":"n",
       "27":"u",
-      "28":"u"
+      "28":"u",
+      "29":"u"
     },
     "chrome":{
       "4":"y x",
@@ -91,7 +92,8 @@
       "31":"y x",
       "32":"y x",
       "33":"y x",
-      "34":"y x"
+      "34":"y x",
+      "35":"y x"
     },
     "safari":{
       "3.1":"y x",

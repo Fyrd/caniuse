@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
-      "title":"has.js test"
-    },
-    {
       "url":"http://addyosmani.github.com/jQuery-contextMenu/",
       "title":"jQuery polyfill"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
+      "title":"has.js test"
     },
     {
       "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
@@ -62,7 +62,8 @@
       "25":"a",
       "26":"a",
       "27":"a",
-      "28":"a"
+      "28":"a",
+      "29":"a"
     },
     "chrome":{
       "4":"n",
@@ -95,7 +96,8 @@
       "31":"n",
       "32":"n",
       "33":"u",
-      "34":"u"
+      "34":"u",
+      "35":"u"
     },
     "safari":{
       "3.1":"n",

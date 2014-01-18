@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/word-break",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/word-break",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/word-break",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -58,7 +58,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"a",
@@ -91,7 +92,8 @@
       "31":"a",
       "32":"a",
       "33":"a",
-      "34":"a"
+      "34":"a",
+      "35":"a"
     },
     "safari":{
       "3.1":"a",

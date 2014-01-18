@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
-      "title":"MDN tutorial"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/media_queries/apis/matchMedia",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/Using_media_queries_from_code",
+      "title":"MDN tutorial"
     },
     {
       "url":"https://github.com/paulirish/matchMedia.js/",
@@ -25,8 +25,8 @@
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -67,7 +67,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"n",
@@ -100,7 +101,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"n",

@@ -5,10 +5,6 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://code.google.com/p/svgweb/",
-      "title":"SVG Web: Flash-based polyfill"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
       "title":"Wikipedia"
     },
@@ -21,12 +17,16 @@
       "title":"SVG showcase site"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
-      "title":"has.js test"
-    },
-    {
       "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
       "title":"A List Apart article"
+    },
+    {
+      "url":"http://code.google.com/p/svgweb/",
+      "title":"SVG Web: Flash-based polyfill"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -79,7 +79,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y",
@@ -112,7 +113,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"a",

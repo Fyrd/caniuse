@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.css3.info/preview/multiple-backgrounds/",
-      "title":"Demo & information page"
-    },
-    {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/background-image",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.css3.info/preview/multiple-backgrounds/",
+      "title":"Demo & information page"
     }
   ],
   "bugs":[
@@ -64,7 +64,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y",
@@ -97,7 +98,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"y",

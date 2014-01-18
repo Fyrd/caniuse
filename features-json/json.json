@@ -5,20 +5,20 @@
   "status":"other",
   "links":[
     {
-      "url":"http://www.json.org/js.html",
-      "title":"JSON in JS (includes script w/support)"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/json",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/En/Using_native_JSON",
       "title":"MDN article"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/json.js#json",
       "title":"has.js test"
+    },
+    {
+      "url":"http://www.json.org/js.html",
+      "title":"JSON in JS (includes script w/support)"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/json",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -66,7 +66,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y",
@@ -99,7 +100,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"n",

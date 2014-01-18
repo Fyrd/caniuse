@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.westciv.com/style_master/academy/css_tutorial/advanced/generated_content.html",
-      "title":"Guide on usage"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://dev.opera.com/articles/view/css-generated-content-techniques/",
       "title":"Dev.Opera article"
+    },
+    {
+      "url":"http://www.westciv.com/style_master/academy/css_tutorial/advanced/generated_content.html",
+      "title":"Guide on usage"
     }
   ],
   "bugs":[
@@ -23,8 +23,8 @@
     }
   ],
   "categories":[
-    "CSS3",
-    "CSS2"
+    "CSS2",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -65,7 +65,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "chrome":{
       "4":"y",
@@ -98,7 +99,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "safari":{
       "3.1":"y",
