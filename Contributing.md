@@ -1,7 +1,9 @@
 # Contributing to the caniuse data
 
-The features-json directory includes JSON files for every feature found on the caniuse.com website.
+The `features-json` directory includes JSON files for every feature found on [the caniuse.com website](http://caniuse.com/).
 Maintaining these files on GitHub allows anyone to update or contribute to the support data on the site.
+
+**Note:** when submitting a patch, don’t modify the minified `data.json` file in the root — that is done automatically. Only modify the contents of the `features-json` directory.
 
 ## How it works
 
