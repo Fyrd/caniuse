@@ -36,8 +36,8 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"a",
-      "10":"a",
+      "9":"a #2",
+      "10":"a #1",
       "11":"y"
     },
     "firefox":{
@@ -89,12 +89,12 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"a",
-      "21":"a",
-      "22":"a",
-      "23":"a",
-      "24":"a",
-      "25":"a",
+      "20":"a #1",
+      "21":"a #1",
+      "22":"a #1",
+      "23":"a #1",
+      "24":"a #1",
+      "25":"a #1",
       "26":"y",
       "27":"y",
       "28":"y",
@@ -112,7 +112,7 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"a",
+      "6":"a #1",
       "6.1":"y",
       "7":"y"
     },
@@ -140,8 +140,8 @@
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
-      "6.0-6.1":"a",
-      "7.0":"y"
+      "6.0-6.1":"a #1",
+      "7.0":"a #3"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -158,7 +158,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"a"
+      "10":"a #1"
     },
     "op_mob":{
       "10":"n",
@@ -176,12 +176,12 @@
       "0":"y"
     },
     "ie_mob":{
-      "10":"a"
+      "10":"a #1"
     }
   },
-  "notes":"Partial support in IE9 refers to supporting \"vm\" instead of \"vmin\". All other partial support refers to not supporting the \"vmax\" unit.",
-  "usage_perc_y":59.62,
-  "usage_perc_a":11.1,
+  "notes":"Partial support in IE9 refers to supporting \"vm\" instead of \"vmin\". Partial support in iOS7 is due to buggy behavior of the vh unit. All other partial support refers to not supporting the \"vmax\" unit. ",
+  "usage_perc_y":56.12,
+  "usage_perc_a":14.6,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage",

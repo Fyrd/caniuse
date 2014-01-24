@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://bennettfeely.com/flexplorer/",
-      "title":"Flexbox CSS generator"
-    },
-    {
       "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
       "title":"Article on using the latest spec"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
       "title":"Tutorial on cross-browser support"
+    },
+    {
+      "url":"http://bennettfeely.com/flexplorer/",
+      "title":"Flexbox CSS generator"
     },
     {
       "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
@@ -37,6 +37,9 @@
     },
     {
       "description":"In IE10 and IE11, containers with `display: flex` and `flex-direction: column` will not properly calculate their flexed childrens' sizes if the container has `min-height` but no explicit `height` property. <a href=\"https://connect.microsoft.com/IE/feedback/details/802625/min-height-and-flexbox-flex-direction-column-dont-work-together-in-ie-10-11-preview\">See bug</a>."
+    },
+    {
+      "description":"In Chrome and Safari, the height of (non flex) children are not recognized in percentages. However Firefox and IE recognize and scale the children based on percentage heights."
     }
   ],
   "categories":[
