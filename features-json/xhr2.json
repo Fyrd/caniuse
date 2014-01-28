@@ -24,6 +24,9 @@
     {
       "description":"Firefox 3.5 and 3.6 partial support refers to only including support for the progress event."
     }
+    {
+      "description":"WebKit older than 535 (r103502) does not implement the onloadend event"
+    }
   ],
   "categories":[
     "DOM",
