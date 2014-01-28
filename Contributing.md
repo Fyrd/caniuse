@@ -54,7 +54,7 @@ Currently the following feature information can be modified:
 
 ## Adding a feature
 
-To add a feature, simply add another JSON file to the directory with the base file name as the feature ID (only alphanumeric characters and hyphens please). If you want to submit a feature but don't have all information available for it yet, make sure you set the "shown" flag to false.
+To add a feature, simply add another JSON file, following the [example](/sample-data.json), to the `features-json` directory with the base file name as the feature ID (only alphanumeric characters and hyphens please). If you want to submit a feature but don't have all information available for it yet, make sure you set the "shown" flag to false.
 
 ## Unsupported changes
 
