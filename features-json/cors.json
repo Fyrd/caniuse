@@ -19,6 +19,10 @@
     {
       "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
       "title":"Alternative implementation by IE8"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx",
+      "title":"XDomainRequest - Restrictions, Limitations and Workarounds"
     }
   ],
   "bugs":[
@@ -27,6 +31,9 @@
     },
     {
       "description":"IE10+ does not make a CORS request if port is the only difference (<a href=\"http://connect.microsoft.com/IE/feedback/details/781303\">IE Bug #781303</a>)"
+    },
+    {
+      "description":"IE8 not supported in InPrivate Browsing mode (<a href=\"blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx\">IEInternals blog post from IE team</a>)"
     }
   ],
   "categories":[
