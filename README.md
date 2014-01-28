@@ -9,5 +9,5 @@ The data in this repo is available for use under a CC BY 3.0 license (http://cre
 Thanks,
 
 Alexis Deveria
-http://caniuse.com
-http://a.deveria.com
+<br>http://caniuse.com
+<br>http://a.deveria.com
