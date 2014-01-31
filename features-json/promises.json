@@ -1,24 +1,24 @@
 {
   "title":"Promises",
   "description":"A promise represents the eventual result of an asynchronous operation.",
-  "spec":"https://github.com/domenic/promises-unwrapping",
+  "spec":"https://people.mozilla.org/~jorendorff/es6-draft.html#sec-promise-objects",
   "status":"other",
   "links":[
     {
-      "url":"https://github.com/jakearchibald/ES6-Promises",
-      "title":"A polyfill for ES6-style Promises"
-    },
-    {
-      "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
-      "title":"JavaScript Promises: There and back again - HTML5 Rocks"
+      "url":"http://promises-aplus.github.io/promises-spec/",
+      "title":"Promises/A+ spec"
     },
     {
       "url":"http://www.chromestatus.com/features/5681726336532480",
       "title":"Chromium dashboard - ES6 Promises"
     },
     {
-      "url":"http://promises-aplus.github.io/promises-spec/",
-      "title":"Promises/A+ spec"
+      "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
+      "title":"JavaScript Promises: There and back again - HTML5 Rocks"
+    },
+    {
+      "url":"https://github.com/jakearchibald/ES6-Promises",
+      "title":"A polyfill for ES6-style Promises"
     }
   ],
   "bugs":[
@@ -66,9 +66,9 @@
       "24":"p",
       "25":"p",
       "26":"p",
-      "27":"p",
-      "28":"p",
-      "29":"p"
+      "27":"a",
+      "28":"a",
+      "29":"y"
     },
     "chrome":{
       "4":"p",
@@ -99,7 +99,7 @@
       "29":"p",
       "30":"p",
       "31":"p",
-      "32":"y",
+      "32":"a",
       "33":"y",
       "34":"y",
       "35":"y"
@@ -130,7 +130,7 @@
       "16":"p",
       "17":"p",
       "18":"p",
-      "19":"y",
+      "19":"a",
       "20":"y"
     },
     "ios_saf":{
@@ -168,18 +168,18 @@
       "0":"p"
     },
     "and_chr":{
-      "0":"p"
+      "0":"a"
     },
     "and_ff":{
-      "0":"p"
+      "0":"a"
     },
     "ie_mob":{
       "10":"p"
     }
   },
   "notes":"",
-  "usage_perc_y":0.74,
-  "usage_perc_a":0,
+  "usage_perc_y":0.21,
+  "usage_perc_a":2.61,
   "ucprefix":false,
   "parent":"",
   "keywords":"futures",
