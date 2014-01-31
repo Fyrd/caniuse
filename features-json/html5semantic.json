@@ -1,17 +1,9 @@
 {
   "title":"New semantic elements",
-  "description":"HTML5 offers some new elements, primarily for semantic purposes. The elements include: section, article, aside, header, footer, nav, figure, figcaption, time, mark.",
+  "description":"HTML5 offers some new elements, primarily for semantic purposes. The elements include: section, article, aside, header, footer, nav, figure, figcaption, time, mark, main.",
   "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html#sections",
   "status":"wd",
   "links":[
-    {
-      "url":"http://oli.jp/2009/html5-structure3/",
-      "title":"Article on structural elements"
-    },
-    {
-      "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
-      "title":"Workaround for IE"
-    },
     {
       "url":"http://blog.whatwg.org/styling-ie-noscript",
       "title":"Alternate workaround"
@@ -19,6 +11,14 @@
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
       "title":"has.js test"
+    },
+    {
+      "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
+      "title":"Workaround for IE"
+    },
+    {
+      "url":"http://oli.jp/2009/html5-structure3/",
+      "title":"Article on structural elements"
     }
   ],
   "bugs":[
@@ -33,32 +33,32 @@
       "6":"p",
       "7":"p",
       "8":"p",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "9":"y #1",
+      "10":"y #1",
+      "11":"y #1"
     },
     "firefox":{
       "2":"n",
-      "3":"a",
-      "3.5":"a",
-      "3.6":"a",
-      "4":"y",
-      "5":"y",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y",
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
+      "3":"a #1",
+      "3.5":"a #1",
+      "3.6":"a #1",
+      "4":"y #1",
+      "5":"y #1",
+      "6":"y #1",
+      "7":"y #1",
+      "8":"y #1",
+      "9":"y #1",
+      "10":"y #1",
+      "11":"y #1",
+      "12":"y #1",
+      "13":"y #1",
+      "14":"y #1",
+      "15":"y #1",
+      "16":"y #1",
+      "17":"y #1",
+      "18":"y #1",
+      "19":"y #1",
+      "20":"y #1",
       "21":"y",
       "22":"y",
       "23":"y",
@@ -70,28 +70,28 @@
       "29":"y"
     },
     "chrome":{
-      "4":"a",
-      "5":"a",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y",
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
+      "4":"a #1",
+      "5":"a #1",
+      "6":"y #1",
+      "7":"y #1",
+      "8":"y #1",
+      "9":"y #1",
+      "10":"y #1",
+      "11":"y #1",
+      "12":"y #1",
+      "13":"y #1",
+      "14":"y #1",
+      "15":"y #1",
+      "16":"y #1",
+      "17":"y #1",
+      "18":"y #1",
+      "19":"y #1",
+      "20":"y #1",
+      "21":"y #1",
+      "22":"y #1",
+      "23":"y #1",
+      "24":"y #1",
+      "25":"y #1",
       "26":"y",
       "27":"y",
       "28":"y",
@@ -104,27 +104,27 @@
       "35":"y"
     },
     "safari":{
-      "3.1":"a",
-      "3.2":"a",
-      "4":"a",
-      "5":"y",
-      "5.1":"y",
-      "6":"y",
+      "3.1":"a #1",
+      "3.2":"a #1",
+      "4":"a #1",
+      "5":"y #1",
+      "5.1":"y #1",
+      "6":"y #1",
       "6.1":"y",
       "7":"y"
     },
     "opera":{
-      "9":"a",
-      "9.5-9.6":"a",
-      "10.0-10.1":"a",
-      "10.5":"a",
-      "10.6":"a",
-      "11":"a",
-      "11.1":"y",
-      "11.5":"y",
-      "11.6":"y",
-      "12":"y",
-      "12.1":"y",
+      "9":"a #1",
+      "9.5-9.6":"a #1",
+      "10.0-10.1":"a #1",
+      "10.5":"a #1",
+      "10.6":"a #1",
+      "11":"a #1",
+      "11.1":"y #1",
+      "11.5":"y #1",
+      "11.6":"y #1",
+      "12":"y #1",
+      "12.1":"y #1",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -133,37 +133,37 @@
       "20":"y"
     },
     "ios_saf":{
-      "3.2":"a",
-      "4.0-4.1":"y",
-      "4.2-4.3":"y",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
+      "3.2":"a #1",
+      "4.0-4.1":"y #1",
+      "4.2-4.3":"y #1",
+      "5.0-5.1":"y #1",
+      "6.0-6.1":"y #1",
       "7.0":"y"
     },
     "op_mini":{
-      "5.0-7.0":"a"
+      "5.0-7.0":"a #1"
     },
     "android":{
-      "2.1":"a",
-      "2.2":"y",
-      "2.3":"y",
-      "3":"y",
-      "4":"y",
-      "4.1":"y",
-      "4.2-4.3":"y",
+      "2.1":"a #1",
+      "2.2":"y #1",
+      "2.3":"y #1",
+      "3":"y #1",
+      "4":"y #1",
+      "4.1":"y #1",
+      "4.2-4.3":"y #1",
       "4.4":"y"
     },
     "bb":{
-      "7":"y",
-      "10":"y"
+      "7":"y #1",
+      "10":"y #1"
     },
     "op_mob":{
-      "10":"a",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
-      "12":"y",
-      "12.1":"y",
+      "10":"a #1",
+      "11":"y #1",
+      "11.1":"y #1",
+      "11.5":"y #1",
+      "12":"y #1",
+      "12.1":"y #1",
       "0":"y"
     },
     "and_chr":{
@@ -173,10 +173,10 @@
       "0":"y"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"y #1"
     }
   },
-  "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway).",
+  "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway). IE11 and older versions of other browsers do not support the &lt;main> element.",
   "usage_perc_y":81.4,
   "usage_perc_a":4.32,
   "ucprefix":false,
