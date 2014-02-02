@@ -22,9 +22,6 @@
       "description":"Android 2.1-2.3 doesn't appear to honor background-size, only -webkit-background-size, which requires both width and height to be specified."
     },
     {
-      "description":"Firefox does not support \"local\" value for \r\nbackground-attachment."
-    },
-    {
       "description":"iOS Safari does not honor background-size: cover;"
     }
   ],
