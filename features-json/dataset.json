@@ -130,7 +130,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -177,8 +178,8 @@
     }
   },
   "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",
-  "usage_perc_y":71.02,
-  "usage_perc_a":21.11,
+  "usage_perc_y":73.07,
+  "usage_perc_a":19.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMStringMap",

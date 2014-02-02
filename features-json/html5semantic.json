@@ -130,7 +130,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -177,8 +178,8 @@
     }
   },
   "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway). IE11 and older versions of other browsers do not support the &lt;main> element.",
-  "usage_perc_y":81.4,
-  "usage_perc_a":4.32,
+  "usage_perc_y":82.18,
+  "usage_perc_a":3.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

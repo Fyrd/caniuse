@@ -132,7 +132,8 @@
       "17":"y",
       "18":"y",
       "19":"y",
-      "20":"y"
+      "20":"y",
+      "21":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -179,8 +180,8 @@
     }
   },
   "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome",
-  "usage_perc_y":65.3,
-  "usage_perc_a":9.77,
+  "usage_perc_y":65.31,
+  "usage_perc_a":9.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

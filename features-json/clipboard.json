@@ -122,7 +122,8 @@
       "17":"a",
       "18":"a",
       "19":"a",
-      "20":"a"
+      "20":"a",
+      "21":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -169,8 +170,8 @@
     }
   },
   "notes":"Partial support in IE refers using <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx\">a non-standard method</a> of interacting with the clipboard. For other browsers it refers to not supporting the ClipboardEvent constructor.",
-  "usage_perc_y":13.38,
-  "usage_perc_a":64.99,
+  "usage_perc_y":13.54,
+  "usage_perc_a":65.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata",

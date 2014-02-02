@@ -127,7 +127,8 @@
       "17":"p",
       "18":"p",
       "19":"p",
-      "20":"p"
+      "20":"p",
+      "21":"p"
     },
     "ios_saf":{
       "3.2":"p",
@@ -174,8 +175,8 @@
     }
   },
   "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events. Firefox Nightly provides 'dom.w3c_pointer_events.enabled' option to support this specification starting with version 28.",
-  "usage_perc_y":5.4,
-  "usage_perc_a":4.97,
+  "usage_perc_y":6.41,
+  "usage_perc_a":4.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",
