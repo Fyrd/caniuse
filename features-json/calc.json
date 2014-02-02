@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
       "title":"MDN article"
     },
     {
       "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -37,7 +37,7 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"y",
+      "9":"a",
       "10":"y",
       "11":"y"
     },
@@ -181,9 +181,9 @@
       "10":"y"
     }
   },
-  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax. ",
-  "usage_perc_y":72.94,
-  "usage_perc_a":0,
+  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax. Partial support in IE9 refers to the browser crashing when used as a background-position value.",
+  "usage_perc_y":69.76,
+  "usage_perc_a":3.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
