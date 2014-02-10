@@ -172,7 +172,7 @@
       "10":"n"
     }
   },
-  "notes":"Previously a WebKit-only property, now a W3C specification. Partial support refers to not yet fully supporting the new spec (details currently unknown).",
+  "notes":"Previously a WebKit-only property, now a W3C specification. Partial support refers to not yet fully supporting the new spec (details currently unknown). As of version 26 firefox supports unprefixed clip-path property, but using polygons is only possible through valid svg element references instead of inline polygon shapes.",
   "usage_perc_y":0,
   "usage_perc_a":51.95,
   "ucprefix":false,
