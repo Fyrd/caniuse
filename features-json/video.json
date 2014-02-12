@@ -9,12 +9,8 @@
       "title":"Video on the Web - includes info on Android support"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
+      "url":"http://camendesign.co.uk/code/video_for_everybody",
+      "title":"Video for Everybody"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/video",
@@ -25,8 +21,12 @@
       "title":"WebM format information"
     },
     {
-      "url":"http://camendesign.co.uk/code/video_for_everybody",
-      "title":"Video for Everybody"
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "chrome":{
       "4":"y",

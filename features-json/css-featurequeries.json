@@ -9,16 +9,16 @@
       "title":"Test case"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@supports",
+      "title":"MDN Article"
     },
     {
       "url":"http://mcc.id.au/blog/2012/08/supports",
       "title":"@supports in Firefox"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@supports",
-      "title":"MDN Article"
+      "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -69,7 +69,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "chrome":{
       "4":"n",

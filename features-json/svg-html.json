@@ -9,12 +9,12 @@
       "title":"MDN Reference page"
     },
     {
-      "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
-      "title":"MDN Tutorial"
-    },
-    {
       "url":"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html",
       "title":"Filter Effects draft"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
+      "title":"MDN Tutorial"
     }
   ],
   "bugs":[
@@ -63,7 +63,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "chrome":{
       "4":"a",

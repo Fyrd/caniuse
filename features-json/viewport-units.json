@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/saabi/vminpoly",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://css-tricks.com/viewport-sized-typography/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://github.com/saabi/vminpoly",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "chrome":{
       "4":"n",
