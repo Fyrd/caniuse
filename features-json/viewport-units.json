@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome does not support viewport units for border widths, column gaps or in calc()."
+      "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in calc() until version 34."
     },
     {
       "description":"Chrome does not correctly adjust the viewport units on vertical resizing of the window"
