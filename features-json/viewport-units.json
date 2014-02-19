@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/viewport-sized-typography/",
-      "title":"Blog post"
-    },
-    {
       "url":"https://github.com/saabi/vminpoly",
       "title":"Polyfill"
+    },
+    {
+      "url":"http://css-tricks.com/viewport-sized-typography/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -18,13 +18,7 @@
       "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in calc() until version 34."
     },
     {
-      "description":"Chrome does not correctly adjust the viewport units on vertical resizing of the window"
-    },
-    {
-      "description":"Viewport units don't work on WebKit for fonts after resizing the window."
-    },
-    {
-      "description":"iOS 6-7 has a problem with <a href=\"https://github.com/scottjehl/Device-Bugs/issues/36\">viewport units and height</a>."
+      "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in calc() until version 34."
     }
   ],
   "categories":[
