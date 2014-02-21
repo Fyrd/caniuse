@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
-      "title":"Demo of various effects"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
       "title":"MDN article"
     },
@@ -17,12 +13,16 @@
       "title":"Live editor"
     },
     {
-      "url":"http://www.css3files.com/shadow/",
-      "title":"Information page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
+      "title":"Demo of various effects"
+    },
+    {
+      "url":"http://www.css3files.com/shadow/",
+      "title":"Information page"
     }
   ],
   "bugs":[
