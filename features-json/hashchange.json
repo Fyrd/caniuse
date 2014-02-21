@@ -5,6 +5,14 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/dom/Element/hashchange",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
+      "title":"MDN article"
+    },
+    {
       "url":"http://github.com/3nr1c/jUri.js",
       "title":"Polyfill"
     },
@@ -15,14 +23,6 @@
     {
       "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
       "title":"Simple demo"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/dom/Element/hashchange",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
-      "title":"MDN article"
     }
   ],
   "bugs":[

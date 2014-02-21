@@ -1,16 +1,16 @@
 {
-  "title":"Filesystem & FileWriter API",
-  "description":"Method of reading and writing files to a sandboxed file system.\r\n",
-  "spec":"http://www.w3.org/TR/file-system-api/",
-  "status":"wd",
+  "title":"Web Speech API",
+  "description":"Method to provide speech input and text-to-speech output features in a web browser.",
+  "spec":"https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html",
+  "status":"unoff",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/filesystem",
-      "title":"WebPlatform Docs"
+      "url":"http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API",
+      "title":"HTML5Rocks article"
     },
     {
-      "url":"http://www.html5rocks.com/en/tutorials/file/filesystem/",
-      "title":"HTML5 Rocks tutorial"
+      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
+      "title":"SitePoint article"
     }
   ],
   "bugs":[
@@ -67,34 +67,34 @@
       "5":"n",
       "6":"n",
       "7":"n",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"y x",
-      "14":"y x",
-      "15":"y x",
-      "16":"y x",
-      "17":"y x",
-      "18":"y x",
-      "19":"y x",
-      "20":"y x",
-      "21":"y x",
-      "22":"y x",
-      "23":"y x",
-      "24":"y x",
-      "25":"y x",
-      "26":"y x",
-      "27":"y x",
-      "28":"y x",
-      "29":"y x",
-      "30":"y x",
-      "31":"y x",
-      "32":"y x",
-      "33":"y x",
-      "34":"y x",
-      "35":"y x"
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"a x",
+      "26":"a x",
+      "27":"a x",
+      "28":"a x",
+      "29":"a x",
+      "30":"a x",
+      "31":"a x",
+      "32":"a x",
+      "33":"a x",
+      "34":"a x",
+      "35":"a x"
     },
     "safari":{
       "3.1":"n",
@@ -118,13 +118,13 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"y x",
-      "16":"y x",
-      "17":"y x",
-      "18":"y x",
-      "19":"y x",
-      "20":"y x",
-      "21":"y x"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -149,7 +149,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"y x"
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -158,23 +158,23 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y x"
+      "0":"n"
     },
     "and_chr":{
-      "0":"y x"
+      "0":"u"
     },
     "and_ff":{
-      "0":"n"
+      "0":"u"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"",
-  "usage_perc_y":36.7,
-  "usage_perc_a":0.26,
+  "notes":"Partial support in Chrome refers to only a limited subset of the specification being implemented.",
+  "usage_perc_y":0,
+  "usage_perc_a":33.02,
   "ucprefix":false,
   "parent":"",
-  "keywords":"filewriter",
-  "shown":true
+  "keywords":"speech,recognition,ASR",
+  "shown":false
 }
