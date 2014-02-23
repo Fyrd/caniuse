@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
+      "title":"Add-on "
+    },
+    {
       "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
     },
@@ -13,13 +17,13 @@
       "title":"Chromium API"
     },
     {
-      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
-      "title":"Add-on "
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/notification",
+      "title":"MDN Notifications"
     }
   ],
   "bugs":[
     {
-      "description":"Partial support in older Chrome versions refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. "
+      "description":"Partial support in older Chrome versions refers to using an <a href=\"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification\">older version of the spec</a>. Support in Safari 6 is limited to Mac OSX 10.8+. "
     }
   ],
   "categories":[
@@ -108,8 +112,8 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"n",
-      "6.1":"n",
+      "6":"y",
+      "6.1":"y",
       "7":"y"
     },
     "opera":{
@@ -177,7 +181,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":47.95,
+  "usage_perc_y":49.37,
   "usage_perc_a":1.32,
   "ucprefix":false,
   "parent":"",
