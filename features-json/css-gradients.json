@@ -9,16 +9,16 @@
       "title":"Information page"
     },
     {
+      "url":"http://www.colorzilla.com/gradient-editor/",
+      "title":"Cross-browser editor"
+    },
+    {
       "url":"http://css3pie.com/",
       "title":"Tool to emulate support in IE"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.colorzilla.com/gradient-editor/",
-      "title":"Cross-browser editor"
     }
   ],
   "bugs":[
@@ -102,7 +102,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"n",

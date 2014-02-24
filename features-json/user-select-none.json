@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://css-tricks.com/almanac/properties/u/user-select/",
-      "title":"CSS Tricks article"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
       "title":"MSDN Documentation"
+    },
+    {
+      "url":"http://css-tricks.com/almanac/properties/u/user-select/",
+      "title":"CSS Tricks article"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
@@ -98,7 +98,8 @@
       "32":"y x",
       "33":"y x",
       "34":"y x",
-      "35":"y x"
+      "35":"y x",
+      "36":"y x"
     },
     "safari":{
       "3.1":"y x",

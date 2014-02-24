@@ -5,29 +5,29 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
-      "title":"Demo"
+      "url":"http://docs.webplatform.org/wiki/css/cssom/methods/getComputedStyle",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://snipplr.com/view/13523/",
       "title":"Polyfill for IE"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
-      "title":"MDN article"
+      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
+      "title":"Demo"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/cssom/methods/getComputedStyle",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
+      "title":"MDN article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
+    "CSS3",
     "DOM",
-    "JS API",
-    "CSS3"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -104,7 +104,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"a",

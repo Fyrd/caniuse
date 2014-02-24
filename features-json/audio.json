@@ -5,20 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/audio.js#audio",
-      "title":"has.js test"
+      "url":"http://24ways.org/2010/the-state-of-html5-audio",
+      "title":"Detailed article on support"
     },
     {
-      "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
-      "title":"The State of HTML5 Audio"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/audio.js#audio",
+      "title":"has.js test"
     },
     {
       "url":"http://www.jplayer.org/latest/demos/",
       "title":"Demos of audio player that uses &lt;audio>"
     },
     {
-      "url":"http://24ways.org/2010/the-state-of-html5-audio",
-      "title":"Detailed article on support"
+      "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
+      "title":"The State of HTML5 Audio"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     },
     {
       "url":"http://textopia.org/androidsoundformats.html",
@@ -31,10 +35,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/audio",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
     }
   ],
   "bugs":[
@@ -132,7 +132,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"n",

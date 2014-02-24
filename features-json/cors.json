@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-with-cors/",
+      "title":"Mozilla Hacks blog post"
+    },
+    {
       "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
       "title":"Alternative implementation by IE8"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://dev.opera.com/articles/view/dom-access-control-using-cross-origin-resource-sharing/",
       "title":"DOM access using CORS"
-    },
-    {
-      "url":"http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-with-cors/",
-      "title":"Mozilla Hacks blog post"
     }
   ],
   "bugs":[
@@ -107,7 +107,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"n",

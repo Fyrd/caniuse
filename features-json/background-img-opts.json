@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.standardista.com/css3/css3-background-properties",
-      "title":"Detailed compatibility tables and demos"
-    },
-    {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
+    },
+    {
+      "url":"http://www.standardista.com/css3/css3-background-properties",
+      "title":"Detailed compatibility tables and demos"
     },
     {
       "url":"https://github.com/louisremi/background-size-polyfill",
@@ -103,7 +103,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"a",

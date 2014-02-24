@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://promises-aplus.github.io/promises-spec/",
-      "title":"Promises/A+ spec"
-    },
-    {
       "url":"http://www.chromestatus.com/features/5681726336532480",
       "title":"Chromium dashboard - ES6 Promises"
+    },
+    {
+      "url":"http://promises-aplus.github.io/promises-spec/",
+      "title":"Promises/A+ spec"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
@@ -25,8 +25,8 @@
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -103,7 +103,8 @@
       "32":"a",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"p",

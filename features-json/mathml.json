@@ -9,16 +9,16 @@
       "title":"MathML demos"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/MathML",
-      "title":"Wikipedia"
+      "url":"http://www.mathjax.org",
+      "title":"Cross-browser support script"
     },
     {
       "url":"https://developer.mozilla.org/en/MathML/Element",
       "title":"MDN element reference"
     },
     {
-      "url":"http://www.mathjax.org",
-      "title":"Cross-browser support script"
+      "url":"http://en.wikipedia.org/wiki/MathML",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -102,7 +102,8 @@
       "32":"p",
       "33":"p",
       "34":"p",
-      "35":"p"
+      "35":"p",
+      "36":"p"
     },
     "safari":{
       "3.1":"p",

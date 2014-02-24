@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
+    },
+    {
       "url":"https://github.com/Schepp/box-sizing-polyfill",
       "title":"Polyfill for IE"
     },
@@ -13,16 +17,12 @@
       "title":"MDN article"
     },
     {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://css-tricks.com/box-sizing/",
       "title":"CSS Tricks"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -111,7 +111,8 @@
       "32":"a",
       "33":"a",
       "34":"a",
-      "35":"a"
+      "35":"a",
+      "36":"a"
     },
     "safari":{
       "3.1":"a x",

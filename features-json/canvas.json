@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
+      "title":"has.js test"
+    },
+    {
       "url":"http://explorercanvas.googlecode.com/",
       "title":"Implementation for Internet Explorer"
     },
@@ -21,10 +25,6 @@
       "title":"Showcase site"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
-      "title":"has.js test"
-    },
-    {
       "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
     }
@@ -35,8 +35,8 @@
     }
   ],
   "categories":[
-    "Canvas",
-    "HTML5"
+    "HTML5",
+    "Canvas"
   ],
   "stats":{
     "ie":{
@@ -113,7 +113,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"y",

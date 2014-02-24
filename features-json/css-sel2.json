@@ -5,8 +5,8 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://selectivizr.com",
-      "title":"Selectivizr: Polyfill for IE6-8"
+      "url":"http://docs.webplatform.org/wiki/css/selectors",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.yourhtmlsource.com/stylesheets/advancedselectors.html",
@@ -17,8 +17,8 @@
       "title":"Detailed support information"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/selectors",
-      "title":"WebPlatform Docs"
+      "url":"http://selectivizr.com",
+      "title":"Selectivizr: Polyfill for IE6-8"
     }
   ],
   "bugs":[
@@ -107,7 +107,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "safari":{
       "3.1":"y",
