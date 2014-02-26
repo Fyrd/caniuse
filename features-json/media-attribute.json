@@ -10,13 +10,11 @@
     },
     {
       "url":"https://www.w3.org/Bugs/Public/show_bug.cgi?id=19619",
-      "title":"W3C bug report discussion - Remove media=\"\" from &lt;source> if it isn't used"
+      "title":"W3C bug report discussion - Remove media="
     }
   ],
   "bugs":[
-    {
-      "description":""
-    }
+    
   ],
   "categories":[
     "HTML5"
@@ -100,9 +98,9 @@
       "36":"u"
     },
     "safari":{
-      "3.1":"u",
-      "3.2":"u",
-      "4":"u",
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
       "5":"n",
       "5.1":"y",
       "6":"y",
