@@ -68,6 +68,7 @@ Currently it is not possible to:
 Make sure you have NodeJS installed on your system.
 
 Run
+
 `node validator/validate-jsons.js`
 
 If something is wrong, it will throw an error.
