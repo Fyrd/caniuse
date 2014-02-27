@@ -5,8 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/rmorse/AutoEllipsis",
-      "title":"jQuery polyfill for Firefox"
+      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
+      "title":"MDN article"
+    },
+    {
+      "url":"http://www.css3files.com/text/",
+      "title":"Information page"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
@@ -17,12 +21,8 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
-      "title":"MDN article"
-    },
-    {
-      "url":"http://www.css3files.com/text/",
-      "title":"Information page"
+      "url":"https://github.com/rmorse/AutoEllipsis",
+      "title":"jQuery polyfill for Firefox"
     }
   ],
   "bugs":[
