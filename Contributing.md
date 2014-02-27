@@ -64,3 +64,12 @@ Currently it is not possible to:
 * Add any object properties not already defined above
 * Modify the **usage\_perc\_y** or **usage\_perc\_a** values (these values are generated)
 
+## Testing
+Make sure you have NodeJS installed on your system.
+
+Run
+
+`node validator/validate-jsons.js`
+
+If something is wrong, it will throw an error.
+Everything is ok otherwise.
