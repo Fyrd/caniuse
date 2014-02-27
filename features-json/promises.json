@@ -5,20 +5,20 @@
   "status":"other",
   "links":[
     {
-      "url":"http://www.chromestatus.com/features/5681726336532480",
-      "title":"Chromium dashboard - ES6 Promises"
+      "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
+      "title":"JavaScript Promises: There and back again - HTML5 Rocks"
     },
     {
       "url":"https://github.com/jakearchibald/ES6-Promises",
       "title":"A polyfill for ES6-style Promises"
     },
     {
-      "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
-      "title":"JavaScript Promises: There and back again - HTML5 Rocks"
-    },
-    {
       "url":"http://promises-aplus.github.io/promises-spec/",
       "title":"Promises/A+ spec"
+    },
+    {
+      "url":"http://www.chromestatus.com/features/5681726336532480",
+      "title":"Chromium dashboard - ES6 Promises"
     }
   ],
   "bugs":[
@@ -171,7 +171,7 @@
       "0":"p"
     },
     "and_chr":{
-      "0":"a"
+      "0":"y"
     },
     "and_ff":{
       "0":"a"
@@ -181,8 +181,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":0.33,
-  "usage_perc_a":18.18,
+  "usage_perc_y":2.37,
+  "usage_perc_a":16.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"futures",
