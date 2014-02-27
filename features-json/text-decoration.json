@@ -1,0 +1,184 @@
+{
+  "title":"Line Decoration",
+  "description":"In CSS3, text-decoration is now a shorthand property, incorporating the following new properties: text-decoration-line, text-decoration-style, text-decoration-color",
+  "spec":"http://www.w3.org/TR/css-text-decor-3/#line-decoration",
+  "status":"cr",
+  "links":[
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
+      "title":"MDN Documentation for text-decoration-style"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
+      "title":"MDN Documentation for text-decoration-color"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
+      "title":"MDN Documentation for text-decoration-line"
+    }
+  ],
+  "bugs":[
+  ],
+  "categories":[
+    "CSS3"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
+      "4":"n",
+      "5":"n",
+      "6":"y x",
+      "7":"y x",
+      "8":"y x",
+      "9":"y x",
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y x",
+      "14":"y x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x",
+      "18":"y x",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
+      "27":"y x",
+      "28":"y x",
+      "29":"y x",
+      "30":"y x"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"a x",
+      "25":"a x",
+      "26":"a x",
+      "27":"a x",
+      "28":"a x",
+      "29":"a x",
+      "30":"a x",
+      "31":"a x",
+      "32":"a x",
+      "33":"a x",
+      "34":"a x",
+      "35":"a x",
+      "36":"a x"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"n",
+      "6.1":"n",
+      "7":"n"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "15":"a x",
+      "16":"a x",
+      "17":"a x",
+      "18":"a x",
+      "19":"a x",
+      "20":"a x",
+      "21":"a x"
+    },
+    "ios_saf":{
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6.0-6.1":"n",
+      "7.0":"n"
+    },
+    "op_mini":{
+      "5.0-7.0":"n"
+    },
+    "android":{
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n"
+    },
+    "bb":{
+      "7":"u",
+      "10":"u"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
+      "0":"n"
+    },
+    "and_chr":{
+      "0":"a x"
+    },
+    "and_ff":{
+      "0":"y x"
+    },
+    "ie_mob":{
+      "10":"n"
+    }
+  },
+  "notes":"Partial support means only text-decoration-style property support",
+  "usage_perc_y":53.86,
+  "usage_perc_a":20.6,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"text, underline, text-decoration",
+  "shown":false
+}
