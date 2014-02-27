@@ -5,6 +5,10 @@
   "status":"other",
   "links":[
     {
+      "url":"http://www.chromestatus.com/features/5681726336532480",
+      "title":"Chromium dashboard - ES6 Promises"
+    },
+    {
       "url":"https://github.com/jakearchibald/ES6-Promises",
       "title":"A polyfill for ES6-style Promises"
     },
@@ -15,18 +19,14 @@
     {
       "url":"http://promises-aplus.github.io/promises-spec/",
       "title":"Promises/A+ spec"
-    },
-    {
-      "url":"http://www.chromestatus.com/features/5681726336532480",
-      "title":"Chromium dashboard - ES6 Promises"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
