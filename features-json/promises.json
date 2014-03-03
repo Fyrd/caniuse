@@ -5,8 +5,8 @@
   "status":"other",
   "links":[
     {
-      "url":"https://github.com/jakearchibald/ES6-Promises",
-      "title":"A polyfill for ES6-style Promises"
+      "url":"http://promises-aplus.github.io/promises-spec/",
+      "title":"Promises/A+ spec"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
@@ -17,16 +17,16 @@
       "title":"Chromium dashboard - ES6 Promises"
     },
     {
-      "url":"http://promises-aplus.github.io/promises-spec/",
-      "title":"Promises/A+ spec"
+      "url":"https://github.com/jakearchibald/ES6-Promises",
+      "title":"A polyfill for ES6-style Promises"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -171,7 +171,7 @@
       "0":"p"
     },
     "and_chr":{
-      "0":"a"
+      "0":"y"
     },
     "and_ff":{
       "0":"a"
@@ -181,8 +181,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":0.33,
-  "usage_perc_a":18.18,
+  "usage_perc_y":5.6,
+  "usage_perc_a":34.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"futures",

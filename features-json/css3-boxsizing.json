@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/Schepp/box-sizing-polyfill",
-      "title":"Polyfill for IE"
-    },
-    {
       "url":"http://css-tricks.com/box-sizing/",
       "title":"CSS Tricks"
     },
@@ -17,12 +13,16 @@
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
+      "title":"Blog post"
+    },
+    {
       "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
       "title":"MDN article"
     },
     {
-      "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
-      "title":"Blog post"
+      "url":"https://github.com/Schepp/box-sizing-polyfill",
+      "title":"Polyfill for IE"
     }
   ],
   "bugs":[
@@ -189,8 +189,8 @@
     }
   },
   "notes":"Partial support refers to supporting only the \"border-box\" value, not \"padding-box\" (which was added to the spec later).",
-  "usage_perc_y":15.62,
-  "usage_perc_a":76.21,
+  "usage_perc_y":15.72,
+  "usage_perc_a":76.7,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-box,content-box,padding-box",

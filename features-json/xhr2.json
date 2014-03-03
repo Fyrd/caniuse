@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/xhr/XMLHttpRequest",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://github.com/3nr1c/jUri.js",
       "title":"Polyfill for FormData object"
     },
     {
       "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
       "title":"MDN article on FormData"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/xhr/XMLHttpRequest",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -29,8 +29,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -185,8 +185,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":77.45,
-  "usage_perc_a":0.29,
+  "usage_perc_y":78.91,
+  "usage_perc_a":0.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"formdata",

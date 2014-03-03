@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://robertnyman.com/2010/03/22/css-pointer-events-to-allow-clicks-on-underlying-elements/",
-      "title":"Article & tutorial"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-pointerevents",
       "title":"has.js test"
+    },
+    {
+      "url":"http://robertnyman.com/2010/03/22/css-pointer-events-to-allow-clicks-on-underlying-elements/",
+      "title":"Article & tutorial"
     }
   ],
   "bugs":[
@@ -177,7 +177,7 @@
     }
   },
   "notes":"Already part of the SVG specification, and all SVG-supporting browsers appear to support the property on SVG elements.",
-  "usage_perc_y":74.75,
+  "usage_perc_y":76.37,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

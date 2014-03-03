@@ -1,20 +1,20 @@
 {
-  "title":"CSS Hyphenation",
-  "description":"Method of controlling when words at the end of lines should be hyphenated using the \"hyphens\" property.",
-  "spec":"http://www.w3.org/TR/css3-text/#hyphenation",
-  "status":"wd",
+  "title":"Line Decoration",
+  "description":"In CSS3, text-decoration is now a shorthand property, incorporating the following new properties: text-decoration-line, text-decoration-style, text-decoration-color",
+  "spec":"http://www.w3.org/TR/css-text-decor-3/#line-decoration",
+  "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/hyphens",
-      "title":"MDN article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
+      "title":"MDN Documentation for text-decoration-color"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/hyphens",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
+      "title":"MDN Documentation for text-decoration-line"
     },
     {
-      "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
-      "title":"Blog post"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
+      "title":"MDN Documentation for text-decoration-style"
     }
   ],
   "bugs":[
@@ -30,8 +30,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y x",
-      "11":"y x"
+      "10":"n",
+      "11":"n"
     },
     "firefox":{
       "2":"n",
@@ -87,29 +87,29 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n"
+      "24":"a x",
+      "25":"a x",
+      "26":"a x",
+      "27":"a x",
+      "28":"a x",
+      "29":"a x",
+      "30":"a x",
+      "31":"a x",
+      "32":"a x",
+      "33":"a x",
+      "34":"a x",
+      "35":"a x",
+      "36":"a x"
     },
     "safari":{
       "3.1":"n",
       "3.2":"n",
       "4":"n",
       "5":"n",
-      "5.1":"y x",
-      "6":"y x",
-      "6.1":"y x",
-      "7":"y x"
+      "5.1":"n",
+      "6":"n",
+      "6.1":"n",
+      "7":"n"
     },
     "opera":{
       "9":"n",
@@ -123,21 +123,21 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n"
+      "15":"a x",
+      "16":"a x",
+      "17":"a x",
+      "18":"a x",
+      "19":"a x",
+      "20":"a x",
+      "21":"a x"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
-      "4.2-4.3":"y x",
-      "5.0-5.1":"y x",
-      "6.0-6.1":"y x",
-      "7.0":"y x"
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6.0-6.1":"n",
+      "7.0":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -153,8 +153,8 @@
       "4.4":"n"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"u",
+      "10":"u"
     },
     "op_mob":{
       "10":"n",
@@ -166,7 +166,7 @@
       "0":"n"
     },
     "and_chr":{
-      "0":"n"
+      "0":"a x"
     },
     "and_ff":{
       "0":"y x"
@@ -175,11 +175,11 @@
       "10":"n"
     }
   },
-  "notes":"Chrome 29- and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. Chrome 30+ doesn't support it either.",
-  "usage_perc_y":34.3,
-  "usage_perc_a":0,
+  "notes":"Partial support means only text-decoration-style property support",
+  "usage_perc_y":15.27,
+  "usage_perc_a":36.71,
   "ucprefix":false,
   "parent":"",
-  "keywords":"hyphen,shy",
-  "shown":true
+  "keywords":"text, underline, text-decoration",
+  "shown":false
 }

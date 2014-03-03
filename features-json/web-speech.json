@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API",
-      "title":"HTML5Rocks article"
-    },
-    {
       "url":"http://www.sitepoint.com/introducing-web-speech-api/",
       "title":"SitePoint article"
+    },
+    {
+      "url":"http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API",
+      "title":"HTML5Rocks article"
     }
   ],
   "bugs":[
@@ -173,7 +173,7 @@
   },
   "notes":"Partial support in Chrome refers to only a limited subset of the specification being implemented.",
   "usage_perc_y":0,
-  "usage_perc_a":33.02,
+  "usage_perc_a":33.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"speech,recognition,ASR",

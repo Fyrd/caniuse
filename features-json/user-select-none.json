@@ -9,12 +9,12 @@
       "title":"CSS Tricks article"
     },
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
-      "title":"MSDN Documentation"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
       "title":"MDN article"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh781492(v=vs.85).aspx",
+      "title":"MSDN Documentation"
     }
   ],
   "bugs":[
@@ -176,7 +176,7 @@
     }
   },
   "notes":"Currently the user-select property does not appear in any W3C specification. Support information here is only for \"none\" value, not others.",
-  "usage_perc_y":78.91,
+  "usage_perc_y":80.3,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

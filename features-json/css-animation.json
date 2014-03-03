@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.css3files.com/animation/",
+      "title":"Information page"
+    },
+    {
       "url":"http://robertnyman.com/2010/05/06/css3-animations/",
       "title":"Blog post on usage"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/animations",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.css3files.com/animation/",
-      "title":"Information page"
     }
   ],
   "bugs":[
@@ -178,8 +178,8 @@
     }
   },
   "notes":"Partial support in Android browser refers to buggy behavior in different scenarios.",
-  "usage_perc_y":77.57,
-  "usage_perc_a":1.47,
+  "usage_perc_y":79.02,
+  "usage_perc_a":1.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"animations,css-animations,keyframe,keyframes",

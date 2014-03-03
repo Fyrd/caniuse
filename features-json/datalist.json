@@ -5,28 +5,28 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/datalist",
-      "title":"WebPlatform Docs"
+      "url":"http://demo.agektmr.com/datalist/",
+      "title":"Eiji Kitamura's options demos & tests"
     },
     {
       "url":"http://github.com/thgreasi/datalist-polyfill",
       "title":"Minimal Datalist polyfill w/tutorial"
     },
     {
-      "url":"http://demo.agektmr.com/datalist/",
-      "title":"Eiji Kitamura's options demos & tests"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
-      "title":"MDN reference"
+      "url":"http://afarkas.github.com/webshim/demos/",
+      "title":"HTML5 Library including datalist support"
     },
     {
       "url":"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
       "title":"Mozilla Hacks article"
     },
     {
-      "url":"http://afarkas.github.com/webshim/demos/",
-      "title":"HTML5 Library including datalist support"
+      "url":"https://developer.mozilla.org/en/HTML/Element/datalist",
+      "title":"MDN reference"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/datalist",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -178,7 +178,7 @@
       "0":"p"
     },
     "and_chr":{
-      "0":"p"
+      "0":"y"
     },
     "and_ff":{
       "0":"y"
@@ -188,8 +188,8 @@
     }
   },
   "notes":"Partial support in IE10 refers to <a href=\"http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/\">significantly buggy behavior</a>.",
-  "usage_perc_y":50.2,
-  "usage_perc_a":10.15,
+  "usage_perc_y":53.53,
+  "usage_perc_a":10.2,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute",

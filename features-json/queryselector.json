@@ -9,12 +9,12 @@
       "title":"MDN article on querySelector"
     },
     {
-      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
-      "title":"MDN article on querySelectorAll"
-    },
-    {
       "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
+      "title":"MDN article on querySelectorAll"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
@@ -180,7 +180,7 @@
     }
   },
   "notes":"Only works for the CSS selectors available. Thus the IE8 implementation is limited to the CSS 2.1 selectors",
-  "usage_perc_y":91.71,
+  "usage_perc_y":92.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

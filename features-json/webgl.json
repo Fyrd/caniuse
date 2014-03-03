@@ -5,24 +5,24 @@
   "status":"other",
   "links":[
     {
-      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
-      "title":"Tutorial"
-    },
-    {
-      "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
-      "title":"Instructions on enabling WebGL"
-    },
-    {
-      "url":"http://iewebgl.com/",
-      "title":"Polyfill for IE"
+      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
+      "title":"Webkit blog post"
     },
     {
       "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
       "title":"Firefox blog post"
     },
     {
-      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
-      "title":"Webkit blog post"
+      "url":"http://iewebgl.com/",
+      "title":"Polyfill for IE"
+    },
+    {
+      "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
+      "title":"Instructions on enabling WebGL"
+    },
+    {
+      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
+      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -184,8 +184,8 @@
     }
   },
   "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have <a href=\"http://www.khronos.org/webgl/wiki/BlacklistsAndWhitelists\">up to date video drivers</a>. This problem was <a href=\"http://blog.chromium.org/2012/02/gpu-accelerating-2d-canvas-and-enabling.html\">solved in Chrome</a> as of version 18.\r\n\r\nNote that WebGL is part of the <a href=\"http://www.khronos.org/webgl/\">Khronos Group</a>, not the W3C.",
-  "usage_perc_y":40.83,
-  "usage_perc_a":21.8,
+  "usage_perc_y":41.39,
+  "usage_perc_a":22.74,
   "ucprefix":false,
   "parent":"canvas",
   "keywords":"web gl",

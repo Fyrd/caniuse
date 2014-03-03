@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://www.sitepoint.com/10-html5-apis-worth-looking/",
+      "title":"SitePoint article"
+    },
+    {
       "url":"http://updates.html5rocks.com/2012/08/When-milliseconds-are-not-enough-performance-now",
       "title":"HTML5Rocks article"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
       "title":"MDN article"
-    },
-    {
-      "url":"http://www.sitepoint.com/10-html5-apis-worth-looking/",
-      "title":"SitePoint article"
     }
   ],
   "bugs":[
@@ -152,10 +152,10 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"u"
+      "4.4":"y"
     },
     "bb":{
-      "7":"u",
+      "7":"n",
       "10":"u"
     },
     "op_mob":{
@@ -178,10 +178,10 @@
     }
   },
   "notes":"",
-  "usage_perc_y":61.2,
+  "usage_perc_y":62.77,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,testing",
-  "shown":false
+  "shown":true
 }

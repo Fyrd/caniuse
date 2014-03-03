@@ -5,14 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://gist.github.com/370590",
-      "title":"Fallback script"
-    },
-    {
-      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
-      "title":"jQuery fallback script"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-details",
       "title":"has.js test"
     },
@@ -21,8 +13,16 @@
       "title":"HTML5 Doctor article"
     },
     {
+      "url":"https://gist.github.com/370590",
+      "title":"Fallback script"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/html/elements/details",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
+      "title":"jQuery fallback script"
     }
   ],
   "bugs":[
@@ -184,7 +184,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":49.33,
+  "usage_perc_y":50.71,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

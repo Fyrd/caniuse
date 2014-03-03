@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
-      "title":"MDN article"
-    },
-    {
       "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
       "title":"Mozilla hacks article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -180,8 +180,8 @@
     }
   },
   "notes":"Partial support refers to supporting an earlier draft of the spec.",
-  "usage_perc_y":45.69,
-  "usage_perc_a":16.13,
+  "usage_perc_y":47.14,
+  "usage_perc_a":16.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen",

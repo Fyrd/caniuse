@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Portable_Network_Graphics",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://dillerdesign.com/experiment/DD_belatedPNG/",
       "title":"Workaround for IE6"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Portable_Network_Graphics",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -174,7 +174,7 @@
     }
   },
   "notes":"IE6 does support full transparency in 8-bit PNGs, which can sometimes be an alternative to 24-bit PNGs.",
-  "usage_perc_y":92.04,
+  "usage_perc_y":92.61,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

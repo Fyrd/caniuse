@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-crosswindowmessaging",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://html5demos.com/postmessage2",
-      "title":"Simple demo"
+      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
+      "title":"MDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/web-messaging/MessagePort/postMessage",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/window.postMessage",
-      "title":"MDN article"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-crosswindowmessaging",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://html5demos.com/postmessage2",
+      "title":"Simple demo"
     }
   ],
   "bugs":[
@@ -182,8 +182,8 @@
     }
   },
   "notes":"Partial support in IE8-9 refers to only working in frames/iframes (not other tabs/windows). Also in IE 9 and below an object cannot be sent using postMessage. Partial support in IE10 refers to <a href=\"http://stackoverflow.com/questions/16226924/is-cross-origin-postmessage-broken-in-ie10\">limitations in certain conditions</a>",
-  "usage_perc_y":78.91,
-  "usage_perc_a":12.89,
+  "usage_perc_y":80.37,
+  "usage_perc_a":12.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

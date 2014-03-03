@@ -9,16 +9,16 @@
       "title":"Wikipedia"
     },
     {
-      "url":"http://www.mozilla.org/projects/mathml/demo/",
-      "title":"MathML demos"
-    },
-    {
       "url":"http://www.mathjax.org",
       "title":"Cross-browser support script"
     },
     {
       "url":"https://developer.mozilla.org/en/MathML/Element",
       "title":"MDN element reference"
+    },
+    {
+      "url":"http://www.mozilla.org/projects/mathml/demo/",
+      "title":"MathML demos"
     }
   ],
   "bugs":[
@@ -180,8 +180,8 @@
     }
   },
   "notes":"Opera's support is limited to a CSS profile of MathML. Support was added in Chrome 24, but removed afterwards due to instability.",
-  "usage_perc_y":24.5,
-  "usage_perc_a":0.56,
+  "usage_perc_y":24.6,
+  "usage_perc_a":0.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

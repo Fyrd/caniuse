@@ -5,12 +5,16 @@
   "status":"other",
   "links":[
     {
-      "url":"http://antimatter15.github.io/weppy/demo.html",
-      "title":"Polyfill for browsers with WebM support"
+      "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
+      "title":"Official website FAQ - Which web browsers natively support WebP?"
     },
     {
       "url":"http://libwebpjs.appspot.com/",
       "title":"Decoder in JS"
+    },
+    {
+      "url":"http://antimatter15.github.io/weppy/demo.html",
+      "title":"Polyfill for browsers with WebM support"
     },
     {
       "url":"http://webpjs.appspot.com/",
@@ -19,10 +23,6 @@
     {
       "url":"https://developers.google.com/speed/webp/",
       "title":"Official website"
-    },
-    {
-      "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
-      "title":"Official website FAQ - Which web browsers natively support WebP?"
     }
   ],
   "bugs":[
@@ -184,8 +184,8 @@
     }
   },
   "notes":"Partial support in older Chrome, Opera and Android refers to browser not supporting lossless and alpha versions of WebP. Animated webp images are supported in Chrome 32+ and Opera 19+.",
-  "usage_perc_y":37.84,
-  "usage_perc_a":4.69,
+  "usage_perc_y":39.09,
+  "usage_perc_a":4.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

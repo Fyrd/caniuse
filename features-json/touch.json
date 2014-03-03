@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://schepers.cc/getintouch",
+      "title":"Information on the spec development"
+    },
+    {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh673557(v=vs.85).aspx",
       "title":"Internet Explorer's gesture and touch implementation."
-    },
-    {
-      "url":"http://schepers.cc/getintouch",
-      "title":"Information on the spec development"
     }
   ],
   "bugs":[
@@ -30,8 +30,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -186,8 +186,8 @@
     }
   },
   "notes":"Internet Explorer implements Pointer Events specification which supports more input devices than Touch Events one.",
-  "usage_perc_y":49,
-  "usage_perc_a":1.2,
+  "usage_perc_y":50.17,
+  "usage_perc_a":1.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

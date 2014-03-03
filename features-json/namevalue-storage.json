@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/apis/web-storage/Storage/localStorage",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://html5demos.com/storage",
       "title":"Simple demo"
     },
@@ -13,16 +17,12 @@
       "title":"has.js test"
     },
     {
-      "url":"http://code.google.com/p/sessionstorage/",
-      "title":"Support library"
-    },
-    {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
       "title":"Gecko reference"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/web-storage/Storage/localStorage",
-      "title":"WebPlatform Docs"
+      "url":"http://code.google.com/p/sessionstorage/",
+      "title":"Support library"
     }
   ],
   "bugs":[
@@ -184,8 +184,8 @@
     }
   },
   "notes":"In private browsing mode Safari and iOS Safari don't support setting localStorage.",
-  "usage_perc_y":88.34,
-  "usage_perc_a":0.11,
+  "usage_perc_y":89.04,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"webstorage,local storage",

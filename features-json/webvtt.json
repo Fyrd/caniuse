@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/an-introduction-to-webvtt-and-track/",
-      "title":"An Introduction to WebVTT and &lt;track>"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/track/basics/",
       "title":"Getting Started With the Track Element"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/an-introduction-to-webvtt-and-track/",
+      "title":"An Introduction to WebVTT and track"
     }
   ],
   "bugs":[
@@ -149,7 +149,7 @@
       "4.4":"y"
     },
     "bb":{
-      "7":"u",
+      "7":"n",
       "10":"u"
     },
     "op_mob":{
@@ -172,10 +172,10 @@
     }
   },
   "notes":"Partial support coming to Firefox 27, enabled behind the media.webvtt.enabled flag, with no support for the for ::cue pseudoelement. WebVTT must be used with the &lt;track> element.",
-  "usage_perc_y":53.42,
+  "usage_perc_y":54.69,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",
   "keywords":"captions,track",
-  "shown":false
+  "shown":true
 }
