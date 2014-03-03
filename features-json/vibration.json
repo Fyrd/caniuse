@@ -2,11 +2,14 @@
   "title":"Vibration API",
   "description":"Method to access the vibration mechanism of the hosting device.",
   "spec":"http://www.w3.org/TR/vibration/",
-  "status":"wd",
+  "status":"lc",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/API/Vibration",
       "title":"MDN article"
+    }, {
+      "url":"http://davidwalsh.name/vibration-api",
+      "title":"Vibration API sample code & demo"
     }
   ],
   "bugs":[
@@ -142,7 +145,7 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n"
+      "4.4":"y"
     },
     "bb":{
       "7":"u",
@@ -173,5 +176,5 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"vibration,mobile,device",
-  "shown":false
+  "shown": true
 }
