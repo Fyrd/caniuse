@@ -9,16 +9,16 @@
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://html5doctor.com/native-drag-and-drop/",
+      "title":"HTML5 Doctor article"
+    },
+    {
       "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
       "title":"Shopping cart demo"
     },
     {
       "url":"http://html5demos.com/drag",
       "title":"Demo with link blocks"
-    },
-    {
-      "url":"http://html5doctor.com/native-drag-and-drop/",
-      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -182,8 +182,8 @@
     }
   },
   "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome. IE has no support for .setDragImage. Firefox supports any kind of DOM elements for .setDragImage. Chrome must have either an HTMLImageElement or any kind of DOM elements attached to the DOM and within the viewport of the browser for .setDragImage.",
-  "usage_perc_y":65.63,
-  "usage_perc_a":8.62,
+  "usage_perc_y":55.43,
+  "usage_perc_a":18.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",
