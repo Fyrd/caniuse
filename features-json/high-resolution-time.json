@@ -1,16 +1,16 @@
 {
   "title":"High Resolution Time API",
-  "description":"Method to provide the current time in sub-millisecond resolution and such that it is not subject to system clock skew or adjustments.",
+  "description":"Method to provide the current time in sub-millisecond resolution and such that it is not subject to system clock skew or adjustments. Called using performance.now()",
   "spec":"http://www.w3.org/TR/hr-time/",
   "status":"rec",
   "links":[
     {
-      "url":"http://www.sitepoint.com/10-html5-apis-worth-looking/",
-      "title":"SitePoint article"
-    },
-    {
       "url":"http://updates.html5rocks.com/2012/08/When-milliseconds-are-not-enough-performance-now",
       "title":"HTML5Rocks article"
+    },
+    {
+      "url":"http://www.sitepoint.com/10-html5-apis-worth-looking/",
+      "title":"SitePoint article"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
@@ -182,6 +182,6 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"performance,testing",
+  "keywords":"performance,now,testing",
   "shown":true
 }
