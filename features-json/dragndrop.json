@@ -36,8 +36,8 @@
       "7":"a",
       "8":"a",
       "9":"a",
-      "10":"y",
-      "11":"y"
+      "10":"a",
+      "11":"a"
     },
     "firefox":{
       "2":"p",
@@ -181,7 +181,7 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome",
+  "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome. IE has no support for .setDragImage. Firefox supports any kind of DOM elements for .setDragImage. Chrome must have either an HTMLImageElement or any kind of DOM elements attached to the DOM and within the viewport of the browser for .setDragImage.",
   "usage_perc_y":65.63,
   "usage_perc_a":8.62,
   "ucprefix":false,
