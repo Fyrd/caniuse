@@ -26,6 +26,9 @@
     },
     {
       "description":"calc() does not work within translate/translateX on Internet Explorer 11: http://jsfiddle.net/Y5x93/\r\nIt does work in Firefox 25+ and Chrome 31+ with the -webkit- prefix."
+    },
+    {
+      "description":"calc() does not work with changing an object's dimensions using CSS transitions in Internet Explorer: http://jsfiddle.net/32Qr7/\r\nThe bottom box in this example uses calc() to change it's width and height on hover. The dimensions of the block change immediately on hover while the background color follows the transition rules specified."
     }
   ],
   "categories":[
