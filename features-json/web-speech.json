@@ -104,8 +104,8 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"n",
-      "7":"n"
+      "6.1":"a x",
+      "7":"a x"
     },
     "opera":{
       "9":"n",
@@ -133,7 +133,7 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"n"
+      "7.0":"a x"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -171,7 +171,7 @@
       "10":"n"
     }
   },
-  "notes":"Partial support in Chrome refers to only a limited subset of the specification being implemented.",
+  "notes":"Partial support in Chrome refers to some attributes missing. Partial support in Safari refers to only Speech Synthesis supported.",
   "usage_perc_y":0,
   "usage_perc_a":36.13,
   "ucprefix":false,
