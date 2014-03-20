@@ -5,20 +5,20 @@
   "status":"other",
   "links":[
     {
-      "url":"http://iewebgl.com/",
-      "title":"Polyfill for IE"
-    },
-    {
-      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
-      "title":"Tutorial"
-    },
-    {
       "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
       "title":"Webkit blog post"
     },
     {
       "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
       "title":"Instructions on enabling WebGL"
+    },
+    {
+      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
+      "title":"Tutorial"
+    },
+    {
+      "url":"http://iewebgl.com/",
+      "title":"Polyfill for IE"
     },
     {
       "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
@@ -39,7 +39,7 @@
       "8":"p",
       "9":"p",
       "10":"p",
-      "11":"y"
+      "11":"a"
     },
     "firefox":{
       "2":"n",
@@ -184,9 +184,9 @@
       "10":"p"
     }
   },
-  "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have <a href=\"http://www.khronos.org/webgl/wiki/BlacklistsAndWhitelists\">up to date video drivers</a>. This problem was <a href=\"http://blog.chromium.org/2012/02/gpu-accelerating-2d-canvas-and-enabling.html\">solved in Chrome</a> as of version 18.\r\n\r\nNote that WebGL is part of the <a href=\"http://www.khronos.org/webgl/\">Khronos Group</a>, not the W3C.",
-  "usage_perc_y":41.39,
-  "usage_perc_a":22.74,
+  "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have <a href=\"http://www.khronos.org/webgl/wiki/BlacklistsAndWhitelists\">up to date video drivers</a>. This problem was <a href=\"http://blog.chromium.org/2012/02/gpu-accelerating-2d-canvas-and-enabling.html\">solved in Chrome</a> as of version 18. Support in IE11 is partial due to <a href=\"http://connect.microsoft.com/IE/feedback/details/795172/ie11-fails-more-than-half-tests-in-official-webgl-conformance-test-suite\">partial support of the spec</a>.\r\n\r\nNote that WebGL is part of the <a href=\"http://www.khronos.org/webgl/\">Khronos Group</a>, not the W3C.",
+  "usage_perc_y":34.7,
+  "usage_perc_a":29.43,
   "ucprefix":false,
   "parent":"canvas",
   "keywords":"web gl",
