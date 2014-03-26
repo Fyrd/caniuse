@@ -19,10 +19,16 @@
     {
       "url":"http://www.zachleat.com/web/placeholder/",
       "title":"Article on usage"
+    },
+    {
+      "url": "https://code.google.com/p/android/issues/detail?id=24626",
+      "title": "Issue 24626: Placeholder text for an input type=\"number\" does not show in webkit ICS"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Android 4.0 and Android 4.1 Browser and WebView doesn't show up the placeholder for <input type=\"number\"> field, link: https://code.google.com/p/android/issues/detail?id=24626"
+    }
   ],
   "categories":[
     "HTML5"
@@ -152,8 +158,8 @@
       "2.2":"y",
       "2.3":"y",
       "3":"y",
-      "4":"y",
-      "4.1":"y",
+      "4":"a",
+      "4.1":"a",
       "4.2-4.3":"y",
       "4.4":"y"
     },
