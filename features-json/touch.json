@@ -13,12 +13,12 @@
       "title":"Detailed support tables"
     },
     {
-      "url":"http://schepers.cc/getintouch",
-      "title":"Information on the spec development"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh673557(v=vs.85).aspx",
       "title":"Internet Explorer's gesture and touch implementation."
+    },
+    {
+      "url":"http://schepers.cc/getintouch",
+      "title":"Information on the spec development"
     }
   ],
   "bugs":[
@@ -30,8 +30,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
