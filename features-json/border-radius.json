@@ -40,6 +40,9 @@
     },
     {
       "description":"border-radius <a href=\"http://stackoverflow.com/questions/4692686/ie9-border-radius-and-background-gradient-bleeding\">does not work properly</a> when element is given a background gradient in IE9"
+    },
+    {
+      "description":"Border radius does not work on tables that have border-collapse: collapse set."
     }
   ],
   "categories":[
