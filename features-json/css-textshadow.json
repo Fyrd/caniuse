@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.css3files.com/shadow/#textshadow",
+      "title":"Information page"
+    },
+    {
       "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
       "title":"Mozilla hacks article"
     },
@@ -15,15 +19,14 @@
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.css3files.com/shadow/#textshadow",
-      "title":"Information page"
     }
   ],
   "bugs":[
     {
       "description":"According to http://code.google.com/p/android/issues/detail?id=7531, text-shadow doesn't work on Android (at least 2.3, from testing) when the blur-radius is 0."
+    },
+    {
+      "description":"IE10 doesn\u2019t seem to render rgba(255,255,255,0.25) properly. It seems to ignore the alpha value and uses 100% white instead."
     }
   ],
   "categories":[

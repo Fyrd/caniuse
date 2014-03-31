@@ -2,29 +2,27 @@
   "title":"IndexedDB",
   "description":"Method of storing data client-side, allows indexed database queries. Previously known as WebSimpleDB API.",
   "spec":"http://www.w3.org/TR/IndexedDB/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
+      "title":"has.js test"
     },
     {
       "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
       "title":"Mozilla Hacks article"
     },
     {
-      "url":"https://github.com/axemclion/IndexedDBShim",
-      "title":"Polyfill for browsers supporting WebSQL"
+      "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
+      "title":"WebPlatform Docs"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
-      "title":"has.js test"
+      "url":"https://github.com/axemclion/IndexedDBShim",
+      "title":"Polyfill for browsers supporting WebSQL"
     }
   ],
   "bugs":[
-    {
-      "description":"IndexedDB is only available on websites with http or https URL schemes (not locally)"
-    }
+    
   ],
   "categories":[
     "JS API"
@@ -74,12 +72,12 @@
       "31":"y"
     },
     "chrome":{
-      "4":"n",
-      "5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"n",
-      "9":"n",
+      "4":"p",
+      "5":"p",
+      "6":"p",
+      "7":"p",
+      "8":"p",
+      "9":"p",
       "10":"n",
       "11":"a x",
       "12":"a x",
@@ -109,27 +107,27 @@
       "36":"y"
     },
     "safari":{
-      "3.1":"n",
-      "3.2":"n",
-      "4":"n",
-      "5":"n",
-      "5.1":"n",
-      "6":"n",
-      "6.1":"n",
-      "7":"n"
+      "3.1":"p",
+      "3.2":"p",
+      "4":"p",
+      "5":"p",
+      "5.1":"p",
+      "6":"p",
+      "6.1":"p",
+      "7":"p"
     },
     "opera":{
       "9":"n",
       "9.5-9.6":"n",
       "10.0-10.1":"n",
-      "10.5":"n",
-      "10.6":"n",
-      "11":"n",
-      "11.1":"n",
-      "11.5":"n",
-      "11.6":"n",
-      "12":"n",
-      "12.1":"n",
+      "10.5":"p",
+      "10.6":"p",
+      "11":"p",
+      "11.1":"p",
+      "11.5":"p",
+      "11.6":"p",
+      "12":"p",
+      "12.1":"p",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -139,37 +137,37 @@
       "21":"y"
     },
     "ios_saf":{
-      "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
-      "6.0-6.1":"n",
-      "7.0":"n"
+      "3.2":"p",
+      "4.0-4.1":"p",
+      "4.2-4.3":"p",
+      "5.0-5.1":"p",
+      "6.0-6.1":"p",
+      "7.0":"p"
     },
     "op_mini":{
       "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n",
+      "2.1":"p",
+      "2.2":"p",
+      "2.3":"p",
+      "3":"p",
+      "4":"p",
+      "4.1":"p",
+      "4.2-4.3":"p",
       "4.4":"y"
     },
     "bb":{
-      "7":"n",
+      "7":"p",
       "10":"a x"
     },
     "op_mob":{
       "10":"n",
-      "11":"n",
-      "11.1":"n",
-      "11.5":"n",
-      "12":"n",
-      "12.1":"n",
+      "11":"p",
+      "11.1":"p",
+      "11.5":"p",
+      "12":"p",
+      "12.1":"p",
       "0":"y"
     },
     "and_chr":{

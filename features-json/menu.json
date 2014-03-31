@@ -1,7 +1,7 @@
 {
   "title":"Toolbar/context menu",
   "description":"Method of defining a toolbar menu, a context menu or a list of (interactive) options using the &lt;menu> element.",
-  "spec":"http://www.w3.org/TR/html5/interactive-elements.html#context-menus",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/interactive-elements.html#the-menuitem-element",
   "status":"cr",
   "links":[
     {
@@ -9,12 +9,12 @@
       "title":"Demo"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
-      "title":"has.js test"
-    },
-    {
       "url":"http://addyosmani.github.com/jQuery-contextMenu/",
       "title":"jQuery polyfill"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -176,7 +176,7 @@
       "10":"n"
     }
   },
-  "notes":"Partial support in Firefox refers to using the non-standard \"menuitem\" child elements, where the current spec uses \"<a href=\"http://www.w3.org/TR/html5/interactive-elements.html#the-command-element\">command</a>\" child elements. It is also currently limited to context menus, not toolbar menus.",
+  "notes":"Partial support in Firefox refers to being limited to context menus, not toolbar menus.",
   "usage_perc_y":0,
   "usage_perc_a":15.1,
   "ucprefix":false,

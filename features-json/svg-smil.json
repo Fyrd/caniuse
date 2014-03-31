@@ -13,12 +13,12 @@
       "title":"JS library to support SMIL in SVG"
     },
     {
-      "url":"http://svg-wow.org/blog/category/animation/",
-      "title":"Examples on SVG WOW"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg-smil",
       "title":"has.js test"
+    },
+    {
+      "url":"http://svg-wow.org/blog/category/animation/",
+      "title":"Examples on SVG WOW"
     },
     {
       "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
@@ -30,7 +30,7 @@
       "description":"Animation in SVG is not supported in iOS safari when the SVG is displayed in an img tag."
     },
     {
-      "description":"No events are fired at all in Webkit during animation (onbegin/onrepeat/onend) <a href=\"https://bugs.webkit.org/show_bug.cgi?id=63727\">see bug</a>"
+      "description":"No events are fired at all in WebKit/Blink browsers during animation (onbegin/onrepeat/onend) <a href=\"https://bugs.webkit.org/show_bug.cgi?id=63727\">see bug</a>"
     }
   ],
   "categories":[
@@ -122,8 +122,8 @@
       "5":"a",
       "5.1":"a",
       "6":"a",
-      "6.1":"a",
-      "7":"a"
+      "6.1":"y",
+      "7":"y"
     },
     "opera":{
       "9":"y",
@@ -150,8 +150,8 @@
       "4.0-4.1":"a",
       "4.2-4.3":"a",
       "5.0-5.1":"a",
-      "6.0-6.1":"a",
-      "7.0":"a"
+      "6.0-6.1":"y",
+      "7.0":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -190,8 +190,8 @@
     }
   },
   "notes":"Partial support in Safari refers to not working in HTML files.",
-  "usage_perc_y":59.46,
-  "usage_perc_a":9.22,
+  "usage_perc_y":66.62,
+  "usage_perc_a":2.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

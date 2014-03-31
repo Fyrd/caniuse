@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
-      "title":"Demo of various effects"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
       "title":"MDN article"
     },
@@ -21,6 +17,10 @@
       "title":"Live editor"
     },
     {
+      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
+      "title":"Demo of various effects"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
       "title":"WebPlatform Docs"
     }
@@ -30,7 +30,7 @@
       "description":"Safari on iOS (including 6) can not apply box-shadow to input elements. (Solution: Add -webkit-appearance: none; to the input elements.)"
     },
     {
-      "description":"Android 2.3 default browser doesn't seem to appreciate 0px values.\r\ne.g. -webkit-box-shadow: 5px 1px 0px #f04e29;\r\ndoesn't work, but\r\n-webkit-box-shadow: 5px 1px 1px #f04e29\r\ndoes!"
+      "description":"Safari 6, iOS 6 and Android 2.3 default browser don't with with a 0px value for \"spread\".\r\ne.g. -webkit-box-shadow: 5px 1px 0px #f04e29;\r\ndoesn't work, but\r\n-webkit-box-shadow: 5px 1px 1px #f04e29\r\ndoes."
     }
   ],
   "categories":[

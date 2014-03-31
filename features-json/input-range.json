@@ -5,28 +5,30 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
-      "title":"Tutorial"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
+      "title":"has.js test"
     },
     {
       "url":"https://github.com/freqdec/fd-slider",
       "title":"Cross-browser polyfill"
     },
     {
+      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
+      "title":"Tutorial"
+    },
+    {
       "url":"https://github.com/fryn/html5slider",
       "title":"Polyfill for Firefox"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
-      "title":"has.js test"
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE10 & 11 have a some <a href=\"http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter\">bugs related to the step value</a>."
+    }
   ],
   "categories":[
     "HTML5"

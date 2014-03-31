@@ -5,24 +5,26 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/zoltan-dulac/html5Forms.js",
-      "title":"Polyfill for HTML5 forms"
-    },
-    {
-      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
-      "title":"Datepicker tutorial w/polyfill"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
       "title":"has.js test"
     },
     {
+      "url":"https://github.com/zoltan-dulac/html5Forms.js",
+      "title":"Polyfill for HTML5 forms"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
+      "title":"Datepicker tutorial w/polyfill"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"There's a <a href=\"https://code.google.com/p/chromium/issues/detail?id=172029\">bug with Chrome 25+</a> on Windows:\r\n\r\nThe black triangle, to open the datePicker, will go outside the input field. The trick is that if you put an \"overflow: hidden\" or something like this, you'll see it disappear. It is the case with Twitter Bootstrap 2.3.0, and it's quite tricky.\r\n"
+    }
   ],
   "categories":[
     "HTML5"
