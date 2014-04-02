@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.quirksmode.org/css/selectors/",
-      "title":"Detailed support information"
-    },
-    {
       "url":"http://selectivizr.com",
       "title":"Selectivizr: Polyfill for IE6-8"
+    },
+    {
+      "url":"http://www.quirksmode.org/css/selectors/",
+      "title":"Detailed support information"
     },
     {
       "url":"http://www.css3.info/selectors-test/",
@@ -182,7 +182,7 @@
   },
   "notes":"IE7 and IE8 support the following CSS3 selectors, but only in Standards Mode: General siblings (element1~element2) and Attribute selectors ([attr^=val], [attr$=val] and [attr*=val])",
   "usage_perc_y":87.13,
-  "usage_perc_a":5.2,
+  "usage_perc_a":5.38,
   "ucprefix":false,
   "parent":"",
   "keywords":":target,:not",
