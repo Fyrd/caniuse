@@ -140,7 +140,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -187,8 +188,8 @@
     }
   },
   "notes":"Can be partially emulated in older IE versions using the non-standard \"shadow\" filter. Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\" and blur radius value support.",
-  "usage_perc_y":82.33,
-  "usage_perc_a":1.52,
+  "usage_perc_y":82.32,
+  "usage_perc_a":1.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"box-shadows,boxshadows,box shadow,shaow",

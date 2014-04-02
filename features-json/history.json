@@ -144,7 +144,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -191,8 +192,8 @@
     }
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
-  "usage_perc_y":73.36,
-  "usage_perc_a":3.68,
+  "usage_perc_y":73.45,
+  "usage_perc_a":3.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

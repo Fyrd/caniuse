@@ -136,7 +136,8 @@
       "18":"y",
       "19":"y",
       "20":"y",
-      "21":"y"
+      "21":"y",
+      "22":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -183,8 +184,8 @@
     }
   },
   "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome. IE has no support for .setDragImage. Firefox supports any kind of DOM elements for .setDragImage. Chrome must have either an HTMLImageElement or any kind of DOM elements attached to the DOM and within the viewport of the browser for .setDragImage.",
-  "usage_perc_y":55.43,
-  "usage_perc_a":18.82,
+  "usage_perc_y":54.44,
+  "usage_perc_a":19.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",
