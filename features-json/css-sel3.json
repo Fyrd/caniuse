@@ -31,7 +31,7 @@
     "ie":{
       "5.5":"n",
       "6":"p",
-      "7":"p",
+      "7":"a",
       "8":"a",
       "9":"y",
       "10":"y",
@@ -180,7 +180,7 @@
       "10":"y"
     }
   },
-  "notes":"IE8 supports the following CSS3 selectors, but only when a DOCTYPE is declared: General siblings (element1~element2) and Attribute selectors ([attr^=val], [attr$=val] and [attr*=val])",
+  "notes":"IE7 and IE8 support the following CSS3 selectors, but only in Standards Mode: General siblings (element1~element2) and Attribute selectors ([attr^=val], [attr$=val] and [attr*=val])",
   "usage_perc_y":87.13,
   "usage_perc_a":5.2,
   "ucprefix":false,
