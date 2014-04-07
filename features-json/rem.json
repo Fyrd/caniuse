@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"IE 9 & IE 10 do not support rem units when used in the \"font\" shorthand property or when used on pseudo elements (fixed in IE11)."
+    },
+    {
+      "description":"IE 9, 10 and 11 do not support rem units when used in the \"line-height\" property when used on :before and :after pseudo elements (https://connect.microsoft.com/IE/feedback/details/776744)."
     }
   ],
   "categories":[
