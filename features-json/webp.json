@@ -5,8 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
-      "title":"Official website FAQ - Which web browsers natively support WebP?"
+      "url":"http://libwebpjs.appspot.com/",
+      "title":"Decoder in JS"
+    },
+    {
+      "url":"https://developers.google.com/speed/webp/",
+      "title":"Official website"
     },
     {
       "url":"http://webpjs.appspot.com/",
@@ -17,12 +21,8 @@
       "title":"Polyfill for browsers with WebM support"
     },
     {
-      "url":"http://libwebpjs.appspot.com/",
-      "title":"Decoder in JS"
-    },
-    {
-      "url":"https://developers.google.com/speed/webp/",
-      "title":"Official website"
+      "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
+      "title":"Official website FAQ - Which web browsers natively support WebP?"
     }
   ],
   "bugs":[
