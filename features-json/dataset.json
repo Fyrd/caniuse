@@ -13,24 +13,26 @@
       "title":"Demo using dataset"
     },
     {
-      "url":"http://html5doctor.com/html5-custom-data-attributes/",
-      "title":"HTML5 Doctor article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
+      "title":"MDN Reference - dataset"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
-      "title":"has.js test"
+      "url":"http://html5doctor.com/html5-custom-data-attributes/",
+      "title":"HTML5 Doctor article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
-      "title":"MDN Reference - dataset"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
+      "title":"has.js test"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Android 2.3 cannot read data-* properties from select elements.\r\n"
+    }
   ],
   "categories":[
     "HTML5"

@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"IE9 and IE10 don't support outline-offset as defined here: http://dev.w3.org/csswg/css3-ui/#outline-offset0"
+    },
+    {
+      "description":"Some versions of Firefox, if not all, place the outline outside of the element's margin property."
     }
   ],
   "categories":[
