@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Android 4.0 and Android 4.1 Browser and WebView doesn't show up the placeholder for &lt;input type=\"number\"> field, link: https://code.google.com/p/android/issues/detail?id=24626"
+      "description":""
     }
   ],
   "categories":[
@@ -160,8 +160,8 @@
       "2.2":"y",
       "2.3":"y",
       "3":"y",
-      "4":"a",
-      "4.1":"a",
+      "4":"y",
+      "4.1":"y",
       "4.2-4.3":"y",
       "4.4":"y"
     },
