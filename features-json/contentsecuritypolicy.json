@@ -19,6 +19,9 @@
     },
     {
       "description":"Partially support in iOS Safari 5.0-5.1 refers to the browser recognizing the X-Webkit-CSP header but failing to handle complex cases correctly, often resulting in broken pages."
+    },
+    {
+      "description":"Partially support in Internet Explorer 10-11 refers to the browser only supporting the 'sandbox' directive by using the 'X-Content-Security-Policy' header."
     }
   ],
   "categories":[
