@@ -9,6 +9,10 @@
       "title":"Polyfill"
     },
     {
+      "url":"https://github.com/rodneyrehm/viewport-units-buggyfill",
+      "title":"Buggyfill - unlike previous polyfill, which uses JS-based CSS parser, this uses more reliable CSS Object Model but works only in modern browsers and corrects misbehavior"
+    },
+    {
       "url":"http://css-tricks.com/viewport-sized-typography/",
       "title":"Blog post"
     }
@@ -16,6 +20,9 @@
   "bugs":[
     {
       "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in calc() until version 34."
+    },
+    {
+      "description":"iOS Safari (both 6 and 7) does not support viewport units at least for box shadows."
     }
   ],
   "categories":[
@@ -176,7 +183,7 @@
       "10":"a #1"
     }
   },
-  "notes":"Partial support in IE9 refers to supporting \"vm\" instead of \"vmin\". Partial support in iOS7 is due to buggy behavior of the vh unit. All other partial support refers to not supporting the \"vmax\" unit. ",
+  "notes":"Partial support in IE9 refers to supporting \"vm\" instead of \"vmin\". Partial support in iOS7 is due to buggy behavior of the \"vh\" unit. All other partial support refers to not supporting the \"vmax\" unit. ",
   "usage_perc_y":60.03,
   "usage_perc_a":13.25,
   "ucprefix":false,
