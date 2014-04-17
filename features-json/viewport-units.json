@@ -15,6 +15,10 @@
     {
       "url":"http://css-tricks.com/viewport-sized-typography/",
       "title":"Blog post"
+    },
+    {
+      "url":"http://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
+      "title": "Back-Forward issue blog post"
     }
   ],
   "bugs":[
@@ -23,6 +27,9 @@
     },
     {
       "description":"iOS Safari (both 6 and 7) does not support viewport units at least for box shadows."
+    },
+    {
+      "description":"iOS Safari (tested on 7) does sets 0 after going back to page after 60s."
     }
   ],
   "categories":[
