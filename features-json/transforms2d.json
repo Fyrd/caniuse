@@ -39,6 +39,9 @@
     },
     {
       "description":"IE doesn't support CSS transforms on SVG elements (version 11 or prior)."
+    },
+    {
+      "description":"Transforms may break position:fixed styles of contained elements"
     }
   ],
   "categories":[
