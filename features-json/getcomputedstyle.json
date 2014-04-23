@@ -9,25 +9,25 @@
       "title":"MDN article"
     },
     {
+      "url":"http://snipplr.com/view/13523/",
+      "title":"Polyfill for IE"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/cssom/methods/getComputedStyle",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
       "title":"Demo"
-    },
-    {
-      "url":"http://snipplr.com/view/13523/",
-      "title":"Polyfill for IE"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
     "CSS3",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
