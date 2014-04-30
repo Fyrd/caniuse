@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://davidwalsh.name/textarea-resize",
-      "title":"On textarea resizing"
-    },
-    {
       "url":"http://css-tricks.com/almanac/properties/r/resize/",
       "title":"CSS Tricks info"
+    },
+    {
+      "url":"http://davidwalsh.name/textarea-resize",
+      "title":"On textarea resizing"
     }
   ],
   "bugs":[
@@ -61,7 +61,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"y",

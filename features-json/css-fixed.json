@@ -9,12 +9,12 @@
       "title":"Article on mobile support"
     },
     {
-      "url":"http://www.css-101.org/fixed-positioning/05.php",
-      "title":"Workaround for IE6"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/position",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.css-101.org/fixed-positioning/05.php",
+      "title":"Workaround for IE6"
     }
   ],
   "bugs":[
@@ -67,7 +67,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"y",

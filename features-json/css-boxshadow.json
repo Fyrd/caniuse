@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
-      "title":"Demo of various effects"
-    },
-    {
-      "url":"http://westciv.com/tools/boxshadows/index.html",
-      "title":"Live editor"
-    },
-    {
-      "url":"http://www.css3files.com/shadow/",
-      "title":"Information page"
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
-      "title":"WebPlatform Docs"
+      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
+      "title":"Demo of various effects"
+    },
+    {
+      "url":"http://www.css3files.com/shadow/",
+      "title":"Information page"
+    },
+    {
+      "url":"http://westciv.com/tools/boxshadows/index.html",
+      "title":"Live editor"
     }
   ],
   "bugs":[
@@ -75,7 +75,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"y x",

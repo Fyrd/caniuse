@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
+      "title":"Detailed compliance table"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
       "title":"WebPlatform Docs"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://border-radius.com",
       "title":"Border-radius CSS Generator"
-    },
-    {
-      "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
-      "title":"Detailed compliance table"
     },
     {
       "url":"http://www.css3files.com/border/#borderradius",
@@ -90,7 +90,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"y x",

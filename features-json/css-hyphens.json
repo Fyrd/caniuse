@@ -9,12 +9,12 @@
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/hyphens",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
       "title":"Blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/hyphens",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -65,7 +65,8 @@
       "28":"y x",
       "29":"y x",
       "30":"y x",
-      "31":"y x"
+      "31":"y x",
+      "32":"y x"
     },
     "chrome":{
       "4":"n",

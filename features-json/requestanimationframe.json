@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/timing/methods/requestAnimationFrame",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
       "title":"Blog post"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/timing/methods/requestAnimationFrame",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
@@ -67,7 +67,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"n",

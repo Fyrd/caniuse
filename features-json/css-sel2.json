@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.quirksmode.org/css/contents.html",
-      "title":"Detailed support information"
-    },
-    {
-      "url":"http://www.yourhtmlsource.com/stylesheets/advancedselectors.html",
-      "title":"Examples of advanced selectors"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
     },
     {
+      "url":"http://www.quirksmode.org/css/contents.html",
+      "title":"Detailed support information"
+    },
+    {
       "url":"http://selectivizr.com",
       "title":"Selectivizr: Polyfill for IE6-8"
+    },
+    {
+      "url":"http://www.yourhtmlsource.com/stylesheets/advancedselectors.html",
+      "title":"Examples of advanced selectors"
     }
   ],
   "bugs":[
@@ -77,7 +77,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"y",

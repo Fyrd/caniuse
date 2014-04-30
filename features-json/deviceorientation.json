@@ -9,12 +9,12 @@
       "title":"has.js test"
     },
     {
-      "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
-      "title":"DeviceOrientation implementation prototype for IE10"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
+      "title":"DeviceOrientation implementation prototype for IE10"
     }
   ],
   "bugs":[
@@ -73,7 +73,8 @@
       "28":"a",
       "29":"a",
       "30":"a",
-      "31":"a"
+      "31":"a",
+      "32":"a"
     },
     "chrome":{
       "4":"n",

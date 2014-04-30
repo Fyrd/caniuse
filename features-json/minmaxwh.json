@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://code.google.com/p/ie7-js/",
+      "title":"JS library with support"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/min-width",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.impressivewebs.com/min-max-width-height-css/",
       "title":"CSS Basics post"
-    },
-    {
-      "url":"http://code.google.com/p/ie7-js/",
-      "title":"JS library with support"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"y",

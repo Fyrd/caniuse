@@ -5,22 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.jplayer.org/latest/demos/",
-      "title":"Demos of audio player that uses the audio element"
-    },
-    {
-      "url":"http://24ways.org/2010/the-state-of-html5-audio",
-      "title":"Detailed article on support"
-    },
-    {
-      "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
-      "title":"The State of HTML5 Audio"
-    },
-    {
-      "url":"http://textopia.org/androidsoundformats.html",
-      "title":"File format test page"
-    },
-    {
       "url":"http://html5doctor.com/native-audio-in-the-browser/",
       "title":"HTML5 Doctor article"
     },
@@ -33,8 +17,24 @@
       "title":"Detailed article on video/audio elements"
     },
     {
+      "url":"http://www.jplayer.org/latest/demos/",
+      "title":"Demos of audio player that uses the audio element"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/audio.js#audio",
       "title":"has.js test"
+    },
+    {
+      "url":"http://textopia.org/androidsoundformats.html",
+      "title":"File format test page"
+    },
+    {
+      "url":"http://24ways.org/2010/the-state-of-html5-audio",
+      "title":"Detailed article on support"
+    },
+    {
+      "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
+      "title":"The State of HTML5 Audio"
     }
   ],
   "bugs":[
@@ -99,7 +99,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "chrome":{
       "4":"y",
