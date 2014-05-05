@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/jonstipe/number-polyfill",
-      "title":"Polyfill"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/jonstipe/number-polyfill",
+      "title":"Polyfill"
     },
     {
       "url":"http://www.html5tutorial.info/html5-number.php",
@@ -183,7 +183,7 @@
       "10":"a"
     }
   },
-  "notes":"iOS Safari, Android 4 and Chrome for Android show number input, but do not use \"step\", \"min\" or \"max\" attributes or show increment/decrement buttons. Internet Explorer 10 does not show increment/decrement buttons.",
+  "notes":"iOS Safari, Android 4 and Chrome for Android show number input, but do not use \"step\", \"min\" or \"max\" attributes or show increment/decrement buttons. Internet Explorer 10 and 11 do not show increment/decrement buttons.",
   "usage_perc_y":40.96,
   "usage_perc_a":25.07,
   "ucprefix":false,

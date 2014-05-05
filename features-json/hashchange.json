@@ -5,6 +5,14 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://github.com/3nr1c/jUri.js",
+      "title":"Polyfill"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/Element/hashchange",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
       "title":"MSDN article"
     },
@@ -15,14 +23,6 @@
     {
       "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
       "title":"MDN article"
-    },
-    {
-      "url":"http://github.com/3nr1c/jUri.js",
-      "title":"Polyfill"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/dom/Element/hashchange",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
