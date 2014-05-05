@@ -22,7 +22,7 @@
       "description":"Internet Explorer (in accordance with the spec) does not accept calculations without spaces for additions/subtractions (ie. calc(100%-30px) is invalid, but calc(100% - 30px) works fine)."
     },
     {
-      "description":"Chrome does not support viewport units in calc() expressions."
+      "description":"Chrome and Safari do not support viewport units in calc() expressions."
     },
     {
       "description":"calc() does not work within translate/translateX on Internet Explorer 11: http://jsfiddle.net/Y5x93/\r\nIt does work in Firefox 25+ and Chrome 31+ with the -webkit- prefix."
