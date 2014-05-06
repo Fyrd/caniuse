@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/History",
-      "title":"WebPlatform Docs"
+      "url":"https://github.com/browserstate/history.js",
+      "title":"History.js polyfill "
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
-      "title":"MDN article"
+      "url":"http://docs.webplatform.org/wiki/dom/History",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
@@ -25,8 +25,8 @@
       "title":"Demo page"
     },
     {
-      "url":"https://github.com/browserstate/history.js",
-      "title":"History.js polyfill "
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
+      "title":"MDN article"
     }
   ],
   "bugs":[
