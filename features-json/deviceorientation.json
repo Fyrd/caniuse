@@ -26,6 +26,9 @@
     },
     {
       "description":"window.oncompassneedscalibration property is initially undefined in Opera Mobile 12, while the event is correctly fired when the property is defined later."
+    },
+    {
+      "description":"In Opera Mobile 12 the <code>interval</code> property isn't constant as <a href=\"http://www.w3.org/TR/orientation-event/#devicemotion\">required by the specifications</a>."
     }
   ],
   "categories":[
