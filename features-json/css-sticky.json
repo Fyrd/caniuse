@@ -1,20 +1,20 @@
 {
   "title":"CSS position:sticky",
   "description":"Keeps elements positioned as \"fixed\" or \"relative\" depending on how it appears in the viewport. As a result the element is \"stuck\" when necessary while scrolling.",
-  "spec":"http://dev.w3.org/csswg/css-position-3/#sticky-positioning",
+  "spec":"http://dev.w3.org/csswg/css-position/#sticky-positioning",
   "status":"unoff",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/position",
-      "title":"WebPlatform Docs"
+      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
+      "title":"HTML5Rocks"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "title":"MDN article"
     },
     {
-      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
-      "title":"HTML5Rocks"
+      "url":"http://docs.webplatform.org/wiki/css/properties/position",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -179,7 +179,7 @@
       "10":"n"
     }
   },
-  "notes":"Can be enabled in Firefox 26+ by setting the about:config preference layout.css.sticky.enabled to true.",
+  "notes":"Can be enabled in Firefox 26+ by setting the about:config preference layout.css.sticky.enabled to true and in Chrome 23 by enabling the #enable-experimental-web-platform-features flag.",
   "usage_perc_y":7.59,
   "usage_perc_a":0,
   "ucprefix":false,
