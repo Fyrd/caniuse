@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Webkit doesn't support viewport units in calc() expressions."
+      "description":"Webkit doesn't support viewport units in calc() expressions: https://bugs.webkit.org/show_bug.cgi?id=94158 and https://code.google.com/p/chromium/issues/detail?id=168840"
     },
     {
       "description":"calc() does not work within translate/translateX on Internet Explorer 11: http://jsfiddle.net/Y5x93/\r\nIt does work in Firefox 25+ and Chrome 31+ with the -webkit- prefix."
