@@ -5,27 +5,21 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
-      "title":"Mozilla Hacks article"
+      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
-      "title":"WebPlatform Docs"
+      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
     {
       "description":"Webkit doesn't support viewport units in calc() expressions: https://bugs.webkit.org/show_bug.cgi?id=94158 and https://code.google.com/p/chromium/issues/detail?id=168840"
-    },
-    {
-      "description":"calc() does not work within translate/translateX on Internet Explorer 11: http://jsfiddle.net/Y5x93/\r\nIt does work in Firefox 25+ and Chrome 31+ with the -webkit- prefix."
-    },
-    {
-      "description":"calc() does not work with changing an object's dimensions using CSS transitions in Internet Explorer: http://jsfiddle.net/32Qr7/\r\nThe bottom box in this example uses calc() to change it's width and height on hover. The dimensions of the block change immediately on hover while the background color follows the transition rules specified."
     }
   ],
   "categories":[
