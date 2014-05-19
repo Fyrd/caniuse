@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Chrome has performance problems with <a href=\"http://oddlystudios.com/blog/html5-video-problems-in-chrome/\">long h.264 videos</a>."
+    },
+    {
+      "description":"Firefox on OS X <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=851290\">will not play H.264 Video Natively yet.</a>"
     }
   ],
   "categories":[
