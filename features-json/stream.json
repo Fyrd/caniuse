@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview",
-      "title":"Technology preview from Opera"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/Navigator/getUserMedia",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview",
+      "title":"Technology preview from Opera"
     }
   ],
   "bugs":[
@@ -136,7 +136,8 @@
       "19":"y x",
       "20":"y x",
       "21":"y x",
-      "22":"y x"
+      "22":"y x",
+      "23":"y x"
     },
     "ios_saf":{
       "3.2":"n",

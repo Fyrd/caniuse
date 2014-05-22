@@ -9,16 +9,16 @@
       "title":"Blog post on usage problems"
     },
     {
+      "url":"http://html5demos.com/contenteditable",
+      "title":"Demo page"
+    },
+    {
       "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
       "title":"WHATWG blog post"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/contentEditable",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html5demos.com/contenteditable",
-      "title":"Demo page"
     }
   ],
   "bugs":[
@@ -146,7 +146,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"n",

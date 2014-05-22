@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://aurelio.audero.it/demo/classlist-api-demo.html",
+      "title":"Demo using classList"
+    },
+    {
       "url":"https://github.com/eligrey/classList.js",
       "title":"Polyfill script"
     },
@@ -13,16 +17,12 @@
       "title":"Mozilla Hacks article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/dom/Element/classList",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.sitepoint.com/exploring-classlist-api/",
       "title":"SitePoint article"
     },
     {
-      "url":"http://aurelio.audero.it/demo/classlist-api-demo.html",
-      "title":"Demo using classList"
+      "url":"http://docs.webplatform.org/wiki/dom/Element/classList",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -148,7 +148,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"p",

@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://aurelio.audero.it/demo/vibration-api-demo.html",
-      "title":"Demo"
-    },
-    {
-      "url":"http://davidwalsh.name/vibration-api",
-      "title":"Vibration API sample code & demo"
-    },
-    {
       "url":"http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585",
       "title":"Tuts+ article"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/API/Vibration",
       "title":"MDN article"
+    },
+    {
+      "url":"http://davidwalsh.name/vibration-api",
+      "title":"Vibration API sample code & demo"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/vibration-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -138,7 +138,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"n",

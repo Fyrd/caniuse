@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
-      "title":"Live editor"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
+      "title":"Live editor"
     },
     {
       "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
@@ -143,7 +143,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"y",

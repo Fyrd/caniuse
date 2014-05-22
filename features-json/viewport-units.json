@@ -5,8 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/viewport-sized-typography/",
-      "title":"Blog post"
+      "url":"https://github.com/saabi/vminpoly",
+      "title":"Polyfill"
     },
     {
       "url":"https://github.com/rodneyrehm/viewport-units-buggyfill",
@@ -17,8 +17,8 @@
       "title":"Back-Forward issue blog post"
     },
     {
-      "url":"https://github.com/saabi/vminpoly",
-      "title":"Polyfill"
+      "url":"http://css-tricks.com/viewport-sized-typography/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -146,7 +146,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"n",

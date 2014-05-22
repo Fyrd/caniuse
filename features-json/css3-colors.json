@@ -9,12 +9,12 @@
       "title":"Information page"
     },
     {
-      "url":"http://dev.opera.com/articles/view/color-in-opera-10-hsl-rgb-and-alpha-transparency/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/color#RGBA_Notation",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/color-in-opera-10-hsl-rgb-and-alpha-transparency/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -134,7 +134,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"y",

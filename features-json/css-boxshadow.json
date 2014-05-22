@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.css3files.com/shadow/",
-      "title":"Information page"
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
+      "title":"WebPlatform Docs"
     },
     {
-      "url":"http://westciv.com/tools/boxshadows/index.html",
-      "title":"Live editor"
+      "url":"http://www.css3files.com/shadow/",
+      "title":"Information page"
     },
     {
       "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
@@ -21,8 +21,8 @@
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-shadow",
-      "title":"WebPlatform Docs"
+      "url":"http://westciv.com/tools/boxshadows/index.html",
+      "title":"Live editor"
     }
   ],
   "bugs":[
@@ -144,7 +144,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"a x",

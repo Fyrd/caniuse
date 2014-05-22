@@ -17,12 +17,12 @@
       "title":"Webkit blog post"
     },
     {
-      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
-      "title":"Tutorial"
-    },
-    {
       "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
       "title":"Instructions on enabling WebGL"
+    },
+    {
+      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
+      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -142,7 +142,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"n",

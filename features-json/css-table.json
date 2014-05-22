@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://blog.12spokes.com/web-design-development/when-to-choose-between-the-html-table-element-and-css-displaytable-property/",
-      "title":"Deciding on HTML or CSS tables"
-    },
-    {
       "url":"http://www.onenaught.com/posts/201/use-css-displaytable-for-layout",
       "title":"Blog post on usage"
+    },
+    {
+      "url":"http://blog.12spokes.com/web-design-development/when-to-choose-between-the-html-table-element-and-css-displaytable-property/",
+      "title":"Deciding on HTML or CSS tables"
     }
   ],
   "bugs":[
@@ -132,7 +132,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"y",

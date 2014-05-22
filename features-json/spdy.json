@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
-      "title":"SPDY whitepaper"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/SPDY",
       "title":"Wikipedia"
+    },
+    {
+      "url":"http://dev.chromium.org/spdy/spdy-whitepaper",
+      "title":"SPDY whitepaper"
     }
   ],
   "bugs":[
@@ -132,7 +132,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"n",

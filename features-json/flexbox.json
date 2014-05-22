@@ -5,12 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-      "title":"A Complete Guide to Flexbox"
-    },
-    {
       "url":"http://bennettfeely.com/flexplorer/",
       "title":"Flexbox CSS generator"
+    },
+    {
+      "url":"http://philipwalton.github.io/solved-by-flexbox/",
+      "title":"Examples on how to solve common layout problems with flexbox"
+    },
+    {
+      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "title":"A Complete Guide to Flexbox"
     },
     {
       "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
@@ -19,10 +23,6 @@
     {
       "url":"http://the-echoplex.net/flexyboxes/",
       "title":"Flexbox playground and code generator"
-    },
-    {
-      "url":"http://philipwalton.github.io/solved-by-flexbox/",
-      "title":"Examples on how to solve common layout problems with flexbox"
     },
     {
       "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
@@ -157,7 +157,8 @@
       "19":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
