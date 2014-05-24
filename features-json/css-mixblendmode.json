@@ -1,15 +1,15 @@
 {
-  "title":"Blending of CSS image",
-  "description":"Allows blending between CSS background images",
-  "spec":"http://www.w3.org/TR/compositing-1/#background-blend-mode",
+  "title":"Blending of HTML and SVG element",
+  "description":"Allows blending between arbitrary SVG and HTML elements",
+  "spec":"http://www.w3.org/TR/compositing-1/#mix-blend-mode",
   "status":"cr",
   "links":[
     {
-      "url":"http://codepen.io/bennettfeely/pen/rxoAc",
+      "url":"http://codepen.io/bennettfeely/pen/csjzd",
       "title":"codepen example"
     },
     {
-      "url":"https://medium.com/web-design-technique/6b51bf53743a",
+      "url":"http://css-tricks.com/basics-css-blend-modes/",
       "title":"Blog post"
     }
   ],
@@ -60,8 +60,8 @@
       "27":"n",
       "28":"n",
       "29":"n",
-      "30":"y",
-      "31":"y",
+      "30":"n",
+      "31":"n",
       "32":"y"
     },
     "chrome":{
@@ -96,10 +96,10 @@
       "32":"n",
       "33":"n",
       "34":"n",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y"
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n"
     },
     "safari":{
       "3.1":"n",
@@ -130,8 +130,8 @@
       "19":"n",
       "20":"n",
       "21":"n",
-      "22":"y",
-      "23":"y"
+      "22":"n",
+      "23":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -177,6 +177,7 @@
       "10":"n"
     }
   },
+  "notes":"Also supported behind a flag in current versions of Chrome.",
   "usage_perc_y":0.92,
   "usage_perc_a":0,
   "ucprefix":false,
