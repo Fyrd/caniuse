@@ -3,7 +3,7 @@
 /* Node script to validate caniuse feature JSONs */
 (function () {
     var fs = require('fs');
-    var path = './features-json';
+    var path = __dirname + '/../features-json';
     var sampleData;
     var statusArr = ['rec', 'pr', 'cr', 'wd', 'other', 'unoff'];
     var categoryArr = ['HTML5', 'CSS', 'CSS2', 'CSS3', 'SVG', 'PNG', 'JS API', 'Canvas', 'DOM', 'Other'];
@@ -245,7 +245,7 @@
         });
     };
 
-    fs.readFile('sample-data.json', function (error, data) {
+    fs.readFile(__dirname + '/../sample-data.json', function (error, data) {
         if (error) {
             throw Error('Error: ' + error);
         }
