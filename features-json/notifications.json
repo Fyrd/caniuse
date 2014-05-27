@@ -5,12 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.sitepoint.com/introduction-web-notifications-api/",
-      "title":"SitePoint article"
-    },
-    {
       "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/web-notifications-api-demo.html",
+      "title":"Demo"
+    },
+    {
+      "url":"http://www.sitepoint.com/introduction-web-notifications-api/",
+      "title":"SitePoint article"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/notification",
@@ -23,10 +27,6 @@
     {
       "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
       "title":"Chromium API"
-    },
-    {
-      "url":"http://aurelio.audero.it/demo/web-notifications-api-demo.html",
-      "title":"Demo"
     }
   ],
   "bugs":[
