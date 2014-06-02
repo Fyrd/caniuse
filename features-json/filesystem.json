@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/filesystem",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/file/filesystem/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/filesystem",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -178,8 +178,8 @@
     }
   },
   "notes":"",
-  "usage_perc_y":39.84,
-  "usage_perc_a":0.23,
+  "usage_perc_y":40.35,
+  "usage_perc_a":0.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"filewriter",

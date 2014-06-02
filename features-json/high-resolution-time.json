@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
+      "title":"MDN article"
+    },
+    {
       "url":"http://aurelio.audero.it/demo/high-resolution-time-api-demo.html",
       "title":"Demo"
     },
     {
       "url":"http://www.sitepoint.com/discovering-the-high-resolution-time-api/",
       "title":"SitePoint article"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
-      "title":"MDN article"
     },
     {
       "url":"http://updates.html5rocks.com/2012/08/When-milliseconds-are-not-enough-performance-now",
@@ -188,7 +188,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":64.59,
+  "usage_perc_y":64.91,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
+      "title":"MDN Documentation for text-decoration-line"
+    },
+    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
       "title":"MDN Documentation for text-decoration-color"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
       "title":"MDN Documentation for text-decoration-style"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
-      "title":"MDN Documentation for text-decoration-line"
     }
   ],
   "bugs":[
@@ -182,8 +182,8 @@
     }
   },
   "notes":"Partial support means only text-decoration-style property support",
-  "usage_perc_y":14.8,
-  "usage_perc_a":38.86,
+  "usage_perc_y":14.6,
+  "usage_perc_a":39.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"text, underline, text-decoration",

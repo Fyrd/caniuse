@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://thenittygritty.co/css-masking",
+      "title":"Detailed blog post"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/css/properties/mask",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/masking/adobe/",
       "title":"HTML5 Rocks article"
-    },
-    {
-      "url":"http://thenittygritty.co/css-masking",
-      "title":"Detailed blog post"
     }
   ],
   "bugs":[
@@ -183,7 +183,7 @@
   },
   "notes":"Partial support in WebKit/Blink browsers refers to supporting the mask-image and mask-box-image properties, but lacks support for othe parts of the spec. Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo).",
   "usage_perc_y":0,
-  "usage_perc_a":71.1,
+  "usage_perc_a":72.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

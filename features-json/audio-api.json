@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://github.com/corbanbrook/audionode.js",
+      "title":"Polyfill to support Web Audio API in Firefox"
+    },
+    {
       "url":"http://www.doboism.com/projects/webaudio-compatibility/",
       "title":"Additional browser compatibility tests for specific features"
     },
@@ -15,10 +19,6 @@
     {
       "url":"https://github.com/g200kg/WAAPISim",
       "title":"Polyfill to enable Web Audio API through Firefox Audio Data api or flash"
-    },
-    {
-      "url":"https://github.com/corbanbrook/audionode.js",
-      "title":"Polyfill to support Web Audio API in Firefox"
     }
   ],
   "bugs":[
@@ -188,7 +188,7 @@
     }
   },
   "notes":"Firefox versions < 25 support an alternative, deprecated audio API.",
-  "usage_perc_y":61.04,
+  "usage_perc_y":61.9,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

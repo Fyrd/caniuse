@@ -182,8 +182,8 @@
     }
   },
   "notes":"Currently supported in WebKit Nightly using <code>-webkit-flow-into: flow_name;</code> and <code>-webkit-from-flow: flow_name;</code>. Support in Chrome 19+ is disabled by default and can be enabled using a runtime flag (see <code>about:flags</code>) or a command line flag (see  <a href=\"http://peter.sh/experiments/chromium-command-line-switches/#enable-css-regions\">this list</a>). For Chrome 19-22 the flag is named \"Enable CSS Regions\" / <code>--enable-css-regions</code>, while for Chrome 23+ the flag is named \"Enable experimental Web Platform features\" / <code>--enable-experimental-web-platform-features</code>. Support in IE10 is limited to using an iframe as a content source with the <code>-ms-flow-into: flow_name;</code> and <code>-ms-flow-from: flow_name;</code> syntax. ",
-  "usage_perc_y":6.83,
-  "usage_perc_a":10.61,
+  "usage_perc_y":7.41,
+  "usage_perc_a":10.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

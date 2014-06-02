@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://html.adobe.com/webplatform/layout/shapes/browser-support/",
-      "title":"CSS shapes support test by Adobe"
-    },
-    {
       "url":"http://html.adobe.com/webplatform/layout/shapes/",
       "title":"Adobe demos and samples"
+    },
+    {
+      "url":"http://html.adobe.com/webplatform/layout/shapes/browser-support/",
+      "title":"CSS shapes support test by Adobe"
     },
     {
       "url":"http://alistapart.com/article/css-shapes-101",
@@ -182,7 +182,7 @@
     }
   },
   "notes":"Can also be enabled in Chrome 34+ by setting the chrome://flags preference \"Enable experimental Web Platform features\" to true.",
-  "usage_perc_y":0,
+  "usage_perc_y":0.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

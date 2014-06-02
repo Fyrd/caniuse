@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://code.google.com/p/ie7-js/",
-      "title":"JS library with support"
+      "url":"http://www.impressivewebs.com/min-max-width-height-css/",
+      "title":"CSS Basics post"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/min-width",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.impressivewebs.com/min-max-width-height-css/",
-      "title":"CSS Basics post"
+      "url":"http://code.google.com/p/ie7-js/",
+      "title":"JS library with support"
     }
   ],
   "bugs":[
@@ -187,7 +187,7 @@
     }
   },
   "notes":"IE7 does not support \"inherit\" as a value on any of these properties. IE8 has some bugs with max-width/height combined with overflow: auto/scroll.",
-  "usage_perc_y":92.91,
+  "usage_perc_y":93.09,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

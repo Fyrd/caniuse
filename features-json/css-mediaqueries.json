@@ -13,12 +13,12 @@
       "title":"IE demo page with information"
     },
     {
-      "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
-      "title":"Media Queries tutorial"
-    },
-    {
       "url":"https://github.com/scottjehl/Respond",
       "title":"Polyfill for IE"
+    },
+    {
+      "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
+      "title":"Media Queries tutorial"
     }
   ],
   "bugs":[
@@ -191,7 +191,7 @@
     }
   },
   "notes":"Incomplete support by older webkit browsers refers to only acknowledging different media rules on page reload",
-  "usage_perc_y":87.88,
+  "usage_perc_y":88.47,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

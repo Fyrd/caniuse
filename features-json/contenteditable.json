@@ -9,16 +9,16 @@
       "title":"Blog post on usage problems"
     },
     {
+      "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
+      "title":"WHATWG blog post"
+    },
+    {
       "url":"http://html5demos.com/contenteditable",
       "title":"Demo page"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/contentEditable",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://blog.whatwg.org/the-road-to-html-5-contenteditable",
-      "title":"WHATWG blog post"
     }
   ],
   "bugs":[
@@ -194,7 +194,7 @@
     }
   },
   "notes":"This support only refers to very basic editing capability, implementations vary significantly on how certain elements can be edited.",
-  "usage_perc_y":88.86,
+  "usage_perc_y":88.94,
   "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",

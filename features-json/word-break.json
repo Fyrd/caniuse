@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/CSS/word-break",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/word-break",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/word-break",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -178,8 +178,8 @@
     }
   },
   "notes":"Partial support refers to supporting the \"break-all\" value, but not the \"keep-all\" value.",
-  "usage_perc_y":32.71,
-  "usage_perc_a":56.03,
+  "usage_perc_y":31.64,
+  "usage_perc_a":57.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"break-all,keep-all",

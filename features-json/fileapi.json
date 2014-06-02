@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/Using_files_from_web_applications",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/file",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/Using_files_from_web_applications",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -178,8 +178,8 @@
     }
   },
   "notes":"Partial support in older Safari and other WebKit browsers refers to lacking FileReader support. ",
-  "usage_perc_y":73.79,
-  "usage_perc_a":6,
+  "usage_perc_y":74.37,
+  "usage_perc_a":6.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

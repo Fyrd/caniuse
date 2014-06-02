@@ -9,12 +9,12 @@
       "title":"HTML5Rocks article"
     },
     {
-      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
-      "title":"SitePoint article"
-    },
-    {
       "url":"http://aurelio.audero.it/demo/web-speech-api-demo.html",
       "title":"Demo"
+    },
+    {
+      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
+      "title":"SitePoint article"
     }
   ],
   "bugs":[
@@ -183,7 +183,7 @@
   },
   "notes":"Partial support in Chrome refers to some attributes missing. Partial support in Safari refers to only Speech Synthesis supported.",
   "usage_perc_y":0,
-  "usage_perc_a":45.06,
+  "usage_perc_a":46.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"speech,recognition,ASR",

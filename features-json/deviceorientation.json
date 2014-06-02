@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://aurelio.audero.it/demo/device-orientation-api-demo.html",
-      "title":"Demo"
-    },
-    {
-      "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
       "title":"DeviceOrientation implementation prototype for IE10"
     },
     {
+      "url":"http://aurelio.audero.it/demo/device-orientation-api-demo.html",
+      "title":"Demo"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-orientation",
       "title":"has.js test"
+    },
+    {
+      "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
+      "title":"HTML5 Rocks tutorial"
     }
   ],
   "bugs":[
@@ -197,8 +197,8 @@
     }
   },
   "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of devicemotion event support for Chrome 30- and Opera. Opera Mobile 14 lost the ondevicemotion event support. Firefox 3.6, 4 and 5 support the non-standard <a href=\"https://developer.mozilla.org/en/DOM/MozOrientation\">MozOrientation</a> event.",
-  "usage_perc_y":0.09,
-  "usage_perc_a":72.64,
+  "usage_perc_y":0.06,
+  "usage_perc_a":73.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

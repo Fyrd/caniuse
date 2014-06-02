@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/basics-css-blend-modes/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://codepen.io/bennettfeely/pen/csjzd",
       "title":"codepen example"
+    },
+    {
+      "url":"http://css-tricks.com/basics-css-blend-modes/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -178,7 +178,7 @@
     }
   },
   "notes":"Also supported behind a flag in current versions of Chrome.",
-  "usage_perc_y":0,
+  "usage_perc_y":0.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

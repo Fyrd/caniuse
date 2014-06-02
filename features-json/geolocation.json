@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/geolocation",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-geolocation",
       "title":"has.js test"
     },
     {
       "url":"http://html5demos.com/geo",
       "title":"Simple demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/geolocation",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -187,7 +187,7 @@
     }
   },
   "notes":"",
-  "usage_perc_y":84.73,
+  "usage_perc_y":85.24,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

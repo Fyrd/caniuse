@@ -9,12 +9,12 @@
       "title":"Examples of progress and meter elements"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/progress",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
       "title":"HTML5 Doctor on meter element "
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/progress",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://dev.opera.com/articles/view/new-form-features-in-HTML5/#newoutput",
@@ -186,8 +186,8 @@
     }
   },
   "notes":"Partial support in Firefox 6-15, IE10 & iOS7 Safari refers to supporting the progress element, but not the meter element. iOS7 Safari also does not support \"indeterminate\" progress elements.",
-  "usage_perc_y":57.88,
-  "usage_perc_a":15.65,
+  "usage_perc_y":58.34,
+  "usage_perc_a":15.87,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",
