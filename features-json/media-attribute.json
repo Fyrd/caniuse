@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://www.w3.org/Bugs/Public/show_bug.cgi?id=19619",
-      "title":"W3C bug report discussion - Remove media="
-    },
-    {
       "url":"http://lists.w3.org/Archives/Public/public-html/2014Feb/0036.html",
       "title":"W3C mailing list thread - Do not remove the media attribute from the source element"
+    },
+    {
+      "url":"https://www.w3.org/Bugs/Public/show_bug.cgi?id=19619",
+      "title":"W3C bug report discussion - Remove media="
     }
   ],
   "bugs":[
@@ -109,7 +109,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -139,7 +140,8 @@
       "4.2-4.3":"u",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"u"

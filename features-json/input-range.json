@@ -9,24 +9,24 @@
       "title":"has.js test"
     },
     {
-      "url":"https://github.com/fryn/html5slider",
-      "title":"Polyfill for Firefox"
-    },
-    {
-      "url":"https://github.com/andreruffert/rangeslider.js",
-      "title":"rangeslider.js polyfill"
-    },
-    {
       "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
       "title":"Tutorial"
+    },
+    {
+      "url":"https://github.com/freqdec/fd-slider",
+      "title":"Cross-browser polyfill"
+    },
+    {
+      "url":"https://github.com/fryn/html5slider",
+      "title":"Polyfill for Firefox"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://github.com/freqdec/fd-slider",
-      "title":"Cross-browser polyfill"
+      "url":"https://github.com/andreruffert/rangeslider.js",
+      "title":"rangeslider.js polyfill"
     }
   ],
   "bugs":[
@@ -127,7 +127,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"y",
@@ -157,7 +158,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

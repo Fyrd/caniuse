@@ -9,12 +9,12 @@
       "title":"Web Crypto API(s) and what Mozilla wants / needs"
     },
     {
-      "url":"http://polycrypt.net/",
-      "title":"PolyCrypt: A WebCrypto Polyfill"
-    },
-    {
       "url":"http://www.slideshare.net/Channy/the-history-and-status-of-web-crypto-api",
       "title":"The History and Status of Web Crypto API"
+    },
+    {
+      "url":"http://polycrypt.net/",
+      "title":"PolyCrypt: A WebCrypto Polyfill"
     }
   ],
   "bugs":[
@@ -114,7 +114,8 @@
       "5.1":"p",
       "6":"p",
       "6.1":"p",
-      "7":"p"
+      "7":"p",
+      "8":"p"
     },
     "opera":{
       "9":"u",
@@ -144,7 +145,8 @@
       "4.2-4.3":"u",
       "5.0-5.1":"u",
       "6.0-6.1":"p",
-      "7.0":"p"
+      "7.0":"p",
+      "8":"p"
     },
     "op_mini":{
       "5.0-7.0":"u"

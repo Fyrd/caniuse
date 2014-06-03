@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
       "title":"Data URL converter"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
+      "title":"Wikipedia"
     },
     {
       "url":"http://css-tricks.com/5970-data-uris/",
@@ -113,7 +113,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"y",
@@ -143,7 +144,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

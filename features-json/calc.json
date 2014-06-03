@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
@@ -115,7 +115,8 @@
       "5.1":"n",
       "6":"y x",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -145,7 +146,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"y x",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

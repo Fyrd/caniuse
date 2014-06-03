@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/History",
-      "title":"WebPlatform Docs"
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
+      "title":"Introduction to history management"
     },
     {
       "url":"http://html5demos.com/history",
       "title":"Demo page"
     },
     {
-      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
-      "title":"Introduction to history management"
-    },
-    {
-      "url":"https://github.com/browserstate/history.js",
-      "title":"History.js polyfill "
+      "url":"http://docs.webplatform.org/wiki/dom/History",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
       "title":"MDN article"
+    },
+    {
+      "url":"https://github.com/browserstate/history.js",
+      "title":"History.js polyfill "
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
@@ -127,7 +127,8 @@
       "5.1":"a",
       "6":"a",
       "6.1":"a",
-      "7":"a"
+      "7":"a",
+      "8":"a"
     },
     "opera":{
       "9":"n",
@@ -157,7 +158,8 @@
       "4.2-4.3":"a",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

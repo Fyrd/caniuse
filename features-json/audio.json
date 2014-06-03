@@ -13,28 +13,28 @@
       "title":"has.js test"
     },
     {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
+      "url":"http://html5doctor.com/native-audio-in-the-browser/",
+      "title":"HTML5 Doctor article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/audio",
-      "title":"WebPlatform Docs"
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     },
     {
       "url":"http://24ways.org/2010/the-state-of-html5-audio",
       "title":"Detailed article on support"
     },
     {
-      "url":"http://html5doctor.com/native-audio-in-the-browser/",
-      "title":"HTML5 Doctor article"
+      "url":"http://www.jplayer.org/latest/demos/",
+      "title":"Demos of audio player that uses the audio element"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/audio",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://textopia.org/androidsoundformats.html",
       "title":"File format test page"
-    },
-    {
-      "url":"http://www.jplayer.org/latest/demos/",
-      "title":"Demos of audio player that uses the audio element"
     }
   ],
   "bugs":[
@@ -147,7 +147,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -177,7 +178,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

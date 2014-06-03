@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://explorercanvas.googlecode.com/",
-      "title":"Implementation for Internet Explorer"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
-      "title":"Tutorial by Mozilla"
-    },
-    {
       "url":"http://glimr.rubyforge.org/cake/canvas.html",
       "title":"Animation kit "
+    },
+    {
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
+    },
+    {
+      "url":"http://explorercanvas.googlecode.com/",
+      "title":"Implementation for Internet Explorer"
     },
     {
       "url":"http://www.diveinto.org/html5/canvas.html",
@@ -25,8 +25,8 @@
       "title":"has.js test"
     },
     {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
+      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
+      "title":"Tutorial by Mozilla"
     }
   ],
   "bugs":[
@@ -128,7 +128,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"y",
@@ -158,7 +159,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"a"

@@ -9,12 +9,12 @@
       "title":"Adobe demos and samples"
     },
     {
-      "url":"http://html.adobe.com/webplatform/layout/shapes/browser-support/",
-      "title":"CSS shapes support test by Adobe"
-    },
-    {
       "url":"http://alistapart.com/article/css-shapes-101",
       "title":"A List Apart article"
+    },
+    {
+      "url":"http://html.adobe.com/webplatform/layout/shapes/browser-support/",
+      "title":"CSS shapes support test by Adobe"
     }
   ],
   "bugs":[
@@ -113,7 +113,8 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n"
+      "7":"n",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -143,7 +144,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"n"
+      "7.0":"n",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -181,7 +183,7 @@
       "10":"n"
     }
   },
-  "notes":"Can also be enabled in Chrome 34+ by setting the chrome://flags preference \"Enable experimental Web Platform features\" to true.",
+  "notes":"Can also be enabled in Chrome 34+ by setting the chrome://flags preference \"Enable experimental Web Platform features\" to true. Currently it is unknown whether upcoming Safari support will require prefixes or not.",
   "usage_perc_y":0.04,
   "usage_perc_a":0,
   "ucprefix":false,

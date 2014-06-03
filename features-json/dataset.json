@@ -5,12 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
-      "title":"MDN Reference - dataset"
-    },
-    {
-      "url":"http://html5demos.com/dataset",
-      "title":"Demo using dataset"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes",
+      "title":"MDN Guide - Using data-* attributes"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
@@ -21,12 +17,16 @@
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes",
-      "title":"MDN Guide - Using data-* attributes"
+      "url":"http://html5demos.com/dataset",
+      "title":"Demo using dataset"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
       "title":"has.js test"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
+      "title":"MDN Reference - dataset"
     }
   ],
   "bugs":[
@@ -127,7 +127,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"a",
@@ -157,7 +158,8 @@
       "4.2-4.3":"a",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"a"

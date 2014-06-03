@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/appcache/ApplicationCache",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://diveinto.org/html5/offline.html",
       "title":"Dive Into HTML5 article"
     },
     {
-      "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
-      "title":"Sitepoint tutorial"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
       "title":"Mozilla Hacks article/demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/appcache/ApplicationCache",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
+      "title":"Sitepoint tutorial"
     }
   ],
   "bugs":[
@@ -119,7 +119,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -149,7 +150,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

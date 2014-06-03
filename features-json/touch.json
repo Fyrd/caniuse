@@ -9,16 +9,16 @@
       "title":"Multi-touch demo"
     },
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh673557(v=vs.85).aspx",
-      "title":"Internet Explorer's gesture and touch implementation."
-    },
-    {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
     {
       "url":"http://schepers.cc/getintouch",
       "title":"Information on the spec development"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh673557(v=vs.85).aspx",
+      "title":"Internet Explorer's gesture and touch implementation."
     }
   ],
   "bugs":[
@@ -123,7 +123,8 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n"
+      "7":"n",
+      "8":"n"
     },
     "opera":{
       "9":"n",
@@ -153,7 +154,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

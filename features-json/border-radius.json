@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://border-radius.com",
-      "title":"Border-radius CSS Generator"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
-      "title":"WebPlatform Docs"
+      "url":"http://www.css3files.com/border/#borderradius",
+      "title":"Information page"
     },
     {
       "url":"http://muddledramblings.com/table-of-css3-border-radius-compliance",
       "title":"Detailed compliance table"
     },
     {
-      "url":"http://www.css3files.com/border/#borderradius",
-      "title":"Information page"
+      "url":"http://docs.webplatform.org/wiki/css/properties/border-radius",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://css3pie.com/",
       "title":"Polyfill which includes border-radius"
+    },
+    {
+      "url":"http://border-radius.com",
+      "title":"Border-radius CSS Generator"
     }
   ],
   "bugs":[
@@ -132,7 +132,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -162,7 +163,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

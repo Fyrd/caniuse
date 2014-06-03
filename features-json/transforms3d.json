@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://css3.bradshawenterprises.com/flip/",
-      "title":"Multi-browser demo"
+      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
+      "title":"Mozilla hacks article"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
+      "title":"has.js test"
     },
     {
       "url":"http://thewebrocks.com/demos/3D-css-tester/",
       "title":"3D CSS Tester"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
-      "title":"has.js test"
+      "url":"http://css3.bradshawenterprises.com/flip/",
+      "title":"Multi-browser demo"
     }
   ],
   "bugs":[
@@ -123,7 +123,8 @@
       "5.1":"y x",
       "6":"y x",
       "6.1":"y x",
-      "7":"y x"
+      "7":"y x",
+      "8":"y x"
     },
     "opera":{
       "9":"n",
@@ -153,7 +154,8 @@
       "4.2-4.3":"y x",
       "5.0-5.1":"y x",
       "6.0-6.1":"y x",
-      "7.0":"y x"
+      "7.0":"y x",
+      "8":"y x"
     },
     "op_mini":{
       "5.0-7.0":"n"

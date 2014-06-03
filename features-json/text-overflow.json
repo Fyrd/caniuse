@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
+      "title":"has.js test"
+    },
+    {
       "url":"https://github.com/rmorse/AutoEllipsis",
       "title":"jQuery polyfill for Firefox"
     },
     {
       "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
       "title":"MDN article"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
-      "title":"has.js test"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
@@ -121,7 +121,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"y x",
@@ -151,7 +152,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"y x"

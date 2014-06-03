@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/atrules/@media",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
-      "title":"IE demo page with information"
-    },
-    {
       "url":"https://github.com/scottjehl/Respond",
       "title":"Polyfill for IE"
     },
     {
       "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
       "title":"Media Queries tutorial"
+    },
+    {
+      "url":"http://ie.microsoft.com/testdrive/HTML5/85CSS3_MediaQueries/",
+      "title":"IE demo page with information"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/atrules/@media",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -122,7 +122,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -152,7 +153,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

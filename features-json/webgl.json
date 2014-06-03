@@ -5,10 +5,6 @@
   "status":"other",
   "links":[
     {
-      "url":"http://iewebgl.com/",
-      "title":"Polyfill for IE"
-    },
-    {
       "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
       "title":"Instructions on enabling WebGL"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://www.khronos.org/webgl/wiki/Tutorial",
       "title":"Tutorial"
+    },
+    {
+      "url":"http://iewebgl.com/",
+      "title":"Polyfill for IE"
     },
     {
       "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
@@ -121,7 +121,8 @@
       "5.1":"a",
       "6":"a",
       "6.1":"a",
-      "7":"a"
+      "7":"a",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -151,7 +152,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"n"
+      "7.0":"n",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

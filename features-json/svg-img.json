@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.codedread.com/blog/",
-      "title":"Blog with SVGs an images"
-    },
-    {
       "url":"http://blog.dholbert.org/2010/10/svg-as-image.html",
       "title":"Blog post with examples"
+    },
+    {
+      "url":"http://www.codedread.com/blog/",
+      "title":"Blog with SVGs an images"
     }
   ],
   "bugs":[
@@ -111,7 +111,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"y",
@@ -141,7 +142,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"y"

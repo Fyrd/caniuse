@@ -5,8 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://code.google.com/p/ie-web-worker/",
-      "title":"Polyfill for IE (single threaded)"
+      "url":"https://developer.mozilla.org/En/Using_web_workers",
+      "title":"MDN article"
     },
     {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-web-workers/",
@@ -17,8 +17,8 @@
       "title":"Web Worker demo"
     },
     {
-      "url":"https://developer.mozilla.org/En/Using_web_workers",
-      "title":"MDN article"
+      "url":"http://code.google.com/p/ie-web-worker/",
+      "title":"Polyfill for IE (single threaded)"
     }
   ],
   "bugs":[
@@ -117,7 +117,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -147,7 +148,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

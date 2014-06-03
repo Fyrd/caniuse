@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://aurelio.audero.it/demo/web-notifications-api-demo.html",
+      "title":"Demo"
+    },
+    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/notification",
       "title":"MDN Notifications"
     },
@@ -13,20 +17,16 @@
       "title":"Chromium API"
     },
     {
-      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
-      "title":"Add-on "
+      "url":"http://www.sitepoint.com/introduction-web-notifications-api/",
+      "title":"SitePoint article"
     },
     {
       "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
       "title":"HTML5 Rocks tutorial"
     },
     {
-      "url":"http://www.sitepoint.com/introduction-web-notifications-api/",
-      "title":"SitePoint article"
-    },
-    {
-      "url":"http://aurelio.audero.it/demo/web-notifications-api-demo.html",
-      "title":"Demo"
+      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
+      "title":"Add-on "
     }
   ],
   "bugs":[
@@ -127,7 +127,8 @@
       "5.1":"n",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -157,7 +158,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"n"
+      "7.0":"n",
+      "8":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"

@@ -9,12 +9,12 @@
       "title":"Examples by Mozilla"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas-text",
-      "title":"has.js test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/canvas/CanvasRenderingContext2D/fillText",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas-text",
+      "title":"has.js test"
     },
     {
       "url":"http://code.google.com/p/canvas-text/",
@@ -118,7 +118,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"p",
@@ -148,7 +149,8 @@
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
-      "7.0":"y"
+      "7.0":"y",
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"

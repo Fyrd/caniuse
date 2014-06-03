@@ -5,8 +5,8 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
-      "title":"MDN article"
+      "url":"http://updates.html5rocks.com/2012/08/When-milliseconds-are-not-enough-performance-now",
+      "title":"HTML5Rocks article"
     },
     {
       "url":"http://aurelio.audero.it/demo/high-resolution-time-api-demo.html",
@@ -17,8 +17,8 @@
       "title":"SitePoint article"
     },
     {
-      "url":"http://updates.html5rocks.com/2012/08/When-milliseconds-are-not-enough-performance-now",
-      "title":"HTML5Rocks article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -119,7 +119,8 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n"
+      "7":"n",
+      "8":"n"
     },
     "opera":{
       "9":"n",
@@ -149,7 +150,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"n"
+      "7.0":"n",
+      "8":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"

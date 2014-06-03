@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
-      "title":"DeviceOrientation implementation prototype for IE10"
-    },
-    {
       "url":"http://aurelio.audero.it/demo/device-orientation-api-demo.html",
       "title":"Demo"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
+      "title":"DeviceOrientation implementation prototype for IE10"
     }
   ],
   "bugs":[
@@ -128,7 +128,8 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n"
+      "7":"n",
+      "8":"n"
     },
     "opera":{
       "9":"n",
@@ -158,7 +159,8 @@
       "4.2-4.3":"a",
       "5.0-5.1":"a",
       "6.0-6.1":"a",
-      "7.0":"a"
+      "7.0":"a",
+      "8":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"

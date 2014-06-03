@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/selectors/pseudo-elements/::selection",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://quirksmode.org/css/selectors/selection.html",
       "title":"::selection test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/selectors/pseudo-elements/::selection",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -111,7 +111,8 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y"
+      "7":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -141,7 +142,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"n"
+      "7.0":"n",
+      "8":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"
