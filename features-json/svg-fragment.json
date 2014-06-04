@@ -106,7 +106,7 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "8":"n"
+      "8":"a"
     },
     "opera":{
       "9":"n",
@@ -137,7 +137,7 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0":"n",
-      "8":"n"
+      "8":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -150,7 +150,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n"
+      "4.4":"n",
+      "4.4.3":"n"
     },
     "bb":{
       "7":"n",
@@ -175,7 +176,7 @@
       "10":"y"
     }
   },
-  "notes":"",
+  "notes":"Partial support in Safari refers to supporting viewBox dimensions but not a view ID.",
   "usage_perc_y":24.21,
   "usage_perc_a":0,
   "ucprefix":false,

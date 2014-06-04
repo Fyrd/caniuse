@@ -5,8 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
-      "title":"Simple demo"
+      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
+      "title":"MSDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/dom/Element/hashchange",
@@ -17,8 +17,8 @@
       "title":"Polyfill"
     },
     {
-      "url":"http://msdn.microsoft.com/en-us/library/cc288209(VS.85).aspx",
-      "title":"MSDN article"
+      "url":"http://www.quirksmode.org/dom/events/tests/hashchange.html",
+      "title":"Simple demo"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/window.onhashchange",
@@ -29,8 +29,8 @@
     
   ],
   "categories":[
-    "JS API",
-    "HTML5"
+    "HTML5",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -167,7 +167,8 @@
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
-      "4.4":"y"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"y",

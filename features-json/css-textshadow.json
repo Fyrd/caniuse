@@ -13,12 +13,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.css3files.com/shadow/#textshadow",
-      "title":"Information page"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/Graphics/hands-on-css3/hands-on_text-shadow.htm",
       "title":"Live editor"
+    },
+    {
+      "url":"http://www.css3files.com/shadow/#textshadow",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -167,7 +167,8 @@
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
-      "4.4":"y"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"a",

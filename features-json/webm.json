@@ -9,10 +9,6 @@
       "title":"Codec for IE9 support"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video-webm",
-      "title":"has.js test"
-    },
-    {
       "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
       "title":"Info on supporting WebM in Safari"
     },
@@ -23,6 +19,10 @@
     {
       "url":"http://webmproject.org",
       "title":"Official website"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video-webm",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -166,7 +166,8 @@
       "4":"a",
       "4.1":"a",
       "4.2-4.3":"a",
-      "4.4":"a"
+      "4.4":"a",
+      "4.4.3":"a"
     },
     "bb":{
       "7":"n",

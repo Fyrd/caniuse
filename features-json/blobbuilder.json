@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/DOM/Blob",
-      "title":"MDN article on Blobs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
       "title":"MDN article on BlobBuilder"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/DOM/Blob",
+      "title":"MDN article on Blobs"
     }
   ],
   "bugs":[
@@ -154,7 +154,8 @@
       "4":"a x",
       "4.1":"a x",
       "4.2-4.3":"a x",
-      "4.4":"a x"
+      "4.4":"a x",
+      "4.4.3":"a x"
     },
     "bb":{
       "7":"n",

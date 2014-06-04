@@ -9,16 +9,16 @@
       "title":"Live editor"
     },
     {
+      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
       "title":"Workaround script for IE"
     },
     {
       "url":"http://www.useragentman.com/IETransformsTranslator/",
       "title":"Converter for IE"
-    },
-    {
-      "url":"http://www.css3files.com/transform/",
-      "title":"Information page"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
@@ -29,8 +29,8 @@
       "title":"has.js test"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
-      "title":"WebPlatform Docs"
+      "url":"http://www.css3files.com/transform/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -182,7 +182,8 @@
       "4":"y x",
       "4.1":"y x",
       "4.2-4.3":"y x",
-      "4.4":"y x"
+      "4.4":"y x",
+      "4.4.3":"y x"
     },
     "bb":{
       "7":"y x",

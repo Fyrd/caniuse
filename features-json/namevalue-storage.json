@@ -5,8 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/apis/web-storage/Storage/localStorage",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-localstorage;native-sessionstorage",
+      "title":"has.js test"
     },
     {
       "url":"https://developer.mozilla.org/En/DOM/Storage",
@@ -15,14 +23,6 @@
     {
       "url":"http://html5demos.com/storage",
       "title":"Simple demo"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/web-storage/Storage/localStorage",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-localstorage;native-sessionstorage",
-      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -171,7 +171,8 @@
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
-      "4.4":"y"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"y",

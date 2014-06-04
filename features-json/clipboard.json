@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.deluxeblogtips.com/2010/06/javascript-copy-to-clipboard.html",
-      "title":"Blog post on cross-browser usage"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent",
       "title":"MDN page on ClipboardEvent"
+    },
+    {
+      "url":"http://www.deluxeblogtips.com/2010/06/javascript-copy-to-clipboard.html",
+      "title":"Blog post on cross-browser usage"
     }
   ],
   "bugs":[
@@ -154,7 +154,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"a"
+      "4.4":"a",
+      "4.4.3":"a"
     },
     "bb":{
       "7":"n",

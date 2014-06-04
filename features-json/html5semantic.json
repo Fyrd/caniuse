@@ -9,16 +9,16 @@
       "title":"Article on structural elements"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
-      "title":"has.js test"
-    },
-    {
       "url":"http://blog.whatwg.org/styling-ie-noscript",
       "title":"Alternate workaround"
     },
     {
       "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
       "title":"Workaround for IE"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -162,7 +162,8 @@
       "4":"y #1",
       "4.1":"y #1",
       "4.2-4.3":"y #1",
-      "4.4":"y"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"y #1",

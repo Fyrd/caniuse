@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://github.com/davidmz/apng-canvas",
-      "title":"Polyfill using canvas"
-    },
-    {
       "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
       "title":"Chrome extension providing support"
+    },
+    {
+      "url":"https://github.com/davidmz/apng-canvas",
+      "title":"Polyfill using canvas"
     },
     {
       "url":"http://en.wikipedia.org/wiki/APNG",
@@ -114,7 +114,7 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "8":"n"
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -145,7 +145,7 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0":"n",
-      "8":"n"
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -158,7 +158,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n"
+      "4.4":"n",
+      "4.4.3":"n"
     },
     "bb":{
       "7":"n",

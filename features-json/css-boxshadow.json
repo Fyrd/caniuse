@@ -9,8 +9,8 @@
       "title":"Demo of various effects"
     },
     {
-      "url":"http://www.css3files.com/shadow/",
-      "title":"Information page"
+      "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
+      "title":"MDN article"
     },
     {
       "url":"http://westciv.com/tools/boxshadows/index.html",
@@ -21,8 +21,8 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
-      "title":"MDN article"
+      "url":"http://www.css3files.com/shadow/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -168,7 +168,8 @@
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
-      "4.4":"y"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"y x",

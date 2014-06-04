@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
-      "title":"SitePoint article"
-    },
-    {
       "url":"http://aurelio.audero.it/demo/web-speech-api-demo.html",
       "title":"Demo"
     },
     {
       "url":"http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API",
       "title":"HTML5Rocks article"
+    },
+    {
+      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
+      "title":"SitePoint article"
     }
   ],
   "bugs":[
@@ -158,7 +158,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n"
+      "4.4":"n",
+      "4.4.3":"n"
     },
     "bb":{
       "7":"n",

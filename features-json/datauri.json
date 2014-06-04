@@ -9,12 +9,12 @@
       "title":"Data URL converter"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://css-tricks.com/5970-data-uris/",
       "title":"Information page"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -158,7 +158,8 @@
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
-      "4.4":"y"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"y",

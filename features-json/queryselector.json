@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
       "title":"MDN article on querySelector"
     },
     {
       "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
-      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
@@ -162,7 +162,8 @@
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
-      "4.4":"y"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"y",

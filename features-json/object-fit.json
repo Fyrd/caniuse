@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
-      "title":"Dev.Opera article"
-    },
-    {
       "url":"https://github.com/anselmh/object-fit",
       "title":"object-fit JavaScript-Polyfill"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/object-fit",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -158,7 +158,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n"
+      "4.4":"n",
+      "4.4.3":"n"
     },
     "bb":{
       "7":"n",

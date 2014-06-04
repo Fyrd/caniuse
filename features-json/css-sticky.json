@@ -5,20 +5,20 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://github.com/filamentgroup/fixed-sticky",
-      "title":"Polyfill"
-    },
-    {
-      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
-      "title":"HTML5Rocks"
+      "url":"http://docs.webplatform.org/wiki/css/properties/position",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/position",
-      "title":"WebPlatform Docs"
+      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
+      "title":"HTML5Rocks"
+    },
+    {
+      "url":"https://github.com/filamentgroup/fixed-sticky",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -162,7 +162,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n"
+      "4.4":"n",
+      "4.4.3":"n"
     },
     "bb":{
       "7":"n",

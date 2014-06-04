@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://css-tricks.com/almanac/properties/r/resize/",
-      "title":"CSS Tricks info"
-    },
-    {
       "url":"http://davidwalsh.name/textarea-resize",
       "title":"On textarea resizing"
+    },
+    {
+      "url":"http://css-tricks.com/almanac/properties/r/resize/",
+      "title":"CSS Tricks info"
     }
   ],
   "bugs":[
@@ -154,7 +154,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n"
+      "4.4":"n",
+      "4.4.3":"n"
     },
     "bb":{
       "7":"n",
