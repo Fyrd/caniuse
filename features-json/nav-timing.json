@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/API/navigationTiming",
-      "title":"MDN article"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/webperformance/basics/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/API/navigationTiming",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -139,7 +139,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "ios_saf":{
       "3.2":"n",

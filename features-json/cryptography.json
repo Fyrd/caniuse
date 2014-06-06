@@ -9,12 +9,12 @@
       "title":"PolyCrypt: A WebCrypto Polyfill"
     },
     {
-      "url":"http://mozilla.6506.n7.nabble.com/Web-Crypto-API-s-and-what-Mozilla-wants-needs-td272521.html",
-      "title":"Web Crypto API(s) and what Mozilla wants / needs"
-    },
-    {
       "url":"http://www.slideshare.net/Channy/the-history-and-status-of-web-crypto-api",
       "title":"The History and Status of Web Crypto API"
+    },
+    {
+      "url":"http://mozilla.6506.n7.nabble.com/Web-Crypto-API-s-and-what-Mozilla-wants-needs-td272521.html",
+      "title":"Web Crypto API(s) and what Mozilla wants / needs"
     }
   ],
   "bugs":[
@@ -137,7 +137,8 @@
       "20":"p",
       "21":"p",
       "22":"p",
-      "23":"p"
+      "23":"p",
+      "24":"p"
     },
     "ios_saf":{
       "3.2":"u",
@@ -186,7 +187,7 @@
     }
   },
   "notes":"A crypto property is available in Firefox and Chrome but is not usable. It is recommended to use Polycrypt for now.",
-  "usage_perc_y":0,
+  "usage_perc_y":7.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

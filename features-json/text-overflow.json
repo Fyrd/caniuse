@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
-      "title":"WebPlatform Docs"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
+      "title":"has.js test"
     },
     {
-      "url":"http://www.css3files.com/text/",
-      "title":"Information page"
+      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://github.com/rmorse/AutoEllipsis",
@@ -21,8 +21,8 @@
       "title":"MDN article"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
-      "title":"has.js test"
+      "url":"http://www.css3files.com/text/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -144,7 +144,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "ios_saf":{
       "3.2":"y",

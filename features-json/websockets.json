@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://websocket.org/aboutwebsocket.html",
+      "title":"WebSockets information"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-websockets",
       "title":"has.js test"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://updates.html5rocks.com/2011/08/What-s-different-in-the-new-WebSocket-protocol",
       "title":"Details on newer protocol"
-    },
-    {
-      "url":"http://websocket.org/aboutwebsocket.html",
-      "title":"WebSockets information"
     },
     {
       "url":"http://docs.webplatform.org/wiki/apis/websocket",
@@ -146,7 +146,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "ios_saf":{
       "3.2":"n",

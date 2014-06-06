@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
-      "title":"Demo of various effects"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/-moz-box-shadow",
       "title":"MDN article"
+    },
+    {
+      "url":"http://tests.themasta.com/blogstuff/boxshadowdemo.html",
+      "title":"Demo of various effects"
     },
     {
       "url":"http://westciv.com/tools/boxshadows/index.html",
@@ -146,7 +146,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "ios_saf":{
       "3.2":"a x",

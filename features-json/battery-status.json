@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.smartjava.org/examples/webapi-battery/",
-      "title":"Simple demo"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/WebAPI/Battery_Status",
       "title":"MDN Docs"
+    },
+    {
+      "url":"http://www.smartjava.org/examples/webapi-battery/",
+      "title":"Simple demo"
     }
   ],
   "bugs":[
@@ -132,7 +132,8 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n"
+      "23":"n",
+      "24":"n"
     },
     "ios_saf":{
       "3.2":"n",

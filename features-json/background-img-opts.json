@@ -9,12 +9,12 @@
       "title":"Detailed compatibility tables and demos"
     },
     {
-      "url":"https://github.com/louisremi/background-size-polyfill",
-      "title":"Polyfill for IE7-8"
-    },
-    {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
+    },
+    {
+      "url":"https://github.com/louisremi/background-size-polyfill",
+      "title":"Polyfill for IE7-8"
     }
   ],
   "bugs":[
@@ -141,7 +141,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "ios_saf":{
       "3.2":"a",

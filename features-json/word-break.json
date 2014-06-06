@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/word-break",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/word-break",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/word-break",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -132,7 +132,8 @@
       "20":"a",
       "21":"a",
       "22":"a",
-      "23":"a"
+      "23":"a",
+      "24":"a"
     },
     "ios_saf":{
       "3.2":"a",

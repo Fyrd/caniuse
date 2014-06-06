@@ -9,16 +9,16 @@
       "title":"IE demo page with information"
     },
     {
-      "url":"https://github.com/scottjehl/Respond",
-      "title":"Polyfill for IE"
-    },
-    {
       "url":"http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries",
       "title":"Media Queries tutorial"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@media",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/scottjehl/Respond",
+      "title":"Polyfill for IE"
     }
   ],
   "bugs":[
@@ -145,7 +145,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "ios_saf":{
       "3.2":"y",

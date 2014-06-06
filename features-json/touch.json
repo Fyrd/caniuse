@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh673557(v=vs.85).aspx",
-      "title":"Internet Explorer's gesture and touch implementation."
-    },
-    {
       "url":"http://www.quirksmode.org/m/tests/drag2.html",
       "title":"Multi-touch demo"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh673557(v=vs.85).aspx",
+      "title":"Internet Explorer's gesture and touch implementation."
     },
     {
       "url":"http://schepers.cc/getintouch",
@@ -146,7 +146,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "ios_saf":{
       "3.2":"y",
