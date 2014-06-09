@@ -1,54 +1,42 @@
 {
-  "title":"CSS3 Text-overflow",
-  "description":"Append ellipsis when text overflows its containing element",
-  "spec":"http://www.w3.org/TR/css3-ui/#text-overflow0",
-  "status":"wd",
+  "title":"Improved kerning pairs & ligatures",
+  "description":"Currently non-standard method of improving kerning pairs & ligatures using text-rendering: optimizeLegibility.",
+  "spec":"http://www.w3.org/TR/SVG11/painting.html#TextRenderingProperty",
+  "status":"unoff",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/CSS/Text-overflow",
+      "url":"http://css-tricks.com/almanac/properties/t/text-rendering/",
+      "title":"CSS Tricks article"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering",
       "title":"MDN article"
-    },
-    {
-      "url":"http://www.css3files.com/text/",
-      "title":"Information page"
-    },
-    {
-      "url":"https://github.com/rmorse/AutoEllipsis",
-      "title":"jQuery polyfill for Firefox"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3"
+    null
   ],
   "stats":{
     "ie":{
       "5.5":"n",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n"
     },
     "firefox":{
-      "2":"p",
-      "3":"p",
-      "3.5":"p",
-      "3.6":"p",
-      "4":"p",
-      "5":"p",
-      "6":"p",
+      "2":"n",
+      "3":"y",
+      "3.5":"y",
+      "3.6":"y",
+      "4":"y",
+      "5":"y",
+      "6":"y",
       "7":"y",
       "8":"y",
       "9":"y",
@@ -114,9 +102,9 @@
       "38":"y"
     },
     "safari":{
-      "3.1":"y",
-      "3.2":"y",
-      "4":"y",
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
       "5":"y",
       "5.1":"y",
       "6":"y",
@@ -125,17 +113,17 @@
       "8":"y"
     },
     "opera":{
-      "9":"y x",
-      "9.5-9.6":"y x",
-      "10.0-10.1":"y x",
-      "10.5":"y x",
-      "10.6":"y x",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
-      "11.6":"y",
-      "12":"y",
-      "12.1":"y",
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -148,8 +136,8 @@
       "24":"y"
     },
     "ios_saf":{
-      "3.2":"y",
-      "4.0-4.1":"y",
+      "3.2":"u",
+      "4.0-4.1":"u",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
@@ -157,12 +145,12 @@
       "8":"y"
     },
     "op_mini":{
-      "5.0-7.0":"y x"
+      "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"y",
-      "2.2":"y",
-      "2.3":"y",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
       "3":"y",
       "4":"y",
       "4.1":"y",
@@ -171,16 +159,16 @@
       "4.4.3":"y"
     },
     "bb":{
-      "7":"y",
+      "7":"n",
       "10":"y"
     },
     "op_mob":{
-      "10":"y x",
-      "11":"y x",
-      "11.1":"y x",
-      "11.5":"y x",
-      "12":"y x",
-      "12.1":"y",
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
       "0":"y"
     },
     "and_chr":{
@@ -190,14 +178,14 @@
       "0":"y"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"n"
     }
   },
   "notes":"",
-  "usage_perc_y":92.96,
+  "usage_perc_y":70.78,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"textoverflow,ellipsis",
+  "keywords":"optimizeLegibility,optimizeSpeed,geometricPrecision",
   "shown":true
 }
