@@ -1,6 +1,6 @@
 {
-  "title":"Line Decoration",
-  "description":"In CSS3, text-decoration is now a shorthand property, incorporating the following new properties: text-decoration-line, text-decoration-style, text-decoration-color",
+  "title":"text-decoration styling",
+  "description":"Method of defining the type, style and color of lines in the text-decoration property.",
   "spec":"http://www.w3.org/TR/css-text-decor-3/#line-decoration",
   "status":"cr",
   "links":[
@@ -89,21 +89,21 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"a x",
-      "25":"a x",
-      "26":"a x",
-      "27":"a x",
-      "28":"a x",
-      "29":"a x",
-      "30":"a x",
-      "31":"a x",
-      "32":"a x",
-      "33":"a x",
-      "34":"a x",
-      "35":"a x",
-      "36":"a x",
-      "37":"a x",
-      "38":"a x"
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n"
     },
     "safari":{
       "3.1":"n",
@@ -128,16 +128,16 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x",
-      "19":"a x",
-      "20":"a x",
-      "21":"a x",
-      "22":"a x",
-      "23":"a x",
-      "24":"a x"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -163,7 +163,7 @@
       "4.4.3":"n"
     },
     "bb":{
-      "7":"u",
+      "7":"n",
       "10":"n"
     },
     "op_mob":{
@@ -176,7 +176,7 @@
       "0":"n"
     },
     "and_chr":{
-      "0":"a x"
+      "0":"n"
     },
     "and_ff":{
       "0":"y x"
@@ -185,11 +185,11 @@
       "10":"n"
     }
   },
-  "notes":"Partial support means only text-decoration-style property support",
+  "notes":"Support for the -webkit-text-decoration-style property can be enabled for Chrome and Opera with the \"Experimental Web Platform features\" flag.  ",
   "usage_perc_y":14.6,
-  "usage_perc_a":39.51,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"text, underline, text-decoration",
-  "shown":false
+  "keywords":"text-decoration-line,text-decoration-style,text-decoration-color",
+  "shown":true
 }

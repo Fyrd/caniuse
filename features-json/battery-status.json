@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.smartjava.org/examples/webapi-battery/",
-      "title":"Simple demo"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/WebAPI/Battery_Status",
       "title":"MDN Docs"
+    },
+    {
+      "url":"http://www.smartjava.org/examples/webapi-battery/",
+      "title":"Simple demo"
     }
   ],
   "bugs":[
@@ -40,12 +40,12 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"n",
-      "11":"n",
-      "12":"n",
-      "13":"n",
-      "14":"n",
-      "15":"n",
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y x",
+      "14":"y x",
+      "15":"y x",
       "16":"y",
       "17":"y",
       "18":"y",
@@ -182,7 +182,7 @@
     }
   },
   "notes":"Support has already landed in Webkit but it is yet to make into Android and Chrome <a href=\"https://code.google.com/p/chromium/issues/detail?id=135863\">android issue</a>  <a href=\"https://code.google.com/p/chromium/issues/detail?id=122593\">chrome issue</a>",
-  "usage_perc_y":14.02,
+  "usage_perc_y":14.46,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
