@@ -1,6 +1,6 @@
 {
-  "title":"Blending of CSS image",
-  "description":"Allows blending between CSS background images",
+  "title":"CSS background-blend-mode",
+  "description":"Allows blending between CSS background images, gradients, and colors.",
   "spec":"http://www.w3.org/TR/compositing-1/#background-blend-mode",
   "status":"cr",
   "links":[
@@ -9,8 +9,12 @@
       "title":"Blog post"
     },
     {
+      "url":"http://bennettfeely.com/gradients",
+      "title":"Demo"
+    },
+    {
       "url":"http://codepen.io/bennettfeely/pen/rxoAc",
-      "title":"codepen example"
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -186,6 +190,6 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"css blend modes,css blending modes",
+  "keywords":"css blend modes,css blending modes, blending, compositing",
   "shown":true
 }
