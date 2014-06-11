@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/selectors",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://selectivizr.com",
       "title":"Selectivizr: Polyfill for IE6-8"
     },
     {
-      "url":"http://www.quirksmode.org/css/selectors/",
-      "title":"Detailed support information"
+      "url":"http://docs.webplatform.org/wiki/css/selectors",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.css3.info/selectors-test/",
       "title":"Automated CSS3 selector test"
+    },
+    {
+      "url":"http://www.quirksmode.org/css/selectors/",
+      "title":"Detailed support information"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"y",

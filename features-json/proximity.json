@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://aurelio.audero.it/demo/proximity-api-demo.html",
-      "title":"Demo"
-    },
-    {
       "url":"http://www.sitepoint.com/introducing-proximity-api/",
       "title":"SitePoint article"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/proximity-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -62,7 +62,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"n",

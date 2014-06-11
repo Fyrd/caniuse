@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://bennettfeely.com/filters/",
-      "title":"Filter Playground"
-    },
-    {
-      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
-      "title":"HTML5Rocks article"
-    },
-    {
       "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
       "title":"Demo file for WebKit browsers"
     },
     {
       "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
       "title":"Filter editor"
+    },
+    {
+      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
+      "title":"HTML5Rocks article"
+    },
+    {
+      "url":"http://bennettfeely.com/filters/",
+      "title":"Filter Playground"
     }
   ],
   "bugs":[
@@ -69,9 +69,10 @@
       "27":"n",
       "28":"n",
       "29":"n",
-      "30":"u",
+      "30":"n",
       "31":"u",
-      "32":"u"
+      "32":"u",
+      "33":"u"
     },
     "chrome":{
       "4":"n",

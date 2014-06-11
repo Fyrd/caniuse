@@ -9,16 +9,16 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/Drawing_text_using_a_canvas#Additional_examples",
-      "title":"Examples by Mozilla"
+      "url":"http://code.google.com/p/canvas-text/",
+      "title":"Support library"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas-text",
       "title":"has.js test"
     },
     {
-      "url":"http://code.google.com/p/canvas-text/",
-      "title":"Support library"
+      "url":"https://developer.mozilla.org/en/Drawing_text_using_a_canvas#Additional_examples",
+      "title":"Examples by Mozilla"
     }
   ],
   "bugs":[
@@ -71,7 +71,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"y",

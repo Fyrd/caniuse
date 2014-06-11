@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html",
-      "title":"Filter Effects draft"
-    },
-    {
       "url":"https://developer.mozilla.org/En/Applying_SVG_effects_to_HTML_content",
       "title":"MDN Reference page"
+    },
+    {
+      "url":"https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html",
+      "title":"Filter Effects draft"
     },
     {
       "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
@@ -66,7 +66,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"a",

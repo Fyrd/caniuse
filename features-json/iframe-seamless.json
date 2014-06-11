@@ -1,31 +1,19 @@
 {
-  "title":"User Timing API",
-  "description":"Method to help web developers measure the performance of their applications by giving them access to high precision timestamps.",
-  "spec":"http://www.w3.org/TR/user-timing/",
-  "status":"rec",
+  "title":"seamless attribute for iframes",
+  "description":"The seamless attribute makes an iframe's contents actually part of a page, and adopts the styles from its hosting page. ",
+  "spec":"http://whatwg.org/html#attr-iframe-seamless",
+  "status":"cr",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/webperformance/usertiming/",
-      "title":"HTML5Rocks article"
-    },
-    {
-      "url":"http://aurelio.audero.it/demo/user-timing-api-demo.html",
-      "title":"Demo"
-    },
-    {
-      "url":"http://www.sitepoint.com/discovering-user-timing-api/",
-      "title":"SitePoint article"
-    },
-    {
-      "url":"https://gist.github.com/pmeenan/5902672",
-      "title":"Polyfill"
+      "url":"https://github.com/ornj/seamless-polyfill",
+      "title":"Experimental polyfill"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API"
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -34,8 +22,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y",
-      "11":"y"
+      "10":"n",
+      "11":"n"
     },
     "firefox":{
       "2":"n",
@@ -69,9 +57,9 @@
       "28":"n",
       "29":"n",
       "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n"
+      "31":"u",
+      "32":"u",
+      "33":"u"
     },
     "chrome":{
       "4":"n",
@@ -95,20 +83,20 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y"
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"u",
+      "37":"u",
+      "38":"u"
     },
     "safari":{
       "3.1":"n",
@@ -119,7 +107,7 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "8":"n"
+      "8":"u"
     },
     "opera":{
       "9":"n",
@@ -133,16 +121,16 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"u",
+      "24":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -151,7 +139,7 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0":"n",
-      "8":"n"
+      "8":"u"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -164,8 +152,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"y",
-      "4.4.3":"y"
+      "4.4":"n",
+      "4.4.3":"u"
     },
     "bb":{
       "7":"n",
@@ -178,23 +166,23 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "0":"n"
     },
     "and_chr":{
-      "0":"y"
+      "0":"n"
     },
     "and_ff":{
       "0":"n"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"n"
     }
   },
-  "notes":"",
-  "usage_perc_y":50.16,
+  "notes":"Chrome currently has partial support behind the \"experimental Web Platform features\" flag.  ",
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"performance,testing,mark,measure",
+  "keywords":"",
   "shown":true
 }

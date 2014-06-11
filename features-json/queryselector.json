@@ -9,16 +9,16 @@
       "title":"MDN article on querySelector"
     },
     {
+      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
+      "title":"MDN article on querySelectorAll"
+    },
+    {
       "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
-      "title":"MDN article on querySelectorAll"
     }
   ],
   "bugs":[
@@ -70,7 +70,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"y",

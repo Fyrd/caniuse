@@ -5,8 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
+      "title":"has.js test"
+    },
+    {
       "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
       "title":"Detailed article on video/audio elements"
+    },
+    {
+      "url":"http://diveinto.org/html5/video.html",
+      "title":"Video on the Web - includes info on Android support"
     },
     {
       "url":"http://camendesign.co.uk/code/video_for_everybody",
@@ -15,14 +23,6 @@
     {
       "url":"http://webmproject.org",
       "title":"WebM format information"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://diveinto.org/html5/video.html",
-      "title":"Video on the Web - includes info on Android support"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/video",
@@ -78,7 +78,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"y",

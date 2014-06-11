@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Portable_Network_Graphics",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://dillerdesign.com/experiment/DD_belatedPNG/",
       "title":"Workaround for IE6"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Portable_Network_Graphics",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -64,7 +64,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"y",

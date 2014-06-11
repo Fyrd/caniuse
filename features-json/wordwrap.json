@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/properties/word-wrap",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
+      "title":"MDN article"
     },
     {
       "url":"http://www.css3files.com/text/#wordwrap",
@@ -66,7 +66,8 @@
       "29":"a",
       "30":"a",
       "31":"a",
-      "32":"a"
+      "32":"a",
+      "33":"a"
     },
     "chrome":{
       "4":"a",
