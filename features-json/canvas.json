@@ -5,6 +5,10 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
+      "title":"Tutorial by Mozilla"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
       "title":"has.js test"
     },
@@ -13,20 +17,16 @@
       "title":"Implementation for Internet Explorer"
     },
     {
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
+    },
+    {
       "url":"http://glimr.rubyforge.org/cake/canvas.html",
       "title":"Animation kit "
     },
     {
       "url":"http://www.diveinto.org/html5/canvas.html",
       "title":"Another tutorial"
-    },
-    {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/Canvas_tutorial",
-      "title":"Tutorial by Mozilla"
     }
   ],
   "bugs":[

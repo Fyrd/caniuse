@@ -17,12 +17,12 @@
       "title":"Polyfill for IE"
     },
     {
-      "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
-      "title":"MDN article"
-    },
-    {
       "url":"http://css-tricks.com/box-sizing/",
       "title":"CSS Tricks"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -33,10 +33,7 @@
       "description":"Safari 6.0.x does not use box-sizing on elements with display: table;"
     },
     {
-      "description":"Safari 6.0.x does not use box-sizing on elements with display: table;"
-    },
-    {
-      "description":"IE9 will subtract the with of the scrollbar to the with of the element when set to position: absolute, overflow: auto / overflow-y: scroll"
+      "description":"IE9 will subtract the width of the scrollbar to the width of the element when set to position: absolute, overflow: auto / overflow-y: scroll"
     }
   ],
   "categories":[

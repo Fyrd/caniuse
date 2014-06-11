@@ -5,8 +5,8 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/position",
-      "title":"MDN article"
+      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
+      "title":"HTML5Rocks"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/position",
@@ -17,8 +17,8 @@
       "title":"Polyfill"
     },
     {
-      "url":"http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
-      "title":"HTML5Rocks"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/position",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -191,7 +191,7 @@
     }
   },
   "notes":"Can be enabled in Firefox 26+ by setting the about:config preference layout.css.sticky.enabled to true and in Chrome 23 by enabling the #enable-experimental-web-platform-features flag.",
-  "usage_perc_y":8.45,
+  "usage_perc_y":8.09,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
