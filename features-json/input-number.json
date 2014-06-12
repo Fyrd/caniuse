@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://github.com/jonstipe/number-polyfill",
+      "title":"Polyfill"
+    },
+    {
       "url":"http://www.html5tutorial.info/html5-number.php",
       "title":"Tutorial"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/input/type/number",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://github.com/jonstipe/number-polyfill",
-      "title":"Polyfill"
     }
   ],
   "bugs":[
