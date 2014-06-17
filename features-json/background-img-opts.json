@@ -23,6 +23,9 @@
     },
     {
       "description":"iOS Safari has buggy behavior with background-size: cover; on a page's body."
+    },
+    {
+      "description":"The CSS3 shorthand background property isn't supported in iOS Safari 6, use CCS2 property instead."
     }
   ],
   "categories":[
