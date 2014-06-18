@@ -1,23 +1,29 @@
 {
-  "title":"Battery Status API",
-  "description":"Method to provide information about the battery status of the hosting device.",
-  "spec":"http://www.w3.org/TR/battery-status/",
-  "status":"cr",
+  "title":"CSS3 image-orientation",
+  "description":"This property specifies an orthogonal rotation to be applied to an image before it is laid out. It applies only to content images. This property is not intended to perform arbitrary rotation on an image, but to correct erroneous orientation. That's why it is rounded to the nearest quarter of turn. Similarly this property is not intented to handle the layout -> portrait changing. As image-orientation affects only images, it won't work: the changes must happen at the layout-level",
+  "spec":"http://dev.w3.org/csswg/css-images/#the-image-orientation",
+  "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/WebAPI/Battery_Status",
-      "title":"MDN Docs"
+      "url":"http://sethfowler.org/blog/2013/09/13/new-in-firefox-26-css-image-orientation/",
+      "title":"Blog post"
     },
     {
-      "url":"http://www.smartjava.org/examples/webapi-battery/",
-      "title":"Simple demo"
+      "url":"http://jsbin.com/EXUTolo/4",
+      "title":"Demo (Chinese)"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/image-orientation",
+      "title":"MDN article"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Negative values do not work in Firefox"
+    }
   ],
   "categories":[
-    "JS API"
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -40,22 +46,22 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y x",
-      "11":"y x",
-      "12":"y x",
-      "13":"y x",
-      "14":"y x",
-      "15":"y x",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
       "26":"y",
       "27":"y",
       "28":"y",
@@ -176,17 +182,17 @@
       "0":"n"
     },
     "and_ff":{
-      "0":"y"
+      "0":"n"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"Support has already landed in Webkit but it is yet to make into Android and Chrome <a href=\"https://code.google.com/p/chromium/issues/detail?id=135863\">android issue</a>  <a href=\"https://code.google.com/p/chromium/issues/detail?id=122593\">chrome issue</a>",
-  "usage_perc_y":14.46,
+  "notes":"Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data",
+  "usage_perc_y":12.7,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
-  "shown":true
+  "keywords":"image-orientation,from-image,flip",
+  "shown":false
 }
