@@ -1,8 +1,8 @@
 {
   "title":"relList (DOMTokenList )",
-  "description":"Method of easily manipulating rel attribute values on elements, using the DOMTokenList object.",
-  "spec":"http://dev.w3.org/html5/spec/the-a-element.html#dom-a-rellist",
-  "status":"cr",
+  "description":"Method of easily manipulating rel attribute values on elements, using the DOMTokenList object (similar to classList).",
+  "spec":"http://www.w3.org/TR/html5/text-level-semantics.html#the-a-element",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/DOM/DOMTokenList",
@@ -57,10 +57,10 @@
       "27":"n",
       "28":"n",
       "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n"
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y"
     },
     "chrome":{
       "4":"n",
@@ -106,9 +106,9 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
-      "7":"u",
-      "8":"u"
+      "6.1":"n",
+      "7":"n",
+      "8":"n"
     },
     "opera":{
       "9":"n",
@@ -139,8 +139,8 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0":"u",
-      "8":"u"
+      "7.0":"n",
+      "8":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -173,17 +173,17 @@
       "0":"n"
     },
     "and_ff":{
-      "0":"n"
+      "0":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"",
-  "usage_perc_y":0,
+  "usage_perc_y":0.5,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
-  "shown":false
+  "shown":true
 }
