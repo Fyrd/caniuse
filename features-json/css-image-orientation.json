@@ -1,13 +1,9 @@
 {
   "title":"CSS3 image-orientation",
-  "description":"This property specifies an orthogonal rotation to be applied to an image before it is laid out. It applies only to content images. This property is not intended to perform arbitrary rotation on an image, but to correct erroneous orientation. That's why it is rounded to the nearest quarter of turn. Similarly this property is not intented to handle the layout -> portrait changing. As image-orientation affects only images, it won't work: the changes must happen at the layout-level",
-  "spec":"http://dev.w3.org/csswg/css-images/#the-image-orientation",
-  "status":"wd",
+  "description":"CSS property used generally to fix the intended orientation of an image. This can be done using 90 degree increments or based on the image's EXIF data using the \"from-image\" value.",
+  "spec":"http://www.w3.org/TR/css3-images/#image-orientation",
+  "status":"cr",
   "links":[
-    {
-      "url":"http://sethfowler.org/blog/2013/09/13/new-in-firefox-26-css-image-orientation/",
-      "title":"Blog post"
-    },
     {
       "url":"http://jsbin.com/EXUTolo/4",
       "title":"Demo (Chinese)"
@@ -15,11 +11,15 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/image-orientation",
       "title":"MDN article"
+    },
+    {
+      "url":"http://sethfowler.org/blog/2013/09/13/new-in-firefox-26-css-image-orientation/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
     {
-      "description":"Negative values do not work in Firefox"
+      "description":"Negative values do not work in Firefox."
     }
   ],
   "categories":[
@@ -143,13 +143,13 @@
       "24":"n"
     },
     "ios_saf":{
-      "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
-      "6.0-6.1":"n",
-      "7.0-7.1":"n",
-      "8":"n"
+      "3.2":"a",
+      "4.0-4.1":"a",
+      "4.2-4.3":"a",
+      "5.0-5.1":"a",
+      "6.0-6.1":"a",
+      "7.0-7.1":"a",
+      "8":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -182,17 +182,17 @@
       "0":"n"
     },
     "and_ff":{
-      "0":"n"
+      "0":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data",
-  "usage_perc_y":12.7,
-  "usage_perc_a":0,
+  "notes":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property. Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data.",
+  "usage_perc_y":12.81,
+  "usage_perc_a":6.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"image-orientation,from-image,flip",
-  "shown":false
+  "shown":true
 }
