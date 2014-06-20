@@ -9,12 +9,12 @@
       "title":"HTML5 Rocks tutorial"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/navigation_timing",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/API/navigationTiming",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/navigation_timing",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -23,8 +23,8 @@
     }
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
