@@ -150,9 +150,9 @@
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
-      "7.0-7.1":"y",
+      "5.0-5.1":"a",
+      "6.0-6.1":"a",
+      "7.0-7.1":"a",
       "8":"y"
     },
     "op_mini":{
@@ -192,7 +192,7 @@
       "10":"n"
     }
   },
-  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a missing calendar widget for the \"datetime\" type (and other types in older versions). Some modified versions of the Android 4.x browser do have support for date/time fields. ",
+  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a missing calendar widget for the \"datetime\" type (and other types in older versions). Some modified versions of the Android 4.x browser do have support for date/time fields. Partial support in iOS refers to a lack of support for attributes like step, min, or max.",
   "usage_perc_y":12.03,
   "usage_perc_a":35.17,
   "ucprefix":false,
