@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
-      "title":"WebPlatform Docs"
+      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
+      "title":"Datepicker tutorial w/polyfill"
     },
     {
       "url":"https://github.com/zoltan-dulac/html5Forms.js",
       "title":"Polyfill for HTML5 forms"
     },
     {
-      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
-      "title":"Datepicker tutorial w/polyfill"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -193,8 +193,8 @@
     }
   },
   "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a missing calendar widget for the \"datetime\" type (and other types in older versions). Some modified versions of the Android 4.x browser do have support for date/time fields. Partial support in iOS refers to a lack of support for attributes like step, min, or max.",
-  "usage_perc_y":12.03,
-  "usage_perc_a":35.17,
+  "usage_perc_y":6.04,
+  "usage_perc_a":41.16,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker",
