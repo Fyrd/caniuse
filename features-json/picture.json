@@ -1,12 +1,20 @@
 {
   "title":"Picture element",
-  "description":"Element to better control the image that is loaded, based on media query and/or support for a particular image format.",
+  "description":"A responsive images method to control which image resource a user agent presents to a user, based on resolution, media query and/or support for a particular image format",
   "spec":"http://www.w3.org/TR/html-picture-element/",
   "status":"wd",
   "links":[
     {
-      "url":"http://responsiveimages.org/demos/",
-      "title":"Demo"
+      "url":"http://www.w3.org/TR/html-picture-element/",
+      "title":"Latest RICG <picture> specification"
+    },
+    {
+      "url":"http://usecases.responsiveimages.org/",
+      "title":"Read about the use cases"
+    },
+    {
+      "url":"http://responsiveimages.org/",
+      "title":"General information about Responsive Images"
     },
     {
       "url":"http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583",
@@ -14,10 +22,14 @@
     }
   ],
   "bugs":[
-    
+    {
+      "url":"https://github.com/ResponsiveImagesCG/picture-element/issues?state=open",
+      "title":"See a list of unresolved issues / feature requests within the specification"
+    }
   ],
   "categories":[
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -62,8 +74,8 @@
       "29":"n",
       "30":"n",
       "31":"n",
-      "32":"n",
-      "33":"n"
+      "32":"u",
+      "33":"u"
     },
     "chrome":{
       "4":"n",
@@ -134,7 +146,7 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"n"
+      "24":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -146,7 +158,7 @@
       "8":"n"
     },
     "op_mini":{
-      "5.0-7.0":"n"
+      "5.0-7.5":"n"
     },
     "android":{
       "2.1":"n",
@@ -187,6 +199,6 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"<picture>, picture, srcset, responsive images",
   "shown":true
 }
