@@ -5,18 +5,15 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/Navigator/getUserMedia",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview",
       "title":"Technology preview from Opera"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/Navigator/getUserMedia",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
-    {
-      "description":"Chrome for Android does not support getUserMedia in conjunction with the Web Audio API."
-    },
     {
       "description":"Until version 12.16, Opera supported <a href=\"http://my.opera.com/community/forums/topic.dml?id=1528992\">video context only</a>."
     }
