@@ -30,6 +30,9 @@
     },
     {
       "description":"iOS Safari (tested on 7) sets viewport unit values to 0 if the page has been left and is returned to after 60 seconds."
+    },
+    {
+      "description":"Internet Explorer 9 in print-mode interprets vh as pages. 30vh = 30 pages"
     }
   ],
   "categories":[
