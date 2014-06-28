@@ -31,7 +31,7 @@
   ],
   "bugs":[
     {
-      "description":"IE10 & 11 have a some <a href=\"http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter\">bugs related to the step value</a>."
+      "description":"IE10 & 11 have a some <a href=\"http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter\">bugs related to the step value</a> and do not support the oninput event handler."
     }
   ],
   "categories":[
@@ -44,8 +44,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y",
-      "11":"y"
+      "10":"a",
+      "11":"a"
     },
     "firefox":{
       "2":"n",
