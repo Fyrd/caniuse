@@ -13,12 +13,12 @@
       "title":"Buggyfill - Polyfill that fixes buggy support"
     },
     {
-      "url":"http://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
-      "title":"Back-Forward issue blog post"
-    },
-    {
       "url":"http://css-tricks.com/viewport-sized-typography/",
       "title":"Blog post"
+    },
+    {
+      "url":"http://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
+      "title":"Back-Forward issue blog post"
     }
   ],
   "bugs":[
@@ -46,7 +46,7 @@
       "8":"n",
       "9":"a #2",
       "10":"a #1",
-      "11":"y"
+      "11":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -202,8 +202,8 @@
     }
   },
   "notes":"Partial support in IE9 refers to supporting \"vm\" instead of \"vmin\". Partial support in iOS7 is due to buggy behavior of the \"vh\" unit. All other partial support refers to not supporting the \"vmax\" unit. ",
-  "usage_perc_y":63,
-  "usage_perc_a":12.68,
+  "usage_perc_y":55.98,
+  "usage_perc_a":19.7,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage",
