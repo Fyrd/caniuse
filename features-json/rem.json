@@ -19,6 +19,9 @@
     },
     {
       "description":"IE 9, 10 and 11 do not support rem units when used in the \"line-height\" property when used on :before and :after pseudo elements (https://connect.microsoft.com/IE/feedback/details/776744)."
+    },
+        {
+      "description":"Borders sized in \"rem\" disappear when the page is zoomed out in Chrome."
     }
   ],
   "categories":[
