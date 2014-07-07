@@ -28,6 +28,9 @@
   "bugs":[
     {
       "description":"Not supported on any pseudo-elements besides ::before and ::after for Firefox, Chrome 26+ and IE10+."
+    },
+    {
+      "description":"Transitionable properties with calc() derived values are not supported below and including IE11 (http://connect.microsoft.com/IE/feedback/details/762719/css3-calc-bug-inside-transition-or-transform)"
     }
   ],
   "categories":[
