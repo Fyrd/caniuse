@@ -182,7 +182,7 @@
       "10":"u"
     }
   },
-  "notes":"Partial support refers to the only support for 'width' and 'height' property in IE, and the lack of support for 'orientation' property in Opera Mobile and Mini.",
+  "notes":"Partial support refers to the only support for 'width' and 'height' property in IE, and the lack of support for 'orientation' property in Opera Mobile and Mini.\r\nIE10 has an issue where device-width value doesn't work properly. Workaround - 'http://timkadlec.com/2013/01/windows-phone-8-and-device-width/'. This issue has been fixed in update 3 on Windows Phone 8 - http://go.microsoft.com/fwlink/p/?LinkID=378273",
   "usage_perc_y":0,
   "usage_perc_a":13.08,
   "ucprefix":false,
