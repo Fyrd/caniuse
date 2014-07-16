@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Webkit fixed a known bug when using viewport units in calc() (6-11-2014): https://bugs.webkit.org/show_bug.cgi?id=94158 Tested in nightly build and confirmed fixed. Chrome has fixed the bug as well: https://code.google.com/p/chromium/issues/detail?id=168840"
+      "description":"Webkit browsers have a known bug when using viewport units in calc(). This <a href=\"https://bugs.webkit.org/show_bug.cgi?id=94158\">has been fixed</a> in nightly builds."
     }
   ],
   "categories":[
