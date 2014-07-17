@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"Webkit browsers have a known bug when using viewport units in calc(). This <a href=\"https://bugs.webkit.org/show_bug.cgi?id=94158\">has been fixed</a> in nightly builds."
+    },
+    {
+      "description":"IE 10 and below doesn't support calc() within transforms"
     }
   ],
   "categories":[
