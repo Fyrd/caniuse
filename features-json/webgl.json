@@ -5,6 +5,14 @@
   "status":"other",
   "links":[
     {
+      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
+      "title":"Webkit blog post"
+    },
+    {
+      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
+      "title":"Tutorial"
+    },
+    {
       "url":"http://hacks.mozilla.org/2009/12/webgl-draft-released-today/",
       "title":"Firefox blog post"
     },
@@ -15,14 +23,6 @@
     {
       "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
       "title":"Instructions on enabling WebGL"
-    },
-    {
-      "url":"http://www.khronos.org/webgl/wiki/Tutorial",
-      "title":"Tutorial"
-    },
-    {
-      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
-      "title":"Webkit blog post"
     }
   ],
   "bugs":[
@@ -114,7 +114,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

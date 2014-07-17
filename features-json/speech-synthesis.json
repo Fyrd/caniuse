@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/",
-      "title":"SitePoint article"
-    },
-    {
       "url":"http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API",
       "title":"HTML5Rocks article"
     },
     {
       "url":"http://aurelio.audero.it/demo/speech-synthesis-api-demo.html",
       "title":"Demo"
+    },
+    {
+      "url":"http://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/",
+      "title":"SitePoint article"
     }
   ],
   "bugs":[
@@ -104,7 +104,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

@@ -9,12 +9,12 @@
       "title":"Mozilla (Firefox) feature request"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
-      "title":"Webkit (Chrome, Safari, etc.) feature request"
-    },
-    {
       "url":"https://github.com/codler/Grid-Layout-Polyfill",
       "title":"Grid Layout Polyfill"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
+      "title":"Webkit (Chrome, Safari, etc.) feature request"
     },
     {
       "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
@@ -106,9 +106,10 @@
       "33":"p",
       "34":"p",
       "35":"p",
-      "36":"u",
+      "36":"p",
       "37":"u",
-      "38":"u"
+      "38":"u",
+      "39":"u"
     },
     "safari":{
       "3.1":"n",

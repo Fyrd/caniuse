@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
-      "title":"has.js test"
-    },
-    {
       "url":"https://github.com/axemclion/IndexedDBShim",
       "title":"Polyfill for browsers supporting WebSQL"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -108,7 +108,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"p",

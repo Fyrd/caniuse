@@ -9,12 +9,12 @@
       "title":"Polyfill for FormData object"
     },
     {
-      "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
-      "title":"MDN article on FormData"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/xhr/XMLHttpRequest",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
+      "title":"MDN article on FormData"
     }
   ],
   "bugs":[
@@ -113,7 +113,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.westciv.com/tools/transforms/",
-      "title":"Live editor"
+      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
       "title":"MDN article"
     },
     {
-      "url":"http://www.useragentman.com/IETransformsTranslator/",
-      "title":"Converter for IE"
-    },
-    {
       "url":"http://www.css3files.com/transform/",
       "title":"Information page"
+    },
+    {
+      "url":"http://www.useragentman.com/IETransformsTranslator/",
+      "title":"Converter for IE"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
@@ -29,8 +29,8 @@
       "title":"Workaround script for IE"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
-      "title":"WebPlatform Docs"
+      "url":"http://www.westciv.com/tools/transforms/",
+      "title":"Live editor"
     }
   ],
   "bugs":[
@@ -128,7 +128,8 @@
       "35":"y x",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"y x",

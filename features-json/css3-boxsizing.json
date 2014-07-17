@@ -9,10 +9,6 @@
       "title":"MDN article"
     },
     {
-      "url":"http://css-tricks.com/box-sizing/",
-      "title":"CSS Tricks"
-    },
-    {
       "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
       "title":"Blog post"
     },
@@ -23,6 +19,10 @@
     {
       "url":"https://github.com/Schepp/box-sizing-polyfill",
       "title":"Polyfill for IE"
+    },
+    {
+      "url":"http://css-tricks.com/box-sizing/",
+      "title":"CSS Tricks"
     }
   ],
   "bugs":[
@@ -120,7 +120,8 @@
       "35":"a",
       "36":"a",
       "37":"a",
-      "38":"a"
+      "38":"a",
+      "39":"a"
     },
     "safari":{
       "3.1":"a x",

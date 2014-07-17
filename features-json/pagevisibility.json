@@ -9,16 +9,16 @@
       "title":"Demo"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/apis/timing/properties/visibilityState",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.sitepoint.com/introduction-to-page-visibility-api/",
       "title":"SitePoint article"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/DOM/Using_the_Page_Visibility_API",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/timing/properties/visibilityState",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -108,7 +108,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

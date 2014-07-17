@@ -5,12 +5,16 @@
   "status":"other",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security",
-      "title":"Strict Transport Security @ Mozilla Developer Network"
+      "url":"http://dev.chromium.org/sts",
+      "title":"Chromium article"
     },
     {
-      "url":"http://dev.chromium.org/sts",
-      "title":"Strict Transport Security @ Chromium"
+      "url":"https://developer.mozilla.org/en-US/docs/Security/HTTP_Strict_Transport_Security",
+      "title":"MDN article"
+    },
+    {
+      "url":"https://www.owasp.org/index.php/HTTP_Strict_Transport_Security",
+      "title":"OWASP article"
     }
   ],
   "bugs":[
@@ -100,7 +104,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

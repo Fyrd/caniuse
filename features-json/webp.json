@@ -5,6 +5,14 @@
   "status":"other",
   "links":[
     {
+      "url":"http://webpjs.appspot.com/",
+      "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
+    },
+    {
+      "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
+      "title":"Official website FAQ - Which web browsers natively support WebP?"
+    },
+    {
       "url":"https://developers.google.com/speed/webp/",
       "title":"Official website"
     },
@@ -13,16 +21,8 @@
       "title":"Decoder in JS"
     },
     {
-      "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
-      "title":"Official website FAQ - Which web browsers natively support WebP?"
-    },
-    {
       "url":"http://antimatter15.github.io/weppy/demo.html",
       "title":"Polyfill for browsers with WebM support"
-    },
-    {
-      "url":"http://webpjs.appspot.com/",
-      "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
     }
   ],
   "bugs":[
@@ -112,7 +112,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

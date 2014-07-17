@@ -9,12 +9,12 @@
       "title":"Workaround for IE6"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/position",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://bradfrostweb.com/blog/mobile/fixed-position/",
       "title":"Article on mobile support"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/position",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -106,7 +106,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"y",

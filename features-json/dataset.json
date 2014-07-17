@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5demos.com/dataset",
-      "title":"Demo using dataset"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
       "title":"MDN Reference - dataset"
     },
@@ -21,12 +17,16 @@
       "title":"MDN Guide - Using data-* attributes"
     },
     {
-      "url":"http://html5doctor.com/html5-custom-data-attributes/",
-      "title":"HTML5 Doctor article"
+      "url":"http://html5demos.com/dataset",
+      "title":"Demo using dataset"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://html5doctor.com/html5-custom-data-attributes/",
+      "title":"HTML5 Doctor article"
     }
   ],
   "bugs":[
@@ -118,7 +118,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"a",

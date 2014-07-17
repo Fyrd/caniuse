@@ -5,28 +5,28 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://glimr.rubyforge.org/cake/canvas.html",
-      "title":"Animation kit "
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
     },
     {
       "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
-    },
-    {
-      "url":"http://www.diveinto.org/html5/canvas.html",
-      "title":"Another tutorial"
+      "url":"http://glimr.rubyforge.org/cake/canvas.html",
+      "title":"Animation kit "
     },
     {
       "url":"http://explorercanvas.googlecode.com/",
       "title":"Implementation for Internet Explorer"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#canvas",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://www.diveinto.org/html5/canvas.html",
+      "title":"Another tutorial"
     }
   ],
   "bugs":[
@@ -119,7 +119,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"y",

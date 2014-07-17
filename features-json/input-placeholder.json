@@ -5,8 +5,8 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
-      "title":"has.js test"
+      "url":"https://code.google.com/p/android/issues/detail?id=24626",
+      "title":"Issue 24626: Placeholder text for an input type="
     },
     {
       "url":"https://github.com/mathiasbynens/jquery-placeholder",
@@ -21,8 +21,8 @@
       "title":"Article on usage"
     },
     {
-      "url":"https://code.google.com/p/android/issues/detail?id=24626",
-      "title":"Issue 24626: Placeholder text for an input type="
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-attr-placeholder",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -117,7 +117,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"a",

@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/cssom/methods/getComputedStyle",
-      "title":"WebPlatform Docs"
+      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
+      "title":"Demo"
     },
     {
       "url":"https://developer.mozilla.org/en/DOM/window.getComputedStyle",
       "title":"MDN article"
     },
     {
-      "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
-      "title":"Demo"
+      "url":"http://docs.webplatform.org/wiki/css/cssom/methods/getComputedStyle",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://snipplr.com/view/13523/",
@@ -25,9 +25,9 @@
     
   ],
   "categories":[
+    "CSS3",
     "DOM",
-    "JS API",
-    "CSS3"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -110,7 +110,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"a",

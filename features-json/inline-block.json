@@ -9,12 +9,12 @@
       "title":"Info on cross browser support"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/display",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
       "title":"Blog post w/info"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/display",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -104,7 +104,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"y",

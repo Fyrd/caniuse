@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/ie/hh708740(v=vs.85).aspx",
-      "title":"Device adaptation in Internet Explorer 10"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/",
       "title":"Introduction to meta viewport and @viewport in Opera Mobile"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh708740(v=vs.85).aspx",
+      "title":"Device adaptation in Internet Explorer 10"
     }
   ],
   "bugs":[
@@ -98,9 +98,10 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"u",
+      "36":"n",
       "37":"u",
-      "38":"u"
+      "38":"u",
+      "39":"u"
     },
     "safari":{
       "3.1":"n",

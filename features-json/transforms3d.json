@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
-      "title":"has.js test"
+      "url":"http://css3.bradshawenterprises.com/flip/",
+      "title":"Multi-browser demo"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://thewebrocks.com/demos/3D-css-tester/",
       "title":"3D CSS Tester"
     },
     {
-      "url":"http://css3.bradshawenterprises.com/flip/",
-      "title":"Multi-browser demo"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
+      "title":"has.js test"
     },
     {
       "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
       "title":"Mozilla hacks article"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -114,7 +114,8 @@
       "35":"y x",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

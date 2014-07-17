@@ -9,12 +9,12 @@
       "title":"Information page"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/word-wrap",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/En/CSS/Word-wrap",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/word-wrap",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -104,7 +104,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"a",

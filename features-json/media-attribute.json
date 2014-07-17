@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://lists.w3.org/Archives/Public/public-html/2014Feb/0036.html",
-      "title":"W3C mailing list thread - Do not remove the media attribute from the source element"
-    },
-    {
       "url":"https://www.w3.org/Bugs/Public/show_bug.cgi?id=19619",
       "title":"W3C bug report discussion - Remove media="
+    },
+    {
+      "url":"http://lists.w3.org/Archives/Public/public-html/2014Feb/0036.html",
+      "title":"W3C mailing list thread - Do not remove the media attribute from the source element"
     }
   ],
   "bugs":[
@@ -98,9 +98,10 @@
       "33":"y",
       "34":"n",
       "35":"n",
-      "36":"u",
+      "36":"n",
       "37":"u",
-      "38":"u"
+      "38":"u",
+      "39":"u"
     },
     "safari":{
       "3.1":"n",

@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://code.google.com/p/ie-web-worker/",
+      "title":"Polyfill for IE (single threaded)"
+    },
+    {
       "url":"http://nerget.com/rayjs-mt/rayjs.html",
       "title":"Web Worker demo"
     },
     {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-web-workers/",
       "title":"Tutorial"
-    },
-    {
-      "url":"http://code.google.com/p/ie-web-worker/",
-      "title":"Polyfill for IE (single threaded)"
     },
     {
       "url":"https://developer.mozilla.org/En/Using_web_workers",
@@ -108,7 +108,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"p",

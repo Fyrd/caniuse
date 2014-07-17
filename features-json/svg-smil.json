@@ -5,24 +5,24 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://github.com/madsgraphics/SVGEventListener",
-      "title":"Polyfill for SMIL animate events on SVG"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
-      "title":"MDN article"
-    },
-    {
-      "url":"http://svg-wow.org/blog/category/animation/",
-      "title":"Examples on SVG WOW"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg-smil",
       "title":"has.js test"
     },
     {
       "url":"http://leunen.me/fakesmile/",
       "title":"JS library to support SMIL in SVG"
+    },
+    {
+      "url":"http://svg-wow.org/blog/category/animation/",
+      "title":"Examples on SVG WOW"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
+      "title":"MDN article"
+    },
+    {
+      "url":"https://github.com/madsgraphics/SVGEventListener",
+      "title":"Polyfill for SMIL animate events on SVG"
     }
   ],
   "bugs":[
@@ -117,7 +117,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"p",

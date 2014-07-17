@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/Element/classList",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://github.com/eligrey/classList.js",
       "title":"Polyfill script"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
+      "title":"Mozilla Hacks article"
     },
     {
       "url":"http://aurelio.audero.it/demo/classlist-api-demo.html",
       "title":"Demo using classList"
     },
     {
-      "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
-      "title":"Mozilla Hacks article"
+      "url":"http://docs.webplatform.org/wiki/dom/Element/classList",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.sitepoint.com/exploring-classlist-api/",
@@ -118,7 +118,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"p",

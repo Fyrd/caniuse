@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/Window/requestAnimationFrame",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2011/08/animating-with-javascript-from-setinterval-to-requestanimationframe/",
+      "title":"Mozilla Hacks article"
     },
     {
       "url":"http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
@@ -106,7 +106,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

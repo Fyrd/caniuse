@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/APNG",
-      "title":"Wikipedia"
+      "url":"https://github.com/davidmz/apng-canvas",
+      "title":"Polyfill using canvas"
     },
     {
       "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
       "title":"Chrome extension providing support"
     },
     {
-      "url":"https://github.com/davidmz/apng-canvas",
-      "title":"Polyfill using canvas"
+      "url":"http://en.wikipedia.org/wiki/APNG",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -104,7 +104,8 @@
       "35":"n",
       "36":"n",
       "37":"n",
-      "38":"n"
+      "38":"n",
+      "39":"n"
     },
     "safari":{
       "3.1":"n",

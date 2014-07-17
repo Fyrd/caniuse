@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://alistapart.com/article/css-shapes-101",
-      "title":"A List Apart article"
+      "url":"http://html.adobe.com/webplatform/layout/shapes/",
+      "title":"Adobe demos and samples"
     },
     {
       "url":"http://html.adobe.com/webplatform/layout/shapes/browser-support/",
       "title":"CSS shapes support test by Adobe"
     },
     {
-      "url":"http://html.adobe.com/webplatform/layout/shapes/",
-      "title":"Adobe demos and samples"
+      "url":"http://alistapart.com/article/css-shapes-101",
+      "title":"A List Apart article"
     }
   ],
   "bugs":[
@@ -104,7 +104,8 @@
       "35":"n",
       "36":"n",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

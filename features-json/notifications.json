@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
-      "title":"Add-on "
-    },
-    {
       "url":"http://www.sitepoint.com/introduction-web-notifications-api/",
       "title":"SitePoint article"
     },
@@ -17,12 +13,16 @@
       "title":"Chromium API"
     },
     {
-      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/notification",
       "title":"MDN Notifications"
+    },
+    {
+      "url":"https://addons.mozilla.org/en-us/firefox/addon/221523/",
+      "title":"Add-on "
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
+      "title":"HTML5 Rocks tutorial"
     },
     {
       "url":"http://aurelio.audero.it/demo/web-notifications-api-demo.html",
@@ -118,7 +118,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

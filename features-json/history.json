@@ -5,24 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
-      "title":"MDN article"
-    },
-    {
-      "url":"https://github.com/browserstate/history.js",
-      "title":"History.js polyfill "
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/History",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://html5demos.com/history",
+      "title":"Demo page"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
       "title":"has.js test"
     },
     {
-      "url":"http://html5demos.com/history",
-      "title":"Demo page"
+      "url":"https://github.com/browserstate/history.js",
+      "title":"History.js polyfill "
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
+      "title":"MDN article"
     },
     {
       "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
@@ -118,7 +118,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

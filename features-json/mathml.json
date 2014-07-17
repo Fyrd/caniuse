@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/MathML/Element",
-      "title":"MDN element reference"
+      "url":"http://en.wikipedia.org/wiki/MathML",
+      "title":"Wikipedia"
     },
     {
-      "url":"http://www.mozilla.org/projects/mathml/demo/",
-      "title":"MathML demos"
+      "url":"https://developer.mozilla.org/en/MathML/Element",
+      "title":"MDN element reference"
     },
     {
       "url":"http://www.mathjax.org",
       "title":"Cross-browser support script"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/MathML",
-      "title":"Wikipedia"
+      "url":"http://www.mozilla.org/projects/mathml/demo/",
+      "title":"MathML demos"
     }
   ],
   "bugs":[
@@ -108,7 +108,8 @@
       "35":"p",
       "36":"p",
       "37":"p",
-      "38":"p"
+      "38":"p",
+      "39":"p"
     },
     "safari":{
       "3.1":"p",

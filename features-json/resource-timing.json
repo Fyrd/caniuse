@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://aurelio.audero.it/demo/resource-timing-api-demo.html",
-      "title":"Demo"
-    },
-    {
       "url":"http://googledevelopers.blogspot.com/2013/12/measuring-network-performance-with.html",
       "title":"Blog post"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/resource-timing-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -100,7 +100,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",

@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/API/navigationTiming",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/navigation_timing",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/API/navigationTiming",
+      "title":"MDN article"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/webperformance/basics/",
@@ -107,7 +107,8 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",
