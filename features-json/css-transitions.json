@@ -31,6 +31,9 @@
     },
     {
       "description":"Transitionable properties with calc() derived values are not supported below and including IE11 (http://connect.microsoft.com/IE/feedback/details/762719/css3-calc-bug-inside-transition-or-transform)"
+    },
+    {
+      "description":"'Background-size' is not supported below and including IE10"
     }
   ],
   "categories":[
