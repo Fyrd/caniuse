@@ -5,20 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://w3c.github.io/webcomponents/spec/custom/",
-      "title":"W3C Editor's Draft spec (closer to current implementations)"
-    },
-    {
       "url":"http://www.polymer-project.org/platform/custom-elements.html",
       "title":"Polymer project (polyfill & web components framework)"
-    },
-    {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
-      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
-    },
-    {
-      "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
-      "title":"Chromium tracking bug: Implement Custom Elements"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
@@ -27,10 +15,22 @@
     {
       "url":"http://status.modern.ie/customelements",
       "title":"IE Web Platform Status and Roadmap: Custom Elements"
+    },
+    {
+      "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
+      "title":"Chromium tracking bug: Implement Custom Elements"
+    },
+    {
+      "url":"http://w3c.github.io/webcomponents/spec/custom/",
+      "title":"W3C Editor's Draft spec (closer to current implementations)"
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
+      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "HTML5",
@@ -164,17 +164,17 @@
       "8":"p"
     },
     "op_mini":{
-      "5.0-7.0":"u"
+      "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n",
       "4.4.3":"u"
     },
     "bb":{
@@ -182,26 +182,26 @@
       "10":"n"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "0":"u"
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
+      "0":"y"
     },
     "and_chr":{
       "0":"y"
     },
     "and_ff":{
-      "0":"u"
+      "0":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Supported natively in Firefox 23-33 by enabling the \"dom.webcomponents.enabled\" flag in about:config, although Firefox 23-29 implement an outdated version of the spec (e.g., requires x- prefix for all custom element names). Supported natively in Chrome 27-32 and Opera 15-19 by enabling the \"Enable experimental web platform features\" flag in chrome://flags or opera://flags respectively, although Chrome 27-30 and Opera 15-17 implement an outdated version of the spec.",
-  "usage_perc_y":0,
+  "usage_perc_y":37.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.polymer-project.org/platform/html-imports.html",
-      "title":"Polymer project (polyfill & web components framework)"
-    },
-    {
       "url":"http://www.html5rocks.com/tutorials/webcomponents/imports/",
       "title":"HTML5Rocks - HTML Imports: #include for the web"
+    },
+    {
+      "url":"http://status.modern.ie/htmlimports",
+      "title":"IE Web Platform Status and Roadmap: HTML Imports"
     },
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=240592",
@@ -21,16 +21,16 @@
       "title":"Firefox tracking bug: Implement HTML Imports"
     },
     {
-      "url":"http://status.modern.ie/htmlimports",
-      "title":"IE Web Platform Status and Roadmap: HTML Imports"
+      "url":"http://www.polymer-project.org/platform/html-imports.html",
+      "title":"Polymer project (polyfill & web components framework)"
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -160,17 +160,17 @@
       "8":"p"
     },
     "op_mini":{
-      "5.0-7.0":"u"
+      "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n",
       "4.4.3":"u"
     },
     "bb":{
@@ -178,26 +178,26 @@
       "10":"n"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "0":"u"
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
+      "0":"n"
     },
     "and_chr":{
       "0":"y"
     },
     "and_ff":{
-      "0":"u"
+      "0":"p"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Supported natively in Firefox 32-33 by enabling the \"dom.webcomponents.enabled\" flag in about:config. Supported natively in Chrome 30-34 and Opera 17-21 by enabling the \"Enable HTML Imports\" flag in chrome://flags or opera://flags respectively. Supported natively in Chrome 35 and Opera 22 by enabling the \"Enable experimental web platform features\" flag in chrome://flags or opera://flags respectively.",
-  "usage_perc_y":0,
+  "usage_perc_y":5.79,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
