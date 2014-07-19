@@ -18,10 +18,13 @@
       "description":"Partial support in Safari refers to <a href=\"http://stackoverflow.com/questions/13663302/why-does-my-content-security-policy-work-everywhere-but-safari\">buggy behavior</a>."
     },
     {
-      "description":"Partially support in iOS Safari 5.0-5.1 refers to the browser recognizing the X-Webkit-CSP header but failing to handle complex cases correctly, often resulting in broken pages."
+      "description":"Partial support in iOS Safari 5.0-5.1 refers to the browser recognizing the X-Webkit-CSP header but failing to handle complex cases correctly, often resulting in broken pages."
     },
     {
-      "description":"Partially support in Internet Explorer 10-11 refers to the browser only supporting the 'sandbox' directive by using the 'X-Content-Security-Policy' header."
+      "description":"Partial support in Internet Explorer 10-11 refers to the browser only supporting the 'sandbox' directive by using the 'X-Content-Security-Policy' header."
+    },
+    {
+      "description":"Chrome for iOS fails to render pages without a <a href=\"https://code.google.com/p/chromium/issues/detail?id=322497\">connect-src 'self'</a> policy."
     }
   ],
   "categories":[
