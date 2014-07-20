@@ -14,6 +14,9 @@
         isString: function (val) {
             return typeof val === 'string';
         },
+        isObject: function (val) {
+            return typeof val === 'object';
+        }
         isArray: function (val) {
             return val instanceof Array;
         },
@@ -210,6 +213,7 @@
             }]]);
             this.validate('categories', ['isArray', 'hasCategories']);
             this.validate('notes', ['isString']);
+            this.validate('notes_by_num', ['isObject']);
             this.validate('usage_perc_y', ['isNumber']);
             this.validate('ucprefix', ['isBoolean']);
             this.validate('parent', ['isString']); // TODO: Check if existing feature
