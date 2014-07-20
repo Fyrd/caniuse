@@ -9,24 +9,24 @@
       "title":"has.js test"
     },
     {
-      "url":"http://www.diveinto.org/html5/canvas.html",
-      "title":"Another tutorial"
+      "url":"http://www.canvasdemos.com/",
+      "title":"Showcase site"
     },
     {
       "url":"http://glimr.rubyforge.org/cake/canvas.html",
       "title":"Animation kit "
     },
     {
-      "url":"http://explorercanvas.googlecode.com/",
-      "title":"Implementation for Internet Explorer"
+      "url":"http://www.diveinto.org/html5/canvas.html",
+      "title":"Another tutorial"
     },
     {
       "url":"https://developer.mozilla.org/en/Canvas_tutorial",
       "title":"Tutorial by Mozilla"
     },
     {
-      "url":"http://www.canvasdemos.com/",
-      "title":"Showcase site"
+      "url":"http://explorercanvas.googlecode.com/",
+      "title":"Implementation for Internet Explorer"
     }
   ],
   "bugs":[
@@ -35,8 +35,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "Canvas"
+    "Canvas",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -190,19 +190,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications. Android 2.x supports canvas except the toDataURL() function. See http://code.google.com/p/android/issues/detail?id=7901 Some (slow) workarounds are described here: http://stackoverflow.com/q/10488033/841830",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":84.27,
   "usage_perc_a":4.3,
   "ucprefix":false,

@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://oli.jp/2009/html5-structure3/",
-      "title":"Article on structural elements"
-    },
-    {
       "url":"http://blog.whatwg.org/styling-ie-noscript",
       "title":"Alternate workaround"
     },
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
+      "title":"has.js test"
+    },
+    {
       "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
       "title":"Workaround for IE"
+    },
+    {
+      "url":"http://oli.jp/2009/html5-structure3/",
+      "title":"Article on structural elements"
     }
   ],
   "bugs":[
@@ -179,19 +179,22 @@
       "11.5":"y #1",
       "12":"y #1",
       "12.1":"y #1",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y #1"
     }
   },
   "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway). IE11 and older versions of other browsers do not support the &lt;main> element.",
+  "notes_by_num":{
+    "1":"Does not include support for the &lt;main> element "
+  },
   "usage_perc_y":84.9,
   "usage_perc_a":3.67,
   "ucprefix":false,

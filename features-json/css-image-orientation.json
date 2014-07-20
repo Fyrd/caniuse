@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://jsbin.com/EXUTolo/4",
-      "title":"Demo (Chinese)"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/image-orientation",
       "title":"MDN article"
+    },
+    {
+      "url":"http://jsbin.com/EXUTolo/4",
+      "title":"Demo (Chinese)"
     },
     {
       "url":"http://sethfowler.org/blog/2013/09/13/new-in-firefox-26-css-image-orientation/",
@@ -177,19 +177,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"n"
+      "35":"n"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property. Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":12.22,
   "usage_perc_a":6.66,
   "ucprefix":false,

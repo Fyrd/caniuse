@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/Element.mozMatchesSelector",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/HTMLElement/matchesSelector",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/Element.mozMatchesSelector",
+      "title":"MDN article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -172,19 +172,22 @@
       "11.5":"a x",
       "12":"a x",
       "12.1":"a x",
-      "0":"a x"
+      "22":"a x"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"a x"
+      "30":"a x"
     },
     "ie_mob":{
       "10":"a x"
     }
   },
   "notes":"Partial support refers to supporting the older specification's \"matchesSelector\" name rather than just \"matches\".",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":36,
   "usage_perc_a":49.08,
   "ucprefix":false,

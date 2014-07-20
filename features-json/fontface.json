@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Web_typography",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://www.css3files.com/font/",
       "title":"Information page"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@font-face",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/Web_typography",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -181,19 +181,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Partial support before IE9 refers to only supporting EOT fonts. Safari for iOS 4.1 and below only supports SVG fonts.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":84.05,
   "usage_perc_a":6.09,
   "ucprefix":false,

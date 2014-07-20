@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://samples.msdn.microsoft.com/ietestcenter/html5/svghtml_harness.htm?url=SVG_HTML_Elements_001",
-      "title":"Test suite"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/05/firefox-4-the-html5-parser-inline-svg-speed-and-more/",
       "title":"Mozilla Hacks blog post"
+    },
+    {
+      "url":"http://samples.msdn.microsoft.com/ietestcenter/html5/svghtml_harness.htm?url=SVG_HTML_Elements_001",
+      "title":"Test suite"
     }
   ],
   "bugs":[
@@ -174,19 +174,22 @@
       "11.5":"p",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":83.53,
   "usage_perc_a":0,
   "ucprefix":false,

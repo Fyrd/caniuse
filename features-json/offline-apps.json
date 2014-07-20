@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://diveinto.org/html5/offline.html",
-      "title":"Dive Into HTML5 article"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/01/offline-web-applications/",
       "title":"Mozilla Hacks article/demo"
+    },
+    {
+      "url":"http://diveinto.org/html5/offline.html",
+      "title":"Dive Into HTML5 article"
     },
     {
       "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
@@ -181,19 +181,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":82.65,
   "usage_perc_a":0.08,
   "ucprefix":false,

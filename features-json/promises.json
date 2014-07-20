@@ -5,16 +5,16 @@
   "status":"other",
   "links":[
     {
+      "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
+      "title":"JavaScript Promises: There and back again - HTML5 Rocks"
+    },
+    {
       "url":"https://github.com/jakearchibald/ES6-Promises",
       "title":"A polyfill for ES6-style Promises"
     },
     {
       "url":"http://www.chromestatus.com/features/5681726336532480",
       "title":"Chromium dashboard - ES6 Promises"
-    },
-    {
-      "url":"http://www.html5rocks.com/en/tutorials/es6/promises/",
-      "title":"JavaScript Promises: There and back again - HTML5 Rocks"
     },
     {
       "url":"http://promises-aplus.github.io/promises-spec/",
@@ -25,8 +25,8 @@
     
   ],
   "categories":[
-    "JS API",
-    "DOM"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -180,19 +180,22 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"p"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":48.46,
   "usage_perc_a":0.98,
   "ucprefix":false,

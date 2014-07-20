@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/border-image",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.css3files.com/border/",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/border-image",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -171,19 +171,22 @@
       "11.5":"a x",
       "12":"a x",
       "12.1":"a x",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Note that both the border-style and border-width must be specified for border-images to work according to spec, though older implementations may not have this requirement. Partial support refers to supporting the shorthand syntax, but not the individual properties (border-image-source, border-image-slice, etc). ",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":70.74,
   "usage_perc_a":8.89,
   "ucprefix":false,

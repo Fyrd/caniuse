@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome & Safari may show text using an incorrect font for SVGs with text using &lt;img> (see <a href=\"https://bugs.webkit.org/show_bug.cgi?id=68090\">WebKit bug 68090</a>)"
+      "description":"Chrome & Safari may show text using an incorrect font for SVGs with text using &lt;img> (see [WebKit bug 68090](https://bugs.webkit.org/show_bug.cgi?id=68090))"
     }
   ],
   "categories":[
@@ -173,19 +173,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":87.2,
   "usage_perc_a":0.01,
   "ucprefix":false,

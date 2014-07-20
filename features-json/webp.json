@@ -5,24 +5,24 @@
   "status":"other",
   "links":[
     {
-      "url":"http://webpjs.appspot.com/",
-      "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
-    },
-    {
-      "url":"http://antimatter15.github.io/weppy/demo.html",
-      "title":"Polyfill for browsers with WebM support"
-    },
-    {
-      "url":"https://developers.google.com/speed/webp/",
-      "title":"Official website"
-    },
-    {
       "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
       "title":"Official website FAQ - Which web browsers natively support WebP?"
     },
     {
       "url":"http://libwebpjs.appspot.com/",
       "title":"Decoder in JS"
+    },
+    {
+      "url":"http://webpjs.appspot.com/",
+      "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
+    },
+    {
+      "url":"https://developers.google.com/speed/webp/",
+      "title":"Official website"
+    },
+    {
+      "url":"http://antimatter15.github.io/weppy/demo.html",
+      "title":"Polyfill for browsers with WebM support"
     }
   ],
   "bugs":[
@@ -183,19 +183,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Partial support in older Chrome, Opera and Android refers to browser not supporting lossless and alpha versions of WebP. Animated webp images are supported in Chrome 32+ and Opera 19+.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":42.98,
   "usage_perc_a":3.87,
   "ucprefix":false,

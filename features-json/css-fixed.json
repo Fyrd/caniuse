@@ -177,19 +177,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
-  "notes":"Only works in Android 2.2+ by using the following meta tag: &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">. Partial support in iOS Safari refers to <a href=\"http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/\">buggy behavior</a>.",
+  "notes":"Only works in Android 2.2+ by using the following meta tag: &lt;meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">. Partial support in iOS Safari refers to [buggy behavior](http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/).",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":82.21,
   "usage_perc_a":7.73,
   "ucprefix":false,

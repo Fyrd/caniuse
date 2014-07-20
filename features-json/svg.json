@@ -5,6 +5,14 @@
   "status":"rec",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
+      "title":"A List Apart article"
+    },
+    {
       "url":"http://svg-wow.org/",
       "title":"SVG showcase site"
     },
@@ -13,20 +21,12 @@
       "title":"Wikipedia"
     },
     {
-      "url":"http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i",
-      "title":"A List Apart article"
-    },
-    {
       "url":"http://svg-edit.googlecode.com",
       "title":"Web-based SVG editor"
     },
     {
       "url":"http://code.google.com/p/svgweb/",
       "title":"SVG Web: Flash-based polyfill"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/graphics.js#svg",
-      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -192,19 +192,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":87.46,
   "usage_perc_a":0.01,
   "ucprefix":false,

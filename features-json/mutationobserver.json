@@ -19,8 +19,8 @@
     }
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "JS API",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -174,19 +174,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"p"
     }
   },
   "notes":"When the content of a node with a single CharacterData child node is changed by innerHTML attribute and the node have a single different one as a result, WebKit browsers consider it as a characterData mutation of the child CharacterData node, while other browsers think it as a childList mutation of the parent node.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":70.7,
   "usage_perc_a":0,
   "ucprefix":false,

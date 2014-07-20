@@ -5,12 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://www.useragentman.com/IETransformsTranslator/",
-      "title":"Converter for IE"
+      "url":"http://www.westciv.com/tools/transforms/",
+      "title":"Live editor"
     },
     {
       "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
@@ -21,6 +17,10 @@
       "title":"MDN article"
     },
     {
+      "url":"http://www.useragentman.com/IETransformsTranslator/",
+      "title":"Converter for IE"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
       "title":"has.js test"
     },
@@ -29,8 +29,8 @@
       "title":"Information page"
     },
     {
-      "url":"http://www.westciv.com/tools/transforms/",
-      "title":"Live editor"
+      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -199,19 +199,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y x"
+      "22":"y x"
     },
     "and_chr":{
-      "0":"y x"
+      "35":"y x"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"The scale transform can be emulated in IE < 9 using Microsoft's \"zoom\" extension, others are (not easily) possible using the MS Matrix filter",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":85.27,
   "usage_perc_a":0,
   "ucprefix":false,

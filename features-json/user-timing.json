@@ -9,16 +9,16 @@
       "title":"Polyfill"
     },
     {
-      "url":"http://aurelio.audero.it/demo/user-timing-api-demo.html",
-      "title":"Demo"
-    },
-    {
       "url":"http://www.sitepoint.com/discovering-user-timing-api/",
       "title":"SitePoint article"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/webperformance/usertiming/",
       "title":"HTML5Rocks article"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/user-timing-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -179,19 +179,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":50.63,
   "usage_perc_a":0,
   "ucprefix":false,

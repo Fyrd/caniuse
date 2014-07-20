@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
-      "title":"Chrome extension providing support"
-    },
-    {
       "url":"http://en.wikipedia.org/wiki/APNG",
       "title":"Wikipedia"
     },
     {
       "url":"https://github.com/davidmz/apng-canvas",
       "title":"Polyfill using canvas"
+    },
+    {
+      "url":"https://chrome.google.com/webstore/detail/ehkepjiconegkhpodgoaeamnpckdbblp",
+      "title":"Chrome extension providing support"
     }
   ],
   "bugs":[
@@ -175,19 +175,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"n"
+      "35":"n"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Where support for APNG is missing, only the first frame is displayed",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":14.67,
   "usage_perc_a":0,
   "ucprefix":false,

@@ -5,25 +5,25 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
-      "title":"DeviceOrientation implementation prototype for IE10"
-    },
-    {
-      "url":"http://aurelio.audero.it/demo/device-orientation-api-demo.html",
-      "title":"Demo"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
       "title":"HTML5 Rocks tutorial"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-orientation",
       "title":"has.js test"
+    },
+    {
+      "url":"http://html5labs.interoperabilitybridges.com/prototypes/device-orientation-events/device-orientation-events/info",
+      "title":"DeviceOrientation implementation prototype for IE10"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/device-orientation-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
     {
-      "description":"Chrome and Opera with Blink engine have <a href=\"http://code.google.com/p/chromium/issues/detail?id=224849\">a compatibility issue</a> with Windows 8 for deviceorientation event."
+      "description":"Chrome and Opera with Blink engine have [a compatibility issue](http://code.google.com/p/chromium/issues/detail?id=224849) with Windows 8 for deviceorientation event."
     },
     {
       "description":"DeviceOrientationEvent.absolute property is undefined in iOS Safari."
@@ -32,7 +32,7 @@
       "description":"window.oncompassneedscalibration property is initially undefined in Opera Mobile 12, while the event is correctly fired when the property is defined later."
     },
     {
-      "description":"In Opera Mobile 12 the <code>interval</code> property isn't constant as <a href=\"http://www.w3.org/TR/orientation-event/#devicemotion\">required by the specifications</a>."
+      "description":"In Opera Mobile 12 the <code>interval</code> property isn't constant as [required by the specifications](http://www.w3.org/TR/orientation-event/#devicemotion)."
     }
   ],
   "categories":[
@@ -190,19 +190,22 @@
       "11.5":"n",
       "12":"y",
       "12.1":"y",
-      "0":"a"
+      "22":"a"
     },
     "and_chr":{
-      "0":"a"
+      "35":"a"
     },
     "and_ff":{
-      "0":"a"
+      "30":"a"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of devicemotion event support for Chrome 30- and Opera. Opera Mobile 14 lost the ondevicemotion event support. Firefox 3.6, 4 and 5 support the non-standard <a href=\"https://developer.mozilla.org/en/DOM/MozOrientation\">MozOrientation</a> event.",
+  "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of devicemotion event support for Chrome 30- and Opera. Opera Mobile 14 lost the ondevicemotion event support. Firefox 3.6, 4 and 5 support the non-standard [MozOrientation](https://developer.mozilla.org/en/DOM/MozOrientation) event.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":0.08,
   "usage_perc_a":74.12,
   "ucprefix":false,

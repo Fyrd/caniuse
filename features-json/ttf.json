@@ -167,19 +167,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"u"
     }
   },
-  "notes":"Partial support in IE9 refers to the fonts only working <a href=\"http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx\">when set to be \"installable\"</a>.",
+  "notes":"Partial support in IE9 refers to the fonts only working [when set to be \"installable\"](http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx).",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":72.43,
   "usage_perc_a":12.41,
   "ucprefix":false,

@@ -10,9 +10,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"When used for background images, Chrome requires the #svgView() hash syntax, and does not support the regular hash syntax."
-    }
+    
   ],
   "categories":[
     "SVG"
@@ -169,19 +167,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"u",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"n"
+      "35":"n"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Partial support in Safari refers to supporting viewBox dimensions but not a view ID.",
+  "notes_by_num":{
+    "0":""
+  },
   "usage_perc_y":23.86,
   "usage_perc_a":0,
   "ucprefix":false,

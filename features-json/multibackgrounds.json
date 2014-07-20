@@ -9,12 +9,12 @@
       "title":"Demo & information page"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/background-image",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/background-image",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -177,19 +177,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":88.44,
   "usage_perc_a":0,
   "ucprefix":false,

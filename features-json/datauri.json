@@ -5,16 +5,16 @@
   "status":"other",
   "links":[
     {
+      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
+      "title":"Wikipedia"
+    },
+    {
       "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
       "title":"Data URL converter"
     },
     {
       "url":"http://css-tricks.com/5970-data-uris/",
       "title":"Information page"
-    },
-    {
-      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
-      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -175,19 +175,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"a"
     }
   },
   "notes":"Support in Internet Explorer 8 is limited to images and linked resources like CSS files, not HTML files. Max URI length in IE8 is 32KB. In IE9+ JavaScript files are supported too and the maximum size limit set to 4GB.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":75.75,
   "usage_perc_a":17.28,
   "ucprefix":false,

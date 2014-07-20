@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/display",
-      "title":"WebPlatform Docs"
+      "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
+      "title":"Blog post w/info"
     },
     {
       "url":"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/",
       "title":"Info on cross browser support"
     },
     {
-      "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
-      "title":"Blog post w/info"
+      "url":"http://docs.webplatform.org/wiki/css/properties/display",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -175,19 +175,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
-  "notes":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. <a href=\"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/\">Alternative properties</a> are available to provide complete cross-browser support.",
+  "notes":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. [Alternative properties](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/) are available to provide complete cross-browser support.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":93.03,
   "usage_perc_a":0.43,
   "ucprefix":false,

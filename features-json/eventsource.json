@@ -9,12 +9,12 @@
       "title":"Blog post with demo"
     },
     {
-      "url":"http://www.html5rocks.com/tutorials/eventsource/basics/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-eventsource",
       "title":"has.js test"
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/eventsource/basics/",
+      "title":"HTML5 Rocks tutorial"
     }
   ],
   "bugs":[
@@ -177,19 +177,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":66.03,
   "usage_perc_a":0.05,
   "ucprefix":false,

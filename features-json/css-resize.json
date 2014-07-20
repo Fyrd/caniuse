@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://davidwalsh.name/textarea-resize",
-      "title":"On textarea resizing"
-    },
-    {
       "url":"http://css-tricks.com/almanac/properties/r/resize/",
       "title":"CSS Tricks info"
+    },
+    {
+      "url":"http://davidwalsh.name/textarea-resize",
+      "title":"On textarea resizing"
     }
   ],
   "bugs":[
@@ -171,19 +171,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Opera 12.10+ currently only supports the resize property for textarea elements.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":58.05,
   "usage_perc_a":0.32,
   "ucprefix":false,

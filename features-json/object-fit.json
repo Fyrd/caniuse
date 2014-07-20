@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://github.com/anselmh/object-fit",
-      "title":"object-fit JavaScript-Polyfill"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/css3-object-fit-object-position/",
       "title":"Dev.Opera article"
+    },
+    {
+      "url":"https://github.com/anselmh/object-fit",
+      "title":"object-fit JavaScript-Polyfill"
     }
   ],
   "bugs":[
@@ -175,19 +175,22 @@
       "11.5":"y x",
       "12":"y x",
       "12.1":"y x",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":38.46,
   "usage_perc_a":0,
   "ucprefix":false,

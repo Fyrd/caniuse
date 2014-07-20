@@ -5,8 +5,20 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
+      "title":"has.js test"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
+      "title":"MDN Reference - dataset"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes",
+      "title":"MDN Guide - Using data-* attributes"
     },
     {
       "url":"http://html5demos.com/dataset",
@@ -15,18 +27,6 @@
     {
       "url":"http://html5doctor.com/html5-custom-data-attributes/",
       "title":"HTML5 Doctor article"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
-      "title":"MDN Reference - dataset"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes",
-      "title":"MDN Guide - Using data-* attributes"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
-      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -189,19 +189,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"a"
     }
   },
   "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":77.85,
   "usage_perc_a":15.61,
   "ucprefix":false,

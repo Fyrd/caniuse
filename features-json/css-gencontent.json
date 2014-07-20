@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/css-generated-content-techniques/",
-      "title":"Dev.Opera article"
+      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.westciv.com/style_master/academy/css_tutorial/advanced/generated_content.html",
       "title":"Guide on usage"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
-      "title":"WebPlatform Docs"
+      "url":"http://dev.opera.com/articles/view/css-generated-content-techniques/",
+      "title":"Dev.Opera article"
     }
   ],
   "bugs":[
@@ -178,19 +178,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. :pseudo-class). It does not support the double-colon CSS3 syntax (i.e. ::pseudo-element)",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":88.57,
   "usage_perc_a":4.46,
   "ucprefix":false,

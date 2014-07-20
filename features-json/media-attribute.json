@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://lists.w3.org/Archives/Public/public-html/2014Feb/0036.html",
-      "title":"W3C mailing list thread - Do not remove the media attribute from the source element"
-    },
-    {
       "url":"https://www.w3.org/Bugs/Public/show_bug.cgi?id=19619",
       "title":"W3C bug report discussion - Remove media="
+    },
+    {
+      "url":"http://lists.w3.org/Archives/Public/public-html/2014Feb/0036.html",
+      "title":"W3C mailing list thread - Do not remove the media attribute from the source element"
     }
   ],
   "bugs":[
@@ -171,19 +171,22 @@
       "11.5":"u",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"u"
     }
   },
   "notes":"The media attribute has recently been removed from the WHATWG HTML5 specification and Blink and therefore won't be supported by the latest Chrome.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":52.59,
   "usage_perc_a":0,
   "ucprefix":false,

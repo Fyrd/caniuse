@@ -5,25 +5,25 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://mcc.id.au/blog/2012/08/supports",
-      "title":"@supports in Firefox"
+      "url":"http://dabblet.com/gist/3895764",
+      "title":"Test case"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@supports",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@supports",
-      "title":"MDN Article"
+      "url":"http://mcc.id.au/blog/2012/08/supports",
+      "title":"@supports in Firefox"
     },
     {
-      "url":"http://dabblet.com/gist/3895764",
-      "title":"Test case"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@supports",
+      "title":"MDN Article"
     }
   ],
   "bugs":[
     {
-      "description":"Using @supports on Chrome 28-29 and Opera 15-16 breaks following :not selectors. <a href=\"http://crbug.com/257695\">crbug.com/257695</a>"
+      "description":"Using @supports on Chrome 28-29 and Opera 15-16 breaks following :not selectors. [crbug.com/257695](http://crbug.com/257695)"
     }
   ],
   "categories":[
@@ -181,19 +181,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":52.6,
   "usage_perc_a":0,
   "ucprefix":false,

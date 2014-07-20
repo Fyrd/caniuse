@@ -5,34 +5,34 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://usecases.responsiveimages.org/",
-      "title":"Read about the use cases"
+      "url":"http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583",
+      "title":"Tutorial"
     },
     {
       "url":"http://responsiveimages.org/",
       "title":"General information about Responsive Images"
     },
     {
-      "url":"http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583",
-      "title":"Tutorial"
+      "url":"http://www.w3.org/TR/html-picture-element/",
+      "title":"Latest RICG &lt;picture> specification"
+    },
+    {
+      "url":"http://usecases.responsiveimages.org/",
+      "title":"Read about the use cases"
     },
     {
       "url":"http://responsiveimages.org/demos/",
       "title":"Demo"
-    },
-    {
-      "url":"http://www.w3.org/TR/html-picture-element/",
-      "title":"Latest RICG &lt;picture> specification"
     }
   ],
   "bugs":[
     {
-      "description":"See <a href=\"https://github.com/ResponsiveImagesCG/picture-element/issues?state=open\">a list</a> of unresolved issues / feature requests within the specification"
+      "description":"See [a list](https://github.com/ResponsiveImagesCG/picture-element/issues?state=open) of unresolved issues / feature requests within the specification"
     }
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -186,19 +186,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"n"
+      "35":"n"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Supported in Chrome 37+ under the \"Experimental Web Platform features\" flag. Expected to appear in an early Firefox build soon.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":0.01,
   "usage_perc_a":0,
   "ucprefix":false,

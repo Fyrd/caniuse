@@ -5,12 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
-      "title":"MDN article"
+      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.456bereastreet.com/archive/201104/controlling_width_with_css3_box-sizing/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/CSS/Box-sizing",
+      "title":"MDN article"
     },
     {
       "url":"https://github.com/Schepp/box-sizing-polyfill",
@@ -19,10 +23,6 @@
     {
       "url":"http://css-tricks.com/box-sizing/",
       "title":"CSS Tricks"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/box-sizing",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -191,19 +191,22 @@
       "11.5":"a",
       "12":"a",
       "12.1":"a",
-      "0":"a"
+      "22":"a"
     },
     "and_chr":{
-      "0":"a"
+      "35":"a"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"a"
     }
   },
   "notes":"Partial support refers to supporting only the \"border-box\" value, not \"padding-box\" (which was added to the spec later).",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":14.17,
   "usage_perc_a":78.86,
   "ucprefix":false,

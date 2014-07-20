@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
-      "title":"MDN Documentation for text-decoration-color"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
+      "title":"MDN Documentation for text-decoration-style"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
       "title":"MDN Documentation for text-decoration-line"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
-      "title":"MDN Documentation for text-decoration-style"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
+      "title":"MDN Documentation for text-decoration-color"
     }
   ],
   "bugs":[
@@ -175,19 +175,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"n"
+      "35":"n"
     },
     "and_ff":{
-      "0":"y x"
+      "30":"y x"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Support for the -webkit-text-decoration-style property can be enabled for Chrome and Opera with the \"Experimental Web Platform features\" flag.  ",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":13.86,
   "usage_perc_a":0,
   "ucprefix":false,

@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.quirksmode.org/dom/tests/basics.html#getElementsByClassName",
-      "title":"Test page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/HTMLElement/getElementsByClassName",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.quirksmode.org/dom/tests/basics.html#getElementsByClassName",
+      "title":"Test page"
     }
   ],
   "bugs":[
@@ -19,8 +19,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -174,19 +174,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":88.56,
   "usage_perc_a":0,
   "ucprefix":false,

@@ -5,16 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
-      "title":"SitePoint article"
-    },
-    {
       "url":"http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API",
       "title":"HTML5Rocks article"
     },
     {
       "url":"http://aurelio.audero.it/demo/web-speech-api-demo.html",
       "title":"Demo"
+    },
+    {
+      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
+      "title":"SitePoint article"
     },
     {
       "url":"http://zenorocha.github.io/voice-elements/",
@@ -179,19 +179,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"a x"
+      "35":"a x"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Partial support in Chrome refers to some attributes missing. Partial support in Safari refers to only Speech Synthesis supported.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":0,
   "usage_perc_a":46.77,
   "ucprefix":false,

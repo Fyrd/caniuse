@@ -9,12 +9,12 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.css3files.com/animation/",
-      "title":"Information page"
-    },
-    {
       "url":"http://robertnyman.com/2010/05/06/css3-animations/",
       "title":"Blog post on usage"
+    },
+    {
+      "url":"http://www.css3files.com/animation/",
+      "title":"Information page"
     }
   ],
   "bugs":[
@@ -180,19 +180,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "0":"y x"
+      "22":"y x"
     },
     "and_chr":{
-      "0":"y x"
+      "35":"y x"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Partial support in Android browser refers to buggy behavior in different scenarios.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":81.27,
   "usage_perc_a":1.11,
   "ucprefix":false,

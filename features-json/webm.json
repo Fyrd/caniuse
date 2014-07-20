@@ -5,24 +5,24 @@
   "status":"other",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video-webm",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://webmproject.org",
-      "title":"Official website"
-    },
-    {
-      "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
-      "title":"Info on supporting WebM in Safari"
-    },
-    {
       "url":"https://tools.google.com/dlpage/webmmf",
       "title":"Codec for IE9 support"
     },
     {
       "url":"http://perian.org/",
       "title":"Perian :Mac OSX Webm Codec install"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/video.js#video-webm",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
+      "title":"Info on supporting WebM in Safari"
+    },
+    {
+      "url":"http://webmproject.org",
+      "title":"Official website"
     }
   ],
   "bugs":[
@@ -183,19 +183,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"a"
+      "22":"a"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"p"
     }
   },
   "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":51.32,
   "usage_perc_a":10.47,
   "ucprefix":false,

@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2011/08/Downloading-resources-in-HTML5-a-download",
-      "title":"HTML5Rocks post"
-    },
-    {
       "url":"http://html5-demos.appspot.com/static/a.download.html",
       "title":"Demo: creating a text file and downloading it."
+    },
+    {
+      "url":"http://updates.html5rocks.com/2011/08/Downloading-resources-in-HTML5-a-download",
+      "title":"HTML5Rocks post"
     }
   ],
   "bugs":[
@@ -171,19 +171,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":54.26,
   "usage_perc_a":0,
   "ucprefix":false,

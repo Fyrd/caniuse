@@ -5,24 +5,21 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
-      "title":"Mozilla Hacks article"
+      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
       "title":"MDN article"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/functions/calc",
-      "title":"WebPlatform Docs"
+      "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
+      "title":"Mozilla Hacks article"
     }
   ],
   "bugs":[
     {
-      "description":"Webkit browsers have a known bug when using viewport units in calc(). This <a href=\"https://bugs.webkit.org/show_bug.cgi?id=94158\">has been fixed</a> in nightly builds."
-    },
-    {
-      "description":"IE 10 and below doesn't support calc() within transforms"
+      "description":"Webkit doesn't support viewport units in calc() expressions: https://bugs.webkit.org/show_bug.cgi?id=94158 and https://code.google.com/p/chromium/issues/detail?id=168840"
     }
   ],
   "categories":[
@@ -180,19 +177,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax. Partial support in IE9 refers to the browser crashing when used as a background-position value.",
+  "notes_by_num":{
+    "0":""
+  },
   "usage_perc_y":74.17,
   "usage_perc_a":2.6,
   "ucprefix":false,

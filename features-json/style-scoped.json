@@ -21,8 +21,8 @@
     
   ],
   "categories":[
-    "CSS",
-    "HTML5"
+    "HTML5",
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -176,19 +176,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"u",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"n"
+      "35":"n"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Supported in Chrome 20-36 by enabling the \"experimental Web Platform features\" flag in chrome://flags.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":12.95,
   "usage_perc_a":0,
   "ucprefix":false,

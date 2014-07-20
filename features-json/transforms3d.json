@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://css3.bradshawenterprises.com/flip/",
       "title":"Multi-browser demo"
     },
     {
-      "url":"http://thewebrocks.com/demos/3D-css-tester/",
-      "title":"3D CSS Tester"
+      "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
       "title":"Mozilla hacks article"
+    },
+    {
+      "url":"http://thewebrocks.com/demos/3D-css-tester/",
+      "title":"3D CSS Tester"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-transform",
@@ -185,19 +185,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y x"
+      "22":"y x"
     },
     "and_chr":{
-      "0":"y x"
+      "35":"y x"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"a"
     }
   },
-  "notes":"Partial support in IE refers to not supporting <a href=\"http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property\">the transform-style: preserve-3d property</a>. This prevents nesting 3D transformed elements.",
+  "notes":"Partial support in IE refers to not supporting [the transform-style: preserve-3d property](http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property). This prevents nesting 3D transformed elements.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":70.24,
   "usage_perc_a":10.22,
   "ucprefix":false,

@@ -5,33 +5,33 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
-      "title":"has.js test"
-    },
-    {
       "url":"https://github.com/fryn/html5slider",
       "title":"Polyfill for Firefox"
-    },
-    {
-      "url":"https://github.com/freqdec/fd-slider",
-      "title":"Cross-browser polyfill"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
-      "title":"WebPlatform Docs"
     },
     {
       "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
       "title":"Tutorial"
     },
     {
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/range",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://github.com/andreruffert/rangeslider.js",
       "title":"rangeslider.js polyfill"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-range",
+      "title":"has.js test"
+    },
+    {
+      "url":"https://github.com/freqdec/fd-slider",
+      "title":"Cross-browser polyfill"
     }
   ],
   "bugs":[
     {
-      "description":"IE10 & 11 have a some <a href=\"http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter\">bugs related to the step value</a>."
+      "description":"IE10 & 11 have a some [bugs related to the step value](http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter)."
     }
   ],
   "categories":[
@@ -189,19 +189,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
-  "notes":"Currently all Android browsers with partial support hide the slider input field by default. However, the element <a href=\"http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/\">can be styled</a> to be made visible and usable.",
+  "notes":"Currently all Android browsers with partial support hide the slider input field by default. However, the element [can be styled](http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/) to be made visible and usable.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":77.16,
   "usage_perc_a":3.98,
   "ucprefix":false,

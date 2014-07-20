@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://selectivizr.com",
-      "title":"Selectivizr: Polyfill for IE6-8"
-    },
-    {
-      "url":"http://www.css3.info/selectors-test/",
-      "title":"Automated CSS3 selector test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.quirksmode.org/css/selectors/",
       "title":"Detailed support information"
+    },
+    {
+      "url":"http://selectivizr.com",
+      "title":"Selectivizr: Polyfill for IE6-8"
+    },
+    {
+      "url":"http://www.css3.info/selectors-test/",
+      "title":"Automated CSS3 selector test"
     }
   ],
   "bugs":[
@@ -179,19 +179,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"IE7 and IE8 support only these CSS3 selectors: General siblings (element1~element2) and Attribute selectors [attr^=val], [attr$=val], and [attr*=val]",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":88.48,
   "usage_perc_a":4.6,
   "ucprefix":false,

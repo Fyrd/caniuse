@@ -1,32 +1,64 @@
 {
-  "title":"Sample title",
-  "description":"Sample description",
-  "spec":"http://example.com/path/to/spec.html",
-  "status":"wd",
+  "title":"'Animated PNG (APNG)",
+  "description":"'Like animated GIFs, but allowing 24-bit colors and alpha transparency",
+  "spec":"'https://wiki.mozilla.org/APNG_Specification",
+  "status":"'unoff",
   "links":[
     {
-      "url":"http://example.com/path/to/link.html",
-      "title":"Link title"
+      "url":"'http://animatedpng.com/",
+      "title":"'An APNG editor"
+    },
+    {
+      "url":"'http://en.wikipedia.org/wiki/APNG",
+      "title":"'Wikipedia"
+    },
+    {
+      "url":"'https://github.com/davidmz/apng-canvas",
+      "title":"'Polyfill using canvas"
+    },
+    {
+      "url":"'http://www.truekolor.net/learn-how-to-create-an-animated-png/",
+      "title":"'APNG tutorial"
+    },
+    {
+      "url":"http://animatedpng.com/",
+      "title":"An APNG editor"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/APNG",
+      "title":"Wikipedia"
+    },
+    {
+      "url":"http://www.truekolor.net/learn-how-to-create-an-animated-png/",
+      "title":"APNG tutorial"
+    },
+    {
+      "url":"https://github.com/davidmz/apng-canvas",
+      "title":"Polyfill using canvas"
     }
   ],
   "bugs":[
     {
-      "description":"Sample bug description"
+      "description":"'bug 1"
+    },
+    {
+      "description":"'bug 2"
     }
   ],
   "categories":[
-    "CSS",
-    "JS API"
+    "PNG"
   ],
   "stats":{
+    "":{
+      "":"u"
+    },
     "ie":{
       "5.5":"u",
       "6":"u",
       "7":"u",
       "8":"u",
       "9":"u",
-      "10":"u",
-      "11":"u"
+      "10":"u"
     },
     "firefox":{
       "2":"u",
@@ -50,13 +82,7 @@
       "18":"u",
       "19":"u",
       "20":"u",
-      "21":"u",
-      "22":"u",
-      "23":"u",
-      "24":"u",
-      "25":"u",
-      "26":"u",
-      "27":"u"
+      "21":"u"
     },
     "chrome":{
       "4":"u",
@@ -82,10 +108,7 @@
       "24":"u",
       "25":"u",
       "26":"u",
-      "27":"u",
-      "28":"u",
-      "29":"u",
-      "30":"u"
+      "27":"u"
     },
     "safari":{
       "3.1":"u",
@@ -93,10 +116,7 @@
       "4":"u",
       "5":"u",
       "5.1":"u",
-      "6":"u",
-      "7":"u",
-      "8":"u",
-      "9":"u"
+      "6":"u"
     },
     "opera":{
       "9":"u",
@@ -110,16 +130,14 @@
       "11.6":"u",
       "12":"u",
       "12.1":"u",
-      "15":"u",
-      "16":"u"
+      "15":"u"
     },
     "ios_saf":{
       "3.2":"u",
       "4.0-4.1":"u",
       "4.2-4.3":"u",
       "5.0-5.1":"u",
-      "6.0-6.1":"u",
-      "7.0":"u"
+      "6":"u"
     },
     "op_mini":{
       "5.0-7.0":"u"
@@ -135,8 +153,7 @@
     },
     "bb":{
       "7":"u",
-      "10":"u",
-      "11":"u"
+      "10":"u"
     },
     "op_mob":{
       "10":"u",
@@ -145,23 +162,20 @@
       "11.5":"u",
       "12":"u",
       "12.1":"u",
-      "0":"u"
+      "14":"u"
     },
     "and_chr":{
       "0":"u"
     },
     "and_ff":{
       "0":"u"
-    },
-    "ie_mob":{
-      "10":"u"
     }
   },
-  "notes":"Sample notes for feature, explain partial support here",
+  "notes":"'Where support for APNG is missing, only the first frame is displayed",
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"parentfeatureid",
-  "keywords":"example,keywords",
+  "parent":"",
+  "keywords":"",
   "shown":false
 }

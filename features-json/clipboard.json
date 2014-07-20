@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.deluxeblogtips.com/2010/06/javascript-copy-to-clipboard.html",
-      "title":"Blog post on cross-browser usage"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent",
       "title":"MDN page on ClipboardEvent"
+    },
+    {
+      "url":"http://www.deluxeblogtips.com/2010/06/javascript-copy-to-clipboard.html",
+      "title":"Blog post on cross-browser usage"
     }
   ],
   "bugs":[
@@ -171,19 +171,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"a"
+      "22":"a"
     },
     "and_chr":{
-      "0":"a"
+      "35":"a"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"Partial support in IE refers using <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx\">a non-standard method</a> of interacting with the clipboard. For other browsers it refers to not supporting the ClipboardEvent constructor.",
+  "notes":"Partial support in IE refers using [a non-standard method](http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx) of interacting with the clipboard. For other browsers it refers to not supporting the ClipboardEvent constructor.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":12.69,
   "usage_perc_a":68.69,
   "ucprefix":false,

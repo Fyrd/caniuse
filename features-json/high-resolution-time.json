@@ -5,25 +5,25 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://aurelio.audero.it/demo/high-resolution-time-api-demo.html",
-      "title":"Demo"
+      "url":"http://www.sitepoint.com/discovering-the-high-resolution-time-api/",
+      "title":"SitePoint article"
     },
     {
       "url":"http://updates.html5rocks.com/2012/08/When-milliseconds-are-not-enough-performance-now",
       "title":"HTML5Rocks article"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
-      "title":"MDN article"
+      "url":"http://aurelio.audero.it/demo/high-resolution-time-api-demo.html",
+      "title":"Demo"
     },
     {
-      "url":"http://www.sitepoint.com/discovering-the-high-resolution-time-api/",
-      "title":"SitePoint article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Performance.now()",
+      "title":"MDN article"
     }
   ],
   "bugs":[
     {
-      "description":"Chrome and Opera on Windows have only millisecond precision. The fractional part is always near the very start or the very end of a millisecond. (<a href=\"https://code.google.com/p/chromium/issues/detail?id=158234\">issue #158234</a>)."
+      "description":"Chrome and Opera on Windows have only millisecond precision. The fractional part is always near the very start or the very end of a millisecond. ([issue #158234](https://code.google.com/p/chromium/issues/detail?id=158234))."
     }
   ],
   "categories":[
@@ -181,19 +181,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":64.65,
   "usage_perc_a":0,
   "ucprefix":false,

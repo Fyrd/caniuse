@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://quirksmode.org/css/selectors/selection.html",
-      "title":"::selection test"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors/pseudo-elements/::selection",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://quirksmode.org/css/selectors/selection.html",
+      "title":"::selection test"
     }
   ],
   "bugs":[
@@ -173,19 +173,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":72.46,
   "usage_perc_a":0,
   "ucprefix":false,

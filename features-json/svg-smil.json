@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"https://github.com/madsgraphics/SVGEventListener",
+      "title":"Polyfill for SMIL animate events on SVG"
+    },
+    {
       "url":"http://leunen.me/fakesmile/",
       "title":"JS library to support SMIL in SVG"
     },
@@ -19,10 +23,6 @@
     {
       "url":"https://developer.mozilla.org/en/SVG/SVG_animation_with_SMIL",
       "title":"MDN article"
-    },
-    {
-      "url":"https://github.com/madsgraphics/SVGEventListener",
-      "title":"Polyfill for SMIL animate events on SVG"
     }
   ],
   "bugs":[
@@ -30,7 +30,7 @@
       "description":"Animation in SVG is not supported in iOS safari when the SVG is displayed in an img tag."
     },
     {
-      "description":"No events are fired at all in WebKit/Blink browsers during animation (onbegin/onrepeat/onend) <a href=\"https://bugs.webkit.org/show_bug.cgi?id=63727\">see bug</a>"
+      "description":"No events are fired at all in WebKit/Blink browsers during animation (onbegin/onrepeat/onend) [see bug](https://bugs.webkit.org/show_bug.cgi?id=63727)"
     }
   ],
   "categories":[
@@ -188,19 +188,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"p"
     }
   },
   "notes":"Partial support in Safari refers to not working in HTML files.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":69.63,
   "usage_perc_a":1.56,
   "ucprefix":false,

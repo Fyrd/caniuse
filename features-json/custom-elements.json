@@ -5,28 +5,28 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.polymer-project.org/platform/custom-elements.html",
-      "title":"Polymer project (polyfill & web components framework)"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
-      "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
-    },
-    {
-      "url":"http://status.modern.ie/customelements",
-      "title":"IE Web Platform Status and Roadmap: Custom Elements"
+      "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
+      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
     },
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
       "title":"Chromium tracking bug: Implement Custom Elements"
     },
     {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
+      "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
+    },
+    {
       "url":"http://w3c.github.io/webcomponents/spec/custom/",
       "title":"W3C Editor's Draft spec (closer to current implementations)"
     },
     {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
-      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
+      "url":"http://status.modern.ie/customelements",
+      "title":"IE Web Platform Status and Roadmap: Custom Elements"
+    },
+    {
+      "url":"http://www.polymer-project.org/platform/custom-elements.html",
+      "title":"Polymer project (polyfill & web components framework)"
     }
   ],
   "bugs":[
@@ -188,19 +188,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"Supported natively in Firefox 23-33 by enabling the \"dom.webcomponents.enabled\" flag in about:config, although Firefox 23-29 implement an outdated version of the spec (e.g., requires x- prefix for all custom element names). Supported natively in Chrome 27-32 and Opera 15-19 by enabling the \"Enable experimental web platform features\" flag in chrome://flags or opera://flags respectively, although Chrome 27-30 and Opera 15-17 implement an outdated version of the spec.",
+  "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":37.02,
   "usage_perc_a":0,
   "ucprefix":false,

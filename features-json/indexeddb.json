@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
-      "title":"Mozilla Hacks article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/apis/indexedDB",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://github.com/axemclion/IndexedDBShim",
-      "title":"Polyfill for browsers supporting WebSQL"
+      "url":"http://hacks.mozilla.org/2010/06/comparing-indexeddb-and-webdatabase/",
+      "title":"Mozilla Hacks article"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-indexeddb",
       "title":"has.js test"
+    },
+    {
+      "url":"https://github.com/axemclion/IndexedDBShim",
+      "title":"Polyfill for browsers supporting WebSQL"
     }
   ],
   "bugs":[
@@ -179,19 +179,22 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
-  "notes":"Partial support in IE 10 & 11 refers to a number of subfeatures <a href=\"http://codepen.io/cemerick/pen/Itymi\">not being supported</a>. Partial support in BB10 refers to an <a href=\"http://www.w3.org/TR/2011/WD-IndexedDB-20110419/\">outdated specification</a> being implemented. Code targeting the <a href=\"http://www.w3.org/TR/IndexedDB/\">current state of the specification</a> might not work.",
+  "notes":"Partial support in IE 10 & 11 refers to a number of subfeatures [not being supported](http://codepen.io/cemerick/pen/Itymi). Partial support in BB10 refers to an [outdated specification](http://www.w3.org/TR/2011/WD-IndexedDB-20110419/) being implemented. Code targeting the [current state of the specification](http://www.w3.org/TR/IndexedDB/) might not work.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":54.64,
   "usage_perc_a":10.93,
   "ucprefix":false,

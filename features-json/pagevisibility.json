@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://docs.webplatform.org/wiki/apis/timing/properties/visibilityState",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"http://www.sitepoint.com/introduction-to-page-visibility-api/",
       "title":"SitePoint article"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://aurelio.audero.it/demo/page-visibility-api-demo.html",
       "title":"Demo"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/timing/properties/visibilityState",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -179,19 +179,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":73.47,
   "usage_perc_a":0,
   "ucprefix":false,

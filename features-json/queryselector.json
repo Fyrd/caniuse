@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
-      "title":"MDN article on querySelector"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/css/selectors_api/querySelector",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
-      "title":"MDN article on querySelectorAll"
-    },
-    {
       "url":"http://cjihrig.com/blog/javascripts-selectors-api/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/DOM/element.querySelector",
+      "title":"MDN article on querySelector"
+    },
+    {
+      "url":"https://developer.mozilla.org/En/DOM/Element.querySelectorAll",
+      "title":"MDN article on querySelectorAll"
     }
   ],
   "bugs":[
@@ -179,19 +179,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Only works for the CSS selectors available. Thus the IE8 implementation is limited to the CSS 2.1 selectors",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":92.94,
   "usage_perc_a":0,
   "ucprefix":false,

@@ -5,25 +5,25 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
-      "title":"Datepicker tutorial w/polyfill"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
+      "title":"has.js test"
     },
     {
       "url":"https://github.com/zoltan-dulac/html5Forms.js",
       "title":"Polyfill for HTML5 forms"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
-      "title":"WebPlatform Docs"
+      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
+      "title":"Datepicker tutorial w/polyfill"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
-      "title":"has.js test"
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     {
-      "description":"There's a <a href=\"https://code.google.com/p/chromium/issues/detail?id=172029\">bug with Chrome 25 - 35</a> on Windows:\r\n\r\nThe black triangle, to open the datePicker, will go outside the input field. The trick is that if you put an \"overflow: hidden\" or something like this, you'll see it disappear. It is the case with Twitter Bootstrap 2.3.0, and it's quite tricky.\r\n"
+      "description":"There's a [bug with Chrome 25 - 35](https://code.google.com/p/chromium/issues/detail?id=172029) on Windows:\r\n\r\nThe black triangle, to open the datePicker, will go outside the input field. The trick is that if you put an \"overflow: hidden\" or something like this, you'll see it disappear. It is the case with Twitter Bootstrap 2.3.0, and it's quite tricky.\r\n"
     }
   ],
   "categories":[
@@ -181,19 +181,22 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "0":"a"
+      "22":"a"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a missing calendar widget for the \"datetime\" type (and other types in older versions). Some modified versions of the Android 4.x browser do have support for date/time fields. Partial support in iOS refers to a lack of support for attributes like step, min, or max.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":6.98,
   "usage_perc_a":41.2,
   "ucprefix":false,

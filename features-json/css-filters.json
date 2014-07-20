@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
-      "title":"Demo file for WebKit browsers"
-    },
-    {
-      "url":"http://bennettfeely.com/filters/",
-      "title":"Filter Playground"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
       "title":"HTML5Rocks article"
     },
     {
+      "url":"http://html5-demos.appspot.com/static/css/filters/index.html",
+      "title":"Demo file for WebKit browsers"
+    },
+    {
       "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
       "title":"Filter editor"
+    },
+    {
+      "url":"http://bennettfeely.com/filters/",
+      "title":"Filter Playground"
     }
   ],
   "bugs":[
@@ -180,19 +180,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y x"
+      "22":"y x"
     },
     "and_chr":{
-      "0":"y x"
+      "35":"y x"
     },
     "and_ff":{
-      "0":"n"
+      "30":"n"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Note that this property is significantly different from and incompatible with Microsoft's <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx\">older \"filter\" property</a>.<br>Partial support in Firefox 31 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility\">only with url() version</a>",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":50.09,
   "usage_perc_a":13.94,
   "ucprefix":false,

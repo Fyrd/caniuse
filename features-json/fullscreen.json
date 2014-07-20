@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://jlongster.com/2011/11/21/canvas.html",
-      "title":"Blog post"
-    },
-    {
       "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
       "title":"MDN article"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
+      "title":"Mozilla hacks article"
+    },
+    {
+      "url":"http://jlongster.com/2011/11/21/canvas.html",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -181,19 +181,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y x"
+      "22":"y x"
     },
     "and_chr":{
-      "0":"y x"
+      "35":"y x"
     },
     "and_ff":{
-      "0":"a x"
+      "30":"a x"
     },
     "ie_mob":{
       "10":"n"
     }
   },
   "notes":"Partial support refers to supporting an earlier draft of the spec.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":50.15,
   "usage_perc_a":14.55,
   "ucprefix":false,

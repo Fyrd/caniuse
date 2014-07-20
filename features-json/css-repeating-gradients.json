@@ -9,12 +9,12 @@
       "title":"Information page"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/repeating-linear-gradient",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
       "title":"MDN article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/repeating-linear-gradient",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -177,19 +177,22 @@
       "11.5":"a x",
       "12":"y x",
       "12.1":"y",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Firefox 10+, Chrome 26+ and Opera 11.6+ also support the new \"to (side)\" syntax.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":80.92,
   "usage_perc_a":0.02,
   "ucprefix":false,

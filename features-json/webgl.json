@@ -13,21 +13,21 @@
       "title":"Tutorial"
     },
     {
+      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
+      "title":"Webkit blog post"
+    },
+    {
       "url":"http://iewebgl.com/",
       "title":"Polyfill for IE"
     },
     {
       "url":"http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation",
       "title":"Instructions on enabling WebGL"
-    },
-    {
-      "url":"http://webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/",
-      "title":"Webkit blog post"
     }
   ],
   "bugs":[
     {
-      "description":"Older versions of IE11 have only <a href=\"http://connect.microsoft.com/IE/feedback/details/795172/ie11-fails-more-than-half-tests-in-official-webgl-conformance-test-suite\">partial support of the spec</a>, though it's much better with the latest update."
+      "description":"Older versions of IE11 have only [partial support of the spec](http://connect.microsoft.com/IE/feedback/details/795172/ie11-fails-more-than-half-tests-in-official-webgl-conformance-test-suite), though it's much better with the latest update."
     }
   ],
   "categories":[
@@ -185,19 +185,22 @@
       "11.5":"n",
       "12":"a",
       "12.1":"a",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"a"
+      "35":"a"
     },
     "and_ff":{
-      "0":"a"
+      "30":"a"
     },
     "ie_mob":{
       "10":"p"
     }
   },
-  "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have <a href=\"http://www.khronos.org/webgl/wiki/BlacklistsAndWhitelists\">up to date video drivers</a>. This problem was <a href=\"http://blog.chromium.org/2012/02/gpu-accelerating-2d-canvas-and-enabling.html\">solved in Chrome</a> as of version 18.\r\n\r\nNote that WebGL is part of the <a href=\"http://www.khronos.org/webgl/\">Khronos Group</a>, not the W3C.",
+  "notes":"Support listed as \"partial\" refers to the fact that not all users with these browsers have WebGL access. This is due to the additional requirement for users to have [up to date video drivers](http://www.khronos.org/webgl/wiki/BlacklistsAndWhitelists). This problem was [solved in Chrome](http://blog.chromium.org/2012/02/gpu-accelerating-2d-canvas-and-enabling.html) as of version 18.\r\n\r\nNote that WebGL is part of the [Khronos Group](http://www.khronos.org/webgl/), not the W3C.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":41.84,
   "usage_perc_a":23.44,
   "ucprefix":false,

@@ -5,26 +5,26 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
-      "title":"has.js test"
+      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
+      "title":"MDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/defer",
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
-      "title":"MDN article"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
+      "title":"has.js test"
     }
   ],
   "bugs":[
     {
-      "description":"IE<10 may interleave execution of scripts, <a href=\"https://github.com/h5bp/lazyweb-requests/issues/42\">See the discussion</a>."
+      "description":"IE<10 may interleave execution of scripts, [See the discussion](https://github.com/h5bp/lazyweb-requests/issues/42)."
     }
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -178,19 +178,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Partial support refers to a buggy implementation in IE<10",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":80.84,
   "usage_perc_a":7.49,
   "ucprefix":false,

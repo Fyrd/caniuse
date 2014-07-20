@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"Opera messes background repeat when changing zoom level: <a href=\"http://stackoverflow.com/questions/15220910/svg-as-css-background-problems-with-zoom-level-in-opera#comment21458317_15220910\">known issue in Opera's private bug tracker (CORE-33071)</a>"
+      "description":"Opera messes background repeat when changing zoom level: [known issue in Opera's private bug tracker (CORE-33071)](http://stackoverflow.com/questions/15220910/svg-as-css-background-problems-with-zoom-level-in-opera#comment21458317_15220910)"
     }
   ],
   "categories":[
@@ -170,19 +170,22 @@
       "11.5":"a",
       "12":"a",
       "12.1":"a",
-      "0":"y"
+      "22":"y"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"y"
+      "30":"y"
     },
     "ie_mob":{
       "10":"y"
     }
   },
   "notes":"Partial support in older Firefox and Opera Mini/Mobile refers to SVG images being blurry when scaled. Partial support in iOS Safari and older Safari versions refers to failing to support tiling or the background-position property.",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":82.39,
   "usage_perc_a":4.82,
   "ucprefix":false,

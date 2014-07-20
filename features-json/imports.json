@@ -13,24 +13,24 @@
       "title":"IE Web Platform Status and Roadmap: HTML Imports"
     },
     {
+      "url":"http://www.polymer-project.org/platform/html-imports.html",
+      "title":"Polymer project (polyfill & web components framework)"
+    },
+    {
       "url":"https://code.google.com/p/chromium/issues/detail?id=240592",
       "title":"Chromium tracking bug: Implement HTML Imports"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=877072",
       "title":"Firefox tracking bug: Implement HTML Imports"
-    },
-    {
-      "url":"http://www.polymer-project.org/platform/html-imports.html",
-      "title":"Polymer project (polyfill & web components framework)"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -184,19 +184,22 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "0":"n"
+      "22":"n"
     },
     "and_chr":{
-      "0":"y"
+      "35":"y"
     },
     "and_ff":{
-      "0":"p"
+      "30":"p"
     },
     "ie_mob":{
       "10":"n"
     }
   },
-  "notes":"Supported natively in Firefox 32-33 by enabling the \"dom.webcomponents.enabled\" flag in about:config. Supported natively in Chrome 30-34 and Opera 17-21 by enabling the \"Enable HTML Imports\" flag in chrome://flags or opera://flags respectively. Supported natively in Chrome 35 and Opera 22 by enabling the \"Enable experimental web platform features\" flag in chrome://flags or opera://flags respectively.",
+  "notes":"",
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":5.79,
   "usage_perc_a":0,
   "ucprefix":false,
