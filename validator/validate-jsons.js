@@ -16,7 +16,7 @@
         },
         isObject: function (val) {
             return typeof val === 'object';
-        }
+        },
         isArray: function (val) {
             return val instanceof Array;
         },
