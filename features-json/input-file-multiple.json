@@ -1,36 +1,19 @@
 {
-  "title":"XMLHttpRequest 2",
-  "description":"Adds more functionality to AJAX requests like file uploads, transfer progress information and the ability to send form data.",
-  "spec":"http://www.w3.org/TR/XMLHttpRequest2/",
+  "title":"Multiple file selection",
+  "description":"Allows users to select multiple files in the file picker.",
+  "spec":"http://www.w3.org/TR/html5/forms.html#attr-input-multiple",
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/3nr1c/jUri.js",
-      "title":"Polyfill for FormData object"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/xhr/XMLHttpRequest",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/XMLHttpRequest/FormData",
-      "title":"MDN article on FormData"
+      "url":"https://code.google.com/p/chromium/issues/detail?id=348912",
+      "title":"Chrome bug (for Android)"
     }
   ],
   "bugs":[
-    {
-      "description":"xhr.timeout and xhr.ontimeout are supported in Chrome 29+ and Firefox 12+."
-    },
-    {
-      "description":"Firefox 3.5 and 3.6 partial support refers to only including support for the progress event."
-    },
-    {
-      "description":"WebKit versions 535 and older (r103502) do not implement the onloadend event"
-    }
+    
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -45,8 +28,8 @@
     "firefox":{
       "2":"n",
       "3":"n",
-      "3.5":"a",
-      "3.6":"a",
+      "3.5":"n",
+      "3.6":"y",
       "4":"y",
       "5":"y",
       "6":"y",
@@ -79,9 +62,9 @@
       "33":"y"
     },
     "chrome":{
-      "4":"u",
-      "5":"u",
-      "6":"u",
+      "4":"n",
+      "5":"y",
+      "6":"y",
       "7":"y",
       "8":"y",
       "9":"y",
@@ -119,7 +102,7 @@
     "safari":{
       "3.1":"n",
       "3.2":"n",
-      "4":"n",
+      "4":"y",
       "5":"y",
       "5.1":"y",
       "6":"y",
@@ -132,11 +115,11 @@
       "9.5-9.6":"n",
       "10.0-10.1":"n",
       "10.5":"n",
-      "10.6":"n",
-      "11":"n",
-      "11.1":"n",
-      "11.5":"n",
-      "11.6":"n",
+      "10.6":"y",
+      "11":"y",
+      "11.1":"y",
+      "11.5":"y",
+      "11.6":"y",
       "12":"y",
       "12.1":"y",
       "15":"y",
@@ -154,56 +137,56 @@
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
-      "5.0-5.1":"y",
+      "5.0-5.1":"n",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y"
     },
     "op_mini":{
-      "5.0-7.0":"n"
+      "5.0-7.0":"n #1"
     },
     "android":{
-      "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"y",
-      "4":"y",
-      "4.1":"y",
-      "4.2-4.3":"y",
-      "4.4":"y",
-      "4.4.3":"y"
+      "2.1":"n #1",
+      "2.2":"n #1",
+      "2.3":"n #1",
+      "3":"n #1",
+      "4":"n #1",
+      "4.1":"n #1",
+      "4.2-4.3":"n #1",
+      "4.4":"n #1",
+      "4.4.3":"n #1"
     },
     "bb":{
-      "7":"y",
-      "10":"y"
+      "7":"u",
+      "10":"n"
     },
     "op_mob":{
-      "10":"n",
-      "11":"n",
-      "11.1":"n",
-      "11.5":"n",
-      "12":"y",
-      "12.1":"y",
-      "22":"y"
+      "10":"n #1",
+      "11":"n #1",
+      "11.1":"n #1",
+      "11.5":"n #1",
+      "12":"n #1",
+      "12.1":"n #1",
+      "22":"n #1"
     },
     "and_chr":{
-      "35":"y"
+      "35":"n #1"
     },
     "and_ff":{
-      "30":"y"
+      "30":"n #1"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"u"
     }
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Not supported when tested on Android, presumably an OS limitation. "
   },
-  "usage_perc_y":81.11,
-  "usage_perc_a":0.16,
+  "usage_perc_y":69.16,
+  "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"",
-  "keywords":"formdata",
-  "shown":true
+  "parent":"forms",
+  "keywords":"",
+  "shown":false
 }

@@ -5,8 +5,20 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://w3c.github.io/webcomponents/spec/custom/",
+      "title":"W3C Editor's Draft spec (closer to current implementations)"
+    },
+    {
       "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
       "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
+    },
+    {
+      "url":"http://www.polymer-project.org/platform/custom-elements.html",
+      "title":"Polymer project (polyfill & web components framework)"
+    },
+    {
+      "url":"http://status.modern.ie/customelements",
+      "title":"IE Web Platform Status and Roadmap: Custom Elements"
     },
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
@@ -15,18 +27,6 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
       "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
-    },
-    {
-      "url":"http://w3c.github.io/webcomponents/spec/custom/",
-      "title":"W3C Editor's Draft spec (closer to current implementations)"
-    },
-    {
-      "url":"http://status.modern.ie/customelements",
-      "title":"IE Web Platform Status and Roadmap: Custom Elements"
-    },
-    {
-      "url":"http://www.polymer-project.org/platform/custom-elements.html",
-      "title":"Polymer project (polyfill & web components framework)"
     }
   ],
   "bugs":[

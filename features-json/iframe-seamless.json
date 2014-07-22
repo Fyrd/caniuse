@@ -179,7 +179,7 @@
       "10":"n"
     }
   },
-  "notes":"Chrome currently has partial support behind the \"experimental Web Platform features\" flag.  ",
+  "notes":"Chrome 20-26 had partial support behind the \"experimental Web Platform features\" flag, though this was [later removed](http://crbug.com/229421). \r\n\r\nSafari 7 (& iOS 7 Safari) hides the border of seamless iframes and recognizes the 'seamless' DOM property, but does not provide actual support.",
   "notes_by_num":{
     
   },

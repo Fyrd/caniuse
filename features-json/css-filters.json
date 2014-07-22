@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://bennettfeely.com/filters/",
+      "title":"Filter Playground"
+    },
+    {
       "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
       "title":"HTML5Rocks article"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://dl.dropbox.com/u/3260327/angular/CSS3ImageManipulation.html",
       "title":"Filter editor"
-    },
-    {
-      "url":"http://bennettfeely.com/filters/",
-      "title":"Filter Playground"
     }
   ],
   "bugs":[
@@ -192,7 +192,7 @@
       "10":"n"
     }
   },
-  "notes":"Note that this property is significantly different from and incompatible with Microsoft's <a href=\"http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx\">older \"filter\" property</a>.<br>Partial support in Firefox 31 <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility\">only with url() version</a>",
+  "notes":"Note that this property is significantly different from and incompatible with Microsoft's [older \"filter\" property](http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx).\r\n\r\nPartial support in Firefox 31 [only with url() version](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility)",
   "notes_by_num":{
     
   },
