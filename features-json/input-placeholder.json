@@ -31,6 +31,9 @@
     },
     {
       "description":"Firefox 19+ applies a default style of <code>opacity: 0.4</code> to placeholder text."
+    },
+    {
+      "description":"Internet explorer 10, 11 fires the input event when a input field with placeholder is focused. https://connect.microsoft.com/IE/feedback/details/885747/ie-11-fires-the-input-event-when-a-input-field-with-placeholder-is-focused"
     }
   ],
   "categories":[
