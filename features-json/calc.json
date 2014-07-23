@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Webkit doesn't support viewport units in calc() expressions: https://bugs.webkit.org/show_bug.cgi?id=94158 and https://code.google.com/p/chromium/issues/detail?id=168840"
+      "description":"Webkit doesn't support viewport units in calc() expressions: https://bugs.webkit.org/show_bug.cgi?id=94158 and https://code.google.com/p/chromium/issues/detail?id=168840; Blink added support with Revision 172971"
     }
   ],
   "categories":[
