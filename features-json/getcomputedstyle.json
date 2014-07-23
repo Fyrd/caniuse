@@ -9,25 +9,25 @@
       "title":"MDN article"
     },
     {
-      "url":"http://snipplr.com/view/13523/",
-      "title":"Polyfill for IE"
+      "url":"http://docs.webplatform.org/wiki/css/cssom/methods/getComputedStyle",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://ie.microsoft.com/testdrive/HTML5/getComputedStyle/",
       "title":"Demo"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/cssom/methods/getComputedStyle",
-      "title":"WebPlatform Docs"
+      "url":"http://snipplr.com/view/13523/",
+      "title":"Polyfill for IE"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3",
     "DOM",
-    "JS API"
+    "JS API",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -73,7 +73,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"a",
@@ -193,7 +194,7 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in older Firefox versions refers to requiring the second parameter to be included. Partial support in all other browsers refers to not supporting getComputedStyle on pseudo-elements.",
+  "notes":"Partial support in older Firefox versions refers to requiring the second parameter to be included.\r\n\r\nPartial support in all other browsers refers to not supporting getComputedStyle on pseudo-elements.",
   "notes_by_num":{
     
   },

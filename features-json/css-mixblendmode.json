@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/basics-css-blend-modes/",
-      "title":"Blog post"
-    },
-    {
       "url":"http://codepen.io/bennettfeely/pen/csjzd",
       "title":"codepen example"
+    },
+    {
+      "url":"http://css-tricks.com/basics-css-blend-modes/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -63,7 +63,8 @@
       "30":"n",
       "31":"n",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"n",

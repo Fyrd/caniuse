@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://code.google.com/p/chromium/issues/detail?id=240592",
-      "title":"Chromium tracking bug: Implement HTML Imports"
-    },
-    {
       "url":"http://www.polymer-project.org/platform/html-imports.html",
       "title":"Polymer project (polyfill & web components framework)"
     },
@@ -21,6 +17,10 @@
       "title":"Firefox tracking bug: Implement HTML Imports"
     },
     {
+      "url":"https://code.google.com/p/chromium/issues/detail?id=240592",
+      "title":"Chromium tracking bug: Implement HTML Imports"
+    },
+    {
       "url":"http://status.modern.ie/htmlimports",
       "title":"IE Web Platform Status and Roadmap: HTML Imports"
     }
@@ -29,8 +29,8 @@
     
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -76,7 +76,8 @@
       "30":"p",
       "31":"p",
       "32":"p",
-      "33":"p"
+      "33":"p",
+      "34":"p"
     },
     "chrome":{
       "4":"n",

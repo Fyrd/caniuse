@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/css-generated-content-techniques/",
       "title":"Dev.Opera article"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/generated_and_replaced_content",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://www.westciv.com/style_master/academy/css_tutorial/advanced/generated_content.html",
@@ -23,8 +23,8 @@
     }
   ],
   "categories":[
-    "CSS3",
-    "CSS2"
+    "CSS2",
+    "CSS3"
   ],
   "stats":{
     "ie":{
@@ -70,7 +70,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"y",
@@ -190,7 +191,7 @@
       "10":"y"
     }
   },
-  "notes":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. :pseudo-class). It does not support the double-colon CSS3 syntax (i.e. ::pseudo-element)",
+  "notes":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. :pseudo-class). It does not support the double-colon CSS3 syntax (i.e. ::pseudo-element)\r\n\r\nFor content to appear in pseudo-elements, the `content` property must be set (but may be an empty string).",
   "notes_by_num":{
     
   },

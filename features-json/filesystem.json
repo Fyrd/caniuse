@@ -2,15 +2,15 @@
   "title":"Filesystem & FileWriter API",
   "description":"Method of reading and writing files to a sandboxed file system.\r\n",
   "spec":"http://www.w3.org/TR/file-system-api/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/filesystem",
-      "title":"WebPlatform Docs"
-    },
     {
       "url":"http://www.html5rocks.com/en/tutorials/file/filesystem/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/filesystem",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -63,7 +63,8 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"n"
+      "33":"n",
+      "34":"n"
     },
     "chrome":{
       "4":"n",
@@ -183,7 +184,7 @@
       "10":"n"
     }
   },
-  "notes":"",
+  "notes":"The File API: Directories and System specification is no longer being maintained and support may be dropped in future versions.",
   "notes_by_num":{
     
   },

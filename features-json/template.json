@@ -1,24 +1,24 @@
 {
   "title":"HTML templates",
   "description":"Method of declaring a portion of reusable markup that is parsed but not rendered until cloned.",
-  "spec":"http://www.w3.org/TR/html-templates/",
+  "spec":"http://www.w3.org/TR/html5/scripting-1.html#the-template-element",
   "status":"wd",
   "links":[
     {
-      "url":"http://polymer-project.org",
-      "title":"Polymer project (polyfill & web components framework)"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/webcomponents/template/",
       "title":"HTML5Rocks - HTML's New template Tag"
+    },
+    {
+      "url":"http://polymer-project.org",
+      "title":"Polymer project (polyfill & web components framework)"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -64,7 +64,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"n",

@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://github.com/g200kg/WAAPISim",
+      "title":"Polyfill to enable Web Audio API through Firefox Audio Data api or flash"
+    },
+    {
       "url":"http://docs.webplatform.org/wiki/apis/webaudio",
       "title":"WebPlatform Docs"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://www.doboism.com/projects/webaudio-compatibility/",
       "title":"Additional browser compatibility tests for specific features"
-    },
-    {
-      "url":"https://github.com/g200kg/WAAPISim",
-      "title":"Polyfill to enable Web Audio API through Firefox Audio Data api or flash"
     }
   ],
   "bugs":[
@@ -73,7 +73,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"n",

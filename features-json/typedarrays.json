@@ -15,6 +15,9 @@
     },
     {
       "description":"while Safari does support Typed Arrays, they are actually much, much slower than normal arrays.  Reported here in this bug: https://bugs.webkit.org/show_bug.cgi?id=70687"
+    },
+    {
+      "description":"Safari 5.1 does not support FLoat64Array"
     }
   ],
   "categories":[
@@ -64,7 +67,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"n",

@@ -9,20 +9,20 @@
       "title":"has.js test"
     },
     {
-      "url":"http://html5demos.com/storage",
-      "title":"Simple demo"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/apis/web-storage/Storage/localStorage",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/En/DOM/Storage",
+      "title":"Gecko reference"
     },
     {
       "url":"http://code.google.com/p/sessionstorage/",
       "title":"Support library"
     },
     {
-      "url":"https://developer.mozilla.org/En/DOM/Storage",
-      "title":"Gecko reference"
+      "url":"http://docs.webplatform.org/wiki/apis/web-storage/Storage/localStorage",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://html5demos.com/storage",
+      "title":"Simple demo"
     }
   ],
   "bugs":[
@@ -80,7 +80,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"y",

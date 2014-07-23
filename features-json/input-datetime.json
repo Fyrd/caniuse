@@ -5,25 +5,25 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/zoltan-dulac/html5Forms.js",
-      "title":"Polyfill for HTML5 forms"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
       "title":"has.js test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
       "title":"Datepicker tutorial w/polyfill"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/elements/input/type/date",
-      "title":"WebPlatform Docs"
+      "url":"https://github.com/zoltan-dulac/html5Forms.js",
+      "title":"Polyfill for HTML5 forms"
     }
   ],
   "bugs":[
     {
-      "description":"There's a [bug with Chrome 25 - 35](https://code.google.com/p/chromium/issues/detail?id=172029) on Windows:\r\n\r\nThe black triangle, to open the datePicker, will go outside the input field. The trick is that if you put an \"overflow: hidden\" or something like this, you'll see it disappear. It is the case with Twitter Bootstrap 2.3.0, and it's quite tricky.\r\n"
+      "description":"iOS 7.1 Safari does not support the min and max attributes."
     }
   ],
   "categories":[
@@ -73,7 +73,8 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"n"
+      "33":"n",
+      "34":"n"
     },
     "chrome":{
       "4":"n",

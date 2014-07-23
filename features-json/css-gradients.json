@@ -5,20 +5,20 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://css3pie.com/",
-      "title":"Tool to emulate support in IE"
-    },
-    {
-      "url":"http://www.css3files.com/gradient/",
-      "title":"Information page"
-    },
-    {
       "url":"http://www.colorzilla.com/gradient-editor/",
       "title":"Cross-browser editor"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/functions/linear-gradient",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.css3files.com/gradient/",
+      "title":"Information page"
+    },
+    {
+      "url":"http://css3pie.com/",
+      "title":"Tool to emulate support in IE"
     }
   ],
   "bugs":[
@@ -71,7 +71,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"a x",
@@ -191,7 +192,7 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients. Support can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. Firefox 10+, Opera 11.6+, Chrome 26+ and IE10 also support the new \"to (side)\" syntax.",
+  "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support. \r\n\r\nPartial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
   "notes_by_num":{
     
   },

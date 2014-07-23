@@ -7,6 +7,10 @@
     {
       "url":"https://github.com/ornj/seamless-polyfill",
       "title":"Experimental polyfill"
+    },
+    {
+      "url":"http://labs.ft.com/2013/01/seamless-iframes-not-quite-seamless/",
+      "title":"Article"
     }
   ],
   "bugs":[
@@ -57,9 +61,10 @@
       "28":"n",
       "29":"n",
       "30":"n",
-      "31":"u",
+      "31":"n",
       "32":"u",
-      "33":"u"
+      "33":"u",
+      "34":"u"
     },
     "chrome":{
       "4":"n",
@@ -188,5 +193,5 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"",
-  "shown":false
+  "shown":true
 }

@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.sitepoint.com/discovering-user-timing-api/",
-      "title":"SitePoint article"
-    },
-    {
-      "url":"https://gist.github.com/pmeenan/5902672",
-      "title":"Polyfill"
+      "url":"http://aurelio.audero.it/demo/user-timing-api-demo.html",
+      "title":"Demo"
     },
     {
       "url":"http://www.html5rocks.com/en/tutorials/webperformance/usertiming/",
       "title":"HTML5Rocks article"
     },
     {
-      "url":"http://aurelio.audero.it/demo/user-timing-api-demo.html",
-      "title":"Demo"
+      "url":"https://gist.github.com/pmeenan/5902672",
+      "title":"Polyfill"
+    },
+    {
+      "url":"http://www.sitepoint.com/discovering-user-timing-api/",
+      "title":"SitePoint article"
     }
   ],
   "bugs":[
@@ -71,7 +71,8 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"n"
+      "33":"n",
+      "34":"n"
     },
     "chrome":{
       "4":"n",

@@ -1,9 +1,13 @@
 {
   "title":"CSS3 selectors",
-  "description":"Advanced element selection using selectors like :nth-child(), :last-child, :first-of-type, :checked, :disabled, etc.",
+  "description":"Advanced element selection using selectors including: [foo^=\"bar\"], [foo$=\"bar\"], [foo*=\"bar\"], :root, :nth-child(),  :nth-last-child(), nth-of-type, nth-last-of-type(), :last-child,  :first-of-type, :last-of-type, :only-child, :only-of-type, :empty, :target, :enabled, :disabled, :checked, :not(), ~ (general sibling)",
   "spec":"http://www.w3.org/TR/css3-selectors/",
   "status":"rec",
   "links":[
+    {
+      "url":"http://www.quirksmode.org/css/selectors/",
+      "title":"Detailed support information"
+    },
     {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
@@ -11,10 +15,6 @@
     {
       "url":"http://www.css3.info/selectors-test/",
       "title":"Automated CSS3 selector test"
-    },
-    {
-      "url":"http://www.quirksmode.org/css/selectors/",
-      "title":"Detailed support information"
     },
     {
       "url":"http://selectivizr.com",
@@ -71,7 +71,8 @@
       "30":"y",
       "31":"y",
       "32":"y",
-      "33":"y"
+      "33":"y",
+      "34":"y"
     },
     "chrome":{
       "4":"y",
@@ -199,6 +200,6 @@
   "usage_perc_a":4.6,
   "ucprefix":false,
   "parent":"",
-  "keywords":":target,:not",
+  "keywords":"",
   "shown":true
 }
