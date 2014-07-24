@@ -5,14 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://philipwalton.github.io/solved-by-flexbox/",
-      "title":"Examples on how to solve common layout problems with flexbox"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
-      "title":"Tutorial on cross-browser support"
-    },
-    {
       "url":"http://the-echoplex.net/flexyboxes/",
       "title":"Flexbox playground and code generator"
     },
@@ -21,18 +13,23 @@
       "title":"Article on using the latest spec"
     },
     {
-      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-      "title":"A Complete Guide to Flexbox"
+      "url":"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/",
+      "title":"Tutorial on cross-browser support"
     },
     {
       "url":"http://bennettfeely.com/flexplorer/",
       "title":"Flexbox CSS generator"
+    },
+    {
+      "url":"http://philipwalton.github.io/solved-by-flexbox/",
+      "title":"Examples on how to solve common layout problems with flexbox"
+    },
+    {
+      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "title":"A Complete Guide to Flexbox"
     }
   ],
   "bugs":[
-    {
-      "description":"Firefox does not support specifying widths in percentages. [See bug](https://bugzilla.mozilla.org/show_bug.cgi?id=529761)."
-    },
     {
       "description":"IE10 and IE11 default values for `flex` are `0 0 auto` rather than `0 1 auto`, as per the draft spec, as of September 2013."
     },

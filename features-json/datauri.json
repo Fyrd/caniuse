@@ -5,16 +5,16 @@
   "status":"other",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://css-tricks.com/5970-data-uris/",
       "title":"Information page"
     },
     {
       "url":"http://www.websiteoptimization.com/speed/tweak/inline-images/",
       "title":"Data URL converter"
+    },
+    {
+      "url":"http://en.wikipedia.org/wiki/data_URI_scheme",
+      "title":"Wikipedia"
     }
   ],
   "bugs":[
@@ -196,6 +196,6 @@
   "usage_perc_a":17.28,
   "ucprefix":false,
   "parent":"",
-  "keywords":"data url,datauris,data uri,dataurl,dataurls",
+  "keywords":"data url,datauris,data uri,dataurl,dataurls,base64",
   "shown":true
 }

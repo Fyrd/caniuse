@@ -5,14 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.polymer-project.org/platform/html-imports.html",
-      "title":"Polymer project (polyfill & web components framework)"
-    },
-    {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/imports/",
-      "title":"HTML5Rocks - HTML Imports: #include for the web"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=877072",
       "title":"Firefox tracking bug: Implement HTML Imports"
     },
@@ -23,14 +15,22 @@
     {
       "url":"http://status.modern.ie/htmlimports",
       "title":"IE Web Platform Status and Roadmap: HTML Imports"
+    },
+    {
+      "url":"http://www.polymer-project.org/platform/html-imports.html",
+      "title":"Polymer project (polyfill & web components framework)"
+    },
+    {
+      "url":"http://www.html5rocks.com/tutorials/webcomponents/imports/",
+      "title":"HTML5Rocks - HTML Imports: #include for the web"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{

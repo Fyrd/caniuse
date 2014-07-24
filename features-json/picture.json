@@ -5,16 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583",
-      "title":"Tutorial"
-    },
-    {
       "url":"http://responsiveimages.org/demos/",
       "title":"Demo"
     },
     {
       "url":"http://www.w3.org/TR/html-picture-element/",
-      "title":"Latest RICG &lt;picture> specification"
+      "title":"Latest RICG <picture> specification"
     },
     {
       "url":"http://responsiveimages.org/",
@@ -23,6 +19,10 @@
     {
       "url":"http://usecases.responsiveimages.org/",
       "title":"Read about the use cases"
+    },
+    {
+      "url":"http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583",
+      "title":"Tutorial"
     }
   ],
   "bugs":[
@@ -31,8 +31,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -116,8 +116,8 @@
       "35":"n",
       "36":"n",
       "37":"n",
-      "38":"u",
-      "39":"u"
+      "38":"y",
+      "39":"y"
     },
     "safari":{
       "3.1":"n",
@@ -199,7 +199,7 @@
       "10":"n"
     }
   },
-  "notes":"Supported in Chrome 37+ under the \"Experimental Web Platform features\" flag. Expected to appear in an early Firefox build soon.",
+  "notes":"Supported in Chrome 37 under the \"Experimental Web Platform features\" flag. Expected to appear in an early Firefox build soon.",
   "notes_by_num":{
     
   },

@@ -13,16 +13,16 @@
       "title":"Chromium tracking bug: Implement Custom Elements"
     },
     {
-      "url":"http://status.modern.ie/customelements",
-      "title":"IE Web Platform Status and Roadmap: Custom Elements"
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
+      "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
     },
     {
       "url":"http://w3c.github.io/webcomponents/spec/custom/",
       "title":"W3C Editor's Draft spec (closer to current implementations)"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
-      "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
+      "url":"http://status.modern.ie/customelements",
+      "title":"IE Web Platform Status and Roadmap: Custom Elements"
     },
     {
       "url":"http://www.polymer-project.org/platform/custom-elements.html",
@@ -33,8 +33,8 @@
     
   ],
   "categories":[
-    "DOM",
-    "HTML5"
+    "HTML5",
+    "DOM"
   ],
   "stats":{
     "ie":{

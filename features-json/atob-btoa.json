@@ -1,16 +1,20 @@
 {
-  "title":"FileReader API",
-  "description":"Method of reading the contents of a File or Blob object into memory",
-  "spec":"http://www.w3.org/TR/FileAPI/#dfn-filereader",
-  "status":"wd",
+  "title":"Base64 encoding and decoding",
+  "description":"Utility functions for of encoding and decoding strings to and from base 64: window.atob() and window.btoa().",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/webappapis.html#atob",
+  "status":"other",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/file/FileReader",
-      "title":"WebPlatform Docs"
+      "url":"https://github.com/davidchambers/Base64.js",
+      "title":"Polyfill"
     },
     {
-      "url":"https://developer.mozilla.org/en/DOM/FileReader",
-      "title":"FileReader API"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Window.btoa",
+      "title":"MDN article on btoa()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Window.atob",
+      "title":"MDN article on atob()"
     }
   ],
   "bugs":[
@@ -30,9 +34,9 @@
       "11":"y"
     },
     "firefox":{
-      "2":"n",
-      "3":"n",
-      "3.5":"n",
+      "2":"y",
+      "3":"y",
+      "3.5":"y",
       "3.6":"y",
       "4":"y",
       "5":"y",
@@ -67,8 +71,8 @@
       "34":"y"
     },
     "chrome":{
-      "4":"n",
-      "5":"n",
+      "4":"y",
+      "5":"y",
       "6":"y",
       "7":"y",
       "8":"y",
@@ -105,11 +109,11 @@
       "39":"y"
     },
     "safari":{
-      "3.1":"n",
-      "3.2":"n",
-      "4":"n",
-      "5":"n",
-      "5.1":"n",
+      "3.1":"y",
+      "3.2":"y",
+      "4":"y",
+      "5":"y",
+      "5.1":"y",
       "6":"y",
       "6.1":"y",
       "7":"y",
@@ -117,11 +121,11 @@
     },
     "opera":{
       "9":"n",
-      "9.5-9.6":"n",
-      "10.0-10.1":"n",
-      "10.5":"n",
-      "10.6":"n",
-      "11":"n",
+      "9.5-9.6":"u",
+      "10.0-10.1":"u",
+      "10.5":"u",
+      "10.6":"y",
+      "11":"y",
       "11.1":"y",
       "11.5":"y",
       "11.6":"y",
@@ -139,21 +143,21 @@
       "24":"y"
     },
     "ios_saf":{
-      "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
+      "3.2":"y",
+      "4.0-4.1":"y",
+      "4.2-4.3":"y",
+      "5.0-5.1":"y",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y"
     },
     "op_mini":{
-      "5.0-7.0":"n"
+      "5.0-7.0":"y"
     },
     "android":{
-      "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
+      "2.1":"y",
+      "2.2":"y",
+      "2.3":"y",
       "3":"y",
       "4":"y",
       "4.1":"y",
@@ -162,12 +166,12 @@
       "4.4.3":"y"
     },
     "bb":{
-      "7":"n",
+      "7":"y",
       "10":"y"
     },
     "op_mob":{
-      "10":"n",
-      "11":"n",
+      "10":"u",
+      "11":"y",
       "11.1":"y",
       "11.5":"y",
       "12":"y",
@@ -188,10 +192,10 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":80.14,
+  "usage_perc_y":85.94,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"fileapi",
-  "keywords":"",
+  "parent":"",
+  "keywords":"atob,btoa",
   "shown":true
 }
