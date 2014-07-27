@@ -1,32 +1,19 @@
 {
-  "title":"CSS3 Animation",
-  "description":"Complex method of animating certain properties of an element",
-  "spec":"http://www.w3.org/TR/css3-animations/",
-  "status":"wd",
+  "title":"CSS Appearance",
+  "description":"The `appearance` property defines how elements (particularly form controls) appear by default. By setting the value to `none` the default appearance can be entirely redefined using other CSS properties.",
+  "spec":"http://wiki.csswg.org/spec/css4-ui#appearance",
+  "status":"unoff",
   "links":[
     {
-      "url":"http://www.css3files.com/animation/",
-      "title":"Information page"
-    },
-    {
-      "url":"http://robertnyman.com/2010/05/06/css3-animations/",
-      "title":"Blog post on usage"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/animations",
-      "title":"WebPlatform Docs"
+      "url":"",
+      "title":""
     }
   ],
   "bugs":[
-    {
-      "description":"'animation-fill-mode' property is not supported in Android browser below 2.3."
-    },
-    {
-      "description":"iOS 6.1 and below do not support animation on pseudo-elements."
-    }
+    
   ],
   "categories":[
-    "CSS3"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -35,15 +22,15 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y",
-      "11":"y"
+      "10":"n",
+      "11":"n"
     },
     "firefox":{
-      "2":"n",
-      "3":"n",
-      "3.5":"n",
-      "3.6":"n",
-      "4":"n",
+      "2":"y x",
+      "3":"y x",
+      "3.5":"y x",
+      "3.6":"y x",
+      "4":"y x",
       "5":"y x",
       "6":"y x",
       "7":"y x",
@@ -55,25 +42,25 @@
       "13":"y x",
       "14":"y x",
       "15":"y x",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y"
+      "16":"y x",
+      "17":"y x",
+      "18":"y x",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
+      "27":"y x",
+      "28":"y x",
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
+      "32":"y x",
+      "33":"y x",
+      "34":"y x"
     },
     "chrome":{
       "4":"y x",
@@ -114,8 +101,8 @@
       "39":"y x"
     },
     "safari":{
-      "3.1":"n",
-      "3.2":"n",
+      "3.1":"y x",
+      "3.2":"y x",
       "4":"y x",
       "5":"y x",
       "5.1":"y x",
@@ -134,8 +121,8 @@
       "11.1":"n",
       "11.5":"n",
       "11.6":"n",
-      "12":"y x",
-      "12.1":"y",
+      "12":"n",
+      "12.1":"n",
       "15":"y x",
       "16":"y x",
       "17":"y x",
@@ -160,10 +147,10 @@
       "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"a x",
-      "2.2":"a x",
-      "2.3":"a x",
-      "3":"a x",
+      "2.1":"y x",
+      "2.2":"y x",
+      "2.3":"y x",
+      "3":"y x",
       "4":"y x",
       "4.1":"y x",
       "4.2-4.3":"y x",
@@ -180,27 +167,27 @@
       "11.1":"n",
       "11.5":"n",
       "12":"n",
-      "12.1":"y",
+      "12.1":"n",
       "22":"y x"
     },
     "and_chr":{
       "35":"y x"
     },
     "and_ff":{
-      "30":"y"
+      "30":"y x"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"n"
     }
   },
-  "notes":"Partial support in Android browser refers to buggy behavior in different scenarios.",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":81.27,
-  "usage_perc_a":1.11,
+  "usage_perc_y":72.05,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"animations,css-animations,keyframe,keyframes",
-  "shown":true
+  "keywords":"",
+  "shown":false
 }

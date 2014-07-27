@@ -9,12 +9,12 @@
       "title":"MDN Documentation for text-decoration-line"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
-      "title":"MDN Documentation for text-decoration-style"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
       "title":"MDN Documentation for text-decoration-color"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
+      "title":"MDN Documentation for text-decoration-style"
     }
   ],
   "bugs":[
@@ -93,20 +93,20 @@
       "23":"n",
       "24":"n",
       "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n"
+      "26":"n x d #",
+      "27":"n x d #",
+      "28":"n x d #",
+      "29":"n x d #",
+      "30":"n x d #",
+      "31":"n x d #",
+      "32":"n x d #",
+      "33":"n x d #",
+      "34":"n x d #",
+      "35":"n x d #",
+      "36":"n x d #",
+      "37":"n x d #",
+      "38":"n x d #",
+      "39":"n x d #"
     },
     "safari":{
       "3.1":"n",
@@ -188,9 +188,9 @@
       "10":"n"
     }
   },
-  "notes":"Support for the -webkit-text-decoration-style property can be enabled for Chrome and Opera with the \"Experimental Web Platform features\" flag.  ",
+  "notes":"",
   "notes_by_num":{
-    
+    "0":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags"
   },
   "usage_perc_y":13.86,
   "usage_perc_a":0,

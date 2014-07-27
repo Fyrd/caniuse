@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/ie/hh272902#_CSSConnected",
-      "title":"IE10 developer guide info"
-    },
-    {
       "url":"http://html.adobe.com/webstandards/cssregions/",
       "title":"Adobe demos and samples"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/atrules/@region",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://msdn.microsoft.com/en-us/ie/hh272902#_CSSConnected",
+      "title":"IE10 developer guide info"
     }
   ],
   "bugs":[
@@ -86,22 +86,22 @@
       "16":"a x",
       "17":"a x",
       "18":"a x",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
+      "19":"n d",
+      "20":"n d",
+      "21":"n d",
+      "22":"n d",
+      "23":"n d",
+      "24":"n d",
+      "25":"n d",
+      "26":"n d",
+      "27":"n d",
+      "28":"n d",
+      "29":"n d",
+      "30":"n d",
+      "31":"n d",
+      "32":"n d",
+      "33":"n d",
+      "34":"n d",
       "35":"n",
       "36":"n",
       "37":"n",
@@ -188,7 +188,7 @@
       "10":"a x"
     }
   },
-  "notes":"Currently supported in WebKit Nightly using `-webkit-flow-into: flow_name;` and `-webkit-from-flow: flow_name;`.\r\n\r\nSupport in Chrome 19+ is disabled by default and can be enabled using a runtime flag (see `about:flags`) or a command line flag (see  [this list](http://peter.sh/experiments/chromium-command-line-switches/#enable-css-regions)). For Chrome 19-22 the flag is named \"Enable CSS Regions\" / `--enable-css-regions`, while for Chrome 23+ the flag is named \"Enable experimental Web Platform features\" / `--enable-experimental-web-platform-features`.\r\n\r\nSupport in IE10 is limited to using an iframe as a content source with the `-ms-flow-into: flow_name;` and `-ms-flow-from: flow_name;` syntax. ",
+  "notes":"Support in IE10 and IE11 is limited to using an iframe as a content source with the `-ms-flow-into: flow_name;` and `-ms-flow-from: flow_name;` syntax. ",
   "notes_by_num":{
     
   },

@@ -9,20 +9,20 @@
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
-      "title":"HTML5Rocks article"
-    },
-    {
       "url":"https://github.com/PM5544/scoped-polyfill",
       "title":"Polyfill"
+    },
+    {
+      "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
+      "title":"HTML5Rocks article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "CSS"
+    "CSS",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -88,26 +88,26 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n"
+      "20":"n d #1",
+      "21":"n d #1",
+      "22":"n d #1",
+      "23":"n d #1",
+      "24":"n d #1",
+      "25":"n d #1",
+      "26":"n d #1",
+      "27":"n d #1",
+      "28":"n d #1",
+      "29":"n d #1",
+      "30":"n d #1",
+      "31":"n d #1",
+      "32":"n d #1",
+      "33":"n d #1",
+      "34":"n d #1",
+      "35":"n d #1",
+      "36":"n d #1",
+      "37":"n d #1",
+      "38":"n d #1",
+      "39":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -189,9 +189,9 @@
       "10":"n"
     }
   },
-  "notes":"Supported in Chrome 20-36 by enabling the \"experimental Web Platform features\" flag in chrome://flags.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags"
   },
   "usage_perc_y":12.95,
   "usage_perc_a":0,
