@@ -8,7 +8,7 @@
     var statusArr = ['rec', 'pr', 'cr', 'wd', 'other', 'unoff'];
     var categoryArr = ['HTML5', 'CSS', 'CSS2', 'CSS3', 'SVG', 'PNG', 'JS API', 'Canvas', 'DOM', 'Other'];
     // Support string MUST have one of these (optionally others)
-    var supportValues = ['y', 'a', 'n', 'u', 'p']; 
+    var supportValues = ['y', 'a', 'n', 'u', 'p', 'd'];
 
     var validationFn = {
         isString: function (val) {
@@ -130,7 +130,7 @@
 
         this.validateToken = function (token) {
             // Must be any of these letters or #1, #2, etc.
-            if (!/^(y|a|n|u|p|x|(\#\d+))$/.test(token)) {
+            if (!/^(y|a|n|u|p|x|d|(\#\d+))$/.test(token)) {
                 this.throwError('Invalid token: ' + token);
             }
         };
@@ -163,7 +163,7 @@
                 this.throwError('No support token found');
             }
         };
-        
+
         this.validateKeys = function(parentKey, refObject, object) {
             for( var key in object ) {
                 if( !(key in refObject) ) {
@@ -224,7 +224,7 @@
 
         this.start();
     };
-    
+
     var processFile = function (error, data, fileName) {
         if (error) {
             throw Error('Error: ' + error);
