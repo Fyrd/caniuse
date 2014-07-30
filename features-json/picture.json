@@ -5,24 +5,24 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://responsiveimages.org/demos/",
-      "title":"Demo"
-    },
-    {
       "url":"http://responsiveimages.org/",
       "title":"General information about Responsive Images"
     },
     {
-      "url":"http://www.w3.org/TR/html-picture-element/",
-      "title":"Latest RICG &lt;picture> specification"
+      "url":"http://usecases.responsiveimages.org/",
+      "title":"Read about the use cases"
+    },
+    {
+      "url":"http://responsiveimages.org/demos/",
+      "title":"Demo"
     },
     {
       "url":"http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583",
       "title":"Tutorial"
     },
     {
-      "url":"http://usecases.responsiveimages.org/",
-      "title":"Read about the use cases"
+      "url":"http://www.w3.org/TR/html-picture-element/",
+      "title":"Latest RICG &lt;picture> specification"
     }
   ],
   "bugs":[
@@ -190,10 +190,10 @@
       "22":"n"
     },
     "and_chr":{
-      "35":"n"
+      "36":"n"
     },
     "and_ff":{
-      "30":"n"
+      "31":"n"
     },
     "ie_mob":{
       "10":"n"

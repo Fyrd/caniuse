@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://css-tricks.com/almanac/properties/t/text-rendering/",
-      "title":"CSS Tricks article"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering",
       "title":"MDN article"
+    },
+    {
+      "url":"http://css-tricks.com/almanac/properties/t/text-rendering/",
+      "title":"CSS Tricks article"
     }
   ],
   "bugs":[
@@ -175,10 +175,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"n"

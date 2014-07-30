@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-async",
-      "title":"has.js test"
-    },
-    {
       "url":"http://ie.microsoft.com/testdrive/Performance/AsyncScripts/Default.html",
       "title":"Demo"
     },
     {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
       "title":"MDN article"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-async",
+      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -180,10 +180,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"y"

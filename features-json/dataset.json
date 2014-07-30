@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://html5doctor.com/html5-custom-data-attributes/",
       "title":"HTML5 Doctor article"
     },
@@ -17,16 +13,20 @@
       "title":"Demo using dataset"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
-      "title":"MDN Reference - dataset"
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
+      "title":"has.js test"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes",
       "title":"MDN Guide - Using data-* attributes"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
-      "title":"has.js test"
+      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
+      "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
+      "title":"MDN Reference - dataset"
     }
   ],
   "bugs":[
@@ -193,10 +193,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"a"

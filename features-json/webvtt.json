@@ -5,12 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/an-introduction-to-webvtt-and-track/",
-      "title":"An Introduction to WebVTT and track"
-    },
-    {
       "url":"http://www.html5rocks.com/en/tutorials/track/basics/",
       "title":"Getting Started With the Track Element"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/an-introduction-to-webvtt-and-track/",
+      "title":"An Introduction to WebVTT and track"
     }
   ],
   "bugs":[
@@ -175,10 +175,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"n"
+      "31":"y"
     },
     "ie_mob":{
       "10":"n"
@@ -188,7 +188,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":59.39,
+  "usage_perc_y":59.51,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",

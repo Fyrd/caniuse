@@ -5,12 +5,16 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
+      "title":"jQuery fallback script"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-details",
       "title":"has.js test"
     },
     {
-      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
-      "title":"jQuery fallback script"
+      "url":"http://docs.webplatform.org/wiki/html/elements/details",
+      "title":"WebPlatform Docs"
     },
     {
       "url":"http://html5doctor.com/summary-figcaption-element/",
@@ -19,10 +23,6 @@
     {
       "url":"https://gist.github.com/370590",
       "title":"Fallback script"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/html/elements/details",
-      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -187,10 +187,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"n"
+      "31":"n"
     },
     "ie_mob":{
       "10":"n"

@@ -5,16 +5,16 @@
   "status":"other",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Window.btoa",
-      "title":"MDN article on btoa()"
-    },
-    {
       "url":"https://github.com/davidchambers/Base64.js",
       "title":"Polyfill"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Window.atob",
       "title":"MDN article on atob()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Window.btoa",
+      "title":"MDN article on btoa()"
     }
   ],
   "bugs":[
@@ -179,10 +179,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"y"

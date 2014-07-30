@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"http://www.w3.org/WAI/intro/aria",
+      "title":"Information page"
+    },
+    {
       "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
       "title":"Wikipedia"
     },
@@ -13,16 +17,12 @@
       "title":"ALA Article"
     },
     {
-      "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
-      "title":"Links to various test results"
-    },
-    {
-      "url":"http://www.w3.org/WAI/intro/aria",
-      "title":"Information page"
-    },
-    {
       "url":"http://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
       "title":"HTML5/WAI-ARIA information"
+    },
+    {
+      "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
+      "title":"Links to various test results"
     }
   ],
   "bugs":[
@@ -187,10 +187,10 @@
       "22":"a"
     },
     "and_chr":{
-      "35":"a"
+      "36":"a"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"y"

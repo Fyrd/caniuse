@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
-      "title":"has.js test"
-    },
-    {
-      "url":"http://oli.jp/2009/html5-structure3/",
-      "title":"Article on structural elements"
-    },
-    {
       "url":"http://blog.whatwg.org/supporting-new-elements-in-ie",
       "title":"Workaround for IE"
     },
     {
       "url":"http://blog.whatwg.org/styling-ie-noscript",
       "title":"Alternate workaround"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-html5-elements",
+      "title":"has.js test"
+    },
+    {
+      "url":"http://oli.jp/2009/html5-structure3/",
+      "title":"Article on structural elements"
     }
   ],
   "bugs":[
@@ -183,10 +183,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"y #1"

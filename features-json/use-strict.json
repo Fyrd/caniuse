@@ -5,12 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://javascriptweblog.wordpress.com/2011/05/03/javascript-strict-mode/",
-      "title":"Article with test suite"
-    },
-    {
       "url":"http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/",
       "title":"Information page"
+    },
+    {
+      "url":"http://javascriptweblog.wordpress.com/2011/05/03/javascript-strict-mode/",
+      "title":"Article with test suite"
     }
   ],
   "bugs":[
@@ -175,10 +175,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"y"

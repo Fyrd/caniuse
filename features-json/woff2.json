@@ -1,7 +1,7 @@
 {
   "title":"WOFF 2.0 - A better web font compression format",
-  "description":"Compressed TrueType/OpenType font that contains information about the font's source.",
-  "spec":"http://dev.w3.org/webfonts/WOFF2/spec/",
+  "description":"TrueType/OpenType font that provides better compression than WOFF 1.0.",
+  "spec":"http://www.w3.org/TR/WOFF2/",
   "status":"wd",
   "links":[
     {
@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "Other"
@@ -171,10 +171,10 @@
       "22":"n"
     },
     "and_chr":{
-      "35":"n"
+      "36":"y"
     },
     "and_ff":{
-      "30":"n"
+      "31":"n"
     },
     "ie_mob":{
       "10":"n"
@@ -182,9 +182,9 @@
   },
   "notes":"",
   "notes_by_num":{
-
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":5.79,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

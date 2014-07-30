@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://dev.w3.org/csswg/css3-ui/#outline",
-      "title":"CSS Basic User Interface Module Level 3"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/outline",
       "title":"Mozilla Developer Network: outline"
+    },
+    {
+      "url":"http://dev.w3.org/csswg/css3-ui/#outline",
+      "title":"CSS Basic User Interface Module Level 3"
     }
   ],
   "bugs":[
@@ -180,10 +180,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"y"

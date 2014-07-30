@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.quirksmode.org/dom/tests/basics.html#getElementsByClassName",
-      "title":"Test page"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/dom/HTMLElement/getElementsByClassName",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.quirksmode.org/dom/tests/basics.html#getElementsByClassName",
+      "title":"Test page"
     }
   ],
   "bugs":[
@@ -178,10 +178,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"y"

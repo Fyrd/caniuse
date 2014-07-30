@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.sitepoint.com/introduction-resource-timing-api/",
-      "title":"SitePoint article"
-    },
-    {
       "url":"http://googledevelopers.blogspot.com/2013/12/measuring-network-performance-with.html",
       "title":"Blog post"
     },
     {
       "url":"http://aurelio.audero.it/demo/resource-timing-api-demo.html",
       "title":"Demo"
+    },
+    {
+      "url":"http://www.sitepoint.com/introduction-resource-timing-api/",
+      "title":"SitePoint article"
     }
   ],
   "bugs":[
@@ -179,10 +179,10 @@
       "22":"y"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"n"
+      "31":"n"
     },
     "ie_mob":{
       "10":"y"

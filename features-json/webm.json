@@ -5,8 +5,12 @@
   "status":"other",
   "links":[
     {
-      "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
-      "title":"Info on supporting WebM in Safari"
+      "url":"http://perian.org/",
+      "title":"Perian :Mac OSX Webm Codec install"
+    },
+    {
+      "url":"https://tools.google.com/dlpage/webmmf",
+      "title":"Codec for IE9 support"
     },
     {
       "url":"http://webmproject.org",
@@ -17,12 +21,8 @@
       "title":"has.js test"
     },
     {
-      "url":"https://tools.google.com/dlpage/webmmf",
-      "title":"Codec for IE9 support"
-    },
-    {
-      "url":"http://perian.org/",
-      "title":"Perian :Mac OSX Webm Codec install"
+      "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
+      "title":"Info on supporting WebM in Safari"
     }
   ],
   "bugs":[
@@ -187,10 +187,10 @@
       "22":"a"
     },
     "and_chr":{
-      "35":"y"
+      "36":"y"
     },
     "and_ff":{
-      "30":"y"
+      "31":"y"
     },
     "ie_mob":{
       "10":"p"
