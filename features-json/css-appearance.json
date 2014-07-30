@@ -4,7 +4,10 @@
   "spec":"http://wiki.csswg.org/spec/css4-ui#appearance",
   "status":"unoff",
   "links":[
-    
+    {
+      "url":"http://css-tricks.com/almanac/properties/a/appearance/",
+      "title":"CSS Tricks article"
+    }
   ],
   "bugs":[
     
@@ -177,7 +180,7 @@
       "10":"n"
     }
   },
-  "notes":"",
+  "notes":"The `appearance` property currently does not appear in any CSS specification so there is no specifically correct usage.",
   "notes_by_num":{
     
   },
