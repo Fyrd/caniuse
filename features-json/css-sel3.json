@@ -1,17 +1,9 @@
 {
   "title":"CSS3 selectors",
-  "description":"Advanced element selection using selectors including: [foo^=\"bar\"], [foo$=\"bar\"], [foo*=\"bar\"], :root, :nth-child(),  :nth-last-child(), nth-of-type, nth-last-of-type(), :last-child,  :first-of-type, :last-of-type, :only-child, :only-of-type, :empty, :target, :enabled, :disabled, :checked, :not(), ~ (general sibling)",
+  "description":"Advanced element selection using selectors including: `[foo^=\"bar\"]`, `[foo$=\"bar\"]`, `[foo*=\"bar\"]`, `:root`, `:nth-child()`,  `:nth-last-child()`, `nth-of-type`, `nth-last-of-type()`, `:last-child`, `:first-of-type`, `:last-of-type`, `:only-child`, `:only-of-type`, `:empty`, `:target`, `:enabled`, `:disabled`, `:checked`, `:not()`, `~` (general sibling)",
   "spec":"http://www.w3.org/TR/css3-selectors/",
   "status":"rec",
   "links":[
-    {
-      "url":"http://www.css3.info/selectors-test/",
-      "title":"Automated CSS3 selector test"
-    },
-    {
-      "url":"http://www.quirksmode.org/css/selectors/",
-      "title":"Detailed support information"
-    },
     {
       "url":"http://selectivizr.com",
       "title":"Selectivizr: Polyfill for IE6-8"
@@ -19,6 +11,14 @@
     {
       "url":"http://docs.webplatform.org/wiki/css/selectors",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://www.quirksmode.org/css/selectors/",
+      "title":"Detailed support information"
+    },
+    {
+      "url":"http://www.css3.info/selectors-test/",
+      "title":"Automated CSS3 selector test"
     }
   ],
   "bugs":[
@@ -192,7 +192,7 @@
       "10":"y"
     }
   },
-  "notes":"IE7 and IE8 support only these CSS3 selectors: General siblings (element1~element2) and Attribute selectors [attr^=val], [attr$=val], and [attr*=val]",
+  "notes":"IE7 and IE8 support only these CSS3 selectors: General siblings (`element1~element2`) and Attribute selectors `[attr^=val]`, `[attr$=val]`, and `[attr*=val]`",
   "notes_by_num":{
     
   },
