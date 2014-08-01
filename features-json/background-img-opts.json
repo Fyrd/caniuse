@@ -5,22 +5,19 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://www.standardista.com/css3/css3-background-properties",
-      "title":"Detailed compatibility tables and demos"
-    },
-    {
       "url":"http://www.css3files.com/background/",
       "title":"Information page"
     },
     {
       "url":"https://github.com/louisremi/background-size-polyfill",
       "title":"Polyfill for IE7-8"
+    },
+    {
+      "url":"http://www.standardista.com/css3/css3-background-properties",
+      "title":"Detailed compatibility tables and demos"
     }
   ],
   "bugs":[
-    {
-      "description":"Android 2.1-2.3 doesn't appear to honor background-size, only -webkit-background-size, which requires both width and height to be specified."
-    },
     {
       "description":"iOS Safari has buggy behavior with background-size: cover; on a page's body."
     },

@@ -5,16 +5,18 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/track/basics/",
-      "title":"Getting Started With the Track Element"
-    },
-    {
       "url":"http://dev.opera.com/articles/view/an-introduction-to-webvtt-and-track/",
       "title":"An Introduction to WebVTT and track"
+    },
+    {
+      "url":"http://www.html5rocks.com/en/tutorials/track/basics/",
+      "title":"Getting Started With the Track Element"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In Firefox, captions are not visible for audio-only files in the `video` tag ([see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=992664))."
+    }
   ],
   "categories":[
     "Other"

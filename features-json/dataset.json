@@ -5,33 +5,33 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes",
-      "title":"MDN Guide - Using data-* attributes"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
+      "title":"MDN Reference - dataset"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
-      "title":"WebPlatform Docs"
+      "url":"http://html5demos.com/dataset",
+      "title":"Demo using dataset"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes",
+      "title":"MDN Guide - Using data-* attributes"
     },
     {
       "url":"http://html5doctor.com/html5-custom-data-attributes/",
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset",
-      "title":"MDN Reference - dataset"
-    },
-    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/dom.js#dom-dataset",
       "title":"has.js test"
     },
     {
-      "url":"http://html5demos.com/dataset",
-      "title":"Demo using dataset"
+      "url":"http://docs.webplatform.org/wiki/html/attributes/data-*",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
     {
-      "description":"Android 2.3 cannot read data-* properties from select elements.\r\n"
+      "description":"Android 2.3 cannot read `data-*` properties from `select` elements.\r\n"
     }
   ],
   "categories":[
@@ -202,7 +202,7 @@
       "10":"a"
     }
   },
-  "notes":"All browsers can already use data-* attributes and access them using getAttribute. \"Supported\" refers to accessing the values using the dataset property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",
+  "notes":"Partial support refers to being able to use `data-*` attributes and access them using `getAttribute`. \r\n\r\n\"Supported\" refers to accessing the values using the `dataset` property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",
   "notes_by_num":{
     
   },

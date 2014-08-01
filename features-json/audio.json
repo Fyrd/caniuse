@@ -1,20 +1,24 @@
 {
   "title":"Audio element",
   "description":"Method of playing sound on webpages (without requiring a plug-in)",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html#audio",
-  "status":"wd",
+  "spec":" http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element",
+  "status":"cr",
   "links":[
     {
-      "url":"http://24ways.org/2010/the-state-of-html5-audio",
-      "title":"Detailed article on support"
+      "url":"http://textopia.org/androidsoundformats.html",
+      "title":"File format test page"
+    },
+    {
+      "url":"http://www.jplayer.org/latest/demos/",
+      "title":"Demos of audio player that uses the audio element"
+    },
+    {
+      "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
+      "title":"The State of HTML5 Audio"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/audio.js#audio",
       "title":"has.js test"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
     },
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/audio",
@@ -25,16 +29,12 @@
       "title":"HTML5 Doctor article"
     },
     {
-      "url":"http://textopia.org/androidsoundformats.html",
-      "title":"File format test page"
+      "url":"http://24ways.org/2010/the-state-of-html5-audio",
+      "title":"Detailed article on support"
     },
     {
-      "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
-      "title":"The State of HTML5 Audio"
-    },
-    {
-      "url":"http://www.jplayer.org/latest/demos/",
-      "title":"Demos of audio player that uses the audio element"
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     }
   ],
   "bugs":[

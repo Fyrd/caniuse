@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
-      "title":"Mozilla hacks article"
-    },
-    {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
       "title":"Blog post"
+    },
+    {
+      "url":"http://hacks.mozilla.org/2012/01/using-the-fullscreen-api-in-web-browsers/",
+      "title":"Mozilla hacks article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"Safari blocks access to keyboard events in fullscreen mode (as a security measure)."
+    },
+    {
+      "description":"IE 11 does not allow scrolling when document.documentElement is set to full screen."
     }
   ],
   "categories":[

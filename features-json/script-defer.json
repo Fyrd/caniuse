@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
-      "title":"MDN article"
-    },
-    {
       "url":"http://docs.webplatform.org/wiki/html/attributes/defer",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
+      "title":"MDN article"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"IE<10 may interleave execution of scripts, [See the discussion](https://github.com/h5bp/lazyweb-requests/issues/42)."
+      "description":"IE &lt; 10 may interleave execution of scripts, [See the discussion](https://github.com/h5bp/lazyweb-requests/issues/42)."
     }
   ],
   "categories":[
@@ -191,7 +191,7 @@
       "10":"y"
     }
   },
-  "notes":"Partial support refers to a buggy implementation in IE<10",
+  "notes":"Partial support in older IE refers to a buggy implementation (see issue)",
   "notes_by_num":{
     
   },

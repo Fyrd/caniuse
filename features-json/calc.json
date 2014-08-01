@@ -1,6 +1,6 @@
 {
   "title":"calc() as CSS unit value",
-  "description":"Method of allowing calculated values for length units, i.e. width: calc(100% - 3em)",
+  "description":"Method of allowing calculated values for length units, i.e. `width: calc(100% - 3em)`",
   "spec":"http://www.w3.org/TR/css3-values/#calc",
   "status":"cr",
   "links":[
@@ -9,17 +9,23 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
-      "title":"MDN article"
-    },
-    {
       "url":"http://hacks.mozilla.org/2010/06/css3-calc/",
       "title":"Mozilla Hacks article"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/CSS/-moz-calc",
+      "title":"MDN article"
     }
   ],
   "bugs":[
     {
-      "description":"Webkit doesn't support viewport units in calc() expressions: https://bugs.webkit.org/show_bug.cgi?id=94158 and https://code.google.com/p/chromium/issues/detail?id=168840; Blink added support with Revision 172971"
+      "description":"Webkit doesn't support viewport units in `calc()` expressions: https://bugs.webkit.org/show_bug.cgi?id=94158 and https://code.google.com/p/chromium/issues/detail?id=168840; Blink added support with Revision 172971"
+    },
+    {
+      "description":"`calc()` doesn't work [inside a transform in IE](http://connect.microsoft.com/IE/feedback/details/814380/css3-using-calc-inside-a-transform-is-invalid)"
+    },
+    {
+      "description":"IE9 appears to ignore `calc()` expressions when `display:table` is used."
     }
   ],
   "categories":[
@@ -190,9 +196,9 @@
       "10":"y"
     }
   },
-  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard expression() syntax. Partial support in IE9 refers to the browser crashing when used as a background-position value.",
+  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard `expression()` syntax. Partial support in IE9 refers to the browser crashing when used as a `background-position` value.",
   "notes_by_num":{
-    "0":""
+    
   },
   "usage_perc_y":74.17,
   "usage_perc_a":2.6,

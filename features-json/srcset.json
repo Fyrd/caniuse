@@ -1,6 +1,6 @@
 {
   "title":"Srcset attribute",
-  "description":"Allows authors to specify alternate high-resolution sources on <img> elements",
+  "description":"Allows authors to specify alternate high-resolution sources on `img` elements",
   "spec":"http://picture.responsiveimages.org/#relationship-to-srcset",
   "status":"other",
   "links":[
@@ -58,9 +58,9 @@
       "29":"n",
       "30":"n",
       "31":"n",
-      "32":"y",
-      "33":"y",
-      "34":"y"
+      "32":"n d #1",
+      "33":"n d #1",
+      "34":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -182,9 +182,9 @@
   },
   "notes":"This covers the stand-alone `srcset` syntax for resolution switching, not the expanded syntax to be used in concert with `sizes`.",
   "notes_by_num":{
-    
+    "1":"Can be enabled in Firefox by setting the about:config preference dom.image.srcset.enabled to true"
   },
-  "usage_perc_y":36.02,
+  "usage_perc_y":36,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

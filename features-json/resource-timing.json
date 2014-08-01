@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://aurelio.audero.it/demo/resource-timing-api-demo.html",
-      "title":"Demo"
+      "url":"http://www.sitepoint.com/introduction-resource-timing-api/",
+      "title":"SitePoint article"
     },
     {
       "url":"http://googledevelopers.blogspot.com/2013/12/measuring-network-performance-with.html",
       "title":"Blog post"
     },
     {
-      "url":"http://www.sitepoint.com/introduction-resource-timing-api/",
-      "title":"SitePoint article"
+      "url":"http://aurelio.audero.it/demo/resource-timing-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -65,10 +65,10 @@
       "28":"n",
       "29":"n",
       "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n"
+      "31":"n d #1",
+      "32":"n d #1",
+      "33":"n d #1",
+      "34":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -190,7 +190,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "0":""
+    "1":"Can be enabled in Firefox using the dom.enable_resource_timing flag"
   },
   "usage_perc_y":50.63,
   "usage_perc_a":0,

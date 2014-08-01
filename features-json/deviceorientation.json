@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-orientation",
+      "title":"has.js test"
+    },
+    {
       "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
       "title":"HTML5 Rocks tutorial"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://aurelio.audero.it/demo/device-orientation-api-demo.html",
       "title":"Demo"
-    },
-    {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-orientation",
-      "title":"has.js test"
     }
   ],
   "bugs":[
@@ -32,7 +32,10 @@
       "description":"window.oncompassneedscalibration property is initially undefined in Opera Mobile 12, while the event is correctly fired when the property is defined later."
     },
     {
-      "description":"In Opera Mobile 12 the <code>interval</code> property isn't constant as [required by the specifications](http://www.w3.org/TR/orientation-event/#devicemotion)."
+      "description":"In Opera Mobile 12 the `interval` property isn't constant as [required by the specifications](http://www.w3.org/TR/orientation-event/#devicemotion)."
+    },
+    {
+      "description":"`DeviceOrientationEvent.beta` has values between -90 and 90 on mobile safari and between 180 and -180 on Firefox.\r\n`DeviceOrientationEvent.gamma` has values between -180 and 180 on mobile Safari and between 90 and -90 on Firefox.\r\nSee [Firefox reference](https://developer.mozilla.org/en-US/docs/Web/API/DeviceOrientationEvent)\r\nand [Safari reference](https://developer.apple.com/library/safari/documentation/SafariDOMAdditions/Reference/DeviceOrientationEventClassRef/DeviceOrientationEvent/DeviceOrientationEvent.html#//apple_ref/javascript/instp/DeviceOrientationEvent/beta)"
     }
   ],
   "categories":[
