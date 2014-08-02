@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
-      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
-    },
-    {
       "url":"http://w3c.github.io/webcomponents/spec/custom/",
       "title":"W3C Editor's Draft spec (closer to current implementations)"
     },
@@ -17,24 +13,28 @@
       "title":"Polymer project (polyfill & web components framework)"
     },
     {
-      "url":"http://status.modern.ie/customelements",
-      "title":"IE Web Platform Status and Roadmap: Custom Elements"
+      "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
+      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
+    },
+    {
+      "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
+      "title":"Chromium tracking bug: Implement Custom Elements"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
       "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
     },
     {
-      "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
-      "title":"Chromium tracking bug: Implement Custom Elements"
+      "url":"http://status.modern.ie/customelements",
+      "title":"IE Web Platform Status and Roadmap: Custom Elements"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -205,7 +205,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":37.02,
+  "usage_perc_y":37.72,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

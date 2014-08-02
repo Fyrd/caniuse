@@ -1,16 +1,28 @@
 {
   "title":"Audio element",
   "description":"Method of playing sound on webpages (without requiring a plug-in)",
-  "spec":" http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element",
+  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element",
   "status":"cr",
   "links":[
     {
-      "url":"http://textopia.org/androidsoundformats.html",
-      "title":"File format test page"
+      "url":"http://html5doctor.com/native-audio-in-the-browser/",
+      "title":"HTML5 Doctor article"
+    },
+    {
+      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "title":"Detailed article on video/audio elements"
     },
     {
       "url":"http://www.jplayer.org/latest/demos/",
       "title":"Demos of audio player that uses the audio element"
+    },
+    {
+      "url":"http://24ways.org/2010/the-state-of-html5-audio",
+      "title":"Detailed article on support"
+    },
+    {
+      "url":"http://textopia.org/androidsoundformats.html",
+      "title":"File format test page"
     },
     {
       "url":"http://www.phoboslab.org/log/2011/03/the-state-of-html5-audio",
@@ -23,18 +35,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/elements/audio",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html5doctor.com/native-audio-in-the-browser/",
-      "title":"HTML5 Doctor article"
-    },
-    {
-      "url":"http://24ways.org/2010/the-state-of-html5-audio",
-      "title":"Detailed article on support"
-    },
-    {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
-      "title":"Detailed article on video/audio elements"
     }
   ],
   "bugs":[
@@ -226,8 +226,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":85.18,
-  "usage_perc_a":0.02,
+  "usage_perc_y":85.51,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -5,16 +5,16 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/display",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
       "title":"Blog post w/info"
     },
     {
       "url":"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/",
       "title":"Info on cross browser support"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/display",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -192,8 +192,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":93.03,
-  "usage_perc_a":0.43,
+  "usage_perc_y":93.16,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"inlineblock",

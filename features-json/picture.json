@@ -13,16 +13,16 @@
       "title":"Tutorial"
     },
     {
-      "url":"http://responsiveimages.org/",
-      "title":"General information about Responsive Images"
+      "url":"http://www.w3.org/TR/html-picture-element/",
+      "title":"Latest RICG &lt;picture> specification"
     },
     {
       "url":"http://usecases.responsiveimages.org/",
       "title":"Read about the use cases"
     },
     {
-      "url":"http://www.w3.org/TR/html-picture-element/",
-      "title":"Latest RICG &lt;picture> specification"
+      "url":"http://responsiveimages.org/",
+      "title":"General information about Responsive Images"
     }
   ],
   "bugs":[
@@ -31,8 +31,8 @@
     }
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -203,7 +203,7 @@
   "notes_by_num":{
     "1":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags"
   },
-  "usage_perc_y":0.01,
+  "usage_perc_y":0.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

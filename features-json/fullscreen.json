@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
+      "title":"MDN article"
+    },
+    {
       "url":"http://jlongster.com/2011/11/21/canvas.html",
       "title":"Blog post"
     },
@@ -15,10 +19,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/dom/methods/requestFullscreen",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/DOM/Using_full-screen_mode",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -201,8 +201,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":50.15,
-  "usage_perc_a":14.55,
+  "usage_perc_y":50.72,
+  "usage_perc_a":14.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen",

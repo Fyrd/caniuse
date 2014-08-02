@@ -9,16 +9,16 @@
       "title":"HTML5Rocks"
     },
     {
-      "url":"https://github.com/filamentgroup/fixed-sticky",
-      "title":"Polyfill"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "title":"MDN article"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/position",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/filamentgroup/fixed-sticky",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -197,7 +197,7 @@
     "2":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags",
     "1":"Can be enabled in Firefox by setting the about:config preference layout.css.sticky.enabled to true"
   },
-  "usage_perc_y":8.66,
+  "usage_perc_y":9.12,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

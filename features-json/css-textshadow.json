@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"http://hacks.mozilla.org/2009/06/text-shadow/",
       "title":"Mozilla hacks article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://www.css3files.com/shadow/#textshadow",
       "title":"Information page"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/css/properties/text-shadow",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -201,8 +201,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":82.57,
-  "usage_perc_a":3.31,
+  "usage_perc_y":82.84,
+  "usage_perc_a":3.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"text shadow",

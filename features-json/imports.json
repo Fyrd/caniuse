@@ -9,16 +9,16 @@
       "title":"Polymer project (polyfill & web components framework)"
     },
     {
+      "url":"http://www.html5rocks.com/tutorials/webcomponents/imports/",
+      "title":"HTML5Rocks - HTML Imports: #include for the web"
+    },
+    {
       "url":"https://code.google.com/p/chromium/issues/detail?id=240592",
       "title":"Chromium tracking bug: Implement HTML Imports"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=877072",
       "title":"Firefox tracking bug: Implement HTML Imports"
-    },
-    {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/imports/",
-      "title":"HTML5Rocks - HTML Imports: #include for the web"
     },
     {
       "url":"http://status.modern.ie/htmlimports",
@@ -29,8 +29,8 @@
     
   ],
   "categories":[
-    "HTML5",
-    "DOM"
+    "DOM",
+    "HTML5"
   ],
   "stats":{
     "ie":{
@@ -201,7 +201,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":5.79,
+  "usage_perc_y":17.12,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

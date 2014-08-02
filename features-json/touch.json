@@ -5,12 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://github.com/CamHenlin/TouchPolyfill",
-      "title":"Touch polyfill for supporting touch events on Internet Explorer"
-    },
-    {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
+    },
+    {
+      "url":"http://www.quirksmode.org/m/tests/drag2.html",
+      "title":"Multi-touch demo"
     },
     {
       "url":"http://schepers.cc/getintouch",
@@ -21,8 +21,8 @@
       "title":"Internet Explorer's gesture and touch implementation."
     },
     {
-      "url":"http://www.quirksmode.org/m/tests/drag2.html",
-      "title":"Multi-touch demo"
+      "url":"http://github.com/CamHenlin/TouchPolyfill",
+      "title":"Touch polyfill for supporting touch events on Internet Explorer"
     }
   ],
   "bugs":[
@@ -206,8 +206,8 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox using the dom.w3c_touch_events.enabled flag (disabled by default for site compatibility reasons)"
   },
-  "usage_perc_y":54.45,
-  "usage_perc_a":0.79,
+  "usage_perc_y":54.98,
+  "usage_perc_a":0.7,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

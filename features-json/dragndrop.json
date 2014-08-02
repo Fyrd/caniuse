@@ -5,20 +5,20 @@
   "status":"wd",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/dom/DragEvent",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html5demos.com/drag",
-      "title":"Demo with link blocks"
-    },
-    {
       "url":"http://html5doctor.com/native-drag-and-drop/",
       "title":"HTML5 Doctor article"
     },
     {
       "url":"http://nettutsplus.s3.amazonaws.com/64_html5dragdrop/demo/index.html",
       "title":"Shopping cart demo"
+    },
+    {
+      "url":"http://html5demos.com/drag",
+      "title":"Demo with link blocks"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/dom/DragEvent",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -198,8 +198,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":53.39,
-  "usage_perc_a":17.3,
+  "usage_perc_y":52.35,
+  "usage_perc_a":17.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

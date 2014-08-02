@@ -5,6 +5,10 @@
   "status":"wd",
   "links":[
     {
+      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
+      "title":"HTML5 Rocks tutorial"
+    },
+    {
       "url":"http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification",
       "title":"Chromium API"
     },
@@ -13,20 +17,16 @@
       "title":"Add-on "
     },
     {
-      "url":"http://aurelio.audero.it/demo/web-notifications-api-demo.html",
-      "title":"Demo"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/notification",
       "title":"MDN Notifications"
     },
     {
-      "url":"http://www.html5rocks.com/tutorials/notifications/quick/",
-      "title":"HTML5 Rocks tutorial"
-    },
-    {
       "url":"http://www.sitepoint.com/introduction-web-notifications-api/",
       "title":"SitePoint article"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/web-notifications-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -209,8 +209,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":48.79,
-  "usage_perc_a":1.85,
+  "usage_perc_y":47.93,
+  "usage_perc_a":2.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

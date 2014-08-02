@@ -5,20 +5,20 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/webperformance/usertiming/",
-      "title":"HTML5Rocks article"
-    },
-    {
-      "url":"http://aurelio.audero.it/demo/user-timing-api-demo.html",
-      "title":"Demo"
-    },
-    {
       "url":"http://www.sitepoint.com/discovering-user-timing-api/",
       "title":"SitePoint article"
     },
     {
+      "url":"http://www.html5rocks.com/en/tutorials/webperformance/usertiming/",
+      "title":"HTML5Rocks article"
+    },
+    {
       "url":"https://gist.github.com/pmeenan/5902672",
       "title":"Polyfill"
+    },
+    {
+      "url":"http://aurelio.audero.it/demo/user-timing-api-demo.html",
+      "title":"Demo"
     }
   ],
   "bugs":[
@@ -196,7 +196,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":50.63,
+  "usage_perc_y":51.59,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

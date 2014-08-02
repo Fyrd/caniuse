@@ -5,8 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
+      "title":"Introduction to history management"
+    },
+    {
       "url":"https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history",
       "title":"MDN article"
+    },
+    {
+      "url":"http://html5demos.com/history",
+      "title":"Demo page"
     },
     {
       "url":"https://github.com/browserstate/history.js",
@@ -19,14 +27,6 @@
     {
       "url":"http://docs.webplatform.org/wiki/dom/History",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://html5demos.com/history",
-      "title":"Demo page"
-    },
-    {
-      "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
-      "title":"Introduction to history management"
     }
   ],
   "bugs":[
@@ -206,8 +206,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":75.98,
-  "usage_perc_a":3.44,
+  "usage_perc_y":76.55,
+  "usage_perc_a":3.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

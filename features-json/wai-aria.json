@@ -5,10 +5,6 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
-      "title":"HTML5/WAI-ARIA information"
-    },
-    {
       "url":"http://www.w3.org/WAI/intro/aria",
       "title":"Information page"
     },
@@ -17,12 +13,16 @@
       "title":"Links to various test results"
     },
     {
+      "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
+      "title":"Wikipedia"
+    },
+    {
       "url":"http://www.alistapart.com/articles/the-accessibility-of-wai-aria/",
       "title":"ALA Article"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
-      "title":"Wikipedia"
+      "url":"http://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
+      "title":"HTML5/WAI-ARIA information"
     }
   ],
   "bugs":[
@@ -200,8 +200,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":31.44,
-  "usage_perc_a":55.44,
+  "usage_perc_y":31.13,
+  "usage_perc_a":56.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"wai,aria",

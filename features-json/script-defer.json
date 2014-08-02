@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/html/attributes/defer",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",
       "title":"MDN article"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/script.js#script-defer",
       "title":"has.js test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/html/attributes/defer",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -195,8 +195,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":80.84,
-  "usage_perc_a":7.49,
+  "usage_perc_y":81.28,
+  "usage_perc_a":7.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
-      "title":"has.js test"
-    },
-    {
       "url":"https://github.com/rmorse/AutoEllipsis",
       "title":"jQuery polyfill for Firefox"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://www.css3files.com/text/",
       "title":"Information page"
+    },
+    {
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/css.js#css-text-overflow",
+      "title":"has.js test"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/properties/text-overflow",
@@ -200,7 +200,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":93.11,
+  "usage_perc_y":93.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

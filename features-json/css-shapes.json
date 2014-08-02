@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://alistapart.com/article/css-shapes-101",
-      "title":"A List Apart article"
+      "url":"http://html.adobe.com/webplatform/layout/shapes/",
+      "title":"Adobe demos and samples"
     },
     {
       "url":"http://html.adobe.com/webplatform/layout/shapes/browser-support/",
       "title":"CSS shapes support test by Adobe"
     },
     {
-      "url":"http://html.adobe.com/webplatform/layout/shapes/",
-      "title":"Adobe demos and samples"
+      "url":"http://alistapart.com/article/css-shapes-101",
+      "title":"A List Apart article"
     }
   ],
   "bugs":[
@@ -192,7 +192,7 @@
   "notes_by_num":{
     "1":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags"
   },
-  "usage_perc_y":0.15,
+  "usage_perc_y":0.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
+      "title":"MDN Documentation for text-decoration-style"
+    },
+    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
       "title":"MDN Documentation for text-decoration-color"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
       "title":"MDN Documentation for text-decoration-line"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
-      "title":"MDN Documentation for text-decoration-style"
     }
   ],
   "bugs":[
@@ -192,7 +192,7 @@
   "notes_by_num":{
     "1":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags"
   },
-  "usage_perc_y":13.86,
+  "usage_perc_y":13.43,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

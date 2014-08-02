@@ -5,14 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://docs.webplatform.org/wiki/apis/websocket",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"http://en.wikipedia.org/wiki/WebSocket",
-      "title":"Wikipedia"
-    },
-    {
       "url":"http://websocket.org/aboutwebsocket.html",
       "title":"WebSockets information"
     },
@@ -21,8 +13,16 @@
       "title":"Details on newer protocol"
     },
     {
+      "url":"http://en.wikipedia.org/wiki/WebSocket",
+      "title":"Wikipedia"
+    },
+    {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-websockets",
       "title":"has.js test"
+    },
+    {
+      "url":"http://docs.webplatform.org/wiki/apis/websocket",
+      "title":"WebPlatform Docs"
     }
   ],
   "bugs":[
@@ -202,8 +202,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":74.78,
-  "usage_perc_a":1.56,
+  "usage_perc_y":75.6,
+  "usage_perc_a":1.48,
   "ucprefix":true,
   "parent":"",
   "keywords":"",

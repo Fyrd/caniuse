@@ -5,16 +5,16 @@
   "status":"cr",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
+      "title":"MDN article"
+    },
+    {
       "url":"http://www.css3files.com/gradient/#repeatinglineargradient",
       "title":"Information page"
     },
     {
       "url":"http://docs.webplatform.org/wiki/css/repeating-linear-gradient",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://developer.mozilla.org/en/CSS/repeating-linear-gradient",
-      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -194,7 +194,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":80.92,
+  "usage_perc_y":81.32,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"css-gradients",
