@@ -19,6 +19,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/dom/DragEvent",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://github.com/MihaiValentin/setDragImage-IE",
+      "title":"Polyfill for setDragImage in IE"
     }
   ],
   "bugs":[
@@ -31,13 +35,13 @@
   ],
   "stats":{
     "ie":{
-      "5.5":"a",
-      "6":"a",
-      "7":"a",
-      "8":"a",
-      "9":"a",
-      "10":"a",
-      "11":"a"
+      "5.5":"a #1",
+      "6":"a #1",
+      "7":"a #1",
+      "8":"a #1",
+      "9":"a #1",
+      "10":"a #2",
+      "11":"a #2"
     },
     "firefox":{
       "2":"p",
@@ -194,9 +198,10 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in older IE refers to no support for the dataTransfer.files or .types objects and limited supported formats for dataTransfer.setData/getData. dataTransfer.items only supported by google chrome. IE has no support for .setDragImage. Firefox supports any kind of DOM elements for .setDragImage. Chrome must have either an HTMLImageElement or any kind of DOM elements attached to the DOM and within the viewport of the browser for .setDragImage.",
+  "notes":"`dataTransfer.items` only supported by Chrome.\r\n\r\nFirefox supports any kind of DOM elements for `.setDragImage`. Chrome must have either an `HTMLImageElement` or any kind of DOM elements attached to the DOM and within the viewport of the browser for `.setDragImage`.",
   "notes_by_num":{
-    
+    "1":"Partial support refers to no support for the `dataTransfer.files` or `.types` objects and limited supported formats for `dataTransfer.setData`/`getData`.",
+    "2":"Partial support refers to not supporting `.setDragImage`"
   },
   "usage_perc_y":52.35,
   "usage_perc_a":17.36,

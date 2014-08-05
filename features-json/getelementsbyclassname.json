@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Safari 3.1 has a caching bug. If the class of an element changes it won't be available for getElementsByClassName."
+    },
+    {
+      "description":"Opera Mobile (Classic) has a caching bug when getElementsByClassName is used while document.readyState is \"loading\""
     }
   ],
   "categories":[
