@@ -1,6 +1,6 @@
 This repo contains raw data from the caniuse.com support tables. It servers two purposes:
 
-1. The ability for anyone interested to update or add to the support data on the site. If you are interested in this, please read [Contributing.md](Contributing.md).
+1. The ability for anyone interested to update or add to the support data on the site. If you are interested in this, please read the [CONTRIBUTING file](CONTRIBUTING.md).
 
 2. Access to the site's data for other projects. For this use the [data.json](data.json) file which includes all support data.
 
