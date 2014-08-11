@@ -1,6 +1,6 @@
 {
   "title":"SVG in HTML img element",
-  "description":"Method of displaying SVG images in HTML using &lt;img>",
+  "description":"Method of displaying SVG images in HTML using <img>",
   "spec":"http://www.w3.org/TR/html5/dom.html#embedded-content",
   "status":"cr",
   "links":[
@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome & Safari may show text using an incorrect font for SVGs with text using &lt;img> (see [WebKit bug 68090](https://bugs.webkit.org/show_bug.cgi?id=68090))"
+      "description":"Chrome & Safari may show text using an incorrect font for SVGs with text using <img> (see [WebKit bug 68090](https://bugs.webkit.org/show_bug.cgi?id=68090))"
     }
   ],
   "categories":[

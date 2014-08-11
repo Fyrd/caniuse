@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari does not appear to support [sticky table headers](http://jsfiddle.net/Mf4YT/2/)."
+    }
   ],
   "categories":[
     "CSS"
@@ -194,8 +196,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "2":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags",
-    "1":"Can be enabled in Firefox by setting the about:config preference layout.css.sticky.enabled to true"
+    "1":"Can be enabled in Firefox by setting the about:config preference layout.css.sticky.enabled to true",
+    "2":"Enabled in Chrome though the \"experimental Web Platform features\" flag in chrome://flags"
   },
   "usage_perc_y":9.12,
   "usage_perc_a":0,

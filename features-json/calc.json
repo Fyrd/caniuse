@@ -26,6 +26,9 @@
     },
     {
       "description":"IE9 appears to ignore `calc()` expressions when `display:table` is used."
+    },
+    {
+      "description":"Safari 6 has a bug where an element with a width defined using `calc()` has its width reset when changing the height using JS (fixed in Safari 7)."
     }
   ],
   "categories":[
