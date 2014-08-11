@@ -1,7 +1,7 @@
 {
   "title":"Picture element",
   "description":"A responsive images method to control which image resource a user agent presents to a user, based on resolution, media query and/or support for a particular image format",
-  "spec":"http://www.w3.org/TR/html-picture-element/",
+  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/embedded-content.html#embedded-content",
   "status":"wd",
   "links":[
     {
@@ -11,10 +11,6 @@
     {
       "url":"http://code.tutsplus.com/tutorials/better-responsive-images-with-the-picture-element--net-36583",
       "title":"Tutorial"
-    },
-    {
-      "url":"http://www.w3.org/TR/html-picture-element/",
-      "title":"Latest RICG <picture> specification"
     },
     {
       "url":"http://usecases.responsiveimages.org/",
