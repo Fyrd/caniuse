@@ -1,4 +1,4 @@
-/* global require,console */
+/* global require,console,__dirname */
 
 /* Node script to validate caniuse feature JSONs */
 (function () {
@@ -19,9 +19,6 @@
         },
         isArray: function (val) {
             return val instanceof Array;
-        },
-        noHTML: function (val) {
-            return val.indexOf('<') === -1;
         },
         isURL: function (val) {
             // Source: https://gist.github.com/dperini/729294
@@ -200,13 +197,13 @@
         };
 
         this.start = function () {
-            this.validate('title', ['isString', 'noHTML']);
+            this.validate('title', ['isString']);
             this.validate('description', ['isString']);
             this.validate('spec', ['isString', 'isURL']);
             this.validate('status', ['isString', 'isStatus']);
             this.validate('links', ['isArray', [{
                         url: ['isString', 'isURL'],
-                        title: ['isString', 'noHTML']
+                        title: ['isString']
             }]]);
             this.validate('bugs', ['isArray', [{
                         description: ['isString']
