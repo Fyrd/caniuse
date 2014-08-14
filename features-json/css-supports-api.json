@@ -10,11 +10,7 @@
     },
     {
       "url":"http://jsbin.com/rimevilotari/1/edit",
-      "title":"Demo(Chinese)"
-    },
-    {
-      "url":"http://status.modern.ie/conditionalrules",
-      "title":"IE Status"
+      "title":"Demo (Chinese)"
     },
     {
       "url":"http://dev.opera.com/articles/native-css-feature-detection/",
@@ -26,7 +22,7 @@
     },
     {
       "url":"http://blog.csdn.net/hfahe/article/details/8619480",
-      "title":"漫谈@supports与CSS3条件规则"
+      "title":"Article (Chinese)"
     }
   ],
   "bugs":[
@@ -67,9 +63,9 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"y d #1",
-      "21":"y d #1",
-      "22":"y d #1",
+      "20":"y d",
+      "21":"y d",
+      "22":"y d",
       "23":"y",
       "24":"y",
       "25":"y",
@@ -201,16 +197,14 @@
       "10":"n"
     }
   },
-  "notes":"",
+  "notes":"See the [WebKit Bug](http://trac.webkit.org/changeset/142739) for status in Safari",
   "notes_by_num":{
-    "1":"Gecko 20-22 supported this feature only if the user enables it by setting the config value layout.css.supports-rule.enabled to true[Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=779917).",
-    "2":"Opera uses a different method name('window.supportsCSS')",
-    "3":"[WebKit Bug](http://trac.webkit.org/changeset/142739)"
+    "1":"Opera 12 uses a different method name('window.supportsCSS')"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"supports,CSS.supports(),conditional",
-  "shown":true
+  "keywords":"conditional",
+  "shown":false
 }
