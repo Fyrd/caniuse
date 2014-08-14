@@ -13,14 +13,6 @@
       "title":"MSDN Docs"
     },
     {
-      "url":"http://www.chromestatus.com/features/5912074022551552",
-      "title":"Chrome Status"
-    },
-    {
-      "url":"http://status.modern.ie/csstouchaction",
-      "title":"IE Status"
-    },
-    {
       "url":"http://updates.html5rocks.com/2013/12/300ms-tap-delay-gone-away",
       "title":"300ms tap delay, gone away"
     },
@@ -206,13 +198,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `layout.css.touch_action.enabled` flag,Firefox for Windows 8 Touch ('Metro') enabled by default.",
+    "1":"Supported in Firefox behind the `layout.css.touch_action.enabled` flag, Firefox for Windows 8 Touch ('Metro') enabled by default.",
     "2":"IE10+ has already supported these property which are not in standard at present such as'pinch-zoom','double-tap-zoom','cross-slide-x','cross-slide-y'."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"touch-action,touch action",
+  "keywords":"touch action",
   "shown":true
 }
