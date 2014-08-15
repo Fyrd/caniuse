@@ -63,9 +63,9 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"y d",
-      "21":"y d",
-      "22":"y d",
+      "20":"n d",
+      "21":"n d",
+      "22":"n d",
       "23":"y",
       "24":"y",
       "25":"y",
@@ -171,8 +171,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n",
-      "4.4.3":"n"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"n",
@@ -197,14 +197,14 @@
       "10":"n"
     }
   },
-  "notes":"See the [WebKit Bug](http://trac.webkit.org/changeset/142739) for status in Safari",
+  "notes":"See also [@supports in CSS](#feat=css-featurequeries)\r\n\r\nSee the [WebKit Bug](http://trac.webkit.org/changeset/142739) for status in Safari",
   "notes_by_num":{
     "1":"Opera 12 uses a different method name('window.supportsCSS')"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":52.88,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"conditional",
-  "shown":false
+  "shown":true
 }

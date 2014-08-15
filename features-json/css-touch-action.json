@@ -157,7 +157,7 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"u"
+      "8":"n"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -170,8 +170,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n",
-      "4.4.3":"u"
+      "4.4":"y",
+      "4.4.3":"y"
     },
     "bb":{
       "7":"n",
@@ -193,7 +193,7 @@
       "31":"n"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"y x"
     }
   },
   "notes":"",
@@ -201,7 +201,7 @@
     "1":"Supported in Firefox behind the `layout.css.touch_action.enabled` flag, Firefox for Windows 8 Touch ('Metro') enabled by default.",
     "2":"IE10+ has already supported these property which are not in standard at present such as'pinch-zoom','double-tap-zoom','cross-slide-x','cross-slide-y'."
   },
-  "usage_perc_y":0,
+  "usage_perc_y":28.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
