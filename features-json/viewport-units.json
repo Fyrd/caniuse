@@ -26,7 +26,7 @@
       "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in calc() until version 34."
     },
     {
-      "description":"iOS Safari (both 6 and 7) does not support viewport units for border widths, column gaps, transform values, box shadows or in calc()."
+      "description":"Safari & iOS Safari (both 6 and 7) does not support viewport units for border widths, column gaps, transform values, box shadows or in calc()."
     },
     {
       "description":"iOS 7 Safari sets viewport unit values to 0 if the page has been left and is returned to after 60 seconds."
