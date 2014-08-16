@@ -59,6 +59,8 @@ Currently the following feature information can be modified:
 * **ucprefix** — Prefix should start with an uppercase letter
 * **parent** — ID of parent feature
 * **keywords** — Comma separated words that will match the feature in a search
+* **ie_id** — Comma separated IDs used by [status.modern.ie](http://status.modern.ie) - Each ID is the string in the feature's URL 
+* **chrome_id** — Comma separated IDs used by [chromestatus.com](http://chromestatus.com) - Each ID is the number in the feature's URL 
 * **shown** — Whether or not feature is ready to be shown on the site. This can be left as false if the support data or information for other fields is still being collected
 
 ### Adding a feature
