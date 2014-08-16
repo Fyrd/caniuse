@@ -215,6 +215,8 @@
             this.validate('ucprefix', ['isBoolean']);
             this.validate('parent', ['isString']); // TODO: Check if existing feature
             this.validate('keywords', ['isString']);
+            this.validate('ie_id', ['isString']);
+            this.validate('chrome_id', ['isString']);
             this.validate('shown', ['isBoolean']);
             this.validateSupportData();
         };
