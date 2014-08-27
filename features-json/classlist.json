@@ -27,9 +27,6 @@
   ],
   "bugs":[
     {
-      "description":"IE does not support `classList` for SVG elements"
-    },
-    {
       "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) do not have support for `classList` on SVG elements. A polyfill script is available."
     }
   ],
@@ -120,7 +117,8 @@
       "36":"y",
       "37":"y",
       "38":"y",
-      "39":"y"
+      "39":"y",
+      "40":"y"
     },
     "safari":{
       "3.1":"p",
