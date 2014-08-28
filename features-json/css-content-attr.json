@@ -1,6 +1,6 @@
 {
   "title":"CSS attr()",
-  "description":"Method of allowing to retrieve value of attribute of element and use it in stylesheet.",
+  "description":"Method of using the value of an element's attribute in CSS generated content.",
   "spec":"http://www.w3.org/TR/CSS2/generate.html#x18",
   "status":"rec",
   "links":[
@@ -19,9 +19,7 @@
     }
   ],
   "categories":[
-    "CSS",
-    "CSS2",
-    "CSS3"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -106,7 +104,8 @@
       "36":"y",
       "37":"y",
       "38":"y",
-      "39":"y"
+      "39":"y",
+      "40":"y"
     },
     "safari":{
       "3.1":"y",
@@ -153,7 +152,7 @@
       "8":"y"
     },
     "op_mini":{
-      "5.0-7.0":"u"
+      "5.0-7.0":"y"
     },
     "android":{
       "2.1":"y",
@@ -167,8 +166,8 @@
       "4.4.3":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"y",
+      "10":"y"
     },
     "op_mob":{
       "10":"y",
@@ -195,8 +194,8 @@
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"parentfeatureid",
-  "keywords":"example,keywords",
+  "parent":"css-gencontent",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"",
   "shown":false
