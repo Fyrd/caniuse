@@ -78,7 +78,8 @@
       "31":"y",
       "32":"y",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "chrome":{
       "4":"y",
@@ -152,7 +153,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -205,8 +207,8 @@
     "1":"Partial support refers to no support for the `dataTransfer.files` or `.types` objects and limited supported formats for `dataTransfer.setData`/`getData`.",
     "2":"Partial support refers to not supporting `.setDragImage`"
   },
-  "usage_perc_y":52.35,
-  "usage_perc_a":17.36,
+  "usage_perc_y":52.51,
+  "usage_perc_a":16.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",
