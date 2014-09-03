@@ -1,6 +1,6 @@
 {
   "title":"DOMContentLoaded",
-  "description":"JavaScript event, fired when the dom is loaded, but not yet stylesheets or images",
+  "description":"JavaScript event that fires when the DOM is loaded, but before all page assets are loaded (CSS, images, etc.).",
   "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/the-end.html",
   "status":"other",
   "links":[
