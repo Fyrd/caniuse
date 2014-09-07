@@ -5,27 +5,27 @@
   "status":"cr",
   "links":[
     {
-      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
-      "title": "MDN: unicode-range"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
+      "title":"MDN: unicode-range"
     },
     {
-      "url": "https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/css/property/unicode-range",
-      "title": "Safari CSS Reference: unicode-range"
+      "url":"https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/css/property/unicode-range",
+      "title":"Safari CSS Reference: unicode-range"
     },
     {
-      "url": "http://docs.webplatform.org/wiki/css/properties/unicode-range",
-      "title": "Web Platform Docs: unicode-range"
+      "url":"http://docs.webplatform.org/wiki/css/properties/unicode-range",
+      "title":"Web Platform Docs: unicode-range"
     }
   ],
   "bugs":[
     {
-      "description": "IE downloads all fonts, [regardless of specified ranges](https://connect.microsoft.com/IE/feedback/details/789754/css-font-face-unicode-range-should-be-used-to-avoid-unnecessary-downloads)."
+      "description":"IE downloads all fonts, [regardless of specified ranges](https://connect.microsoft.com/IE/feedback/details/789754/css-font-face-unicode-range-should-be-used-to-avoid-unnecessary-downloads)."
     },
     {
-      "description": "Safari downloads all fonts, [regardless of specified ranges](https://bugs.webkit.org/show_bug.cgi?id=42154)."
+      "description":"Safari downloads all fonts, [regardless of specified ranges](https://bugs.webkit.org/show_bug.cgi?id=42154)."
     },
     {
-      "description": "Firefox [ignores the descriptor](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range#Browser_compatibility) and the at-rule is then applied to the whole range of code points."
+      "description":"Firefox [ignores the descriptor](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range#Browser_compatibility) and the at-rule is then applied to the whole range of code points."
     }
   ],
   "categories":[
@@ -202,14 +202,14 @@
   },
   "notes":"Partial support indicates that unnecessary code-ranges are downloaded by the browser - see [browser test matrix](https://docs.google.com/a/chromium.org/spreadsheets/d/18h-1gaosu4-KYxH8JUNL6ZDuOsOKmWfauoai3CS3hPY/edit?pli=1#gid=0).",
   "notes_by_num":{
-
+    
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":35.29,
+  "usage_perc_a":36.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face, unicode, unicode-range",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }

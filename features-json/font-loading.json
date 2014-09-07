@@ -4,7 +4,10 @@
   "spec":"http://dev.w3.org/csswg/css-font-loading/",
   "status":"cr",
   "links":[
-
+    {
+      "url":"https://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/#font-load-events",
+      "title":"Optimizing with font load events"
+    }
   ],
   "bugs":[
     {
@@ -189,13 +192,13 @@
   },
   "notes":"",
   "notes_by_num":{
-
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":37.19,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"font,font face",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"6244676289953792",
   "shown":true
