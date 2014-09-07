@@ -28,6 +28,9 @@
   "bugs":[
     {
       "description":"Some configurations of Linux (those without WebGL support) have trouble with 3D transforms and will treat them as if \"perspective\" was set as \"none\" using Chrome."
+    },
+    {
+      "description":"Firefox on Windows [incorrectly renders plugin content within no-op 3D transforms](https://bugzilla.mozilla.org/show_bug.cgi?id=1048279)."
     }
   ],
   "categories":[
