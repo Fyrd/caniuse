@@ -30,6 +30,9 @@
     },
     {
       "description":"Safari 5.1 does not support the adjacent selector if the adjacent element is a \"nav\" element."
+    },
+    {
+      "description":"IE8-11 [does not update an element's :hover status when scrolling without moving the pointer](https://connect.microsoft.com/IE/feedback/details/926665/ie-11-hovering-over-an-element-and-then-scrolling-without-moving-the-mouse-pointer-leaves-the-element-in-hover-state)."
     }
   ],
   "categories":[
