@@ -11,6 +11,10 @@
     {
       "url":"http://www.slideshare.net/Channy/the-history-and-status-of-web-crypto-api",
       "title":"The History and Status of Web Crypto API"
+    },
+    {
+      "url":"http://research.microsoft.com/en-us/projects/msrjscrypto/",
+      "title":"Microsoft Research JavaScript Cryptography Library"
     }
   ],
   "bugs":[
@@ -63,10 +67,10 @@
       "29":"p",
       "30":"p",
       "31":"p",
-      "32":"p",
-      "33":"p",
-      "34":"p",
-      "35":"p"
+      "32":"d",
+      "33":"d",
+      "34":"y",
+      "35":"y"
     },
     "chrome":{
       "4":"p",
@@ -139,9 +143,9 @@
       "21":"p",
       "22":"p",
       "23":"p",
-      "24":"p",
-      "25":"p",
-      "26":"p"
+      "24":"y",
+      "25":"y",
+      "26":"y"
     },
     "ios_saf":{
       "3.2":"p",
