@@ -94,10 +94,10 @@
       "31":"n",
       "32":"n",
       "33":"n",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
+      "34":"a #2",
+      "35":"a #2",
+      "36":"a #2",
+      "37":"a #2",
       "38":"y",
       "39":"y",
       "40":"y"
@@ -111,7 +111,7 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "8":"y"
+      "8":"a #2"
     },
     "opera":{
       "9":"n",
@@ -134,7 +134,7 @@
       "21":"y",
       "22":"y",
       "23":"y",
-      "24":"y",
+      "24":"a #2",
       "25":"y",
       "26":"y"
     },
@@ -184,9 +184,9 @@
       "10":"n"
     }
   },
-  "notes":"This covers the stand-alone `srcset` syntax for resolution switching, not the expanded syntax to be used in concert with `sizes`.",
   "notes_by_num":{
-    "1":"Can be enabled in Firefox by setting the about:config preference dom.image.srcset.enabled to true"
+    "1":"Can be enabled in Firefox by setting the about:config preference dom.image.srcset.enabled to true",
+    "2":"Supports the subset of the syntax for resolution switching (using the `x` modifier), but not the full syntax that can be used with `sizes` (using the `w` modifier)."
   },
   "usage_perc_y":37.92,
   "usage_perc_a":0,
