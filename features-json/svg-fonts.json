@@ -102,9 +102,9 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y"
+      "38":"a #1",
+      "39":"a #1",
+      "40":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -152,7 +152,7 @@
       "8":"y"
     },
     "op_mini":{
-      "5.0-7.0":"n"
+      "5.0-7.0":"n #2"
     },
     "android":{
       "2.1":"n",
@@ -188,9 +188,10 @@
       "10":"n"
     }
   },
-  "notes":"Supported in Opera Mini in SVG images only, not in HTML.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1": "Chrome 38 and newer support SVG fonts only on Windows Vista and XP. The feature is considered deprecated.",
+    "2": "Supported in Opera Mini in SVG images only, not in HTML."
   },
   "usage_perc_y":58.69,
   "usage_perc_a":0,
@@ -198,6 +199,6 @@
   "parent":"fontface",
   "keywords":"",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5930075908210688",
   "shown":true
 }
