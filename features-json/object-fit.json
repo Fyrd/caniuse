@@ -153,7 +153,7 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"n"
+      "8":"a #1"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -194,7 +194,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in iOS 8 refers to support for `object-fit` but not `object-position`."
   },
   "usage_perc_y":40.04,
   "usage_perc_a":0,

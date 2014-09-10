@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"For the ID syntax, Chrome, Opera, and Safari require the ID to be set on a `view` element."
+    }
   ],
   "categories":[
     "SVG"
@@ -111,7 +113,7 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "8":"a"
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -145,7 +147,7 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"a"
+      "8":"y"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -184,12 +186,12 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in Safari refers to supporting viewBox dimensions but not a view ID.",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":58.24,
-  "usage_perc_a":0.03,
+  "usage_perc_y":58.27,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"fragments,sprite",
