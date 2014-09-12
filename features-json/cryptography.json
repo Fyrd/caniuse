@@ -11,6 +11,10 @@
     {
       "url":"http://www.slideshare.net/Channy/the-history-and-status-of-web-crypto-api",
       "title":"The History and Status of Web Crypto API"
+    },
+    {
+      "url":"http://research.microsoft.com/en-us/projects/msrjscrypto/",
+      "title":"Microsoft Research JavaScript Cryptography Library"
     }
   ],
   "bugs":[
@@ -63,10 +67,10 @@
       "29":"p",
       "30":"p",
       "31":"p",
-      "32":"p",
-      "33":"p",
-      "34":"p",
-      "35":"p"
+      "32":"n d #2",
+      "33":"n d #2",
+      "34":"y",
+      "35":"y"
     },
     "chrome":{
       "4":"p",
@@ -139,9 +143,9 @@
       "21":"p",
       "22":"p",
       "23":"p",
-      "24":"p",
-      "25":"p",
-      "26":"p"
+      "24":"y",
+      "25":"y",
+      "26":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -191,7 +195,8 @@
   },
   "notes":"Many browsers support the `[crypto.getRandomValues()](#feat=getrandomvalues)` method, but not actual cryptography functionality under `crypto.subtle`. \r\n\r\nAs the specification is currently still in development, users may be better off using polyfills or libraries like [PolyCrypt](http://polycrypt.net/). \r\n\r\nFirefox also has support for [unofficial features](https://developer.mozilla.org/en-US/docs/JavaScript_crypto).",
   "notes_by_num":{
-    "1":"Support in IE11 is based an older version of the specification. "
+    "1":"Support in IE11 is based an older version of the specification. ",
+    "2":"Supported in Firefox behind the `dom.webcrypto.enabled` flag. "
   },
   "usage_perc_y":8.05,
   "usage_perc_a":7.23,
