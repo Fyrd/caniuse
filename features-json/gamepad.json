@@ -1,27 +1,27 @@
 {
-  "title":"Toolbar/context menu",
-  "description":"Method of defining a toolbar menu, a context menu or a list of (interactive) options using the <menu> element.",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/interactive-elements.html#the-menuitem-element",
-  "status":"cr",
+  "title":"Gamepad API",
+  "description":"API to support input from USB gamepad controllers though JavaScript.",
+  "spec":"http://www.w3.org/TR/gamepad/",
+  "status":"wd",
   "links":[
     {
-      "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
-      "title":"Demo"
+      "url":"http://luser.github.io/gamepadtest/",
+      "title":"Controller demo"
     },
     {
-      "url":"http://addyosmani.github.com/jQuery-contextMenu/",
-      "title":"jQuery polyfill"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API",
+      "title":"MDN article"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/events.js#event-contextmenu",
-      "title":"has.js test"
+      "url":"http://www.html5rocks.com/en/tutorials/doodles/gamepad/",
+      "title":"HTML5Rocks article"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -38,40 +38,6 @@
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"n",
-      "5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"a",
-      "9":"a",
-      "10":"a",
-      "11":"a",
-      "12":"a",
-      "13":"a",
-      "14":"a",
-      "15":"a",
-      "16":"a",
-      "17":"a",
-      "18":"a",
-      "19":"a",
-      "20":"a",
-      "21":"a",
-      "22":"a",
-      "23":"a",
-      "24":"a",
-      "25":"a",
-      "26":"a",
-      "27":"a",
-      "28":"a",
-      "29":"a",
-      "30":"a",
-      "31":"a",
-      "32":"a",
-      "33":"a",
-      "34":"a",
-      "35":"a"
-    },
-    "chrome":{
       "4":"n",
       "5":"n",
       "6":"n",
@@ -97,18 +63,52 @@
       "26":"n",
       "27":"n",
       "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y",
+      "26":"y",
+      "27":"y",
+      "28":"y",
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y"
     },
     "safari":{
       "3.1":"n",
@@ -142,9 +142,9 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n"
+      "24":"y",
+      "25":"y",
+      "26":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -192,16 +192,16 @@
       "10":"n"
     }
   },
-  "notes":"Partial support in Firefox refers to being limited to context menus, not toolbar menus.",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":0,
-  "usage_perc_a":13.09,
+  "usage_perc_y":45.13,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"contextmenu,menuitem,command",
-  "ie_id":"",
-  "chrome_id":"",
+  "keywords":"",
+  "ie_id":"gamepadapi",
+  "chrome_id":"5118776383111168",
   "shown":true
 }
