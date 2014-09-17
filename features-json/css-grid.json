@@ -34,8 +34,8 @@
       "7":"n",
       "8":"n",
       "9":"p",
-      "10":"y x",
-      "11":"y x"
+      "10":"a x #2",
+      "11":"a x #2"
     },
     "firefox":{
       "2":"n",
@@ -193,15 +193,16 @@
       "32":"n"
     },
     "ie_mob":{
-      "10":"y x"
+      "10":"a x #2"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification."
   },
-  "usage_perc_y":10.07,
-  "usage_perc_a":0,
+  "usage_perc_y":0,
+  "usage_perc_a":10.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"grids,grid-row,grid-column",
