@@ -1,16 +1,16 @@
 {
-  "title":"CSS will-change property",
-  "description":"Method of optimizing animations by informing the browser which elements will change and what properties will change.",
-  "spec":"http://www.w3.org/TR/css-will-change-1/",
-  "status":"wd",
+  "title":"CSS font-size-adjust",
+  "description":"Method of adjusting the font size in a matter that relates to the height of lowercase vs. uppercase letters. This makes it easier to set the size of fallback fonts.",
+  "spec":"http://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop",
+  "status":"cr",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/css-will-change-property/",
-      "title":"Detailed article"
+      "url":"http://webdesignernotebook.com/css/the-little-known-font-size-adjust-css3-property/",
+      "title":"Article on font-size-adjust"
     },
     {
-      "url":"http://aerotwist.com/blog/bye-bye-layer-hacks/",
-      "title":"Blog post"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust",
+      "title":"MDN article on font-size-adjust"
     }
   ],
   "bugs":[
@@ -31,41 +31,41 @@
     },
     "firefox":{
       "2":"n",
-      "3":"n",
-      "3.5":"n",
-      "3.6":"n",
-      "4":"n",
-      "5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"n",
-      "9":"n",
-      "10":"n",
-      "11":"n",
-      "12":"n",
-      "13":"n",
-      "14":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n d #1",
-      "30":"n d #1",
-      "31":"n d #1",
-      "32":"n d #1",
-      "33":"n d #1",
-      "34":"n d #1",
-      "35":"n d #1"
+      "3":"y",
+      "3.5":"y",
+      "3.6":"y",
+      "4":"y",
+      "5":"y",
+      "6":"y",
+      "7":"y",
+      "8":"y",
+      "9":"y",
+      "10":"y",
+      "11":"y",
+      "12":"y",
+      "13":"y",
+      "14":"y",
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y",
+      "24":"y",
+      "25":"y",
+      "26":"y",
+      "27":"y",
+      "28":"y",
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y"
     },
     "chrome":{
       "4":"n",
@@ -100,11 +100,11 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y"
+      "36":"n",
+      "37":"n",
+      "38":"u",
+      "39":"u",
+      "40":"u"
     },
     "safari":{
       "3.1":"n",
@@ -138,9 +138,9 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"y",
-      "25":"y",
-      "26":"y"
+      "24":"n",
+      "25":"u",
+      "26":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -188,16 +188,16 @@
       "10":"n"
     }
   },
-  "notes":"",
+  "notes":"Does not appear to work on Firefox mobile, despite recognition of the property.",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `layout.css.will-change.enabled` flag"
+    
   },
-  "usage_perc_y":27.83,
+  "usage_perc_y":13.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"scroll-position",
-  "ie_id":"csswillchange",
-  "chrome_id":"5954199330226176",
-  "shown":true
+  "keywords":"",
+  "ie_id":"",
+  "chrome_id":"",
+  "shown":false
 }
