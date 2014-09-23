@@ -1,6 +1,6 @@
 {
   "title":"High Resolution Time API",
-  "description":"Method to provide the current time in sub-millisecond resolution and such that it is not subject to system clock skew or adjustments. Called using performance.now()",
+  "description":"Method to provide the current time in sub-millisecond resolution and such that it is not subject to system clock skew or adjustments. Called using `performance.now()`",
   "spec":"http://www.w3.org/TR/hr-time/",
   "status":"rec",
   "links":[
@@ -125,7 +125,8 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "8":"y"
+      "7.1":"n",
+      "8":"n"
     },
     "opera":{
       "9":"n",
@@ -202,7 +203,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":65.85,
+  "usage_perc_y":65.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -116,12 +116,13 @@
       "3.1":"a",
       "3.2":"a",
       "4":"a",
-      "5":"y",
-      "5.1":"y",
+      "5":"a",
+      "5.1":"a",
       "6":"a",
       "6.1":"a",
-      "7":"a",
-      "8":"a"
+      "7":"y",
+      "7.1":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -150,10 +151,10 @@
     },
     "ios_saf":{
       "3.2":"a",
-      "4.0-4.1":"y",
-      "4.2-4.3":"y",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
+      "4.0-4.1":"a",
+      "4.2-4.3":"a",
+      "5.0-5.1":"a",
+      "6.0-6.1":"a",
       "7.0-7.1":"y",
       "8":"y"
     },
@@ -194,12 +195,12 @@
       "10":"y"
     }
   },
-  "notes":"Partial support in Opera Mini refers to not supporting background sizing or background attachments. However Opera Mini 7.5 supports background sizing (including cover and contain values). Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
+  "notes":"Partial support in Opera Mini refers to not supporting background sizing or background attachments. However Opera Mini 7.5 supports background sizing (including cover and contain values).\r\n\r\nPartial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":82.85,
-  "usage_perc_a":6.14,
+  "usage_perc_y":83.44,
+  "usage_perc_a":5.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

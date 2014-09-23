@@ -119,7 +119,8 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "8":"u"
+      "7.1":"a x #2",
+      "8":"a x #2"
     },
     "opera":{
       "9":"n",
@@ -195,10 +196,10 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
-    "2":"Partial support in iOS 8 refers to not supporting the text-decoration-style property."
+    "2":"Partial support in Safari refers to not supporting the text-decoration-style property."
   },
   "usage_perc_y":13.26,
-  "usage_perc_a":0,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color",

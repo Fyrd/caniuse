@@ -27,16 +27,16 @@
   ],
   "bugs":[
     {
-      "description":"Safari does not apply border-radius correctly to image borders: http://stackoverflow.com/q/17202128"
+      "description":"Safari does not apply `border-radius` correctly to image borders: http://stackoverflow.com/q/17202128"
     },
     {
-      "description":"Android Browser 2.3 does not support % value for border-radius."
+      "description":"Android Browser 2.3 does not support % value for `border-radius`."
     },
     {
       "description":"Border-radius does not work on fieldset elements in IE9."
     },
     {
-      "description":"The stock browser on the Samsung Galaxy S4 with Android 4.2 does not support the \"border-radius\" shorthand property but does support the long-hand properties for each corner like \"border-top-left-radius\"."
+      "description":"The stock browser on the Samsung Galaxy S4 with Android 4.2 does not support the `border-radius` shorthand property but does support the long-hand properties for each corner like `border-top-left-radius`."
     }
   ],
   "categories":[
@@ -138,6 +138,7 @@
       "6":"y",
       "6.1":"y",
       "7":"y",
+      "7.1":"y",
       "8":"y"
     },
     "opera":{

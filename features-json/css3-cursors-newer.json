@@ -1,6 +1,6 @@
 {
   "title":"CSS3 Cursors (new values)",
-  "description":"Support for zoom-in and zoom-out values for the CSS3 cursor property.",
+  "description":"Support for `zoom-in` and `zoom-out` values for the CSS3 `cursor` property.",
   "spec":"http://www.w3.org/TR/css3-ui/#cursor",
   "status":"wd",
   "links":[
@@ -97,10 +97,10 @@
       "34":"y x",
       "35":"y x",
       "36":"y x",
-      "37":"y x",
-      "38":"y x",
-      "39":"y x",
-      "40":"y x"
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -111,6 +111,7 @@
       "6":"y x",
       "6.1":"y x",
       "7":"y x",
+      "7.1":"y x",
       "8":"y x"
     },
     "opera":{
@@ -134,9 +135,9 @@
       "21":"y x",
       "22":"y x",
       "23":"y x",
-      "24":"y x",
-      "25":"y x",
-      "26":"y x"
+      "24":"y",
+      "25":"y",
+      "26":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -184,7 +185,7 @@
       "10":"n"
     }
   },
-  "notes":"Chrome, Safari and Firefox also support the unofficial 'grab' and 'grabbing' values (with prefix)",
+  "notes":"Chrome, Safari and Firefox also support the unofficial `grab` and `grabbing` values (with prefix)",
   "notes_by_num":{
     
   },
@@ -195,5 +196,5 @@
   "keywords":"cursors, pointers",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
