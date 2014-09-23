@@ -23,6 +23,9 @@
     },
     {
       "description":"iOS 6.1 and below do not support animation on pseudo-elements."
+    },
+    {
+      "description":"@keyframes not supported in an inline or scoped stylesheet in Firefox (bug 830056)"
     }
   ],
   "categories":[
