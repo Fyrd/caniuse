@@ -1,6 +1,6 @@
 {
   "title":"IndexedDB",
-  "description":"Method of storing data client-side, allows indexed database queries. Previously known as WebSimpleDB API.",
+  "description":"Method of storing data client-side, allows indexed database queries.",
   "spec":"http://www.w3.org/TR/IndexedDB/",
   "status":"cr",
   "links":[
@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Firefox and Safari currently do not support IndexedDB inside web workers."
+    }
   ],
   "categories":[
     "JS API"

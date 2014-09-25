@@ -152,7 +152,7 @@
       "5.0-5.1":"n",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
-      "8":"y"
+      "8":"a"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -191,7 +191,7 @@
       "10":"y"
     }
   },
-  "notes":"",
+  "notes":"Partial support in iOS 8 due to [a number of new bugs](http://blog.fineuploader.com/2014/09/10/ios8-presents-serious-issues-that-prevent-file-uploading/).",
   "notes_by_num":{
     
   },
