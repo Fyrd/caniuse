@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Does not work on `select` elements work in Chrome and IE, only Firefox."
+    }
   ],
   "categories":[
     "CSS3"
