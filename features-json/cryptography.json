@@ -192,6 +192,9 @@
     },
     "ie_mob":{
       "10":"p"
+    },
+    "and_uc":{
+      "9.9":"p"
     }
   },
   "notes":"Many browsers support the `[crypto.getRandomValues()](#feat=getrandomvalues)` method, but not actual cryptography functionality under `crypto.subtle`. \r\n\r\nAs the specification is currently still in development, users may be better off using polyfills or libraries like [PolyCrypt](http://polycrypt.net/). \r\n\r\nFirefox also has support for [unofficial features](https://developer.mozilla.org/en-US/docs/JavaScript_crypto).",

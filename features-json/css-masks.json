@@ -191,6 +191,9 @@
     },
     "ie_mob":{
       "10":"n"
+    },
+    "and_uc":{
+      "9.9":"a x"
     }
   },
   "notes":"Partial support in WebKit/Blink browsers refers to supporting the mask-image and mask-box-image properties, but lacks support for othe parts of the spec. Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo).",
@@ -198,7 +201,7 @@
     
   },
   "usage_perc_y":0,
-  "usage_perc_a":72.66,
+  "usage_perc_a":75.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

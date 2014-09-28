@@ -199,13 +199,16 @@
     },
     "ie_mob":{
       "10":"p"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":52.35,
+  "usage_perc_y":55.51,
   "usage_perc_a":10.02,
   "ucprefix":false,
   "parent":"video",

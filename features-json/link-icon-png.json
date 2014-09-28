@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE 11 [lost the support](https://connect.microsoft.com/IE/feedbackdetail/view/800076/internet-explorer-11-lost-support-for-non-rgb-a-png-format-images-inside-favicon-ico) for non-RGB/a PNG format images inside FavIcon.ico, does work in IE 10."
+    }
   ],
   "categories":[
     "HTML5"
@@ -183,6 +185,9 @@
     },
     "ie_mob":{
       "10":"n #4"
+    },
+    "and_uc":{
+      "9.9":"y #2"
     }
   },
   "notes":"Win8/IE10+ and iOS Safari support other types of icons for webpages too, using alternate tags.\r\n\r\nSee also [SVG favicons](#feat=link-icon-svg).",
@@ -192,7 +197,7 @@
     "3":"If multiple formats are available, will use the last one loaded, regardless of sizes (effectively picks at random).",
     "4":"Does not use favicons at all (but may have alternative for bookmarks, etc)"
   },
-  "usage_perc_y":73.44,
+  "usage_perc_y":76.6,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

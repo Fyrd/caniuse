@@ -183,6 +183,9 @@
     },
     "ie_mob":{
       "10":"a"
+    },
+    "and_uc":{
+      "9.9":"a"
     }
   },
   "notes":"The partial support in mobile browsers results from their OS generally having built-in spell checking instead of using the wavy underline to indicate misspelled words. `spellcheck=\"false\"` does not seem to have any effect in these browsers.",
@@ -190,7 +193,7 @@
     
   },
   "usage_perc_y":61.44,
-  "usage_perc_a":24.81,
+  "usage_perc_a":27.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"spelling",

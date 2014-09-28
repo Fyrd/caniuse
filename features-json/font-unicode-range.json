@@ -199,6 +199,9 @@
     },
     "ie_mob":{
       "10":"a"
+    },
+    "and_uc":{
+      "9.9":"a"
     }
   },
   "notes":"Partial support indicates that unnecessary code-ranges are downloaded by the browser - see [browser test matrix](https://docs.google.com/a/chromium.org/spreadsheets/d/18h-1gaosu4-KYxH8JUNL6ZDuOsOKmWfauoai3CS3hPY/edit?pli=1#gid=0).",
@@ -206,7 +209,7 @@
     
   },
   "usage_perc_y":35.29,
-  "usage_perc_a":36.48,
+  "usage_perc_a":39.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face,unicode,unicode-range",

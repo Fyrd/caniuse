@@ -193,6 +193,9 @@
     },
     "ie_mob":{
       "10":"n"
+    },
+    "and_uc":{
+      "9.9":"n"
     }
   },
   "notes":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property. Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data.",

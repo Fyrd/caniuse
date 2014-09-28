@@ -191,13 +191,16 @@
     },
     "ie_mob":{
       "10":"a x"
+    },
+    "and_uc":{
+      "9.9":"y x"
     }
   },
   "notes":"Support in IE10 and IE11 is limited to using an iframe as a content source with the `-ms-flow-into: flow_name;` and `-ms-flow-from: flow_name;` syntax. ",
   "notes_by_num":{
     
   },
-  "usage_perc_y":8.8,
+  "usage_perc_y":11.97,
   "usage_perc_a":10.2,
   "ucprefix":false,
   "parent":"",

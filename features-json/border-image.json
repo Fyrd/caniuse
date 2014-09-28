@@ -187,13 +187,16 @@
     },
     "ie_mob":{
       "10":"n"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Note that both the border-style and border-width must be specified for border-images to work according to spec, though older implementations may not have this requirement. Partial support refers to supporting the shorthand syntax, but not the individual properties (border-image-source, border-image-slice, etc). ",
   "notes_by_num":{
     
   },
-  "usage_perc_y":72.55,
+  "usage_perc_y":75.71,
   "usage_perc_a":7.79,
   "ucprefix":false,
   "parent":"",

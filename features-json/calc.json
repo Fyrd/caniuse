@@ -202,6 +202,9 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"n"
     }
   },
   "notes":"Support can be somewhat emulated in older versions of IE using the non-standard `expression()` syntax. Partial support in IE9 refers to the browser crashing when used as a `background-position` value.",

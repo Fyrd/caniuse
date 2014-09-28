@@ -210,6 +210,9 @@
     },
     "ie_mob":{
       "10":"a"
+    },
+    "and_uc":{
+      "9.9":"a"
     }
   },
   "notes":"Partial support refers to supporting only the `content-box` and `border-box` values, not `padding-box` (which was added to the spec later).",
@@ -217,7 +220,7 @@
     
   },
   "usage_perc_y":13.52,
-  "usage_perc_a":79.28,
+  "usage_perc_a":82.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-box,content-box,padding-box",

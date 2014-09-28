@@ -205,13 +205,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Currently all Android browsers with partial support hide the slider input field by default. However, the element [can be styled](http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/) to be made visible and usable.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":78.37,
+  "usage_perc_y":81.53,
   "usage_perc_a":3.52,
   "ucprefix":false,
   "parent":"forms",

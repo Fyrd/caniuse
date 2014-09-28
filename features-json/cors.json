@@ -203,13 +203,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has [limitations]( http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx))",
   "notes_by_num":{
     
   },
-  "usage_perc_y":83.1,
+  "usage_perc_y":86.27,
   "usage_perc_a":6.18,
   "ucprefix":false,
   "parent":"",

@@ -196,13 +196,16 @@
     },
     "ie_mob":{
       "10":"n"
+    },
+    "and_uc":{
+      "9.9":"y x"
     }
   },
   "notes":"Note that this property is significantly different from and incompatible with Microsoft's [older \"filter\" property](http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx).\r\n\r\nPartial support in Firefox 31 [only with url() version](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility)",
   "notes_by_num":{
     
   },
-  "usage_perc_y":52.34,
+  "usage_perc_y":55.51,
   "usage_perc_a":13.31,
   "ucprefix":false,
   "parent":"",

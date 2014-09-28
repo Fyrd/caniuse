@@ -189,13 +189,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Partial support in iOS 8 due to [a number of new bugs](http://blog.fineuploader.com/2014/09/10/ios8-presents-serious-issues-that-prevent-file-uploading/).",
   "notes_by_num":{
     
   },
-  "usage_perc_y":81.08,
+  "usage_perc_y":84.25,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fileapi",

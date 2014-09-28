@@ -195,13 +195,16 @@
     },
     "ie_mob":{
       "10":"a"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Support in Internet Explorer 8 is limited to images and linked resources like CSS files, not HTML files. Max URI length in IE8 is 32KB. In IE9+ JavaScript files are supported too and the maximum size limit set to 4GB.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":76.56,
+  "usage_perc_y":79.72,
   "usage_perc_a":16.25,
   "ucprefix":false,
   "parent":"",

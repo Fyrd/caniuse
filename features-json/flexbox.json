@@ -211,6 +211,9 @@
     },
     "ie_mob":{
       "10":"a x #2"
+    },
+    "and_uc":{
+      "9.9":"a x #1"
     }
   },
   "notes":"Most partial support refers to supporting an [older version](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) of the specification or an [older syntax](http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/).",
@@ -220,7 +223,7 @@
     "3":"Does not support flex-wrap or flex-flow properties"
   },
   "usage_perc_y":70.79,
-  "usage_perc_a":12.34,
+  "usage_perc_a":15.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-basis",

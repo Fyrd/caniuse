@@ -203,13 +203,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Different browsers have support for different video formats, see sub-features for details. \r\n\r\nThe Android browser (before 2.3) requires [specific handling](http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to run the video element.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":85.57,
+  "usage_perc_y":88.74,
   "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",

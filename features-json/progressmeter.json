@@ -195,13 +195,16 @@
     },
     "ie_mob":{
       "10":"a"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Partial support in Firefox 6-15, IE10 & iOS7 Safari refers to supporting the progress element, but not the meter element. iOS7 Safari also does not support \"indeterminate\" progress elements.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":59.18,
+  "usage_perc_y":62.35,
   "usage_perc_a":17.02,
   "ucprefix":false,
   "parent":"forms",

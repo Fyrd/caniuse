@@ -195,6 +195,9 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"a"
     }
   },
   "notes":"The Android 2.3 browser currently requires [specific handling](http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to play videos\r\n\r\nFirefox supports H.264 on Windows 7 and later since version 21. Firefox supports H.264 on Linux since version 26 if the appropriate gstreamer plug-ins are installed.\r\n\r\nPartial support for Firefox refers to the lack of support in OSX & some Linux platforms, for Android Firefox it refers to the inability of hardware acceleration.",
@@ -202,7 +205,7 @@
     
   },
   "usage_perc_y":65.72,
-  "usage_perc_a":17.94,
+  "usage_perc_a":21.1,
   "ucprefix":false,
   "parent":"video",
   "keywords":"avc,mp4,mpv,mov,aac,h264",

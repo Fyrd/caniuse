@@ -191,6 +191,9 @@
     },
     "ie_mob":{
       "10":"a x"
+    },
+    "and_uc":{
+      "9.9":"a x"
     }
   },
   "notes":"Partial support refers to support for alternative syntax: ::-webkit-input-placeholder (Chrome/Safari/Opera),\r\n::-moz-placeholder (Firefox) and \r\n:-ms-input-placeholder (IE). ",
@@ -198,7 +201,7 @@
     
   },
   "usage_perc_y":0,
-  "usage_perc_a":82.41,
+  "usage_perc_a":85.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

@@ -195,13 +195,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"IE7 and IE8 support only these CSS3 selectors: General siblings (`element1~element2`) and Attribute selectors `[attr^=val]`, `[attr$=val]`, and `[attr*=val]`",
   "notes_by_num":{
     
   },
-  "usage_perc_y":89.02,
+  "usage_perc_y":92.18,
   "usage_perc_a":3.83,
   "ucprefix":false,
   "parent":"",

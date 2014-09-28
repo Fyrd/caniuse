@@ -208,13 +208,16 @@
     },
     "ie_mob":{
       "10":"a"
+    },
+    "and_uc":{
+      "9.9":"y x"
     }
   },
   "notes":"Partial support in IE refers to not supporting [the transform-style: preserve-3d property](http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property). This prevents nesting 3D transformed elements.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":71.13,
+  "usage_perc_y":74.29,
   "usage_perc_a":10.07,
   "ucprefix":false,
   "parent":"",

@@ -215,13 +215,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y x"
     }
   },
   "notes":"The scale transform can be emulated in IE < 9 using Microsoft's \"zoom\" extension, others are (not easily) possible using the MS Matrix filter",
   "notes_by_num":{
     
   },
-  "usage_perc_y":85.63,
+  "usage_perc_y":88.8,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -187,6 +187,9 @@
     },
     "ie_mob":{
       "10":"n"
+    },
+    "and_uc":{
+      "9.9":"n"
     }
   },
   "notes":"Partial support in IE refers using [a non-standard method](http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx) of interacting with the clipboard. For other browsers it refers to not supporting the ClipboardEvent constructor.",

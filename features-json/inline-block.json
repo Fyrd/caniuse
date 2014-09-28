@@ -191,13 +191,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. [Alternative properties](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/) are available to provide complete cross-browser support.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":92.8,
+  "usage_perc_y":95.96,
   "usage_perc_a":0.3,
   "ucprefix":false,
   "parent":"",

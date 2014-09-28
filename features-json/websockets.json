@@ -201,13 +201,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Partial support refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol).",
   "notes_by_num":{
     
   },
-  "usage_perc_y":76.22,
+  "usage_perc_y":79.38,
   "usage_perc_a":1.29,
   "ucprefix":true,
   "parent":"",

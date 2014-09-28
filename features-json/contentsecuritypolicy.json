@@ -195,6 +195,9 @@
     },
     "ie_mob":{
       "10":"a #1"
+    },
+    "and_uc":{
+      "9.9":"y x"
     }
   },
   "notes":"The standard HTTP header is `Content-Security-Policy` which is used unless otherwise noted.",
@@ -202,7 +205,7 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-Webkit-CSP` header"
   },
-  "usage_perc_y":65.77,
+  "usage_perc_y":68.93,
   "usage_perc_a":10.74,
   "ucprefix":false,
   "parent":"",

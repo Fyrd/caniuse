@@ -190,13 +190,16 @@
     },
     "ie_mob":{
       "10":"p"
+    },
+    "and_uc":{
+      "9.9":"y x"
     }
   },
   "notes":"When the content of a node with a single CharacterData child node is changed by innerHTML attribute and the node have a single different one as a result, WebKit browsers consider it as a characterData mutation of the child CharacterData node, while other browsers think it as a childList mutation of the parent node.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":72.5,
+  "usage_perc_y":75.67,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

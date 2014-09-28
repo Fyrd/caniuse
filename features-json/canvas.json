@@ -206,13 +206,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications. Android 2.x supports canvas except the toDataURL() function. See http://code.google.com/p/android/issues/detail?id=7901 Some (slow) workarounds are described here: http://stackoverflow.com/q/10488033/841830",
   "notes_by_num":{
     
   },
-  "usage_perc_y":84.74,
+  "usage_perc_y":87.91,
   "usage_perc_a":4.34,
   "ucprefix":false,
   "parent":"",

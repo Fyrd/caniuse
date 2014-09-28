@@ -205,13 +205,16 @@
     },
     "ie_mob":{
       "10":"p"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Internet Explorer implements Pointer Events specification which supports more input devices than Touch Events one.\r\n\r\nThere is a library on GitHub that is working toward bringing W3C touch events to IE 10 and 11: https://github.com/CamHenlin/TouchPolyfill \r\n\r\nRemoved support in Firefox refers to desktop Firefox only.",
   "notes_by_num":{
     "1":"Can be enabled in Firefox using the dom.w3c_touch_events.enabled flag (disabled by default for site compatibility reasons)"
   },
-  "usage_perc_y":55.84,
+  "usage_perc_y":59,
   "usage_perc_a":0.63,
   "ucprefix":false,
   "parent":"",

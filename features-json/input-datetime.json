@@ -1,8 +1,8 @@
 {
-  "title":"Date/time input types",
-  "description":"Form field widget to easily allow users to enter dates and/or times, generally by using a calendar widget.",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#date-state-(type=date)",
-  "status":"wd",
+  "title":"Date and time input types",
+  "description":"Form field widget to easily allow users to enter a date or a time, generally by using a calendar/time input widget. Previously there was also a single field for both date & time, but this has been deprecated.",
+  "spec":"http://www.w3.org/TR/html5/forms.html#date-state-%28type=date%29",
+  "status":"cr",
   "links":[
     {
       "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
@@ -94,27 +94,27 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"a",
-      "21":"a",
-      "22":"a",
-      "23":"a",
-      "24":"a",
-      "25":"a",
-      "26":"a",
-      "27":"a",
-      "28":"a",
-      "29":"a",
-      "30":"a",
-      "31":"a",
-      "32":"a",
-      "33":"a",
-      "34":"a",
-      "35":"a",
-      "36":"a",
-      "37":"a",
-      "38":"a",
-      "39":"a",
-      "40":"a"
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y",
+      "24":"y",
+      "25":"y",
+      "26":"y",
+      "27":"y",
+      "28":"y",
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y"
     },
     "safari":{
       "3.1":"n",
@@ -123,7 +123,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
+      "6.1":"n",
       "7":"n",
       "7.1":"n",
       "8":"n"
@@ -140,26 +140,26 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"a",
-      "16":"a",
-      "17":"a",
-      "18":"a",
-      "19":"a",
-      "20":"a",
-      "21":"a",
-      "22":"a",
-      "23":"a",
-      "24":"a",
-      "25":"a",
-      "26":"a"
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y",
+      "24":"y",
+      "25":"y",
+      "26":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
-      "5.0-5.1":"a",
-      "6.0-6.1":"a",
-      "7.0-7.1":"a",
+      "5.0-5.1":"y",
+      "6.0-6.1":"y",
+      "7.0-7.1":"y",
       "8":"y"
     },
     "op_mini":{
@@ -187,7 +187,7 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "22":"a"
+      "22":"y"
     },
     "and_chr":{
       "37":"y"
@@ -197,14 +197,17 @@
     },
     "ie_mob":{
       "10":"n"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
-  "notes":"Safari provides date-formatted text fields, but no real calendar widget. Partial support in Chrome refers to a missing calendar widget for the \"datetime\" type (and other types in older versions). Some modified versions of the Android 4.x browser do have support for date/time fields. Partial support in iOS refers to a lack of support for attributes like step, min, or max.",
+  "notes":"Partial support in iOS refers to a lack of support for attributes like step, min, or max.\r\n\r\nOlder versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nSome modified versions of the Android 4.x browser do have support for date/time fields.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":8.85,
-  "usage_perc_a":41.42,
+  "usage_perc_y":53.43,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\"",

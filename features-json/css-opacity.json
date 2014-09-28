@@ -187,13 +187,16 @@
     },
     "ie_mob":{
       "10":"y"
+    },
+    "and_uc":{
+      "9.9":"y"
     }
   },
   "notes":"Transparency for elements in IE8 and older can be achieved using the proprietary \"filter\" property and does not work well with PNG images using alpha transparency.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":89.08,
+  "usage_perc_y":92.25,
   "usage_perc_a":4.01,
   "ucprefix":false,
   "parent":"",
