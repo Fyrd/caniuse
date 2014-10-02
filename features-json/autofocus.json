@@ -1,43 +1,35 @@
 {
-  "title":"CSS inline-block",
-  "description":"Method of displaying an element as a block while flowing it with text. ",
-  "spec":"http://www.w3.org/TR/CSS21/visuren.html#fixed-positioning",
-  "status":"rec",
+  "title":"Autofocus attribute",
+  "description":"Allows a form field to be immediately focused on page load.",
+  "spec":"http://www.w3.org/TR/html5/forms.html#autofocusing-a-form-control:-the-autofocus-attribute",
+  "status":"wd",
   "links":[
     {
-      "url":"http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/",
-      "title":"Blog post w/info"
-    },
-    {
-      "url":"http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/",
-      "title":"Info on cross browser support"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/css/properties/display",
-      "title":"WebPlatform Docs"
+      "url":"http://davidwalsh.name/autofocus",
+      "title":"Article on autofocus"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS2"
+    "HTML5"
   ],
   "stats":{
     "ie":{
-      "5.5":"a",
-      "6":"a",
-      "7":"a",
-      "8":"y",
-      "9":"y",
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
       "10":"y",
       "11":"y"
     },
     "firefox":{
-      "2":"a x",
-      "3":"y",
-      "3.5":"y",
-      "3.6":"y",
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
       "4":"y",
       "5":"y",
       "6":"y",
@@ -72,7 +64,7 @@
       "35":"y"
     },
     "chrome":{
-      "4":"y",
+      "4":"n",
       "5":"y",
       "6":"y",
       "7":"y",
@@ -111,9 +103,9 @@
       "40":"y"
     },
     "safari":{
-      "3.1":"y",
-      "3.2":"y",
-      "4":"y",
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
       "5":"y",
       "5.1":"y",
       "6":"y",
@@ -123,7 +115,7 @@
       "8":"y"
     },
     "opera":{
-      "9":"y",
+      "9":"n",
       "9.5-9.6":"y",
       "10.0-10.1":"y",
       "10.5":"y",
@@ -148,21 +140,21 @@
       "26":"y"
     },
     "ios_saf":{
-      "3.2":"y",
-      "4.0-4.1":"y",
-      "4.2-4.3":"y",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
-      "7.0-7.1":"y",
-      "8":"y"
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6.0-6.1":"n",
+      "7.0-7.1":"n",
+      "8":"n"
     },
     "op_mini":{
-      "5.0-7.0":"y"
+      "5.0-7.0":"n"
     },
     "android":{
-      "2.1":"y",
-      "2.2":"y",
-      "2.3":"y",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
       "3":"y",
       "4":"y",
       "4.1":"y",
@@ -172,15 +164,15 @@
     },
     "bb":{
       "7":"y",
-      "10":"y"
+      "10":"u"
     },
     "op_mob":{
-      "10":"y",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
-      "12":"y",
-      "12.1":"y",
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
       "22":"y"
     },
     "and_chr":{
@@ -193,19 +185,19 @@
       "10":"y"
     },
     "and_uc":{
-      "9.9":"y"
+      "9.9":"n"
     }
   },
-  "notes":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. [Alternative properties](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/) are available to provide complete cross-browser support.",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":96.03,
-  "usage_perc_a":0.3,
+  "usage_perc_y":74.74,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"inlineblock",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }
