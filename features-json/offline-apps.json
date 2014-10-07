@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"Currently not supported in some versions of Chrome on Linux."
+    },
+    {
+      "description":"Reportedly, Android 4.4 WebViews lose the cache after closing the app."
     }
   ],
   "categories":[

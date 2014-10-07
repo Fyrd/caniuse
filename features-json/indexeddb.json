@@ -36,8 +36,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a",
-      "11":"a"
+      "10":"a #1",
+      "11":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -160,7 +160,7 @@
       "5.0-5.1":"p",
       "6.0-6.1":"p",
       "7.0-7.1":"p",
-      "8":"y"
+      "8":"a #3"
     },
     "op_mini":{
       "5.0-7.0":"n"
@@ -178,7 +178,7 @@
     },
     "bb":{
       "7":"p",
-      "10":"a x"
+      "10":"a x #2"
     },
     "op_mob":{
       "10":"n",
@@ -196,18 +196,20 @@
       "32":"y"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"y #1"
     },
     "and_uc":{
       "9.9":"p"
     }
   },
-  "notes":"Partial support in IE 10 & 11 refers to a number of subfeatures [not being supported](http://codepen.io/cemerick/pen/Itymi). Partial support in BB10 refers to an [outdated specification](http://www.w3.org/TR/2011/WD-IndexedDB-20110419/) being implemented. Code targeting the [current state of the specification](http://www.w3.org/TR/IndexedDB/) might not work.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in IE 10 & 11 refers to a number of subfeatures [not being supported](http://codepen.io/cemerick/pen/Itymi).",
+    "2":"Partial support in BB10 refers to an [outdated specification](http://www.w3.org/TR/2011/WD-IndexedDB-20110419/) being implemented.",
+    "3":"Partial support in iOS 8 refers to [seriously buggy behavior](http://www.raymondcamden.com/2014/9/25/IndexedDB-on-iOS-8--Broken-Bad)."
   },
-  "usage_perc_y":57.75,
-  "usage_perc_a":10.57,
+  "usage_perc_y":56.13,
+  "usage_perc_a":12.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb",

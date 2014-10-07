@@ -29,10 +29,13 @@
       "description":":first-child fails in IE7 if the [first child is a comment](http://robertnyman.com/2009/02/04/how-to-solve-first-child-css-bug-in-ie-7/)."
     },
     {
-      "description":"Safari 5.1 does not support the adjacent selector if the adjacent element is a \"nav\" element."
+      "description":"Safari 5.1 and Android browsers do not support the adjacent selector if the adjacent element is a \"nav\" element."
     },
     {
       "description":"IE8-11 [does not update an element's :hover status when scrolling without moving the pointer](https://connect.microsoft.com/IE/feedback/details/926665/ie-11-hovering-over-an-element-and-then-scrolling-without-moving-the-mouse-pointer-leaves-the-element-in-hover-state)."
+    },
+    {
+      "description":"IE6 does not properly support combinations of pseudo classes like `:link`, `:active` and `:visited`"
     }
   ],
   "categories":[

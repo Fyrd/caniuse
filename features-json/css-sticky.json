@@ -19,11 +19,15 @@
     {
       "url":"https://github.com/filamentgroup/fixed-sticky",
       "title":"Polyfill"
+    },
+    {
+      "url":"https://github.com/wilddeer/stickyfill",
+      "title":"Another polyfill"
     }
   ],
   "bugs":[
     {
-      "description":"Safari does not appear to support [sticky table headers](http://jsfiddle.net/Mf4YT/2/)."
+      "description":"Firefox and Safari do not appear to support [sticky table headers](http://jsfiddle.net/Mf4YT/2/). (see also [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=925259))"
     }
   ],
   "categories":[

@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"Older versions of Chrome and Safari do not support feConvolveMatrix and their lighting implementation is incomplete. "
+    },
+    {
+      "description":"Chrome and Safari do not seem to [support kernelUnitLength](https://bugs.webkit.org/show_bug.cgi?id=84610)"
     }
   ],
   "categories":[
