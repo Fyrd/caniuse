@@ -15,6 +15,9 @@
     },
     {
       "description":"IE 10 Mobile does not always provide crisp SVG backgrounds, particularly when zooming in."
+    },
+    {
+      "description":"Android 2.x will not display the fallback background-image in addition to not displaying the SVG if it is implemented using multiple background-image properties on the same element. (e.g. PNG background-image fallback + SVG background-image)"
     }
   ],
   "categories":[
