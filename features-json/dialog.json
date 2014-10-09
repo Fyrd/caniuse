@@ -1,7 +1,7 @@
 {
   "title":"Dialog element",
   "description":"Method of easily creating custom dialog boxes to display to the user with modal or non-modal options. Also includes a `::backdrop` pseudo-element for behind the element.",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/forms.html#the-dialog-element",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-dialog-element",
   "status":"wd",
   "links":[
     {
@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "DOM",
