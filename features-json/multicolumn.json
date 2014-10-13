@@ -23,10 +23,10 @@
   ],
   "bugs":[
     {
-      "description":"In Firefox, the property column-span (or -moz-column-span) does not yet work. See the bug 616436 on Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=616436."
+      "description":"In Firefox, the property `column-span` (or `-moz-column-span`) does not yet work. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=616436)."
     },
     {
-      "description":"In Chrome, the -webkit-column-count directive does not yet work with print stylesheets. See the following bug in Chromium: https://code.google.com/p/chromium/issues/detail?id=99358."
+      "description":"In Chrome, the `-webkit-column-count` directive does not yet work with print stylesheets. See the [following bug in Chromium](https://code.google.com/p/chromium/issues/detail?id=99358)."
     }
   ],
   "categories":[

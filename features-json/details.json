@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"`<select>` within `<details>` elements won't have their value changed on the Android browser shipped with most of Samsung's devices (i.e. Note 3, Galaxy 5)\r\nThe picker will appear, but attempting to select any option won't update the `<select>` or trigger any event."
+    }
   ],
   "categories":[
     "HTML5"

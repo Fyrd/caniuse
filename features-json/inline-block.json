@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE 8 has a [resize issue with display-inline block](http://blog.caplin.com/2013/06/07/developing-for-ie8-inline-block-resize-bug/)."
+    }
   ],
   "categories":[
     "CSS2"

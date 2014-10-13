@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) do not have support for `classList` on SVG elements. A polyfill script is available."
+      "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) and IE do not have support for `classList` on SVG elements."
     }
   ],
   "categories":[
