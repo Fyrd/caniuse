@@ -1,7 +1,7 @@
 {
   "title":"Number input type",
   "description":"Form field type for numbers.",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#number-state-(type=number)",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#number-state-(type=number)",
   "status":"wd",
   "links":[
     {
@@ -205,7 +205,7 @@
   },
   "notes":"iOS Safari, Android 4, Chrome for Android show number input, but do not use \"step\", \"min\" or \"max\" attributes or show increment/decrement buttons. Internet Explorer 10 and 11 do not show increment/decrement buttons.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":49.21,
   "usage_perc_a":34.51,

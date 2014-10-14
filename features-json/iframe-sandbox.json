@@ -1,7 +1,7 @@
 {
   "title":"sandbox attribute for iframes",
   "description":"Method of running external site pages with reduced privileges (e.g. no JavaScript) in iframes",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#attr-iframe-sandbox",
+  "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#attr-iframe-sandbox",
   "status":"cr",
   "links":[
     {
@@ -201,7 +201,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":84.36,
   "usage_perc_a":0.97,

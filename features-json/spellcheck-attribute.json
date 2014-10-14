@@ -1,7 +1,7 @@
 {
   "title":"Spellcheck attribute",
   "description":"Attribute for `input`/`textarea` fields to enable/disable the browser's spellchecker.",
-  "spec":"http://www.w3.org/TR/html5/editing.html#spelling-and-grammar-checking",
+  "spec":"https://html.spec.whatwg.org/multipage/interaction.html#spelling-and-grammar-checking",
   "status":"cr",
   "links":[
     {
@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "HTML5"
@@ -191,7 +191,7 @@
   },
   "notes":"The partial support in mobile browsers results from their OS generally having built-in spell checking instead of using the wavy underline to indicate misspelled words. `spellcheck=\"false\"` does not seem to have any effect in these browsers.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":60.34,
   "usage_perc_a":28.96,

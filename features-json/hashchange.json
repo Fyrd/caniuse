@@ -1,7 +1,7 @@
 {
   "title":"Hashchange event",
   "description":"Event triggered in JavaScript when the URL's hash has changed (for example: page.html#foo to page.html#bar) ",
-  "spec":"http://www.w3.org/TR/html5/history.html#event-hashchange",
+  "spec":"https://html.spec.whatwg.org/multipage/browsers.html#the-hashchangeevent-interface",
   "status":"cr",
   "links":[
     {
@@ -26,7 +26,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "HTML5",
@@ -208,7 +208,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":92.65,
   "usage_perc_a":0,

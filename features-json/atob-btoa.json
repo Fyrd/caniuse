@@ -1,7 +1,7 @@
 {
   "title":"Base64 encoding and decoding",
   "description":"Utility functions for of encoding and decoding strings to and from base 64: window.atob() and window.btoa().",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/webappapis.html#atob",
+  "spec":"https://html.spec.whatwg.org/multipage/webappapis.html#atob",
   "status":"other",
   "links":[
     {
@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "JS API"
@@ -199,7 +199,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":89.65,
   "usage_perc_a":0,

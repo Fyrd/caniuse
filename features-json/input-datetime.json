@@ -1,7 +1,7 @@
 {
   "title":"Date and time input types",
   "description":"Form field widget to easily allow users to enter a date or a time, generally by using a calendar/time input widget. Previously there was also a single field for both date & time, but this has been deprecated.",
-  "spec":"http://www.w3.org/TR/html5/forms.html#date-state-%28type=date%29",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#date-state-(type=date)",
   "status":"cr",
   "links":[
     {
@@ -205,7 +205,7 @@
   },
   "notes":"Partial support in iOS refers to a lack of support for attributes like step, min, or max.\r\n\r\nOlder versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nSome modified versions of the Android 4.x browser do have support for date/time fields.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":53.97,
   "usage_perc_a":0,

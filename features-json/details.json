@@ -1,11 +1,11 @@
 {
   "title":"Details & Summary elements",
   "description":"The <details> element generates a simple no-JavaScript widget to show/hide element contents, optionally by clicking on its child <summary> element.",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/interactive-elements.html#the-details-element",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-details-element",
   "status":"wd",
   "links":[
     {
-      "url":"http://mathiasbynens.be/notes/html5-details-jquery",
+      "url":"https://mathiasbynens.be/notes/html5-details-jquery",
       "title":"jQuery fallback script"
     },
     {
@@ -209,7 +209,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":60.69,
   "usage_perc_a":0,

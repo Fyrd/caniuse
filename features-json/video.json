@@ -1,11 +1,11 @@
 {
   "title":"Video element",
   "description":"Method of playing videos on webpages (without requiring a plug-in)",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#video",
+  "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#the-video-element",
   "status":"cr",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
+      "url":"https://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/",
       "title":"Detailed article on video/audio elements"
     },
     {
@@ -17,7 +17,7 @@
       "title":"Video for Everybody"
     },
     {
-      "url":"http://diveinto.org/html5/video.html",
+      "url":"http://diveintohtml5.info/video.html",
       "title":"Video on the Web - includes info on Android support"
     },
     {
@@ -30,7 +30,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "HTML5"
@@ -211,7 +211,7 @@
   },
   "notes":"Different browsers have support for different video formats, see sub-features for details. \r\n\r\nThe Android browser (before 2.3) requires [specific handling](http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to run the video element.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":88.78,
   "usage_perc_a":0.05,

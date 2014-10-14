@@ -1,7 +1,7 @@
 {
   "title":"Text API for Canvas",
   "description":"Method of displaying text on Canvas elements",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html#text-0",
+  "spec":"https://html.spec.whatwg.org/multipage/scripting.html#drawing-text-to-the-bitmap",
   "status":"wd",
   "links":[
     {
@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "Canvas",
@@ -204,7 +204,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":88.84,
   "usage_perc_a":0,

@@ -1,7 +1,7 @@
 {
   "title":"DOMContentLoaded",
   "description":"JavaScript event that fires when the DOM is loaded, but before all page assets are loaded (CSS, images, etc.).",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/the-end.html",
+  "spec":"https://html.spec.whatwg.org/multipage/syntax.html#stop-parsing",
   "status":"other",
   "links":[
     {
@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "DOM"
@@ -191,7 +191,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":92.08,
   "usage_perc_a":0,

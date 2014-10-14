@@ -1,7 +1,7 @@
 {
   "title":"Canvas (basic support)",
   "description":"Method of generating fast, dynamic graphics using JavaScript",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#the-canvas-element",
+  "spec":"https://html.spec.whatwg.org/multipage/scripting.html#the-canvas-element",
   "status":"cr",
   "links":[
     {
@@ -17,7 +17,7 @@
       "title":"Animation kit "
     },
     {
-      "url":"http://www.diveinto.org/html5/canvas.html",
+      "url":"http://diveintohtml5.info/canvas.html",
       "title":"Another tutorial"
     },
     {
@@ -214,7 +214,7 @@
   },
   "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications. Android 2.x supports canvas except the toDataURL() function. See http://code.google.com/p/android/issues/detail?id=7901 Some (slow) workarounds are described here: http://stackoverflow.com/q/10488033/841830",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":88.13,
   "usage_perc_a":3.95,

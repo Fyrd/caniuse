@@ -1,7 +1,7 @@
 {
   "title":"dataset & data-* attributes",
   "description":"Method of applying and accessing custom data to elements.",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/elements.html#embedding-custom-non-visible-data-with-the-data-*-attributes",
+  "spec":"https://html.spec.whatwg.org/multipage/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes",
   "status":"wd",
   "links":[
     {
@@ -213,7 +213,7 @@
   },
   "notes":"Partial support refers to being able to use `data-*` attributes and access them using `getAttribute`. \r\n\r\n\"Supported\" refers to accessing the values using the `dataset` property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":82.36,
   "usage_perc_a":13.97,

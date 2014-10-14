@@ -1,11 +1,11 @@
 {
   "title":"Progress & Meter",
   "description":"Method of indicating a progress state (progress element) or the current level of a gauge (meter element).\r\n",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/the-button-element.html#the-progress-element",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-progress-element",
   "status":"wd",
   "links":[
     {
-      "url":"http://dev.opera.com/articles/new-form-features-in-html5/#newoutput",
+      "url":"https://dev.opera.com/articles/new-form-features-in-html5/#newoutput",
       "title":"Dev.Opera article"
     },
     {
@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "HTML5"
@@ -203,7 +203,7 @@
   },
   "notes":"Partial support in Firefox 6-15, IE10 & iOS7 Safari refers to supporting the progress element, but not the meter element. iOS7 Safari also does not support \"indeterminate\" progress elements.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":62.25,
   "usage_perc_a":17.68,

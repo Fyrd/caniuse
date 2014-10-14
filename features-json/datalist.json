@@ -1,7 +1,7 @@
 {
   "title":"Datalist element",
   "description":"Method of setting a list of options for a user to select in a text field, while leaving the ability to enter a custom value.",
-  "spec":"http://www.whatwg.org/specs/web-apps/current-work/multipage/the-button-element.html#the-datalist-element",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-datalist-element",
   "status":"wd",
   "links":[
     {
@@ -30,7 +30,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "HTML5"
@@ -211,7 +211,7 @@
   },
   "notes":"Partial support in IE10 refers to [significantly buggy behavior](http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/).",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":57.94,
   "usage_perc_a":9.66,

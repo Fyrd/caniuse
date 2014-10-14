@@ -1,7 +1,7 @@
 {
   "title":"Session history management",
   "description":"Method of manipulating the user's browser's session history in JavaScript using history.pushState, history.replaceState and the popstate event",
-  "spec":"http://www.w3.org/TR/html5/browsers.html#history-1",
+  "spec":"https://html.spec.whatwg.org/multipage/browsers.html#dom-history-pushstate",
   "status":"cr",
   "links":[
     {
@@ -213,7 +213,7 @@
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":77.3,
   "usage_perc_a":6.51,

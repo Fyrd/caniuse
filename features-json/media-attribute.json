@@ -1,7 +1,7 @@
 {
   "title":"Media attribute",
   "description":"Allows audio and video sources to be assigned to media queries",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#attr-source-media",
+  "spec":"https://html.spec.whatwg.org/multipage/obsolete.html#attr-source-media",
   "status":"wd",
   "links":[
     {
@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "HTML5"
@@ -195,7 +195,7 @@
   },
   "notes":"The media attribute has recently been removed from the WHATWG HTML5 specification and Blink and therefore won't be supported by the latest Chrome.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":57.03,
   "usage_perc_a":0,

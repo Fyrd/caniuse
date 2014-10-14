@@ -1,7 +1,7 @@
 {
   "title":"input placeholder attribute",
   "description":"Method of setting placeholder text for text-like input fields, to suggest the expected inserted information.",
-  "spec":"http://dev.w3.org/html5/spec/Overview.html#attr-input-placeholder",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#attr-input-placeholder",
   "status":"cr",
   "links":[
     {
@@ -218,7 +218,7 @@
   },
   "notes":"Partial support in older Safari and Opera versions refers to lacking placeholder support on textarea elements. ",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":83.83,
   "usage_perc_a":2.48,
