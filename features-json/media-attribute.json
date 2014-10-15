@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "HTML5"
@@ -65,7 +65,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "chrome":{
       "4":"y",
@@ -154,7 +155,7 @@
       "8":"y"
     },
     "op_mini":{
-      "5.0-7.0":"u"
+      "5.0-8.0":"u"
     },
     "android":{
       "2.1":"u",
@@ -195,7 +196,7 @@
   },
   "notes":"The media attribute has recently been removed from the WHATWG HTML5 specification and Blink and therefore won't be supported by the latest Chrome.",
   "notes_by_num":{
-
+    
   },
   "usage_perc_y":57.03,
   "usage_perc_a":0,

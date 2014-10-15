@@ -30,7 +30,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "HTML5"
@@ -81,7 +81,8 @@
       "32":"y",
       "33":"y",
       "34":"y",
-      "35":"y"
+      "35":"y",
+      "36":"y"
     },
     "chrome":{
       "4":"p",
@@ -170,7 +171,7 @@
       "8":"p"
     },
     "op_mini":{
-      "5.0-7.0":"n"
+      "5.0-8.0":"n"
     },
     "android":{
       "2.1":"p",
@@ -211,7 +212,7 @@
   },
   "notes":"Partial support in IE10 refers to [significantly buggy behavior](http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/).",
   "notes_by_num":{
-
+    
   },
   "usage_perc_y":57.94,
   "usage_perc_a":9.66,
