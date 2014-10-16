@@ -1,6 +1,6 @@
 {
   "title":"SVG fonts",
-  "description":"Method of using fonts defined as SVG shapes. Considered among a number of browser vendors as a deprecated feature with support being removed in future versions.",
+  "description":"Method of using fonts defined as SVG shapes. Considered among a number of browser vendors as a deprecated feature with support being removed.",
   "spec":"http://www.w3.org/TR/SVG/fonts.html",
   "status":"rec",
   "links":[
@@ -103,10 +103,10 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"a #1",
-      "39":"a #1",
-      "40":"a #1",
-      "41":"a #1"
+      "38":"n #1",
+      "39":"n #1",
+      "40":"n #1",
+      "41":"n #1"
     },
     "safari":{
       "3.1":"n",
@@ -142,8 +142,9 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y",
-      "26":"y"
+      "25":"n #1",
+      "26":"n #1",
+      "27":"n #1"
     },
     "ios_saf":{
       "3.2":"y",
@@ -182,7 +183,7 @@
       "24":"y"
     },
     "and_chr":{
-      "38":"a #1"
+      "38":"n #1"
     },
     "and_ff":{
       "32":"n"
@@ -199,8 +200,8 @@
     "1":"Chrome 38 and newer support SVG fonts only on Windows Vista and XP.",
     "2":"Supported in Opera Mini in SVG images only, not in HTML."
   },
-  "usage_perc_y":54.3,
-  "usage_perc_a":8.01,
+  "usage_perc_y":54.29,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",
   "keywords":"",
