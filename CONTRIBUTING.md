@@ -53,7 +53,7 @@ Currently the following feature information can be modified:
 	* `u` - Support (**u**)nknown
 	* `x` - Requires prefi(**x**) to work
 	* `d` - (**D**)isabled by default (need to enable flag or something)
-	* `#n` - Where n is a number, starting with 1, corresponds to the **notes_by_num** note
+	* `#n` - Where n is a number, starting with 1, corresponds to the **notes_by_num** note.  For example: `"42":"y #1"` means version 42 is supported by default and see note 1.
 * **notes** — Notes on feature support, often to explain what partial support refers to
 * **notes_by_num** - Map of numbers corresponding to notes. Used in conjection with the #n notation under **stats**. Each key should be a number (no hash), the value is the related note. For example: `"1": "Foo"`
 * **ucprefix** — Prefix should start with an uppercase letter
