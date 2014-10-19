@@ -65,8 +65,8 @@
       "32":"n",
       "33":"n",
       "34":"n",
-      "35":"n",
-      "36":"n"
+      "35":"d #1",
+      "36":"d #1"
     },
     "chrome":{
       "4":"n",
@@ -198,14 +198,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    
-  },
-  "usage_perc_y":36.23,
-  "usage_perc_a":0,
-  "ucprefix":false,
-  "parent":"fontface",
-  "keywords":"woff, fontface, webfonts",
-  "ie_id":"",
-  "chrome_id":"6718644721549312",
-  "shown":true
+    "1", "Default 'enabled' for Firefox Aurora and Beta, but release versions will have [WOFF2 off by default](https://bugzilla.mozilla.org/show_bug.cgi?id=1064737#c10) until security conserns are quelled."
+},
+"usage_perc_y":36.23,
+"usage_perc_a":0,
+"ucprefix":false,
+"parent":"fontface",
+"keywords":"woff, fontface, webfonts",
+"ie_id":"",
+"chrome_id":"6718644721549312",
+"shown":true
 }
