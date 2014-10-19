@@ -65,8 +65,8 @@
       "32":"n",
       "33":"n",
       "34":"n",
-      "35":"n",
-      "36":"n"
+      "35":"n d #1",
+      "36":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -167,7 +167,7 @@
       "4.1":"n",
       "4.2-4.3":"n",
       "4.4":"n",
-      "4.4.3":"n",
+      "4.4.3-4.4.4":"n",
       "37":"y"
     },
     "bb":{
@@ -198,7 +198,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Default 'enabled' for Firefox Aurora and Beta, but release versions will have [WOFF2 off by default](https://bugzilla.mozilla.org/show_bug.cgi?id=1064737#c10) until security concerns are quelled."
   },
   "usage_perc_y":36.23,
   "usage_perc_a":0,
