@@ -32,7 +32,7 @@
       "5.5":"n",
       "6":"p",
       "7":"p",
-      "8":"y",
+      "8":"a #1",
       "9":"y",
       "10":"y",
       "11":"y"
@@ -161,7 +161,8 @@
       "5.0-5.1":"y",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
-      "8":"y"
+      "8":"y",
+      "8.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"y"
@@ -204,12 +205,12 @@
       "9.9":"y"
     }
   },
-  "notes":"Only works for the CSS selectors available. Thus the IE8 implementation is limited to the CSS 2.1 selectors",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in IE8 is due to being limited to CSS 2.1 selectors as well as only supporting simple selectors (not descendant selectors like `p a`)"
   },
-  "usage_perc_y":95.95,
-  "usage_perc_a":0,
+  "usage_perc_y":91.99,
+  "usage_perc_a":3.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"query,selectors,selectors api",

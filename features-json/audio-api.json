@@ -163,7 +163,8 @@
       "5.0-5.1":"n",
       "6.0-6.1":"y x",
       "7.0-7.1":"y x",
-      "8":"y x"
+      "8":"y x",
+      "8.1":"y x"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -206,7 +207,7 @@
       "9.9":"n"
     }
   },
-  "notes":"Firefox versions < 25 support an alternative, deprecated audio API.",
+  "notes":"Firefox versions < 25 support an alternative, deprecated audio API.\r\n\r\nChrome support [went through some changes](http://updates.html5rocks.com/2014/07/Web-Audio-Changes-in-m36) as of version 36.",
   "notes_by_num":{
     
   },

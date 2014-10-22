@@ -160,7 +160,8 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"y"
+      "8":"y",
+      "8.1":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -203,7 +204,7 @@
       "9.9":"y"
     }
   },
-  "notes":"",
+  "notes":"Removed in iOS 8.1 due to poor performance.",
   "notes_by_num":{
     
   },

@@ -31,7 +31,10 @@
   ],
   "bugs":[
     {
-      "description":"history.pushState() is buggy in Android 2.2 and 2.3 in that it doesn't cause window.location to update with the new URL. This works in all other browsers that support pushState(). [See Android bug report](http://code.google.com/p/android/issues/detail?id=17471)."
+      "description":"history.pushState() is buggy in Android 2.2 and 2.3 in that it doesn't cause `window.location` to update with the new URL. This works in all other browsers that support `pushState()`. [See Android bug report](http://code.google.com/p/android/issues/detail?id=17471)."
+    },
+    {
+      "description":"Safari 5 and older iOS Safari have a broken implementation, when the page is within an iframe, the back button will not take you to the correct state. When under heavy load, the `onpopstate` event fails to fire."
     }
   ],
   "categories":[
@@ -132,11 +135,11 @@
       "4":"n",
       "5":"a",
       "5.1":"a",
-      "6":"a",
-      "6.1":"a",
-      "7":"a",
-      "7.1":"a",
-      "8":"a"
+      "6":"y",
+      "6.1":"y",
+      "7":"y",
+      "7.1":"y",
+      "8":"y"
     },
     "opera":{
       "9":"n",
@@ -171,7 +174,8 @@
       "5.0-5.1":"y",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
-      "8":"y"
+      "8":"y",
+      "8.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -214,12 +218,12 @@
       "9.9":"a"
     }
   },
-  "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful. Partial support in other Safari browsers refers to other buggy behavior.",
+  "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":77.3,
-  "usage_perc_a":6.51,
+  "usage_perc_y":79.96,
+  "usage_perc_a":3.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",
