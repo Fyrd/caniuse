@@ -23,6 +23,9 @@
     },
     {
       "description":"iOS6 has problems with returning [high accuracy data](https://discussions.apple.com/thread/4313850?start=0&tstart=0)."
+    },
+    {
+      "description":"Safari 5 & 6 seem to not provide geolocation data [when using a wired connection](http://stackoverflow.com/questions/3791442/geolocation-in-safari-5)."
     }
   ],
   "categories":[
@@ -210,7 +213,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":88.71,
+  "usage_perc_y":89.03,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

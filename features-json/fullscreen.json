@@ -33,6 +33,9 @@
     },
     {
       "description":"IE 11 doesn't allow going to fullscreen mode when the event that triggers `msRequestFullscreen()` is a `keydown` event (`keypress` does work)"
+    },
+    {
+      "description":"Opera 12.1 uses the older specificaton's `:fullscreen-ancestor` pseudo-class instead of the  the `::backdrop` pseudo-element."
     }
   ],
   "categories":[
@@ -220,7 +223,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":51.57,
+  "usage_perc_y":51.88,
   "usage_perc_a":13.69,
   "ucprefix":false,
   "parent":"",

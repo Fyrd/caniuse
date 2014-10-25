@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome has an issue with [clip-paths and backface-visibility with 3D transforms](https://code.google.com/p/chromium/issues/detail?id=350724)"
+    }
   ],
   "categories":[
     "CSS3"
@@ -199,7 +201,7 @@
     "2":"Partial support refers to supporting shapes and the `url(#foo)` syntax for inline SVG, but not shapes in external SVGs."
   },
   "usage_perc_y":0,
-  "usage_perc_a":64.88,
+  "usage_perc_a":65.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

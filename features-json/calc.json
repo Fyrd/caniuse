@@ -29,6 +29,9 @@
     },
     {
       "description":"Safari 6 has a bug where an element with a width defined using `calc()` has its width reset when changing the height using JS (fixed in Safari 7)."
+    },
+    {
+      "description":"IE11 and other browsers to a lesser extent have trouble supporting `calc()` inside [color or transform values](http://codepen.io/thebabydino/pen/wfraH)."
     }
   ],
   "categories":[
@@ -216,7 +219,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":76.32,
+  "usage_perc_y":76.63,
   "usage_perc_a":2.39,
   "ucprefix":false,
   "parent":"",
