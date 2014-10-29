@@ -28,6 +28,9 @@
   "bugs":[
     {
       "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) and IE do not have support for `classList` on SVG elements."
+    },
+    {
+    "description":"No major browser supports classList.add('a', 'b') or classList.remove('a', 'b') as seen in http://stackoverflow.com/q/11115998/938236 and http://html5doctor.com/the-classlist-api/"
     }
   ],
   "categories":[
