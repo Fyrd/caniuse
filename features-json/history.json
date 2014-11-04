@@ -35,6 +35,9 @@
     },
     {
       "description":"Safari 5 and older iOS Safari have a broken implementation, when the page is within an iframe, the back button will not take you to the correct state. When under heavy load, the `onpopstate` event fails to fire."
+    },
+    {
+      "description":"The title argument is not applied in the history list of major browsers; they will display the page's title instead."
     }
   ],
   "categories":[
