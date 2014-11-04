@@ -188,7 +188,8 @@
       "32":"y"
     },
     "ie_mob":{
-      "10":"y"
+      "10":"a #1",
+      "11":"a #1"
     },
     "and_uc":{
       "9.9":"a x #2"
@@ -199,8 +200,8 @@
     "1":"Supports the `dpi unit`, but does not support `dppx` or `dpcm` units.",
     "2":"Supported using the non-standard `min`/`max-device-pixel-ratio`"
   },
-  "usage_perc_y":59.18,
-  "usage_perc_a":33.92,
+  "usage_perc_y":58.72,
+  "usage_perc_a":34.38,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,device-pixel-ratio,resolution",
