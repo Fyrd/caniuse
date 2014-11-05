@@ -1,6 +1,6 @@
 {
   "title":"text-decoration styling",
-  "description":"Method of defining the type, style and color of lines in the text-decoration property.",
+  "description":"Method of defining the type, style and color of lines in the text-decoration property. These can be defined as shorthand (e.g. `text-decoration: line-through dashed blue`) or as single properties (e.g. `text-decoration-color: blue`)",
   "spec":"http://www.w3.org/TR/css-text-decor-3/#line-decoration",
   "status":"cr",
   "links":[
@@ -202,7 +202,7 @@
       "9.9":"n"
     }
   },
-  "notes":"",
+  "notes":"All browsers support the CSS2 version of `text-decoration`, which matches only the `text-decoration-line` values (`underline`, etc.)",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial support in Safari refers to not supporting the text-decoration-style property."
