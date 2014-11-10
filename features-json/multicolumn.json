@@ -27,6 +27,9 @@
     },
     {
       "description":"In Chrome, the `-webkit-column-count` directive does not yet work with print stylesheets. See the [following bug in Chromium](https://code.google.com/p/chromium/issues/detail?id=99358)."
+    },
+    {
+      "description":"Chrome is reported to incorrectly calculate the container height, and often breaks on margins, padding, and can display 1px of the next column at the bottom of the previous column."
     }
   ],
   "categories":[

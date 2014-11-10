@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Android 4.3 and lower (together with older WebKit browsers) [have issues](http://css-tricks.com/webkit-sibling-bug/) when combining pseudo classes with adjacent or general sibling selectors."
+    }
   ],
   "categories":[
     "CSS3"

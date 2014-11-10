@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Does not appear to work for Firefox on Linux. Chrome on Linux does not appear to use the given file name."
+    }
   ],
   "categories":[
     "HTML5"
