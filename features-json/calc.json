@@ -32,6 +32,9 @@
     },
     {
       "description":"IE11 and other browsers to a lesser extent have trouble supporting `calc()` inside [color or transform values](http://codepen.io/thebabydino/pen/wfraH)."
+    },
+    {
+      "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values."
     }
   ],
   "categories":[
