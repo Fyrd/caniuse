@@ -46,9 +46,9 @@
       "6":"p",
       "7":"p",
       "8":"p",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "9":"y #2",
+      "10":"y #2",
+      "11":"y #2"
     },
     "firefox":{
       "2":"a",
@@ -184,10 +184,10 @@
       "2.1":"n",
       "2.2":"n",
       "2.3":"n",
-      "3":"a",
-      "4":"a",
-      "4.1":"a",
-      "4.2-4.3":"a",
+      "3":"a #1",
+      "4":"a #1",
+      "4.1":"a #1",
+      "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
       "37":"y"
@@ -212,16 +212,17 @@
       "32":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"y #2",
+      "11":"y #2"
     },
     "and_uc":{
       "9.9":"y"
     }
   },
-  "notes":"Partial support in Android 4 refers to not supporting masking.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1": "Partial support in Android 3 & 4 refers to not supporting masking.",
+    "2": "IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewport, and CSS rules](http://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
   },
   "usage_perc_y":89.77,
   "usage_perc_a":3.54,
