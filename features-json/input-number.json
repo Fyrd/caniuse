@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"IE10 and IE11 also have broken `.valueAsNumber` results that don't follow the spec, e.g. for\r\n`input.value = \"9\"` `input.valueAsNumber` returns `NaN`."
+    },
+    {
+      "description":"The `.stepUp` and `.stepDown` methods incorrectly invoke `InvalidStateError` exceptions in IE 10 and 11."
     }
   ],
   "categories":[

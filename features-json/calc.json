@@ -32,6 +32,12 @@
     },
     {
       "description":"IE11 and other browsers to a lesser extent have trouble supporting `calc()` inside [color or transform values](http://codepen.io/thebabydino/pen/wfraH)."
+    },
+    {
+      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with `inherit`](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
+    },
+    {
+      "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values."
     }
   ],
   "categories":[
