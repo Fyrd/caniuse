@@ -26,7 +26,7 @@
       "description":"Firefox 36- [ignores the descriptor](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range#Browser_compatibility) and the at-rule is then applied to the whole range of code points."
     },
     {
-      "IE ignores the unicode-range if the U is lowercase e.g 'u+0061'."
+      "description":"IE ignores the unicode-range if the U is lowercase e.g 'u+0061'."
     }
   ],
   "categories":[
