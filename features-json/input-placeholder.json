@@ -27,19 +27,10 @@
   ],
   "bugs":[
     {
-      "description":"Android 4.0 and Android 4.1 Browser and WebView doesn't show up the placeholder for <input type=\"number\"> field, link: https://code.google.com/p/android/issues/detail?id=24626"
-    },
-    {
-      "description":"Firefox 19+ applies a default style of <code>opacity: 0.4</code> to placeholder text."
-    },
-    {
       "description":"Internet Explorer 10 and 11 do not show the placeholder when the field is focused, even if the field is empty."
     },
     {
       "description":"Internet Explorer 10 and 11 fire the input event when an input field with a placeholder is focused. https://connect.microsoft.com/IE/feedback/details/885747/ie-11-fires-the-input-event-when-a-input-field-with-placeholder-is-focused"
-    },
-    {
-      "description":"Android 4.0 /4.1 don't support `text-align: right;`"
     }
   ],
   "categories":[
