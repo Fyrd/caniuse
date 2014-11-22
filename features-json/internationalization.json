@@ -168,9 +168,9 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"n",
-      "4.4.3-4.4.4":"n",
-      "37":"n"
+      "4.4":"u",
+      "4.4.3-4.4.4":"u",
+      "37":"y"
     },
     "bb":{
       "7":"n",
@@ -183,17 +183,17 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "24":"y"
     },
     "and_chr":{
-      "38":"y"
+      "39":"y"
     },
     "and_ff":{
-      "32":"n"
+      "33":"y"
     },
     "ie_mob":{
       "10":"n",
-      "11":"n"
+      "11":"y"
     },
     "and_uc":{
       "9.9":"n"
@@ -203,12 +203,12 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":62.08,
+  "usage_perc_y":62.24,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"Intl, Collator, NumberFormat, DateTimeFormat",
+  "keywords":"Intl,Collator,NumberFormat,DateTimeFormat",
   "ie_id":"ecmascriptinternationalizationapi",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
