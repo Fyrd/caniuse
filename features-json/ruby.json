@@ -1,8 +1,8 @@
 {
   "title":"Ruby annotation",
-  "description":"Method of adding pronunciation or other annotations using ruby elements (primarily used in East Asian typography)",
+  "description":"Method of adding pronunciation or other annotations using ruby elements (primarily used in East Asian typography).",
   "spec":"http://www.w3.org/TR/html-markup/ruby.html",
-  "status":"wd",
+  "status":"rec",
   "links":[
     {
       "url":"http://html5doctor.com/ruby-rt-rp-element/",
@@ -207,7 +207,7 @@
       "9.9":"a"
     }
   },
-  "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby",
+  "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby.",
   "notes_by_num":{
     
   },
