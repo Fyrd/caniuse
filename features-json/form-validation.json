@@ -12,9 +12,6 @@
   "bugs":[
     {
       "description":"Support for using differently colored borders is not complete in Firefox or Opera (did not test others yet) - using a separate class for styling works well in both."
-    },
-    {
-      "description":"In Chrome the attribute \"formnovalidate\" doesn't work on <input type=\"submit\"> elements but does on <button type=\"submit\"> elements."
     }
   ],
   "categories":[
@@ -146,7 +143,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "ios_saf":{
       "3.2":"n",

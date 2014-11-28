@@ -39,18 +39,6 @@
   ],
   "bugs":[
     {
-      "description":"Audio played from the element in iOS always plays in a full screen player."
-    },
-    {
-      "description":"Playback rate not supported on the stock Android browser."
-    },
-    {
-      "description":"Only one Audio file can be played at one time in iOS and Android browsers which forces you to use sprites for multiple audios."
-    },
-    {
-      "description":"Audio in iOS cannot be auto played. It even starts downloading after a user triggered event."
-    },
-    {
       "description":"Volume is read-only on iOS."
     }
   ],
@@ -183,7 +171,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "ios_saf":{
       "3.2":"n",
