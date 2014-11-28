@@ -201,7 +201,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Default 'enabled' for Firefox Aurora and Beta, but release versions will have [WOFF2 off by default](https://bugzilla.mozilla.org/show_bug.cgi?id=1064737#c10) until security concerns are quelled."
+    "1":"Default 'enabled' for Firefox Developer Edition and Nightly, but Beta and Release versions will need to set a flag to 'true' to [use WOFF2](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face#Browser_compatibility)."
   },
   "usage_perc_y":39.77,
   "usage_perc_a":0,
