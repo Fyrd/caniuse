@@ -1,8 +1,8 @@
 {
   "title":"Download attribute",
-  "description":"When used on an anchor, this attribute signifies that the resource it points to should be downloaded by the browser rather than navigate to it.",
+  "description":"When used on an anchor, this attribute signifies that the browser should download the resource the anchor points to rather than navigate to it.",
   "spec":"https://html.spec.whatwg.org/multipage/semantics.html#downloading-resources",
-  "status":"wd",
+  "status":"rec",
   "links":[
     {
       "url":"http://updates.html5rocks.com/2011/08/Downloading-resources-in-HTML5-a-download",

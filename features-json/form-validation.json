@@ -1,8 +1,8 @@
 {
   "title":"Form validation",
-  "description":"Method of setting required fields and field types without requiring JavaScript",
+  "description":"Method of setting required fields and field types without requiring JavaScript.",
   "spec":"https://html.spec.whatwg.org/multipage/forms.html#client-side-form-validation",
-  "status":"wd",
+  "status":"rec",
   "links":[
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/required",
@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"Support for using differently colored borders is not complete in Firefox or Opera (did not test others yet) - using a seperate class for styling works well in both."
+      "description":"Support for using differently colored borders is not complete in Firefox or Opera (did not test others yet) - using a separate class for styling works well in both."
     },
     {
       "description":"In Chrome the attribute \"formnovalidate\" doesn't work on <input type=\"submit\"> elements but does on <button type=\"submit\"> elements."
