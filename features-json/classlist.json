@@ -27,7 +27,6 @@
   ],
   "bugs":[
     {
-      "description":"WebKit browsers (Safari, Android browser, but NOT Chrome) and IE do not have support for `classList` on SVG elements.",
       "description":"Internet Explorer 11 doesn't support multiple tokens passed to the `add` function; only the first is used."
     }
   ],
