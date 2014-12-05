@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Safari 6, iOS 6 and Android 2.3 default browser don't work with a 0px value for \"spread\".\r\ne.g. -webkit-box-shadow: 5px 1px 0px #f04e29;\r\ndoesn't work, but\r\n-webkit-box-shadow: 5px 1px 1px #f04e29\r\ndoes."
+      "description":"Safari 6, iOS 6 and Android 2.3 default browser don't work with a 0px value for \"blur-radius\".\r\ne.g. -webkit-box-shadow: 5px 1px 0px 1px #f04e29;\r\ndoesn't work, but\r\n-webkit-box-shadow: 5px 1px 1px 1px #f04e29\r\ndoes."
     }
   ],
   "categories":[
