@@ -1,11 +1,11 @@
 {
-  "title":"SPDY networking protocol",
-  "description":"Networking protocol for low-latency transport of content over the web.",
-  "spec":"http://tools.ietf.org/html/draft-mbelshe-httpbis-spdy-00",
-  "status":"unoff",
+  "title":"HTTP/2 protocol / SPDY",
+  "description":"Networking protocol for low-latency transport of content over the web. Originally started out from the SPDY protocol, now standardized as HTTP version 2.",
+  "spec":"http://http2.github.io/http2-spec/index.html",
+  "status":"other",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/SPDY",
+      "url":"http://en.wikipedia.org/wiki/HTTP/2",
       "title":"Wikipedia"
     },
     {
@@ -197,7 +197,7 @@
     },
     "ie_mob":{
       "10":"n",
-      "11":"u"
+      "11":"y"
     },
     "and_uc":{
       "9.9":"u"
@@ -211,7 +211,7 @@
   "usage_perc_a":7.4,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"http2",
   "ie_id":"spdy3",
   "chrome_id":"5152586365665280",
   "shown":true

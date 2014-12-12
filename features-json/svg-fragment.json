@@ -12,6 +12,9 @@
   "bugs":[
     {
       "description":"For the ID syntax, Chrome, Opera, and Safari require the ID to be set on a `view` element."
+    },
+    {
+      "description":"Currently does not work for CSS background images in [Chrome](https://code.google.com/p/chromium/issues/detail?id=128055) and [Safari](https://bugs.webkit.org/show_bug.cgi?id=91790)"
     }
   ],
   "categories":[
