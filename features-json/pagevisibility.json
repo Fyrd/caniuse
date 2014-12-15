@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In Chrome 38 desktop the `visibilitychange` event is fired twice [Chrome bug](http://crbug.com/422163)"
+    }
   ],
   "categories":[
     "JS API"
@@ -112,7 +114,7 @@
       "35":"y",
       "36":"y",
       "37":"y",
-      "38":"y",
+      "38":"y #1",
       "39":"y",
       "40":"y",
       "41":"y",
