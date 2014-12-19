@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-    
+    "description":"iOS 8.* contains a [bug](https://github.com/jquery/sizzle/issues/290) where selecting siblings of filtered id selections are no longer working (for example #a + p)."
   ],
   "categories":[
     "DOM"
