@@ -74,9 +74,10 @@
       "31":"a",
       "32":"a",
       "33":"a",
-      "34":"a d",
+      "34":"a d #1",
       "35":"y",
-      "36":"y"
+      "36":"y",
+      "37":"y"
     },
     "chrome":{
       "4":"n",
@@ -212,7 +213,7 @@
   },
   "notes":"Note that this property is significantly different from and incompatible with Microsoft's [older \"filter\" property](http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx).\r\n\r\nPartial support in Firefox before version 34 [only implemented the url() function of the filter property](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility)",
   "notes_by_num":{
-    
+    "1":"Supported in Firefox under the `layout.css.filters.enabled` flag."
   },
   "usage_perc_y":60.68,
   "usage_perc_a":12.63,

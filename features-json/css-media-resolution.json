@@ -25,7 +25,7 @@
       "9":"a #1",
       "10":"a #1",
       "11":"a #1",
-      "TP":"y"
+      "TP":"a #3"
     },
     "firefox":{
       "2":"n",
@@ -64,7 +64,8 @@
       "33":"y",
       "34":"y",
       "35":"y",
-      "36":"y"
+      "36":"y",
+      "37":"y"
     },
     "chrome":{
       "4":"a x #2",
@@ -200,8 +201,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supports the `dpi unit`, but does not support `dppx` or `dpcm` units.",
-    "2":"Supported using the non-standard `min`/`max-device-pixel-ratio`"
+    "1":"Supports the `dpi` unit, but does not support `dppx` or `dpcm` units.",
+    "2":"Supported using the non-standard `min`/`max-device-pixel-ratio`",
+    "3":"Supports the `dpi` and `dppx` units, but does not support `dpcm` units."
   },
   "usage_perc_y":58.72,
   "usage_perc_a":34.38,

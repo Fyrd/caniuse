@@ -80,7 +80,8 @@
       "33":"p d #1",
       "34":"p d #1",
       "35":"p d #1",
-      "36":"p d #1"
+      "36":"p d #1",
+      "37":"p d #1"
     },
     "chrome":{
       "4":"n",
@@ -216,7 +217,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
+    "1":"Firefox [has no plans to support HTML imports](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/) though for now it can be enabled through the \"dom.webcomponents.enabled\" preference in about:config",
     "2":"Enabled through the \"Enable HTML Imports\" flag in chrome://flags",
     "3":"Enabled through the \"Experimental Web Platform features\" flag in chrome://flags",
     "4":"Enabled through the \"Enable HTML Imports\" flag in opera://flags",

@@ -38,7 +38,7 @@
       "description":"Scaling transforms in Android 2.3 fails to scale element background images."
     },
     {
-      "description":"Firefox and IE don't support CSS transforms on SVG elements (though SVG transform attributes do work)."
+      "description":"IE 10 and below does not support CSS transforms on SVG elements (though SVG transform attributes do work)."
     },
     {
       "description":"Transforms may break position:fixed styles of contained elements"
@@ -95,7 +95,8 @@
       "33":"y",
       "34":"y",
       "35":"y",
-      "36":"y"
+      "36":"y",
+      "37":"y"
     },
     "chrome":{
       "4":"y x",

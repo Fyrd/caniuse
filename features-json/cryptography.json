@@ -70,9 +70,10 @@
       "31":"p",
       "32":"n d #2",
       "33":"n d #2",
-      "34":"n d #2",
-      "35":"y",
-      "36":"y"
+      "34":"a #4",
+      "35":"a #4",
+      "36":"a #4",
+      "37":"a #4"
     },
     "chrome":{
       "4":"p",
@@ -210,10 +211,11 @@
   "notes_by_num":{
     "1":"Support in IE11 is based an older version of the specification. ",
     "2":"Supported in Firefox behind the `dom.webcrypto.enabled` flag. ",
-    "3":"Supported in Safari using the `crypto.webkitSubtle` prefix"
+    "3":"Supported in Safari using the `crypto.webkitSubtle` prefix",
+    "4":"Partial support in Firefox is [described here](https://docs.google.com/spreadsheet/ccc?key=0AiAcidBZRLxndE9LWEs2R1oxZ0xidUVoU3FQbFFobkE#gid=1)"
   },
-  "usage_perc_y":43.87,
-  "usage_perc_a":7.4,
+  "usage_perc_y":43.86,
+  "usage_perc_a":7.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"subtle,subtlecrypto",
