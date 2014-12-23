@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Reportedly, CORS in EventSource is currently supported in Firefox 10+, Opera 12+, Chrome 26, other WebKit-based browsers will support soon."
+      "description":"Reportedly, CORS in EventSource is currently supported in Firefox 10+, Opera 12+, Chrome 26+, Safari 7.0+."
     },
     {
       "description":"In Firefox prior to version 36 server-sent events do not reconnect automatically in case of a connection interrupt ([bug](https://bugzilla.mozilla.org/show_bug.cgi?id=831392))"
