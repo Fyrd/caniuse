@@ -19,6 +19,9 @@
     },
     {
       "description":"Does not work on links in IE11."
+    },
+    {
+      "description":"Moving the scrollbar on an object with `pointer-events: none;` works in Firefox, but doesn't work in either Chrome or IE."
     }
   ],
   "categories":[

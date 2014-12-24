@@ -1,6 +1,6 @@
 {
   "title":"CSS Canvas Drawings",
-  "description":"Method of using HTML5 Canvas as a background image",
+  "description":"Method of using HTML5 Canvas as a background image. Not currently part of any specification.",
   "spec":"http://webkit.org/blog/176/css-canvas-drawing/",
   "status":"unoff",
   "links":[
@@ -198,7 +198,7 @@
       "9.9":"y x"
     }
   },
-  "notes":"Proposal by Webkit, being considered for W3C standardization. A similar effect can be achieved in Firefox 4+ using the -moz-element() background property",
+  "notes":"A similar effect can be achieved in Firefox 4+ using the -moz-element() background property",
   "notes_by_num":{
     
   },

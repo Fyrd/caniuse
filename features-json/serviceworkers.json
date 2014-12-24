@@ -1,24 +1,18 @@
 {
-  "title":"CSS Font Loading",
-  "description":"This CSS module defines a scripting interface to font faces in CSS, allowing font faces to be easily created and loaded from script. It also provides methods to track the loading status of an individual font, or of all the fonts on an entire page.",
-  "spec":"http://dev.w3.org/csswg/css-font-loading/",
-  "status":"cr",
+  "title":"Service Workers",
+  "description":"Method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.",
+  "spec":"http://www.w3.org/TR/service-workers/",
+  "status":"wd",
   "links":[
     {
-      "url":"https://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/#font-load-events",
-      "title":"Optimizing with font load events"
+      "url":"",
+      "title":""
     }
   ],
   "bugs":[
-    {
-      "description":"Firefox implementation is [in progress](https://bugzilla.mozilla.org/show_bug.cgi?id=1028497)."
-    },
-    {
-      "description":"WebKit [implementation](https://lists.webkit.org/pipermail/webkit-dev/2014-July/026741.html) is [in progress](https://bugs.webkit.org/show_bug.cgi?id=135390)."
-    }
+    
   ],
   "categories":[
-    "CSS3",
     "JS API"
   ],
   "stats":{
@@ -30,7 +24,7 @@
       "9":"n",
       "10":"n",
       "11":"n",
-      "TP":"n"
+      "TP":"u"
     },
     "firefox":{
       "2":"n",
@@ -66,11 +60,11 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"y",
-      "36":"y",
-      "37":"y"
+      "33":"a",
+      "34":"a",
+      "35":"a",
+      "36":"a",
+      "37":"a"
     },
     "chrome":{
       "4":"n",
@@ -104,14 +98,14 @@
       "32":"n",
       "33":"n",
       "34":"n",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y"
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n",
+      "39":"n",
+      "40":"a",
+      "41":"a",
+      "42":"a"
     },
     "safari":{
       "3.1":"n",
@@ -144,13 +138,13 @@
       "19":"n",
       "20":"n",
       "21":"n",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y"
+      "22":"n",
+      "23":"n",
+      "24":"a",
+      "25":"a",
+      "26":"a",
+      "27":"a",
+      "28":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -175,7 +169,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "37":"y"
+      "37":"n"
     },
     "bb":{
       "7":"n",
@@ -188,10 +182,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y"
+      "24":"n"
     },
     "and_chr":{
-      "39":"y"
+      "39":"n"
     },
     "and_ff":{
       "33":"n"
@@ -208,12 +202,12 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":40.72,
-  "usage_perc_a":0,
+  "usage_perc_y":0,
+  "usage_perc_a":2.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
-  "ie_id":"",
-  "chrome_id":"6244676289953792",
-  "shown":true
+  "ie_id":"serviceworker",
+  "chrome_id":"6561526227927040",
+  "shown":false
 }
