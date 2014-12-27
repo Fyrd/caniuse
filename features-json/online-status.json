@@ -2,7 +2,7 @@
   "title":"Online/offline status",
   "description":"Events to indicate when the user's connected (`online` and `offline` events) and the `navigator.onLine` property to see current status.",
   "spec":"https://html.spec.whatwg.org/multipage/browsers.html#browser-state",
-  "status":"wd",
+  "status":"ls",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine.onLine#Specification",
