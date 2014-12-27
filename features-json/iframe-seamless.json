@@ -1,8 +1,8 @@
 {
   "title":"seamless attribute for iframes",
   "description":"The seamless attribute makes an iframe's contents actually part of a page, and adopts the styles from its hosting page. ",
-  "spec":"http://www.w3.org/html/wg/drafts/html/master/single-page.html#attr-iframe-seamless",
-  "status":"wd",
+  "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#attr-iframe-seamless",
+  "status":"ls",
   "links":[
     {
       "url":"https://github.com/ornj/seamless-polyfill",
