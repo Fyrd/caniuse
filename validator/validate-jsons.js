@@ -5,7 +5,7 @@
     var fs = require('fs');
     var path = __dirname + '/../features-json';
     var sampleData;
-    var statusArr = ['rec', 'pr', 'cr', 'wd', 'other', 'unoff'];
+    var statusArr = ['rec', 'pr', 'cr', 'wd', 'ls', 'other', 'unoff'];
     var categoryArr = ['HTML5', 'CSS', 'CSS2', 'CSS3', 'SVG', 'PNG', 'JS API', 'Canvas', 'DOM', 'Other'];
     // Support string MUST have one of these (optionally others)
     var supportValues = ['y', 'a', 'n', 'u', 'p'];
