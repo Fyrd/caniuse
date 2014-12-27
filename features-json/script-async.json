@@ -2,7 +2,7 @@
   "title":"async attribute for external scripts",
   "description":"The boolean async attribute on script elements allows the external JavaScript file to run when it's available, without delaying page load first.",
   "spec":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async",
-  "status":"rec",
+  "status":"ls",
   "links":[
     {
       "url":"https://developer.mozilla.org/en/HTML/Element/script#Attributes",

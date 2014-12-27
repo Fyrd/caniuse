@@ -2,7 +2,7 @@
   "title":"Session history management",
   "description":"Method of manipulating the user's browser's session history in JavaScript using history.pushState, history.replaceState and the popstate event.",
   "spec":"https://html.spec.whatwg.org/multipage/browsers.html#dom-history-pushstate",
-  "status":"rec",
+  "status":"ls",
   "links":[
     {
       "url":"http://www.adequatelygood.com/2010/7/Saner-HTML5-History-Management",
