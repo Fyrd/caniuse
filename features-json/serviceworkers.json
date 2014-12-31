@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "JS API"
@@ -198,9 +198,9 @@
       "9.9":"n"
     }
   },
-  "notes":"",
+  "notes":"Details on partial support can be found on [is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":0,
   "usage_perc_a":2.63,
@@ -209,5 +209,5 @@
   "keywords":"",
   "ie_id":"serviceworker",
   "chrome_id":"6561526227927040",
-  "shown":false
+  "shown":true
 }
