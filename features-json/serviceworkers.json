@@ -7,10 +7,18 @@
     {
       "url":"http://www.html5rocks.com/en/tutorials/service-worker/introduction/",
       "title":"HTML5Rocks article (introduction)"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker_API",
+      "title":"MDN article"
+    },
+    {
+      "url":"https://jakearchibald.github.io/isserviceworkerready/resources.html",
+      "title":"List of various resources"
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "JS API"
@@ -200,7 +208,7 @@
   },
   "notes":"Details on partial support can be found on [is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)",
   "notes_by_num":{
-
+    
   },
   "usage_perc_y":0,
   "usage_perc_a":2.63,

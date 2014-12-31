@@ -7,16 +7,12 @@
     {
       "url":"http://www.html5rocks.com/en/tutorials/es7/observe/",
       "title":"Data-binding Revolutions with Object.observe()"
-    },
-    {
-      "url":"http://kangax.github.io/compat-table/es7/#Object.observe",
-      "title":"Support table for Object.observe"
     }
   ],
-  "bugs":[    
+  "bugs":[
+    
   ],
   "categories":[
-    "DOM",
     "JS API"
   ],
   "stats":{
@@ -143,12 +139,12 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n"
+      "23":"y",
+      "24":"y",
+      "25":"y",
+      "26":"y",
+      "27":"y",
+      "28":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -168,12 +164,12 @@
       "2.2":"n",
       "2.3":"n",
       "3":"n",
-      "4":"p",
-      "4.1":"p",
-      "4.2-4.3":"p",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "37":"n"
+      "37":"y"
     },
     "bb":{
       "7":"n",
@@ -186,16 +182,16 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "24":"y"
     },
     "and_chr":{
-      "39":"n"
+      "39":"y"
     },
     "and_ff":{
       "33":"n"
     },
     "ie_mob":{
-      "10":"p",
+      "10":"n",
       "11":"n"
     },
     "and_uc":{
@@ -206,12 +202,12 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":0,
+  "usage_perc_y":39.77,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"observe",
-  "ie_id":"objectobserve",  
+  "keywords":"",
+  "ie_id":"objectobserve",
   "chrome_id":"6147094632988672",
   "shown":true
 }
