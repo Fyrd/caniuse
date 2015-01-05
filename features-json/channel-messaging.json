@@ -200,9 +200,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag."
+    "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag. Reported to not work in web workers."
   },
-  "usage_perc_y":71.99,
+  "usage_perc_y":72.29,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"x-doc-messaging",
