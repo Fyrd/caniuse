@@ -193,7 +193,7 @@
     },
     "ie_mob":{
       "10":"n",
-      "11":"n"
+      "11":"a #1"
     },
     "and_uc":{
       "9.9":"y x"
@@ -201,10 +201,10 @@
   },
   "notes":"The `appearance` property currently does not appear in any CSS specification so there is no specifically correct usage.",
   "notes_by_num":{
-    
+    "1":"`-webkit-appearance` with value `none` is supported on IE11 Mobile for phones with \"[Windows Phone 8.1 Update](http://blogs.msdn.com/b/ie/archive/2014/07/31/the-mobile-web-should-just-work-for-everyone.aspx)\""
   },
   "usage_perc_y":76.54,
-  "usage_perc_a":0,
+  "usage_perc_a":0.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
