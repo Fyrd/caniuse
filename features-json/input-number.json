@@ -27,6 +27,9 @@
     },
     {
       "description":"The `.stepUp` and `.stepDown` methods incorrectly invoke `InvalidStateError` exceptions in IE 10 and 11."
+    },
+    {
+      "description":"IE does not convert the value to an invariant culture. IE simply submits the value as it was typed, using the user's regional settings, but the spec says the browser should submit in a normalized way."
     }
   ],
   "categories":[

@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari 8 [has a bug](https://discussions.apple.com/thread/6679022) with bottom-positioned values `background-attachment: fixed;`"
+    }
   ],
   "categories":[
     "CSS3"
