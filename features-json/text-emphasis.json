@@ -1,0 +1,218 @@
+{
+  "title":"text-emphasis styling",
+  "description":"Method of using small symbols next to each glyph to emphasize a run of text. The `text-emphasis` shorthand, and its `text-emphasis-style` and `text-emphasis-color` longhands, can be used to apply marks to the text. The `text-emphasis-position` property, which inherits separately, allows setting the emphasis marks’ position with respect to the text.",
+  "spec": "http://www.w3.org/TR/css-text-decor-3/#text-emphasis",
+  "status":"cr",
+  "links":[
+    {
+      "url":"http://example.com/path/to/link.html",
+      "title":"Link title"
+    }
+  ],
+  "bugs":[
+    {
+      "description":""
+    }
+  ],
+  "categories":[
+    "CSS3"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "TP":"n"
+    },
+    "firefox":{
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n"
+    },
+    "chrome":{
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"p x #1 #2",
+      "26":"p x #1 #2",
+      "27":"p x #1 #2",
+      "28":"p x #1 #2",
+      "29":"p x #1 #2",
+      "30":"p x #1 #2",
+      "31":"p x #1 #2",
+      "32":"p x #1 #2",
+      "33":"p x #1 #2",
+      "34":"p x #1 #2",
+      "35":"p x #1 #2",
+      "36":"p x #1 #2",
+      "37":"p x #1 #2",
+      "38":"p x #1 #2",
+      "39":"p x #1 #2",
+      "40":"p x #1 #2",
+      "41":"p x #1 #2",
+      "42":"p x #1 #2"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"n",
+      "6.1":"p x #1 #2",
+      "7":"p x #1 #2",
+      "7.1":"p x #1 #2",
+      "8":"y"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "15":"p x #1 #2",
+      "16":"p x #1 #2",
+      "16":"p x #1 #2",
+      "17":"p x #1 #2",
+      "18":"p x #1 #2",
+      "19":"p x #1 #2",
+      "20":"p x #1 #2",
+      "21":"p x #1 #2",
+      "22":"p x #1 #2",
+      "23":"p x #1 #2",
+      "24":"p x #1 #2",
+      "25":"p x #1 #2",
+      "26":"p x #1 #2",
+      "27":"p x #1 #2",
+      "28":"p x #1 #2"
+    },
+    "ios_saf":{
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6.0-6.1":"n",
+      "7.0-7.1":"p x #1 #2",
+      "8":"y",
+      "8.1":"y"
+    },
+    "op_mini":{
+      "5.0-8.0":"n"
+    },
+    "android":{
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"p x #1 #2",
+      "4.4.3-4.4.4":"p x #1 #2",
+      "37":"p x #1 #2"
+    },
+    "bb":{
+      "7":"u",
+      "10":"u"
+    },
+    "op_mob":{
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
+      "24":"p x #1 #2"
+    },
+    "and_chr":{
+      "39":"p x #1 #2"
+    },
+    "and_ff":{
+      "33":"n"
+    },
+    "ie_mob":{
+      "10":"u",
+      "11":"u"
+    },
+    "and_uc":{
+      "9.9":"n"
+    }
+  },
+  "notes":"Some old webkit browser(like Chrome 24) support `-webkit-text-emphasis`, but `element.style.WebkitTextEmphasis` get an empty string, and not support CKJ language and `text-emphasis-position`. So it's basicly useless and marked as unsupported in this table.",
+  "notes_by_num":{
+    "1": "Some old webkit browser support `-webkit-text-emphasis-position`, but it dosn't follow the spec. It support `-webkit-text-emphaisi-position:under;`, but not support `-webkit-text-emphasis-position:under right;` which is the right one.",
+    "2": "Not support `text-emphasis-position:left;` or `text-emphasis-position:under left;`."
+  },
+  "usage_perc_y":0,
+  "usage_perc_a":0,
+  "ucprefix":false,
+  "parent":"",
+  "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",
+  "ie_id":"",
+  "chrome_id":"",
+  "shown":true
+}
