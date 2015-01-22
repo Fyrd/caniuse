@@ -203,9 +203,10 @@
       "9.9":"n"
     }
   },
-  "notes":"Partial support refers to the only support for 'width' and 'height' property in IE, and the lack of support for 'orientation' property in Opera Mobile and Mini.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"IE only supports the 'width' and 'height' properties.",
+    "2":"Opera Mobile and Opera Mini only support the 'orientation' property."
   },
   "usage_perc_y":0,
   "usage_perc_a":13.81,
