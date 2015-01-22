@@ -1,7 +1,7 @@
 {
   "title":"text-emphasis styling",
   "description":"Method of using small symbols next to each glyph to emphasize a run of text. The `text-emphasis` shorthand, and its `text-emphasis-style` and `text-emphasis-color` longhands, can be used to apply marks to the text. The `text-emphasis-position` property, which inherits separately, allows setting the emphasis marks' position with respect to the text.",
-  "spec": "http://www.w3.org/TR/css-text-decor-3/#text-emphasis",
+  "spec":"http://www.w3.org/TR/css-text-decor-3/#text-emphasis",
   "status":"cr",
   "links":[
     {
@@ -9,7 +9,9 @@
       "title":"A javascript fallback for CSS3 emphasis mark."
     }
   ],
-  "bugs":[],
+  "bugs":[
+    
+  ],
   "categories":[
     "CSS3"
   ],
@@ -104,7 +106,8 @@
       "39":"a x #1 #2",
       "40":"a x #1 #2",
       "41":"a x #1 #2",
-      "42":"a x #1 #2"
+      "42":"a x #1 #2",
+      "43":"a x #1 #2"
     },
     "safari":{
       "3.1":"n",
@@ -131,7 +134,6 @@
       "12":"n",
       "12.1":"n",
       "15":"a x #1 #2",
-      "16":"a x #1 #2",
       "16":"a x #1 #2",
       "17":"a x #1 #2",
       "18":"a x #1 #2",
@@ -200,11 +202,11 @@
   },
   "notes":"Some old webkit browsers (like Chrome 24) support `-webkit-text-emphasis`, but `element.style.WebkitTextEmphasis` returns an empty string, and does not support CJK languages and `text-emphasis-position`. So it's basically useless and marked as unsupported in this table.",
   "notes_by_num":{
-    "1": "Some old webkit browsers support `-webkit-text-emphasis-position`, but don't follow the spec. They support `-webkit-text-emphasis-position:under;`, but don't support `-webkit-text-emphasis-position:under right;` which is the right one.",
-    "2": "Does not support `text-emphasis-position:left;` or `text-emphasis-position:under left;`."
+    "1":"Some old webkit browsers support `-webkit-text-emphasis-position`, but don't follow the spec. They support `-webkit-text-emphasis-position:under;`, but don't support `-webkit-text-emphasis-position:under right;` which is the right one.",
+    "2":"Does not support `text-emphasis-position:left;` or `text-emphasis-position:under left;`."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":6.22,
+  "usage_perc_a":49.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",
