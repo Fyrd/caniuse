@@ -26,6 +26,7 @@ Currently the following feature information can be modified:
 * **description** — Brief description of feature
 * **spec** — Spec URL
 * **status** — Spec status, one of the following:
+	* `ls` - WHATWG Living Standard
 	* `rec` - W3C Recommendation
 	* `pr` - W3C Proposed Recommendation
 	* `cr` - W3C Candidate Recommendation
