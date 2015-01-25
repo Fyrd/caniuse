@@ -1,8 +1,8 @@
 {
   "title":"Crisp Edges Image Rendering Algorithm",
-  "description":"Value crisp-edges for image-rendering",
+  "description":"Forces images to be scaled with an algorithm that preserves contrast and edges in the image, and which does not smooth colors or introduce blur to the image in the process. This is intended for images such as pixel art.",
   "spec":"http://dev.w3.org/csswg/css-images-3/#valdef-image-rendering-crisp-edges",
-  "status":"cr",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering",
@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "CSS",
@@ -203,14 +203,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Chrome, Safari and Opera use non-standard name -webkit-optimize-contrasts"
+    "1":"Chrome, Safari and Opera use non-standard value `-webkit-optimize-contrasts` instead of `crisp-edges`"
   },
-  "usage_perc_y":60.79,
-  "usage_perc_a":11.71,
+  "usage_perc_y":12.21,
+  "usage_perc_a":53.95,
   "ucprefix":false,
   "parent":"",
-  "keywords":"css,image-rendering,crisp-edges",
+  "keywords":"image-rendering,crisp-edges",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }

@@ -3,8 +3,15 @@
   "description":"BroadcastChannel allows scripts from the same origin but other browsing contexts (windows, workers) to send each other messages.",
   "spec":"https://html.spec.whatwg.org/multipage/comms.html#broadcasting-to-other-browsing-contexts",
   "status":"ls",
-  "links":[],
-  "bugs":[],
+  "links":[
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel",
+      "title":"MDN article"
+    }
+  ],
+  "bugs":[
+    
+  ],
   "categories":[
     "JS API"
   ],
@@ -194,7 +201,9 @@
     }
   },
   "notes":"",
-  "notes_by_num":{},
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
