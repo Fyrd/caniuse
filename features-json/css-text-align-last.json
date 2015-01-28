@@ -1,6 +1,6 @@
 {
   "title":"CSS3 text-align-last",
-  "description":"CSS property to describe how the last line of a block or a line right before a forced line break",
+  "description":"CSS property to describe how the last line of a block or a line right before a forced line break when `text-align` is `justify`.",
   "spec":"http://www.w3.org/TR/css3-text/#text-align-last-property",
   "status":"wd",
   "links":[
@@ -103,15 +103,15 @@
       "32":"n",
       "33":"n",
       "34":"n",
-      "35":"y d #2",
-      "36":"y d #2",
-      "37":"y d #2",
-      "38":"y d #2",
-      "39":"y d #2",
-      "40":"y d #2",
-      "41":"y d #2",
-      "42":"y d #2",
-      "43":"y d #2"
+      "35":"n d #2",
+      "36":"n d #2",
+      "37":"n d #2",
+      "38":"n d #2",
+      "39":"n d #2",
+      "40":"n d #2",
+      "41":"n d #2",
+      "42":"n d #2",
+      "43":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -144,14 +144,14 @@
       "19":"n",
       "20":"n",
       "21":"n",
-      "22":"y d #3",
-      "23":"y d #3",
-      "24":"y d #3",
-      "25":"y d #3",
-      "26":"y d #3",
-      "27":"y d #3",
-      "28":"y d #3",
-      "29":"y d #3"
+      "22":"n d #3",
+      "23":"n d #3",
+      "24":"n d #3",
+      "25":"n d #3",
+      "26":"n d #3",
+      "27":"n d #3",
+      "28":"n d #3",
+      "29":"n d #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -176,7 +176,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "37":"y d #2"
+      "37":"n"
     },
     "bb":{
       "7":"n",
@@ -189,10 +189,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y d #3"
+      "24":"n"
     },
     "and_chr":{
-      "40":"y d #2"
+      "40":"n"
     },
     "and_ff":{
       "33":"y x"
@@ -202,7 +202,7 @@
       "11":"a #1"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n"
     }
   },
   "notes":"",
@@ -211,12 +211,12 @@
     "2":"Enabled through the \"Enable Experimental Web Platform Features\" flag in chrome://flags",
     "3":"Enabled through the \"Enable Experimental Web Platform Features\" flag in opera://flags"
   },
-  "usage_perc_y":52.41,
+  "usage_perc_y":11.65,
   "usage_perc_a":17.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"text align last",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
