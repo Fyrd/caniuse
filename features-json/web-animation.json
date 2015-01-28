@@ -1,7 +1,7 @@
 {
   "title":"Web Animations API",
   "description":"This function lets you create an animation purely in JavaScript and have it run as efficiently as any CSS Animation or Transition.",
-  "spec":"http://dev.w3.org/fxtf/web-animations/",
+  "spec":"http://w3c.github.io/web-animations/",
   "status":"wd",
   "links":[
     {
@@ -11,6 +11,10 @@
     {
       "url":"http://updates.html5rocks.com/2013/12/New-Web-Animations-engine-in-Blink-drives-CSS-Animations-Transitions",
       "title":"HTML5 Rocks"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=875219",
+      "title":"Current Firefox status"
     }
   ],
   "bugs":[
@@ -105,9 +109,9 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"y",
-      "37":"y",
-      "38":"y",
+      "36":"a #1",
+      "37":"a #1",
+      "38":"a #1",
       "39":"y",
       "40":"y",
       "41":"y",
@@ -146,12 +150,13 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"y",
-      "24":"y",
-      "25":"y",
+      "23":"a #1",
+      "24":"a #1",
+      "25":"a #1",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -176,7 +181,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "37":"y"
+      "37":"a #1"
     },
     "bb":{
       "7":"n",
@@ -189,10 +194,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y"
+      "24":"a #1"
     },
     "and_chr":{
-      "40":"y"
+      "40":"a #1"
     },
     "and_ff":{
       "33":"n"
@@ -207,13 +212,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support refers to supporting `element.animate()` but not [playback control of AnimationPlayer](https://www.chromestatus.com/features/5633748733263872)"
   },
-  "usage_perc_y":40.13,
-  "usage_perc_a":0,
+  "usage_perc_y":26.32,
+  "usage_perc_a":13.82,
   "ucprefix":false,
   "parent":"",
-  "keywords":"js,animation,animate",
+  "keywords":"animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",
   "ie_id":"webanimationsjavascriptapi",
   "chrome_id":"4854343836631040",
   "shown":true
