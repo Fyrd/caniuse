@@ -221,7 +221,7 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in IE10 refers to [significantly buggy behavior](http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/).",
+  "notes":"Partial support in IE10 refers to [significantly buggy behavior](http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/). Firefox doesn't support [datalist association with inputs of type `number`](http://codepen.io/graste/pen/bNoVKW).",
   "notes_by_num":{
     
   },
