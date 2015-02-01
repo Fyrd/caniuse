@@ -22,16 +22,13 @@
       "description":"Safari 7.0 and older and Chrome 26 and older don't support viewport units in `calc()` expressions (fixed since then)."
     },
     {
-      "description":"`calc()` doesn't work [inside a transform in IE](http://connect.microsoft.com/IE/feedback/details/814380/css3-using-calc-inside-a-transform-is-invalid)"
-    },
-    {
       "description":"IE9 appears to ignore `calc()` expressions when `display:table` is used."
     },
     {
       "description":"Safari 6 has a bug where an element with a width defined using `calc()` has its width reset when changing the height using JS (fixed in Safari 7)."
     },
     {
-      "description":"IE11 and other browsers to a lesser extent have trouble supporting `calc()` inside [color or transform values](http://codepen.io/thebabydino/pen/wfraH)."
+      "description":"[IE11](http://connect.microsoft.com/IE/feedback/details/814380/css3-using-calc-inside-a-transform-is-invalid) and other browsers to a lesser extent have trouble supporting `calc()` inside [color or transform values](http://codepen.io/thebabydino/pen/wfraH)."
     },
     {
       "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with `inherit`](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
