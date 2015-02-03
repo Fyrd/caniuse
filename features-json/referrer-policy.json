@@ -3,11 +3,15 @@
   "description":"Allow control of HTTP referrers via the referrer meta tag.",
   "spec":"http://w3c.github.io/webappsec/specs/referrer-policy/",
   "status":"wd",
+  "links":[
+    
+  ],
+  "bugs":[
+    
+  ],
   "categories":[
     "Other"
   ],
-  "links": [],
-  "bugs": [],
   "stats":{
     "ie":{
       "5.5":"n",
@@ -194,15 +198,16 @@
       "9.9":"n"
     }
   },
-  
   "notes":"",
-  "notes_by_num":{},
-  "usage_perc_y":0,
+  "notes_by_num":{
+    
+  },
+  "usage_perc_y":43.99,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }
