@@ -209,7 +209,7 @@
   "notes_by_num":{
     "1":"Partial support can be enabled in Firefox with the `dom.fetch.enabled` flag.",
     "2":"Only available in Chrome and Opera within ServiceWorkers.",
-    "3":"Available in Chrome and Opera within Window by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`"
+    "3":"Available in Chrome and Opera within Window and Workers by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`"
   },
   "usage_perc_y":0,
   "usage_perc_a":16.84,
