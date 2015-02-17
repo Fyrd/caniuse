@@ -163,15 +163,15 @@
       "5.0-8.0":"u"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"a #1",
       "4.2-4.3":"a #1",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
+      "4.4":"n",
+      "4.4.3-4.4.4":"n",
       "37":"n"
     },
     "bb":{
@@ -207,11 +207,11 @@
     "2":"Partial support refers to supporting `local` but not `fixed`"
   },
   "usage_perc_y":67.21,
-  "usage_perc_a":21.87,
+  "usage_perc_a":22.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
