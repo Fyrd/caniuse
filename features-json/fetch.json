@@ -109,9 +109,9 @@
       "38":"n",
       "39":"n",
       "40":"a #2",
-      "41":"a #2",
-      "42":"a d #2 #3",
-      "43":"a d #2 #3"
+      "41":"a #2 #3",
+      "42":"y",
+      "43":"y"
     },
     "safari":{
       "3.1":"n",
@@ -149,9 +149,9 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n"
+      "27":"a #2",
+      "28":"a #2 #3",
+      "29":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -208,11 +208,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support can be enabled in Firefox with the `dom.fetch.enabled` flag.",
-    "2":"Only available in Chrome within ServiceWorkers.",
-    "3":"Available in Chrome within Window by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`"
+    "2":"Only available in Chrome and Opera within ServiceWorkers.",
+    "3":"Available in Chrome and Opera within Window and Workers by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":16.84,
+  "usage_perc_y":0.03,
+  "usage_perc_a":16.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"fetch,service,workers,xhr,xmlhttprequest",
