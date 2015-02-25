@@ -1,6 +1,6 @@
 {
   "title":"Srcset attribute",
-  "description":"Allows authors to specify alternate high-resolution sources on `img` elements",
+  "description":"Allows authors to define various image resources and “hints” that assist a user agent to determine the most appropriate image source to display (e.g. high-resolution displays, small monitors, etc).",
   "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#attr-img-srcset",
   "status":"ls",
   "links":[
