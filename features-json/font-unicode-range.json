@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Firefox 36- [ignores the descriptor](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range#Browser_compatibility) and the at-rule is then applied to the whole range of code points."
+      "description":"Firefox 37- [ignores the descriptor](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range#Browser_compatibility) and the at-rule is then applied to the whole range of code points."
     },
     {
       "description":"IE ignores the unicode-range if the U is lowercase e.g 'u+0061'."
@@ -80,9 +80,9 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"y",
-      "37":"y",
-      "38":"y"
+      "36":"n d #1",
+      "37":"n d #1",
+      "38":"n d #1"
     },
     "chrome":{
       "4":"a",
@@ -220,9 +220,9 @@
   },
   "notes":"Partial support indicates that unnecessary code-ranges are downloaded by the browser - see [browser test matrix](https://docs.google.com/a/chromium.org/spreadsheets/d/18h-1gaosu4-KYxH8JUNL6ZDuOsOKmWfauoai3CS3hPY/edit?pli=1#gid=0).",
   "notes_by_num":{
-    
+    "1":"Can be enabled in Firefox using the `layout.css.unicode-range.enabled` flag"
   },
-  "usage_perc_y":41.9,
+  "usage_perc_y":41.74,
   "usage_perc_a":36.24,
   "ucprefix":false,
   "parent":"",
