@@ -1,6 +1,6 @@
 {
   "title":"Srcset attribute",
-  "description":"Allows authors to define various image resources and “hints” that assist a user agent to determine the most appropriate image source to display (e.g. high-resolution displays, small monitors, etc).",
+  "description":"Allows authors to define various image resources and \"hints\" that assist a user agent to determine the most appropriate image source to display (e.g. high-resolution displays, small monitors, etc).",
   "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#attr-img-srcset",
   "status":"ls",
   "links":[
@@ -65,7 +65,8 @@
       "35":"n d #1",
       "36":"n d #1",
       "37":"n d #1",
-      "38":"y"
+      "38":"y",
+      "39":"y"
     },
     "chrome":{
       "4":"n",
