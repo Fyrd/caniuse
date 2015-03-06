@@ -112,7 +112,8 @@
       "40":"a #2",
       "41":"a #2 #3",
       "42":"y",
-      "43":"y"
+      "43":"y",
+      "44":"y"
     },
     "safari":{
       "3.1":"n",
@@ -212,8 +213,8 @@
     "2":"Only available in Chrome and Opera within ServiceWorkers.",
     "3":"Available in Chrome and Opera within Window and Workers by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`"
   },
-  "usage_perc_y":0.03,
-  "usage_perc_a":16.91,
+  "usage_perc_y":0.17,
+  "usage_perc_a":38.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"fetch,service,workers,xhr,xmlhttprequest",

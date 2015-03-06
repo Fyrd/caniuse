@@ -108,7 +108,8 @@
       "40":"y",
       "41":"y",
       "42":"y",
-      "43":"y"
+      "43":"y",
+      "44":"y"
     },
     "safari":{
       "3.1":"n",
@@ -208,8 +209,8 @@
     "2":"IE8 only supports the `online`/`offline` events on `document.body`, rather than `window`.",
     "3":"Desktop Firefox responds to the status of its \"Work Offline\" mode. If not in that mode, `navigator.onLine` in always `true`, regardless of the actual network connectivity status."
   },
-  "usage_perc_y":73.76,
-  "usage_perc_a":19.46,
+  "usage_perc_y":74.55,
+  "usage_perc_a":19.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
