@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"`image-rendering:-webkit-optimize-contrast;` and `-ms-interpolation-mode:nearest-neighbor` do not affect CSS images."
+    }
   ],
   "categories":[
     "CSS",
