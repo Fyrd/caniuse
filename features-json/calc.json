@@ -31,7 +31,7 @@
       "description":"Safari 6 has a bug where an element with a width defined using `calc()` has its width reset when changing the height using JS (fixed in Safari 7)."
     },
     {
-      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with `inherit`](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
+      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
     },
     {
       "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values."
