@@ -22,9 +22,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"Chrome and Opera on Windows have only millisecond precision. The fractional part is always near the very start or the very end of a millisecond. ([issue #158234](https://code.google.com/p/chromium/issues/detail?id=158234))."
-    }
+    
   ],
   "categories":[
     "JS API"

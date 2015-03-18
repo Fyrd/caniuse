@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"WebKitMutationObserver in iOS 6 has bug: it doesn't trigger `\"childList\"` changes until you bind one of the deprecated mutation events (for example, `\"DOMNodeInserted\"`) to the node which is watched by observer."
+    },
+    {
+      "description":"IE11 does not include the child nodes, when they are removed by setting the innerHTML of an element [see bug](https://connect.microsoft.com/IE/feedback/details/817132/ie-11-childnodes-are-missing-from-mutationobserver-mutations-removednodes-after-setting-innerhtml)"
     }
   ],
   "categories":[

@@ -31,6 +31,9 @@
     },
     {
       "description":"Some Samsung-based browsers, have a bug with overflowing text when ellipsis is set and if `text-rendering` is not `auto`."
+    },
+    {
+      "description":"Does not work in IE8 and IE9 on `<input type=\"text\">`"
     }
   ],
   "categories":[
