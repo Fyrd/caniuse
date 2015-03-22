@@ -107,9 +107,9 @@
       "39":"n",
       "40":"n",
       "41":"n",
-      "42":"u",
-      "43":"u",
-      "44":"u"
+      "42":"n",
+      "43":"n",
+      "44":"n"
     },
     "safari":{
       "3.1":"n",
@@ -196,14 +196,14 @@
       "33":"n"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
       "9.9":"n"
     }
   },
-  "notes":"Currently in development in WebKit.",
+  "notes":"Currently in development in WebKit with partial support in nightly builds.",
   "notes_by_num":{
     "1":"Partial support in IE10 refers to support limited to touch screens.",
     "2":"Partial support in IE11 [documented here](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/scroll-snap-points/support.html)",
@@ -213,8 +213,8 @@
   "usage_perc_a":9.46,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"scroll-snap-points-x,scroll-snap-points-y,scroll-snap-type,scroll-snap-destination,scroll-snap-coordinate",
   "ie_id":"cssscrollingsnappoints",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
