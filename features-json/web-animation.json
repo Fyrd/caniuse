@@ -1,6 +1,6 @@
 {
   "title":"Web Animations API",
-  "description":"This function lets you create an animation purely in JavaScript and have it run as efficiently as any CSS Animation or Transition.",
+  "description":"Lets you create animations that are run in the browser and as well as inspect and manipulate animations created through declarative means like CSS.",
   "spec":"http://w3c.github.io/web-animations/",
   "status":"wd",
   "links":[
@@ -13,7 +13,7 @@
       "title":"HTML5 Rocks"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=875219",
+      "url":"https://birtles.github.io/areweanimatedyet/",
       "title":"Current Firefox status"
     }
   ],
@@ -69,13 +69,13 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n"
+      "33":"a d #3",
+      "34":"a d #3",
+      "35":"a d #3",
+      "36":"a d #3",
+      "37":"a d #3",
+      "38":"a d #3",
+      "39":"a d #3"
     },
     "chrome":{
       "4":"n",
@@ -113,12 +113,12 @@
       "36":"a #1",
       "37":"a #1",
       "38":"a #1",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y"
+      "39":"a #2",
+      "40":"a #2",
+      "41":"a #2",
+      "42":"a #2",
+      "43":"a #2",
+      "44":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -155,10 +155,10 @@
       "23":"a #1",
       "24":"a #1",
       "25":"a #1",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y"
+      "26":"a #2",
+      "27":"a #2",
+      "28":"a #2",
+      "29":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -214,7 +214,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to supporting `element.animate()` but not [playback control of AnimationPlayer](https://www.chromestatus.com/features/5633748733263872)"
+    "1":"Partial support refers to basic support of `element.animate()`",
+    "2":"Partial support refers to basic support of `element.animate()` and [playback control of AnimationPlayer](https://www.chromestatus.com/features/5633748733263872)",
+    "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)"
   },
   "usage_perc_y":30.45,
   "usage_perc_a":12.72,
