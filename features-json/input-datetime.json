@@ -38,7 +38,7 @@
       "9":"n",
       "10":"n",
       "11":"n",
-      "TP":"n"
+      "TP":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -219,7 +219,7 @@
   },
   "notes":"Partial support in iOS refers to a lack of support for attributes like step, min, or max.\r\n\r\nOlder versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nSome modified versions of the Android 4.x browser do have support for date/time fields.",
   "notes_by_num":{
-    
+      "1":"Partial support can be enabled in EdgeHTML.dll using the `HTML5 date and time input types` flag in `about:flags`. This enables the `date`, `week`, and `month` input types."
   },
   "usage_perc_y":60.76,
   "usage_perc_a":0,
