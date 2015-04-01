@@ -1,6 +1,6 @@
 {
   "title":"Media Queries: interaction media features",
-  "description":"Allows a media query to be set based on the presence and accuracy of the user’s pointing device, and whether they have the ability to hover over elements on the page. This includes the `pointer`, `any-pointer`, `hover`, and `any-hover` media features.",
+  "description":"Allows a media query to be set based on the presence and accuracy of the user\u2019s pointing device, and whether they have the ability to hover over elements on the page. This includes the `pointer`, `any-pointer`, `hover`, and `any-hover` media features.",
   "spec":"http://www.w3.org/TR/mediaqueries-4/#mf-interaction",
   "status":"wd",
   "links":[
@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-	  
+    
   ],
   "categories":[
     "CSS"
@@ -205,14 +205,14 @@
   },
   "notes":"",
   "notes_by_num":{
-
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":10.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,interation,hover,any-hover,pointer,any-pointer",
   "ie_id":"mediaquerieslevel4interactionmediafeaturespointerandhover",
   "chrome_id":"6460705494532096",
-  "shown":true
+  "shown":false
 }

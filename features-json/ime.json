@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "JS API"
@@ -205,14 +205,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Prefixed implementation uses `msGetInputMethodContext()` method from an earlier version of the spec to get the `InputMethodContext`, rather than the `inputMethodContext` attribute. Also includes support for `getCompositionAlternatives()` from the latest Editor’s Draft."
+    "1":"Prefixed implementation uses `msGetInputMethodContext()` method from an earlier version of the spec to get the `InputMethodContext`, rather than the `inputMethodContext` attribute. Also includes support for `getCompositionAlternatives()` from the latest E"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":8.5,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"ime,cjk,input,internationalization,inputMethodContext,candidatewindow,composition",
   "ie_id":"imeapi",
   "chrome_id":"6366722080636928",
-  "shown":true
+  "shown":false
 }
