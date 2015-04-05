@@ -2,7 +2,7 @@
   "title":"CSS Logical Properties",
   "description":"Use start/end properties that depend on LTR or RTL writing direction instead of left/right",
   "spec":"http://dev.w3.org/csswg/css-logical-props/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-margin-start",
@@ -170,20 +170,20 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
+      "2.1":"a x #2",
+      "2.2":"a x #2",
+      "2.3":"a x #2",
+      "3":"a x #2",
+      "4":"a x #2",
+      "4.1":"a x #2",
+      "4.2-4.3":"a x #2",
+      "4.4":"a x #2",
+      "4.4.3-4.4.4":"a x #2",
       "37":"a x #2"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"a x #2",
+      "10":"a x #2"
     },
     "op_mob":{
       "10":"n",
@@ -205,20 +205,20 @@
       "11":"n"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"a x #2"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Firefox supports only -moz-margin-start, -moz-margin-end, -moz-padding-start, -moz-padding-end, -moz-border-start, -moz-border-end",
-    "2":"Like Firefox but also supports *-before and *-end for *-block-start and *-block-end properties"
+    "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
+    "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":69.45,
+  "usage_perc_a":79.96,
   "ucprefix":false,
   "parent":"",
-  "keywords":"margin,padding,start,end,left,,right",
+  "keywords":"margin-start,margin-end,padding-start,padding-end,border-start,border-end,inline-start,inline-end,block-start,block-end",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
