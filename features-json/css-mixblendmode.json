@@ -124,8 +124,8 @@
       "6":"n",
       "6.1":"n",
       "7":"n",
-      "7.1":"y",
-      "8":"y"
+      "7.1":"a #2",
+      "8":"a #2"
     },
     "opera":{
       "9":"n",
@@ -162,8 +162,8 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"y",
-      "8.1":"y"
+      "8":"a #2",
+      "8.1":"a #2"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -209,7 +209,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "2":"Partial in Safari refers to not supporting the `hue`, `saturation`, `color`, and `luminosity` blend modes."
   },
   "usage_perc_y":46.94,
   "usage_perc_a":0,
