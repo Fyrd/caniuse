@@ -1,12 +1,16 @@
 {
   "title":"Media Queries: interaction media features",
-  "description":"Allows a media query to be set based on the presence and accuracy of the user\u2019s pointing device, and whether they have the ability to hover over elements on the page. This includes the `pointer`, `any-pointer`, `hover`, and `any-hover` media features.",
+  "description":"Allows a media query to be set based on the presence and accuracy of the user's pointing device, and whether they have the ability to hover over elements on the page. This includes the `pointer`, `any-pointer`, `hover`, and `any-hover` media features.",
   "spec":"http://www.w3.org/TR/mediaqueries-4/#mf-interaction",
   "status":"wd",
   "links":[
     {
       "url":"http://jordanm.co.uk/2013/11/11/potential-use-cases-for-script-hover-and-pointer.html",
       "title":"Potential use cases for script, hover and pointer CSS Level 4 Media Features"
+    },
+    {
+      "url":"https://dev.opera.com/articles/media-features/",
+      "title":"Interaction Media Features and their potential (for incorrect assumptions)"
     }
   ],
   "bugs":[
@@ -214,5 +218,5 @@
   "keywords":"@media,interation,hover,any-hover,pointer,any-pointer",
   "ie_id":"mediaquerieslevel4interactionmediafeaturespointerandhover",
   "chrome_id":"6460705494532096",
-  "shown":false
+  "shown":true
 }
