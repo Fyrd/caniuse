@@ -105,11 +105,11 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"a",
-      "41":"a",
-      "42":"a",
-      "43":"a",
-      "44":"a"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y"
     },
     "safari":{
       "3.1":"n",
@@ -147,9 +147,9 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"a",
-      "28":"a",
-      "29":"a"
+      "27":"y",
+      "28":"y",
+      "29":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -174,7 +174,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "37":"n"
+      "40":"y"
     },
     "bb":{
       "7":"n",
@@ -190,7 +190,7 @@
       "24":"n"
     },
     "and_chr":{
-      "41":"a"
+      "41":"y"
     },
     "and_ff":{
       "36":"n"
@@ -203,12 +203,12 @@
       "9.9":"n"
     }
   },
-  "notes":"Partial support in Chrome and Opera is due to a [bug](http://crbug.com/470577) which prevents any validation from occurring if the field has any pre-filled value.",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":0,
-  "usage_perc_a":39.74,
+  "usage_perc_y":39.74,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"",
