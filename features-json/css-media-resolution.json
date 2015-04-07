@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-     "description":"Project Spartan technical preview has a bug where `min-resolution` less than `1dpcm` [is ignored](http://jsfiddle.net/behmjd5t/)."
+    {
+       "description":"Project Spartan technical preview has a bug where `min-resolution` less than `1dpcm` [is ignored](http://jsfiddle.net/behmjd5t/)."
+    }
   ],
   "categories":[
     "CSS",
@@ -25,7 +27,7 @@
       "9":"a #1",
       "10":"a #1",
       "11":"a #1",
-      "TP":"a"
+      "TP":"y"
     },
     "firefox":{
       "2":"n",
