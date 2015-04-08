@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Firefox and Safari currently do not support IndexedDB inside web workers."
+      "description":"Firefox (prior to version 37) and Safari do not support IndexedDB inside web workers."
     }
   ],
   "categories":[

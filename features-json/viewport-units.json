@@ -23,22 +23,25 @@
   ],
   "bugs":[
     {
-      "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in calc() until version 34."
+      "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in `calc()` until version 34."
     },
     {
-      "description":"Safari & iOS Safari (both 6 and 7) does not support viewport units for border widths, column gaps, transform values, box shadows or in calc()."
+      "description":"Safari & iOS Safari (both 6 and 7) does not support viewport units for border widths, column gaps, transform values, box shadows or in `calc()`."
     },
     {
       "description":"iOS 7 Safari sets viewport unit values to 0 if the page has been left and is returned to after 60 seconds."
     },
     {
-      "description":"Internet Explorer 9 in print-mode interprets vh as pages. 30vh = 30 pages"
+      "description":"Internet Explorer 9 in print-mode interprets `vh` as pages. `30vh` = 30 pages"
     },
     {
-      "description":"iOS 7 Safari recalculates widths set in vh as vw, and heights set in vw as vh, when orientation changes."
+      "description":"iOS 7 Safari recalculates widths set in `vh` as `vw`, and heights set in `vw` as `vh`, when orientation changes."
     },
     {
-      "description":"Chrome does not print elements defined with vw or vh units."
+      "description":"Chrome does not print elements defined with `vw` or `vh` units."
+    },
+    {
+      "description":"Firefox doesn't seem to support `vh` if used in conjunction with `min-height` (eg `min-height: 100vh;`)"
     }
   ],
   "categories":[

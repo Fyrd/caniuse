@@ -37,6 +37,9 @@
     },
     {
       "description":"IE 8 ignores `box-sizing: border-box` if min/max-width/height is used."
+    },
+    {
+      "description":"Chrome has problems selecting options from the `select` element when using `box-sizing: border-box` and browser zoom level is less than 100%."
     }
   ],
   "categories":[

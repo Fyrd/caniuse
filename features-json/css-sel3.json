@@ -27,6 +27,9 @@
     },
     {
       "description":"iOS 8 Safari has [issues with nth-child](http://stackoverflow.com/questions/26032513/ios8-safari-after-a-pushstate-the-nth-child-selectors-not-works).\r\n"
+    },
+    {
+      "description":"IE9-IE11 supports `:empty` but will not repaint/relayout the page if content is added/removed from an `:empty` selected element"
     }
   ],
   "categories":[

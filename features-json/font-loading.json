@@ -67,9 +67,9 @@
       "34":"n",
       "35":"n d #1",
       "36":"n d #1",
-      "37":"y",
-      "38":"y",
-      "39":"y"
+      "37":"n d #1",
+      "38":"n d #1",
+      "39":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -208,9 +208,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled in Firefox using the `layout.css.font-loading-api.enabled` flag."
+    "1":"Can be enabled in Firefox using the `layout.css.font-loading-api.enabled` flag. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1149381) for information on when it will be enabled by default."
   },
-  "usage_perc_y":44.19,
+  "usage_perc_y":43.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

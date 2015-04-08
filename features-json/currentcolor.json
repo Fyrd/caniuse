@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari and iOS Safari 8 (maybe earlier too) have [a bug with currentColor](http://stackoverflow.com/questions/29400291/currentcolor-seems-to-get-stuck-in-safari) in :after/:before pseudo-content"
+    }
   ],
   "categories":[
     "CSS"

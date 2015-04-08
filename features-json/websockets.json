@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Firefox 36 and lower cannot host a WebSocket within a WebWorker context; see https://developer.mozilla.org/en-US/Firefox/Releases/37"
+      "description":"Firefox 37 and lower cannot host a WebSocket within a WebWorker context, this support may arrive [in Firefox 38](https://developer.mozilla.org/en-US/Firefox/Releases/38)"
     }
   ],
   "categories":[
