@@ -31,6 +31,9 @@
   ],
   "bugs":[
     {
+      "description":"IE11 will not apply flexbox on pseudo-elements. [See bug](https://connect.microsoft.com/IE/feedbackdetail/view/1058330/ie11-will-not-apply-flexbox-on-pseudo-elements)."
+    },
+    {
       "description":"IE10 and IE11 default values for `flex` are `0 0 auto` rather than `0 1 auto`, as per the draft spec, as of September 2013."
     },
     {
