@@ -35,6 +35,9 @@
     },
     {
       "description":"Firefox on Windows [incorrectly renders plugin content within no-op 3D transforms](https://bugzilla.mozilla.org/show_bug.cgi?id=1048279)."
+    },
+    {
+      "description":"The `perspective` property doesn't work on the `body` element in Firefox, it must be used on an inner element."
     }
   ],
   "categories":[
