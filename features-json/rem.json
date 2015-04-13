@@ -1,6 +1,6 @@
 {
   "title":"rem (root em) units",
-  "description":"Type of unit similar to \"em\", but relative only to the root element, not any parent element. Thus compounding does not occur as it does with \"em\" units.",
+  "description":"Type of unit similar to `em`, but relative only to the root element, not any parent element. Thus compounding does not occur as it does with `em` units.",
   "spec":"http://www.w3.org/TR/css3-values/#font-relative-lengths",
   "status":"cr",
   "links":[
@@ -15,9 +15,6 @@
   ],
   "bugs":[
     {
-      "description":"IE 9 & IE 10 do not support `rem` units when used in the `font` shorthand property (the entire declaration is ignored) or when used on pseudo elements."
-    },
-    {
       "description":"IE 9, 10 and 11 do not support rem units when used in the \"line-height\" property when used on :before and :after pseudo elements (https://connect.microsoft.com/IE/feedback/details/776744)."
     },
     {
@@ -25,6 +22,9 @@
     },
     {
       "description":"Reportedly does not work on Android 4.3 browser for Samsung Note II or the Samsung Galaxy Tab 2 on Android 4.2."
+    },
+    {
+      "description":"Chrome 31-34 & Chrome-based Android versions (like 4.4) [have a font size bug](https://code.google.com/p/chromium/issues/detail?id=319623) that occurs when the root element has a percentage-based size."
     }
   ],
   "categories":[
@@ -36,8 +36,8 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"y",
-      "10":"y",
+      "9":"a #1",
+      "10":"a #1",
       "11":"y",
       "TP":"y"
     },
@@ -221,10 +221,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"IE 9 & IE 10 do not support `rem` units when used in the `font` shorthand property (the entire declaration is ignored) or when used on pseudo elements."
   },
-  "usage_perc_y":94.48,
-  "usage_perc_a":0,
+  "usage_perc_y":91.55,
+  "usage_perc_a":2.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"rems",

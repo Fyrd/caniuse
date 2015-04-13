@@ -1,6 +1,6 @@
 {
   "title":"CSS3 Transitions",
-  "description":"Simple method of animating certain properties of an element",
+  "description":"Simple method of animating certain properties of an element.",
   "spec":"http://www.w3.org/TR/css3-transitions/",
   "status":"wd",
   "links":[
@@ -228,7 +228,7 @@
       "9.9":"y x"
     }
   },
-  "notes":"",
+  "notes":"Support listed is for `transition` properties as well as the `transitionend` event. The prefixed name in WebKit browsers is `webkitTransitionEnd`",
   "notes_by_num":{
     
   },
@@ -236,7 +236,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"css transition",
+  "keywords":"css transition,transitionend",
   "ie_id":"",
   "chrome_id":"",
   "shown":true
