@@ -40,6 +40,9 @@
   "bugs":[
     {
       "description":"Volume is read-only on iOS."
+    },
+    {
+      "description":"Chrome on Android does [not support autoplay](https://code.google.com/p/chromium/issues/detail?id=178297) as advised by the specification."
     }
   ],
   "categories":[

@@ -1,6 +1,6 @@
 {
   "title":":placeholder-shown CSS pseudo-class",
-  "description":"The :placeholder-shown pseudo-class represents the placeholder contents of a form field with placeholder text.",
+  "description":"The :placeholder-shown pseudo-class represents a form element with visible placeholder contents.",
   "spec":"http://www.w3.org/TR/selectors4/#placeholder",
   "status":"wd",
   "links":[
@@ -212,7 +212,7 @@
       "9.9":"a x"
     }
   },
-  "notes":"Partial support refers to support for alternative syntax: ::-webkit-input-placeholder (Chrome/Safari/Opera),\r\n::-moz-placeholder (Firefox) and \r\n:-ms-input-placeholder (IE). ",
+  "notes":"Partial support refers to support for styling just the placeholder text, rather than the actual element itself: `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n`::-moz-placeholder` (Firefox) and \r\n`:-ms-input-placeholder` (IE). ",
   "notes_by_num":{
     
   },

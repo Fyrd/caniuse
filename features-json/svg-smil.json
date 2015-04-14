@@ -27,9 +27,6 @@
   ],
   "bugs":[
     {
-      "description":"Animation in SVG is not supported in iOS safari when the SVG is displayed in an img tag."
-    },
-    {
       "description":"No events are fired at all in WebKit/Blink browsers during animation (onbegin/onrepeat/onend) [see bug](https://bugs.webkit.org/show_bug.cgi?id=63727)"
     },
     {
@@ -142,7 +139,7 @@
       "4":"a",
       "5":"a",
       "5.1":"a",
-      "6":"a",
+      "6":"y",
       "6.1":"y",
       "7":"y",
       "7.1":"y",
@@ -228,12 +225,12 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in Safari refers to not working in HTML files.",
+  "notes":"Partial support in older Safari versions refers to not working in HTML files or CSS background images.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":79.43,
-  "usage_perc_a":0.62,
+  "usage_perc_y":79.5,
+  "usage_perc_a":0.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

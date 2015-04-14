@@ -1,6 +1,6 @@
 {
   "title":"Session history management",
-  "description":"Method of manipulating the user's browser's session history in JavaScript using history.pushState, history.replaceState and the popstate event.",
+  "description":"Method of manipulating the user's browser's session history in JavaScript using `history.pushState`, `history.replaceState` and the `popstate` event.",
   "spec":"https://html.spec.whatwg.org/multipage/browsers.html#dom-history-pushstate",
   "status":"ls",
   "links":[
@@ -38,6 +38,9 @@
     },
     {
       "description":"The title argument is not applied in the history list of major browsers; they will display the page's title instead."
+    },
+    {
+      "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK) "
     }
   ],
   "categories":[
