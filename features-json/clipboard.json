@@ -112,7 +112,7 @@
       "39":"a #3",
       "40":"a #3",
       "41":"a #3",
-      "42":"y",
+      "42":"a #3",
       "43":"y",
       "44":"y"
     },
@@ -154,7 +154,7 @@
       "26":"a #3",
       "27":"a #3",
       "28":"a #3",
-      "29":"y"
+      "29":"a #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -182,7 +182,7 @@
       "40":"u"
     },
     "bb":{
-      "7":"n",
+      "7":"u",
       "10":"u"
     },
     "op_mob":{
@@ -205,17 +205,17 @@
       "11":"u"
     },
     "and_uc":{
-      "9.9":"n"
+      "9.9":"u"
     }
   },
-  "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+ and Opera 29+ support clipboard reading/writing only when part of a user action (click, keydown, etc)",
+  "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+ and Opera 29+ support clipboard reading/writing only when part of a user action (click, keydown, etc)\r\n\r\nFirefox users [can enable support](https://developer.mozilla.org/en-US/docs/Midas/Security_preferences) with a security preference setting.",
   "notes_by_num":{
     "1":"Only supports `Text` and `URL` data types and uses [a non-standard method](http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx) of interacting with the clipboard.",
     "2":"Only fires `copy` event on a valid selection and only `cut` and `paste` in focused editable fields.",
     "3":"Only supports OS clipboard reading/writing via shortcut keys, not through `document.execCommand()`."
   },
-  "usage_perc_y":0.27,
-  "usage_perc_a":63.56,
+  "usage_perc_y":0.13,
+  "usage_perc_a":63.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata",
