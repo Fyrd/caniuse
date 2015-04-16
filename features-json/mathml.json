@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "Other"
@@ -39,10 +39,10 @@
       "TP":"n"
     },
     "firefox":{
-      "2":"y",
-      "3":"y",
-      "3.5":"y",
-      "3.6":"y",
+      "2":"y #1",
+      "3":"y #1",
+      "3.5":"y #1",
+      "3.6":"y #1",
       "4":"y",
       "5":"y",
       "6":"y",
@@ -218,7 +218,7 @@
   },
   "notes":"Opera's support is limited to a CSS profile of MathML. Support was added in Chrome 24, but removed afterwards due to instability.",
   "notes_by_num":{
-    
+    "1": "Before version 4, Firefox only supports the XHTML notation"
   },
   "usage_perc_y":23.21,
   "usage_perc_a":4.58,
