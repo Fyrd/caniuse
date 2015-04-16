@@ -19,13 +19,13 @@
   ],
   "bugs":[
     {
-      "description":"IE10 and IE11 don't support using `calc()` inside a `transform`. [Bug report](https://connect.microsoft.com/IE/feedback/details/814380/)"
-    },
-    {
       "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
     },
     {
       "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values"
+    },
+    {
+      "description":"IE10 and IE11 don't support using `calc()` inside a `transform`. [Bug report](https://connect.microsoft.com/IE/feedback/details/814380/)"
     }
   ],
   "categories":[
