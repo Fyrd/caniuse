@@ -19,10 +19,13 @@
   ],
   "bugs":[
     {
-      "description":"IE7 doesn't support min-width on input button/submit button/reset button."
+      "description":"IE7 doesn't support `min-width` on input button/submit button/reset button."
     },
     {
-      "description":"Safari on iOS 5.1 does not support \"min-width\" on table elements."
+      "description":"Safari on iOS 5.1 does not support `min-width` on table elements."
+    },
+    {
+      "description":"Firefox does not support `min-height` on table elements or elements with `display: table`"
     }
   ],
   "categories":[
@@ -218,7 +221,7 @@
       "9.9":"y"
     }
   },
-  "notes":"IE7 does not support \"inherit\" as a value on any of these properties. IE8 has some bugs with max-width/height combined with overflow: auto/scroll.",
+  "notes":"IE7 does not support `inherit` as a value on any of these properties. IE8 has some bugs with `max-width`/`height` combined with `overflow: auto`/`scroll`.",
   "notes_by_num":{
     
   },

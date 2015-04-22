@@ -1,6 +1,6 @@
 {
   "title":"Date and time input types",
-  "description":"Form field widget to easily allow users to enter a date or a time, generally by using a calendar/time input widget. Previously there was also a single field for both date & time, but this has been deprecated.",
+  "description":"Form field widget to easily allow users to enter a date or a time, generally by using a calendar/time input widget.",
   "spec":"https://html.spec.whatwg.org/multipage/forms.html#date-state-(type=date)",
   "status":"ls",
   "links":[
@@ -223,7 +223,7 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in iOS refers to a lack of support for attributes like step, min, or max.\r\n\r\nOlder versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nSome modified versions of the Android 4.x browser do have support for date/time fields.",
+  "notes":"Partial support in iOS refers to a lack of support for attributes like step, min, or max.\r\n\r\nOlder versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nSome modified versions of the Android 4.x browser do have support for date/time fields.\r\n\r\nChrome and Opera also support the `datetime-local` type for both date and time, but not the `datetime` one.",
   "notes_by_num":{
     "1":"Partial support can be enabled in EdgeHTML.dll using the `HTML5 date and time input types` flag in `about:flags`. This enables the `date`, `week`, and `month` input types."
   },
