@@ -35,6 +35,9 @@
     },
     {
       "description":"SVG graphics look pixelated when zooming in or using scaled up images in Opera Mini & Opera Mobile 12.1-."
+    },
+    {
+      "description":"IE 9-11 do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`"
     }
   ],
   "categories":[
