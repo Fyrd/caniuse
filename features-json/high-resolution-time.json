@@ -23,8 +23,10 @@
   ],
   "bugs":[
     {
-      "description":"The Spy in the Sandbox vulnerability is a class of JavaScript-based exploits that leverage the High Resolution Time API to detect CPU cache hit/miss on chosen plaintext data placed into cache by an attacker. [Full security research paper is here](http://arxiv.org/abs/1502.07373)",
-      "description":"Some versions of Chrome and Opera on Windows have only millisecond precision. The fractional part is always near the very start or the very end of a millisecond. (<a href=\"https://code.google.com/p/chromium/issues/detail?id=158234\">issue #158234</a>)."
+      "description":"Some versions of Chrome and Opera on Windows have only millisecond precision. The fractional part is always near the very start or the very end of a millisecond. ([issue #158234](https://code.google.com/p/chromium/issues/detail?id=158234))."
+    },
+    {
+      "description":"The Spy in the Sandbox vulnerability is a class of JavaScript-based exploits that leverage the High Resolution Time API to detect CPU cache hit/miss on chosen plaintext data placed into cache by an attacker. [Full security research paper is here](http://arxiv.org/abs/1502.07373)"
     }
   ],
   "categories":[

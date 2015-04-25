@@ -1,6 +1,6 @@
 {
   "title":"CSS3 font-kerning",
-  "description":"Controls the usage of the kerning information stored in the font; that is, it controls how letters are spaced.",
+  "description":"Controls the usage of the kerning information (spacing between letters) stored in the font. Note that this only affects OpenType fonts with kerning information, it has no effect on other fonts.",
   "spec":"http://www.w3.org/TR/css3-fonts/#font-kerning-prop",
   "status":"cr",
   "links":[
@@ -22,9 +22,9 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a #2",
-      "11":"a #2",
-      "TP":"a #2"
+      "10":"n",
+      "11":"n",
+      "TP":"n"
     },
     "firefox":{
       "2":"n",
@@ -95,23 +95,23 @@
       "26":"n",
       "27":"n",
       "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"u",
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
       "32":"y x",
-      "33":"y x",
-      "34":"y x",
-      "35":"y x",
-      "36":"y x",
-      "37":"y x",
-      "38":"y x",
-      "39":"y x",
-      "40":"y x",
-      "41":"y x",
-      "42":"y x",
-      "43":"y x",
-      "44":"y x",
-      "45":"y x"
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y"
     },
     "safari":{
       "3.1":"n",
@@ -121,9 +121,9 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"y",
-      "7.1":"y",
-      "8":"y"
+      "7":"y x",
+      "7.1":"y x",
+      "8":"y x"
     },
     "opera":{
       "9":"n",
@@ -141,17 +141,17 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n"
+      "19":"y x",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y",
+      "24":"y",
+      "25":"y",
+      "26":"y",
+      "27":"y",
+      "28":"y",
+      "29":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -159,28 +159,28 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0-7.1":"n",
-      "8":"n",
-      "8.1-8.3":"n"
+      "7.0-7.1":"u",
+      "8":"u",
+      "8.1-8.3":"y x"
     },
     "op_mini":{
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n",
-      "4.4":"n",
-      "4.4.3-4.4.4":"n",
-      "40":"n"
+      "2.1":"u",
+      "2.2":"u",
+      "2.3":"u",
+      "3":"u",
+      "4":"u",
+      "4.1":"u",
+      "4.2-4.3":"u",
+      "4.4":"u",
+      "4.4.3-4.4.4":"u",
+      "40":"u"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"u",
+      "10":"u"
     },
     "op_mob":{
       "10":"n",
@@ -189,29 +189,28 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "24":"y"
     },
     "and_chr":{
-      "42":"y x"
+      "42":"y"
     },
     "and_ff":{
-      "37":"n"
+      "37":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "9.9":"n"
+      "9.9":"y x"
     }
   },
-  "notes":"",
+  "notes":"Browsers with support for [font feature settings](http://caniuse.com/#feat=font-feature) can also set kerning value.",
   "notes_by_num":{
-    "1":"Disabled by default, can be enabled using preference layout.css.font-features.enabled - defaulting to true on Nightly and Aurora only.",
-    "2":"OpenType layout features might be supported using font-feature-settings property, however individual font-kerning property is not supported."
+    "1":"Disabled by default, can be enabled using preference layout.css.font-features.enabled - defaulting to true on Nightly and Aurora only."
   },
-  "usage_perc_y":54.55,
-  "usage_perc_a":8.75,
+  "usage_perc_y":67.33,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
