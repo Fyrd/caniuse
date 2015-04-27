@@ -26,6 +26,9 @@
     },
     {
       "description":"Firefox does not support `min-height` on table elements or elements with `display: table`"
+    },
+    {
+      "description":"`max-width` doesn't work with images in table cells in IE."
     }
   ],
   "categories":[
