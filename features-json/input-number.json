@@ -30,6 +30,9 @@
     },
     {
       "description":"IE does not convert the value to an invariant culture. IE simply submits the value as it was typed, using the user's regional settings, but the spec says the browser should submit in a normalized way."
+    },
+    {
+      "description":"Currently no mobile browsers and very few desktop browsers support using commas for languages where commas are used as decimal separators."
     }
   ],
   "categories":[

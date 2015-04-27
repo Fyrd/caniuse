@@ -1,8 +1,8 @@
 {
-  "title":"HTTP/2 protocol / SPDY",
-  "description":"Networking protocol for low-latency transport of content over the web. Originally started out from the SPDY protocol, now standardized as HTTP version 2.",
+  "title":"SPDY protocol",
+  "description":"Networking protocol for low-latency transport of content over the web. Superseded by HTTP version 2.",
   "spec":"http://http2.github.io/http2-spec/index.html",
-  "status":"other",
+  "status":"unoff",
   "links":[
     {
       "url":"http://en.wikipedia.org/wiki/HTTP/2",
@@ -14,9 +14,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"Partial support in IE11 refers to not working on Windows 7."
-    }
+    
   ],
   "categories":[
     "Other"
@@ -29,8 +27,8 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"a",
-      "TP":"y"
+      "11":"y",
+      "TP":"u"
     },
     "firefox":{
       "2":"n",
@@ -211,15 +209,15 @@
       "9.9":"u"
     }
   },
-  "notes":"",
+  "notes":"See also support for [HTTP2](http://caniuse.com/#feat=http2), successor of SPDY.\r\n\r\nChrome will be removing support in 2016 (in favor of HTTP2), other browsers likely to follow.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":72.15,
-  "usage_perc_a":7.52,
+  "usage_perc_y":79.67,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"http2",
+  "keywords":"",
   "ie_id":"http2",
   "chrome_id":"5152586365665280",
   "shown":true

@@ -38,6 +38,9 @@
     },
     {
       "description":"In IE9-10 draggable attribute could be effectively applied for link and image elements. For div and span elements you should call 'element.dragDrop()' to start drag event.\r\n"
+    },
+    {
+      "description":"In Safari 8, after setting `event.dataTransfer.dropEffect`, the value in the `drop` event is always `'none'`"
     }
   ],
   "categories":[

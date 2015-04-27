@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In Safari `::selection` styles do not work in combination with CSS multi-column."
+    }
   ],
   "categories":[
     "CSS"

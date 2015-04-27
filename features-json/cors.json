@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"IE10+ does not send cookies when withCredential=true ([IE Bug #759587](https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true))"
+      "description":"IE10+ does not send cookies when withCredential=true ([IE Bug #759587](https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true)). A workaround is [to use a P3P policy](http://www.techrepublic.com/blog/software-engineer/craft-a-p3p-policy-to-make-ie-behave/)"
     },
     {
       "description":"IE10+ does not make a CORS request if port is the only difference ([IE Bug #781303](http://connect.microsoft.com/IE/feedback/details/781303))"

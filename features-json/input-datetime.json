@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"iOS 7.1 Safari does not support the min and max attributes."
+      "description":"Chrome for Android grays out dates that are out of range (using `min` and `max` attributes), but does not prevent the user from selecting these dates."
     }
   ],
   "categories":[
@@ -175,11 +175,11 @@
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
-      "7.0-7.1":"y",
-      "8":"y",
-      "8.1-8.3":"y"
+      "5.0-5.1":"a #2",
+      "6.0-6.1":"a #2",
+      "7.0-7.1":"a #2",
+      "8":"a #2",
+      "8.1-8.3":"a #2"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -223,12 +223,13 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in iOS refers to a lack of support for attributes like step, min, or max.\r\n\r\nOlder versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nSome modified versions of the Android 4.x browser do have support for date/time fields.\r\n\r\nChrome and Opera also support the `datetime-local` type for both date and time, but not the `datetime` one.",
+  "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nSome modified versions of the Android 4.x browser do have support for date/time fields.\r\n\r\nChrome and Opera also support the `datetime-local` type for both date and time, but not the `datetime` one.",
   "notes_by_num":{
-    "1":"Partial support can be enabled in EdgeHTML.dll using the `HTML5 date and time input types` flag in `about:flags`. This enables the `date`, `week`, and `month` input types."
+    "1":"Partial support can be enabled in EdgeHTML.dll using the `HTML5 date and time input types` flag in `about:flags`. This enables the `date`, `week`, and `month` input types.",
+    "2":"Partial support in iOS Safari refers to not supporting `min`, `max` or `step` attributes"
   },
-  "usage_perc_y":62.36,
-  "usage_perc_a":0,
+  "usage_perc_y":54.38,
+  "usage_perc_a":7.98,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\"",

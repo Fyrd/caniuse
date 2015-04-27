@@ -12,6 +12,9 @@
   "bugs":[
     {
       "description":"Safari 5.1.17 has a bug in when using an element with display:table, with padding and width.  It seems to force the use of the border-box model instead of the content-box model.  Chrome 21.0 however works correctly, making it difficult to resolve with CSS alone."
+    },
+    {
+      "description":"Firefox has had a bug with `position: relative` in table cells, which was fixed in version 37."
     }
   ],
   "categories":[

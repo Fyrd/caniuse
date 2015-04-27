@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Some scripts, e.g. Lao, Burmese, Syriac, Khmer are reported not to render in Android 4.2 and 4.3."
+    }
   ],
   "categories":[
     "CSS3"
