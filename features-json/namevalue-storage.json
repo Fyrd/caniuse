@@ -31,6 +31,9 @@
     },
     {
       "description":"In private browsing mode, Safari, iOS Safari and the Android browsers do not support setting sessionStorage or localStorage."
+    },
+    {
+      "description":"In IE  attempting to access localStorage on HTML files served from the file system results in the localStorage object being `undefined`"
     }
   ],
   "categories":[

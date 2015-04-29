@@ -29,6 +29,9 @@
     },
     {
       "description":"`max-width` doesn't work with images in table cells in IE."
+    },
+    {
+      "description":"IE10 does not appear to support overriding min-width values using `min-width: initial`"
     }
   ],
   "categories":[

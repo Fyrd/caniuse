@@ -33,6 +33,9 @@
     },
     {
       "description":"Browsers behave differently when flowing `ol` list numbers in columns: IE and Safari only show numbers for the first column. Chrome does not show any numbers. Only Firefox behaves as expected with numbers showing for all items."
+    },
+    {
+      "description":"IE has been reported to incorrectly break on elements across columns when having more than 3 columns."
     }
   ],
   "categories":[
