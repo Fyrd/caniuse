@@ -1,6 +1,6 @@
 {
   "title":"Form validation",
-  "description":"Method of setting required fields and field types without requiring JavaScript.",
+  "description":"Method of setting required fields and field types without requiring JavaScript. This includes preventing forms from being submitted when appropriate, the `checkValidity()` method as well as support for the `:invalid`, `:valid`, and `:required` CSS pseudo-classes.",
   "spec":"https://html.spec.whatwg.org/multipage/forms.html#client-side-form-validation",
   "status":"ls",
   "links":[
@@ -10,9 +10,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"Support for using differently colored borders is not complete in Firefox or Opera (did not test others yet) - using a separate class for styling works well in both."
-    }
+    
   ],
   "categories":[
     "HTML5"
@@ -26,7 +24,7 @@
       "9":"n",
       "10":"y",
       "11":"y",
-      "TP":"y"
+      "Edge":"y"
     },
     "firefox":{
       "2":"n",
@@ -119,13 +117,13 @@
       "3.1":"n",
       "3.2":"n",
       "4":"n",
-      "5":"a",
-      "5.1":"a",
-      "6":"a",
-      "6.1":"a",
-      "7":"a",
-      "7.1":"a",
-      "8":"a"
+      "5":"a #1",
+      "5.1":"a #1",
+      "6":"a #1",
+      "6.1":"a #1",
+      "7":"a #1",
+      "7.1":"a #1",
+      "8":"a #1"
     },
     "opera":{
       "9":"n",
@@ -157,31 +155,31 @@
     },
     "ios_saf":{
       "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
-      "6.0-6.1":"n",
-      "7.0-7.1":"n",
-      "8":"n",
-      "8.1-8.3":"n"
+      "4.0-4.1":"a #1",
+      "4.2-4.3":"a #1",
+      "5.0-5.1":"a #1",
+      "6.0-6.1":"a #1",
+      "7.0-7.1":"a #1",
+      "8":"a #1",
+      "8.1-8.3":"a #1"
     },
     "op_mini":{
-      "5.0-8.0":"n"
+      "5.0-8.0":"a #3"
     },
     "android":{
       "2.1":"n",
       "2.2":"n",
       "2.3":"n",
       "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n",
-      "4.4":"n",
+      "4":"a #1",
+      "4.1":"a #1",
+      "4.2-4.3":"a #1",
+      "4.4":"a #1",
       "4.4.3-4.4.4":"y",
       "40":"y"
     },
     "bb":{
-      "7":"n",
+      "7":"a #1",
       "10":"y"
     },
     "op_mob":{
@@ -200,19 +198,21 @@
       "37":"y"
     },
     "ie_mob":{
-      "10":"a",
-      "11":"a"
+      "10":"a #2",
+      "11":"a #2"
     },
     "and_uc":{
       "9.9":"y"
     }
   },
-  "notes":"Partial support in Safari refers to lack of notice when form with required fields is attempted to be submitted. Partial support in IE10 mobile refers to lack of warning when blocking submission.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support refers to lack of notice when form with required fields is attempted to be submitted.",
+    "2":"Partial support in IE10 mobile refers to lack of warning when blocking submission.",
+    "3":"Partial support in Opera Mini refers to only supporting the CSS pseudo classes."
   },
   "usage_perc_y":72.04,
-  "usage_perc_a":3.97,
+  "usage_perc_a":20.72,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

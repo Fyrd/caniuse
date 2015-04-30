@@ -41,6 +41,9 @@
     },
     {
       "description":"In Safari 8, after setting `event.dataTransfer.dropEffect`, the value in the `drop` event is always `'none'`"
+    },
+    {
+      "description":"Chrome strips out newlines from `text/uri-list` [see bug](https://code.google.com/p/chromium/issues/detail?id=239745)"
     }
   ],
   "categories":[
@@ -55,7 +58,7 @@
       "9":"a #1",
       "10":"a #2",
       "11":"a #2",
-      "TP":"a #2"
+      "Edge":"a #2"
     },
     "firefox":{
       "2":"p",
