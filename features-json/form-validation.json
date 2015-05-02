@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE10 and 11 [have a problem](http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter) validating number fields in combination with the `step` attribute and certain values"
+    }
   ],
   "categories":[
     "HTML5"

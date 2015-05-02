@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE10 and 11 do not always appear to support the `ss01` value correctly."
+    }
   ],
   "categories":[
     "CSS3"

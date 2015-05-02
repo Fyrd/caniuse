@@ -26,6 +26,9 @@
     },
     {
       "description":"@keyframes not supported in an inline or scoped stylesheet in Firefox (bug 830056)"
+    },
+    {
+      "description":"In Chrome `animation-fill-mode backwards` is wrong if `steps(x, start)` is used [see example](http://codepen.io/Fyrd/pen/jPPKpX)."
     }
   ],
   "categories":[

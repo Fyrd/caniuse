@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"IE, Firefox and later Chrome versions implement the same origin policy, so any font library served on a different domain from the page will not be downloaded unless using CORS."
+    },
+    {
+      "description":"Android 2.2 - 3.0 are reported not to support `local()` value"
     }
   ],
   "categories":[
