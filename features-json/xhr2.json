@@ -26,6 +26,9 @@
     },
     {
       "description":"WebKit versions 535 and older (r103502) do not implement the onloadend event"
+    },
+    {
+      "description":"IE10 and 11 do not support synchronous requests, with support being phased out in other browsers too. This is due to [detrimental effects](https://xhr.spec.whatwg.org/#sync-warning) resulting from making them."
     }
   ],
   "categories":[

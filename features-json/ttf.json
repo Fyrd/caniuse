@@ -200,19 +200,19 @@
       "37":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"a",
+      "11":"a"
     },
     "and_uc":{
       "9.9":"y"
     }
   },
-  "notes":"Partial support in IE9 refers to the fonts only working [when set to be \"installable\"](http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx).",
+  "notes":"Partial support in IE9+ refers to the fonts only working [when set to be \"installable\"](http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx). Support for this is tracked [here](https://status.modern.ie/crossdomainfontloading)",
   "notes_by_num":{
     
   },
   "usage_perc_y":80.38,
-  "usage_perc_a":10.3,
+  "usage_perc_a":11.1,
   "ucprefix":false,
   "parent":"fontface",
   "keywords":"",
