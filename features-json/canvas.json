@@ -35,6 +35,9 @@
     },
     {
       "description":"Older versions of iOS did not support video as a source for the canvas `drawImage()`, though it does appear to work as of iOS 8 [test case](http://jsfiddle.net/zL8KC/)"
+    },
+    {
+      "description":"Android 2.x supports canvas except the `toDataURL()` function. See [bug](http://code.google.com/p/android/issues/detail?id=7901) and [workaround](http://stackoverflow.com/q/10488033/841830)"
     }
   ],
   "categories":[
@@ -231,7 +234,7 @@
       "9.9":"y"
     }
   },
-  "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications. Android 2.x supports canvas except the toDataURL() function. See http://code.google.com/p/android/issues/detail?id=7901 Some (slow) workarounds are described here: http://stackoverflow.com/q/10488033/841830",
+  "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications.\r\n\r\nFor screen readers, IE, Chrome & Firefox support the [accessible canvas element sub-DOM](http://www.paciellogroup.com/blog/2012/06/html5-canvas-accessibility-in-firefox-13/).\r\nFirefox & Chrome also support the drawfocus ring.",
   "notes_by_num":{
     
   },
