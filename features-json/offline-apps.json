@@ -27,6 +27,12 @@
     },
     {
       "description":"Reportedly, Android 4.4 WebViews lose the cache after closing the app."
+    },
+    {
+      "description":"IE 10 does not properly handle the appcache FALLBACK section. It only handles subresources if they are already in the cache. "
+    },
+    {
+      "description":"Only Firefox (and Opera 12) supports the `prefer-online` option under `SETTINGS`"
     }
   ],
   "categories":[
