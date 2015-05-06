@@ -82,10 +82,10 @@
         }
     };
 
-    var Validator = function (featureId, data) {
+    var Validator = function (type, id, data) {
 
         this.throwError = function (message) {
-            var pre = '[' + featureId;
+            var pre = '[' + id;
             if( this.currentBrowser ) {
                 pre += ':' + this.currentBrowser;
             }
@@ -94,6 +94,12 @@
             }
             pre += '] ';
             throw Error(pre + message);
+        };
+        
+        this.warn = function (message) {
+            try {
+                console.warn('[' + id + '] WARNING: ' + message);
+            } catch(e){}
         };
 
         this.validateArray = function (template, arr) {
@@ -113,6 +119,11 @@
                 this.throwError('"' + key + '" missing in data');
             }
             var val = object[key];
+            if (typeof rules === 'function') {
+                var validatorFn = rules;
+                validatorFn(val);
+                return;
+            }
             for (var i = 0; i < rules.length; i++) {
                 var rule = rules[i];
                 if (typeof rule == 'string') {
@@ -196,7 +207,7 @@
             this.validateKeys('stats', sampleStats, stats);
         };
 
-        this.start = function () {
+        this.validateFeature = function () {
             this.validate('title', ['isString']);
             this.validate('description', ['isString']);
             this.validate('spec', ['isString', 'isURL']);
@@ -220,11 +231,48 @@
             this.validate('shown', ['isBoolean']);
             this.validateSupportData();
         };
-
-        this.start();
+        
+        this.validateUsage = function () {
+            this.validate('id', ['isString']);
+            this.validate('name', ['isString']);
+            this.validate('month', ['isString']);
+            this.validate('month', function(month) {
+                if (!/^\d{4}-\d{2}$/.test(month)) {
+                    this.throwError('Format for month is invalid, got: ' + month);
+                }
+            }.bind(this));
+            this.validate('access_date', ['isString']);
+            this.validate('access_date', function(date) {
+                if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+                    this.throwError('Format for access_date is invalid, got: ' + date);
+                }
+            }.bind(this));
+            this.validate('data', ['isObject']);
+            this.validate('total', ['isNumber']);
+            this.validate('total', function(total) {
+                // Total amount should be 100 - untracked usage
+                // If total is too low (especially for US) something is probably wrong
+                if (total < 80) {
+                    this.warn('Expected total usage to be > 80, was ' + total);
+                }
+                if (id === 'US.json' && total < 95) {
+                    this.warn('Expected US total usage to be > 95, was ' + total);
+                }
+            }.bind(this));
+        };
+        
+        switch(type) {
+            case 'feature':
+                this.validateFeature();
+                break;
+            case 'usage':
+                this.validateUsage();
+                break;
+        }
+        
     };
 
-    var processFile = function (error, data, fileName) {
+    var processFile = function (type, error, data, fileName) {
         if (error) {
             throw Error('Error: ' + error);
         }
@@ -233,18 +281,24 @@
         } catch(e) {
             throw Error('Error in file "' + fileName + '": ' + e);
         }
-        var matches = fileName.match(/([a-z0-9-]+)\.json$/);
-        if( !matches || matches.length < 2  ) {
-            console.log('Skipping file: ' + fileName);
-            return;
+        if (type === 'feature') {
+            var matches = fileName.match(/([a-z0-9-]+)\.json$/);
+            if( !matches || matches.length < 2  ) {
+                console.log('Skipping file: ' + fileName);
+                return;
+            }
+            var featureId = matches[1];
+            new Validator('feature', featureId, data);
+        } else {
+            var id = /[^\/]+\.json/.exec(fileName)[0];
+            new Validator(type, id, data);
         }
-        var featureId = matches[1];
-        new Validator(featureId, data);
+        
     };
 
-    var readFile = function (file) {
+    var readFile = function (file, type) {
         fs.readFile(file, function (error, data) {
-            processFile(error, data, file);
+            processFile(type, error, data, file);
         });
     };
 
@@ -257,8 +311,17 @@
         for (var i = 0; i < files.length; i++) {
             var file = files[i];
             if (file.indexOf('.json') > -1) {
-                readFile(path + '/' + file);
+                readFile(path + '/' + file, 'feature');
             }
         }
     });
+	
+    var regionPath = __dirname + '/../region-usage-json';
+    var regionFiles = fs.readdirSync(regionPath);
+    for (var i = 0; i < regionFiles.length; i++) {
+        var file = regionFiles[i];
+        if (file.indexOf('.json') > -1) {
+            readFile(regionPath + '/' + file, 'usage');
+        }
+    }
 }());
