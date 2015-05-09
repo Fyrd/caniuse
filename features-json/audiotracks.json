@@ -1,10 +1,13 @@
 {
   "title":"Audio Tracks",
-  "description":"Method of specifying and selecting between multiple audio tracks. Useful for providing audio descriptions, director\u2019s commentry, additional languages, alternative takes, etc.",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#audiotracklist",
-  "status":"rec",
+  "description":"Method of specifying and selecting between multiple audio tracks. Useful for providing audio descriptions, director's commentry, additional languages, alternative takes, etc.",
+  "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#audiotracklist-and-videotracklist-objects",
+  "status":"ls",
   "links":[
-    
+    {
+      "url":"https://msdn.microsoft.com/en-US/library/hh772483%28v=vs.85%29.aspx",
+      "title":"MSDN article"
+    }
   ],
   "bugs":[
     
@@ -213,5 +216,5 @@
   "keywords":"AudioTrack,AudioTrackList,media,multiple,selection",
   "ie_id":"audiotracks",
   "chrome_id":"5748496434987008",
-  "shown":false
+  "shown":true
 }

@@ -1,10 +1,13 @@
 {
   "title":"Video Tracks",
   "description":"Method of specifying and selecting between multiple video tracks. Useful for providing sign language tracks, burnt-in captions or subtitles, alternative camera angles, etc.",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#videotracklist",
-  "status":"rec",
+  "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#audiotracklist-and-videotracklist-objects",
+  "status":"ls",
   "links":[
-    
+    {
+      "url":"https://msdn.microsoft.com/en-US/library/dn806262%28v=vs.85%29.aspx",
+      "title":"MSDN article"
+    }
   ],
   "bugs":[
     
@@ -213,5 +216,5 @@
   "keywords":"VideoTrack,VideoTrackList,media,multiple,selection",
   "ie_id":"videotracks",
   "chrome_id":"5748496434987008",
-  "shown":false
+  "shown":true
 }
