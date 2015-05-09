@@ -41,6 +41,9 @@
     },
     {
       "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK) "
+    },
+    {
+      "description":"The history API does not work for the `file:` protocol"
     }
   ],
   "categories":[

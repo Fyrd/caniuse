@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari does not appear to support `createMediaElementSource`"
+    }
   ],
   "categories":[
     "JS API"
