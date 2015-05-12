@@ -2,7 +2,7 @@
 
 ## Filing issues
 
-Issues can be filed on existing **caniuse support data** or on **site functionality**. If you'd like to propose a new web technology feature to be added, please submit/vote for the issue on [Google Moderator](http://www.google.com/moderator/#15/e=ae425&t=ae425.40) rather than submitting an issue. This way features can be added based on the popularity of the feature.
+Issues can be filed on existing **caniuse support data**, **site functionality** or to make new **support data suggestions**. Support data suggestions can be voted on with `+1` comments and can be [viewed in order](http://caniuse.com/issue-list) of votes.
 
 ## Caniuse data
 
