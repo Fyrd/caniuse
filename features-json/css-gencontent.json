@@ -23,6 +23,9 @@
     },
     {
       "description":"IE9, IE10, IE11 ignore CSS rem units in the line-height property. [Bug report](https://connect.microsoft.com/IE/feedback/details/776744/css3-using-rem-to-set-line-height-in-before-after-pseudo-elements-doesnt-work)."
+    },
+    {
+      "description":"Firefox does not support `:after` and `:before` for input fields"
     }
   ],
   "categories":[
@@ -81,7 +84,8 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y"
     },
     "chrome":{
       "4":"y",

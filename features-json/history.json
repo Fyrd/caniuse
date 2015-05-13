@@ -43,7 +43,7 @@
       "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK) "
     },
     {
-      "description":"The history API does not work for the `file:` protocol"
+      "description":"The history API does not work in Chrome and Firefox for the `file:` protocol"
     }
   ],
   "categories":[
@@ -101,7 +101,8 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y"
     },
     "chrome":{
       "4":"n",
