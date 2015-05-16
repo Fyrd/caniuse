@@ -29,6 +29,9 @@
     },
     {
       "description":"In Chrome `animation-fill-mode backwards` is wrong if `steps(x, start)` is used [see example](http://codepen.io/Fyrd/pen/jPPKpX)."
+    },
+    {
+      "description":"IE10 does not support CSS animations inside media queries."
     }
   ],
   "categories":[
