@@ -4,13 +4,12 @@
   "spec":"http://www.itu.int/rec/T-REC-T.800-200208-I",
   "status":"other",
   "links":[
-    {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=8754",
-      "title":"Bug: JPEG 2000 display intermittently"
-    }  
+    
   ],
   "bugs":[
-
+    {
+      "description":"JPEG 2000 displays intermittently in Safari [see bug](https://bugs.webkit.org/show_bug.cgi?id=8754)"
+    }
   ],
   "categories":[
     "Other"
@@ -208,13 +207,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Not supported by Safari for Windows" 
+    "1":"Not supported by Safari for Windows"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":10.31,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"jp2, jpeg2000, jpeg 2000",
+  "keywords":"jp2,jpeg2000,jpeg 2000",
   "ie_id":"",
   "chrome_id":"",
   "shown":true
