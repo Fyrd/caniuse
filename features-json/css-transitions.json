@@ -1,6 +1,6 @@
 {
   "title":"CSS3 Transitions",
-  "description":"Simple method of animating certain properties of an element.",
+  "description":"Simple method of animating certain properties of an element, with ability to define property, duration, delay and timing function. ",
   "spec":"http://www.w3.org/TR/css3-transitions/",
   "status":"wd",
   "links":[
@@ -238,7 +238,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"css transition,transitionend",
+  "keywords":"css transition,transitionend,transition-property,transition-duration,transition-timing-function,transition-delay",
   "ie_id":"",
   "chrome_id":"",
   "shown":true
