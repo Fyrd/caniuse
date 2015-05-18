@@ -139,9 +139,9 @@
       "12":"n",
       "12.1":"n",
       "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n",
+      "16":"y x",
+      "17":"y x",
+      "18":"y x",
       "19":"y x",
       "20":"y",
       "21":"y",
@@ -160,28 +160,28 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0-7.1":"u",
-      "8":"u",
+      "7.0-7.1":"n",
+      "8":"y x",
       "8.1-8.3":"y x"
     },
     "op_mini":{
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "40":"u"
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"y x",
+      "4.4.3-4.4.4":"y",
+      "40":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"y x"
     },
     "op_mob":{
       "10":"n",
@@ -210,12 +210,12 @@
   "notes_by_num":{
     "1":"Disabled by default, can be enabled using preference layout.css.font-features.enabled - defaulting to true on Nightly and Aurora only."
   },
-  "usage_perc_y":67.76,
+  "usage_perc_y":71.65,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
