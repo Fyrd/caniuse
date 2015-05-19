@@ -36,6 +36,9 @@
     },
     {
       "description":"IE has been reported to incorrectly break on elements across columns when having more than 3 columns."
+    },
+    {
+      "description":"IE 10 has a bug where text-shadow doesn't work when used inside columns [see testcase](https://jsfiddle.net/0bwwrtda/)"
     }
   ],
   "categories":[
