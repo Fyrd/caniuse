@@ -37,7 +37,7 @@
       "description":"Older versions of iOS did not support video as a source for the canvas `drawImage()`, though it does appear to work as of iOS 8 [test case](http://jsfiddle.net/zL8KC/)"
     },
     {
-      "description":"Android 2.x supports canvas except the `toDataURL()` function. See [bug](http://code.google.com/p/android/issues/detail?id=7901) and [workaround](http://stackoverflow.com/q/10488033/841830)"
+      "description":"Limits of `toDataURL()` for iOS:\r\n- The maximum size for decoded GIF, PNG, and TIFF images is 3 megapixels for devices with less than 256 MB RAM and 5 megapixels for devices with greater or equal than 256 MB RAM.\r\n- The maximum size for a canvas element is 3 megapixels for devices with less than 256 MB RAM and 5 megapixels for devices with greater or equal than 256 MB RAM.\r\n- JavaScript execution time is limited to 10 seconds for each top-level entry point."
     }
   ],
   "categories":[
@@ -56,9 +56,9 @@
       "Edge":"y"
     },
     "firefox":{
-      "2":"y",
-      "3":"y",
-      "3.5":"y",
+      "2":"a #1",
+      "3":"a #1",
+      "3.5":"a #1",
       "3.6":"y",
       "4":"y",
       "5":"y",
@@ -141,11 +141,12 @@
       "42":"y",
       "43":"y",
       "44":"y",
-      "45":"y"
+      "45":"y",
+      "46":"y"
     },
     "safari":{
-      "3.1":"y",
-      "3.2":"y",
+      "3.1":"a #1",
+      "3.2":"a #1",
       "4":"y",
       "5":"y",
       "5.1":"y",
@@ -197,9 +198,9 @@
       "5.0-8.0":"a"
     },
     "android":{
-      "2.1":"a",
-      "2.2":"a",
-      "2.3":"a",
+      "2.1":"a #1",
+      "2.2":"a #1",
+      "2.3":"a #1",
       "3":"y",
       "4":"y",
       "4.1":"y",
@@ -237,13 +238,13 @@
   },
   "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications.\r\n\r\nFor screen readers, IE, Chrome & Firefox support the [accessible canvas element sub-DOM](http://www.paciellogroup.com/blog/2012/06/html5-canvas-accessibility-in-firefox-13/).\r\nFirefox & Chrome also support the drawfocus ring.",
   "notes_by_num":{
-    
+    "1":"Does not support `toDataURL()`"
   },
-  "usage_perc_y":91.26,
-  "usage_perc_a":3.49,
+  "usage_perc_y":91.18,
+  "usage_perc_a":3.57,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"toDataURL()",
   "ie_id":"canvas",
   "chrome_id":"5100084685438976",
   "shown":true

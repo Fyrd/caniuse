@@ -114,9 +114,10 @@
       "40":"n",
       "41":"n",
       "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n"
+      "43":"n d #1",
+      "44":"n d #1",
+      "45":"n d #1",
+      "46":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -155,7 +156,7 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"u",
+      "28":"n",
       "29":"n"
     },
     "ios_saf":{
@@ -212,7 +213,7 @@
   },
   "notes":"Does not appear to work on Firefox mobile, despite recognition of the property.",
   "notes_by_num":{
-    
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
   },
   "usage_perc_y":11.4,
   "usage_perc_a":0,
@@ -220,6 +221,6 @@
   "parent":"",
   "keywords":"",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5720910061371392",
   "shown":true
 }
