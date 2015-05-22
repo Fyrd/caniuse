@@ -37,6 +37,9 @@
     },
     {
       "description":"IE 8 and 9 store data based only on hostname, ignoring the scheme (http vs https) and port number as required by the specification. "
+    },
+    {
+      "description":"Internet Explorer localStorage does not support storing all ASCII chars.\r\n\r\nFor example: `localStorage.setItem(\"store\", \"x01\")`\r\n\r\n"
     }
   ],
   "categories":[
