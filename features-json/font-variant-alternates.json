@@ -1,8 +1,8 @@
 {
   "title":"CSS font-variant-alternates",
-  "description":"Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values.",
+  "description":"Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values for certain types of OpenType fonts.",
   "spec":"http://dev.w3.org/csswg/css3-fonts/#propdef-font-variant-alternates",
-  "status":"cr",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates",
@@ -10,6 +10,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS3"
@@ -50,16 +51,16 @@
       "21":"n #1",
       "22":"n #1",
       "23":"n #1",
-      "24":"y #2",
-      "25":"y #2",
-      "26":"y #2",
-      "27":"y #2",
-      "28":"y #2",
-      "29":"y #2",
-      "30":"y #2",
-      "31":"y #2",
-      "32":"y #2",
-      "33":"y #2",
+      "24":"n d #2",
+      "25":"n d #2",
+      "26":"n d #2",
+      "27":"n d #2",
+      "28":"n d #2",
+      "29":"n d #2",
+      "30":"n d #2",
+      "31":"n d #2",
+      "32":"n d #2",
+      "33":"n d #2",
       "34":"y",
       "35":"y",
       "36":"y",
@@ -208,10 +209,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1": "Not recommended low-level syntax available in font-feature-settings property equivalent to OpenType features: salt, ss01 through ss20, cv01 through cv99, swsh, cswh, ornm, nalt",
-    "2": "Experimental implementation was available since Gecko 24. It was governed by the preference layout.css.font-features.enabled defaulting to true on Nightly and Aurora only."
+    "1":"Low-level syntax available in [font-feature-settings](http://caniuse.com/#feat=font-feature) property equivalent to OpenType features: salt, ss01 through ss20, cv01 through cv99, swsh, cswh, ornm, nalt",
+    "2":"Experimental support available by enabling the layout.css.font-features.enabled flag"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":9.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
