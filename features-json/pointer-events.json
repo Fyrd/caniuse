@@ -24,7 +24,7 @@
       "description":"Moving the scrollbar on an object with `pointer-events: none;` works in Firefox, but doesn't work in either Chrome or IE."
     },
     {
-      "description":"IE 9 and 10 return true on `'pointerEvents'` in `document.documentElement.style`, but they don't support it."
+      "description":"IE 9 and 10 return true on `'pointerEvents'` in `document.documentElement.style` due to support on SVG elements, but they don't support it on HTML elements."
     }
   ],
   "categories":[
@@ -168,7 +168,9 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y"
     },
     "ios_saf":{
       "3.2":"y",
