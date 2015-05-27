@@ -1,8 +1,8 @@
 {
   "title":"Form attribute",
   "description":"Attribute for associating input and submit buttons with a form.",
-  "spec":"http://www.w3.org/TR/html-markup/button.submit.html#button.submit.attrs.form",
-  "status":"wd",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#attr-fae-form",
+  "status":"ls",
   "links":[
     {
       "url":"http://www.w3.org/TR/html5/forms.html#attr-fae-form",
@@ -224,5 +224,5 @@
   "keywords":"form,attribute",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }

@@ -42,6 +42,9 @@
     },
     {
       "description":"Transforms may break position:fixed styles of contained elements"
+    },
+    {
+      "description":"In IE9 the caret of a `textarea` disappears when you use translate."
     }
   ],
   "categories":[

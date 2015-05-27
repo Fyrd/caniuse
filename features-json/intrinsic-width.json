@@ -209,7 +209,7 @@
       "9.9":"n"
     }
   },
-  "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content) Firefox currently supports the \"-moz-available\" property rather than \"-moz-fill-available\".\r\n\r\nOlder webkit browsers support the unofficial `intrinsic` and `min-intrinsic` values for max-content and min-content, but only when used with the old flexbox model.",
+  "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content) Firefox currently supports the \"-moz-available\" property rather than \"-moz-fill-available\".\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",
   "notes_by_num":{
     "1":"Does not support `fit-content` for height attribute, only width. [see test case](http://codepen.io/shshaw/pen/Kiwaz)"
   },
