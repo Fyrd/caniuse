@@ -221,7 +221,7 @@
       "9.9":"a x"
     }
   },
-  "notes":"Partial support refers to support for styling just the placeholder text, rather than the actual element itself:\r\n 1. `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n2. `:-moz-placeholder` and `::-moz-placeholder` (Firefox 19)\r\n3. `:-ms-input-placeholder` (IE). ",
+  "notes":"Partial support refers to support for styling just the placeholder text, rather than the actual element itself:\r\n 1. `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n 2. `:-moz-placeholder` and `::-moz-placeholder` (Firefox 19)\r\n 3. `:-ms-input-placeholder` (IE). ",
   "notes_by_num":{
     "1":"The :-moz-placeholder pseudo-class is deprecated in Firefox 19 in favor of the ::-moz-placeholder pseudo-element."
   },
