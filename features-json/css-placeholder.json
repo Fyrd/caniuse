@@ -1,9 +1,13 @@
 {
-  "title":":placeholder-shown CSS pseudo-class",
-  "description":"The :placeholder-shown pseudo-class represents a form element with visible placeholder contents.",
-  "spec":"http://www.w3.org/TR/selectors4/#placeholder",
+  "title":"::placeholder CSS pseudo-element",
+  "description":"The ::placeholder pseudo-element represents placeholder text in an input field: text that represents the input and provides a hint to the user on how to fill out the form. For example, a date-input field might have the placeholder text `YYYY/MM/DD` to clarify that numeric dates are to be entered in year-month-day order.",
+  "spec":"http://dev.w3.org/csswg/css-pseudo-4/#placeholder-pseudo",
   "status":"wd",
   "links":[
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-placeholder",
+      "title":"MDN article"
+    },
     {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
       "title":"MSDN article"
@@ -54,29 +58,29 @@
       "16":"a x",
       "17":"a x",
       "18":"a x",
-      "19":"a x",
-      "20":"a x",
-      "21":"a x",
-      "22":"a x",
-      "23":"a x",
-      "24":"a x",
-      "25":"a x",
-      "26":"a x",
-      "27":"a x",
-      "28":"a x",
-      "29":"a x",
-      "30":"a x",
-      "31":"a x",
-      "32":"a x",
-      "33":"a x",
-      "34":"a x",
-      "35":"a x",
-      "36":"a x",
-      "37":"a x",
-      "38":"a x",
-      "39":"a x",
-      "40":"a x",
-      "41":"a x"
+      "19":"a x #1",
+      "20":"a x #1",
+      "21":"a x #1",
+      "22":"a x #1",
+      "23":"a x #1",
+      "24":"a x #1",
+      "25":"a x #1",
+      "26":"a x #1",
+      "27":"a x #1",
+      "28":"a x #1",
+      "29":"a x #1",
+      "30":"a x #1",
+      "31":"a x #1",
+      "32":"a x #1",
+      "33":"a x #1",
+      "34":"a x #1",
+      "35":"a x #1",
+      "36":"a x #1",
+      "37":"a x #1",
+      "38":"a x #1",
+      "39":"a x #1",
+      "40":"a x #1",
+      "41":"a x #1"
     },
     "chrome":{
       "4":"a x",
@@ -217,9 +221,9 @@
       "9.9":"a x"
     }
   },
-  "notes":"Partial support refers to support for styling just the placeholder text, rather than the actual element itself: `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n`::-moz-placeholder` (Firefox) and \r\n`:-ms-input-placeholder` (IE). ",
+  "notes":"Partial support refers to support for styling just the placeholder text, rather than the actual element itself:\r\n 1. `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n2. `:-moz-placeholder` and `::-moz-placeholder` (Firefox 19)\r\n3. `:-ms-input-placeholder` (IE). ",
   "notes_by_num":{
-    
+    "1":"The :-moz-placeholder pseudo-class is deprecated in Firefox 19 in favor of the ::-moz-placeholder pseudo-element."
   },
   "usage_perc_y":0,
   "usage_perc_a":89.3,
