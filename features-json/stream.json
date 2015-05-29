@@ -11,6 +11,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/dom/Navigator/getUserMedia",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"http://blogs.windows.com/msedgedev/2015/05/13/announcing-media-capture-functionality-in-microsoft-edge/",
+      "title":"Media Capture functionality in Microsoft Edge"
     }
   ],
   "bugs":[
@@ -94,32 +98,32 @@
       "18":"n",
       "19":"n",
       "20":"n",
-      "21":"y x",
-      "22":"y x",
-      "23":"y x",
-      "24":"y x",
-      "25":"y x",
-      "26":"y x",
-      "27":"y x",
-      "28":"y x",
-      "29":"y x",
-      "30":"y x",
-      "31":"y x",
-      "32":"y x",
-      "33":"y x",
-      "34":"y x",
-      "35":"y x",
-      "36":"y x",
-      "37":"y x",
-      "38":"y x",
-      "39":"y x",
-      "40":"y x",
-      "41":"y x",
-      "42":"y x",
-      "43":"y x",
-      "44":"y x",
-      "45":"y x",
-      "46":"y x"
+      "21":"a x #1",
+      "22":"a x #1",
+      "23":"a x #1",
+      "24":"a x #1",
+      "25":"a x #1",
+      "26":"a x #1",
+      "27":"a x #1",
+      "28":"a x #1",
+      "29":"a x #1",
+      "30":"a x #1",
+      "31":"a x #1",
+      "32":"a x #1",
+      "33":"a x #1",
+      "34":"a x #1",
+      "35":"a x #1",
+      "36":"a x #1",
+      "37":"a x #1",
+      "38":"a x #1",
+      "39":"a x #1",
+      "40":"a x #1",
+      "41":"a x #1",
+      "42":"a x #1",
+      "43":"a x #1",
+      "44":"a x #1",
+      "45":"a x #1",
+      "46":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -148,20 +152,20 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"y x",
-      "19":"y x",
-      "20":"y x",
-      "21":"y x",
-      "22":"y x",
-      "23":"y x",
-      "24":"y x",
-      "25":"y x",
-      "26":"y x",
-      "27":"y x",
-      "28":"y x",
-      "29":"y x",
-      "30":"y x",
-      "31":"y x"
+      "18":"a x #1",
+      "19":"a x #1",
+      "20":"a x #1",
+      "21":"a x #1",
+      "22":"a x #1",
+      "23":"a x #1",
+      "24":"a x #1",
+      "25":"a x #1",
+      "26":"a x #1",
+      "27":"a x #1",
+      "28":"a x #1",
+      "29":"a x #1",
+      "30":"a x #1",
+      "31":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -186,7 +190,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "40":"y x"
+      "40":"a x #1"
     },
     "bb":{
       "7":"n",
@@ -199,10 +203,10 @@
       "11.5":"n",
       "12":"y",
       "12.1":"y",
-      "24":"y x"
+      "24":"a x #1"
     },
     "and_chr":{
-      "42":"y x"
+      "42":"a x"
     },
     "and_ff":{
       "38":"y x"
@@ -217,7 +221,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Blink-based browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740). Insted you need to convert a `MediaStream` object using `URL.createObjectURL()` method and then set it on the `src` attribute of the Media Element."
   },
   "usage_perc_y":62.1,
   "usage_perc_a":0,
