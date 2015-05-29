@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-placeholder",
-      "title":"MDN article"
-    },
-    {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
       "title":"MSDN article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"http://wiki.csswg.org/ideas/placeholder-styling",
       "title":"CSSWG discussion"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-placeholder",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -43,44 +43,44 @@
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"a x",
-      "5":"a x",
-      "6":"a x",
-      "7":"a x",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"a x",
-      "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x",
-      "19":"a x #1",
-      "20":"a x #1",
-      "21":"a x #1",
-      "22":"a x #1",
-      "23":"a x #1",
-      "24":"a x #1",
-      "25":"a x #1",
-      "26":"a x #1",
-      "27":"a x #1",
-      "28":"a x #1",
-      "29":"a x #1",
-      "30":"a x #1",
-      "31":"a x #1",
-      "32":"a x #1",
-      "33":"a x #1",
-      "34":"a x #1",
-      "35":"a x #1",
-      "36":"a x #1",
-      "37":"a x #1",
-      "38":"a x #1",
-      "39":"a x #1",
-      "40":"a x #1",
-      "41":"a x #1"
+      "4":"a x #1",
+      "5":"a x #1",
+      "6":"a x #1",
+      "7":"a x #1",
+      "8":"a x #1",
+      "9":"a x #1",
+      "10":"a x #1",
+      "11":"a x #1",
+      "12":"a x #1",
+      "13":"a x #1",
+      "14":"a x #1",
+      "15":"a x #1",
+      "16":"a x #1",
+      "17":"a x #1",
+      "18":"a x #1",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
+      "27":"y x",
+      "28":"y x",
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
+      "32":"y x",
+      "33":"y x",
+      "34":"y x",
+      "35":"y x",
+      "36":"y x",
+      "37":"y x",
+      "38":"y x",
+      "39":"y x",
+      "40":"y x",
+      "41":"y x"
     },
     "chrome":{
       "4":"a x",
@@ -211,7 +211,7 @@
       "42":"a x"
     },
     "and_ff":{
-      "38":"a x"
+      "38":"y x"
     },
     "ie_mob":{
       "10":"a x",
@@ -221,12 +221,12 @@
       "9.9":"a x"
     }
   },
-  "notes":"Partial support refers to support for styling just the placeholder text, rather than the actual element itself:\r\n 1. `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n 2. `:-moz-placeholder` and `::-moz-placeholder` (Firefox 19)\r\n 3. `:-ms-input-placeholder` (IE). ",
+  "notes":"Partial support refers to using alternate names:\r\n 1. `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n 2. `:-ms-input-placeholder` (IE). ",
   "notes_by_num":{
-    "1":"The :-moz-placeholder pseudo-class is deprecated in Firefox 19 in favor of the ::-moz-placeholder pseudo-element."
+    "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":89.3,
+  "usage_perc_y":11.05,
+  "usage_perc_a":78.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

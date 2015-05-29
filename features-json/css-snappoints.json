@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "CSS"
@@ -212,9 +212,10 @@
   "notes":"Currently in development in WebKit with partial support in nightly builds.",
   "notes_by_num":{
     "1":"Partial support in IE10 refers to support limited to touch screens.",
-    "2":"Partial support in IE11 [documented here](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/scroll-snap-points/support.html)"
+    "2":"Partial support in IE11 [documented here](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/scroll-snap-points/support.html)",
+    "3":"Can be enabled in Firefox using the `layout.css.scroll-snap.enabled` flag in `about:config`"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.01,
   "usage_perc_a":8.86,
   "ucprefix":false,
   "parent":"",

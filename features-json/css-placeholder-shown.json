@@ -1,15 +1,20 @@
 {
   "title":":placeholder-shown CSS pseudo-class",
-  "description":"Input elements can sometimes show placeholder text as a hint to the user on what to type in. See, for example, the placeholder attribute in [HTML5]. The :placeholder-shown pseudo-class matches an input element that is showing such placeholder text.",
+  "description":"Input elements can sometimes show placeholder text as a hint to the user on what to type in. See, for example, the placeholder attribute in HTML5. The :placeholder-shown pseudo-class matches an input element that is showing such placeholder text.",
   "spec":"http://dev.w3.org/csswg/selectors-4/#placeholder",
   "status":"wd",
   "links":[
-
+    {
+      "url":"http://trac.webkit.org/changeset/172826",
+      "title":"WebKit bug"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1069015",
+      "title":"Firefox bug"
+    }
   ],
   "bugs":[
-    {
-      "description":"Firefox bug [restore code for :placeholder-shown pseudo-class](https://bugzilla.mozilla.org/show_bug.cgi?id=1069015)"
-    }
+    
   ],
   "categories":[
     "CSS"
@@ -208,7 +213,7 @@
       "9.9":"n"
     }
   },
-  "notes":"[WebKit Nightly support the :placeholder-shown pseudo-class](http://trac.webkit.org/changeset/172826)",
+  "notes":"For support of styling the actual placeholder text itself, see [CSS ::placeholder](http://caniuse.com/#feat=css-placeholder)\r\n\r\nSupport currently exists in [WebKit Nightly](http://trac.webkit.org/changeset/172826)",
   "notes_by_num":{
     
   },

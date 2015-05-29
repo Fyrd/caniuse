@@ -147,8 +147,8 @@
       "11.1":"n",
       "11.5":"n",
       "11.6":"n",
-      "12":"y",
-      "12.1":"y",
+      "12":"a x #1",
+      "12.1":"a x #1",
       "15":"n",
       "16":"n",
       "17":"n",
@@ -194,19 +194,19 @@
     },
     "bb":{
       "7":"n",
-      "10":"y x"
+      "10":"a x #1"
     },
     "op_mob":{
       "10":"n",
       "11":"n",
       "11.1":"n",
       "11.5":"n",
-      "12":"y",
-      "12.1":"y",
+      "12":"a x #1",
+      "12.1":"a x #1",
       "24":"a x #1"
     },
     "and_chr":{
-      "42":"a x"
+      "42":"a x #1"
     },
     "and_ff":{
       "38":"y x"
@@ -216,15 +216,15 @@
       "11":"n"
     },
     "and_uc":{
-      "9.9":"y x"
+      "9.9":"a x #1"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Blink-based browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740). Insted you need to convert a `MediaStream` object using `URL.createObjectURL()` method and then set it on the `src` attribute of the Media Element."
+    "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740). Instead you need to convert a `MediaStream` object using `UR"
   },
-  "usage_perc_y":62.1,
-  "usage_perc_a":0,
+  "usage_perc_y":11.12,
+  "usage_perc_a":50.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,Media Capture API",
