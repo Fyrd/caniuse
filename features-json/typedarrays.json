@@ -217,7 +217,7 @@
       "9.9":"y"
     }
   },
-  "notes":"",
+  "notes":"Includes support for ArrayBuffer objects.",
   "notes_by_num":{
     "1":"IE10 (and IE 10&11 mobile) does not support `Uint8ClampedArray`"
   },
@@ -225,7 +225,7 @@
   "usage_perc_a":2.37,
   "ucprefix":false,
   "parent":"",
-  "keywords":"float64array,dataview,uint8array",
+  "keywords":"float64array,dataview,uint8array,t",
   "ie_id":"typedarrays",
   "chrome_id":"5135818813341696",
   "shown":true
