@@ -221,7 +221,7 @@
       "9.9":"y #1"
     }
   },
-  "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway). IE11 and older versions of other browsers do not support the <main> element.",
+  "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway).",
   "notes_by_num":{
     "1":"Does not include support for the <main> element"
   },
