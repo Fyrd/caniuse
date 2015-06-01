@@ -36,6 +36,12 @@
   "bugs":[
     {
       "description":"Partial support in older Chrome versions refers to using an [older version of the spec](http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification). Support in Safari 6 is limited to Mac OSX 10.8+."
+    },
+    {
+      "description":"Firefox notifications disappear [after a few seconds](https://bugzilla.mozilla.org/show_bug.cgi?id=875114)"
+    },
+    {
+      "description":"Firefox does not support notifications [sent immediately after one another](https://bugzilla.mozilla.org/show_bug.cgi?id=1007344)."
     }
   ],
   "categories":[
