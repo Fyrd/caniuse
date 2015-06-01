@@ -139,9 +139,9 @@
     "safari":{
       "3.1":"p",
       "3.2":"p",
-      "4":"a",
-      "5":"a",
-      "5.1":"a",
+      "4":"a #1",
+      "5":"a #1",
+      "5.1":"a #1",
       "6":"y",
       "6.1":"y",
       "7":"y",
@@ -179,10 +179,10 @@
       "31":"y"
     },
     "ios_saf":{
-      "3.2":"a",
-      "4.0-4.1":"a",
-      "4.2-4.3":"a",
-      "5.0-5.1":"a",
+      "3.2":"a #1",
+      "4.0-4.1":"a #1",
+      "4.2-4.3":"a #1",
+      "5.0-5.1":"a #1",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y",
@@ -230,9 +230,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in older Safari versions refers to not working in HTML files or CSS background images.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in older Safari versions refers to not working in HTML files or CSS background images."
   },
   "usage_perc_y":79.36,
   "usage_perc_a":0.47,

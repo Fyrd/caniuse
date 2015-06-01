@@ -23,10 +23,10 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"a",
-      "10":"a",
-      "11":"a",
-      "Edge":"a"
+      "9":"a #1",
+      "10":"a #1",
+      "11":"a #1",
+      "Edge":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -204,16 +204,16 @@
       "38":"y"
     },
     "ie_mob":{
-      "10":"a",
-      "11":"a"
+      "10":"a #1",
+      "11":"a #1"
     },
     "and_uc":{
       "9.9":"y"
     }
   },
-  "notes":"Partial support in IE9+ refers to the fonts only working [when set to be \"installable\"](http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx). Support for this is tracked [here](https://status.modern.ie/crossdomainfontloading)",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in IE9+ refers to the fonts only working [when set to be \"installable\"](http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx). Support for this is tracked [here](https://status.modern.ie/crossdomainfontloading)."
   },
   "usage_perc_y":80.04,
   "usage_perc_a":11.27,

@@ -28,11 +28,11 @@
   ],
   "stats":{
     "ie":{
-      "5.5":"a",
-      "6":"a",
-      "7":"a",
-      "8":"a",
-      "9":"a",
+      "5.5":"a #1",
+      "6":"a #1",
+      "7":"a #1",
+      "8":"a #1",
+      "9":"a #1",
       "10":"y",
       "11":"y",
       "Edge":"y"
@@ -220,9 +220,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in older IE refers to a buggy implementation (see issue).",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in older IE refers to a buggy implementation (see issue)."
   },
   "usage_perc_y":89.22,
   "usage_perc_a":4.04,

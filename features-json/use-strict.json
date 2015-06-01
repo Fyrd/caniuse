@@ -123,8 +123,8 @@
       "3.1":"n",
       "3.2":"n",
       "4":"n",
-      "5":"a",
-      "5.1":"a",
+      "5":"a #1",
+      "5.1":"a #1",
       "6":"y",
       "6.1":"y",
       "7":"y",
@@ -213,9 +213,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in older Safari refers to strict mode still accepting a lot of JS that should be considered invalid.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in older Safari refers to strict mode still accepting a lot of JS that should be considered invalid."
   },
   "usage_perc_y":88.83,
   "usage_perc_a":0.38,
