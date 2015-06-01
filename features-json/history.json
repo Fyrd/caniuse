@@ -18,7 +18,7 @@
     },
     {
       "url":"https://github.com/browserstate/history.js",
-      "title":"History.js polyfill "
+      "title":"History.js polyfill"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
@@ -40,7 +40,7 @@
       "description":"The title argument is not applied in the history list of major browsers; they will display the page's title instead."
     },
     {
-      "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK) "
+      "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK)"
     },
     {
       "description":"The history API does not work in Chrome and Firefox for the `file:` protocol"
