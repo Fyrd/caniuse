@@ -140,9 +140,9 @@
       "46":"y"
     },
     "safari":{
-      "3.1":"a",
-      "3.2":"a",
-      "4":"a",
+      "3.1":"a #1",
+      "3.2":"a #1",
+      "4":"a #1",
       "5":"y",
       "5.1":"y",
       "6":"y",
@@ -157,8 +157,8 @@
       "10.0-10.1":"n",
       "10.5":"n",
       "10.6":"n",
-      "11":"a",
-      "11.1":"a",
+      "11":"a #1",
+      "11.1":"a #1",
       "11.5":"y",
       "11.6":"y",
       "12":"y",
@@ -233,9 +233,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in older Safari and Opera versions refers to lacking placeholder support on textarea elements. ",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support refers to lacking placeholder support on textarea elements."
   },
   "usage_perc_y":88.34,
   "usage_perc_a":1.25,
