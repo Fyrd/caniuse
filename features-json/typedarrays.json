@@ -11,12 +11,6 @@
   ],
   "bugs":[
     {
-      "description":"Firefox 14 and under do not have DataView yet."
-    },
-    {
-      "description":"In versions before Safari 6, Typed Arrays are much slower than normal arrays."
-    },
-    {
       "description":"Safari 5.1 does not support Float64Array"
     }
   ],
