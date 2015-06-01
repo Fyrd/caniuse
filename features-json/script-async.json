@@ -128,7 +128,7 @@
       "3.1":"n",
       "3.2":"n",
       "4":"n",
-      "5":"a",
+      "5":"a #1",
       "5.1":"y",
       "6":"y",
       "6.1":"y",
@@ -218,9 +218,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Using script.async = false; to maintain execution order for dynamically-added scripts isn't supported in Safari 5.0",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Using script.async = false; to maintain execution order for dynamically-added scripts isn't supported in Safari 5.0"
   },
   "usage_perc_y":89.09,
   "usage_perc_a":0.11,

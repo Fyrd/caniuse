@@ -40,26 +40,26 @@
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"a",
-      "5":"a",
-      "6":"a",
-      "7":"a",
-      "8":"a",
-      "9":"a",
-      "10":"a",
-      "11":"a",
-      "12":"a",
-      "13":"a",
-      "14":"a",
-      "15":"a",
-      "16":"a",
-      "17":"a",
-      "18":"a",
-      "19":"a",
-      "20":"a",
-      "21":"a",
-      "22":"a",
-      "23":"a",
+      "4":"a #2",
+      "5":"a #2",
+      "6":"a #2",
+      "7":"a #2",
+      "8":"a #2",
+      "9":"a #2",
+      "10":"a #2",
+      "11":"a #2",
+      "12":"a #2",
+      "13":"a #2",
+      "14":"a #2",
+      "15":"a #2",
+      "16":"a #2",
+      "17":"a #2",
+      "18":"a #2",
+      "19":"a #2",
+      "20":"a #2",
+      "21":"a #2",
+      "22":"a #2",
+      "23":"a #2",
       "24":"y",
       "25":"y",
       "26":"y",
@@ -126,8 +126,8 @@
     },
     "safari":{
       "3.1":"n",
-      "3.2":"a",
-      "4":"a",
+      "3.2":"a #1",
+      "4":"a #1",
       "5":"y",
       "5.1":"y",
       "6":"y",
@@ -167,8 +167,8 @@
       "31":"y"
     },
     "ios_saf":{
-      "3.2":"a",
-      "4.0-4.1":"a",
+      "3.2":"a #1",
+      "4.0-4.1":"a #1",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
@@ -177,7 +177,7 @@
       "8.1-8.3":"y"
     },
     "op_mini":{
-      "5.0-8.0":"a"
+      "5.0-8.0":"a #2"
     },
     "android":{
       "2.1":"n",
@@ -196,12 +196,12 @@
       "10":"y"
     },
     "op_mob":{
-      "10":"a",
-      "11":"a",
-      "11.1":"a",
-      "11.5":"a",
-      "12":"a",
-      "12.1":"a",
+      "10":"a #2",
+      "11":"a #2",
+      "11.1":"a #2",
+      "11.5":"a #2",
+      "12":"a #2",
+      "12.1":"a #2",
       "24":"y"
     },
     "and_chr":{
@@ -218,9 +218,10 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support in older Firefox and Opera Mini/Mobile refers to SVG images being blurry when scaled. Partial support in iOS Safari and older Safari versions refers to failing to support tiling or the background-position property.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in iOS Safari and older Safari versions refers to failing to support tiling or the background-position property.",
+    "2":"Partial support in older Firefox and Opera Mini/Mobile refers to SVG images being blurry when scaled."
   },
   "usage_perc_y":90.48,
   "usage_perc_a":3.99,

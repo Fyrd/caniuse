@@ -64,17 +64,17 @@
       "28":"n d",
       "29":"n d",
       "30":"n d",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y"
+      "31":"y #1",
+      "32":"y #1",
+      "33":"y #1",
+      "34":"y #1",
+      "35":"y #1",
+      "36":"y #1",
+      "37":"y #1",
+      "38":"y #1",
+      "39":"y #1",
+      "40":"y #1",
+      "41":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -215,9 +215,9 @@
       "9.9":"n"
     }
   },
-  "notes":"WebVTT must be used with the <track> element.\r\n\r\nFirefox currently lacks support for the ::cue pseudo-element.",
+  "notes":"WebVTT must be used with the <track> element.",
   "notes_by_num":{
-    
+    "1":"Firefox currently lacks support for the ::cue pseudo-element."
   },
   "usage_perc_y":79.15,
   "usage_perc_a":0,
