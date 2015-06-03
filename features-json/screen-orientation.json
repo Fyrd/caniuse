@@ -217,15 +217,15 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support refers to an older version of the draft specification, and the spec has undergone significant changes since.",
+  "notes":"Partial support refers to an [older version](http://www.w3.org/TR/2014/WD-screen-orientation-20140220/) of the draft specification, and the spec has undergone significant changes since, for example renaming the `screen.lockOrientation` method to `screen.orientation.lock`.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":46.87,
-  "usage_perc_a":19.13,
+  "usage_perc_y":47.61,
+  "usage_perc_a":18.54,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"lockorientation,unlockorientation",
   "ie_id":"screenorientationapi",
   "chrome_id":"6191285283061760",
   "shown":true
