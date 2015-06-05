@@ -19,6 +19,10 @@
     {
       "url":"https://addons.mozilla.org/firefox/addon/6812/",
       "title":"Addon \"HTML Ruby\" for Firefox support"
+    },
+    {
+      "url":"http://www.w3.org/TR/css-ruby-1/",
+      "title":"CSS specification"
     }
   ],
   "bugs":[
@@ -223,13 +227,13 @@
   },
   "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby.",
   "notes_by_num":{
-    
+    "1":"IE9+ supports [properties](https://msdn.microsoft.com/en-us/library/hh772055%28v=vs.85%29.aspx) of an older version of the CSS Ruby specification."
   },
   "usage_perc_y":3.75,
   "usage_perc_a":81.8,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",
   "ie_id":"",
   "chrome_id":"",
   "shown":true
