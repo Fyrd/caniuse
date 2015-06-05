@@ -40,6 +40,9 @@
     },
     {
       "description":"Chrome has problems selecting options from the `select` element when using `box-sizing: border-box` and browser zoom level is less than 100%."
+    },
+    {
+      "description":"In IE8, the min-width property applies to `content-box` even if `box-sizing` is set to `border-box` or `padding-box`"
     }
   ],
   "categories":[

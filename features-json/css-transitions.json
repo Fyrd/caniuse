@@ -34,6 +34,9 @@
     },
     {
       "description":"'background-size' is not supported below and including IE10"
+    },
+    {
+      "description":"IE11 [does not support](https://connect.microsoft.com/IE/feedbackdetail/view/920928/ie-11-css-transition-property-not-working-for-svg-elements) CSS transitions on the SVG `fill` property."
     }
   ],
   "categories":[
