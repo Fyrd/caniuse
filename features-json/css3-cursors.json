@@ -19,10 +19,10 @@
   ],
   "stats":{
     "ie":{
-      "5.5":"a",
-      "6":"a",
-      "7":"a",
-      "8":"a",
+      "5.5":"a #1",
+      "6":"a #1",
+      "7":"a #1",
+      "8":"a #1",
       "9":"y",
       "10":"y",
       "11":"y",
@@ -130,17 +130,17 @@
       "8":"y"
     },
     "opera":{
-      "9":"a",
-      "9.5-9.6":"a",
-      "10.0-10.1":"a",
-      "10.5":"a",
-      "10.6":"a",
-      "11":"a",
-      "11.1":"a",
-      "11.5":"a",
-      "11.6":"a",
-      "12":"a",
-      "12.1":"a",
+      "9":"a #2",
+      "9.5-9.6":"a #2",
+      "10.0-10.1":"a #2",
+      "10.5":"a #2",
+      "10.6":"a #2",
+      "11":"a #2",
+      "11.1":"a #2",
+      "11.5":"a #2",
+      "11.6":"a #2",
+      "12":"a #2",
+      "12.1":"a #2",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -211,9 +211,10 @@
       "9.9":"n"
     }
   },
-  "notes":"Partial support in IE refers to no support for the alias, cell, copy, ew-resize, ns-resize, nesw-resize, nwse-resize or context-menu cursors. Opera 12.10- does not support 'none' or a URI.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support refers to no support for the alias, cell, copy, ew-resize, ns-resize, nesw-resize, nwse-resize or context-menu cursors.",
+    "2":"Partial support refers to not supporting 'none' nor a URI."
   },
   "usage_perc_y":56.76,
   "usage_perc_a":2.85,

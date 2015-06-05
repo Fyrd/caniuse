@@ -131,8 +131,8 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n",
-      "7.1":"n",
+      "7":"n #1",
+      "7.1":"n #1",
       "8":"n"
     },
     "opera":{
@@ -171,7 +171,7 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0-7.1":"n",
+      "7.0-7.1":"n #1",
       "8":"n",
       "8.1-8.3":"n"
     },
@@ -217,9 +217,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Chrome 20-26 had partial support behind a flag, though this was [later removed](http://crbug.com/229421). \r\n\r\nSafari 7 (& iOS 7 Safari) hides the border of seamless iframes and recognizes the 'seamless' DOM property, but does not provide actual support.",
+  "notes":"Chrome 20-26 had partial support behind a flag, though this was [later removed](http://crbug.com/229421).",
   "notes_by_num":{
-    
+    "1":"Hides the border of seamless iframes and recognizes the 'seamless' DOM property, but does not provide actual support."
   },
   "usage_perc_y":5.59,
   "usage_perc_a":0,

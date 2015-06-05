@@ -203,7 +203,7 @@
       "42":"n"
     },
     "and_ff":{
-      "38":"n"
+      "38":"n #2"
     },
     "ie_mob":{
       "10":"n",
@@ -213,9 +213,10 @@
       "9.9":"n"
     }
   },
-  "notes":"Does not appear to work on Firefox mobile, despite recognition of the property.",
+  "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
   "usage_perc_y":10.93,
   "usage_perc_a":0,

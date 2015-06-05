@@ -34,10 +34,10 @@
   ],
   "stats":{
     "ie":{
-      "5.5":"a",
-      "6":"a",
-      "7":"a",
-      "8":"a",
+      "5.5":"a #1",
+      "6":"a #1",
+      "7":"a #1",
+      "8":"a #1",
       "9":"y",
       "10":"y",
       "11":"y",
@@ -175,8 +175,8 @@
       "31":"y"
     },
     "ios_saf":{
-      "3.2":"a",
-      "4.0-4.1":"a",
+      "3.2":"a #2",
+      "4.0-4.1":"a #2",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
@@ -226,9 +226,10 @@
       "9.9":"y"
     }
   },
-  "notes":"Partial support before IE9 refers to only supporting EOT fonts. Safari for iOS 4.1 and below only supports SVG fonts.\r\n\r\nNot supported by IE Mobile 9 and below.",
+  "notes":"Not supported by IE Mobile 9 and below.",
   "notes_by_num":{
-    
+    "1":"Partial support refers to only supporting EOT fonts.",
+    "2":"Partial support refers to only supporting SVG fonts."
   },
   "usage_perc_y":90.82,
   "usage_perc_a":2.54,
