@@ -168,14 +168,14 @@
       "31":"n"
     },
     "ios_saf":{
-      "3.2":"a",
-      "4.0-4.1":"a",
-      "4.2-4.3":"a",
-      "5.0-5.1":"a",
-      "6.0-6.1":"a",
-      "7.0-7.1":"a",
-      "8":"a",
-      "8.1-8.3":"a"
+      "3.2":"a #1",
+      "4.0-4.1":"a #1",
+      "4.2-4.3":"a #1",
+      "5.0-5.1":"a #1",
+      "6.0-6.1":"a #1",
+      "7.0-7.1":"a #1",
+      "8":"a #1",
+      "8.1-8.3":"a #1"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -219,9 +219,9 @@
       "9.9":"n"
     }
   },
-  "notes":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property. Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data.",
+  "notes":"Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data.",
   "notes_by_num":{
-    
+    "1":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property."
   },
   "usage_perc_y":10.22,
   "usage_perc_a":7.26,

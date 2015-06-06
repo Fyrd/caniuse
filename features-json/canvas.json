@@ -197,7 +197,7 @@
       "8.1-8.3":"y"
     },
     "op_mini":{
-      "5.0-8.0":"a"
+      "5.0-8.0":"a #2"
     },
     "android":{
       "2.1":"a #1",
@@ -238,9 +238,10 @@
       "9.9":"y"
     }
   },
-  "notes":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications.\r\n\r\nFor screen readers, IE, Chrome & Firefox support the [accessible canvas element sub-DOM](http://www.paciellogroup.com/blog/2012/06/html5-canvas-accessibility-in-firefox-13/).\r\nFirefox & Chrome also support the drawfocus ring.",
+  "notes":"For screen readers, IE, Chrome & Firefox support the [accessible canvas element sub-DOM](http://www.paciellogroup.com/blog/2012/06/html5-canvas-accessibility-in-firefox-13/).\r\nFirefox & Chrome also support the drawfocus ring.",
   "notes_by_num":{
-    "1":"Does not support `toDataURL()`"
+    "1":"Does not support `toDataURL()`",
+    "2":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications."
   },
   "usage_perc_y":90.9,
   "usage_perc_a":3.97,

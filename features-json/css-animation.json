@@ -193,10 +193,10 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"a x",
-      "2.2":"a x",
-      "2.3":"a x",
-      "3":"a x",
+      "2.1":"a x #1",
+      "2.2":"a x #1",
+      "2.3":"a x #1",
+      "3":"a x #1",
       "4":"y x",
       "4.1":"y x",
       "4.2-4.3":"y x",
@@ -231,9 +231,9 @@
       "9.9":"y x"
     }
   },
-  "notes":"Partial support in Android browser refers to buggy behavior in different scenarios.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in Android browser refers to buggy behavior in different scenarios."
   },
   "usage_perc_y":89.2,
   "usage_perc_a":0.09,

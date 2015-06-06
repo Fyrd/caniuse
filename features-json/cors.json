@@ -40,8 +40,8 @@
       "5.5":"n",
       "6":"n",
       "7":"n",
-      "8":"a",
-      "9":"a",
+      "8":"a #2",
+      "9":"a #2",
       "10":"a #1",
       "11":"y",
       "Edge":"y"
@@ -229,9 +229,10 @@
       "9.9":"y"
     }
   },
-  "notes":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has [limitations]( http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx))",
+  "notes":"",
   "notes_by_num":{
-    "1":"Does not support CORS for images in `<canvas>`"
+    "1":"Does not support CORS for images in `<canvas>`",
+    "2":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has [limitations]( http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx))"
   },
   "usage_perc_y":84.43,
   "usage_perc_a":8.66,

@@ -43,7 +43,7 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"a",
+      "9":"a #2",
       "10":"y",
       "11":"y",
       "Edge":"y"
@@ -200,8 +200,8 @@
       "4":"n",
       "4.1":"n",
       "4.2-4.3":"n",
-      "4.4":"a",
-      "4.4.3-4.4.4":"a",
+      "4.4":"a #1",
+      "4.4.3-4.4.4":"a #1",
       "40":"y"
     },
     "bb":{
@@ -231,9 +231,10 @@
       "9.9":"n"
     }
   },
-  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard `expression()` syntax. Partial support in IE9 refers to the browser crashing when used as a `background-position` value. Partial support in Android Browser 4.4 refers to the browser lacking the ability to multiply and divide values.",
+  "notes":"Support can be somewhat emulated in older versions of IE using the non-standard `expression()` syntax.",
   "notes_by_num":{
-    
+    "1":"Partial support in Android Browser 4.4 refers to the browser lacking the ability to multiply and divide values.",
+    "2":"Partial support in IE9 refers to the browser crashing when used as a `background-position` value."
   },
   "usage_perc_y":76.14,
   "usage_perc_a":5.38,

@@ -37,7 +37,7 @@
       "5.5":"n",
       "6":"n",
       "7":"n",
-      "8":"a",
+      "8":"a #1",
       "9":"y",
       "10":"y",
       "11":"y",
@@ -226,9 +226,9 @@
       "9.9":"y"
     }
   },
-  "notes":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. :pseudo-class). It does not support the double-colon CSS3 syntax (i.e. ::pseudo-element)\r\n\r\nFor content to appear in pseudo-elements, the `content` property must be set (but may be an empty string).",
+  "notes":"For content to appear in pseudo-elements, the `content` property must be set (but may be an empty string).",
   "notes_by_num":{
-    
+    "1":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. :pseudo-class). It does not support the double-colon CSS3 syntax (i.e. ::pseudo-element)."
   },
   "usage_perc_y":94.88,
   "usage_perc_a":2.19,

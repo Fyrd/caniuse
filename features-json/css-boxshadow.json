@@ -137,9 +137,9 @@
       "46":"y"
     },
     "safari":{
-      "3.1":"a x",
-      "3.2":"a x",
-      "4":"a x",
+      "3.1":"a x #1",
+      "3.2":"a x #1",
+      "4":"a x #1",
       "5":"y x",
       "5.1":"y",
       "6":"y",
@@ -179,7 +179,7 @@
       "31":"y"
     },
     "ios_saf":{
-      "3.2":"a x",
+      "3.2":"a x #1",
       "4.0-4.1":"y x",
       "4.2-4.3":"y x",
       "5.0-5.1":"y",
@@ -192,10 +192,10 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"a x",
-      "2.2":"a x",
-      "2.3":"a x",
-      "3":"a x",
+      "2.1":"a x #1",
+      "2.2":"a x #1",
+      "2.3":"a x #1",
+      "3":"a x #1",
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
@@ -230,9 +230,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Can be partially emulated in older IE versions using the non-standard \"shadow\" filter. Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\", blur radius value, and multiple shadow support.",
+  "notes":"Can be partially emulated in older IE versions using the non-standard \"shadow\" filter.",
   "notes_by_num":{
-    
+    "1":"Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\", blur radius value, and multiple shadow support."
   },
   "usage_perc_y":90.82,
   "usage_perc_a":0.15,
