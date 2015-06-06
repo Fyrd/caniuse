@@ -146,8 +146,8 @@
       "10.5":"n",
       "10.6":"n",
       "11":"n",
-      "11.1":"a x",
-      "11.5":"a x",
+      "11.1":"a x #1",
+      "11.5":"a x #1",
       "11.6":"y x",
       "12":"y x",
       "12.1":"y",
@@ -201,8 +201,8 @@
     "op_mob":{
       "10":"n",
       "11":"n",
-      "11.1":"a x",
-      "11.5":"a x",
+      "11.1":"a x #1",
+      "11.5":"a x #1",
       "12":"y x",
       "12.1":"y",
       "24":"y"
@@ -221,9 +221,9 @@
       "9.9":"y x"
     }
   },
-  "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support. \r\n\r\nPartial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
+  "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
   "notes_by_num":{
-    
+    "1":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients."
   },
   "usage_perc_y":88.98,
   "usage_perc_a":0.42,
