@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Browsers can behave differently on when they should check spelling (e.g. immediately or only on focus)"
+    }
   ],
   "categories":[
     "HTML5"
@@ -211,7 +213,7 @@
       "9.9":"a"
     }
   },
-  "notes":"The partial support in mobile browsers results from their OS generally having built-in spell checking instead of using the wavy underline to indicate misspelled words. `spellcheck=\"false\"` does not seem to have any effect in these browsers.",
+  "notes":"The partial support in mobile browsers results from their OS generally having built-in spell checking instead of using the wavy underline to indicate misspelled words. `spellcheck=\"false\"` does not seem to have any effect in these browsers.\r\n\r\nBrowsers have different behavior in how they deal with spellchecking in combination with the the `lang` attribute. Generally spelling is based on the browser's language, not the language of the document.",
   "notes_by_num":{
     
   },
