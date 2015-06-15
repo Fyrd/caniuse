@@ -36,6 +36,9 @@
     },
     {
       "description":"IE6 does not properly support combinations of pseudo classes like `:link`, `:active` and `:visited`"
+    },
+    {
+      "description":"In IE10 adjacent sibling selector doesn't work with pseudo-class in case of `E:active F`."
     }
   ],
   "categories":[
@@ -182,7 +185,8 @@
       "28":"y",
       "29":"y",
       "30":"y",
-      "31":"y"
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"y",
