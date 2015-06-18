@@ -19,9 +19,6 @@
     },
     {
       "description":"Partial support in iOS Safari 5.0-5.1 refers to the browser recognizing the `X-Webkit-CSP` header but failing to handle complex cases correctly, often resulting in broken pages."
-    },
-    {
-      "description":"Chrome for iOS fails to render pages without a [connect-src 'self'](https://code.google.com/p/chromium/issues/detail?id=322497) policy."
     }
   ],
   "categories":[
