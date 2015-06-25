@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE and Firefox do not appear to have support for nested ruby structures [see testcase](http://jsfiddle.net/tabletguy/49412u7r/)"
+    }
   ],
   "categories":[
     "HTML5"
