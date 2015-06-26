@@ -1,7 +1,7 @@
 {
   "title":"window.location.search",
   "description":"Return the querystring part of a URL",
-  "spec":"http://www.w3.org/TR/html/browsers.html#the-location-interface",
+  "spec":"https://url.spec.whatwg.org/#dom-urlutils-search",
   "status":"rec",
   "links":[
     {
@@ -9,11 +9,7 @@
       "title":"MDN"
     }
   ],
-  "bugs":[
-    {
-      "no-w3c-spec":"Apparently there is no W3C spec for the .search property of the Location interface."
-    }
-  ],
+  "bugs":[],
   "categories":[
     "JS API",
     "DOM:
@@ -221,7 +217,7 @@
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"parentfeatureid",
+  "parent":"",
   "keywords":"address,query,string,location",
   "ie_id":"",
   "chrome_id":"",
