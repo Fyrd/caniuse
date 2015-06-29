@@ -224,7 +224,13 @@
             this.validate('notes_by_num', ['isObject']);
             this.validate('usage_perc_y', ['isNumber']);
             this.validate('ucprefix', ['isBoolean']);
-            this.validate('parent', ['isString']); // TODO: Check if existing feature
+            this.validate('parent', ['isString']);
+            this.validate('parent', function(featureid) {
+            	// TODO: Check if existing feature
+                if (featureid === 'parentfeatureid' && id !== 'sample-data') {
+                    this.throwError('"parent" value is invalid, got: ' + featureid);
+                }
+            }.bind(this));
             this.validate('keywords', ['isString']);
             this.validate('ie_id', ['isString']);
             this.validate('chrome_id', ['isString']);
