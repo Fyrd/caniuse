@@ -10,7 +10,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "Other"
@@ -220,12 +220,12 @@
     "4":"Chrome 36-38 is missing the plugin-types, child-src, frame-ancestors, base-uri, and form-action directives.",
     "5":"Chrome 39 is missing the plugin-types, child-src, base-uri, and form-action directives."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":40.2,
+  "usage_perc_a":12.28,
   "ucprefix":false,
   "parent":"parentfeatureid",
   "keywords":"csp,security,header,nonce,hash",
   "ie_id":"",
   "chrome_id":"4957003285790720",
-  "shown":true
+  "shown":false
 }
