@@ -1,13 +1,9 @@
 {
   "title":"CSS zoom",
   "description":"Allows to scale content.",
-  "spec":"http://w3.org/TR/css3-fonts/#font-rend-props",
-  "status":"wd",
+  "spec":"https://msdn.microsoft.com/en-us/library/ms531189(v=vs.85).aspx",
+  "status":"other",
   "links":[
-    {
-      "url":"",
-      "title":""
-    },
     {
       "url":"https://css-tricks.com/almanac/properties/z/zoom/",
       "title":"CSS Tricks"
@@ -235,10 +231,10 @@
     }
   },
   "notes":"It is non-standard, and was originally implemented only in Internet Explorer. Although several other browsers support zoom, it isn't recommended for production sites. If you want to scale content, use 'transform: scale()'. You can also use filters if you need old IE support.",
-  "notes_bn_num":{
+  "notes_by_num":{
     "1": "The -ms-zoom attribute is an extension to CSS, and can be used as a synonym for zoom in IE8 Standards mode."
   },
-  "usage_perc_n":0,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
