@@ -2,10 +2,15 @@
   "title":"CSS Backdrop Filter",
   "description":"Method of applying filter effects (like blur, grayscale or hue) to content/elements below the target element.",
   "spec":"http://dev.w3.org/fxtf/filters-2/#BackdropFilterProperty",
-  "status":"wd",
+  "status":"unoff",
   "links":[
+    {
+      "url":"http://product.voxmedia.com/til/2015/2/17/8053347/css-ios-transparency-with-webkit-backdrop-filter",
+      "title":"Blog post"
+    }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS",
@@ -210,6 +215,7 @@
   },
   "notes":"",
   "notes_by_num":{
+    
   },
   "usage_perc_y":0,
   "usage_perc_a":0,

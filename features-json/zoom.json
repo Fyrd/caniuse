@@ -232,14 +232,14 @@
   },
   "notes":"It is non-standard, and was originally implemented only in Internet Explorer. Although several other browsers support zoom, it isn't recommended for production sites. If you want to scale content, use 'transform: scale()'. You can also use filters if you need old IE support.",
   "notes_by_num":{
-    "1": "The -ms-zoom attribute is an extension to CSS, and can be used as a synonym for zoom in IE8 Standards mode."
+    "1":"The -ms-zoom attribute is an extension to CSS, and can be used as a synonym for zoom in IE8 Standards mode."
   },
-  "usage_perc_y":0,
+  "usage_perc_y":65.27,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"-ms-zoom,transform,-moz-transform,-ms-transform,-webkit-transform,-o-transform,scale,css-transforms",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }
