@@ -316,8 +316,10 @@
         var files = fs.readdirSync(path);
         for (var i = 0; i < files.length; i++) {
             var file = files[i];
-            if (file.indexOf('.json') > -1) {
+            if (/[.]json$/.test(file)) {
                 readFile(path + '/' + file, 'feature');
+            } else {
+                throw Error('File "' + file + '" does not have ".json" extension');
             }
         }
     });
