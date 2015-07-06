@@ -215,7 +215,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag. Reported to not work in web workers."
+    "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag. Reported to not work in web workers before version 41."
   },
   "usage_perc_y":76.12,
   "usage_perc_a":0,

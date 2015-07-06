@@ -1,8 +1,8 @@
 {
   "title":"CSS zoom",
-  "description":"Allows to scale content.",
+  "description":"Non-standard method of scaling content.",
   "spec":"https://msdn.microsoft.com/en-us/library/ms531189(v=vs.85).aspx",
-  "status":"other",
+  "status":"unoff",
   "links":[
     {
       "url":"https://css-tricks.com/almanac/properties/z/zoom/",
@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"When both 'zoom' and 'transform: scale()' are applied, Chrome will perform zooming operation twice."
+      "description":"When both `zoom` and `transform: scale()` are applied, Chrome will perform zooming operation twice."
     }
   ],
   "categories":[
@@ -39,10 +39,10 @@
       "6":"y",
       "7":"y",
       "8":"y #1",
-      "9":"n",
-      "10":"n",
-      "11":"n",
-      "Edge":"n"
+      "9":"y #1",
+      "10":"y #1",
+      "11":"y #1",
+      "Edge":"y"
     },
     "firefox":{
       "2":"n",
@@ -205,8 +205,8 @@
       "40":"y"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"y",
+      "10":"y"
     },
     "op_mob":{
       "10":"n",
@@ -224,23 +224,23 @@
       "38":"n"
     },
     "ie_mob":{
-      "10":"n",
-      "11":"n"
+      "10":"y #1",
+      "11":"y #1"
     },
     "and_uc":{
-      "9.9":"n"
+      "9.9":"y"
     }
   },
-  "notes":"It is non-standard, and was originally implemented only in Internet Explorer. Although several other browsers support zoom, it isn't recommended for production sites. If you want to scale content, use 'transform: scale()'. You can also use filters if you need old IE support.",
+  "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content.",
   "notes_by_num":{
-    "1":"The -ms-zoom attribute is an extension to CSS, and can be used as a synonym for zoom in IE8 Standards mode."
+    "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
   },
-  "usage_perc_y":64.88,
+  "usage_perc_y":82.06,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"-ms-zoom,transform,-moz-transform,-ms-transform,-webkit-transform,-o-transform,scale,css-transforms",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }

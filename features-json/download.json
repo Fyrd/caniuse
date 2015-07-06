@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Firefox only supports [same-origin](https://bugzilla.mozilla.org/show_bug.cgi?id=874009) download links."
+    }
   ],
   "categories":[
     "HTML5"
