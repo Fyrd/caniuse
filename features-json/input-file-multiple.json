@@ -204,7 +204,7 @@
       "24":"n #1"
     },
     "and_chr":{
-      "42":"n #1"
+      "42":"a #1"
     },
     "and_ff":{
       "38":"n #1"
@@ -219,10 +219,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Not supported when tested on Android, presumably an OS limitation."
+    "1":"Not supported on Android 4.x and below, presumably an OS limitation. Only seems to work in Android 5.x for the Chrome browser."
   },
   "usage_perc_y":62.17,
-  "usage_perc_a":0,
+  "usage_perc_a":13.77,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

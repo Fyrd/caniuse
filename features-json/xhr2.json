@@ -46,10 +46,10 @@
     "firefox":{
       "2":"n",
       "3":"n",
-      "3.5":"a",
-      "3.6":"a",
-      "4":"a #1 #2",
-      "5":"a #1 #2",
+      "3.5":"a #1 #2 #3",
+      "3.6":"a #1 #2 #3",
+      "4":"a #1 #2 #3",
+      "5":"a #1 #2 #3",
       "6":"a #1 #2",
       "7":"a #1 #2",
       "8":"a #1 #2",
@@ -195,11 +195,11 @@
       "2.1":"n",
       "2.2":"n",
       "2.3":"n",
-      "3":"a #1 #2",
-      "4":"a #1 #2",
-      "4.1":"a #1 #2",
-      "4.2-4.3":"a #1 #2",
-      "4.4":"a #1",
+      "3":"a #1 #2 #3",
+      "4":"a #1 #2 #3",
+      "4.1":"a #1 #2 #3",
+      "4.2-4.3":"a #1 #2 #3",
+      "4.4":"a #1 #2",
       "4.4.3-4.4.4":"y",
       "40":"y"
     },
@@ -233,7 +233,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to not supporting `json` as `responseType`",
-    "2":"Partial support refers to not supporting `.timeout` and `.ontimeout`"
+    "2":"Partial support refers to not supporting `.timeout` and `.ontimeout`",
+    "3":"Partial support refers to not supporting `blob` as `responseType`"
   },
   "usage_perc_y":65.14,
   "usage_perc_a":23.96,
