@@ -177,14 +177,14 @@
     "android":{
       "2.1":"n",
       "2.2":"n",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "40":"u"
+      "2.3":"y",
+      "3":"y",
+      "4":"y",
+      "4.1":"y",
+      "4.2-4.3":"y",
+      "4.4":"y",
+      "4.4.3-4.4.4":"y",
+      "40":"y"
     },
     "bb":{
       "7":"y",
@@ -217,12 +217,12 @@
   "notes_by_num":{
     "1":"Partial support in older Firefox refers to being limited to certain operating systems."
   },
-  "usage_perc_y":83.67,
+  "usage_perc_y":89.93,
   "usage_perc_a":0.5,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"mpeg",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
