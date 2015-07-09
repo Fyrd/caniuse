@@ -32,7 +32,7 @@ Currently the following feature information can be modified:
 	* `cr` - W3C Candidate Recommendation
 	* `wd` - W3C Working Draft
 	* `other` - Non-W3C, but reputable
-	* `unoff` - Unofficial or W3C "Note"
+	* `unoff` - Unofficial, Editor's Draft or W3C "Note"
 * **links** — Array of "link" objects consisting of URL and short description of link
 * **bugs** — Array of "bug" objects consisting of a bug description
 * **categories** — Array of categories, any of the following:
