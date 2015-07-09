@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Calling getBoundingClientRect on an element outside of the DOM throws an unspecified error instead of returning a 0x0 DOMRect. See [IE bug #829392.](https://connect.microsoft.com/IE/feedback/details/829392/calling-getboundingclientrect-on-an-html-element-that-has-not-been-added-to-the-dom-causes-unspecified-error)"
+      "description":"In IE<=11, calling getBoundingClientRect on an element outside of the DOM throws an unspecified error instead of returning a 0x0 DOMRect. See [IE bug #829392.](https://connect.microsoft.com/IE/feedback/details/829392/calling-getboundingclientrect-on-an-html-element-that-has-not-been-added-to-the-dom-causes-unspecified-error)"
     },
     {
       "description":"Really old versions of Safari and Chrome gave incorrect results for SVG elements. See [Chromium issue #47998.](https://code.google.com/p/chromium/issues/detail?id=47998)"
