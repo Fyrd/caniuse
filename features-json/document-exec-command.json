@@ -2,7 +2,7 @@
   "title":"Document.execCommand()",
   "description":"Allows running commands to manipulate the contents of an editable region in a document switched to designMode",
   "spec":"https://dvcs.w3.org/hg/editing/raw-file/tip/editing.html#execcommand()",
-  "status":"wd",
+  "status":"ed",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand",
@@ -165,10 +165,10 @@
       "4.2-4.3":"u",
       "5.0-5.1":"u",
       "6.0-6.1":"u",
-      "7.0-7.1":"u",
-      "8":"u",
-      "8.1-8.3":"u",
-      "9":"u"
+      "7.0-7.1":"y",
+      "8":"y",
+      "8.1-8.3":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"u"
@@ -212,9 +212,11 @@
       "9.9":"u"
     }
   },
-  "notes":"To determine what commands are supported, see Document.QueryCommandSupported()",
+  "notes":"To determine what commands are supported, see Document.queryCommandSupported()",
   "notes_by_num":{
   },
+  "usage_perc_y":0,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"document,text,editor,commands,designMode",
