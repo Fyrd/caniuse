@@ -2,7 +2,7 @@
   "title":"Document.queryCommandSupported()",
   "description":"Reports whether or not the specified editor query command is supported by the browser.",
   "spec":"https://dvcs.w3.org/hg/editing/raw-file/tip/editing.html#querycommandsupported()",
-  "status":"wd",
+  "status":"ed",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Document/queryCommandSupported",
@@ -216,8 +216,10 @@
   "notes_by_num":{
     "1": "Before Firefox 41, for the command 'paste' Firefox incorrectly returned true when the paste feature was available but the calling script had insufficient privileges to actually perform the action. Also, 'cut' and 'copy' were returning false. Now they return true in user-initiated or privileged code."
   },
+  "usage_perc_y":0,
+  "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"Document.execCommand()",
+  "parent":"document-exec-command",
   "keywords":"document,text,editor,commands,designMode",
   "ie_id":"",
   "chrome_id":"",
