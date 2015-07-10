@@ -10,6 +10,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "JS API"
@@ -196,7 +197,7 @@
       "11.5":"u",
       "12":"u",
       "12.1":"u",
-      "24":"u"
+      "30":"u"
     },
     "and_chr":{
       "42":"y"
@@ -214,14 +215,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1": "Before Firefox 41, for the command 'paste' Firefox incorrectly returned true when the paste feature was available but the calling script had insufficient privileges to actually perform the action. Also, 'cut' and 'copy' were returning false. Now they return true in user-initiated or privileged code."
+    "1":"Before Firefox 41, for the command 'paste' Firefox incorrectly returned true when the paste feature was available but the calling script had insufficient privileges to actually perform the action. Also, 'cut' and 'copy' were returning false. Now they return true in user-initiated or privileged code."
   },
-  "usage_perc_y":0,
+  "usage_perc_y":78.49,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"document-exec-command",
   "keywords":"document,text,editor,query,commands,designMode",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }

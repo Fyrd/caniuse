@@ -39,6 +39,9 @@
     },
     {
       "description":"IE 10 has a bug where text-shadow doesn't work when used inside columns [see testcase](https://jsfiddle.net/0bwwrtda/)"
+    },
+    {
+      "description":"Firefox does not split tables into columns"
     }
   ],
   "categories":[
@@ -226,7 +229,7 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"a x"
+      "30":"a x"
     },
     "and_chr":{
       "42":"a x"
