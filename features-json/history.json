@@ -31,7 +31,7 @@
   ],
   "bugs":[
     {
-      "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK)"
+      "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK). See [IE bug report](https://connect.microsoft.com/IE/Feedback/Details/1528993)."
     },
     {
       "description":"history.pushState() is buggy in Android 2.2 and 2.3 in that it doesn't cause `window.location` to update with the new URL. This works in all other browsers that support `pushState()`. [See Android bug report](http://code.google.com/p/android/issues/detail?id=17471)."
