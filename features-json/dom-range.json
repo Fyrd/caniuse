@@ -11,6 +11,10 @@
     {
       "url":"http://www.quirksmode.org/dom/range_intro.html",
       "title":"QuirksMode"
+    },
+    {
+      "url":"https://github.com/timdown/rangy",
+      "title":"\"Rangy\" Range library with old IE support"
     }
   ],
   "bugs":[
@@ -23,9 +27,9 @@
   "stats":{
     "ie":{
       "5.5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"u",
+      "6":"p",
+      "7":"p",
+      "8":"p",
       "9":"y",
       "10":"y",
       "11":"y",
@@ -166,68 +170,68 @@
       "32":"y"
     },
     "ios_saf":{
-      "3.2":"u",
-      "4.0-4.1":"u",
-      "4.2-4.3":"u",
-      "5.0-5.1":"u",
-      "6.0-6.1":"u",
-      "7.0-7.1":"u",
-      "8":"u",
-      "8.1-8.3":"u",
-      "9":"u"
+      "3.2":"y",
+      "4.0-4.1":"y",
+      "4.2-4.3":"y",
+      "5.0-5.1":"y",
+      "6.0-6.1":"y",
+      "7.0-7.1":"y",
+      "8":"y",
+      "8.1-8.3":"y",
+      "9":"y"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"y"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "40":"u"
+      "2.1":"y",
+      "2.2":"y",
+      "2.3":"y",
+      "3":"y",
+      "4":"y",
+      "4.1":"y",
+      "4.2-4.3":"y",
+      "4.4":"y",
+      "4.4.3-4.4.4":"y",
+      "40":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"y",
+      "10":"y"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "30":"u"
+      "10":"y",
+      "11":"y",
+      "11.1":"y",
+      "11.5":"y",
+      "12":"y",
+      "12.1":"y",
+      "30":"y"
     },
     "and_chr":{
-      "42":"u"
+      "42":"y"
     },
     "and_ff":{
-      "38":"u"
+      "38":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"y",
+      "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y"
     }
   },
-  "notes":"See https://developer.mozilla.org/en-US/docs/Web/API/Range for feature support details",
+  "notes":"See [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Range) for feature support details",
   "notes_by_num":{
     
   },
-  "usage_perc_y":56.28,
+  "usage_perc_y":95.58,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOM,range,selection",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }

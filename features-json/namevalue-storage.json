@@ -39,7 +39,7 @@
       "description":"In IE attempting to access localStorage on HTML files served from the file system results in the localStorage object being `undefined`"
     },
     {
-      "description":"Internet Explorer localStorage does not support storing all ASCII chars.\r\n\r\nFor example: `localStorage.setItem(\"store\", \"x01\")`\r\n\r\n"
+      "description":"Internet Explorer does not support storing most of the ASCII characters with codes under \\x20."
     },
     {
       "description":"The \"storage\" event is completely wrong in IE:\r\nIE10 : The storage event is fired even on the originating document where it occurred. Causes problems with multiple windows websites, and huge problems with iframes.\r\nIE11 : The storage event's oldValue and newValue are identical (newValue is supposed to contain the storage's updated value).\r\n\r\nPartial workaround: regularly probe the storage's value and compare with the last known value on all pages where you want to listen to this event, and track the last submitted value to determine if the modification was triggered locally. "
