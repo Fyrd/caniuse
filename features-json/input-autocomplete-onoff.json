@@ -217,7 +217,7 @@
   },
   "notes":"This support information does not include support for other values.\r\n\r\n",
   "notes_by_num":{
-    "1":"Partial support refers to ignoring the `off` value for password fields.",
+    "1":"Partial support in refers to ignoring the `off` value for password fields.",
     "2":"Partial support in Chrome refers to the browser intentionally ignoring `autocomplete=\"off\"` when the user uses the browser's autofill functionality. [see bug](https://code.google.com/p/chromium/issues/detail?id=468153#c29)",
     "3":"Partial support in Firefox refers to ignoring `autocomplete=\"off\"` for login forms. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)"
   },
