@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"in iOS Safari 5-7, position:fixed will move to center of window with focus event on child text input field."
+    },
+    {
+      "description":"In Android 4.0-4.3 `position:fixed` inside an iframe will cause unexpected behviour."
     }
   ],
   "categories":[
