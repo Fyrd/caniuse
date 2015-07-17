@@ -1,6 +1,6 @@
 {
   "title":"srcdoc attribute for iframes",
-  "description":"Override the content specified in the src attribute (if present) with HTML content within the attribute",
+  "description":"Override the content specified in the `src` attribute (if present) with HTML content within the attribute.",
   "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#attr-iframe-srcdoc",
   "status":"ls",
   "links":[
@@ -38,7 +38,7 @@
       "11":"p"
     },
     "edge":{
-      "1":"u"
+      "1":"p"
     },
     "firefox":{
       "2":"n",
@@ -175,67 +175,67 @@
       "32":"y"
     },
     "ios_saf":{
-      "3.2":"u",
-      "4.0-4.1":"u",
-      "4.2-4.3":"u",
-      "5.0-5.1":"u",
-      "6.0-6.1":"u",
-      "7.0-7.1":"u",
-      "8":"u",
-      "8.1-8.3":"u",
-      "9":"u"
+      "3.2":"n",
+      "4.0-4.1":"p",
+      "4.2-4.3":"p",
+      "5.0-5.1":"p",
+      "6.0-6.1":"y",
+      "7.0-7.1":"y",
+      "8":"y",
+      "8.1-8.3":"y",
+      "9":"y"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "40":"u"
+      "2.1":"p",
+      "2.2":"p",
+      "2.3":"p",
+      "3":"p",
+      "4":"p",
+      "4.1":"p",
+      "4.2-4.3":"p",
+      "4.4":"y",
+      "4.4.3-4.4.4":"y",
+      "40":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"p",
+      "10":"y"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "30":"u"
+      "10":"n",
+      "11":"n",
+      "11.1":"p",
+      "11.5":"p",
+      "12":"p",
+      "12.1":"p",
+      "30":"y"
     },
     "and_chr":{
-      "42":"u"
+      "42":"y"
     },
     "and_ff":{
-      "38":"u"
+      "38":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"p",
+      "11":"p"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":0,
+  "usage_perc_y":75.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"iframe,srcdoc",
+  "keywords":"",
   "ie_id":"iframesrcdocattribute",
   "chrome_id":"5222955109842944",
   "shown":true
