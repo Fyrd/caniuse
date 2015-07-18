@@ -45,9 +45,6 @@
       "description":"Chrome does not print elements defined with `vw` or `vh` units."
     },
     {
-      "description":"Firefox doesn't seem to support `vh` if used in conjunction with `min-height` (eg `min-height: 100vh;`)"
-    },
-    {
       "description":"In IE 10 and 11, using `vw` units with 3D transforms causes unexpected behavior"
     },
     {

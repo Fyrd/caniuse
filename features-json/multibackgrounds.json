@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"IE9 does not correctly render multiple backgrounds for TableRows. Attempting to do a left-cap, right cap, and repeated fill on a row results in the left cap and fill being correct, but the right cap will display at the end of the first column, then again part way through the rest of the table."
+    },
+    {
+      "description":"IE9 doesn't support multiple backgrounds with gradient and image in one rule."
     }
   ],
   "categories":[
