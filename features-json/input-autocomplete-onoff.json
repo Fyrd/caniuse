@@ -126,10 +126,10 @@
       "5.1":"y",
       "6":"y",
       "6.1":"y",
-      "7":"y",
-      "7.1":"y",
-      "8":"y",
-      "9":"y"
+      "7":"a #5",
+      "7.1":"a #5",
+      "8":"a #5",
+      "9":"a #5"
     },
     "opera":{
       "9":"y",
@@ -166,15 +166,15 @@
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
-      "7.0-7.1":"y",
-      "8":"y",
-      "8.1-8.3":"y",
-      "9":"y"
+      "5.0-5.1":"y #4",
+      "6.0-6.1":"y #4",
+      "7.0-7.1":"y #4",
+      "8":"y #4",
+      "8.1-8.3":"y #4",
+      "9":"y #4"
     },
     "op_mini":{
-      "5.0-8.0":"y"
+      "5.0-8.0":"y #4"
     },
     "android":{
       "2.1":"y",
@@ -208,25 +208,27 @@
       "38":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"a #5",
+      "11":"a #5"
     },
     "and_uc":{
-      "9.9":"y"
+      "9.9":"y #4"
     }
   },
-  "notes":"This support information does not include support for other values.\r\n\r\n",
+  "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields.",
   "notes_by_num":{
-    "1":"Partial support refers to ignoring the `off` value for password fields.",
+    "1":"Partial support refers to ignoring the `off` value for password fields. [see related blog post](http://blogs.msdn.com/b/ieinternals/archive/2009/09/10/troubleshooting-stored-login-problems-in-ie.aspx)",
     "2":"Partial support in Chrome refers to the browser intentionally ignoring `autocomplete=\"off\"` when the user uses the browser's autofill functionality. [see bug](https://code.google.com/p/chromium/issues/detail?id=468153#c29)",
-    "3":"Partial support in Firefox refers to ignoring `autocomplete=\"off\"` for login forms. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)"
+    "3":"Partial support in Firefox refers to ignoring `autocomplete=\"off\"` for login forms. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)",
+    "4":"Browser does not display previously submitted values as options with `on` value.",
+    "5":"Safari ignores the `off` value for [username, email and password fields](http://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
-  "usage_perc_y":51.52,
-  "usage_perc_a":45.82,
+  "usage_perc_y":48.09,
+  "usage_perc_a":49.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
