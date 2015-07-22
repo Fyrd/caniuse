@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"For SVG data URIs IE only supports base64 encoding."
+      "description":"IE requires URI's not base64 encoded (e.g. plain SVG) to be URL encoded."
     }
   ],
   "categories":[
