@@ -18,6 +18,9 @@
     },
     {
       "description":"In versions before Safari 6, Typed Arrays are much slower than normal arrays."
+    },
+    {
+      "description":"`ArrayBuffer` has no slice method in IE 10."
     }
   ],
   "categories":[

@@ -25,7 +25,7 @@
       "description":"iOS Safari has buggy behavior with `background-size: cover;` + `background-attachment: fixed;`"
     },
     {
-      "description":"Safari (OS X and iOS) does not support background-size: 100% <height>px; in combination with SVG images, it leaves them at the original size while other browsers stretch the vector image correctly while leaving the height at the specified number of pixels."
+      "description":"Safari (OS X and iOS) and Chrome do not support background-size: 100% <height>px; in combination with SVG images, it leaves them at the original size while other browsers stretch the vector image correctly while leaving the height at the specified number of pixels."
     }
   ],
   "categories":[
