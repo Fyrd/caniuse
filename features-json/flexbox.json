@@ -59,7 +59,7 @@
       "description":"In IE 10, setting `-ms-flex-flow: row wrap` will not wrap unless `display: inline-block` is set on child elements."
     },
     {
-      "description":"IE 11 incorrectly focuses a child element if the parent uses `display:flex` and has a tabindex set [see testcase](Span element has focus even without tabindex selected. For details please look at example. http://jsbin.com/numibokune/1/edit?html,css,js,console,output)."
+      "description":"IE 11 incorrectly focuses a child element if the parent uses `display:flex` and has a tabindex set [see testcase](http://jsbin.com/numibokune/1/edit?html,css,js,console,output)."
     }
   ],
   "categories":[
