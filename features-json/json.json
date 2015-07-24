@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE9-IE11 fail to call the \"reviver\" argument recursively (in some versions of windows). [see discussion](https://github.com/Fyrd/caniuse/issues/1653)"
+    }
   ],
   "categories":[
     "JS API"
