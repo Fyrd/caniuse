@@ -216,7 +216,7 @@
       "9.9":"y #4"
     }
   },
-  "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields.",
+  "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields. One example is the use of password managers.",
   "notes_by_num":{
     "1":"Partial support refers to ignoring the `off` value for password fields. [see related blog post](http://blogs.msdn.com/b/ieinternals/archive/2009/09/10/troubleshooting-stored-login-problems-in-ie.aspx)",
     "2":"Partial support in Chrome refers to the browser intentionally ignoring `autocomplete=\"off\"` when the user uses the browser's autofill functionality. [see bug](https://code.google.com/p/chromium/issues/detail?id=468153#c29)",
