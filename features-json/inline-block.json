@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"IE 8 has a [resize issue with display-inline block](http://blog.caplin.com/2013/06/07/developing-for-ie8-inline-block-resize-bug/)."
+    },
+    {
+      "description":"inline-block shows elements in one line overflowing the parent (container) in Safari, while all other browsers center the overflowing element below them no matter what. And that is without overflowing the container."
     }
   ],
   "categories":[
