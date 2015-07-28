@@ -15,6 +15,10 @@
     {
       "url":"http://aurelio.audero.it/demo/web-speech-api-demo.html",
       "title":"Demo"
+    },
+    {
+      "url":"http://zenorocha.github.io/voice-elements/#recognition-element",
+      "title":"Advanced demo and resource"
     }
   ],
   "bugs":[
@@ -59,27 +63,27 @@
       "19":"n",
       "20":"n",
       "21":"n",
-      "22":"n d #3",
-      "23":"n d #3",
-      "24":"n d #3",
-      "25":"n d #3",
-      "26":"n d #3",
-      "27":"n d #3",
-      "28":"n d #3",
-      "29":"n d #3",
-      "30":"n d #3",
-      "31":"n d #3",
-      "32":"n d #3",
-      "33":"n d #3",
-      "34":"n d #3",
-      "35":"n d #3",
-      "36":"n d #3",
-      "37":"n d #3",
-      "38":"n d #3",
-      "39":"n d #3",
-      "40":"n d #3",
-      "41":"n d #3",
-      "42":"n d #3"
+      "22":"n d #2",
+      "23":"n d #2",
+      "24":"n d #2",
+      "25":"n d #2",
+      "26":"n d #2",
+      "27":"n d #2",
+      "28":"n d #2",
+      "29":"n d #2",
+      "30":"n d #2",
+      "31":"n d #2",
+      "32":"n d #2",
+      "33":"n d #2",
+      "34":"n d #2",
+      "35":"n d #2",
+      "36":"n d #2",
+      "37":"n d #2",
+      "38":"n d #2",
+      "39":"n d #2",
+      "40":"n d #2",
+      "41":"n d #2",
+      "42":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -227,13 +231,13 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to some attributes missing.",
-    "3":"Supported in Firefox in about:config using the `media.webspeech.recognition.enable` flag."
+    "2":"Supported in Firefox in about:config using the `media.webspeech.recognition.enable` flag."
   },
   "usage_perc_y":0,
-  "usage_perc_a":55.38,
+  "usage_perc_a":45.05,
   "ucprefix":false,
   "parent":"",
-  "keywords":"speech,recognition,ASR",
+  "keywords":"#web-speech,speech,recognition,ASR",
   "ie_id":"webspeechapiinput",
   "chrome_id":"5908775487668224",
   "shown":true
