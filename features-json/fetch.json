@@ -67,12 +67,12 @@
       "31":"n",
       "32":"n",
       "33":"n",
-      "34":"n d #1",
-      "35":"n d #1",
-      "36":"n d #1",
-      "37":"n d #1",
-      "38":"n d #1",
-      "39":"y",
+      "34":"n d #1 #4",
+      "35":"n d #1 #4",
+      "36":"n d #1 #4",
+      "37":"n d #1 #4",
+      "38":"n d #1 #4",
+      "39":"y #4",
       "40":"y",
       "41":"y",
       "42":"y"
@@ -224,7 +224,8 @@
   "notes_by_num":{
     "1":"Partial support can be enabled in Firefox with the `dom.fetch.enabled` flag.",
     "2":"Only available in Chrome and Opera within ServiceWorkers.",
-    "3":"Available in Chrome and Opera within Window and Workers by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`"
+    "3":"Available in Chrome and Opera within Window and Workers by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`",
+    "4":"Firefox is not completely conforming to the specs and does not respect the <base> tag for relative URIs in fetch requests. https://bugzilla.mozilla.org/show_bug.cgi?id=1161625"
   },
   "usage_perc_y":40.44,
   "usage_perc_a":1.06,
