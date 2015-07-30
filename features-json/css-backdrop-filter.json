@@ -7,10 +7,19 @@
     {
       "url":"http://product.voxmedia.com/til/2015/2/17/8053347/css-ios-transparency-with-webkit-backdrop-filter",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter",
+      "title":"Mozilla Developer Network"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome feature request: [Chromium issue #497522](https://code.google.com/p/chromium/issues/detail?id=497522)"
+    },
+    {
+      "description":"Firefox feature request: [Mozilla bug #1178765](https://bugzilla.mozilla.org/show_bug.cgi?id=1178765)"
+    }
   ],
   "categories":[
     "CSS",
