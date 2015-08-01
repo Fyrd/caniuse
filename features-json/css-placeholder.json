@@ -228,7 +228,7 @@
       "9.9":"a x"
     }
   },
-  "notes":"Partial support refers to using alternate names:\r\n 1. `::-webkit-input-placeholder` (Chrome/Safari/Opera),\r\n 2. `:-ms-input-placeholder` (IE). ",
+  "notes":"Partial support refers to using alternate names:\r\n`::-webkit-input-placeholder` for (Chrome/Safari/Opera)\r\n`:-ms-input-placeholder` for IE. \r\n`::-ms-input-placeholder` for Edge (also supports webkit prefix)",
   "notes_by_num":{
     "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
