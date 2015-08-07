@@ -26,7 +26,7 @@
       "11":"n"
     },
     "edge":{
-      "1":"u"
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -190,8 +190,8 @@
       "40":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"y"
     },
     "op_mob":{
       "10":"n",
@@ -223,9 +223,9 @@
   "usage_perc_y":70.29,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"",
-  "keywords":"",
+  "parent":"audio",
+  "keywords":".ogg,.oga,application/ogg,audio/ogg",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
