@@ -1,5 +1,5 @@
 {
-  "title":"<progress> element",
+  "title":"progress element",
   "description":"Method of indicating a progress state.",
   "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-progress-element",
   "status":"ls",
@@ -236,7 +236,7 @@
   "usage_perc_a":8.04,
   "ucprefix":false,
   "parent":"forms",
-  "keywords":"#progressmeter",
+  "keywords":"#progressmeter,<progress>",
   "ie_id":"",
   "chrome_id":"",
   "shown":true
