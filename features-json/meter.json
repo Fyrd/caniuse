@@ -1,28 +1,28 @@
 {
-  "title":"Progress & Meter",
-  "description":"Method of indicating a progress state (progress element) or the current level of a gauge (meter element).\r\n",
-  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-progress-element",
+  "title":"<meter> element",
+  "description":"Method of indicating the current level of a gauge.",
+  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-meter-element",
   "status":"ls",
   "links":[
     {
-      "url":"https://dev.opera.com/articles/new-form-features-in-html5/#newoutput",
-      "title":"Dev.Opera article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter",
+      "title":"Mozilla Developer Network article"
     },
     {
       "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
       "title":"HTML5 Doctor on meter element"
     },
     {
-      "url":"http://peter.sh/examples/?/html/meter-progress.html",
-      "title":"Examples of progress and meter elements"
-    },
-    {
-      "url":"http://docs.webplatform.org/wiki/html/elements/progress",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6803893-meter",
       "title":"Microsoft Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://dev.opera.com/articles/new-form-features-in-html5/#newoutput",
+      "title":"Dev.Opera article"
+    },
+    {
+      "url":"http://peter.sh/examples/?/html/meter-progress.html",
+      "title":"Examples of progress and meter elements"
     }
   ],
   "bugs":[
@@ -38,11 +38,11 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a",
-      "11":"a"
+      "10":"n",
+      "11":"n"
     },
     "edge":{
-      "1":"a"
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -51,16 +51,16 @@
       "3.6":"n",
       "4":"n",
       "5":"n",
-      "6":"a",
-      "7":"a",
-      "8":"a",
-      "9":"a",
-      "10":"a",
-      "11":"a",
-      "12":"a",
-      "13":"a",
-      "14":"a",
-      "15":"a",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
       "16":"y",
       "17":"y",
       "18":"y",
@@ -185,10 +185,10 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0-7.1":"a",
-      "8":"a",
-      "8.1-8.4":"a",
-      "9":"a"
+      "7.0-7.1":"n",
+      "8":"n",
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -225,19 +225,19 @@
       "39":"y"
     },
     "ie_mob":{
-      "10":"a",
-      "11":"a"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
       "9.9":"y"
     }
   },
-  "notes":"Partial support in Firefox 6-15, IE10 & iOS7 Safari refers to supporting the progress element, but not the meter element. iOS7 Safari also does not support \"indeterminate\" progress elements.\r\n\r\nFor styling progress bars, [see this article](http://css-tricks.com/html5-progress-element/)",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":69.66,
-  "usage_perc_a":17.22,
+  "usage_perc_y":0,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",
