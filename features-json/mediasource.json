@@ -179,9 +179,9 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"y",
-      "8.1-8.4":"y",
-      "9":"y"
+      "8":"n",
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -230,7 +230,7 @@
     "1":"Requires the `media.mediasource.enabled` flag to be enabled",
     "2":"Partial support in IE11 refers to only working in Windows 8+"
   },
-  "usage_perc_y":57.39,
+  "usage_perc_y":49.97,
   "usage_perc_a":6.93,
   "ucprefix":false,
   "parent":"",

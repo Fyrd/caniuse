@@ -1,6 +1,6 @@
 {
   "title":"Intrinsic & Extrinsic Sizing",
-  "description":"Allows for the heights and widths to be specified in intrinsic values using the `fill-available`, `max-content`, `min-content`, and `fit-content` properties.",
+  "description":"Allows for the heights and widths to be specified in intrinsic values using the `fill`, `max-content`, `min-content`, and `fit-content` properties.",
   "spec":"http://www.w3.org/TR/css3-sizing/",
   "status":"wd",
   "links":[
@@ -219,7 +219,7 @@
   "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content)\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",
   "notes_by_num":{
     "1":"Does not support `fit-content` for height attribute, only width. [see test case](http://codepen.io/shshaw/pen/Kiwaz)",
-    "2":"Firefox currently supports the \"-moz-available\" property rather than \"-moz-fill-available\"."
+    "2":"Firefox currently supports the \"-moz-available\" property rather than \"-moz-fill\"."
   },
   "usage_perc_y":50.78,
   "usage_perc_a":20.16,
