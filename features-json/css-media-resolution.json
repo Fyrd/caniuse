@@ -223,9 +223,7 @@
   "notes_by_num":{
     "1":"Supports the `dpi` unit, but does not support `dppx` or `dpcm` units.",
     "2":"Firefox before 16 supports only `dpi` unit, but you can set `2dppx` per `min--moz-device-pixel-ratio: 2`",
-    "3":"Supports the non-standard `min`/`max-device-pixel-ratio`",
-    "4":"Supports the non-standard `min`/`max-device-pixel-ratio`",
-    "5":"Does not support the `dpcm` unit."
+    "3":"Supports the non-standard `min`/`max-device-pixel-ratio`"
   },
   "usage_perc_y":60.31,
   "usage_perc_a":35.65,
