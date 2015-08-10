@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"Project Spartan technical preview has a bug where `min-resolution` less than `1dpcm` [is ignored](http://jsfiddle.net/behmjd5t/)."
+      "description":"Microsoft Edge has a bug where `min-resolution` less than `1dpcm` [is ignored](http://jsfiddle.net/behmjd5t/)."
     }
   ],
   "categories":[
@@ -29,7 +29,7 @@
       "11":"a #1"
     },
     "edge":{
-      "1":"a #5"
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -224,8 +224,7 @@
     "1":"Supports the `dpi` unit, but does not support `dppx` or `dpcm` units.",
     "2":"Firefox before 16 supports only `dpi` unit, but you can set `2dppx` per `min--moz-device-pixel-ratio: 2`",
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`",
-    "4":"Supports the non-standard `min`/`max-device-pixel-ratio`",
-    "5":"Does not support the `dpcm` unit."
+    "4":"Supports the non-standard `min`/`max-device-pixel-ratio`"
   },
   "usage_perc_y":60.28,
   "usage_perc_a":35.68,
