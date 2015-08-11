@@ -1,24 +1,17 @@
 {
-  "title":"CSS Backdrop Filter",
-  "description":"Method of applying filter effects (like blur, grayscale or hue) to content/elements below the target element.",
-  "spec":"http://dev.w3.org/fxtf/filters-2/#BackdropFilterProperty",
-  "status":"unoff",
+  "title":"CSS filter() function",
+  "description":"This function filters a CSS input image with a set of filter functions (like blur, grayscale or hue)",
+  "spec":"http://www.w3.org/TR/filter-effects/#FilterCSSImageValue",
+  "status":"wd",
   "links":[
     {
-      "url":"http://product.voxmedia.com/til/2015/2/17/8053347/css-ios-transparency-with-webkit-backdrop-filter",
+      "url":"http://iamvdo.me/en/blog/advanced-css-filters#filter",
       "title":"Blog post"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter",
-      "title":"Mozilla Developer Network"
     }
   ],
   "bugs":[
     {
-      "description":"Chrome feature request: [Chromium issue #497522](https://code.google.com/p/chromium/issues/detail?id=497522)"
-    },
-    {
-      "description":"Firefox feature request: [Mozilla bug #1178765](https://bugzilla.mozilla.org/show_bug.cgi?id=1178765)"
+      "description":"Firefox feature request: [Mozilla bug #1191043](https://bugzilla.mozilla.org/show_bug.cgi?id=1191043)"
     }
   ],
   "categories":[
@@ -227,15 +220,13 @@
     }
   },
   "notes":"",
-  "notes_by_num":{
-    
-  },
+  "notes_by_num":{},
   "usage_perc_y":0.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"blue,hue-rotate,invert,saturate,filter",
-  "ie_id":"",
-  "chrome_id":"",
+  "keywords":"filter, function",
+  "ie_id":"cssfilterimagefunction",
+  "chrome_id":"5425136400334848",
   "shown":true
 }
