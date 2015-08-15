@@ -1,11 +1,20 @@
 {
   "title":"FIDO U2F API",
-  "description":"Javscript API to interact with Universal Second Factor (U2F) devices.",
+  "description":"Javascript API to interact with Universal Second Factor (U2F) devices. This allows users to log into sites more securely using two-factor authentication with a USB dongle. ",
   "spec":"https://fidoalliance.org/specs/fido-u2f-v1.0-nfc-bt-amendment-20150514/fido-u2f-javascript-api.html",
   "status":"other",
   "links":[
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1065729",
+      "title":"Mozilla bug"
+    },
+    {
+      "url":"http://googleonlinesecurity.blogspot.com/2014/10/strengthening-2-step-verification-with.html",
+      "title":"Google Security article"
+    }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "JS API"
@@ -215,7 +224,7 @@
   "notes_by_num":{
     "1":"Requires the \"FIDO U2F (Universal 2nd Factor)\" Chrome extension"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":27.12,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
