@@ -1,51 +1,29 @@
 {
-  "title":"CSS zoom",
-  "description":"Non-standard method of scaling content.",
-  "spec":"https://msdn.microsoft.com/en-us/library/ms531189(v=vs.85).aspx",
-  "status":"unoff",
+  "title":"AAC audio file format",
+  "description":"Advanced Audio Coding format, designed to be the successor format to MP3, with generally better sound quality.",
+  "spec":"http://www.digitalpreservation.gov/formats/fdd/fdd000114.shtml",
+  "status":"other",
   "links":[
     {
-      "url":"https://css-tricks.com/almanac/properties/z/zoom/",
-      "title":"CSS Tricks"
-    },
-    {
-      "url":"https://docs.webplatform.org/wiki/css/properties/zoom",
-      "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://msdn.microsoft.com/en-us/library/ms531189(v=vs.85).aspx",
-      "title":"MSDN Library"
-    },
-    {
-      "url":"https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/doc/uid/TP30001266-SW1",
-      "title":"Safari Developer Library"
-    },
-    {
-      "url":"http://www.satzansatz.de/cssd/onhavinglayout.html",
-      "title":"Article explaining usage of zoom as the hack for fixing rendering bugs in IE6 and IE7."
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/zoom",
-      "title":"Mozilla Developer Network"
+      "url":"https://en.wikipedia.org/wiki/Advanced_Audio_Coding",
+      "title":"Wikipedia article"
     }
   ],
   "bugs":[
-    {
-      "description":"When both `zoom` and `transform: scale()` are applied, Chrome will perform zooming operation twice."
-    }
+    
   ],
   "categories":[
-    "CSS"
+    "Other"
   ],
   "stats":{
     "ie":{
-      "5.5":"y",
-      "6":"y",
-      "7":"y",
-      "8":"y #1",
-      "9":"y #1",
-      "10":"y #1",
-      "11":"y #1"
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"y",
+      "10":"y",
+      "11":"y"
     },
     "edge":{
       "1":"y"
@@ -97,14 +75,14 @@
       "43":"n"
     },
     "chrome":{
-      "4":"y",
-      "5":"y",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"u",
+      "11":"u",
       "12":"y",
       "13":"y",
       "14":"y",
@@ -187,7 +165,7 @@
       "32":"y"
     },
     "ios_saf":{
-      "3.2":"n",
+      "3.2":"u",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
       "5.0-5.1":"y",
@@ -201,19 +179,19 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"y",
-      "2.2":"y",
-      "2.3":"y",
-      "3":"y",
-      "4":"y",
-      "4.1":"y",
-      "4.2-4.3":"y",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"u",
+      "4":"u",
+      "4.1":"u",
+      "4.2-4.3":"u",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
       "40":"y"
     },
     "bb":{
-      "7":"y",
+      "7":"n",
       "10":"y"
     },
     "op_mob":{
@@ -232,23 +210,23 @@
       "39":"n"
     },
     "ie_mob":{
-      "10":"y #1",
-      "11":"y #1"
+      "10":"y",
+      "11":"n"
     },
     "and_uc":{
       "9.9":"y"
     }
   },
-  "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content.",
+  "notes":"Support refers to use using the `audio` element, not other conditions.",
   "notes_by_num":{
-    "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
+    
   },
-  "usage_perc_y":82.81,
+  "usage_perc_y":77.54,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"-ms-zoom,transform,-moz-transform,-ms-transform,-webkit-transform,-o-transform,scale,css-transforms",
+  "keywords":"audio/aac",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }
