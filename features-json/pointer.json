@@ -230,7 +230,7 @@
       "9.9":"p"
     }
   },
-  "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events. Firefox Nightly provides 'dom.w3c_pointer_events.enabled' option to support this specification starting with version 28.",
+  "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events. Firefox, starting with version 28, provides the 'dom.w3c_pointer_events.enabled' flag to support this specification.",
   "notes_by_num":{
     
   },
