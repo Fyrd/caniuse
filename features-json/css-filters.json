@@ -233,7 +233,7 @@
   "notes":"Note that this property is significantly different from and incompatible with Microsoft's [older \"filter\" property](http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx).",
   "notes_by_num":{
     "1":"Supported in Firefox under the `layout.css.filters.enabled` flag.",
-    "2":"Supported in Project Spartan under the \"Enable CSS filter property\" flag. Supports filter functions, but not the `url` function.",
+    "2":"Supported in MS Edge under the \"Enable CSS filter property\" flag. Supports filter functions, but not the `url` function.",
     "3":"Partial support in Firefox before version 34 [only implemented the url() function of the filter property](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility)"
   },
   "usage_perc_y":76.18,
