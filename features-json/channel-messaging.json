@@ -2,7 +2,7 @@
   "title":"Channel messaging",
   "description":"Method for having two-way communication between browsing contexts (using MessageChannel)",
   "spec":"http://www.w3.org/TR/webmessaging/#channel-messaging",
-  "status":"cr",
+  "status":"rec",
   "links":[
     {
       "url":"https://dev.opera.com/articles/view/window-postmessage-messagechannel/#channel",
@@ -204,10 +204,10 @@
       "30":"y"
     },
     "and_chr":{
-      "42":"y"
+      "44":"y"
     },
     "and_ff":{
-      "39":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"y",
