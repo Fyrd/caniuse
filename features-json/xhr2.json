@@ -26,6 +26,9 @@
     },
     {
       "description":"IE10 and 11 do not support synchronous requests, with support being phased out in other browsers too. This is due to [detrimental effects](https://xhr.spec.whatwg.org/#sync-warning) resulting from making them."
+    },
+    {
+      "description":"The \"progress\" event is reported to not work in Chrome for iOS "
     }
   ],
   "categories":[

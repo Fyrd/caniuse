@@ -85,10 +85,10 @@
       "37":"p",
       "38":"p",
       "39":"p",
-      "40":"p",
-      "41":"u",
-      "42":"u",
-      "43":"u"
+      "40":"p d #2",
+      "41":"p d #2",
+      "42":"p d #2",
+      "43":"p d #2"
     },
     "chrome":{
       "4":"n",
@@ -236,7 +236,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
-    "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification."
+    "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
+    "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag"
   },
   "usage_perc_y":0,
   "usage_perc_a":8.98,
