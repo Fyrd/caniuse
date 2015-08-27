@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Reported to not be supported on the Samsung-based Android 4."
+    },
+    {
+      "description":"Is not supported from Web Workers in Chrome."
     }
   ],
   "categories":[
