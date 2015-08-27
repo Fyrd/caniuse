@@ -7,6 +7,10 @@
     {
       "url":"https://en.wikipedia.org/wiki/Link_prefetching",
       "title":"Wikipedia article"
+    },
+    {
+      "url":"https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d",
+      "title":"Article on prefetch and other hints"
     }
   ],
   "bugs":[
@@ -173,26 +177,26 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9":"u"
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"y",
+      "4.1":"n",
+      "4.2-4.3":"n",
       "4.4":"y",
-      "4.4.3-4.4.4":"u",
-      "40":"u"
+      "4.4.3-4.4.4":"y",
+      "40":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -204,29 +208,29 @@
       "30":"y"
     },
     "and_chr":{
-      "44":"n"
+      "44":"y"
     },
     "and_ff":{
       "40":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"n",
+      "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":51.4,
+  "usage_perc_y":68.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
