@@ -226,7 +226,7 @@
   "notes_by_num":{
     "1":"Does not use favicons at all",
     "2":"Partial support in Firefox before version 41 refers to only loading the SVG favicon the first time, but not [on subsequent loads](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c14).",
-    "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html)\" SVG icons, but this requires an unofficial `mask` attribute to be set and only works for all-black icons.",
+    "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
   "usage_perc_y":0.01,
