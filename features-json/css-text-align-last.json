@@ -27,8 +27,10 @@
       "8":"a #1",
       "9":"a #1",
       "10":"a #1",
-      "11":"a #1",
-      "TP":"a #1"
+      "11":"a #1"
+    },
+    "edge":{
+      "1":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -71,7 +73,10 @@
       "37":"y x",
       "38":"y x",
       "39":"y x",
-      "40":"y x"
+      "40":"y x",
+      "41":"y x",
+      "42":"y x",
+      "43":"y x"
     },
     "chrome":{
       "4":"n",
@@ -114,7 +119,10 @@
       "41":"n d #2",
       "42":"n d #2",
       "43":"n d #2",
-      "44":"n d #2"
+      "44":"n d #2",
+      "45":"n d #2",
+      "46":"n d #2",
+      "47":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -126,7 +134,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -154,7 +163,10 @@
       "26":"n d #3",
       "27":"n d #3",
       "28":"n d #3",
-      "29":"n d #3"
+      "29":"n d #3",
+      "30":"n d #3",
+      "31":"n d #3",
+      "32":"n d #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -164,7 +176,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -192,13 +205,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"n"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"y x"
+      "40":"y x"
     },
     "ie_mob":{
       "10":"a #1",
@@ -214,8 +227,8 @@
     "2":"Enabled through the \"Enable Experimental Web Platform Features\" flag in chrome://flags",
     "3":"Enabled through the \"Enable Experimental Web Platform Features\" flag in opera://flags"
   },
-  "usage_perc_y":12.09,
-  "usage_perc_a":14.15,
+  "usage_perc_y":9.7,
+  "usage_perc_a":11.95,
   "ucprefix":false,
   "parent":"",
   "keywords":"text align last",

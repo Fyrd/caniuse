@@ -1,6 +1,6 @@
 {
-  "title":"CSS3 Transforms",
-  "description":"Method of transforming an element including rotating, scaling, etc.",
+  "title":"CSS3 2D Transforms",
+  "description":"Method of transforming an element including rotating, scaling, etc. Includes support for `transform` as well as `transform-origin` properties.",
   "spec":"http://www.w3.org/TR/css3-2d-transforms/",
   "status":"wd",
   "links":[
@@ -9,7 +9,7 @@
       "title":"Live editor"
     },
     {
-      "url":"https://developer.mozilla.org/en/CSS/-moz-transform",
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/transform",
       "title":"MDN article"
     },
     {
@@ -42,6 +42,9 @@
     },
     {
       "description":"Transforms may break position:fixed styles of contained elements"
+    },
+    {
+      "description":"In IE9 the caret of a `textarea` disappears when you use translate."
     }
   ],
   "categories":[
@@ -55,8 +58,10 @@
       "8":"p",
       "9":"y x",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -99,7 +104,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"y x",
@@ -142,7 +150,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -154,7 +165,8 @@
       "6.1":"y x",
       "7":"y x",
       "7.1":"y x",
-      "8":"y x"
+      "8":"y x",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -182,7 +194,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -192,7 +207,8 @@
       "6.0-6.1":"y x",
       "7.0-7.1":"y x",
       "8":"y x",
-      "8.1-8.3":"y x"
+      "8.1-8.4":"y x",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -220,13 +236,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -240,11 +256,11 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":91.85,
+  "usage_perc_y":91.31,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"transformation,translate,rotation,rotate,scale,css-transforms",
+  "keywords":"transformation,translate,rotation,rotate,scale,css-transforms,transform-origin,transform:rotate,transform:scale",
   "ie_id":"transforms",
   "chrome_id":"6437640580628480",
   "shown":true

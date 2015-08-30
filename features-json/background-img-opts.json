@@ -23,6 +23,9 @@
     },
     {
       "description":"iOS Safari has buggy behavior with `background-size: cover;` + `background-attachment: fixed;`"
+    },
+    {
+      "description":"Safari (OS X and iOS) and Chrome do not support background-size: 100% <height>px; in combination with SVG images, it leaves them at the original size while other browsers stretch the vector image correctly while leaving the height at the specified number of pixels."
     }
   ],
   "categories":[
@@ -36,8 +39,10 @@
       "8":"n",
       "9":"y",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -80,7 +85,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"a #3",
@@ -123,7 +131,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"a #2 #3",
@@ -135,7 +146,8 @@
       "6.1":"a #2 #3",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -163,7 +175,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -173,7 +188,8 @@
       "6.0-6.1":"a",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"a #1"
@@ -201,13 +217,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -217,14 +233,14 @@
       "9.9":"y"
     }
   },
-  "notes":"",
+  "notes":"Safari also supports the unofficial `-webkit-background-clip: text` (only with prefix)",
   "notes_by_num":{
     "1":"Partial support in Opera Mini refers to not supporting background sizing or background attachments. However Opera Mini 7.5 supports background sizing (including cover and contain values).",
     "2":"Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
     "3":"Does not support `background-size` values in the `background` shorthand"
   },
-  "usage_perc_y":87.92,
-  "usage_perc_a":6.73,
+  "usage_perc_y":87.75,
+  "usage_perc_a":8.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

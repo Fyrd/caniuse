@@ -15,6 +15,10 @@
     {
       "url":"http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
       "title":"Article & tutorial"
+    },
+    {
+      "url":"http://deeptissuejs.com",
+      "title":"Abstraction library for pointer events"
     }
   ],
   "bugs":[
@@ -32,8 +36,10 @@
       "8":"n",
       "9":"n",
       "10":"a x",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -76,7 +82,10 @@
       "37":"p",
       "38":"p",
       "39":"p",
-      "40":"p"
+      "40":"p",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -119,7 +128,10 @@
       "41":"p",
       "42":"p",
       "43":"p",
-      "44":"p"
+      "44":"p",
+      "45":"p",
+      "46":"p",
+      "47":"p"
     },
     "safari":{
       "3.1":"n",
@@ -131,7 +143,8 @@
       "6.1":"p",
       "7":"p",
       "7.1":"p",
-      "8":"p"
+      "8":"p",
+      "9":"p"
     },
     "opera":{
       "9":"n",
@@ -159,7 +172,10 @@
       "26":"p",
       "27":"p",
       "28":"p",
-      "29":"p"
+      "29":"p",
+      "30":"p",
+      "31":"p",
+      "32":"p"
     },
     "ios_saf":{
       "3.2":"p",
@@ -169,7 +185,8 @@
       "6.0-6.1":"p",
       "7.0-7.1":"p",
       "8":"p",
-      "8.1-8.3":"p"
+      "8.1-8.4":"p",
+      "9":"p"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -197,13 +214,13 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "24":"p"
+      "30":"p"
     },
     "and_chr":{
-      "41":"p"
+      "44":"p"
     },
     "and_ff":{
-      "36":"p"
+      "40":"p"
     },
     "ie_mob":{
       "10":"a x",
@@ -213,12 +230,12 @@
       "9.9":"p"
     }
   },
-  "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events. Firefox Nightly provides 'dom.w3c_pointer_events.enabled' option to support this specification starting with version 28.",
+  "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events. Firefox, starting with version 28, provides the 'dom.w3c_pointer_events.enabled' flag to support this specification.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":8.49,
-  "usage_perc_a":1.5,
+  "usage_perc_y":7.69,
+  "usage_perc_a":1.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",

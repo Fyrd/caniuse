@@ -27,6 +27,10 @@
     {
       "url":"http://www.html5rocks.com/tutorials/responsive/picture-element/",
       "title":"HTML5 Rocks tutorial"
+    },
+    {
+      "url":"https://github.com/scottjehl/picturefill",
+      "title":"Picturefill - polyfill for picture, srcset, sizes, and more"
     }
   ],
   "bugs":[
@@ -46,8 +50,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -90,7 +96,10 @@
       "37":"n d #3",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -133,7 +142,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -145,7 +157,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -173,7 +186,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -183,7 +199,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -211,13 +228,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"n"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -233,7 +250,7 @@
     "2":"Enabled in Opera through the \"experimental Web Platform features\" flag in opera://flags",
     "3":"Enabled in Firefox by setting the about:config preference dom.image.picture.enable to true"
   },
-  "usage_perc_y":41.55,
+  "usage_perc_y":52.66,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

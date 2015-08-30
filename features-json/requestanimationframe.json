@@ -1,6 +1,6 @@
 {
   "title":"requestAnimationFrame",
-  "description":"API allowing a more efficient way of running script-based animation, compared to traditional methods using timeouts.",
+  "description":"API allowing a more efficient way of running script-based animation, compared to traditional methods using timeouts. Also covers support for `cancelAnimationFrame`",
   "spec":"http://www.w3.org/TR/animation-timing/#requestAnimationFrame",
   "status":"cr",
   "links":[
@@ -33,21 +33,23 @@
       "8":"n",
       "9":"n",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"y x",
-      "5":"y x",
-      "6":"y x",
-      "7":"y x",
-      "8":"y x",
-      "9":"y x",
-      "10":"y x",
+      "4":"a x #1",
+      "5":"a x #1",
+      "6":"a x #1",
+      "7":"a x #1",
+      "8":"a x #1",
+      "9":"a x #1",
+      "10":"a x #1",
       "11":"y x",
       "12":"y x",
       "13":"y x",
@@ -77,7 +79,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -86,18 +91,18 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y x",
-      "11":"y x",
-      "12":"y x",
-      "13":"y x",
-      "14":"y x",
-      "15":"y x",
-      "16":"y x",
-      "17":"y x",
-      "18":"y x",
-      "19":"y x",
-      "20":"y x",
-      "21":"y x",
+      "10":"a x #1 #2",
+      "11":"a x #1 #2",
+      "12":"a x #1 #2",
+      "13":"a x #1 #2",
+      "14":"a x #1 #2",
+      "15":"a x #1 #2",
+      "16":"a x #1 #2",
+      "17":"a x #1 #2",
+      "18":"a x #1",
+      "19":"a x #1",
+      "20":"a x #1",
+      "21":"a x #1",
       "22":"y x",
       "23":"y x",
       "24":"y",
@@ -120,7 +125,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -132,7 +140,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -160,7 +169,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -170,7 +182,8 @@
       "6.0-6.1":"y x",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -198,13 +211,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -216,10 +229,11 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support refers to lacking `cancelAnimationFrame` support.",
+    "2":"Supports `webkitCancelRequestAnimationFrame` rather than `webkitCancelAnimationFrame."
   },
-  "usage_perc_y":86.54,
-  "usage_perc_a":0,
+  "usage_perc_y":86.26,
+  "usage_perc_a":0.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

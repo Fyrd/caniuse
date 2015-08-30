@@ -35,6 +35,9 @@
     },
     {
       "description":"SVG graphics look pixelated when zooming in or using scaled up images in Opera Mini & Opera Mobile 12.1-."
+    },
+    {
+      "description":"IE 9-11 do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`"
     }
   ],
   "categories":[
@@ -48,8 +51,10 @@
       "8":"p",
       "9":"y #2",
       "10":"y #2",
-      "11":"y #2",
-      "TP":"y #2"
+      "11":"y #2"
+    },
+    "edge":{
+      "1":"y #2"
     },
     "firefox":{
       "2":"a",
@@ -92,7 +97,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"y",
@@ -135,7 +143,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"a",
@@ -147,7 +158,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"y",
@@ -175,7 +187,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -185,7 +200,8 @@
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"y"
@@ -213,13 +229,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y #2",
@@ -234,11 +250,11 @@
     "1":"Partial support in Android 3 & 4 refers to not supporting masking.",
     "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](http://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
   },
-  "usage_perc_y":92.14,
-  "usage_perc_a":2.49,
+  "usage_perc_y":93.39,
+  "usage_perc_a":2.54,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath",
   "ie_id":"",
   "chrome_id":"",
   "shown":true

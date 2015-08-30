@@ -2,7 +2,7 @@
 
 ## Filing issues
 
-Issues can be filed on existing **caniuse support data** or on **site functionality**. If you'd like to propose a new web technology feature to be added, please submit/vote for the issue on [Google Moderator](http://www.google.com/moderator/#15/e=ae425&t=ae425.40) rather than submitting an issue. This way features can be added based on the popularity of the feature.
+Issues can be filed on existing **caniuse support data**, **site functionality** or to make new **support data suggestions**. Support data suggestions can be voted on with `+1` comments and can be [viewed in order](http://caniuse.com/issue-list) of votes.
 
 ## Caniuse data
 
@@ -32,7 +32,7 @@ Currently the following feature information can be modified:
 	* `cr` - W3C Candidate Recommendation
 	* `wd` - W3C Working Draft
 	* `other` - Non-W3C, but reputable
-	* `unoff` - Unofficial or W3C "Note"
+	* `unoff` - Unofficial, Editor's Draft or W3C "Note"
 * **links** — Array of "link" objects consisting of URL and short description of link
 * **bugs** — Array of "bug" objects consisting of a bug description
 * **categories** — Array of categories, any of the following:
@@ -56,7 +56,7 @@ Currently the following feature information can be modified:
 	* `d` - (**D**)isabled by default (need to enable flag or something)
 	* `#n` - Where n is a number, starting with 1, corresponds to the **notes_by_num** note.  For example: `"42":"y #1"` means version 42 is supported by default and see note 1.
 * **notes** — Notes on feature support, often to explain what partial support refers to
-* **notes_by_num** - Map of numbers corresponding to notes. Used in conjection with the #n notation under **stats**. Each key should be a number (no hash), the value is the related note. For example: `"1": "Foo"`
+* **notes_by_num** - Map of numbers corresponding to notes. Used in conjunction with the #n notation under **stats**. Each key should be a number (no hash), the value is the related note. For example: `"1": "Foo"`
 * **ucprefix** — Prefix should start with an uppercase letter
 * **parent** — ID of parent feature
 * **keywords** — Comma separated words that will match the feature in a search

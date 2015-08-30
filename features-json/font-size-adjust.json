@@ -11,6 +11,10 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust",
       "title":"MDN article on font-size-adjust"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6514821-font-size-adjust-other-font-properties",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -27,8 +31,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -71,7 +77,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -113,8 +122,11 @@
       "40":"n",
       "41":"n",
       "42":"n",
-      "43":"n",
-      "44":"n"
+      "43":"n d #1",
+      "44":"n d #1",
+      "45":"n d #1",
+      "46":"n d #1",
+      "47":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -126,7 +138,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -153,8 +166,11 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"u",
-      "29":"n"
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -164,7 +180,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -192,13 +209,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"n"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n #2"
     },
     "ie_mob":{
       "10":"n",
@@ -208,16 +225,17 @@
       "9.9":"n"
     }
   },
-  "notes":"Does not appear to work on Firefox mobile, despite recognition of the property.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
-  "usage_perc_y":12.25,
+  "usage_perc_y":9.77,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5720910061371392",
   "shown":true
 }

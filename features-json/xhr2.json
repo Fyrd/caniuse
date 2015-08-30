@@ -1,6 +1,6 @@
 {
-  "title":"XMLHttpRequest 2",
-  "description":"Adds more functionality to AJAX requests like file uploads, transfer progress information and the ability to send form data.",
+  "title":"XMLHttpRequest advanced features",
+  "description":"Adds more functionality to XHR (aka AJAX) requests like file uploads, transfer progress information and the ability to send form data. Previously known as [XMLHttpRequest Level 2](http://www.w3.org/TR/2012/WD-XMLHttpRequest-20120117/), these features now appear simply in the XMLHttpRequest spec.",
   "spec":"https://xhr.spec.whatwg.org/",
   "status":"ls",
   "links":[
@@ -19,13 +19,16 @@
   ],
   "bugs":[
     {
-      "description":"xhr.timeout and xhr.ontimeout are supported in Chrome 29+ and Firefox 12+."
-    },
-    {
       "description":"Firefox 3.5 and 3.6 partial support refers to only including support for the progress event."
     },
     {
       "description":"WebKit versions 535 and older (r103502) do not implement the onloadend event"
+    },
+    {
+      "description":"IE10 and 11 do not support synchronous requests, with support being phased out in other browsers too. This is due to [detrimental effects](https://xhr.spec.whatwg.org/#sync-warning) resulting from making them."
+    },
+    {
+      "description":"The \"progress\" event is reported to not work in Chrome for iOS "
     }
   ],
   "categories":[
@@ -39,62 +42,25 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y",
-      "11":"y",
-      "TP":"y"
+      "10":"a #1",
+      "11":"a #1"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
       "3":"n",
-      "3.5":"a",
-      "3.6":"a",
-      "4":"y",
-      "5":"y",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y",
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y"
-    },
-    "chrome":{
-      "4":"u",
-      "5":"u",
-      "6":"u",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y",
+      "3.5":"a #1 #2 #3",
+      "3.6":"a #1 #2 #3",
+      "4":"a #1 #2 #3",
+      "5":"a #1 #2 #3",
+      "6":"a #1 #2",
+      "7":"a #1 #2",
+      "8":"a #1 #2",
+      "9":"a #1 #2",
+      "10":"a #2",
+      "11":"a #2",
       "12":"y",
       "13":"y",
       "14":"y",
@@ -126,20 +92,66 @@
       "40":"y",
       "41":"y",
       "42":"y",
+      "43":"y"
+    },
+    "chrome":{
+      "4":"u",
+      "5":"u",
+      "6":"u",
+      "7":"a #1 #2",
+      "8":"a #1 #2",
+      "9":"a #1 #2",
+      "10":"a #1 #2",
+      "11":"a #1 #2",
+      "12":"a #1 #2",
+      "13":"a #1 #2",
+      "14":"a #1 #2",
+      "15":"a #1 #2",
+      "16":"a #1 #2",
+      "17":"a #1 #2",
+      "18":"a #1 #2",
+      "19":"a #1 #2",
+      "20":"a #1 #2",
+      "21":"a #1 #2",
+      "22":"a #1 #2",
+      "23":"a #1 #2",
+      "24":"a #1 #2",
+      "25":"a #1 #2",
+      "26":"a #1 #2",
+      "27":"a #1 #2",
+      "28":"a #1 #2",
+      "29":"a #1",
+      "30":"a #1",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
       "3.2":"n",
       "4":"n",
-      "5":"y",
-      "5.1":"y",
-      "6":"y",
-      "6.1":"y",
-      "7":"y",
+      "5":"a #1 #2",
+      "5.1":"a #1 #2",
+      "6":"a #1 #2",
+      "6.1":"a #1",
+      "7":"a #1",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -153,9 +165,9 @@
       "11.6":"n",
       "12":"y",
       "12.1":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
+      "15":"a #1",
+      "16":"a #1",
+      "17":"a #1",
       "18":"y",
       "19":"y",
       "20":"y",
@@ -167,17 +179,21 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
-      "7.0-7.1":"y",
+      "5.0-5.1":"a #1 #2",
+      "6.0-6.1":"a #1 #2",
+      "7.0-7.1":"a #1",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -186,17 +202,17 @@
       "2.1":"n",
       "2.2":"n",
       "2.3":"n",
-      "3":"y",
-      "4":"y",
-      "4.1":"y",
-      "4.2-4.3":"y",
-      "4.4":"y",
+      "3":"a #1 #2 #3",
+      "4":"a #1 #2 #3",
+      "4.1":"a #1 #2 #3",
+      "4.2-4.3":"a #1 #2 #3",
+      "4.4":"a #1 #2",
       "4.4.3-4.4.4":"y",
       "40":"y"
     },
     "bb":{
-      "7":"y",
-      "10":"y"
+      "7":"a #1 #2",
+      "10":"a #1"
     },
     "op_mob":{
       "10":"n",
@@ -205,28 +221,30 @@
       "11.5":"n",
       "12":"y",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"a #1",
+      "11":"a #1"
     },
     "and_uc":{
-      "9.9":"y"
+      "9.9":"a #1 #2"
     }
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support refers to not supporting `json` as `responseType`",
+    "2":"Partial support refers to not supporting `.timeout` and `.ontimeout`",
+    "3":"Partial support refers to not supporting `blob` as `responseType`"
   },
-  "usage_perc_y":89.84,
-  "usage_perc_a":0.09,
+  "usage_perc_y":66.81,
+  "usage_perc_a":23.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"formdata",

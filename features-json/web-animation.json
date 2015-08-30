@@ -15,6 +15,10 @@
     {
       "url":"https://birtles.github.io/areweanimatedyet/",
       "title":"Current Firefox status"
+    },
+    {
+      "url":"https://github.com/web-animations/web-animations-js",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
@@ -32,8 +36,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -76,7 +82,10 @@
       "37":"a d #3",
       "38":"a d #3",
       "39":"a d #3",
-      "40":"a d #3"
+      "40":"a d #3",
+      "41":"a d #3",
+      "42":"a d #3",
+      "43":"a d #3"
     },
     "chrome":{
       "4":"n",
@@ -119,7 +128,10 @@
       "41":"a #2",
       "42":"a #2",
       "43":"a #2",
-      "44":"a #2"
+      "44":"a #2",
+      "45":"a #2",
+      "46":"a #2",
+      "47":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -131,7 +143,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -159,7 +172,10 @@
       "26":"a #2",
       "27":"a #2",
       "28":"a #2",
-      "29":"a #2"
+      "29":"a #2",
+      "30":"a #2",
+      "31":"a #2",
+      "32":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -169,7 +185,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -197,13 +214,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"a #1"
+      "30":"a #1"
     },
     "and_chr":{
-      "41":"a #1"
+      "44":"a #1"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -220,7 +237,7 @@
     "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":53.33,
+  "usage_perc_a":53.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

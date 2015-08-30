@@ -2,7 +2,7 @@
   "title":"SVG effects for HTML",
   "description":"Method of using SVG transforms, filters, etc on HTML elements using either CSS or the foreignObject element",
   "spec":"http://www.w3.org/TR/SVG11/extend.html#ForeignObjectElement",
-  "status":"wd",
+  "status":"rec",
   "links":[
     {
       "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
@@ -31,8 +31,10 @@
       "8":"n",
       "9":"a",
       "10":"a",
-      "11":"a",
-      "TP":"y"
+      "11":"a"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -75,7 +77,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"a",
@@ -118,7 +123,10 @@
       "41":"a",
       "42":"a",
       "43":"a",
-      "44":"a"
+      "44":"a",
+      "45":"a",
+      "46":"a",
+      "47":"a"
     },
     "safari":{
       "3.1":"n",
@@ -130,7 +138,8 @@
       "6.1":"a",
       "7":"a",
       "7.1":"a",
-      "8":"a"
+      "8":"a",
+      "9":"a"
     },
     "opera":{
       "9":"a",
@@ -158,7 +167,10 @@
       "26":"a",
       "27":"a",
       "28":"a",
-      "29":"a"
+      "29":"a",
+      "30":"a",
+      "31":"a",
+      "32":"a"
     },
     "ios_saf":{
       "3.2":"a",
@@ -168,7 +180,8 @@
       "6.0-6.1":"a",
       "7.0-7.1":"a",
       "8":"a",
-      "8.1-8.3":"a"
+      "8.1-8.4":"a",
+      "9":"a"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -196,13 +209,13 @@
       "11.5":"a",
       "12":"a",
       "12.1":"a",
-      "24":"a"
+      "30":"a"
     },
     "and_chr":{
-      "41":"a"
+      "44":"a"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -216,8 +229,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":12.34,
-  "usage_perc_a":71.95,
+  "usage_perc_y":9.93,
+  "usage_perc_a":71.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -2,7 +2,7 @@
   "title":"Channel messaging",
   "description":"Method for having two-way communication between browsing contexts (using MessageChannel)",
   "spec":"http://www.w3.org/TR/webmessaging/#channel-messaging",
-  "status":"cr",
+  "status":"rec",
   "links":[
     {
       "url":"https://dev.opera.com/articles/view/window-postmessage-messagechannel/#channel",
@@ -23,8 +23,10 @@
       "8":"n",
       "9":"n",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -67,7 +69,10 @@
       "37":"n d #1",
       "38":"n d #1",
       "39":"n d #1",
-      "40":"n d #1"
+      "40":"n d #1",
+      "41":"n d #1",
+      "42":"n d #1",
+      "43":"n d #1"
     },
     "chrome":{
       "4":"y",
@@ -110,7 +115,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -122,7 +130,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -150,7 +159,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -160,7 +172,8 @@
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -188,13 +201,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"y",
@@ -206,9 +219,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag. Reported to not work in web workers."
+    "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag. Reported to not work in web workers before version 41."
   },
-  "usage_perc_y":75.23,
+  "usage_perc_y":77.51,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"x-doc-messaging",

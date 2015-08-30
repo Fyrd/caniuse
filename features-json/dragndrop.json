@@ -27,6 +27,14 @@
     {
       "url":"http://blog.teamtreehouse.com/implementing-native-drag-and-drop",
       "title":"Implementing Native Drag and Drop"
+    },
+    {
+      "url":"https://github.com/timruffles/ios-html5-drag-drop-shim",
+      "title":"iOS/Android shim for HTML 5 drag'n'drop"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6542268-setdragimage-on-datatransfer-of-dragevent",
+      "title":"Microsoft Edge setDragImage feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -38,6 +46,12 @@
     },
     {
       "description":"In IE9-10 draggable attribute could be effectively applied for link and image elements. For div and span elements you should call 'element.dragDrop()' to start drag event.\r\n"
+    },
+    {
+      "description":"In Safari 8, after setting `event.dataTransfer.dropEffect`, the value in the `drop` event is always `'none'`"
+    },
+    {
+      "description":"Chrome strips out newlines from `text/uri-list` [see bug](https://code.google.com/p/chromium/issues/detail?id=239745)"
     }
   ],
   "categories":[
@@ -51,8 +65,10 @@
       "8":"a #1",
       "9":"a #1",
       "10":"a #2",
-      "11":"a #2",
-      "TP":"a #2"
+      "11":"a #2"
+    },
+    "edge":{
+      "1":"a #2"
     },
     "firefox":{
       "2":"p",
@@ -95,7 +111,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"y",
@@ -138,7 +157,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"y",
@@ -150,7 +172,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"p",
@@ -178,7 +201,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -188,7 +214,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -216,13 +243,13 @@
       "11.5":"p",
       "12":"p",
       "12.1":"y",
-      "24":"n"
+      "30":"n"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"y",
@@ -237,8 +264,8 @@
     "1":"Partial support refers to no support for the `dataTransfer.files` or `.types` objects and limited supported formats for `dataTransfer.setData`/`getData`.",
     "2":"Partial support refers to not supporting `.setDragImage`"
   },
-  "usage_perc_y":52.18,
-  "usage_perc_a":13.43,
+  "usage_perc_y":44.88,
+  "usage_perc_a":11.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

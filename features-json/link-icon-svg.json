@@ -7,6 +7,10 @@
     {
       "url":"http://crbug.com/294179",
       "title":"Chrome bug"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6509196-svg-favicons",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -24,8 +28,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -68,7 +74,10 @@
       "37":"a #2",
       "38":"a #2",
       "39":"a #2",
-      "40":"a #2"
+      "40":"a #2",
+      "41":"y #4",
+      "42":"y #4",
+      "43":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -109,9 +118,12 @@
       "39":"n",
       "40":"n",
       "41":"n",
-      "42":"u",
-      "43":"u",
-      "44":"u"
+      "42":"n",
+      "43":"n",
+      "44":"n",
+      "45":"u",
+      "46":"u",
+      "47":"u"
     },
     "safari":{
       "3.1":"n",
@@ -123,7 +135,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"a #3"
     },
     "opera":{
       "9":"n",
@@ -150,8 +163,11 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"u",
-      "29":"u"
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -161,7 +177,8 @@
       "6.0-6.1":"n #1",
       "7.0-7.1":"n #1",
       "8":"n #1",
-      "8.1-8.3":"n #1"
+      "8.1-8.4":"n #1",
+      "9":"a #3"
     },
     "op_mini":{
       "5.0-8.0":"n #1"
@@ -189,13 +206,13 @@
       "11.5":"n #1",
       "12":"n #1",
       "12.1":"n #1",
-      "24":"n #1"
+      "30":"n #1"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n #1",
@@ -208,10 +225,12 @@
   "notes":"See also [PNG favicons](#feat=link-icon-png).",
   "notes_by_num":{
     "1":"Does not use favicons at all",
-    "2":"Partial support in Firefox refers to only loading the SVG favicon the first time, but not [on subsequent loads](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c14)."
+    "2":"Partial support in Firefox before version 41 refers to only loading the SVG favicon the first time, but not [on subsequent loads](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c14).",
+    "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
+    "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":12.11,
+  "usage_perc_y":0.01,
+  "usage_perc_a":9.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

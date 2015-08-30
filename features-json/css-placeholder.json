@@ -1,7 +1,7 @@
 {
-  "title":":placeholder-shown CSS pseudo-class",
-  "description":"The :placeholder-shown pseudo-class represents the placeholder contents of a form field with placeholder text.",
-  "spec":"http://www.w3.org/TR/selectors4/#placeholder",
+  "title":"::placeholder CSS pseudo-element",
+  "description":"The ::placeholder pseudo-element represents placeholder text in an input field: text that represents the input and provides a hint to the user on how to fill out the form. For example, a date-input field might have the placeholder text `YYYY/MM/DD` to clarify that numeric dates are to be entered in year-month-day order.",
+  "spec":"http://dev.w3.org/csswg/css-pseudo-4/#placeholder-pseudo",
   "status":"wd",
   "links":[
     {
@@ -15,6 +15,10 @@
     {
       "url":"http://wiki.csswg.org/ideas/placeholder-styling",
       "title":"CSSWG discussion"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-placeholder",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -31,51 +35,56 @@
       "8":"n",
       "9":"n",
       "10":"a x",
-      "11":"a x",
-      "TP":"a x"
+      "11":"a x"
+    },
+    "edge":{
+      "1":"a x"
     },
     "firefox":{
       "2":"n",
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"a x",
-      "5":"a x",
-      "6":"a x",
-      "7":"a x",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"a x",
-      "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x",
-      "19":"a x",
-      "20":"a x",
-      "21":"a x",
-      "22":"a x",
-      "23":"a x",
-      "24":"a x",
-      "25":"a x",
-      "26":"a x",
-      "27":"a x",
-      "28":"a x",
-      "29":"a x",
-      "30":"a x",
-      "31":"a x",
-      "32":"a x",
-      "33":"a x",
-      "34":"a x",
-      "35":"a x",
-      "36":"a x",
-      "37":"a x",
-      "38":"a x",
-      "39":"a x",
-      "40":"a x"
+      "4":"a x #1",
+      "5":"a x #1",
+      "6":"a x #1",
+      "7":"a x #1",
+      "8":"a x #1",
+      "9":"a x #1",
+      "10":"a x #1",
+      "11":"a x #1",
+      "12":"a x #1",
+      "13":"a x #1",
+      "14":"a x #1",
+      "15":"a x #1",
+      "16":"a x #1",
+      "17":"a x #1",
+      "18":"a x #1",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
+      "27":"y x",
+      "28":"y x",
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
+      "32":"y x",
+      "33":"y x",
+      "34":"y x",
+      "35":"y x",
+      "36":"y x",
+      "37":"y x",
+      "38":"y x",
+      "39":"y x",
+      "40":"y x",
+      "41":"y x",
+      "42":"y x",
+      "43":"y x"
     },
     "chrome":{
       "4":"a x",
@@ -118,7 +127,10 @@
       "41":"a x",
       "42":"a x",
       "43":"a x",
-      "44":"a x"
+      "44":"a x",
+      "45":"a x",
+      "46":"a x",
+      "47":"a x"
     },
     "safari":{
       "3.1":"n",
@@ -130,7 +142,8 @@
       "6.1":"a x",
       "7":"a x",
       "7.1":"a x",
-      "8":"a x"
+      "8":"a x",
+      "9":"a x"
     },
     "opera":{
       "9":"n",
@@ -158,7 +171,10 @@
       "26":"a x",
       "27":"a x",
       "28":"a x",
-      "29":"a x"
+      "29":"a x",
+      "30":"a x",
+      "31":"a x",
+      "32":"a x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -168,7 +184,8 @@
       "6.0-6.1":"a x",
       "7.0-7.1":"a x",
       "8":"a x",
-      "8.1-8.3":"a x"
+      "8.1-8.4":"a x",
+      "9":"a x"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -186,7 +203,7 @@
       "40":"a x"
     },
     "bb":{
-      "7":"u",
+      "7":"a x",
       "10":"a x"
     },
     "op_mob":{
@@ -196,13 +213,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"a x"
+      "30":"a x"
     },
     "and_chr":{
-      "41":"a x"
+      "44":"a x"
     },
     "and_ff":{
-      "36":"a x"
+      "40":"y x"
     },
     "ie_mob":{
       "10":"a x",
@@ -212,12 +229,12 @@
       "9.9":"a x"
     }
   },
-  "notes":"Partial support refers to support for alternative syntax: ::-webkit-input-placeholder (Chrome/Safari/Opera),\r\n::-moz-placeholder (Firefox) and \r\n:-ms-input-placeholder (IE). ",
+  "notes":"Partial support refers to using alternate names:\r\n`::-webkit-input-placeholder` for (Chrome/Safari/Opera)\r\n`:-ms-input-placeholder` for IE. \r\n`::-ms-input-placeholder` for Edge (also supports webkit prefix)",
   "notes_by_num":{
-    
+    "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":89.67,
+  "usage_perc_y":9.52,
+  "usage_perc_a":80.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

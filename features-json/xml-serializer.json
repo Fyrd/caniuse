@@ -7,10 +7,19 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/XMLSerializer",
       "title":"MDN - XMLSerializer"
+    },
+    {
+      "url":"http://ejohn.org/blog/dom-insertadjacenthtml/",
+      "title":"Article on insertAdjucentHTML"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In IE10 and IE11, when using `innerText`, `innerHTML` or `outerHTML` on a `textarea` which has a `placeholder` attribute, the returned HTML/text also uses the `placeholder`'s value as the actual `textarea`'s value. [See bug](https://connect.microsoft.com/IE/feedback/details/811408)."
+    },
+    {
+      "description":"innerHTML, insertAdjacentHTML, etc aren't supported or are read-only on the following elements in IE9 and below: col, colgroup, frameset, html, head, style, table, tbody, tfoot, thead, title, and tr."
+    }
   ],
   "categories":[
     "DOM",
@@ -24,8 +33,10 @@
       "8":"a #2",
       "9":"a #1",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"a #2",
@@ -68,7 +79,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -111,7 +125,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -123,19 +140,20 @@
       "6.1":"a #1",
       "7":"a #1",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"u",
       "9.5-9.6":"u",
       "10.0-10.1":"u",
       "10.5":"u",
-      "10.6":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "11.6":"u",
-      "12":"u",
+      "10.6":"a #1",
+      "11":"a #1",
+      "11.1":"a #1",
+      "11.5":"a #1",
+      "11.6":"a #1",
+      "12":"a #1",
       "12.1":"a #1",
       "15":"a #1",
       "16":"a #1",
@@ -151,7 +169,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -161,10 +182,11 @@
       "6.0-6.1":"a #1",
       "7.0-7.1":"a #1",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"a #1"
     },
     "android":{
       "2.1":"a #1",
@@ -184,18 +206,18 @@
     },
     "op_mob":{
       "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
+      "11":"a #1",
+      "11.1":"a #1",
+      "11.5":"a #1",
+      "12":"a #1",
       "12.1":"a #1",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -210,8 +232,8 @@
     "1":"Partial support refers to lacking support for `parseFromString` on the DOMParser.",
     "2":"Partial support in older IE refers to only supporting `innerHTML`, nothing else."
   },
-  "usage_perc_y":78.94,
-  "usage_perc_a":15.4,
+  "usage_perc_y":78.34,
+  "usage_perc_a":19.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"parseFromString",

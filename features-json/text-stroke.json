@@ -5,12 +5,16 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://css-tricks.com/7405-adding-stroke-to-web-text/",
+      "url":"https://css-tricks.com/adding-stroke-to-web-text/",
       "title":"Information & workarounds"
     },
     {
       "url":"http://www.westciv.com/tools/textStroke/",
       "title":"Live editor"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke",
+      "title":"Mozilla Developer Network article"
     }
   ],
   "bugs":[
@@ -27,8 +31,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -69,9 +75,12 @@
       "35":"n",
       "36":"n",
       "37":"n",
-      "38":"u",
-      "39":"u",
-      "40":"u"
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"u",
+      "42":"u",
+      "43":"u"
     },
     "chrome":{
       "4":"y x",
@@ -114,7 +123,10 @@
       "41":"y x",
       "42":"y x",
       "43":"y x",
-      "44":"y x"
+      "44":"y x",
+      "45":"y x",
+      "46":"y x",
+      "47":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -126,7 +138,8 @@
       "6.1":"y x",
       "7":"y x",
       "7.1":"y x",
-      "8":"y x"
+      "8":"y x",
+      "9":"y x"
     },
     "opera":{
       "9":"n",
@@ -154,7 +167,10 @@
       "26":"y x",
       "27":"y x",
       "28":"y x",
-      "29":"y x"
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
+      "32":"y x"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -164,7 +180,8 @@
       "6.0-6.1":"y x",
       "7.0-7.1":"y x",
       "8":"y x",
-      "8.1-8.3":"y x"
+      "8.1-8.4":"y x",
+      "9":"y x"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -192,13 +209,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y x"
+      "30":"y x"
     },
     "and_chr":{
-      "41":"y x"
+      "44":"y x"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -212,11 +229,11 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":63.33,
+  "usage_perc_y":64.45,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"textstroke,stroke-color,stroke-width,fill-color",
+  "keywords":"textstroke,stroke-color,stroke-width,fill-color,text-outline",
   "ie_id":"",
   "chrome_id":"",
   "shown":true

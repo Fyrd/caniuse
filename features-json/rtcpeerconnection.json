@@ -7,6 +7,14 @@
     {
       "url":"http://www.webrtc.org/",
       "title":"WebRTC Project site"
+    },
+    {
+      "url":"https://temasys.atlassian.net/wiki/display/TWPP/WebRTC+Plugins",
+      "title":"Plug-in for support in IE & Safari"
+    },
+    {
+      "url":"http://www.html5labs.com/prototypes/object-rtc/object-rtc/info",
+      "title":"Prototype implementation for ORTC"
     }
   ],
   "bugs":[
@@ -23,8 +31,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -67,7 +77,10 @@
       "37":"y x",
       "38":"y x",
       "39":"y x",
-      "40":"y x"
+      "40":"y x",
+      "41":"y x",
+      "42":"y x",
+      "43":"y x"
     },
     "chrome":{
       "4":"n",
@@ -110,7 +123,10 @@
       "41":"y x",
       "42":"y x",
       "43":"y x",
-      "44":"y x"
+      "44":"y x",
+      "45":"y x",
+      "46":"y x",
+      "47":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -122,7 +138,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -150,7 +167,10 @@
       "26":"y x",
       "27":"y x",
       "28":"y x",
-      "29":"y x"
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
+      "32":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -160,7 +180,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -179,7 +200,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"n"
+      "10":"n #1"
     },
     "op_mob":{
       "10":"n",
@@ -188,13 +209,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y x"
+      "30":"y x"
     },
     "and_chr":{
-      "41":"y x"
+      "44":"y x"
     },
     "and_ff":{
-      "36":"y x"
+      "40":"y x"
     },
     "ie_mob":{
       "10":"n",
@@ -204,11 +225,11 @@
       "9.9":"n"
     }
   },
-  "notes":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed.",
+  "notes":"Microsoft is working on a compatible implementation known as [ObjectRTC](http://blogs.msdn.com/b/ie/archive/2014/10/27/bringing-interoperable-real-time-communications-to-the-web.aspx)",
   "notes_by_num":{
-    
+    "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed."
   },
-  "usage_perc_y":57.36,
+  "usage_perc_y":56.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

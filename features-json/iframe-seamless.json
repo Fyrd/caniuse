@@ -31,8 +31,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -73,9 +75,12 @@
       "35":"n",
       "36":"n",
       "37":"n",
-      "38":"u",
-      "39":"u",
-      "40":"u"
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"u",
+      "42":"u",
+      "43":"u"
     },
     "chrome":{
       "4":"n",
@@ -116,9 +121,12 @@
       "39":"n",
       "40":"n",
       "41":"n",
-      "42":"u",
-      "43":"u",
-      "44":"u"
+      "42":"n",
+      "43":"n",
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n"
     },
     "safari":{
       "3.1":"n",
@@ -128,9 +136,10 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n",
-      "7.1":"n",
-      "8":"n"
+      "7":"n #1",
+      "7.1":"n #1",
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -157,8 +166,11 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"u",
-      "29":"u"
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -166,9 +178,10 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0-7.1":"n",
+      "7.0-7.1":"n #1",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -196,13 +209,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"n"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -212,11 +225,11 @@
       "9.9":"y"
     }
   },
-  "notes":"Chrome 20-26 had partial support behind a flag, though this was [later removed](http://crbug.com/229421). \r\n\r\nSafari 7 (& iOS 7 Safari) hides the border of seamless iframes and recognizes the 'seamless' DOM property, but does not provide actual support.",
+  "notes":"Chrome 20-26 had partial support behind a flag, though this was [later removed](http://crbug.com/229421).",
   "notes_by_num":{
-    
+    "1":"Hides the border of seamless iframes and recognizes the 'seamless' DOM property, but does not provide actual support."
   },
-  "usage_perc_y":4.25,
+  "usage_perc_y":6.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

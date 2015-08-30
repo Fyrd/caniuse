@@ -2,7 +2,7 @@
   "title":"CSS resize property",
   "description":"Method of allowing an element to be resized by the user, with options to limit to a given direction. ",
   "spec":"http://www.w3.org/TR/css3-ui/#resize",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"http://css-tricks.com/almanac/properties/r/resize/",
@@ -11,6 +11,10 @@
     {
       "url":"http://davidwalsh.name/textarea-resize",
       "title":"On textarea resizing"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6513977-css-resize-property",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -27,8 +31,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -71,7 +77,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"y",
@@ -114,7 +123,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -126,7 +138,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -139,7 +152,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"a",
+      "12.1":"a #1",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -154,7 +167,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -164,7 +180,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -192,13 +209,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -208,12 +225,12 @@
       "9.9":"n"
     }
   },
-  "notes":"Opera 12.10+ currently only supports the resize property for textarea elements.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Presto-based Opera 12.10+ currently only supports the resize property for textarea elements."
   },
-  "usage_perc_y":62.24,
-  "usage_perc_a":0.21,
+  "usage_perc_y":59.52,
+  "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"horizontal,vertical",

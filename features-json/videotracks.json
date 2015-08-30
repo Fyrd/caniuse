@@ -1,12 +1,16 @@
 {
   "title":"Video Tracks",
   "description":"Method of specifying and selecting between multiple video tracks. Useful for providing sign language tracks, burnt-in captions or subtitles, alternative camera angles, etc.",
-  "spec":"http://www.w3.org/TR/html5/embedded-content-0.html#videotracklist",
-  "status":"rec",
+  "spec":"https://html.spec.whatwg.org/multipage/embedded-content.html#audiotracklist-and-videotracklist-objects",
+  "status":"ls",
   "links":[
+    {
+      "url":"https://msdn.microsoft.com/en-US/library/dn806262%28v=vs.85%29.aspx",
+      "title":"MSDN article"
+    }
   ],
   "bugs":[
-	  
+    
   ],
   "categories":[
     "HTML5"
@@ -19,8 +23,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"y"
+      "11":"n"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -63,7 +69,10 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"n"
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n"
     },
     "chrome":{
       "4":"n",
@@ -106,7 +115,10 @@
       "41":"n",
       "42":"n",
       "43":"n",
-      "44":"n"
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n"
     },
     "safari":{
       "3.1":"n",
@@ -118,7 +130,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -146,7 +159,10 @@
       "26":"n",
       "27":"n",
       "28":"n",
-      "29":"n"
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -156,7 +172,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -184,13 +201,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"n"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -202,9 +219,9 @@
   },
   "notes":"",
   "notes_by_num":{
-	  
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":10.26,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -1,7 +1,7 @@
 {
   "title":"Content Security Policy 1.0",
   "description":"Mitigate cross-site scripting attacks by whitelisting allowed sources of script, style, and other resources.",
-  "spec":"http://www.w3.org/TR/CSP/",
+  "spec":"http://www.w3.org/TR/2012/CR-CSP-20121115/",
   "status":"cr",
   "links":[
     {
@@ -35,8 +35,10 @@
       "8":"n",
       "9":"n",
       "10":"a #1",
-      "11":"a #1",
-      "TP":"y"
+      "11":"a #1"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -79,7 +81,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -122,7 +127,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -134,7 +142,8 @@
       "6.1":"y #2",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -162,7 +171,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -172,7 +184,8 @@
       "6.0-6.1":"y #2",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -200,20 +213,20 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"a #1",
       "11":"a #1"
     },
     "and_uc":{
-      "9.9":"y x"
+      "9.9":"y #2"
     }
   },
   "notes":"The standard HTTP header is `Content-Security-Policy` which is used unless otherwise noted.",
@@ -221,8 +234,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-Webkit-CSP` header"
   },
-  "usage_perc_y":76.41,
-  "usage_perc_a":10.36,
+  "usage_perc_y":77.53,
+  "usage_perc_a":9.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

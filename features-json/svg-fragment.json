@@ -14,7 +14,7 @@
       "description":"For the ID syntax, Chrome, Opera, and Safari require the ID to be set on a `view` element."
     },
     {
-      "description":"Currently does not work for CSS background images in [Chrome](https://code.google.com/p/chromium/issues/detail?id=128055) and [Safari](https://bugs.webkit.org/show_bug.cgi?id=91790)"
+      "description":"Currently does not work without `view` element for CSS background images in [Chrome](https://code.google.com/p/chromium/issues/detail?id=128055) and [Safari](https://bugs.webkit.org/show_bug.cgi?id=91790) (fixed in latest WebKit in June 2015)"
     }
   ],
   "categories":[
@@ -26,10 +26,12 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"n",
+      "9":"y",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -72,7 +74,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -115,7 +120,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -127,19 +135,20 @@
       "6.1":"n",
       "7":"n",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"u",
       "9.5-9.6":"u",
-      "10.0-10.1":"u",
-      "10.5":"u",
-      "10.6":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "11.6":"u",
-      "12":"u",
+      "10.0-10.1":"a",
+      "10.5":"a",
+      "10.6":"a",
+      "11":"a",
+      "11.1":"a",
+      "11.5":"a",
+      "11.6":"a",
+      "12":"a",
       "12.1":"y",
       "15":"n",
       "16":"n",
@@ -155,7 +164,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -165,7 +177,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"y"
@@ -187,19 +200,19 @@
       "10":"y"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
+      "10":"a",
+      "11":"a",
+      "11.1":"a",
+      "11.5":"a",
+      "12":"a",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -213,8 +226,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":76.41,
-  "usage_perc_a":0,
+  "usage_perc_y":78.96,
+  "usage_perc_a":0.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"fragments,sprite",

@@ -39,8 +39,10 @@
       "8":"n",
       "9":"p",
       "10":"a x #2",
-      "11":"a x #2",
-      "TP":"a x #2"
+      "11":"a x #2"
+    },
+    "edge":{
+      "1":"a x #2"
     },
     "firefox":{
       "2":"n",
@@ -81,9 +83,12 @@
       "35":"p",
       "36":"p",
       "37":"p",
-      "38":"u",
-      "39":"u",
-      "40":"u"
+      "38":"p",
+      "39":"p",
+      "40":"p d #2",
+      "41":"p d #2",
+      "42":"p d #2",
+      "43":"p d #2"
     },
     "chrome":{
       "4":"n",
@@ -126,7 +131,10 @@
       "41":"p d #1",
       "42":"p d #1",
       "43":"p d #1",
-      "44":"p d #1"
+      "44":"p d #1",
+      "45":"p d #1",
+      "46":"p d #1",
+      "47":"p d #1"
     },
     "safari":{
       "3.1":"n",
@@ -138,7 +146,8 @@
       "6.1":"p",
       "7":"p",
       "7.1":"p",
-      "8":"p"
+      "8":"p",
+      "9":"p"
     },
     "opera":{
       "9":"n",
@@ -166,7 +175,10 @@
       "26":"n",
       "27":"n",
       "28":"p d #1",
-      "29":"p d #1"
+      "29":"p d #1",
+      "30":"p d #1",
+      "31":"p d #1",
+      "32":"p d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -176,7 +188,8 @@
       "6.0-6.1":"p",
       "7.0-7.1":"p",
       "8":"p",
-      "8.1-8.3":"p"
+      "8.1-8.4":"p",
+      "9":"p"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -204,13 +217,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"p"
+      "30":"p"
     },
     "and_chr":{
-      "41":"p"
+      "44":"p"
     },
     "and_ff":{
-      "36":"p"
+      "40":"p"
     },
     "ie_mob":{
       "10":"a x #2",
@@ -223,13 +236,14 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
-    "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification."
+    "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
+    "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag"
   },
   "usage_perc_y":0,
-  "usage_perc_a":9.99,
+  "usage_perc_a":8.98,
   "ucprefix":false,
   "parent":"",
-  "keywords":"grids,grid-row,grid-column",
+  "keywords":"grids,grid-row,grid-column,display:grid",
   "ie_id":"grid",
   "chrome_id":"4589636412243968",
   "shown":true

@@ -1,6 +1,6 @@
 {
   "title":"Session history management",
-  "description":"Method of manipulating the user's browser's session history in JavaScript using history.pushState, history.replaceState and the popstate event.",
+  "description":"Method of manipulating the user's browser's session history in JavaScript using `history.pushState`, `history.replaceState` and the `popstate` event.",
   "spec":"https://html.spec.whatwg.org/multipage/browsers.html#dom-history-pushstate",
   "status":"ls",
   "links":[
@@ -18,7 +18,7 @@
     },
     {
       "url":"https://github.com/browserstate/history.js",
-      "title":"History.js polyfill "
+      "title":"History.js polyfill"
     },
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-history-state",
@@ -31,13 +31,7 @@
   ],
   "bugs":[
     {
-      "description":"history.pushState() is buggy in Android 2.2 and 2.3 in that it doesn't cause `window.location` to update with the new URL. This works in all other browsers that support `pushState()`. [See Android bug report](http://code.google.com/p/android/issues/detail?id=17471)."
-    },
-    {
-      "description":"Safari 5 and older iOS Safari have a broken implementation, when the page is within an iframe, the back button will not take you to the correct state. When under heavy load, the `onpopstate` event fails to fire."
-    },
-    {
-      "description":"The title argument is not applied in the history list of major browsers; they will display the page's title instead."
+      "description":"IE does not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK). See [IE bug report](https://connect.microsoft.com/IE/Feedback/Details/1528993)."
     }
   ],
   "categories":[
@@ -51,8 +45,10 @@
       "8":"n",
       "9":"n",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -95,7 +91,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -138,7 +137,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -150,7 +152,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -178,7 +181,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -188,7 +194,8 @@
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -216,13 +223,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -236,8 +243,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":84.25,
-  "usage_perc_a":4.71,
+  "usage_perc_y":82.17,
+  "usage_perc_a":6.7,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

@@ -1,8 +1,8 @@
 {
-  "title":"HTTP/2 protocol / SPDY",
-  "description":"Networking protocol for low-latency transport of content over the web. Originally started out from the SPDY protocol, now standardized as HTTP version 2.",
+  "title":"SPDY protocol",
+  "description":"Networking protocol for low-latency transport of content over the web. Superseded by HTTP version 2.",
   "spec":"http://http2.github.io/http2-spec/index.html",
-  "status":"other",
+  "status":"unoff",
   "links":[
     {
       "url":"http://en.wikipedia.org/wiki/HTTP/2",
@@ -14,9 +14,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"Partial support in IE11 refers to not working on Windows 7."
-    }
+    
   ],
   "categories":[
     "Other"
@@ -29,8 +27,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"a",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -73,7 +73,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"y",
@@ -116,7 +119,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -128,7 +134,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -156,7 +163,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -166,7 +176,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -194,31 +205,31 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n"
     }
   },
-  "notes":"",
+  "notes":"See also support for [HTTP2](http://caniuse.com/#feat=http2), successor of SPDY.\r\n\r\nChrome will be removing support in 2016 (in favor of HTTP2), other browsers likely to follow.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":72.15,
-  "usage_perc_a":7.98,
+  "usage_perc_y":79.74,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"http2",
+  "keywords":"",
   "ie_id":"http2",
   "chrome_id":"5152586365665280",
   "shown":true

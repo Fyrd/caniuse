@@ -11,10 +11,16 @@
     {
       "url":"https://dev.opera.com/articles/media-features/",
       "title":"Interaction Media Features and their potential (for incorrect assumptions)"
+    },
+    {
+      "url":"https://github.com/twbs/mq4-hover-shim",
+      "title":"Polyfill for the `hover` media feature"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"[Firefox tracking bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1171900)"
+    }
   ],
   "categories":[
     "CSS"
@@ -27,8 +33,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"y"
+      "11":"n"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -71,7 +79,10 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"n"
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n"
     },
     "chrome":{
       "4":"n",
@@ -114,7 +125,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -126,7 +140,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"u"
     },
     "opera":{
       "9":"n",
@@ -154,7 +169,10 @@
       "26":"n",
       "27":"n",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -164,7 +182,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -192,13 +211,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -212,12 +231,12 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":29.01,
+  "usage_perc_y":43.55,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"css-mediaqueries",
-  "keywords":"@media,interation,hover,any-hover,pointer,any-pointer",
-  "ie_id":"mediaquerieslevel4interactionmediafeaturespointerandhover",
+  "keywords":"@media,interaction,hover,any-hover,pointer,any-pointer",
+  "ie_id":"mediaquerieslevel4pointerandhover",
   "chrome_id":"6460705494532096",
   "shown":true
 }

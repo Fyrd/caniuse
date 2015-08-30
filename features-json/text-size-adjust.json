@@ -2,7 +2,7 @@
   "title":"CSS text-size-adjust",
   "description":"On mobile devices, the text-size-adjust CSS property allows Web authors to control if and how the text-inflating algorithm is applied to the textual content of the element it is applied to.",
   "spec":"http://dev.w3.org/csswg/css-size-adjust/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-size-adjust",
@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"There is a bug in Webkit-based desktop browsers. If -webkit-text-size-adjust is explicitely set to none, Webkit-based desktop browsers, like Chrome or Safari, instead of ignoring the property, will prevent the user to zoom in or out the Web page."
+      "description":"There is a bug in Webkit-based desktop browsers. If -webkit-text-size-adjust is explicitly set to none, Webkit-based desktop browsers, like Chrome or Safari, instead of ignoring the property, will prevent the user to zoom in or out the Web page."
     },
     {
       "description":"If the viewport in IE Phone is set using <meta> element, the value of the CSS text-size-adjust property is ignored."
@@ -28,8 +28,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -72,7 +74,10 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"n"
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n"
     },
     "chrome":{
       "4":"n",
@@ -115,7 +120,10 @@
       "41":"n",
       "42":"n",
       "43":"n",
-      "44":"n"
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n"
     },
     "safari":{
       "3.1":"n",
@@ -127,7 +135,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -155,7 +164,10 @@
       "26":"n",
       "27":"n",
       "28":"n",
-      "29":"n"
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -165,7 +177,8 @@
       "6.0-6.1":"y x",
       "7.0-7.1":"y x",
       "8":"y x",
-      "8.1-8.3":"y x"
+      "8.1-8.4":"y x",
+      "9":"y x"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -193,13 +206,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"n"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"y x"
+      "40":"y x"
     },
     "ie_mob":{
       "10":"y x",
@@ -213,7 +226,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":12.17,
+  "usage_perc_y":15.62,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

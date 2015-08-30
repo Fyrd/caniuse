@@ -35,8 +35,10 @@
       "8":"n",
       "9":"n",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -79,7 +81,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"a x",
@@ -122,7 +127,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -134,7 +142,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -143,8 +152,8 @@
       "10.5":"n",
       "10.6":"n",
       "11":"n",
-      "11.1":"a x",
-      "11.5":"a x",
+      "11.1":"a x #1",
+      "11.5":"a x #1",
       "11.6":"y x",
       "12":"y x",
       "12.1":"y",
@@ -162,7 +171,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -172,7 +184,8 @@
       "6.0-6.1":"y x",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -196,17 +209,17 @@
     "op_mob":{
       "10":"n",
       "11":"n",
-      "11.1":"a x",
-      "11.5":"a x",
+      "11.1":"a x #1",
+      "11.5":"a x #1",
       "12":"y x",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -216,12 +229,12 @@
       "9.9":"y x"
     }
   },
-  "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support. \r\n\r\nPartial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
+  "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
   "notes_by_num":{
-    
+    "1":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients."
   },
-  "usage_perc_y":89.71,
-  "usage_perc_a":0.45,
+  "usage_perc_y":89.64,
+  "usage_perc_a":0.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

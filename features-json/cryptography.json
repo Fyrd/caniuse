@@ -2,7 +2,7 @@
   "title":"Web Cryptography",
   "description":"JavaScript API for performing basic cryptographic operations in web applications",
   "spec":"http://www.w3.org/TR/WebCryptoAPI/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"http://www.slideshare.net/Channy/the-history-and-status-of-web-crypto-api",
@@ -15,6 +15,22 @@
     {
       "url":"http://bitwiseshiftleft.github.io/sjcl/",
       "title":"Cross-browser cryptography library"
+    },
+    {
+      "url":"https://docs.google.com/spreadsheet/ccc?key=0AiAcidBZRLxndE9LWEs2R1oxZ0xidUVoU3FQbFFobkE#gid=1",
+      "title":"Support for recommended algorithms in Firefox"
+    },
+    {
+      "url":"https://github.com/Netflix/NfWebCrypto",
+      "title":"Polyfill by Netflix with partial support"
+    },
+    {
+      "url":"https://github.com/GlobalSign/PKI.js",
+      "title":"PKI.js - another crypto library for Public Key Infrastructure applications"
+    },
+    {
+      "url":"https://diafygi.github.io/webcrypto-examples/",
+      "title":"Test suite for various algorithms/methods"
     }
   ],
   "bugs":[
@@ -31,8 +47,10 @@
       "8":"p",
       "9":"p",
       "10":"p",
-      "11":"a x #1",
-      "TP":"y"
+      "11":"a x #1"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"p",
@@ -69,13 +87,16 @@
       "31":"p",
       "32":"n d #2",
       "33":"n d #2",
-      "34":"a #4",
-      "35":"a #4",
-      "36":"a #4",
-      "37":"a #4",
-      "38":"a #4",
-      "39":"a #4",
-      "40":"a #4"
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"p",
@@ -118,7 +139,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"p",
@@ -130,7 +154,8 @@
       "6.1":"p",
       "7":"p",
       "7.1":"y x #3",
-      "8":"y x #3"
+      "8":"y x #3",
+      "9":"y x #3"
     },
     "opera":{
       "9":"p",
@@ -158,7 +183,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -168,7 +196,8 @@
       "6.0-6.1":"p",
       "7.0-7.1":"p",
       "8":"y x #3",
-      "8.1-8.3":"y x #3"
+      "8.1-8.4":"y x #3",
+      "9":"y x #3"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -196,13 +225,13 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"p"
+      "40":"p"
     },
     "ie_mob":{
       "10":"p",
@@ -214,13 +243,12 @@
   },
   "notes":"Many browsers support the `[crypto.getRandomValues()](#feat=getrandomvalues)` method, but not actual cryptography functionality under `crypto.subtle`. \r\n\r\nFirefox also has support for [unofficial features](https://developer.mozilla.org/en-US/docs/JavaScript_crypto). \r\n\r\nIn Chrome the API is only usable over secure connections. ([corresponding bug](https://code.google.com/p/chromium/issues/detail?id=373032))",
   "notes_by_num":{
-    "1":"Support in IE11 is based an older version of the specification. ",
-    "2":"Supported in Firefox behind the `dom.webcrypto.enabled` flag. ",
-    "3":"Supported in Safari using the `crypto.webkitSubtle` prefix",
-    "4":"Partial support in Firefox is [described here](https://docs.google.com/spreadsheet/ccc?key=0AiAcidBZRLxndE9LWEs2R1oxZ0xidUVoU3FQbFFobkE#gid=1)"
+    "1":"Support in IE11 is based an older version of the specification.",
+    "2":"Supported in Firefox behind the `dom.webcrypto.enabled` flag.",
+    "3":"Supported in Safari using the `crypto.webkitSubtle` prefix."
   },
-  "usage_perc_y":50.55,
-  "usage_perc_a":18.23,
+  "usage_perc_y":62.59,
+  "usage_perc_a":7.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"subtle,subtlecrypto",

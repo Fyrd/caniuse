@@ -2,7 +2,7 @@
   "title":"Geolocation",
   "description":"Method of informing a website of the user's geographical location",
   "spec":"http://www.w3.org/TR/geolocation-API/",
-  "status":"cr",
+  "status":"rec",
   "links":[
     {
       "url":"http://html5demos.com/geo",
@@ -26,6 +26,9 @@
     },
     {
       "description":"Safari 5 & 6 seem to not provide geolocation data [when using a wired connection](http://stackoverflow.com/questions/3791442/geolocation-in-safari-5)."
+    },
+    {
+      "description":"Firefox sometimes fails to call the success or error callbacks [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=675533)"
     }
   ],
   "categories":[
@@ -39,8 +42,10 @@
       "8":"p",
       "9":"y",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"p",
@@ -83,7 +88,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"a",
@@ -126,7 +134,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"p",
@@ -138,7 +149,8 @@
       "6.1":"y",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -166,7 +178,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -176,7 +191,8 @@
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -204,13 +220,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -224,7 +240,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":91.76,
+  "usage_perc_y":91.26,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

@@ -1,5 +1,5 @@
 {
-  "title":"classList (DOMTokenList )",
+  "title":"classList (DOMTokenList)",
   "description":"Method of easily manipulating classes on elements, using the DOMTokenList object.",
   "spec":"http://www.w3.org/TR/dom/#dom-element-classlist",
   "status":"wd",
@@ -46,8 +46,10 @@
       "8":"p",
       "9":"p",
       "10":"a #1 #2",
-      "11":"a #1 #2",
-      "TP":"y"
+      "11":"a #1 #2"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"p",
@@ -90,7 +92,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"p",
@@ -133,7 +138,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"p",
@@ -145,7 +153,8 @@
       "6.1":"a #1 #2",
       "7":"y",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"p",
@@ -173,7 +182,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -183,7 +195,8 @@
       "6.0-6.1":"a #1 #2",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"p"
@@ -211,13 +224,13 @@
       "11.5":"a #2",
       "12":"a #2",
       "12.1":"a #2",
-      "24":"y"
+      "30":"y"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -232,8 +245,8 @@
     "1":"Partial support refers to not working on SVG elements.",
     "2":"Partial support refers to not supporting the second parameter for the `toggle` method"
   },
-  "usage_perc_y":70.76,
-  "usage_perc_a":19.07,
+  "usage_perc_y":70.08,
+  "usage_perc_a":19.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

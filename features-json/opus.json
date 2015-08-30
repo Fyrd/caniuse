@@ -11,11 +11,15 @@
     {
       "url":"http://www.ietf.org/mail-archive/web/rtcweb/current/msg04953.html",
       "title":"Google's statement about the use of VP8 and Opus codec for WebRTC standard"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6513488-ogg-vorbis-and-opus-audio-formats-support-firefox",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
     {
-      "description":"Opera does not seem to support Opus in webm files yet, only in ogg."
+      "description":"Opera and Firefox are reported to not support Opus in webm files yet, only in ogg."
     }
   ],
   "categories":[
@@ -29,8 +33,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -73,7 +79,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -116,7 +125,10 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -128,7 +140,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -156,7 +169,10 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -166,7 +182,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"n",
       "8":"n",
-      "8.1-8.3":"n"
+      "8.1-8.4":"n",
+      "9":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -194,13 +211,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"n"
     },
     "and_chr":{
-      "41":"n"
+      "44":"n"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -210,11 +227,11 @@
       "9.9":"n"
     }
   },
-  "notes":"For Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
+  "notes":"Support refers to use using the `audio` element, not other conditions.\r\n\r\nFor Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":45.35,
+  "usage_perc_y":39.57,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"audio",

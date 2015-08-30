@@ -7,6 +7,10 @@
     {
       "url":"https://github.com/zmmbreeze/jquery.emphasis/",
       "title":"A javascript fallback for CSS3 emphasis mark."
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6514536-text-decoration-styling",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -25,8 +29,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -69,7 +75,10 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"n"
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n"
     },
     "chrome":{
       "4":"n",
@@ -112,7 +121,10 @@
       "41":"a x #1",
       "42":"a x #1",
       "43":"a x #1",
-      "44":"a x #1"
+      "44":"a x #1",
+      "45":"a x #1",
+      "46":"a x #1",
+      "47":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -124,7 +136,8 @@
       "6.1":"a x #1",
       "7":"a x #1",
       "7.1":"y",
-      "8":"y"
+      "8":"y",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -152,7 +165,10 @@
       "26":"a x #1",
       "27":"a x #1",
       "28":"a x #1",
-      "29":"a x #1"
+      "29":"a x #1",
+      "30":"a x #1",
+      "31":"a x #1",
+      "32":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -162,7 +178,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"y",
       "8":"y",
-      "8.1-8.3":"y"
+      "8.1-8.4":"y",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -190,13 +207,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"a x #1"
+      "30":"a x #1"
     },
     "and_chr":{
-      "41":"a x #1"
+      "44":"a x #1"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -210,8 +227,8 @@
   "notes_by_num":{
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec."
   },
-  "usage_perc_y":9.21,
-  "usage_perc_a":54.43,
+  "usage_perc_y":9.82,
+  "usage_perc_a":57.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

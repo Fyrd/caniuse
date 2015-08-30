@@ -1,31 +1,23 @@
 {
-  "title":"Web Speech API",
-  "description":"Method to provide speech input and text-to-speech output features in a web browser.",
-  "spec":"https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html",
-  "status":"unoff",
+  "title":"HTTP/2 protocol",
+  "description":"Networking protocol for low-latency transport of content over the web. Originally started out from the SPDY protocol, now standardized as HTTP version 2.",
+  "spec":"http://http2.github.io/http2-spec/index.html",
+  "status":"other",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API",
-      "title":"HTML5Rocks article"
+      "url":"http://en.wikipedia.org/wiki/HTTP/2",
+      "title":"Wikipedia"
     },
     {
-      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
-      "title":"SitePoint article"
-    },
-    {
-      "url":"http://aurelio.audero.it/demo/web-speech-api-demo.html",
-      "title":"Demo"
-    },
-    {
-      "url":"http://zenorocha.github.io/voice-elements/",
-      "title":"Advanced demo and resource"
+      "url":"https://http2.akamai.com/demo",
+      "title":"Browser support test"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API"
+    "Other"
   ],
   "stats":{
     "ie":{
@@ -35,8 +27,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"a #1"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -75,11 +69,14 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n"
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -103,26 +100,29 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"a x",
-      "26":"a x",
-      "27":"a x",
-      "28":"a x",
-      "29":"a x",
-      "30":"a x",
-      "31":"a x",
-      "32":"a x",
-      "33":"a x",
-      "34":"a x",
-      "35":"a x",
-      "36":"a x",
-      "37":"a x",
-      "38":"a x",
-      "39":"a x",
-      "40":"a x",
-      "41":"a x",
-      "42":"a x",
-      "43":"a x",
-      "44":"a x"
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -131,10 +131,11 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"a x",
-      "7":"a x",
-      "7.1":"a",
-      "8":"a"
+      "6.1":"n",
+      "7":"n",
+      "7.1":"n",
+      "8":"n",
+      "9":"y"
     },
     "opera":{
       "9":"n",
@@ -160,9 +161,12 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"a x",
-      "28":"a x",
-      "29":"a x"
+      "27":"n",
+      "28":"y",
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -170,9 +174,10 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0-7.1":"a x",
-      "8":"a x",
-      "8.1-8.3":"a x"
+      "7.0-7.1":"n",
+      "8":"n",
+      "8.1-8.4":"n",
+      "9":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -200,13 +205,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"n"
+      "30":"y"
     },
     "and_chr":{
-      "41":"a x"
+      "44":"y"
     },
     "and_ff":{
-      "36":"n"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -216,16 +221,16 @@
       "9.9":"n"
     }
   },
-  "notes":"Partial support in Chrome refers to some attributes missing. Partial support in Safari refers to only Speech Synthesis supported.",
+  "notes":"See also support for [the SPDY protocol](http://caniuse.com/#feat=spdy), precursor of HTTP2.",
   "notes_by_num":{
-    
+    "1":"Partial support in IE11 refers to being limited to Windows 10."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":55.66,
+  "usage_perc_y":52.01,
+  "usage_perc_a":6.93,
   "ucprefix":false,
   "parent":"",
-  "keywords":"speech,recognition,ASR",
-  "ie_id":"webspeechapiinput",
-  "chrome_id":"5908775487668224",
+  "keywords":"",
+  "ie_id":"http2",
+  "chrome_id":"5152586365665280",
   "shown":true
 }

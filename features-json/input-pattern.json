@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"http://html5pattern.com",
-      "title":"Site with common sample patterns "
+      "title":"Site with common sample patterns"
     }
   ],
   "bugs":[
@@ -23,8 +23,10 @@
       "8":"n",
       "9":"n",
       "10":"y",
-      "11":"y",
-      "TP":"y"
+      "11":"y"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -67,7 +69,10 @@
       "37":"y",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -110,19 +115,23 @@
       "41":"y",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
-      "3.1":"n",
-      "3.2":"n",
-      "4":"n",
-      "5":"n",
-      "5.1":"n",
-      "6":"n",
-      "6.1":"n",
-      "7":"n",
-      "7.1":"n",
-      "8":"n"
+      "3.1":"u",
+      "3.2":"u",
+      "4":"u",
+      "5":"u",
+      "5.1":"a #1 #2",
+      "6":"a #1 #2",
+      "6.1":"a #1 #2",
+      "7":"a #1 #2",
+      "7.1":"a #1 #2",
+      "8":"a #1 #2",
+      "9":"a #1 #2"
     },
     "opera":{
       "9":"n",
@@ -150,17 +159,21 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
-      "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
-      "6.0-6.1":"n",
-      "7.0-7.1":"n",
-      "8":"n",
-      "8.1-8.3":"n"
+      "3.2":"u",
+      "4.0-4.1":"u",
+      "4.2-4.3":"u",
+      "5.0-5.1":"a #1 #2",
+      "6.0-6.1":"a #1 #2",
+      "7.0-7.1":"a #1 #2",
+      "8":"a #1 #2",
+      "8.1-8.4":"a #1 #2",
+      "9":"a #1 #2"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -188,13 +201,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "24":"a #1"
+      "30":"a #1"
     },
     "and_chr":{
-      "41":"y"
+      "44":"y"
     },
     "and_ff":{
-      "36":"y"
+      "40":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -206,10 +219,11 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to not displaying a message for invalid patterns"
+    "1":"Partial support refers to not displaying a message for invalid patterns",
+    "2":"Safari browsers support the `pattern` attribute but will still allow forms to be submitted if the pattern is incorrect. See the [form validation data](http://caniuse.com/#feat=form-validation) for details."
   },
-  "usage_perc_y":73.35,
-  "usage_perc_a":0.73,
+  "usage_perc_y":72.61,
+  "usage_perc_a":11.83,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"",

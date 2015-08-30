@@ -19,10 +19,16 @@
     {
       "url":"https://addons.mozilla.org/firefox/addon/6812/",
       "title":"Addon \"HTML Ruby\" for Firefox support"
+    },
+    {
+      "url":"http://www.w3.org/TR/css-ruby-1/",
+      "title":"CSS specification"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE and Firefox do not appear to have support for nested ruby structures [see testcase](http://jsfiddle.net/tabletguy/49412u7r/)"
+    }
   ],
   "categories":[
     "HTML5"
@@ -35,8 +41,10 @@
       "8":"a",
       "9":"a",
       "10":"a",
-      "11":"a",
-      "TP":"a"
+      "11":"a"
+    },
+    "edge":{
+      "1":"a"
     },
     "firefox":{
       "2":"p",
@@ -79,7 +87,10 @@
       "37":"p",
       "38":"y",
       "39":"y",
-      "40":"y"
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"p",
@@ -122,7 +133,10 @@
       "41":"a",
       "42":"a",
       "43":"a",
-      "44":"a"
+      "44":"a",
+      "45":"a",
+      "46":"a",
+      "47":"a"
     },
     "safari":{
       "3.1":"p",
@@ -134,7 +148,8 @@
       "6.1":"a",
       "7":"a",
       "7.1":"a",
-      "8":"a"
+      "8":"a",
+      "9":"a"
     },
     "opera":{
       "9":"p",
@@ -162,7 +177,10 @@
       "26":"a",
       "27":"a",
       "28":"a",
-      "29":"a"
+      "29":"a",
+      "30":"a",
+      "31":"a",
+      "32":"a"
     },
     "ios_saf":{
       "3.2":"p",
@@ -172,7 +190,8 @@
       "6.0-6.1":"a",
       "7.0-7.1":"a",
       "8":"a",
-      "8.1-8.3":"a"
+      "8.1-8.4":"a",
+      "9":"a"
     },
     "op_mini":{
       "5.0-8.0":"p"
@@ -200,13 +219,13 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "24":"a"
+      "30":"a"
     },
     "and_chr":{
-      "41":"a"
+      "44":"a"
     },
     "and_ff":{
-      "36":"p"
+      "40":"y"
     },
     "ie_mob":{
       "10":"a",
@@ -218,13 +237,13 @@
   },
   "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby.",
   "notes_by_num":{
-    
+    "1":"IE9+ supports [properties](https://msdn.microsoft.com/en-us/library/hh772055%28v=vs.85%29.aspx) of an older version of the CSS Ruby specification."
   },
-  "usage_perc_y":0.02,
-  "usage_perc_a":81.46,
+  "usage_perc_y":8.09,
+  "usage_perc_a":82.6,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",
   "ie_id":"",
   "chrome_id":"",
   "shown":true

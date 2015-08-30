@@ -7,6 +7,10 @@
     {
       "url":"http://cloudfour.com/examples/image-set/",
       "title":"Demo"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6606738-image-set",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -23,8 +27,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -67,7 +73,10 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"n"
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n"
     },
     "chrome":{
       "4":"n",
@@ -110,7 +119,10 @@
       "41":"y x",
       "42":"y x",
       "43":"y x",
-      "44":"y x"
+      "44":"y x",
+      "45":"y x",
+      "46":"y x",
+      "47":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -122,7 +134,8 @@
       "6.1":"y x",
       "7":"y x",
       "7.1":"y x",
-      "8":"y x"
+      "8":"y x",
+      "9":"y x"
     },
     "opera":{
       "9":"n",
@@ -150,7 +163,10 @@
       "26":"y x",
       "27":"y x",
       "28":"y x",
-      "29":"y x"
+      "29":"y x",
+      "30":"y x",
+      "31":"y x",
+      "32":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -160,7 +176,8 @@
       "6.0-6.1":"y x",
       "7.0-7.1":"y x",
       "8":"y x",
-      "8.1-8.3":"y x"
+      "8.1-8.4":"y x",
+      "9":"y x"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -178,7 +195,7 @@
       "40":"y x"
     },
     "bb":{
-      "7":"u",
+      "7":"n",
       "10":"y x"
     },
     "op_mob":{
@@ -188,13 +205,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "24":"y x"
+      "30":"y x"
     },
     "and_chr":{
-      "41":"y x"
+      "44":"y x"
     },
     "and_ff":{
-      "36":"n"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -208,7 +225,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":59.79,
+  "usage_perc_y":61.16,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -1,5 +1,5 @@
 {
-  "title":"DeviceOrientation events",
+  "title":"DeviceOrientation & DeviceMotion events",
   "description":"API for detecting orientation and motion events from the device running the browser.",
   "spec":"http://www.w3.org/TR/orientation-event/",
   "status":"wd",
@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"`DeviceOrientationEvent.beta` has values between -90 and 90 on mobile Safari and between 180 and -180 on Firefox.\r\n`DeviceOrientationEvent.gamma` has values between -180 and 180 on mobile Safari and between 90 and -90 on Firefox.\r\nSee [Firefox reference](https://developer.mozilla.org/en-US/docs/Web/API/DeviceOrientationEvent)\r\nand [Safari reference](https://developer.apple.com/library/safari/documentation/SafariDOMAdditions/Reference/DeviceOrientationEventClassRef/DeviceOrientationEvent/DeviceOrientationEvent.html#//apple_ref/javascript/instp/DeviceOrientationEvent/beta)"
+    },
+    {
+      "description":"Safari on iOS doesn't implement the spec correctly, because alpha is arbitrary instead of relative to true north. Safari instead offers webkitCompassHeading`, which has the opposite sign to alpha and is also relative to magnetic north instead of true north. (see [details](https://github.com/w3c/deviceorientation/issues/6))"
     }
   ],
   "categories":[
@@ -37,8 +40,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"a #1",
-      "TP":"y"
+      "11":"a #1"
+    },
+    "edge":{
+      "1":"y"
     },
     "firefox":{
       "2":"n",
@@ -81,7 +86,10 @@
       "37":"a",
       "38":"a",
       "39":"a",
-      "40":"a"
+      "40":"a",
+      "41":"a",
+      "42":"a",
+      "43":"a"
     },
     "chrome":{
       "4":"n",
@@ -124,7 +132,10 @@
       "41":"a",
       "42":"a",
       "43":"a",
-      "44":"a"
+      "44":"a",
+      "45":"a",
+      "46":"a",
+      "47":"a"
     },
     "safari":{
       "3.1":"n",
@@ -136,7 +147,8 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n"
+      "8":"n",
+      "9":"n"
     },
     "opera":{
       "9":"n",
@@ -164,7 +176,10 @@
       "26":"a",
       "27":"a",
       "28":"a",
-      "29":"a"
+      "29":"a",
+      "30":"a",
+      "31":"a",
+      "32":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -174,7 +189,8 @@
       "6.0-6.1":"a",
       "7.0-7.1":"a",
       "8":"a",
-      "8.1-8.3":"a"
+      "8.1-8.4":"a",
+      "9":"a"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -202,13 +218,13 @@
       "11.5":"n",
       "12":"y",
       "12.1":"y",
-      "24":"a"
+      "30":"a"
     },
     "and_chr":{
-      "41":"a"
+      "44":"a"
     },
     "and_ff":{
-      "36":"a"
+      "40":"a"
     },
     "ie_mob":{
       "10":"n",
@@ -222,8 +238,8 @@
   "notes_by_num":{
     "1":"`compassneedscalibration` supported in IE11 only for compatible devices with Windows 8.1+."
   },
-  "usage_perc_y":0.51,
-  "usage_perc_a":83.7,
+  "usage_perc_y":0.79,
+  "usage_perc_a":84.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -1,12 +1,16 @@
 {
   "title":"CSS3 tab-size",
   "description":"Method of customizing the width of the tab character. Only effective using 'white-space: pre' or 'white-space: pre-wrap'.",
-  "spec":"http://www.w3.org/TR/css3-text/#tab-size1",
+  "spec":"http://www.w3.org/TR/css3-text/#tab-size",
   "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/tab-size",
       "title":"MDN article"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6524689-tab-size-property",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -25,8 +29,10 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n",
-      "TP":"n"
+      "11":"n"
+    },
+    "edge":{
+      "1":"n"
     },
     "firefox":{
       "2":"n",
@@ -69,7 +75,10 @@
       "37":"a x #1",
       "38":"a x #1",
       "39":"a x #1",
-      "40":"a x #1"
+      "40":"a x #1",
+      "41":"a x #1",
+      "42":"a x #1",
+      "43":"a x #1"
     },
     "chrome":{
       "4":"n",
@@ -112,7 +121,10 @@
       "41":"a #1",
       "42":"y",
       "43":"y",
-      "44":"y"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y"
     },
     "safari":{
       "3.1":"n",
@@ -124,7 +136,8 @@
       "6.1":"a #1",
       "7":"a #1",
       "7.1":"a #1",
-      "8":"a #1"
+      "8":"a #1",
+      "9":"a #1"
     },
     "opera":{
       "9":"n",
@@ -152,7 +165,10 @@
       "26":"a #1",
       "27":"a #1",
       "28":"a #1",
-      "29":"y"
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -162,7 +178,8 @@
       "6.0-6.1":"n",
       "7.0-7.1":"a #1",
       "8":"a #1",
-      "8.1-8.3":"a #1"
+      "8.1-8.4":"a #1",
+      "9":"a #1"
     },
     "op_mini":{
       "5.0-8.0":"a x #1"
@@ -190,13 +207,13 @@
       "11.5":"a x #1",
       "12":"a x #1",
       "12.1":"a x #1",
-      "24":"a #1"
+      "30":"y"
     },
     "and_chr":{
-      "41":"a #1"
+      "44":"y"
     },
     "and_ff":{
-      "36":"a x #1"
+      "40":"a x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -210,8 +227,8 @@
   "notes_by_num":{
     "1":"Partial refers to supporting `<integer>` but not `<length>` values."
   },
-  "usage_perc_y":0.27,
-  "usage_perc_a":74.79,
+  "usage_perc_y":43.14,
+  "usage_perc_a":32.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"tab-size,tab-width",
