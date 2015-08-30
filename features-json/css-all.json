@@ -1,23 +1,30 @@
 {
-  "title":"Upgrade Insecure Requests",
-  "description":"Declare that browsers should transparently upgrade HTTP resources on a website to HTTPS.",
-  "spec":"http://www.w3.org/TR/upgrade-insecure-requests/",
-  "status":"wd",
+  "title":"CSS all property",
+  "description":"A shorthand property for resetting all CSS properties except for `direction` and `unicode-bidi`.",
+  "spec":"http://www.w3.org/TR/css-cascade-3/#all-shorthand",
+  "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/Security/CSP/CSP_policy_directives#upgrade-insecure-requests",
-      "title":"MDN article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/all",
+      "title":"Mozilla Developer Network"
     },
     {
-      "url":"https://googlechrome.github.io/samples/csp-upgrade-insecure-requests/index.html",
-      "title":"Demo Website"
+      "url":"http://mcc.id.au/blog/2013/10/all-unset",
+      "title":"Resetting styles using `all: unset`"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=116966",
+      "title":"WebKit bug 116966: [css3-cascade] Add support for `all` shorthand property"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6511510-all-initial",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
-    
   ],
   "categories":[
-    "Other"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -60,23 +67,23 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n"
+      "27":"y",
+      "28":"y",
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "chrome":{
       "4":"n",
@@ -112,12 +119,12 @@
       "34":"n",
       "35":"n",
       "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
       "43":"y",
       "44":"y",
       "45":"y",
@@ -149,24 +156,24 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n",
-      "19":"n",
-      "20":"n",
-      "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"y",
-      "31":"y",
-      "32":"y"
+      "15":"u",
+      "16":"u",
+      "17":"u",
+      "18":"u",
+      "19":"u",
+      "20":"u",
+      "21":"u",
+      "22":"u",
+      "23":"u",
+      "24":"u",
+      "25":"u",
+      "26":"u",
+      "27":"u",
+      "28":"u",
+      "29":"u",
+      "30":"u",
+      "31":"u",
+      "32":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -180,57 +187,57 @@
       "9":"n"
     },
     "op_mini":{
-      "5.0-8.0":"n"
+      "5.0-8.0":"u"
     },
     "android":{
-      "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n",
-      "4.4":"n",
-      "4.4.3-4.4.4":"n",
-      "40":"n"
+      "2.1":"u",
+      "2.2":"u",
+      "2.3":"u",
+      "3":"u",
+      "4":"u",
+      "4.1":"u",
+      "4.2-4.3":"u",
+      "4.4":"u",
+      "4.4.3-4.4.4":"u",
+      "40":"u"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"u",
+      "10":"u"
     },
     "op_mob":{
-      "10":"n",
-      "11":"n",
-      "11.1":"n",
-      "11.5":"n",
-      "12":"n",
-      "12.1":"n",
-      "30":"n"
+      "10":"u",
+      "11":"u",
+      "11.1":"u",
+      "11.5":"u",
+      "12":"u",
+      "12.1":"u",
+      "30":"u"
     },
     "and_chr":{
       "44":"y"
     },
     "and_ff":{
-      "40":"n"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "9.9":"n"
+      "9.9":"u"
     }
   },
-  "notes":"The HTTP header is `Content-Security-Policy: upgrade-insecure-requests`. Alternatively, the HTML tag is `<meta http-equiv=\"Content-Security-Policy\" content=\"upgrade-insecure-requests\">`.",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":26.86,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"security,header",
-  "ie_id":"upgradeinsecureresourcerequests",
-  "chrome_id":"6534575509471232",
+  "keywords":"CSS,all,property,shorthand,reset",
+  "ie_id":"",
+  "chrome_id":"6178222542684160",
   "shown":true
 }
