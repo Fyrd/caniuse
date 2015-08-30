@@ -35,7 +35,7 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a x",
+      "10":"a x #1",
       "11":"y"
     },
     "edge":{
@@ -83,9 +83,9 @@
       "38":"p",
       "39":"p",
       "40":"p",
-      "41":"y",
-      "42":"y",
-      "43":"y"
+      "41":"a #2",
+      "42":"a #2",
+      "43":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -230,9 +230,10 @@
       "9.9":"p"
     }
   },
-  "notes":"Partial support in IE10 refers the lack of pointerenter and pointerleave events. Firefox, starting with version 28, provides the 'dom.w3c_pointer_events.enabled' flag to support this specification.",
+  "notes":"Firefox, starting with version 28, provides the 'dom.w3c_pointer_events.enabled' flag to support this specification.",
   "notes_by_num":{
-    
+    "1":"Partial support in IE10 refers the lack of pointerenter and pointerleave events.",
+    "2":"Partial support in Firefox refers to [only supporting mouse input](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/). On Windows only, touch can be enabled with the `layers.async-pan-zoom.enabled` and `dom.w3c_touch_events.enabled` flags"
   },
   "usage_perc_y":7.69,
   "usage_perc_a":1.3,
