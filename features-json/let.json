@@ -185,16 +185,16 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "40":"u"
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n",
+      "4.4.3-4.4.4":"n",
+      "40":"n"
     },
     "bb":{
       "7":"n",
@@ -207,34 +207,34 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "30":"u"
+      "30":"a #3"
     },
     "and_chr":{
-      "44":"u"
+      "44":"a #3"
     },
     "and_ff":{
-      "40":"u"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Supports a non-standard version that can only be used in script elements with a type attribute of application/javascript;version=1.7",
-    "2":"Requires the ‘Experimental Javascript features’ flag to be enabled",
+    "2":"Requires the \u2018Experimental Javascript features\u2019 flag to be enabled",
     "3":"Only supported in strict mode"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":7.68,
+  "usage_perc_a":43.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,variable,block,scope",
   "ie_id":"",
   "chrome_id":"4645595339816960",
-  "shown":true
+  "shown":false
 }

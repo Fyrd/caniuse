@@ -140,14 +140,14 @@
     "opera":{
       "9":"n",
       "9.5-9.6":"n",
-      "10.0-10.1":"n",
-      "10.5":"n",
-      "10.6":"n",
-      "11":"n",
-      "11.1":"n",
-      "11.5":"n",
-      "11.6":"n",
-      "12":"n",
+      "10.0-10.1":"n #1",
+      "10.5":"n #1",
+      "10.6":"n #1",
+      "11":"n #1",
+      "11.1":"n #1",
+      "11.5":"n #1",
+      "11.6":"n #1",
+      "12":"n #1",
       "12.1":"n #1",
       "15":"a #1 #3 #4",
       "16":"a #1 #3 #4",
@@ -185,18 +185,18 @@
     "android":{
       "2.1":"u",
       "2.2":"u",
-      "2.3":"u",
+      "2.3":"n #1",
       "3":"u",
       "4":"u",
       "4.1":"u",
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "40":"u"
+      "40":"a #1 #4"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n #1",
+      "10":"n #1"
     },
     "op_mob":{
       "10":"n",
@@ -208,32 +208,32 @@
       "30":"u"
     },
     "and_chr":{
-      "44":"u"
+      "44":"a #1 #4"
     },
     "and_ff":{
-      "40":"u"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n #1"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"const is recognised outside of strict mode, but is treated like var",
-    "2":"Supported in strict mode, but doesn’t have block level scope",
-    "3":"Requires the ‘Experimental Javascript features’ flag to be enabled",
+    "2":"Supported in strict mode, but doesn\u2019t have block level scope",
+    "3":"Requires the \u2018Experimental Javascript features\u2019 flag to be enabled",
     "4":"Supported in strict mode."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":16.12,
+  "usage_perc_a":47.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,constant,block,scope",
   "ie_id":"",
   "chrome_id":"4645595339816960",
-  "shown":true
+  "shown":false
 }
