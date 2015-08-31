@@ -13,8 +13,12 @@
       "title":"Source for spec and tools"
     },
     {
+      "url":"http://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/",
+      "title":"Bringing Asm.js to Chakra and Microsoft Edge"
+    },
+    {
       "url":"https://dev.modern.ie/platform/changelog/10532-pc/",
-      "title":"MS Edge support announcement"
+      "title":"Microsoft Edge support announcement"
     }
   ],
   "bugs":[
@@ -34,7 +38,7 @@
       "11":"n"
     },
     "edge":{
-      "1":"y #2"
+      "1":"n #2"
     },
     "firefox":{
       "2":"n",
@@ -225,10 +229,10 @@
       "9.9":"n"
     }
   },
-  "notes":"Sample notes for feature, explain partial support here",
+  "notes":"",
   "notes_by_num":{
     "1":"Chrome does not support Ahead-Of-Time compilation but performance doubled in Chrome 28: https://en.wikipedia.org/wiki/Asm.js#Implementations",
-    "2":"MS Edge build 10532+ enables unprefixed support for asm.js"
+    "2":"Microsoft Edge build 10532+ enables support for asm.js by default"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
