@@ -31,7 +31,7 @@
       "description":"Firefox does not support `min-height` on table elements or elements with `display: table`"
     },
     {
-      "description":"IE10 and IE11 do not appear to support overriding `min-width` or `max-width` values using the `initial` value."
+      "description":"IE9, IE10 and IE11 do not appear to support overriding `min-width` or `max-width` values using the `initial` value. Possible workaround is to use `none` instead of `initial`."
     }
   ],
   "categories":[
