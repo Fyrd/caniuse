@@ -213,7 +213,7 @@
       "44":"a #3"
     },
     "and_ff":{
-      "40":"n"
+      "40":"n d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -225,7 +225,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supports a non-standard version that can only be used in script elements with a type attribute of application/javascript;version=1.7",
+    "1":"Supports a non-standard version that can only be used in script elements with a type attribute of `application/javascript;version=1.7`. As other browsers do not support these types of `script` tags this makes support useless for cross-browser support.",
     "2":"Requires the \u2018Experimental Javascript features\u2019 flag to be enabled",
     "3":"Only supported in strict mode"
   },
@@ -236,5 +236,5 @@
   "keywords":"ES6,variable,block,scope",
   "ie_id":"",
   "chrome_id":"4645595339816960",
-  "shown":false
+  "shown":true
 }
