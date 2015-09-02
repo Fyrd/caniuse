@@ -4,8 +4,10 @@
   "spec":"https://drafts.csswg.org/css-images-3/#cross-fade-function",
   "status":"unoff",
   "links":[
+    
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS"
@@ -21,7 +23,8 @@
       "11":"n"
     },
     "edge":{
-      "1":"n"
+      "12":"n",
+      "13":"n"
     },
     "firefox":{
       "2":"n",
@@ -113,7 +116,8 @@
       "44":"y x",
       "45":"y x",
       "46":"y x",
-      "47":"y x"
+      "47":"y x",
+      "48":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -157,7 +161,8 @@
       "29":"y x",
       "30":"y x",
       "31":"y x",
-      "32":"y x"
+      "32":"y x",
+      "33":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -183,7 +188,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "40":"y x"
+      "44":"y x"
     },
     "bb":{
       "7":"n",
@@ -214,13 +219,14 @@
   },
   "notes":"",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":57.56,
+  "usage_perc_a":0.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,image,crossfade",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }
