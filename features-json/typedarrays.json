@@ -1,7 +1,7 @@
 {
   "title":"Typed Arrays",
   "description":"JavaScript typed arrays provide a mechanism for accessing raw binary data much more efficiently.\r\n",
-  "spec":"http://www.khronos.org/registry/typedarray/specs/latest/",
+  "spec":"http://www.ecma-international.org/ecma-262/6.0/#sec-typedarray-objects",
   "status":"other",
   "links":[
     {
@@ -37,7 +37,8 @@
       "11":"y"
     },
     "edge":{
-      "1":"y"
+      "12":"y",
+      "13":"y"
     },
     "firefox":{
       "2":"n",
@@ -129,7 +130,8 @@
       "44":"y",
       "45":"y",
       "46":"y",
-      "47":"y"
+      "47":"y",
+      "48":"y"
     },
     "safari":{
       "3.1":"n",
@@ -173,7 +175,8 @@
       "29":"y",
       "30":"y",
       "31":"y",
-      "32":"y"
+      "32":"y",
+      "33":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -199,7 +202,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "40":"y"
+      "44":"y"
     },
     "bb":{
       "7":"n",
@@ -236,7 +239,7 @@
   "usage_perc_a":2.23,
   "ucprefix":false,
   "parent":"",
-  "keywords":"float64array,dataview,uint8array,arraybuffer",
+  "keywords":"ES6,JavaScript,float64array,dataview,uint8array,arraybuffer",
   "ie_id":"typedarrays",
   "chrome_id":"5135818813341696",
   "shown":true

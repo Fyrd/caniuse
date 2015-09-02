@@ -10,6 +10,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "JS API"
@@ -25,7 +26,8 @@
       "11":"n"
     },
     "edge":{
-      "1":"y"
+      "12":"y",
+      "13":"y"
     },
     "firefox":{
       "2":"n",
@@ -117,7 +119,8 @@
       "44":"n d #1",
       "45":"n d #1",
       "46":"n d #1",
-      "47":"n d #1"
+      "47":"n d #1",
+      "48":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -161,7 +164,8 @@
       "29":"n",
       "30":"n",
       "31":"n d #1",
-      "32":"n d #1"
+      "32":"n d #1",
+      "33":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -187,7 +191,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "40":"u"
+      "44":"u"
     },
     "bb":{
       "7":"n",
@@ -218,14 +222,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Requires the ‘Experimental Javascript features’ flag to be enabled"
+    "1":"Requires the \"Experimental Javascript features\" flag to be enabled"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":9.51,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,JavaScript",
   "ie_id":"restparameters",
   "chrome_id":"5937087912083456",
-  "shown":true
+  "shown":false
 }

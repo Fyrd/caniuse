@@ -32,7 +32,8 @@
       "11":"y"
     },
     "edge":{
-      "1":"y"
+      "12":"y",
+      "13":"y"
     },
     "firefox":{
       "2":"n d #1",
@@ -124,7 +125,8 @@
       "44":"a #3",
       "45":"a #3",
       "46":"a #3",
-      "47":"a #3"
+      "47":"a #3",
+      "48":"a #3"
     },
     "safari":{
       "3.1":"n",
@@ -168,7 +170,8 @@
       "29":"a #3",
       "30":"a #3",
       "31":"a #3",
-      "32":"a #3"
+      "32":"a #3",
+      "33":"a #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -185,16 +188,16 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "40":"u"
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n",
+      "4.4.3-4.4.4":"n",
+      "44":"a #3"
     },
     "bb":{
       "7":"n",
@@ -207,30 +210,30 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "30":"u"
+      "30":"a #3"
     },
     "and_chr":{
-      "44":"u"
+      "44":"a #3"
     },
     "and_ff":{
-      "40":"u"
+      "40":"n d #1"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supports a non-standard version that can only be used in script elements with a type attribute of application/javascript;version=1.7",
-    "2":"Requires the ‘Experimental Javascript features’ flag to be enabled",
+    "1":"Supports a non-standard version that can only be used in script elements with a type attribute of `application/javascript;version=1.7`. As other browsers do not support these types of `script` tags this makes support useless for cross-browser support.",
+    "2":"Requires the \u2018Experimental Javascript features\u2019 flag to be enabled",
     "3":"Only supported in strict mode"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":7.68,
+  "usage_perc_a":43.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,variable,block,scope",

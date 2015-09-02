@@ -66,12 +66,24 @@ Currently the following feature information can be modified:
 
 ### Adding a feature
 
-To add a feature, simply add another JSON file, following the [example](/sample-data.json), to the `features-json` directory with the base file name as the feature ID (only alphanumeric characters and hyphens please). If you want to submit a feature but don't have all information available for it yet, make sure you set the "shown" flag to false.
+To add a feature, simply add another JSON file, following the [example](/sample-data.json), to the `features-json` directory with the base file name as the feature ID (only alphanumeric characters and hyphens please). 
+
+New additions will always start out with `"shown": false` (regardless of the initial value set in the PR). This is so the data can undergo a certain level of verification to guarantee the correctness of information shown on the site. This verification happens *after* the pull request has already been accepted because it allows the data to  automatically be updated with newly released browser versions when necessary so the pull request won't need to require manual updates during this period.
+
+For the same reason, on some occasion pull requests for new features may be accepted at first, but then have the data be rejected later if it's decided that the data is for whatever reason inappropriate for caniuse (e.g. it's for some feature already widely supported by all browsers)
+
+Good/preferred pull requests for new features meet the following criteria:
+* Feature is on the higher end of the spectrum on the [Feature suggestion list](http://caniuse.com/issue-list/)
+* Feature is *not* already widely supported (e.g. since IE6+, Firefox 2+, Chrome 1+ etc). This is because caniuse is intended to answer questions about mixed support, not to provide complete information on all web technologies. 
+* Feature is at least supported in one (possibly upcoming) browser. 
+* PR includes a link to the test case(s) used to test support (can be codepen, jsfiddle, etc)
+* Support data was properly validated using either test cases or from information from reliable sources. If you don't know be sure to use `u` for unknown support, though it may be fine to make the more obvious extrapolations like really old browsers not supporting the latest APIs, etc.
+* The more actual support information, the better (rather than most data simply being `u`nknown). https://www.browserstack.com and http://saucelabs.com are excellent tools for good cross-browser support testing. In order to keep caniuse useful, features won't be included on the site until almost all included browsers have actual support information. This does not however apply to older and lesser used browser versions.
 
 ### Unsupported changes
 
 Currently it is not possible to:
-* Add a new browser or browser version (this will be made possible later)
+* Add a new browser or browser version
 * Add a test for any given feature (should also come later)
 * Add any object properties not already defined above
 * Modify the **usage\_perc\_y** or **usage\_perc\_a** values (these values are generated)
