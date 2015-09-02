@@ -45,7 +45,7 @@
     },
     "edge":{
       "12":"a #1",
-      "13":"a #1"
+      "13":"y"
     },
     "firefox":{
       "2":"n",
@@ -238,7 +238,7 @@
       "9.9":"y"
     }
   },
-  "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome and Opera also support the `datetime-local` type for both date and time, but not the `datetime` one.",
+  "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome, Opera, and Microsoft Edge also support the `datetime-local` type for both date and time, but not the `datetime` one.",
   "notes_by_num":{
     "1":"Partial support in Microsoft Edge refers to supporting `date`, `week`, and `month` input types and not `time`, `datetime`, and `datetime-local`.",
     "2":"Partial support in iOS Safari refers to not supporting `min`, `max` or `step` attributes",
