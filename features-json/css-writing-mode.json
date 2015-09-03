@@ -1,5 +1,5 @@
 {
-  "title":"CSS Writing Mode",
+  "title":"CSS writing-mode property",
   "description":"Property to define whether lines of text are laid out horizontally or vertically and the direction in which blocks progress.",
   "spec":"https://drafts.csswg.org/css-writing-modes-3/#block-flow",
   "status":"cr",
@@ -66,38 +66,38 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"y d",
-      "37":"y d",
-      "38":"y d",
-      "39":"y d",
-      "40":"y d",
+      "36":"n d #2",
+      "37":"n d #2",
+      "38":"n d #2",
+      "39":"n d #2",
+      "40":"n d #2",
       "41":"y",
       "42":"y",
       "43":"y"
     },
     "chrome":{
-      "4":"u",
-      "5":"u",
-      "6":"u",
+      "4":"n",
+      "5":"n",
+      "6":"n",
       "7":"u",
-      "8":"u",
-      "9":"u",
-      "10":"u",
-      "11":"u",
-      "12":"u",
-      "13":"u",
-      "14":"u",
-      "15":"u",
-      "16":"u",
-      "17":"u",
-      "18":"u",
-      "19":"u",
-      "20":"u",
-      "21":"u",
-      "22":"u",
-      "23":"u",
-      "24":"u",
-      "25":"u",
+      "8":"y x",
+      "9":"y x",
+      "10":"y x",
+      "11":"y x",
+      "12":"y x",
+      "13":"y x",
+      "14":"y x",
+      "15":"y x",
+      "16":"y x",
+      "17":"y x",
+      "18":"y x",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
       "26":"y x",
       "27":"y x",
       "28":"y x",
@@ -123,15 +123,15 @@
       "48":"y x"
     },
     "safari":{
-      "3.1":"n",
-      "3.2":"n",
-      "4":"n",
-      "5":"n",
-      "5.1":"n",
-      "6":"n",
-      "6.1":"n",
-      "7":"n",
-      "7.1":"n",
+      "3.1":"u",
+      "3.2":"u",
+      "4":"u",
+      "5":"u",
+      "5.1":"y x",
+      "6":"y x",
+      "6.1":"y x",
+      "7":"y x",
+      "7.1":"y x",
       "8":"y x",
       "9":"y x"
     },
@@ -168,12 +168,12 @@
       "33":"y x"
     },
     "ios_saf":{
-      "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
-      "6.0-6.1":"n",
-      "7.0-7.1":"n",
+      "3.2":"u",
+      "4.0-4.1":"u",
+      "4.2-4.3":"u",
+      "5.0-5.1":"y x",
+      "6.0-6.1":"y x",
+      "7.0-7.1":"y x",
       "8":"y x",
       "8.1-8.4":"y x",
       "9":"y x"
@@ -182,20 +182,20 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
       "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
+      "4":"y x",
+      "4.1":"y x",
+      "4.2-4.3":"y x",
+      "4.4":"y x",
+      "4.4.3-4.4.4":"y x",
       "44":"y x"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"y x",
+      "10":"y x"
     },
     "op_mob":{
       "10":"n",
@@ -210,26 +210,27 @@
       "44":"y x"
     },
     "and_ff":{
-      "40":"y d"
+      "40":"n"
     },
     "ie_mob":{
       "10":"a x",
       "11":"a x"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y x"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Internet Explorer supports different values from an [earlier version of the spec](http://www.w3.org/TR/2003/CR-css3-text-20030514/#Progression), which originated from SVG."
+    "1":"Internet Explorer supports different values from an [earlier version of the spec](http://www.w3.org/TR/2003/CR-css3-text-20030514/#Progression), which originated from SVG.",
+    "2":"Supported in Firefox under the `layout.css.vertical-text.enabled` flag"
   },
-  "usage_perc_y":63.76,
-  "usage_perc_a":9.71,
+  "usage_perc_y":71.47,
+  "usage_perc_a":10.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
