@@ -238,8 +238,8 @@
     "1":"Partial support in IE10 refers the lack of pointerenter and pointerleave events.",
     "2":"Partial support in Firefox refers to [only supporting mouse input](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/). On Windows only, touch can be enabled with the `layers.async-pan-zoom.enabled` and `dom.w3c_touch_events.enabled` flags"
   },
-  "usage_perc_y":7.68,
-  "usage_perc_a":1.32,
+  "usage_perc_y":7.35,
+  "usage_perc_a":1.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",
