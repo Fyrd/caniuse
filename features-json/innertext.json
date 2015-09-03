@@ -1,12 +1,24 @@
 {
-  "title":"Node.textContent",
-  "description":"DOM Node property representing the text content of a node and its descendants",
-  "spec":"https://dom.spec.whatwg.org/#dom-node-textcontent",
-  "status":"ls",
+  "title":"Node.innerText",
+  "description":"A currently-nonstandard property representing the text within a DOM element and its descendants. As a getter, it approximates the text the user would get if they highlighted the contents of the element with the cursor and then copied to the clipboard.",
+  "spec":"https://msdn.microsoft.com/library/ms533899(v=vs.85).aspx",
+  "status":"unoff",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent",
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Node/innerText",
       "title":"Mozilla Developer Network"
+    },
+    {
+      "url":"https://github.com/whatwg/compat/issues/5",
+      "title":"WHATWG Compatibility Standard issue #5: spec innerText"
+    },
+    {
+      "url":"https://github.com/timdown/rangy",
+      "title":"Rangy, a JS range and selection library which contains an innerText implementation"
+    },
+    {
+      "url":"http://discourse.wicg.io/t/standardizing-innertext/799",
+      "title":"Standardizing innerText – Web Incubator Community Group (WICG) discussion"
     }
   ],
   "bugs":[
@@ -17,10 +29,10 @@
   ],
   "stats":{
     "ie":{
-      "5.5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"n",
+      "5.5":"u",
+      "6":"y",
+      "7":"y",
+      "8":"y",
       "9":"y",
       "10":"y",
       "11":"y"
@@ -30,50 +42,50 @@
       "13":"y"
     },
     "firefox":{
-      "2":"y",
-      "3":"y",
-      "3.5":"y",
-      "3.6":"y",
-      "4":"y",
-      "5":"y",
-      "6":"y",
-      "7":"y",
-      "8":"y",
-      "9":"y",
-      "10":"y",
-      "11":"y",
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y"
+      "2":"n",
+      "3":"n",
+      "3.5":"n",
+      "3.6":"n",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n"
     },
     "chrome":{
       "4":"u",
@@ -171,8 +183,8 @@
       "3.2":"u",
       "4.0-4.1":"u",
       "4.2-4.3":"u",
-      "5.0-5.1":"y",
-      "6.0-6.1":"y",
+      "5.0-5.1":"u",
+      "6.0-6.1":"u",
       "7.0-7.1":"y",
       "8":"y",
       "8.1-8.4":"y",
@@ -191,7 +203,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "44":"y"
+      "44":"u"
     },
     "bb":{
       "7":"u",
@@ -210,26 +222,25 @@
       "44":"y"
     },
     "and_ff":{
-      "40":"y"
+      "40":"n"
     },
     "ie_mob":{
-      "10":"u",
+      "10":"y",
       "11":"y"
     },
     "and_uc":{
       "9.9":"u"
     }
   },
-  "notes":"`Node.textContent` is somewhat similar to, but has important differences from, the proprietary [`Node.innerText`](http://caniuse.com/#feat=innertext) property.",
+  "notes":"This test only checks that the property exists and works correctly in a very simple case.\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](http://caniuse.com/#feat=textcontent) property.",
   "notes_by_num":{
-    
   },
-  "usage_perc_y":77.36,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"inner,text,content",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
