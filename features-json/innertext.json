@@ -18,7 +18,7 @@
     },
     {
       "url":"http://discourse.wicg.io/t/standardizing-innertext/799",
-      "title":"Standardizing innerText – Web Incubator Community Group (WICG) discussion"
+      "title":"Standardizing innerText \u2013 Web Incubator Community Group (WICG) discussion"
     }
   ],
   "bugs":[
@@ -234,13 +234,14 @@
   },
   "notes":"This test only checks that the property exists and works correctly in a very simple case.\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](http://caniuse.com/#feat=textcontent) property.",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":68.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"inner,text,content",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }
