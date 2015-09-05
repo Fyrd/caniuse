@@ -198,25 +198,25 @@
       "2.2":"u",
       "2.3":"u",
       "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "44":"u"
+      "4":"y",
+      "4.1":"y",
+      "4.2-4.3":"y",
+      "4.4":"y",
+      "4.4.3-4.4.4":"y",
+      "44":"y"
     },
     "bb":{
       "7":"u",
       "10":"u"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "30":"u"
+      "10":"y",
+      "11":"y",
+      "11.1":"y",
+      "11.5":"y",
+      "12":"y",
+      "12.1":"y",
+      "30":"y"
     },
     "and_chr":{
       "44":"y"
@@ -229,14 +229,14 @@
       "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y"
     }
   },
-  "notes":"This test only checks that the property exists and works correctly in a very simple case.\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](http://caniuse.com/#feat=textcontent) property.",
+  "notes":"This test only checks that the property exists and works correctly in a very simple case.\r\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\r\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](http://caniuse.com/#feat=textcontent) property.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":68.02,
+  "usage_perc_y":82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

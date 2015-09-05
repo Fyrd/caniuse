@@ -198,13 +198,13 @@
       "10":"u"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "30":"u"
+      "10":"y",
+      "11":"y",
+      "11.1":"y",
+      "11.5":"y",
+      "12":"y",
+      "12.1":"y",
+      "30":"y"
     },
     "and_chr":{
       "44":"y"
@@ -217,14 +217,14 @@
       "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y"
     }
   },
   "notes":"`Node.textContent` is somewhat similar to, but has important differences from, the proprietary [`Node.innerText`](http://caniuse.com/#feat=innertext) property.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":75.93,
+  "usage_perc_y":83.55,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
