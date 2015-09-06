@@ -184,12 +184,12 @@
     },
     "android":{
       "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n",
+      "2.2":"a #1",
+      "2.3":"a #1",
+      "3":"a #1",
+      "4":"a #1",
+      "4.1":"a #1",
+      "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
       "44":"y"
@@ -205,13 +205,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "30":"n"
+      "30":"y"
     },
     "and_chr":{
       "44":"y"
     },
     "and_ff":{
-      "40":"n"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -221,16 +221,16 @@
       "9.9":"n"
     }
   },
-  "notes":"In Chrome the API is enabled on Android only, support for other platforms is coming: https://docs.google.com/a/chromium.org/document/d/1LTk9uVMGi4kurzcF5ellsAJReTF31fFJMHrQwSVtBjc/. Support is also available on Firefox OS: https://bugzilla.mozilla.org/show_bug.cgi?id=960426",
+  "notes":"In Chrome the API is enabled on Android only, support for other platforms [is coming](https://docs.google.com/a/chromium.org/document/d/1LTk9uVMGi4kurzcF5ellsAJReTF31fFJMHrQwSVtBjc/) . Support is also available on [Firefox OS](https://bugzilla.mozilla.org/show_bug.cgi?id=960426).",
   "notes_by_num":{
-    
+    "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](http://davidbcalhoun.com/2010/using-navigator-connection-android/)"
   },
-  "usage_perc_y":15.76,
-  "usage_perc_a":0,
+  "usage_perc_y":16.39,
+  "usage_perc_a":4.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",
   "ie_id":"",
   "chrome_id":"6338383617982464",
-  "shown":false
+  "shown":true
 }
