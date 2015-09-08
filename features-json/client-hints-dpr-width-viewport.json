@@ -1,32 +1,19 @@
 {
-  "title":"asm.js",
-  "description":"an extraordinarily optimizable, low-level subset of JavaScript",
-  "spec":"http://asmjs.org/spec/latest/",
+  "title":"Client Hints: DPR, Width, Viewport-Width",
+  "description":"DPR, Width, and Viewport-Width hints enable proactive content negotiation between client and server, enabling automated delivery of optimized assets - e.g. auto-negotiating image DPR resolution.",
+  "spec":"http://tools.ietf.org/html/draft-grigorik-http-client-hints",
   "status":"other",
   "links":[
     {
-      "url":"http://asmjs.org/",
-      "title":"Homepage"
-    },
-    {
-      "url":"https://github.com/dherman/asm.js/",
-      "title":"Source for spec and tools"
-    },
-    {
-      "url":"http://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/",
-      "title":"Bringing Asm.js to Chakra and Microsoft Edge"
-    },
-    {
-      "url":"https://dev.modern.ie/platform/changelog/10532-pc/",
-      "title":"Microsoft Edge support announcement"
+      "url":"https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints",
+      "title":"Automating resource selection with Client Hints"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API",
-    "Other"
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -39,8 +26,8 @@
       "11":"n"
     },
     "edge":{
-      "12":"n d #2",
-      "13":"y"
+      "12":"n",
+      "13":"n"
     },
     "firefox":{
       "2":"n",
@@ -65,28 +52,28 @@
       "19":"n",
       "20":"n",
       "21":"n",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y"
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n"
     },
     "chrome":{
       "4":"n",
@@ -113,27 +100,27 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"a #1",
-      "29":"a #1",
-      "30":"a #1",
-      "31":"a #1",
-      "32":"a #1",
-      "33":"a #1",
-      "34":"a #1",
-      "35":"a #1",
-      "36":"a #1",
-      "37":"a #1",
-      "38":"a #1",
-      "39":"a #1",
-      "40":"a #1",
-      "41":"a #1",
-      "42":"a #1",
-      "43":"a #1",
-      "44":"a #1",
-      "45":"a #1",
-      "46":"a #1",
-      "47":"a #1",
-      "48":"a #1"
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n",
+      "44":"n",
+      "45":"n",
+      "46":"y",
+      "47":"y",
+      "48":"y"
     },
     "safari":{
       "3.1":"n",
@@ -160,25 +147,25 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"a #1",
-      "16":"a #1",
-      "17":"a #1",
-      "18":"a #1",
-      "19":"a #1",
-      "20":"a #1",
-      "21":"a #1",
-      "22":"a #1",
-      "23":"a #1",
-      "24":"a #1",
-      "25":"a #1",
-      "26":"a #1",
-      "27":"a #1",
-      "28":"a #1",
-      "29":"a #1",
-      "30":"a #1",
-      "31":"a #1",
-      "32":"a #1",
-      "33":"a #1"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -204,7 +191,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "44":"u"
+      "44":"n"
     },
     "bb":{
       "7":"n",
@@ -217,33 +204,32 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "30":"u"
+      "30":"n"
     },
     "and_chr":{
-      "44":"a #1"
+      "44":"n"
     },
     "and_ff":{
-      "40":"y"
+      "40":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "9.9":"n"
+      "9.9":"u"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Chrome does not support Ahead-Of-Time compilation but performance doubled in Chrome 28: https://en.wikipedia.org/wiki/Asm.js#Implementations",
-    "2":"Supported in MS Edge under the \"Enable experimental Javascript features\" flag."
+    
   },
-  "usage_perc_y":9.15,
-  "usage_perc_a":46.42,
+  "usage_perc_y":0.17,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"asm,asm.js,asmjs,WebAssembly",
-  "ie_id":"asmjs",
-  "chrome_id":"",
+  "keywords":"client hints, client-hints, dpr, viewport, content-dpr",
+  "ie_id":"",
+  "chrome_id":"5504430086553600",
   "shown":false
 }

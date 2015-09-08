@@ -1,10 +1,13 @@
 {
   "title":"CSS Cross-Fade Function",
-  "description":"The image function to creaset crossfade between images",
+  "description":"Image function to create a \"crossfade\" between images. This allows one image to transition (fade) into another based on a percentage value.",
   "spec":"https://drafts.csswg.org/css-images-3/#cross-fade-function",
   "status":"unoff",
   "links":[
-    
+    {
+      "url":"http://peter.sh/files/examples/cross-fading.html",
+      "title":"Simple demo"
+    }
   ],
   "bugs":[
     
@@ -73,19 +76,19 @@
       "43":"n"
     },
     "chrome":{
-      "4":"u",
-      "5":"u",
-      "6":"u",
-      "7":"u",
-      "8":"u",
-      "9":"u",
-      "10":"u",
-      "11":"u",
-      "12":"u",
-      "13":"u",
-      "14":"u",
-      "15":"y x",
-      "16":"y x",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
       "17":"y x",
       "18":"y x",
       "19":"y x",
@@ -179,15 +182,15 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"y x",
+      "4.4.3-4.4.4":"y x",
       "44":"y x"
     },
     "bb":{
@@ -210,23 +213,23 @@
       "40":"n"
     },
     "ie_mob":{
-      "10":"a x",
-      "11":"a x"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":57.18,
-  "usage_perc_a":0.9,
+  "usage_perc_y":59.43,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,image,crossfade",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }

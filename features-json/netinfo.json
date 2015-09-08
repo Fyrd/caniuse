@@ -1,27 +1,20 @@
 {
-  "title":"Minimum length attribute for input fields",
-  "description":"Declares a lower bound on the number of characters a user can input.",
-  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-maxlength-and-minlength-attributes",
-  "status":"ls",
+  "title":"Network Information API",
+  "description":"The Network Information API enables web applications to access information about the network connection in use by the device.",
+  "spec":"http://w3c.github.io/netinfo/",
+  "status":"unoff",
   "links":[
     {
-      "url":"http://www.w3.org/TR/html5/forms.html#setting-minimum-input-length-requirements:-the-minlength-attribute",
-      "title":"W3C usage example"
-    },
-    {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6565212-minlength-attribute",
-      "title":"Microsoft Edge feature request on UserVoice"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=932755",
-      "title":"Firefox tracking bug"
+      "url":"https://www.igvita.com/2014/12/15/capability-reporting-with-service-worker/",
+      "title":"(NetInfo) Capability reporting with ServiceWorker"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "HTML5"
+    "DOM",
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -120,15 +113,15 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y"
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n",
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n",
+      "48":"n"
     },
     "safari":{
       "3.1":"n",
@@ -167,13 +160,13 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y"
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -191,12 +184,12 @@
     },
     "android":{
       "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n",
+      "2.2":"a #1",
+      "2.3":"a #1",
+      "3":"a #1",
+      "4":"a #1",
+      "4.1":"a #1",
+      "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
       "44":"y"
@@ -218,7 +211,7 @@
       "44":"y"
     },
     "and_ff":{
-      "40":"n"
+      "40":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -228,16 +221,16 @@
       "9.9":"n"
     }
   },
-  "notes":"",
+  "notes":"In Chrome the API is enabled on Android only, support for other platforms [is coming](https://docs.google.com/a/chromium.org/document/d/1LTk9uVMGi4kurzcF5ellsAJReTF31fFJMHrQwSVtBjc/) . Support is also available on [Firefox OS](https://bugzilla.mozilla.org/show_bug.cgi?id=960426).",
   "notes_by_num":{
-    
+    "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](http://davidbcalhoun.com/2010/using-navigator-connection-android/)"
   },
-  "usage_perc_y":44.55,
-  "usage_perc_a":0,
+  "usage_perc_y":16.39,
+  "usage_perc_a":4.19,
   "ucprefix":false,
-  "parent":"form-validation",
-  "keywords":"",
+  "parent":"",
+  "keywords":"performance,network,network information,netinfo",
   "ie_id":"",
-  "chrome_id":"6023370181181440",
+  "chrome_id":"6338383617982464",
   "shown":true
 }
