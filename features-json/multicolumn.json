@@ -42,6 +42,9 @@
     },
     {
       "description":"Firefox does not split tables into columns"
+    },
+    {
+      "description":"Firefox and Chrome do not support columns on the <fieldset> element [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=727164)"
     }
   ],
   "categories":[
