@@ -229,7 +229,7 @@
   "ucprefix":false,
   "parent":"audio",
   "keywords":".ogg,.oga,application/ogg,audio/ogg",
-  "ie_id":"vorbisaudiocodec",
+  "ie_id":"vorbisaudiocodec,oggcontainer",
   "chrome_id":"",
   "shown":true
 }
