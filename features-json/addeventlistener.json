@@ -1,6 +1,6 @@
 {
   "title":"EventTarget.addEventListener()",
-  "description":"The modern standard API for adding DOM event handlers. Introduced in the DOM Level 2 Events spec.",
+  "description":"The modern standard API for adding DOM event handlers. Introduced in the DOM Level 2 Events spec. Also implies support for the [capture phase](https://dom.spec.whatwg.org/#dom-event-capturing_phase) of DOM event dispatch.",
   "spec":"https://dom.spec.whatwg.org/#dom-eventtarget-addeventlistener",
   "status":"ls",
   "links":[
@@ -230,14 +230,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"IE<=8 instead only supports the [proprietary `.attachEvent()` method](https://msdn.microsoft.com/en-us/library/ms536343%28VS.85%29.aspx).",
+    "1":"IE<=8 instead only supports the [proprietary `.attachEvent()` method](https://msdn.microsoft.com/en-us/library/ms536343%28VS.85%29.aspx). It also does not support the [capture phase](http://www.w3.org/TR/DOM-Level-3-Events/#event-flow) of DOM event dispatch; it only supports event bubbling.",
     "2":"The `useCapture` parameter is non-optional and must be provided. Future versions made it optional, with a default value of `false`."
   },
   "usage_perc_y":96.1,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"event,target,add,remove,event,listener",
+  "keywords":"event,target,add,remove,listener,capture,capturing,phase",
   "ie_id":"",
   "chrome_id":"",
   "shown":true
