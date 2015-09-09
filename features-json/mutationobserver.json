@@ -1,8 +1,8 @@
 {
   "title":"Mutation Observer",
   "description":"Method for observing and reacting to changes to the DOM. Replaces MutationEvents, which is deprecated.",
-  "spec":"http://www.w3.org/TR/dom/#mutation-observers",
-  "status":"wd",
+  "spec":"https://dom.spec.whatwg.org/#mutation-observers",
+  "status":"ls",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
