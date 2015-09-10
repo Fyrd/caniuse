@@ -1,11 +1,10 @@
 {
   "title":"CSS font-variant-alternates",
   "description":"Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values for certain types of OpenType fonts.",
-  "spec":"http://dev.w3.org/csswg/css3-fonts/#propdef-font-variant-alternates",
+  "spec":"http://www.w3.org/TR/css-fonts-3/#propdef-font-variant-alternates,
   "status":"cr",
   "links":[
     {
-      "url":"http://www.w3.org/TR/css-fonts-3/#propdef-font-variant-alternates",
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates",
       "title":"Mozilla Developer Network"
     }
