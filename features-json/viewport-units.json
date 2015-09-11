@@ -42,7 +42,7 @@
       "description":"iOS 7 Safari recalculates widths set in `vh` as `vw`, and heights set in `vw` as `vh`, when orientation changes."
     },
     {
-      "description":"Chrome does not print elements defined with `vw` or `vh` units."
+      "description":"[Chrome does not print elements defined with viewport units.](https://code.google.com/p/chromium/issues/detail?id=382313)"
     },
     {
       "description":"In IE 10 and 11, using `vw` units with 3D transforms causes unexpected behavior"
