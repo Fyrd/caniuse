@@ -1,6 +1,6 @@
 {
   "title":"asm.js",
-  "description":"an extraordinarily optimizable, low-level subset of JavaScript",
+  "description":"an extraordinarily optimizable, low-level subset of JavaScript, indended to be a compile target from languages like C++.",
   "spec":"http://asmjs.org/spec/latest/",
   "status":"other",
   "links":[
@@ -204,7 +204,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "44":"u"
+      "44":"a #1"
     },
     "bb":{
       "7":"n",
@@ -217,7 +217,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "30":"u"
+      "30":"a #1"
     },
     "and_chr":{
       "44":"a #1"
@@ -239,11 +239,11 @@
     "2":"Supported in MS Edge under the \"Enable experimental Javascript features\" flag."
   },
   "usage_perc_y":9.15,
-  "usage_perc_a":46.42,
+  "usage_perc_a":46.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",
   "ie_id":"asmjs",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
