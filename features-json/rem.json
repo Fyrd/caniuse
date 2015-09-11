@@ -25,6 +25,9 @@
     },
     {
       "description":"Chrome 31-34 & Chrome-based Android versions (like 4.4) [have a font size bug](https://code.google.com/p/chromium/issues/detail?id=319623) that occurs when the root element has a percentage-based size."
+    },
+    {
+      "description":"Causes content display and scrolling issues on iPhone 4 which typically has Safari 5.1."
     }
   ],
   "categories":[
@@ -186,7 +189,7 @@
       "3.2":"n",
       "4.0-4.1":"y",
       "4.2-4.3":"y",
-      "5.0-5.1":"y",
+      "5.0-5.1":"a #2",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y",
@@ -237,7 +240,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"IE 9 & IE 10 do not support `rem` units when used in the `font` shorthand property (the entire declaration is ignored) or when used on pseudo elements."
+    "1":"IE 9 & IE 10 do not support `rem` units when used in the `font` shorthand property (the entire declaration is ignored) or when used on pseudo elements.",
+    "2":"Safari 5.0-5.1 support `rem` but not in combination with media queries."
   },
   "usage_perc_y":93.73,
   "usage_perc_a":2.18,
