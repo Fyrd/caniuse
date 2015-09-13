@@ -40,8 +40,8 @@
       "11":"y #1"
     },
     "edge":{
-      "12":"y",
-      "13":"y"
+      "12":"y #2",
+      "13":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -236,14 +236,15 @@
   },
   "notes":"Partial support refers to missing the default styling. This is easily taken care of by using display:block for all new elements (except time and mark, these should be display:inline anyway).",
   "notes_by_num":{
-    "1":"Does not include support for the <main> element"
+    "1":"Does not include support for the `<main>` element",
+    "2":"Does not include support for the `<time>` element"
   },
   "usage_perc_y":90.51,
   "usage_perc_a":5.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
-  "ie_id":"",
+  "ie_id":"timeelement",
   "chrome_id":"",
   "shown":true
 }
