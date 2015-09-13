@@ -26,8 +26,8 @@
       "11":"n"
     },
     "edge":{
-      "12":"n",
-      "13":"n"
+      "12":"a #1",
+      "13":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -222,10 +222,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Supports an [older draft](https://wiki.whatwg.org/wiki/Meta_referrer) of the specification with `never`, `always`, `origin` & `default` values.\r\n"
   },
   "usage_perc_y":64.29,
-  "usage_perc_a":0,
+  "usage_perc_a":0.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",
