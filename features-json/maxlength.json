@@ -176,8 +176,8 @@
       "5.0-5.1":"y",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
-      "8":"y",
-      "8.1-8.4":"y",
+      "8":"a #6",
+      "8.1-8.4":"a #6",
       "9":"y"
     },
     "op_mini":{
@@ -228,7 +228,8 @@
     "2":"Does not support the `HTMLTextAreaElement.maxLength` DOM property.",
     "3":"Does not support [`ValidityState.tooLong`](https://developer.mozilla.org/en-US/docs/Web/API/ValidityState/tooLong). In some cases, this is because `.validity` is not supported in the first place.",
     "4":"`ValidityState.tooLong` is incorrect in some cases. See [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1203844) and [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1776779).",
-    "5":"`ValidityState.tooLong` is true when the input's initial value exceeds the maxlength. Per the spec, it should instead be false until the user edits the value."
+    "5":"`ValidityState.tooLong` is true when the input's initial value exceeds the maxlength. Per the spec, it should instead be false until the user edits the value.",
+    "6":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string."
   },
   "usage_perc_y":62.87,
   "usage_perc_a":13.03,
