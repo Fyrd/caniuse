@@ -133,7 +133,7 @@
       "7":"n",
       "7.1":"n",
       "8":"n",
-      "9":"y x"
+      "9":"a x #4"
     },
     "opera":{
       "9":"n",
@@ -224,7 +224,8 @@
   "notes_by_num":{
     "1":"Partial support in IE10 refers to support limited to touch screens.",
     "2":"Partial support in IE11 [documented here](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/scroll-snap-points/support.html)",
-    "3":"Can be enabled in Firefox using the `layout.css.scroll-snap.enabled` flag in `about:config`"
+    "3":"Can be enabled in Firefox using the `layout.css.scroll-snap.enabled` flag in `about:config`",
+    "4":"Partial support in Safari refers to not supporting the `none` keyword in `scroll-snap-points-x`, `scroll-snap-points-y` and `scroll-snap-coordinate`, and length keywords (`top`, `right`, etc.) in `scroll-snap-destination` and `scroll-snap-coordinate`."
   },
   "usage_perc_y":7.51,
   "usage_perc_a":7.66,
