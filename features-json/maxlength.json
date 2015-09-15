@@ -10,11 +10,12 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
+    "DOM",
     "HTML5",
-    "JS API",
-    "DOM"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -229,12 +230,12 @@
     "4":"`ValidityState.tooLong` is incorrect in some cases. See [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1203844) and [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1776779).",
     "5":"`ValidityState.tooLong` is true when the input's initial value exceeds the maxlength. Per the spec, it should instead be false until the user edits the value."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":62.87,
+  "usage_perc_a":13.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",
   "ie_id":"",
   "chrome_id":"",
-  "shown":true
+  "shown":false
 }
