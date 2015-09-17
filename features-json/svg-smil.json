@@ -186,8 +186,8 @@
       "30":"y",
       "31":"y",
       "32":"y #2",
-      "33":"y",
-      "34":"y"
+      "33":"y #2",
+      "34":"y #2"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -245,7 +245,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in older Safari versions refers to not working in HTML files or CSS background images.",
-    "2":"As of Chrome 45 SMIL is deprecated and usage will result in a warning in the console. Support is expected to be dropped in some future version."
+    "2":"As of Chrome 45 & Opera 32 SMIL is deprecated and usage will result in a warning in the console. Support is expected to be dropped in some future version."
   },
   "usage_perc_y":80.52,
   "usage_perc_a":0.31,
