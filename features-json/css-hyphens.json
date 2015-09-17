@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "CSS3"
@@ -173,7 +173,8 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"n"
+      "33":"n",
+      "34":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -230,7 +231,7 @@
   },
   "notes":"Chrome and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. It is [advisable to set the @lang attribute](http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html) on the HTML element to enable hyphenation support and improve accessibility.",
   "notes_by_num":{
-
+    
   },
   "usage_perc_y":27.11,
   "usage_perc_a":7.1,

@@ -167,7 +167,8 @@
       "30":"u",
       "31":"u",
       "32":"u",
-      "33":"u"
+      "33":"u",
+      "34":"u"
     },
     "ios_saf":{
       "3.2":"u",
@@ -231,8 +232,8 @@
     "5":"`ValidityState.tooLong` is true when the input's initial value exceeds the maxlength. Per the spec, it should instead be false until the user edits the value.",
     "6":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string."
   },
-  "usage_perc_y":62.87,
-  "usage_perc_a":13.03,
+  "usage_perc_y":55.79,
+  "usage_perc_a":20.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",
