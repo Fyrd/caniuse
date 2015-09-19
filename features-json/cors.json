@@ -30,6 +30,9 @@
     },
     {
       "description":"Android and some old versions of WebKit (that may be found in various webview implementations) do not support Access-Control-Expose-Headers: https://code.google.com/p/android/issues/detail?id=56726"
+    },
+    {
+      "description":"IE11 does not appear to support CORS for images in the `canvas` element"
     }
   ],
   "categories":[
