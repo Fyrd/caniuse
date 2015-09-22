@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+    	"description": "In webkit-based browsers first character of text inside elements, styled with `::first-letter`, is not highlighted while selecting the text. [See bug](https://bugs.webkit.org/show_bug.cgi?id=6185)"
+    }
   ],
   "categories":[
     "CSS"
