@@ -81,9 +81,9 @@
       "39":"n d #1",
       "40":"n d #1",
       "41":"n d #1",
-      "42":"n d #1",
-      "43":"n d #1",
-      "44":"n d #1"
+      "42":"y",
+      "43":"y",
+      "44":"y"
     },
     "chrome":{
       "4":"n",
@@ -233,10 +233,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Requires the `media.mediasource.enabled` flag to be enabled",
+    "1":"Requires the `media.mediasource.enabled` flag to be enabled, support is limited to a whitelist including the YouTube, Netflix, and Dailymotion websites",
     "2":"Partial support in IE11 refers to only working in Windows 8+"
   },
-  "usage_perc_y":51.77,
+  "usage_perc_y":51.78,
   "usage_perc_a":6.17,
   "ucprefix":false,
   "parent":"",
