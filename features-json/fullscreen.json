@@ -29,6 +29,9 @@
       "description":"Safari blocks access to keyboard events in fullscreen mode (as a security measure)."
     },
     {
+      "description":"Safari doesn't support stacking, meaning only one element can be set to full screen. `webkitRequestFullScreen()` is ignored for other elements and no error event is dispatched."
+    },
+    {
       "description":"IE 11 does not allow scrolling when document.documentElement is set to full screen."
     },
     {
