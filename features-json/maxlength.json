@@ -81,11 +81,11 @@
       "44":"y #4"
     },
     "chrome":{
-      "4":"u",
-      "5":"u",
-      "6":"u",
-      "7":"u",
-      "8":"u",
+      "4":"y",
+      "5":"y",
+      "6":"y",
+      "7":"y",
+      "8":"y",
       "9":"y",
       "10":"y",
       "11":"y",
@@ -235,7 +235,7 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":74.4,
+  "usage_perc_y":74.45,
   "usage_perc_a":23.14,
   "ucprefix":false,
   "parent":"",

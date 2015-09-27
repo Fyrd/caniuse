@@ -149,8 +149,8 @@
     "opera":{
       "9":"u",
       "9.5-9.6":"u",
-      "10.0-10.1":"u",
-      "10.5":"u",
+      "10.0-10.1":"a #1",
+      "10.5":"a #1",
       "10.6":"a #1",
       "11":"a #1",
       "11.1":"a #1",
@@ -238,7 +238,7 @@
     "2":"Partial support in older IE refers to only supporting `innerHTML`, nothing else."
   },
   "usage_perc_y":75.84,
-  "usage_perc_a":21.78,
+  "usage_perc_a":21.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"parseFromString",
