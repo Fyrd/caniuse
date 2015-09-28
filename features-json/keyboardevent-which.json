@@ -1,6 +1,6 @@
 {
   "title":"KeyboardEvent.which",
-  "description":"A `KeyboardEvent` property that is equivalent to either `KeyboardEvent.keyCode` or `KeyboardEvent.charCode` depending on whether the key is alphanumeric.",
+  "description":"A legacy `KeyboardEvent` property that is equivalent to either `KeyboardEvent.keyCode` or `KeyboardEvent.charCode` depending on whether the key is alphanumeric.",
   "spec":"https://w3c.github.io/uievents/#widl-KeyboardEvent-which",
   "status":"unoff",
   "links":[
@@ -222,7 +222,7 @@
       "9.9":"y"
     }
   },
-  "notes":"",
+  "notes":"This property is legacy and deprecated, but its replacement(s) are not yet widely supported.",
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
