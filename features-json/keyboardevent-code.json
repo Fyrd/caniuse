@@ -11,6 +11,10 @@
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=227231",
       "title":"Chrome tracking bug"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=149584",
+      "title":"WebKit feature request bug"
     }
   ],
   "bugs":[
@@ -235,7 +239,7 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,code",
-  "ie_id":"",
+  "ie_id":"uieventskeyboardqueryapis",
   "chrome_id":"5228092293382144",
   "shown":true
 }
