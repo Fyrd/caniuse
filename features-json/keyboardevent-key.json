@@ -18,6 +18,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "DOM"
@@ -185,10 +186,10 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9":"u"
+      "9":"n"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"n"
     },
     "android":{
       "2.1":"n",
@@ -203,17 +204,17 @@
       "44":"n"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
       "12":"u",
-      "12.1":"u",
-      "30":"u"
+      "12.1":"y",
+      "30":"n"
     },
     "and_chr":{
       "44":"n"
@@ -222,19 +223,19 @@
       "40":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"y",
+      "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to these versions of Firefox returning `\"MozPrintableKey\"` for all character keys."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":18.81,
+  "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,key",
