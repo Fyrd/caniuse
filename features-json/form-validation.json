@@ -12,6 +12,9 @@
   "bugs":[
     {
       "description":"IE10 and 11 [have a problem](http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter) validating number fields in combination with the `step` attribute and certain values"
+    },
+    {
+      "description":"In Chrome (tested in 45) inputs marked as disabled or hidden while also marked as required are [incorrectly](https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled) being considered for constraint validation. https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled"
     }
   ],
   "categories":[
@@ -211,10 +214,10 @@
       "30":"y"
     },
     "and_chr":{
-      "44":"y"
+      "45":"y"
     },
     "and_ff":{
-      "40":"y"
+      "41":"y"
     },
     "ie_mob":{
       "10":"a #2",

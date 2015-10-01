@@ -44,6 +44,9 @@
     },
     {
       "description":"IE 10 canvas doesn't support `setLineDash` or `lineDashOffset` [see bug](https://social.msdn.microsoft.com/Forums/en-US/85007e72-90ad-4bd9-affd-9a24702219e6/canvasrenderingcontext2dsetlinedash-and-linedashoffset-missing?forum=winappswithhtml5) "
+    },
+    {
+      "description":"IE and Edge does not support globalAlpha for drawImage of SVG graphics. [see bug](https://connect.microsoft.com/IE/feedback/details/1847897/globalalpha-ignored-when-drawing-svg-to-canvas) [see testcase](http://jsfiddle.net/p7b0wmcu/)"
     }
   ],
   "categories":[
@@ -244,10 +247,10 @@
       "30":"y"
     },
     "and_chr":{
-      "44":"y"
+      "45":"y"
     },
     "and_ff":{
-      "40":"y"
+      "41":"y"
     },
     "ie_mob":{
       "10":"y",
