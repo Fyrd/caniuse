@@ -26,7 +26,7 @@
       "description":"Firefox (prior to version 37) and Safari do not support IndexedDB inside web workers."
     },
     {
-      "description":"Chrome 36 and below did not support Blob objects as indexedDB values."
+      "description":"Not supported in Chrome for iOS or other iOS WebViews.\r\n\r\nChrome 36 and below did not support Blob objects as indexedDB values."
     }
   ],
   "categories":[
@@ -242,7 +242,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in IE 10 & 11 refers to a number of subfeatures [not being supported](http://codepen.io/cemerick/pen/Itymi).",
-    "2":"Partial support in iOS 8 & 9 refers to [seriously buggy behavior](http://www.raymondcamden.com/2014/9/25/IndexedDB-on-iOS-8--Broken-Bad)."
+    "2":"Partial support in iOS 8 & 9 refers to [seriously buggy behavior](http://www.raymondcamden.com/2014/9/25/IndexedDB-on-iOS-8--Broken-Bad) as well as complete lack of support in WebViews."
   },
   "usage_perc_y":60.88,
   "usage_perc_a":17.66,
