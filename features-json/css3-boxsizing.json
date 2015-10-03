@@ -33,7 +33,7 @@
       "description":"Safari 6.0.x does not use box-sizing on elements with display: table;"
     },
     {
-      "description":"IE9 will subtract the width of the scrollbar to the width of the element when set to position: absolute, overflow: auto / overflow-y: scroll"
+      "description":"IE9 will subtract the width of the scrollbar to the width of the element when set to position: absolute / fixed , overflow: auto / overflow-y: scroll"
     },
     {
       "description":"IE 8 ignores `box-sizing: border-box` if min/max-width/height is used."
