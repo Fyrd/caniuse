@@ -75,10 +75,10 @@
       "38":"a #2 #3",
       "39":"a #2 #3",
       "40":"a #2 #3",
-      "41":"a #2",
-      "42":"a #2",
-      "43":"a #2",
-      "44":"a #2"
+      "41":"a #6",
+      "42":"a #6",
+      "43":"a #6",
+      "44":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -120,12 +120,12 @@
       "40":"a #3 #5",
       "41":"a #3 #5",
       "42":"a #3 #5",
-      "43":"a #5",
-      "44":"a #5",
-      "45":"a #5",
-      "46":"a #5",
-      "47":"a #5",
-      "48":"a #5"
+      "43":"a #5 #7",
+      "44":"a #5 #7",
+      "45":"a #5 #7",
+      "46":"a #5 #7",
+      "47":"a #5 #7",
+      "48":"a #5 #7"
     },
     "safari":{
       "3.1":"u",
@@ -167,11 +167,11 @@
       "27":"a #3 #5",
       "28":"a #3 #5",
       "29":"a #3 #5",
-      "30":"a #5",
-      "31":"a #5",
-      "32":"a #5",
-      "33":"a #5",
-      "34":"a #5"
+      "30":"a #5 #7",
+      "31":"a #5 #7",
+      "32":"a #5 #7",
+      "33":"a #5 #7",
+      "34":"a #5 #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -231,8 +231,10 @@
     "1":"Only supports `Text` and `URL` data types and uses [a non-standard method](http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx) of interacting with the clipboard.",
     "2":"Only fires `copy` event on a valid selection and only `cut` and `paste` in focused editable fields.",
     "3":"Only supports OS clipboard reading/writing via shortcut keys, not through `document.execCommand()`.",
-    "4":"Only supports `paste` event.",
-    "5":"Does not support the `ClipboardEvent` constructor"
+    "4":"Only supports `paste` event (on focused editable field).",
+    "5":"Does not support the `ClipboardEvent` constructor",
+    "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
+    "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
   "usage_perc_y":0,
   "usage_perc_a":80.97,
