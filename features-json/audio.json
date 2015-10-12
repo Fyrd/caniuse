@@ -43,6 +43,9 @@
     },
     {
       "description":"Chrome on Android does [not support autoplay](https://code.google.com/p/chromium/issues/detail?id=178297) as advised by the specification."
+    },
+    {
+      "description":"Chrome on Android does [not support changing playbackrate](https://developer.mozilla.org/en-US/Apps/Build/Audio_and_video_delivery/WebAudio_playbackRate_explained) as advised by the specification."
     }
   ],
   "categories":[
