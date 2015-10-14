@@ -1,6 +1,6 @@
 {
-  "title":"CSS3 Cursors (new values)",
-  "description":"Support for `zoom-in` and `zoom-out` values for the CSS3 `cursor` property.",
+  "title":"CSS3 Cursors: zoom-in & zoom-out",
+  "description":"Support for `zoom-in`, `zoom-out` values for the CSS3 `cursor` property.",
   "spec":"http://www.w3.org/TR/css3-ui/#cursor",
   "status":"cr",
   "links":[
@@ -223,7 +223,7 @@
       "9.9":"n"
     }
   },
-  "notes":"Chrome, Safari and Firefox also support the unofficial `grab` and `grabbing` values (with prefix)",
+  "notes":"",
   "notes_by_num":{
     
   },
