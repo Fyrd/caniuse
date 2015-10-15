@@ -41,6 +41,9 @@
     },
     {
       "description":"Chrome has a bug where combining `clip-path` and `backface-visibility` produces [visible noise](https://code.google.com/p/chromium/issues/detail?id=350724)."
+    },
+    {
+      "description":"Transforms may break position:fixed styles of contained elements"
     }
   ],
   "categories":[

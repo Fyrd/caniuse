@@ -41,9 +41,6 @@
       "description":"IE 10 and below does not support CSS transforms on SVG elements (though SVG transform attributes do work)."
     },
     {
-      "description":"Transforms may break position:fixed styles of contained elements"
-    },
-    {
       "description":"In IE9 the caret of a `textarea` disappears when you use translate."
     },
     {
