@@ -191,13 +191,13 @@
       "9":"y #4"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"n"
     },
     "android":{
       "2.1":"u",
       "2.2":"u",
-      "2.3":"u",
-      "3":"u",
+      "2.3":"y #3 #4",
+      "3":"y #3 #4",
       "4":"y #3 #4",
       "4.1":"y #3 #4",
       "4.2-4.3":"y #3 #4",
@@ -206,17 +206,17 @@
       "44":"y #4"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"y #3 #4",
+      "10":"y #4"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "30":"u"
+      "10":"y",
+      "11":"y",
+      "11.1":"y",
+      "11.5":"y",
+      "12":"y",
+      "12.1":"y",
+      "30":"y #4"
     },
     "and_chr":{
       "45":"y #4"
@@ -225,11 +225,11 @@
       "41":"y #3 #4"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"y #3 #5",
+      "11":"y #3 #5"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y #3 #4"
     }
   },
   "notes":"",
@@ -240,12 +240,12 @@
     "4":"Doesn't fire an `input` event when (un)checking a checkbox or radio button, or when changing the selected file(s) of an `<input type=\"file\">`. See [Chrome bug](https://code.google.com/p/chromium/issues/detail?id=534245), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1206616), and [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=149398).",
     "5":"Doesn't fire an `input` event when (un)checking a checkbox or radio button. See [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1883692)."
   },
-  "usage_perc_y":80.16,
+  "usage_perc_y":89.14,
   "usage_perc_a":1.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"input,event",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
