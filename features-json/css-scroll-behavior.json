@@ -14,6 +14,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS"
@@ -228,15 +229,15 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1": "Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
-    "2": "Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
+    "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
+    "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":8.47,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"smooth,scroll,cssom,scroll-behavior",
   "ie_id":"",
   "chrome_id":"5812155903377408",
-  "shown":true
+  "shown":false
 }

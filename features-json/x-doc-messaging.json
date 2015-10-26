@@ -27,6 +27,9 @@
     },
     {
       "description":"IE8's events are triggered synchronously, which may lead to to unexpected results."
+    },
+    {
+      "description":"Firefox 41 and below do not support sending File/Blob objects [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=722126)"
     }
   ],
   "categories":[
