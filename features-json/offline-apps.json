@@ -1,8 +1,8 @@
 {
   "title":"Offline web applications",
-  "description":"Method of defining web page files to be cached using a cache manifest file, allowing them to work offline on subsequent visits to the page",
+  "description":"Now deprecated method of defining web page files to be cached using a cache manifest file, allowing them to work offline on subsequent visits to the page. ",
   "spec":"https://html.spec.whatwg.org/multipage/browsers.html#offline",
-  "status":"ls",
+  "status":"unoff",
   "links":[
     {
       "url":"http://www.sitepoint.com/offline-web-application-tutorial/",
@@ -246,7 +246,7 @@
       "9.9":"y"
     }
   },
-  "notes":"",
+  "notes":"This technology is being deprecated in favor of [Service Workers](http://caniuse.com/#feat=serviceworkers)",
   "notes_by_num":{
     
   },

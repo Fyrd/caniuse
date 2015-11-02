@@ -55,6 +55,9 @@
     },
     {
       "description":"[Chrome does not print elements defined with viewport units.](https://code.google.com/p/chromium/issues/detail?id=382313)"
+    },
+    {
+      "description":"`vh` on iOS is reported to include the height of the bottom toolbar in the height calculation"
     }
   ],
   "categories":[
