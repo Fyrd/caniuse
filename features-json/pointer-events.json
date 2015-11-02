@@ -26,6 +26,9 @@
     },
     {
       "description":"IE 9 and 10 return true on `'pointerEvents'` in `document.documentElement.style` due to support on SVG elements, but they don't support it on HTML elements."
+    },
+    {
+      "description":"Does not work in IE11 on `select` elements if only a parent has the property set (though it does work if the `select` element has it set explicitly)"
     }
   ],
   "categories":[
