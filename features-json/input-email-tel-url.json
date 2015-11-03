@@ -179,7 +179,7 @@
       "7.0-7.1":"y",
       "8":"y",
       "8.1-8.4":"y",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -227,8 +227,8 @@
   "notes_by_num":{
     "1":"Does not provide an email-specific keyboard for email addresses"
   },
-  "usage_perc_y":89.55,
-  "usage_perc_a":0.17,
+  "usage_perc_y":90.26,
+  "usage_perc_a":0.15,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"input[type=email],input[type=tel],input[type=url]",

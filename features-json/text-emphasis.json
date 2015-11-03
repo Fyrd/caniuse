@@ -185,7 +185,7 @@
       "7.0-7.1":"y",
       "8":"y",
       "8.1-8.4":"y",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -233,8 +233,8 @@
   "notes_by_num":{
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec."
   },
-  "usage_perc_y":9.13,
-  "usage_perc_a":58.82,
+  "usage_perc_y":9.03,
+  "usage_perc_a":60.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

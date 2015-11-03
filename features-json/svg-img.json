@@ -188,7 +188,7 @@
       "7.0-7.1":"a #1",
       "8":"a #1",
       "8.1-8.4":"a #1",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"y"
@@ -236,8 +236,8 @@
   "notes_by_num":{
     "1":"Partial support refers to not supporting embedded images (data URIs) inside the SVG."
   },
-  "usage_perc_y":85.92,
-  "usage_perc_a":10.24,
+  "usage_perc_y":90.24,
+  "usage_perc_a":6.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"svg-as-img,svg-in-img",

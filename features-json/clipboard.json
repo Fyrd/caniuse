@@ -183,7 +183,7 @@
       "7.0-7.1":"a #2 #3 #5",
       "8":"a #2 #3 #5",
       "8.1-8.4":"a #2 #3 #5",
-      "9":"a #2 #3 #5"
+      "9.0-9.1":"a #2 #3 #5"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -238,7 +238,7 @@
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
   "usage_perc_y":0,
-  "usage_perc_a":80.97,
+  "usage_perc_a":81.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

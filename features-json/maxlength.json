@@ -183,7 +183,7 @@
       "7.0-7.1":"y",
       "8":"a #5",
       "8.1-8.4":"a #5",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"a #1"
@@ -236,8 +236,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":76.73,
-  "usage_perc_a":20.98,
+  "usage_perc_y":80.08,
+  "usage_perc_a":17.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",

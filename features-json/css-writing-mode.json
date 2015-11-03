@@ -179,7 +179,7 @@
       "7.0-7.1":"y x",
       "8":"y x",
       "8.1-8.4":"y x",
-      "9":"y x"
+      "9.0-9.1":"y x"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -228,8 +228,8 @@
     "1":"Internet Explorer supports different values from an [earlier version of the spec](http://www.w3.org/TR/2003/CR-css3-text-20030514/#Progression), which originated from SVG.",
     "2":"Supported in Firefox under the `layout.css.vertical-text.enabled` flag"
   },
-  "usage_perc_y":72.34,
-  "usage_perc_a":10.67,
+  "usage_perc_y":79,
+  "usage_perc_a":10.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

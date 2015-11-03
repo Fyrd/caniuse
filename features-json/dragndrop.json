@@ -221,7 +221,7 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9":"n"
+      "9.0-9.1":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -270,8 +270,8 @@
     "1":"Partial support refers to no support for the `dataTransfer.files` or `.types` objects and limited supported formats for `dataTransfer.setData`/`getData`.",
     "2":"Partial support refers to not supporting `.setDragImage`"
   },
-  "usage_perc_y":44.5,
-  "usage_perc_a":10.39,
+  "usage_perc_y":44.54,
+  "usage_perc_a":10.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop",

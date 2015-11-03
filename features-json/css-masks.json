@@ -187,7 +187,7 @@
       "7.0-7.1":"a x #1",
       "8":"a x #1",
       "8.1-8.4":"a x #1",
-      "9":"a x #1"
+      "9.0-9.1":"a x #1"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -237,7 +237,7 @@
     "2":"Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":80.86,
+  "usage_perc_a":81.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type",

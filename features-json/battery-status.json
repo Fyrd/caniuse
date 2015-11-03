@@ -183,7 +183,7 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9":"n"
+      "9.0-9.1":"n"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -231,8 +231,8 @@
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":45.93,
-  "usage_perc_a":17.04,
+  "usage_perc_y":47.26,
+  "usage_perc_a":17.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.battery,navigator.getbattery,batterymanager",

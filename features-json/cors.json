@@ -202,7 +202,7 @@
       "7.0-7.1":"y #3",
       "8":"y #3",
       "8.1-8.4":"y #3",
-      "9":"y #3"
+      "9.0-9.1":"y #3"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -252,8 +252,8 @@
     "2":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has [limitations](http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx))",
     "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379"
   },
-  "usage_perc_y":85.65,
-  "usage_perc_a":6.52,
+  "usage_perc_y":86.63,
+  "usage_perc_a":5.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

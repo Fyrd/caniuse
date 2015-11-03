@@ -179,7 +179,7 @@
       "7.0-7.1":"a #1",
       "8":"y",
       "8.1-8.4":"y",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -227,8 +227,8 @@
   "notes_by_num":{
     "1":"Only supports `KeyboardEvent.keyLocation` from an older draft of the DOM Level 3 Events spec instead."
   },
-  "usage_perc_y":79.34,
-  "usage_perc_a":11.06,
+  "usage_perc_y":79.98,
+  "usage_perc_a":11.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,key,location,keyLocation,numpad",

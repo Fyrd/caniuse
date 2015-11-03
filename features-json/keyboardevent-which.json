@@ -179,7 +179,7 @@
       "7.0-7.1":"y",
       "8":"y",
       "8.1-8.4":"y",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -227,8 +227,8 @@
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":70.64,
-  "usage_perc_a":20.2,
+  "usage_perc_y":70.53,
+  "usage_perc_a":20.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

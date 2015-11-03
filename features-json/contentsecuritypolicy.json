@@ -191,7 +191,7 @@
       "7.0-7.1":"y",
       "8":"y",
       "8.1-8.4":"y",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -240,8 +240,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-Webkit-CSP` header"
   },
-  "usage_perc_y":78.53,
-  "usage_perc_a":8.26,
+  "usage_perc_y":79.43,
+  "usage_perc_a":8.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

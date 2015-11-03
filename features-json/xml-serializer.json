@@ -189,7 +189,7 @@
       "7.0-7.1":"a #1",
       "8":"y",
       "8.1-8.4":"y",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"a #1"
@@ -238,8 +238,8 @@
     "1":"Partial support refers to lacking support for `parseFromString` on the DOMParser.",
     "2":"Partial support in older IE refers to only supporting `innerHTML`, nothing else."
   },
-  "usage_perc_y":77.93,
-  "usage_perc_a":19.85,
+  "usage_perc_y":78.6,
+  "usage_perc_a":19.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"parseFromString",

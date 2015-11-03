@@ -197,7 +197,7 @@
       "7.0-7.1":"y",
       "8":"y",
       "8.1-8.4":"y",
-      "9":"y"
+      "9.0-9.1":"y"
     },
     "op_mini":{
       "5.0-8.0":"y"
@@ -246,8 +246,8 @@
     "1":"IE 9 & IE 10 do not support `rem` units when used in the `font` shorthand property (the entire declaration is ignored) or when used on pseudo elements.",
     "2":"iOS Safari 5.0-5.1 support `rem` but not in combination with media queries."
   },
-  "usage_perc_y":93.97,
-  "usage_perc_a":2.14,
+  "usage_perc_y":94.39,
+  "usage_perc_a":1.97,
   "ucprefix":false,
   "parent":"",
   "keywords":"rems",

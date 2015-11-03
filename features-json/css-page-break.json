@@ -183,7 +183,7 @@
       "7.0-7.1":"a #1 #2 #3",
       "8":"a #1 #2 #3",
       "8.1-8.4":"a #1 #2 #3",
-      "9":"a #1 #2 #3"
+      "9.0-9.1":"a #1 #2 #3"
     },
     "op_mini":{
       "5.0-8.0":"y #1"
@@ -233,8 +233,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":5.63,
-  "usage_perc_a":92.16,
+  "usage_perc_y":5.31,
+  "usage_perc_a":92.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",
