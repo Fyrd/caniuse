@@ -14,6 +14,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "HTML5"
@@ -30,7 +31,7 @@
     },
     "edge":{
       "12":"n",
-      "13":"n"
+      "13":"u"
     },
     "firefox":{
       "2":"n",
@@ -168,10 +169,10 @@
       "28":"n",
       "29":"n",
       "30":"n",
-      "31":"u",
-      "32":"u",
-      "33":"u",
-      "34":"u"
+      "31":"n",
+      "32":"y",
+      "33":"y",
+      "34":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -210,10 +211,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "30":"n"
+      "30":"y"
     },
     "and_chr":{
-      "46":"n"
+      "46":"y"
     },
     "and_ff":{
       "41":"n"
@@ -228,13 +229,14 @@
   },
   "notes":"",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":38.75,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"SRI, security, hash",
   "ie_id":"",
   "chrome_id":"",
-  "shown":false
+  "shown":true
 }
