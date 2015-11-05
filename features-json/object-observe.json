@@ -1,8 +1,8 @@
 {
   "title":"Object.observe data binding",
-  "description":"Method for data binding, part of the ECMAScript 7 proposals",
+  "description":"Method for data binding, a now-withdrawn ECMAScript 7 proposal",
   "spec":"http://wiki.ecmascript.org/doku.php?id=harmony:observe",
-  "status":"other",
+  "status":"unoff",
   "links":[
     {
       "url":"http://www.html5rocks.com/en/tutorials/es7/observe/",
@@ -15,6 +15,10 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=800355",
       "title":"Firefox tracking bug"
+    },
+    {
+      "url":"https://esdiscuss.org/topic/an-update-on-object-observe",
+      "title":"An update on Object.observe"
     }
   ],
   "bugs":[
@@ -232,7 +236,7 @@
       "9.9":"n"
     }
   },
-  "notes":"",
+  "notes":"Support in Blink-based browsers is expected to be removed in future versions.",
   "notes_by_num":{
     
   },
