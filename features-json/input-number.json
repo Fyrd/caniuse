@@ -33,6 +33,9 @@
     },
     {
       "description":"Currently no mobile browsers and very few desktop browsers support using commas for languages where commas are used as decimal separators."
+    },
+    {
+      "description":"Firefox 39 in Mac OSX by default does not prevent alpha characters input and Firefox 42 validates only but It doesn't disable alpha keys input."
     }
   ],
   "categories":[
