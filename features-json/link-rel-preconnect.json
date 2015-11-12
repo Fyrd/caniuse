@@ -169,7 +169,8 @@
       "31":"n",
       "32":"n",
       "33":"y",
-      "34":"y"
+      "34":"y",
+      "35":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -208,13 +209,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "30":"n"
+      "33":"y"
     },
     "and_chr":{
       "46":"y"
     },
     "and_ff":{
-      "41":"u"
+      "42":"u"
     },
     "ie_mob":{
       "10":"n",
@@ -228,7 +229,7 @@
   "notes_by_num":{
     "1":"Firefox 39 did not support 'crossorigin' attribute and preconnects were not processed by the preload parser. Both of these features were enabled in Firefox 41."
   },
-  "usage_perc_y":37.82,
+  "usage_perc_y":38.29,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
