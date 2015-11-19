@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"The FileReader object is not available in Firefox to web workers."
+      "description":"The FileReader object is not available in Firefox to web workers. [A fix is in progress](https://bugzilla.mozilla.org/show_bug.cgi?id=901097)."
     },
     {
       "description":"iOS 8 had some [fileReader bugs](http://blog.fineuploader.com/2014/09/10/ios8-presents-serious-issues-that-prevent-file-uploading/) of which some were fixed in 8.0.2 but others still remain."
