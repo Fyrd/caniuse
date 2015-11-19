@@ -264,7 +264,7 @@
       "9.9":"a x"
     }
   },
-  "notes":"Partial support refers to not supporting the `break-before`, `break-after`, `break-inside` properties. Webkit browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties while Firefox supports `page-break-*` to accomplish the same result (but only the `auto` and `always` values).",
+  "notes":"Partial support refers to not supporting the `break-before`, `break-after`, `break-inside` properties. Webkit browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*`.",
   "notes_by_num":{
     
   },
