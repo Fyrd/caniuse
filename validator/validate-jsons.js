@@ -234,6 +234,8 @@
             this.validate('keywords', ['isString']);
             this.validate('ie_id', ['isString']);
             this.validate('chrome_id', ['isString']);
+            this.validate('firefox_id', ['isString']);
+            this.validate('webkit_id', ['isString']);
             this.validate('shown', ['isBoolean']);
             this.validateSupportData();
         };
