@@ -19,6 +19,9 @@
     },
     {
       "description":"Opera Mobile (Classic) has a caching bug when getElementsByClassName is used while document.readyState is \"loading\""
+    },
+    {
+      "description":"Reported to not work for SVG elements in IE11."
     }
   ],
   "categories":[
