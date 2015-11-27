@@ -26,6 +26,9 @@
     },
     {
       "description":"Safari (OS X and iOS) and Chrome do not support background-size: 100% <height>px; in combination with SVG images, it leaves them at the original size while other browsers stretch the vector image correctly while leaving the height at the specified number of pixels."
+    },
+    {
+      "description":"Android 4.3 browser and below are reported to not support percentages in `background-size`"
     }
   ],
   "categories":[

@@ -46,6 +46,9 @@
     },
     {
       "description":"IE10 in Windows 8 has an issue where localStorage can fail with the error message \"SCRIPT5: Access is denied\" if \"integrity\" settings are not set correctly. [see details](http://stackoverflow.com/a/20848924)"
+    },
+    {
+      "description":"Storing large amounts of data in Safari (on OSX & iOS) can result in freezing the browser [see bug](https://bugs.webkit.org/show_bug.cgi?id=149585)"
     }
   ],
   "categories":[

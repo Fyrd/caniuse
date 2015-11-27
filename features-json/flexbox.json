@@ -60,6 +60,9 @@
     },
     {
       "description":"IE 11 incorrectly focuses a child element if the parent uses `display:flex` and has a tabindex set [see testcase](http://jsbin.com/numibokune/1/edit?html,css,js,console,output)."
+    },
+    {
+      "description":"IE 11 does not vertically align items correctly when `min-height` is used [see bug](https://connect.microsoft.com/IE/feedback/details/816293/ie11-flexbox-with-min-height-not-vertically-aligning-with-align-items-center"
     }
   ],
   "categories":[
@@ -72,8 +75,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a x #2",
-      "11":"y"
+      "10":"a x #2 #4",
+      "11":"a #4"
     },
     "edge":{
       "12":"y",
@@ -280,10 +283,11 @@
   "notes_by_num":{
     "1":"Only supports the [old flexbox](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723) specification and does not support wrapping.",
     "2":"Only supports the [2012 syntax](http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/)",
-    "3":"Does not support flex-wrap or flex-flow properties"
+    "3":"Does not support flex-wrap or flex-flow properties",
+    "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":83.21,
-  "usage_perc_a":12.2,
+  "usage_perc_y":77.02,
+  "usage_perc_a":18.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-basis,display:flex",
