@@ -1,9 +1,13 @@
 {
-  "title":"text-emphasis styling",
+  "title":"text-emphasis property",
   "description":"Method of using small symbols next to each glyph to emphasize a run of text, commonly used in East Asian languages. The `text-emphasis` shorthand, and its `text-emphasis-style` and `text-emphasis-color` longhands, can be used to apply marks to the text. The `text-emphasis-position` property, which inherits separately, allows setting the emphasis marks' position with respect to the text.",
-  "spec":"http://www.w3.org/TR/css-text-decor-3/#text-emphasis",
+  "spec":"https://drafts.csswg.org/css-text-decor-3/#text-emphasis-property",
   "status":"cr",
   "links":[
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis",
+      "title":"Mozilla Developer Network"
+    },
     {
       "url":"https://github.com/zmmbreeze/jquery.emphasis/",
       "title":"A javascript fallback for CSS3 emphasis mark."
@@ -82,7 +86,7 @@
       "42":"n",
       "43":"n",
       "44":"n",
-      "45":"n"
+      "45":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -233,9 +237,10 @@
       "9.9":"a x #1"
     }
   },
-  "notes":"Some old webkit browsers (like Chrome 24) support `-webkit-text-emphasis`, but does not support CJK languages and is therefore considered unsupported.",
+  "notes":"Some old WebKit browsers (like Chrome 24) support `-webkit-text-emphasis`, but does not support CJK languages and is therefore considered unsupported.",
   "notes_by_num":{
-    "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec."
+    "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
+    "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
   "usage_perc_y":9.03,
   "usage_perc_a":60.04,
