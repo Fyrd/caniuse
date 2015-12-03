@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "CSS3"
@@ -127,9 +127,9 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"u",
-      "49":"u",
-      "50":"u"
+      "48":"n",
+      "49":"y #1",
+      "50":"y #1"
     },
     "safari":{
       "3.1":"n",
@@ -233,7 +233,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Must be enable 'chrome://flags/#enable-experimental-web-platform-features' flag"
   },
   "usage_perc_y":8.77,
   "usage_perc_a":0,
