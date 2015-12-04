@@ -1,7 +1,7 @@
 {
   "title":"CSS Variables",
   "description":"Permits the declaration and usage of cascading variables in stylesheets.",
-  "spec":"http://www.w3.org/TR/css-variables/",
+  "spec":"https://drafts.csswg.org/css-variables/",
   "status":"wd",
   "links":[
     {
@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "CSS3"
@@ -127,9 +127,9 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"u",
-      "49":"u",
-      "50":"u"
+      "48":"n",
+      "49":"n d #1",
+      "50":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -233,7 +233,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`"
   },
   "usage_perc_y":8.77,
   "usage_perc_a":0,
