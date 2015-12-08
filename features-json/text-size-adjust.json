@@ -12,9 +12,6 @@
   "bugs":[
     {
       "description":"There is a bug in Webkit-based desktop browsers. If -webkit-text-size-adjust is explicitly set to none, Webkit-based desktop browsers, like Chrome or Safari, instead of ignoring the property, will prevent the user to zoom in or out the Web page."
-    },
-    {
-      "description":"If the viewport in IE Phone is set using <meta> element, the value of the CSS text-size-adjust property is ignored."
     }
   ],
   "categories":[
@@ -225,8 +222,8 @@
       "42":"y x"
     },
     "ie_mob":{
-      "10":"y x",
-      "11":"y x"
+      "10":"y x #1",
+      "11":"y x #1"
     },
     "and_uc":{
       "9.9":"y x"
@@ -234,7 +231,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"If the viewport size is set using a `<meta>` element, the `-ms-text-size-adjust` property is ignored. See [MSDN](https://msdn.microsoft.com/en-us/library/ie/dn793579%28v=vs.85%29.aspx)"
   },
   "usage_perc_y":15.83,
   "usage_perc_a":0,
