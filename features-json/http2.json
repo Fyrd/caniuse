@@ -142,7 +142,7 @@
       "7":"n",
       "7.1":"n",
       "8":"n",
-      "9":"y"
+      "9":"a #2 #3"
     },
     "opera":{
       "9":"n",
@@ -176,7 +176,8 @@
       "32":"y #2",
       "33":"y #2",
       "34":"y #2",
-      "35":"y #2"
+      "35":"y #2",
+      "36":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -187,7 +188,7 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9.0-9.1":"y"
+      "9.0-9.2":"y #2"
     },
     "op_mini":{
       "5.0-8.0":"n"
@@ -218,7 +219,7 @@
       "33":"y #2"
     },
     "and_chr":{
-      "46":"y #2"
+      "47":"y #2"
     },
     "and_ff":{
       "42":"y #2"
@@ -234,10 +235,11 @@
   "notes":"See also support for [the SPDY protocol](http://caniuse.com/#feat=spdy), precursor of HTTP2.",
   "notes_by_num":{
     "1":"Partial support in IE11 refers to being limited to Windows 10.",
-    "2":"Only supports HTTP2 over TLS (https)"
+    "2":"Only supports HTTP2 over TLS (https)",
+    "3":"Partial support in Safari refers to being limited to OSX 10.11+"
   },
-  "usage_perc_y":63.4,
-  "usage_perc_a":6.59,
+  "usage_perc_y":61.96,
+  "usage_perc_a":8.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
