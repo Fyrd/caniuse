@@ -14,7 +14,7 @@
       "description":"In webkit-based browsers first character of text inside elements, styled with `::first-letter`, is not highlighted while selecting the text. [See bug](https://bugs.webkit.org/show_bug.cgi?id=6185)"
     },
     {
-      "description":"Firefox appears to incorrectly cut off the top & bottom of a `::first-letter` character in certain cases [see bug](http://stackoverflow.com/questions/33101151/why-does-firefox-remove-space-above-and-below-the-first-letter-when-floating-fi)"
+      "description":"Firefox appears to incorrectly cut off the top & bottom of a `::first-letter` character in certain cases [see Firefox bug #1233271](https://bugzilla.mozilla.org/show_bug.cgi?id=1233271)"
     }
   ],
   "categories":[
