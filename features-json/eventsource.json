@@ -30,6 +30,9 @@
     },
     {
       "description":"Firefox currently does not support [EventSource in web/shared workers](https://bugzilla.mozilla.org/show_bug.cgi?id=876498)"
+    },
+    {
+      "description": "Antivirus software may block the event streaming data chunks."
     }
   ],
   "categories":[
