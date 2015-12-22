@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Browsers can have differing behavior when HTML CSS properties are set on SVG elements, for example Edge & IE browsers do not respond to the `height` property while Chrome does."
+    }
   ],
   "categories":[
     "SVG"

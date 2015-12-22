@@ -40,7 +40,7 @@
       "description":"The `perspective` property doesn't work on the `body` element in Firefox, it must be used on an inner element."
     },
     {
-      "description":"Chrome has a bug where combining `clip-path` and `backface-visibility` produces [visible noise](https://code.google.com/p/chromium/issues/detail?id=350724)."
+      "description":"Chrome has a (recently fixed) bug where combining `clip-path` and `backface-visibility` produces [visible noise](https://code.google.com/p/chromium/issues/detail?id=350724)."
     },
     {
       "description":"Transforms may break position:fixed styles of contained elements"
