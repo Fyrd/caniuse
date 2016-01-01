@@ -1,9 +1,13 @@
 {
   "title":"Node.innerText",
   "description":"A currently-nonstandard property representing the text within a DOM element and its descendants. As a getter, it approximates the text the user would get if they highlighted the contents of the element with the cursor and then copied to the clipboard.",
-  "spec":"https://msdn.microsoft.com/library/ms533899(v=vs.85).aspx",
+  "spec":"http://rocallahan.github.io/innerText-spec/",
   "status":"unoff",
   "links":[
+    {
+      "url":"https://msdn.microsoft.com/library/ms533899(v=vs.85).aspx",
+      "title":"MSDN documentation"
+    },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Node/innerText",
       "title":"Mozilla Developer Network"
