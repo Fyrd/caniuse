@@ -13,7 +13,7 @@
       "title":"Polyfill for HTML5 forms"
     },
     {
-      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime;input-type-datetime-local",
+      "url":"https://raw.github.com/phiggins42/has.js/master/detect/form.js#input-type-datetime-local",
       "title":"has.js test"
     },
     {
@@ -247,9 +247,9 @@
       "9.9":"y"
     }
   },
-  "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome, Opera, and Microsoft Edge also support the `datetime-local` type for both date and time, but not the `datetime` one.",
+  "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome, Opera, and Microsoft Edge also support the `datetime-local` type for both date and time.\r\n\r\nThere used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336) since only Presto ever fully supported it.",
   "notes_by_num":{
-    "1":"Partial support in Microsoft Edge refers to supporting `date`, `week`, and `month` input types and not `time`, `datetime`, and `datetime-local`.",
+    "1":"Partial support in Microsoft Edge refers to supporting `date`, `week`, and `month` input types, and not `time` and `datetime-local`.",
     "2":"Partial support in iOS Safari refers to not supporting `min`, `max` or `step` attributes",
     "3":"Some modified versions of the Android 4.x browser do have support for date/time fields."
   },
