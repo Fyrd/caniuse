@@ -1,7 +1,7 @@
 {
   "title":"requestAnimationFrame",
   "description":"API allowing a more efficient way of running script-based animation, compared to traditional methods using timeouts. Also covers support for `cancelAnimationFrame`",
-  "spec":"http://www.w3.org/TR/animation-timing/#requestAnimationFrame",
+  "spec":"https://html.spec.whatwg.org/multipage/webappapis.html#animation-frames",
   "status":"cr",
   "links":[
     {
