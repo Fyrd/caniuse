@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"http://trac.webkit.org/changeset/172826",
-      "title":"WebKit bug"
+      "title":"WebKit commit"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1069015",
@@ -145,8 +145,8 @@
       "7":"n",
       "7.1":"n",
       "8":"n",
-      "9":"n",
-      "9.1":"n"
+      "9":"y",
+      "9.1":"y"
     },
     "opera":{
       "9":"n",
@@ -237,7 +237,7 @@
       "9.9":"n"
     }
   },
-  "notes":"For support of styling the actual placeholder text itself, see [CSS ::placeholder](http://caniuse.com/#feat=css-placeholder)\r\n\r\nSupport currently exists in [WebKit Nightly](http://trac.webkit.org/changeset/172826)",
+  "notes":"For support of styling the actual placeholder text itself, see [CSS ::placeholder](http://caniuse.com/#feat=css-placeholder)",
   "notes_by_num":{
     
   },
