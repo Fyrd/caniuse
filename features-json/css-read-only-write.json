@@ -5,6 +5,10 @@
   "status":"ls",
   "links":[
     {
+      "url":"https://drafts.csswg.org/selectors-4/#rw-pseudos",
+      "title":"Selectors Level 4 § The Mutability Pseudo-classes: :read-only and :read-write"
+    },
+    {
       "url":"https://css-tricks.com/almanac/selectors/r/read-write-read/",
       "title":"CSS Tricks article"
     },
@@ -243,7 +247,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Suppports selector only for input and textarea fields, but not for contenteditable"
+    "1":"Supports selector only for input and textarea fields, but not for contenteditable"
   },
   "usage_perc_y":8.13,
   "usage_perc_a":57.58,
