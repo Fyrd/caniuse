@@ -5,10 +5,6 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://drafts.csswg.org/selectors-4/#rw-pseudos",
-      "title":"Selectors Level 4 § The Mutability Pseudo-classes: :read-only and :read-write"
-    },
-    {
       "url":"https://css-tricks.com/almanac/selectors/r/read-write-read/",
       "title":"CSS Tricks article"
     },
@@ -19,6 +15,10 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:read-write",
       "title":"MDN :read-write"
+    },
+    {
+      "url":"https://drafts.csswg.org/selectors-4/#rw-pseudos",
+      "title":"Selectors Level 4 \u00a7 The Mutability Pseudo-classes: :read-only and :read-write"
     }
   ],
   "bugs":[
@@ -216,7 +216,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "46":"a #1"
+      "47":"a #1"
     },
     "bb":{
       "7":"u",
