@@ -5,7 +5,8 @@
     var fs = require('fs');
     var path = __dirname + '/../features-json';
     var sampleData;
-    var statusArr = ['rec', 'pr', 'cr', 'wd', 'ls', 'other', 'unoff'];
+    var w3cStatusArr = ['rec', 'pr', 'cr', 'wd'];
+    var statusArr = w3cStatusArr.concat(['ls', 'other', 'unoff']);
     var categoryArr = ['HTML5', 'CSS', 'CSS2', 'CSS3', 'SVG', 'PNG', 'JS API', 'Canvas', 'DOM', 'Other'];
     // Support string MUST have one of these (optionally others)
     var supportValues = ['y', 'a', 'n', 'u', 'p'];
@@ -39,7 +40,7 @@
                 // IP address dotted notation octets
                 // excludes loopback network 0.0.0.0
                 // excludes reserved space >= 224.0.0.0
-                // excludes network & broacast addresses
+                // excludes network & broadcast addresses
                 // (first & last IP address of each class)
                 "(?:[1-9]\\d?|1\\d\\d|2[01]\\d|22[0-3])" +
                 "(?:\\.(?:1?\\d{1,2}|2[0-4]\\d|25[0-5])){2}" +
@@ -172,6 +173,14 @@
             }
         };
 
+        this.validateStatusOfSpec = function () {
+            if (/^https?:\/\/(?:[^.]+)\.spec\.whatwg\.org\//.test(data.spec)) {
+                if (w3cStatusArr.indexOf(data.status) > -1) {
+                    this.throwError('W3C status "' + data.status + '" not valid for WHATWG spec "' + data.spec + '"')
+                }
+            }
+        };
+
         this.validateKeys = function(parentKey, refObject, object) {
             for( var key in object ) {
                 if( !(key in refObject) ) {
@@ -212,6 +221,7 @@
             this.validate('description', ['isString']);
             this.validate('spec', ['isString', 'isURL']);
             this.validate('status', ['isString', 'isStatus']);
+            this.validateStatusOfSpec();
             this.validate('links', ['isArray', [{
                         url: ['isString', 'isURL'],
                         title: ['isString']
