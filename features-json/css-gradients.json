@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"IE10 doesn't support using viewport unit (`vw`, `vh`) for color-stop position in `linear-gradient()`."
+    }
   ],
   "categories":[
     "CSS3"
