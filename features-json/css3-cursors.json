@@ -12,6 +12,9 @@
   "bugs":[
     {
       "description":"Firefox/Mac, Safari/Mac, Chrome/Mac don't support PNG and JPG cursors (tested with 48px cursors).\r\nIE only supports cursors in the CUR format."
+    },
+    {
+      "description":"IE does not support Data URIs as cursor values"
     }
   ],
   "categories":[
