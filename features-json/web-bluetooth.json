@@ -134,11 +134,11 @@
       "42":"n",
       "43":"n",
       "44":"n",
-      "45":"a #1",
-      "46":"a #1",
-      "47":"a #1",
-      "48":"a #1",
-      "49":"a #1",
+      "45":"n d #1",
+      "46":"n d #1",
+      "47":"n d #1",
+      "48":"n d #1",
+      "49":"n d #1",
       "50":"u",
       "51":"u"
     },
@@ -232,7 +232,7 @@
       "33":"n"
     },
     "and_chr":{
-      "47":"u"
+      "47":"n d #1"
     },
     "and_ff":{
       "44":"n"
@@ -247,10 +247,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available by enabling the \"Web Bluetooth\" experimental flag in `about:flags`"
+    "1":"Available by enabling the \"Web Bluetooth\" experimental flag in `about:flags`. Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":27.51,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"bluetooth,ble,iot,physicalweb,webbluetooth",
@@ -258,5 +258,5 @@
   "chrome_id":"5264933985976320",
   "firefox_id":"web-bluetooth",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }

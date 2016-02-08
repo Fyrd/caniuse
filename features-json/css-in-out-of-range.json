@@ -27,8 +27,8 @@
     },
     "edge":{
       "12":"n",
-      "13":"u",
-      "14":"u"
+      "13":"y",
+      "14":"y"
     },
     "firefox":{
       "2":"n",
@@ -81,7 +81,7 @@
       "47":"y"
     },
     "chrome":{
-      "4":"u",
+      "4":"n",
       "5":"u",
       "6":"u",
       "7":"u",
@@ -92,17 +92,17 @@
       "12":"u",
       "13":"u",
       "14":"u",
-      "15":"u",
-      "16":"u",
-      "17":"u",
-      "18":"u",
-      "19":"u",
-      "20":"u",
-      "21":"u",
-      "22":"u",
-      "23":"u",
-      "24":"u",
-      "25":"u",
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y",
+      "24":"y",
+      "25":"y",
       "26":"y",
       "27":"y",
       "28":"y",
@@ -147,12 +147,12 @@
     "opera":{
       "9":"u",
       "9.5-9.6":"u",
-      "10.0-10.1":"u",
-      "10.5":"u",
-      "10.6":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
+      "10.0-10.1":"y",
+      "10.5":"y",
+      "10.6":"y",
+      "11":"y",
+      "11.1":"y",
+      "11.5":"y",
       "11.6":"y",
       "12":"y",
       "12.1":"y",
@@ -180,9 +180,9 @@
       "36":"y"
     },
     "ios_saf":{
-      "3.2":"u",
-      "4.0-4.1":"u",
-      "4.2-4.3":"u",
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
       "5.0-5.1":"y",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
@@ -192,13 +192,13 @@
       "9.3":"y"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"a #1"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
       "4":"y",
       "4.1":"y",
       "4.2-4.3":"y",
@@ -207,17 +207,17 @@
       "47":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"y"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "33":"u"
+      "10":"y",
+      "11":"y",
+      "11.1":"y",
+      "11.5":"y",
+      "12":"y",
+      "12.1":"y",
+      "33":"y"
     },
     "and_chr":{
       "47":"y"
@@ -226,19 +226,19 @@
       "44":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y"
     }
   },
   "notes":"Note that `<input type=\"range\">` can never match `:out-of-range` because the user cannot input such a value, and if the initial value is outside the range, the browser immediately clamps it to the minimum or maximum (as appropriate) bound of the range.",
   "notes_by_num":{
-    
+    "1":"Opera Mini correctly applies style on initial load, but does not correctly update when value is changed."
   },
-  "usage_perc_y":72.53,
-  "usage_perc_a":0,
+  "usage_perc_y":81.77,
+  "usage_perc_a":4.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"in,out,of,range,:in-range,:out-of-range",
@@ -246,5 +246,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
