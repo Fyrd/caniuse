@@ -1,8 +1,8 @@
 {
   "title":"Basic console logging functions",
   "description":"Method of outputting data to the browser's console, intended for development purposes.",
-  "spec":"https://github.com/DeveloperToolsWG/console-object/blob/master/api.md",
-  "status":"unoff",
+  "spec":"https://console.spec.whatwg.org/",
+  "status":"ls",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Console",
@@ -15,6 +15,10 @@
     {
       "url":"https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Console/Console.html",
       "title":"Safari console reference"
+    },
+    {
+        "url":"https://msdn.microsoft.com/en-us/library/hh772169",
+        "title":"Edge/Internet Explorer console reference"
     }
   ],
   "bugs":[
