@@ -29,6 +29,9 @@
     },
     {
       "description":"The \"progress\" event is reported to not work in Chrome for iOS "
+    },
+    {
+      "description":"In Internet Explorer the `timeout` property may only be set after calling `open` and before calling `send`."
     }
   ],
   "categories":[
