@@ -51,6 +51,9 @@
       "description":"In Safari 8, after setting `event.dataTransfer.dropEffect`, the value in the `drop` event is always `'none'`"
     },
     {
+      "description":"Safari doesn't implement the `DragEvent` interface. It adds a `dataTransfer` property to `MouseEvent` instead. See [WebKit bug #103423](https://bugs.webkit.org/show_bug.cgi?id=103423)."
+    },
+    {
       "description":"Chrome strips out newlines from `text/uri-list` [see bug](https://code.google.com/p/chromium/issues/detail?id=239745)"
     },
     {
