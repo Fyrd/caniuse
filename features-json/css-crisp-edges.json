@@ -1,6 +1,6 @@
 {
   "title":"Crisp edges/pixelated images",
-  "description":"Forces images to be scaled with an algorithm that preserves contrast and edges in the image, without smoothing colors or introduce blur. This is intended for images such as pixel art. Official values that accomplish this for the `image-rendering` property are `crisp-edges` and `pixelated`.",
+  "description":"Scales images with an algorithm that preserves edges and contrast, without smoothing colors or introducing blur. This is intended for images such as pixel art. Official values that accomplish this for the `image-rendering` property are `crisp-edges` and `pixelated`.",
   "spec":"http://dev.w3.org/csswg/css-images-3/#valdef-image-rendering-crisp-edges",
   "status":"unoff",
   "links":[
