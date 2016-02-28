@@ -134,13 +134,13 @@
       "38":"n",
       "39":"n",
       "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
+      "41":"n d #3",
+      "42":"n d #3",
+      "43":"n d #3",
+      "44":"n d #3",
+      "45":"n d #3",
+      "46":"n d #3",
+      "47":"n d #3",
       "48":"n d #2",
       "49":"n d #2",
       "50":"n d #2",
@@ -239,7 +239,7 @@
       "47":"n"
     },
     "and_ff":{
-      "44":"n"
+      "44":"a #1 #4"
     },
     "ie_mob":{
       "10":"n",
@@ -252,7 +252,9 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in Firefox refers to being limited to context menus, not toolbar menus.",
-    "2":"Context menus supported in Chrome under the \"Experimental Web Platform features\" flag"
+    "2":"Context menus supported in Chrome under the \"Experimental Web Platform features\" flag",
+    "3":"Context menus with a non-compliant syntax (`type=popup`) supported in Chrome under the \"Experimental Web Platform features\" flag",
+    "4":"Nested menus are not supported"
   },
   "usage_perc_y":0,
   "usage_perc_a":8.73,
