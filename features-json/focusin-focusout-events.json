@@ -18,6 +18,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "DOM"
@@ -242,8 +243,9 @@
   },
   "notes":"In browsers that don't support these events, one alternative is to use a capture phase event listener for the `focus` and/or `blur` events.",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":74.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -252,5 +254,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }
