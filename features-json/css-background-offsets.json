@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Safari 8 [has a bug](https://discussions.apple.com/thread/6679022) with bottom-positioned values `background-attachment: fixed;`"
+    },
+    {
+      "description":"Transitions to `background-position` using edge offsets in Safari requires you to set edge offsets to zero if transitioning from no offset positions.\r\nE.g. for `background-position: right bottom` ; to `background-position: right 5px bottom 5px;`\r\nSafari requires `background-position: right 0 bottom 0;`"
     }
   ],
   "categories":[
@@ -251,6 +254,6 @@
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
-  "webkit_id":"",
+  "webkit_id":"feature-asm.js",
   "shown":true
 }
