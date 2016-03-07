@@ -84,7 +84,7 @@
       "44":"a #1",
       "45":"a #1",
       "46":"a #1",
-      "47":"a #1"
+      "47":"a #1 #3"
     },
     "chrome":{
       "4":"n",
@@ -244,7 +244,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to only supporting the `url()` syntax.",
-    "2":"Partial support refers to supporting shapes and the `url(#foo)` syntax for inline SVG, but not shapes in external SVGs."
+    "2":"Partial support refers to supporting shapes and the `url(#foo)` syntax for inline SVG, but not shapes in external SVGs.",
+    "3":"Supports shapes behind the `layout.css.clip-path-shapes.enabled` flag"
   },
   "usage_perc_y":0,
   "usage_perc_a":71.15,
