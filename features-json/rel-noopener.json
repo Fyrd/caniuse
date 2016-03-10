@@ -17,7 +17,9 @@
       "title":"WebKit/Safari issue"
     }
   ],
-  "bugs":[],
+  "bugs":[
+    
+  ],
   "categories":[
     "DOM",
     "HTML5"
@@ -244,16 +246,16 @@
   },
   "notes":"",
   "notes_by_num":{
-
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.25,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"rel,relation,link,security",
-  "shown":true,
   "ie_id":"",
   "chrome_id":"5651874132787200",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }
