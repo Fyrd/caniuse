@@ -26,9 +26,6 @@
       "description":"In Firefox, the property `column-span` (or `-moz-column-span`) does not yet work. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=616436)."
     },
     {
-      "description":"In Chrome, the `-webkit-column-count` directive does not yet work with print stylesheets. See the [following bug in Chromium](https://code.google.com/p/chromium/issues/detail?id=99358)."
-    },
-    {
       "description":"Chrome is reported to incorrectly calculate the container height, and often breaks on margins, padding, and can display 1px of the next column at the bottom of the previous column. Part of these issues can be solved by adding `-webkit-perspective:1;` to the column container. This creates a new stacking context for the container, and apparently causes chrome to (re)calculate column layout.\r\n"
     },
     {
