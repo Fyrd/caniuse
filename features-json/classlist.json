@@ -30,7 +30,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Opera (Presto) has `classList` support on SVG elements, but not on MathML elements."
+    }
   ],
   "categories":[
     "DOM",
@@ -175,10 +177,10 @@
       "10.6":"p",
       "11":"p",
       "11.1":"p",
-      "11.5":"a #2 #3",
-      "11.6":"a #2 #3",
-      "12":"a #2 #3",
-      "12.1":"a #2 #3",
+      "11.5":"a #1 #2 #3",
+      "11.6":"a #1 #2 #3",
+      "12":"a #1 #2 #3",
+      "12.1":"a #1 #2 #3",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -237,10 +239,10 @@
     "op_mob":{
       "10":"p",
       "11":"p",
-      "11.1":"a #2 #3",
-      "11.5":"a #2 #3",
-      "12":"a #2 #3",
-      "12.1":"a #2 #3",
+      "11.1":"a #1 #2 #3",
+      "11.5":"a #1 #2 #3",
+      "12":"a #1 #2 #3",
+      "12.1":"a #1 #2 #3",
       "33":"y"
     },
     "and_chr":{
@@ -259,7 +261,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Does not have support for `classList` on SVG elements.",
+    "1":"Does not have support for `classList` on SVG or MathML elements.",
     "2":"Does not support the second parameter for the `toggle` method",
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods"
   },
