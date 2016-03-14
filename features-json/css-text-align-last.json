@@ -182,9 +182,9 @@
       "32":"n d #3",
       "33":"n d #3",
       "34":"y",
-      "35":"n d #3",
-      "36":"n d #3",
-      "37":"n d #3"
+      "35":"y",
+      "36":"y",
+      "37":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -224,13 +224,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "33":"n"
+      "35":"n"
     },
     "and_chr":{
       "49":"y"
     },
     "and_ff":{
-      "44":"y x"
+      "45":"y x"
     },
     "ie_mob":{
       "10":"a #1",
@@ -246,7 +246,7 @@
     "2":"Enabled through the \"Enable Experimental Web Platform Features\" flag in chrome://flags",
     "3":"Enabled through the \"Enable Experimental Web Platform Features\" flag in opera://flags"
   },
-  "usage_perc_y":53.95,
+  "usage_perc_y":54.52,
   "usage_perc_a":10.21,
   "ucprefix":false,
   "parent":"",

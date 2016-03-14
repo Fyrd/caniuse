@@ -89,7 +89,7 @@
       "42":"p d #2",
       "43":"p d #2",
       "44":"p d #2",
-      "45":"a #2",
+      "45":"p d #2",
       "46":"a #2",
       "47":"a #2",
       "48":"a #2"
@@ -233,13 +233,13 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "33":"p"
+      "35":"p"
     },
     "and_chr":{
       "49":"p"
     },
     "and_ff":{
-      "44":"p"
+      "45":"p"
     },
     "ie_mob":{
       "10":"a x",
@@ -255,7 +255,7 @@
     "2":"Firefox support is disabled by default and [only supports mouse input](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/). On Windows only, touch can be enabled with the `layers.async-pan-zoom.enabled` and `dom.w3c_touch_events.enabled` flags"
   },
   "usage_perc_y":7.85,
-  "usage_perc_a":1,
+  "usage_perc_a":0.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",

@@ -1,5 +1,5 @@
 {
-  "title":"CSS Variables",
+  "title":"CSS Variables (Custom Properties)",
   "description":"Permits the declaration and usage of cascading variables in stylesheets.",
   "spec":"https://drafts.csswg.org/css-variables/",
   "status":"wd",
@@ -182,9 +182,9 @@
       "32":"n",
       "33":"n",
       "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n"
+      "35":"n d #1",
+      "36":"y",
+      "37":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -224,13 +224,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "33":"n"
+      "35":"n"
     },
     "and_chr":{
       "49":"y"
     },
     "and_ff":{
-      "44":"y"
+      "45":"y"
     },
     "ie_mob":{
       "10":"n",

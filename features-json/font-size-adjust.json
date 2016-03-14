@@ -181,14 +181,14 @@
       "27":"n",
       "28":"n",
       "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n"
+      "30":"n d #1",
+      "31":"n d #1",
+      "32":"n d #1",
+      "33":"n d #1",
+      "34":"n d #1",
+      "35":"n d #1",
+      "36":"n d #1",
+      "37":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -228,13 +228,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "33":"n"
+      "35":"n"
     },
     "and_chr":{
       "49":"n"
     },
     "and_ff":{
-      "44":"n #2"
+      "45":"n #2"
     },
     "ie_mob":{
       "10":"n",
@@ -246,7 +246,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
   "usage_perc_y":8.91,

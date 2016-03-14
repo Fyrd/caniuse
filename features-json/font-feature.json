@@ -155,11 +155,11 @@
       "45":"y x",
       "46":"y x",
       "47":"y x",
-      "48":"y #3",
-      "49":"y #3",
-      "50":"y #3",
-      "51":"y #3",
-      "52":"y #3"
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y"
     },
     "safari":{
       "3.1":"n",
@@ -207,9 +207,9 @@
       "32":"y x",
       "33":"y x",
       "34":"y x",
-      "35":"y x",
-      "36":"y x",
-      "37":"y x"
+      "35":"y",
+      "36":"y",
+      "37":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -249,13 +249,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "33":"y x"
+      "35":"y"
     },
     "and_chr":{
       "49":"y x"
     },
     "and_ff":{
-      "44":"y"
+      "45":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -268,8 +268,7 @@
   "notes":"Whenever possible, font-variant shorthand property or an associated longhand property, font-variant-ligatures, font-variant-caps, font-variant-east-asian, font-variant-alternates, font-variant-numeric or font-variant-position should be used. This property is a low-level feature designed to handle special cases where no other way to enable or access an OpenType font feature exists. In particular, this CSS property shouldn't be used to enable small caps.",
   "notes_by_num":{
     "1":"From Gecko 2.0 (Firefox 4.0) to Gecko 14.0 (Firefox 14.0) included, Gecko supported an older syntax, slightly different from the modern one: http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
-    "2":"Partial support in older Chrome versions refers to lacking support in Mac OS X.",
-    "3":"See also bug: https://code.google.com/p/chromium/issues/detail?id=537293"
+    "2":"Partial support in older Chrome versions refers to lacking support in Mac OS X."
   },
   "usage_perc_y":77.56,
   "usage_perc_a":0.43,
