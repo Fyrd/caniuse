@@ -252,13 +252,13 @@
       "9.9":"n"
     }
   },
-  "notes":"Supported in WebKit Nightly with `-webkit-` prefix.",
+  "notes":"Supported in WebKit Nightly with `-webkit-` prefix.\r\n\r\nEnabled by default in Firefox nightly and developer editions, but not yet on track to be enabled in beta or stable Firefox.",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
     "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag"
   },
-  "usage_perc_y":0.13,
+  "usage_perc_y":0,
   "usage_perc_a":8.63,
   "ucprefix":false,
   "parent":"",
