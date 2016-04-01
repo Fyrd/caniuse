@@ -188,7 +188,8 @@
       "34":"y",
       "35":"y",
       "36":"y",
-      "37":"y"
+      "37":"y",
+      "38":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -228,13 +229,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "35":"n"
+      "36":"y"
     },
     "and_chr":{
       "49":"y"
     },
     "and_ff":{
-      "45":"n"
+      "45":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -248,11 +249,11 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":54.71,
+  "usage_perc_y":54.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"security,header",
+  "keywords":"security,header,uir",
   "ie_id":"upgradeinsecureresourcerequests",
   "chrome_id":"6534575509471232",
   "firefox_id":"",
