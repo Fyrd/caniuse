@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"While the `time` and `data` elements can be used and work fine in all browsers, currently only Firefox recognize them officially as `HTMLTimeElement` and `HTMLDataElement` objects."
+      "description":"While the `time` and `data` elements can be used and work fine in all browsers, currently only Firefox and Edge 14+ recognize them officially as `HTMLTimeElement` and `HTMLDataElement` objects."
     }
   ],
   "categories":[
