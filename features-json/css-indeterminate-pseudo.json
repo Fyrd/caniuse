@@ -217,7 +217,7 @@
       "9.3":"a #1"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"a #3"
     },
     "android":{
       "2.1":"u",
@@ -233,7 +233,7 @@
     },
     "bb":{
       "7":"u",
-      "10":"u"
+      "10":"a #1"
     },
     "op_mob":{
       "10":"u",
@@ -241,8 +241,8 @@
       "11.1":"u",
       "11.5":"u",
       "12":"u",
-      "12.1":"u",
-      "36":"u"
+      "12.1":"a #3",
+      "36":"y"
     },
     "and_chr":{
       "49":"y"
@@ -251,11 +251,11 @@
       "45":"a #1"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"a #1",
+      "11":"a #1"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"y"
     }
   },
   "notes":"",
@@ -264,8 +264,8 @@
     "2":"Doesn't support the `<progress>` element",
     "3":"Doesn't match indeterminate `<progress>` bars"
   },
-  "usage_perc_y":47.16,
-  "usage_perc_a":31.28,
+  "usage_perc_y":56.14,
+  "usage_perc_a":36.96,
   "ucprefix":false,
   "parent":"",
   "keywords":":indeterminate,indeterminate",

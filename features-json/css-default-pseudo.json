@@ -213,7 +213,7 @@
       "9.3":"a #1"
     },
     "op_mini":{
-      "5.0-8.0":"u"
+      "5.0-8.0":"a #2"
     },
     "android":{
       "2.1":"u",
@@ -229,7 +229,7 @@
     },
     "bb":{
       "7":"u",
-      "10":"u"
+      "10":"a #1"
     },
     "op_mob":{
       "10":"u",
@@ -237,8 +237,8 @@
       "11.1":"u",
       "11.5":"u",
       "12":"u",
-      "12.1":"u",
-      "36":"u"
+      "12.1":"a #2",
+      "36":"a #1"
     },
     "and_chr":{
       "49":"a #1"
@@ -247,11 +247,11 @@
       "45":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"a #1"
     }
   },
   "notes":"Whether `<option selected>` matches `:default` (per the spec) was not tested since `<select>`s and `<option>`s are generally not styleable, which makes it hard to formulate a test for this.",
@@ -260,7 +260,7 @@
     "2":"Does not match the default submit button of a form"
   },
   "usage_perc_y":8.5,
-  "usage_perc_a":63.04,
+  "usage_perc_a":76.95,
   "ucprefix":false,
   "parent":"",
   "keywords":":default,default",
