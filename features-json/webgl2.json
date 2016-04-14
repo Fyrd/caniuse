@@ -14,6 +14,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "Canvas"
@@ -133,7 +134,8 @@
       "49":"u",
       "50":"u",
       "51":"u",
-      "52":"a #3"
+      "52":"a #3",
+      "53":"a #3"
     },
     "safari":{
       "3.1":"n",
@@ -248,7 +250,7 @@
     "3":"Can be enabled in Chrome by passing the \"--enable-unsafe-es3-apis\" flag when starting the browser through the command line"
   },
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":8.05,
   "ucprefix":false,
   "parent":"canvas",
   "keywords":"web gl",
