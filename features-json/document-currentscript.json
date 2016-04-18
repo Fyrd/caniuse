@@ -1,19 +1,19 @@
 {
-  "title":"KeyboardEvent.location",
-  "description":"A `KeyboardEvent` property that indicates the location of the key on the input device. Useful when there are more than one physical key for the same logical key (e.g. left or right \"Control\" key; main or numpad \"1\" key).",
-  "spec":"http://www.w3.org/TR/uievents/#widl-KeyboardEvent-location",
-  "status":"wd",
+  "title":"document.currentScript",
+  "description":"`document.currentScript` returns the `<script>` element whose script is currently being processed.",
+  "spec":"https://html.spec.whatwg.org/multipage/dom.html#dom-document-currentscript",
+  "status":"ls",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/location",
-      "title":"Mozilla Developer Network"
+      "url":"https://github.com/JamesMGreene/document.currentScript",
+      "title":"Polyfill (IE 6-10 only)"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -21,9 +21,9 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "9":"n",
+      "10":"n",
+      "11":"n"
     },
     "edge":{
       "12":"y",
@@ -35,17 +35,17 @@
       "3":"n",
       "3.5":"n",
       "3.6":"n",
-      "4":"n",
-      "5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"n",
-      "9":"n",
-      "10":"n",
-      "11":"n",
-      "12":"n",
-      "13":"n",
-      "14":"n",
+      "4":"y",
+      "5":"y",
+      "6":"y",
+      "7":"y",
+      "8":"y",
+      "9":"y",
+      "10":"y",
+      "11":"y",
+      "12":"y",
+      "13":"y",
+      "14":"y",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -82,32 +82,32 @@
       "48":"y"
     },
     "chrome":{
-      "4":"a #1",
-      "5":"a #1",
-      "6":"a #1",
-      "7":"a #1",
-      "8":"a #1",
-      "9":"a #1",
-      "10":"a #1",
-      "11":"a #1",
-      "12":"a #1",
-      "13":"a #1",
-      "14":"a #1",
-      "15":"a #1",
-      "16":"a #1",
-      "17":"a #1",
-      "18":"a #1",
-      "19":"a #1",
-      "20":"a #1",
-      "21":"a #1",
-      "22":"a #1",
-      "23":"a #1",
-      "24":"a #1",
-      "25":"a #1",
-      "26":"a #1",
-      "27":"a #1",
-      "28":"a #1",
-      "29":"a #1",
+      "4":"n",
+      "5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"y",
       "30":"y",
       "31":"y",
       "32":"y",
@@ -134,15 +134,15 @@
       "53":"y"
     },
     "safari":{
-      "3.1":"u",
-      "3.2":"u",
-      "4":"a #1",
-      "5":"a #1",
-      "5.1":"a #1",
-      "6":"u",
-      "6.1":"y",
-      "7":"y",
-      "7.1":"y",
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"n",
+      "6.1":"n",
+      "7":"n",
+      "7.1":"n",
       "8":"y",
       "9":"y",
       "9.1":"y",
@@ -158,10 +158,10 @@
       "11.1":"n",
       "11.5":"n",
       "11.6":"n",
-      "12":"u",
-      "12.1":"y",
-      "15":"a #1",
-      "16":"a #1",
+      "12":"n",
+      "12.1":"n",
+      "15":"n",
+      "16":"y",
       "17":"y",
       "18":"y",
       "19":"y",
@@ -186,12 +186,12 @@
       "38":"y"
     },
     "ios_saf":{
-      "3.2":"u",
-      "4.0-4.1":"u",
-      "4.2-4.3":"u",
-      "5.0-5.1":"a #1",
-      "6.0-6.1":"a #1",
-      "7.0-7.1":"a #1",
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6.0-6.1":"n",
+      "7.0-7.1":"n",
       "8":"y",
       "8.1-8.4":"y",
       "9.0-9.2":"y",
@@ -201,28 +201,28 @@
       "5.0-8.0":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"a #1",
-      "3":"a #1",
-      "4":"a #1",
-      "4.1":"a #1",
-      "4.2-4.3":"a #1",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
       "47":"y"
     },
     "bb":{
-      "7":"a #1",
-      "10":"a #1"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
       "11":"n",
       "11.1":"n",
       "11.5":"n",
-      "12":"u",
-      "12.1":"y",
+      "12":"n",
+      "12.1":"n",
       "36":"y"
     },
     "and_chr":{
@@ -232,22 +232,22 @@
       "45":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
-      "9.9":"a #1"
+      "9.9":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only supports `KeyboardEvent.keyLocation` from an older draft of the DOM Level 3 Events spec instead."
+    
   },
-  "usage_perc_y":77.71,
-  "usage_perc_a":11.71,
+  "usage_perc_y":70.57,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"keyboard,event,key,location,keyLocation,numpad",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
