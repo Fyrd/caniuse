@@ -10,10 +10,12 @@
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=418039",
-      "title":"Mozilla Bug 418039 - Implement the :has() pseudo class"
+      "title":"Firefox support bug"
     }
   ],
-  "bugs":[],
+  "bugs":[
+    
+  ],
   "categories":[
     "CSS"
   ],
@@ -243,15 +245,16 @@
   },
   "notes":"",
   "notes_by_num":{
+    
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"children,parent,selector",
-  "shown":false,
   "ie_id":"cssrelationalpseudoclasshas",
   "chrome_id":"",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":true
 }
