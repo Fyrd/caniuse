@@ -245,8 +245,8 @@
     "1":"Opera Mini correctly applies style on initial load, but does not correctly update when value is changed.",
     "2":"`:in-range` also incorrectly matches temporal and `number` inputs which don't have `min` or `max` attributes. See [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=603268), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156558), [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7200501/)."
   },
-  "usage_perc_y":7.99,
-  "usage_perc_a":78.22,
+  "usage_perc_y":7.85,
+  "usage_perc_a":78.61,
   "ucprefix":false,
   "parent":"",
   "keywords":"in,out,of,range,:in-range,:out-of-range",
