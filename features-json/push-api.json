@@ -133,10 +133,10 @@
       "47":"a #1 #2",
       "48":"a #1 #2",
       "49":"a #1 #2",
-      "50":"a #2",
-      "51":"a #2",
-      "52":"a #2",
-      "53":"a #2"
+      "50":"y #2",
+      "51":"y #2",
+      "52":"y #2",
+      "53":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -187,9 +187,9 @@
       "34":"n",
       "35":"n",
       "36":"n",
-      "37":"a #2",
-      "38":"a #2",
-      "39":"a #2"
+      "37":"u",
+      "38":"u",
+      "39":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -232,7 +232,7 @@
       "36":"n"
     },
     "and_chr":{
-      "50":"a #1"
+      "50":"y #2"
     },
     "and_ff":{
       "46":"n"
@@ -250,8 +250,8 @@
     "1":"Partial support refers to not supporting `PushEvent.data` and `PushMessageData`",
     "2":"Requires browser to be running to receive messages"
   },
-  "usage_perc_y":6.48,
-  "usage_perc_a":45.6,
+  "usage_perc_y":25.61,
+  "usage_perc_a":26.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"push notifications",
