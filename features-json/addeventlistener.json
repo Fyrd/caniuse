@@ -1,6 +1,6 @@
 {
   "title":"EventTarget.addEventListener()",
-  "description":"The modern standard API for adding DOM event handlers. Introduced in the DOM Level 2 Events spec. Also implies support for the [capture phase](https://dom.spec.whatwg.org/#dom-event-capturing_phase) of DOM event dispatch.",
+  "description":"The modern standard API for adding DOM event handlers. Introduced in the DOM Level 2 Events spec. Also implies support for the [capture phase](https://dom.spec.whatwg.org/#dom-event-capturing_phase) of DOM event dispatch and `preventDefault()`.",
   "spec":"https://dom.spec.whatwg.org/#dom-eventtarget-addeventlistener",
   "status":"ls",
   "links":[
@@ -220,7 +220,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "47":"y"
+      "50":"y"
     },
     "bb":{
       "7":"y",
