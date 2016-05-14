@@ -1,8 +1,8 @@
 {
   "title":"Scoped CSS",
-  "description":"Allows CSS rules to be scoped to part of the document, based on the position of the style element.",
-  "spec":"https://html.spec.whatwg.org/multipage/semantics.html#attr-style-scoped",
-  "status":"ls",
+  "description":"Allows CSS rules to be scoped to part of the document, based on the position of the style element. The attribute has been [removed from the current specification](https://github.com/whatwg/html/issues/552).",
+  "spec":"https://www.w3.org/TR/html51/document-metadata.html#element-attrdef-style-scoped",
+  "status":"unoff",
   "links":[
     {
       "url":"https://github.com/PM5544/scoped-polyfill",
