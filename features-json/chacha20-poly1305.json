@@ -5,16 +5,16 @@
   "status":"other",
   "links":[
     {
-        "url": "https://security.googleblog.com/2014/04/speeding-up-and-strengthening-https.html",
+      "url":"https://security.googleblog.com/2014/04/speeding-up-and-strengthening-https.html",
       "title":"Chrome article"
     },
     {
-      "url": "https://www.ssllabs.com/ssltest/viewMyClient.html",
-      "title": "SSL/TLS Capabilities of Your Browser by Qualys SSL Labs"
+      "url":"https://www.ssllabs.com/ssltest/viewMyClient.html",
+      "title":"SSL/TLS Capabilities of Your Browser by Qualys SSL Labs"
     },
     {
-        "url": "https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/12300414-support-chacha20-poly1305-cipher-suites-in-edge-sc",
-        "title": "Microsoft Edge feature request on UserVoice"
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/12300414-support-chacha20-poly1305-cipher-suites-in-edge-sc",
+      "title":"Microsoft Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -251,16 +251,16 @@
   },
   "notes":"",
   "notes_by_num":{
-      "1": "Old versions of Chrome use non-standard code points for ChaCha20-Poly1305 cipher suites."
+    "1":"Old versions of Chrome use non-standard code points for ChaCha20-Poly1305 cipher suites."
   },
-  "usage_perc_y":0,
+  "usage_perc_y":47.49,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"chacha20,poly1305,tls,cipher",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"5355238106071040",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }
