@@ -144,8 +144,8 @@
       "49":"p",
       "50":"p",
       "51":"p",
-      "52":"p",
-      "53":"p"
+      "52":"p d #3",
+      "53":"p d #3"
     },
     "safari":{
       "3.1":"n",
@@ -198,7 +198,7 @@
       "36":"p",
       "37":"p",
       "38":"p",
-      "39":"p"
+      "39":"p d #3"
     },
     "ios_saf":{
       "3.2":"p",
@@ -257,7 +257,8 @@
   "notes":"Firefox, starting with version 28, provides the 'dom.w3c_pointer_events.enabled' flag to support this specification.",
   "notes_by_num":{
     "1":"Partial support in IE10 refers the lack of pointerenter and pointerleave events.",
-    "2":"Firefox support is disabled by default and [only supports mouse input](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/). On Windows only, touch can be enabled with the `layers.async-pan-zoom.enabled` and `dom.w3c_touch_events.enabled` flags"
+    "2":"Firefox support is disabled by default and [only supports mouse input](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/). On Windows only, touch can be enabled with the `layers.async-pan-zoom.enabled` and `dom.w3c_touch_events.enabled` flags",
+    "3":"Can be enabled with the `#enable-pointer-events` flag."
   },
   "usage_perc_y":7.06,
   "usage_perc_a":0.85,

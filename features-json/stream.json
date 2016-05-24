@@ -251,9 +251,9 @@
       "9.9":"a x #1"
     }
   },
-  "notes":"",
+  "notes":"As of Chrome 47, the getUserMedia API cannot be called from insecure origins.",
   "notes_by_num":{
-    "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740). Instead you need to convert a `MediaStream` object using `UR"
+    "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740)."
   },
   "usage_perc_y":9.34,
   "usage_perc_a":58.1,
