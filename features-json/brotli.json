@@ -133,7 +133,7 @@
       "47":"n",
       "48":"n",
       "49":"n d #1",
-      "50":"n d #1",
+      "50":"y #2",
       "51":"y",
       "52":"y",
       "53":"y",
@@ -217,7 +217,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "50":"n"
+      "50":"y #2"
     },
     "bb":{
       "7":"n",
@@ -233,7 +233,7 @@
       "36":"n"
     },
     "and_chr":{
-      "50":"n"
+      "50":"y #2"
     },
     "and_ff":{
       "46":"y"
@@ -248,7 +248,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Chrome and Opera behind the 'Brotli Content-Encoding' flag"
+    "1":"Supported in Chrome and Opera behind the 'Brotli Content-Encoding' flag",
+    "2":"Enabled since 27 May 2016"
   },
   "usage_perc_y":6.97,
   "usage_perc_a":0,
