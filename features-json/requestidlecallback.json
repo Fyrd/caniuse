@@ -1,7 +1,7 @@
 {
   "title":"requestIdleCallback",
   "description":"API allowing the execution of JavaScript to be queued to run in idle browser time, either at the end of a frame or when the user is inactive. Also covers support for `cancelIdleCallback`. The API has similarities with `requestAnimationFrame`.",
-  "spec":"https://www.w3.org/TR/requestidlecallback/",
+  "spec":"https://w3c.github.io/requestidlecallback/",
   "status":"wd",
   "links":[
     {
@@ -36,7 +36,7 @@
     "edge":{
       "12":"n",
       "13":"n",
-      "14":"n"
+      "14":"u"
     },
     "firefox":{
       "2":"n",
@@ -263,5 +263,5 @@
   "chrome_id":"5572795866021888",
   "firefox_id":"request-idle-callback",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
