@@ -91,7 +91,7 @@
       "46":"y #3 #4",
       "47":"y #3 #4",
       "48":"y #3 #4",
-      "49":"y #3 #4"
+      "49":"y"
     },
     "chrome":{
       "4":"u",
@@ -257,8 +257,8 @@
   "notes_by_num":{
     "1":"Doesn't fire an `input` event when deleting text (via Backspace, Delete, Cut, etc.).",
     "2":"Doesn't fire an `input` event when drag-and-dropping text into an `<input>` or `<textarea>`.",
-    "3":"`<select>` doesn't fire `input` events. See [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024350) and [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1816207).",
-    "4":"Doesn't fire an `input` event when (un)checking a checkbox or radio button, or when changing the selected file(s) of an `<input type=\"file\">`. See [Chrome bug](https://code.google.com/p/chromium/issues/detail?id=534245), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1206616), and [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=149398).",
+    "3":"`<select>` doesn't fire `input` events. See [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1816207) and [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024350).",
+    "4":"Doesn't fire an `input` event when (un)checking a checkbox or radio button, or when changing the selected file(s) of an `<input type=\"file\">`. See [Chrome bug](https://code.google.com/p/chromium/issues/detail?id=534245), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=149398), and [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1206616).",
     "5":"Doesn't fire an `input` event when (un)checking a checkbox or radio button. See [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1883692)."
   },
   "usage_perc_y":88.65,
