@@ -107,9 +107,10 @@
       "44":"a x #1 #3",
       "45":"a x #1 #3",
       "46":"a x #1 #3",
-      "47":"a #3",
-      "48":"a #3",
-      "49":"a #3"
+      "47":"a x #1 #3 #4",
+      "48":"a x #1 #3 #4",
+      "49":"a x #1 #3 #4",
+      "50":"a x #1 #3 #4"
     },
     "chrome":{
       "4":"n",
@@ -275,7 +276,8 @@
   "notes_by_num":{
     "1":"Partial support refers to supporting an earlier draft of the spec.",
     "2":"Partial support refers to not supporting `::backdrop`, and supporting the old `:full-screen` syntax rather than the standard `:fullscreen`.",
-    "3":"Partial support refers to not returning a Promise, as specified in the latest version of the spec."
+    "3":"Partial support refers to not returning a Promise, as specified in the latest version of the spec.",
+    "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag"
   },
   "usage_perc_y":0.1,
   "usage_perc_a":65.65,
