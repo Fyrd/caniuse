@@ -135,10 +135,10 @@
       "48":"y #2",
       "49":"y #2",
       "50":"y #2",
-      "51":"y #2",
-      "52":"y #2",
-      "53":"y #2",
-      "54":"y #2"
+      "51":"y #2 #4",
+      "52":"y #2 #4",
+      "53":"y #2 #4",
+      "54":"y #2 #4"
     },
     "safari":{
       "3.1":"n",
@@ -251,7 +251,8 @@
   "notes_by_num":{
     "1":"Partial support in IE11 refers to being limited to Windows 10.",
     "2":"Only supports HTTP2 over TLS (https)",
-    "3":"Partial support in Safari refers to being limited to OSX 10.11+"
+    "3":"Partial support in Safari refers to being limited to OSX 10.11+",
+    "4":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
   },
   "usage_perc_y":63.07,
   "usage_perc_a":6.8,
