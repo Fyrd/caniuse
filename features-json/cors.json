@@ -23,10 +23,10 @@
   ],
   "bugs":[
     {
-      "description":"IE10+ does not send cookies when withCredential=true ([IE Bug #759587](https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true)). A workaround is [to use a P3P policy](http://www.techrepublic.com/blog/software-engineer/craft-a-p3p-policy-to-make-ie-behave/)"
+      "description":"IE10+ does not send cookies when withCredential=true ([IE Bug #759587](https://web.archive.org/web/20140424050520/http://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true)). A workaround is [to use a P3P policy](http://www.techrepublic.com/blog/software-engineer/craft-a-p3p-policy-to-make-ie-behave/)"
     },
     {
-      "description":"IE10+ does not make a CORS request if port is the only difference ([IE Bug #781303](http://connect.microsoft.com/IE/feedback/details/781303))"
+      "description":"IE10+ does not make a CORS request if port is the only difference ([IE Bug #781303](https://web.archive.org/web/20140624160718/http://connect.microsoft.com/IE/feedback/details/781303/origin-header-is-not-added-to-cors-requests-to-same-domain-but-different-port))"
     },
     {
       "description":"Android and some old versions of WebKit (that may be found in various webview implementations) do not support Access-Control-Expose-Headers: https://code.google.com/p/android/issues/detail?id=56726"
