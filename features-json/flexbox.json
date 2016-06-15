@@ -43,7 +43,7 @@
   ],
   "bugs":[
     {
-      "description":"In IE10 the default value for `flex` is `0 0 auto` rather than `0 1 auto` as defined in the latest spec."
+      "description":"In IE10 the default value for `flex` is `0 0 auto` rather than `1 0 auto` as defined in the latest spec."
     },
     {
       "description":"In IE10 and IE11, containers with `display: flex` and `flex-direction: column` will not properly calculate their flexed childrens' sizes if the container has `min-height` but no explicit `height` property. [See bug](https://connect.microsoft.com/IE/feedback/details/802625/min-height-and-flexbox-flex-direction-column-dont-work-together-in-ie-10-11-preview)."
