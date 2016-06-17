@@ -5,12 +5,12 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://html.spec.whatwg.org/multipage/scripting.html#selector-in-range",
-      "title":"WHATWG HTML specification for `:in-range` and `:out-of-range`"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:out-of-range",
       "title":"MDN article"
+    },
+    {
+      "url":"https://html.spec.whatwg.org/multipage/scripting.html#selector-in-range",
+      "title":"WHATWG HTML specification for `:in-range` and `:out-of-range`"
     }
   ],
   "bugs":[
@@ -253,8 +253,8 @@
     "2":"`:in-range` also incorrectly matches temporal and `number` inputs which don't have `min` or `max` attributes. See [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=603268), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156558), [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7200501/).",
     "3":"`:in-range` and `:out-of-range` incorrectly match inputs which are disabled or readonly. See [Mozilla bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1264157), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156530), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=602568)."
   },
-  "usage_perc_y":7.69,
-  "usage_perc_a":79.49,
+  "usage_perc_y":0.05,
+  "usage_perc_a":87.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"in,out,of,range,:in-range,:out-of-range",
