@@ -46,9 +46,6 @@
       "description":"In IE10 the default value for `flex` is `0 0 auto` rather than `1 0 auto` as defined in the latest spec."
     },
     {
-      "description":"In IE10 and IE11, containers with `display: flex` and `flex-direction: column` will not properly calculate their flexed childrens' sizes if the container has `min-height` but no explicit `height` property. [See bug](https://connect.microsoft.com/IE/feedback/details/802625/min-height-and-flexbox-flex-direction-column-dont-work-together-in-ie-10-11-preview)."
-    },
-    {
       "description":"In Safari, the height of (non flex) children are not recognized in percentages. However other browsers recognize and scale the children based on percentage heights. ([See bug](https://bugs.webkit.org/show_bug.cgi?id=137730)) The bug also appeared in Chrome but was fixed in [Chrome 51](http://crbug.com/341310)"
     },
     {
@@ -58,19 +55,13 @@
       "description":"[Flexbugs](https://github.com/philipwalton/flexbugs): community-curated list of flexbox issues and cross-browser workarounds for them"
     },
     {
-      "description":"IE11 does not [wrap long paragraphs of text](http://jsfiddle.net/y1do9cx8/1/)"
-    },
-    {
-      "description":"IE11 will not apply flexbox on pseudo-elements. [See bug](https://connect.microsoft.com/IE/feedbackdetail/view/1058330/ie11-will-not-apply-flexbox-on-pseudo-elements)."
-    },
-    {
       "description":"In IE 10, setting `-ms-flex-flow: row wrap` will not wrap unless `display: inline-block` is set on child elements."
     },
     {
-      "description":"IE 11 incorrectly focuses a child element if the parent uses `display:flex` and has a tabindex set [see testcase](http://jsbin.com/numibokune/1/edit?html,css,js,console,output)."
+      "description":"IE 11 does not vertically align items correctly when `min-height` is used [see bug](https://connect.microsoft.com/IE/feedback/details/816293/ie11-flexbox-with-min-height-not-vertically-aligning-with-align-items-center)"
     },
     {
-      "description":"IE 11 does not vertically align items correctly when `min-height` is used [see bug](https://connect.microsoft.com/IE/feedback/details/816293/ie11-flexbox-with-min-height-not-vertically-aligning-with-align-items-center)"
+      "description":"In IE10 and IE11, containers with `display: flex` and `flex-direction: column` will not properly calculate their flexed childrens' sizes if the container has `min-height` but no explicit `height` property. [See bug](https://connect.microsoft.com/IE/feedback/details/802625/min-height-and-flexbox-flex-direction-column-dont-work-together-in-ie-10-11-preview)."
     },
     {
       "description":"IE 11 requires a unit to be added to the third argument, the flex-basis property [see MSFT documentation](https://msdn.microsoft.com/en-us/library/dn254946%28v=vs.85%29.aspx)"
