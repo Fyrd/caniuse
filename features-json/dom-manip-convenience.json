@@ -1,6 +1,6 @@
 {
   "title":"DOM manipulation convenience methods",
-  "description":"jQuery-like methods on DOM nodes to insert nodes around or within a node, or to replace one node with another. These methods accept any number of DOM nodes or HTML strings as arguments. Includes: `ChildNode.before`, `ChildNode.after, `ChildNode.replaceWith`, `ParentNode.prepend`, and `ParentNode.append`.",
+  "description":"jQuery-like methods on DOM nodes to insert nodes around or within a node, or to replace one node with another. These methods accept any number of DOM nodes or HTML strings as arguments. Includes: `ChildNode.before`, `ChildNode.after`, `ChildNode.replaceWith`, `ParentNode.prepend`, and `ParentNode.append`.",
   "spec":"https://dom.spec.whatwg.org/#interface-childnode",
   "status":"ls",
   "links":[
