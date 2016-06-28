@@ -1,7 +1,7 @@
 {
   "title":"ChaCha20-Poly1305 cipher suites for TLS",
   "description":"A set of cipher suites used in Transport Layer Security (TLS) protocol, using ChaCha20 for symmetric encryption and Poly1305 for authentication.",
-  "spec":"https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04",
+  "spec":"https://tools.ietf.org/html/rfc7905",
   "status":"other",
   "links":[
     {
