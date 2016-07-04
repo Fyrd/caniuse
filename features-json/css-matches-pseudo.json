@@ -1,6 +1,6 @@
 {
   "title":":matches() CSS pseudo-class",
-  "description":"The `:matches()` pseudo-class checks whether the element at its position in the outer selector matches any of the selectors in its selector list. It's useful syntactic sugar that allows you to avoid writing out all the combinations manually as separate selectors. The effect is similar to nesting in Sass and most other CSS preprocessors.",
+  "description":"The `:matches()` (formerly `:any()`) pseudo-class checks whether the element at its position in the outer selector matches any of the selectors in its selector list. It's useful syntactic sugar that allows you to avoid writing out all the combinations manually as separate selectors. The effect is similar to nesting in Sass and most other CSS preprocessors.",
   "spec":"https://www.w3.org/TR/selectors4/#matches",
   "status":"wd",
   "links":[
