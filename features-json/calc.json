@@ -277,6 +277,9 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"Support can be somewhat emulated in older versions of IE using the non-standard `expression()` syntax.\r\n\r\nDue to the way browsers handle [sub-pixel rounding](http://ejohn.org/blog/sub-pixel-problems-in-css/) differently, layouts using `calc()` expressions may have unexpected results.",
@@ -284,7 +287,7 @@
     "1":"Partial support in Android Browser 4.4 refers to the browser lacking the ability to multiply and divide values.",
     "2":"Partial support in IE9 refers to the browser crashing when used as a `background-position` value."
   },
-  "usage_perc_y":78.26,
+  "usage_perc_y":81.2,
   "usage_perc_a":3.06,
   "ucprefix":false,
   "parent":"",

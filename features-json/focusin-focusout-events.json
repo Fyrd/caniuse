@@ -251,13 +251,16 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"In browsers that don't support these events, one alternative is to use a capture phase event listener for the `focus` and/or `blur` events.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":81.84,
+  "usage_perc_y":84.78,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -251,13 +251,16 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y x"
     }
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
   "notes_by_num":{
     "1":"Firefox specifically supports the `-webkit-text-stroke` property, not `-moz-text-stroke`."
   },
-  "usage_perc_y":66.72,
+  "usage_perc_y":69.67,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

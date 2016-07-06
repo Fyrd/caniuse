@@ -251,6 +251,9 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"u"
     }
   },
   "notes":"Partial support refers to an [older version](http://www.w3.org/TR/2014/WD-screen-orientation-20140220/) of the draft specification, and the spec has undergone significant changes since, for example renaming the `screen.lockOrientation` method to `screen.orientation.lock`.",

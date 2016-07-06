@@ -259,6 +259,9 @@
     },
     "and_uc":{
       "9.9":"a #1"
+    },
+    "samsung":{
+      "4":"a #1"
     }
   },
   "notes":"Whether `<option selected>` matches `:default` (per the spec) was not tested since `<select>`s and `<option>`s are generally not styleable, which makes it hard to formulate a test for this.",
@@ -267,7 +270,7 @@
     "2":"Does not match the default submit button of a form"
   },
   "usage_perc_y":25.97,
-  "usage_perc_a":60.02,
+  "usage_perc_a":62.96,
   "ucprefix":false,
   "parent":"",
   "keywords":":default,default",

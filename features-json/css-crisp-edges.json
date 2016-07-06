@@ -250,6 +250,9 @@
     },
     "and_uc":{
       "9.9":"a x #1"
+    },
+    "samsung":{
+      "4":"y #4"
     }
   },
   "notes":"Note that prefixes apply to the value (e.g. `-moz-crisp-edges`), not the `image-rendering` property.",
@@ -259,7 +262,7 @@
     "3":"Supports the `crisp-edges` value, but not `pixelated`.",
     "4":"Supports the `pixelated` value, but not `crisp-edges`."
   },
-  "usage_perc_y":68.74,
+  "usage_perc_y":71.68,
   "usage_perc_a":13.79,
   "ucprefix":false,
   "parent":"",

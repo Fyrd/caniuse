@@ -255,13 +255,16 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y x"
     }
   },
   "notes":"Supported in current WebKit nightly, so may appear in an upcoming Safari version.",
   "notes_by_num":{
     "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag."
   },
-  "usage_perc_y":53.91,
+  "usage_perc_y":56.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

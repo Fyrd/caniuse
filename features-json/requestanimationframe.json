@@ -253,6 +253,9 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"",
@@ -260,7 +263,7 @@
     "1":"Partial support refers to lacking `cancelAnimationFrame` support.",
     "2":"Supports `webkitCancelRequestAnimationFrame` rather than `webkitCancelAnimationFrame."
   },
-  "usage_perc_y":87.4,
+  "usage_perc_y":90.34,
   "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",

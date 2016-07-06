@@ -247,6 +247,9 @@
     },
     "and_uc":{
       "9.9":"a #1 #2 #3"
+    },
+    "samsung":{
+      "4":"a #1 #2 #3"
     }
   },
   "notes":"Not all mobile browsers offer print support; support listed for these is based on browser engine capability.",
@@ -256,7 +259,7 @@
     "3":"Treats the `left` and `right` values like `always`."
   },
   "usage_perc_y":4.88,
-  "usage_perc_a":90.2,
+  "usage_perc_a":93.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

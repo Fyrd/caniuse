@@ -243,13 +243,16 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"The HTTP header syntax is 'Public-Key-Pins: pin-sha256=\"base64==\"; max-age=expireTime [; includeSubdomains][; report-uri=\"reportURI\"]'.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":56.66,
+  "usage_perc_y":59.61,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

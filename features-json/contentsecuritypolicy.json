@@ -255,6 +255,9 @@
     },
     "and_uc":{
       "9.9":"y #2"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"The standard HTTP header is `Content-Security-Policy` which is used unless otherwise noted.",
@@ -262,7 +265,7 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-Webkit-CSP` header"
   },
-  "usage_perc_y":81.56,
+  "usage_perc_y":84.5,
   "usage_perc_a":6.14,
   "ucprefix":false,
   "parent":"",

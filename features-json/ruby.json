@@ -261,6 +261,9 @@
     },
     "and_uc":{
       "9.9":"a"
+    },
+    "samsung":{
+      "4":"a"
     }
   },
   "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby.",
@@ -268,7 +271,7 @@
     "1":"IE9+ supports [properties](https://msdn.microsoft.com/en-us/library/hh772055%28v=vs.85%29.aspx) of an older version of the CSS Ruby specification."
   },
   "usage_perc_y":7.34,
-  "usage_perc_a":81.79,
+  "usage_perc_a":84.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",

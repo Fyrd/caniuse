@@ -243,13 +243,16 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"Support refers to use using the `audio` element, not other conditions.",
   "notes_by_num":{
     "1":"Partial support in older Firefox refers to being limited to certain operating systems."
   },
-  "usage_perc_y":89.09,
+  "usage_perc_y":92.03,
   "usage_perc_a":0.34,
   "ucprefix":false,
   "parent":"audio",

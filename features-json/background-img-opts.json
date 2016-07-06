@@ -262,6 +262,9 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"Safari also supports the unofficial `-webkit-background-clip: text` (only with prefix)",
@@ -270,7 +273,7 @@
     "2":"Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
     "3":"Does not support `background-size` values in the `background` shorthand"
   },
-  "usage_perc_y":88.18,
+  "usage_perc_y":91.12,
   "usage_perc_a":6.13,
   "ucprefix":false,
   "parent":"",

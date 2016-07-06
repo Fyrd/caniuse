@@ -264,6 +264,9 @@
     },
     "and_uc":{
       "9.9":"a"
+    },
+    "samsung":{
+      "4":"a"
     }
   },
   "notes":"Partial support indicates that unnecessary code-ranges are downloaded by the browser - see [browser test matrix](https://docs.google.com/a/chromium.org/spreadsheets/d/18h-1gaosu4-KYxH8JUNL6ZDuOsOKmWfauoai3CS3hPY/edit?pli=1#gid=0).",
@@ -271,7 +274,7 @@
     "1":"Can be enabled in Firefox using the `layout.css.unicode-range.enabled` flag"
   },
   "usage_perc_y":56,
-  "usage_perc_a":31.79,
+  "usage_perc_a":34.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face,unicode,unicode-range",

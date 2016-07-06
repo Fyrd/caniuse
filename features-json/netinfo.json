@@ -244,6 +244,9 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"a #1"
     }
   },
   "notes":"In Chrome the API is enabled on Android only, support for other platforms [is coming](https://docs.google.com/a/chromium.org/document/d/1LTk9uVMGi4kurzcF5ellsAJReTF31fFJMHrQwSVtBjc/) . Support is also available on [Firefox OS](https://bugzilla.mozilla.org/show_bug.cgi?id=960426).",
@@ -251,7 +254,7 @@
     "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](http://davidbcalhoun.com/2010/using-navigator-connection-android/)"
   },
   "usage_perc_y":19.85,
-  "usage_perc_a":1.02,
+  "usage_perc_a":3.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

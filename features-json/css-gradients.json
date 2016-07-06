@@ -255,13 +255,16 @@
     },
     "and_uc":{
       "9.9":"y x"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
   "notes_by_num":{
     "1":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients."
   },
-  "usage_perc_y":88.93,
+  "usage_perc_y":91.87,
   "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",

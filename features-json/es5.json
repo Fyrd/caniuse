@@ -251,6 +251,9 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"As the specification includes many JavaScript features, un-numbered partial support varies widely and is shown in detail on the [ECMAScript 5 compatibilty tables](http://kangax.github.io/compat-table/es5/) by Kangax.",
@@ -260,7 +263,7 @@
     "3":"Does not support zero-width chars in identifiers & Immutable `undefined`",
     "4":"IE8 has virtually no ES5 support, but does support `Object.defineProperty`, `Object.getOwnPropertyDescriptor`, JSON parsing & Property access on strings"
   },
-  "usage_perc_y":87.19,
+  "usage_perc_y":90.13,
   "usage_perc_a":7.2,
   "ucprefix":false,
   "parent":"",

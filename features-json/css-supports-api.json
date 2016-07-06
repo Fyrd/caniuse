@@ -260,13 +260,16 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"See also [@supports in CSS](#feat=css-featurequeries)\r\n\r\nSee the [WebKit Bug](http://trac.webkit.org/changeset/142739) for status in Safari",
   "notes_by_num":{
     "1":"Opera 12 uses a different method name('window.supportsCSS')"
   },
-  "usage_perc_y":73.36,
+  "usage_perc_y":76.3,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

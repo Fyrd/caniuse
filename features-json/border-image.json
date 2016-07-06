@@ -249,13 +249,16 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"Note that both the `border-style` and `border-width` must be specified (not set to `none` or 0) for border-images to work according to spec, though older implementations may not have this requirement. Partial support refers to supporting the shorthand syntax, but not the individual properties (border-image-source, border-image-slice, etc). ",
   "notes_by_num":{
     
   },
-  "usage_perc_y":86.83,
+  "usage_perc_y":89.77,
   "usage_perc_a":6.44,
   "ucprefix":false,
   "parent":"",

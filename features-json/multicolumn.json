@@ -278,6 +278,9 @@
     },
     "and_uc":{
       "9.9":"a x"
+    },
+    "samsung":{
+      "4":"a x"
     }
   },
   "notes":"Partial support refers to not supporting the `break-before`, `break-after`, `break-inside` properties. WebKit- and Blink-based browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*`.",
@@ -285,7 +288,7 @@
     
   },
   "usage_perc_y":12.36,
-  "usage_perc_a":81.54,
+  "usage_perc_a":84.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-span,column-fill",

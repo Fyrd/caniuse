@@ -243,13 +243,16 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"IE supports the `ch` unit, but unlike other browsers its width is that specifically of the \"0\" glyph, not its surrounding space. As a result, 3ch for example is shorter in than the width of the string \"000\" in IE."
   },
-  "usage_perc_y":75.41,
+  "usage_perc_y":78.35,
   "usage_perc_a":5.71,
   "ucprefix":false,
   "parent":"",

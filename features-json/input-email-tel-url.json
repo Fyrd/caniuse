@@ -243,13 +243,16 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"Browsers without support for these types will fall back to using the \"text\" type.",
   "notes_by_num":{
     "1":"Does not provide an email-specific keyboard for email addresses"
   },
-  "usage_perc_y":89.04,
+  "usage_perc_y":91.99,
   "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"forms",

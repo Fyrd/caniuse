@@ -247,6 +247,9 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y #2"
     }
   },
   "notes":"See also support for [the SPDY protocol](http://caniuse.com/#feat=spdy), precursor of HTTP2.",
@@ -256,7 +259,7 @@
     "3":"Partial support in Safari refers to being limited to OSX 10.11+",
     "4":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
   },
-  "usage_perc_y":66.36,
+  "usage_perc_y":69.31,
   "usage_perc_a":6.78,
   "ucprefix":false,
   "parent":"",

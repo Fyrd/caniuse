@@ -252,13 +252,16 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"WebVTT must be used with the <track> element.",
   "notes_by_num":{
     "1":"Firefox currently lacks support for the `::cue` pseudo-element. [See bug #865395.](https://bugzilla.mozilla.org/show_bug.cgi?id=865395)"
   },
-  "usage_perc_y":80.15,
+  "usage_perc_y":83.09,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",

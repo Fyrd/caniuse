@@ -265,13 +265,16 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content.",
   "notes_by_num":{
     "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
   },
-  "usage_perc_y":81.9,
+  "usage_perc_y":84.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

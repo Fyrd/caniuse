@@ -247,13 +247,16 @@
     },
     "and_uc":{
       "9.9":"y x"
+    },
+    "samsung":{
+      "4":"y x"
     }
   },
   "notes":"As there is no specification and the property is dependent on an outdated implementation of flexbox (hence `display: -webkit-box`) it is unlikely that other browsers will support the property as-is, although an alternative solution may at some point replace it.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":73.13,
+  "usage_perc_y":76.07,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

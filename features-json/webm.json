@@ -259,6 +259,9 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"a"
     }
   },
   "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all.",
@@ -266,7 +269,7 @@
     
   },
   "usage_perc_y":65.31,
-  "usage_perc_a":4.92,
+  "usage_perc_a":7.86,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

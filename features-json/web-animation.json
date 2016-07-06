@@ -229,7 +229,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "50":"a #1"
+      "50":"a #2"
     },
     "bb":{
       "7":"n",
@@ -242,10 +242,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a #1"
+      "37":"a #2"
     },
     "and_chr":{
-      "50":"a #1"
+      "50":"a #2"
     },
     "and_ff":{
       "46":"n"
@@ -256,6 +256,9 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"a #2"
     }
   },
   "notes":"",
@@ -265,7 +268,7 @@
     "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":57.17,
+  "usage_perc_a":60.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

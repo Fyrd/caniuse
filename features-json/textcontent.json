@@ -243,13 +243,16 @@
     },
     "and_uc":{
       "9.9":"y"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"`Node.textContent` is somewhat similar to, but has important differences from, the proprietary [`Node.innerText`](http://caniuse.com/#feat=innertext) property.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":94.38,
+  "usage_perc_y":97.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

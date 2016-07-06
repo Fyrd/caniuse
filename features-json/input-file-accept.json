@@ -243,6 +243,9 @@
     },
     "and_uc":{
       "9.9":"n"
+    },
+    "samsung":{
+      "4":"a #2"
     }
   },
   "notes":"Not supported means any file can be picked as if the `accept` attribute was not set, unless otherwise noted.\r\n\r\nOn Windows, files that do not apply are hidden. On OSX they are grayed out and disabled.",
@@ -253,7 +256,7 @@
     "4":"Supports the type format but does not allow any file to be picked when using the extension format"
   },
   "usage_perc_y":44.07,
-  "usage_perc_a":24.65,
+  "usage_perc_a":27.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

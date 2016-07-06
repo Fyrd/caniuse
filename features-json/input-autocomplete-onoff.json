@@ -243,6 +243,9 @@
     },
     "and_uc":{
       "9.9":"y #4"
+    },
+    "samsung":{
+      "4":"y"
     }
   },
   "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields. One example is the use of password managers.",
@@ -253,7 +256,7 @@
     "4":"Browser does not display previously submitted values as options with `on` value.",
     "5":"Safari ignores the `off` value for [username, email and password fields](http://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
-  "usage_perc_y":47.34,
+  "usage_perc_y":50.28,
   "usage_perc_a":47.57,
   "ucprefix":false,
   "parent":"",
