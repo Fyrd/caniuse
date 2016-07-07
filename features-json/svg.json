@@ -21,7 +21,7 @@
       "title":"SVG Web: Flash-based polyfill"
     },
     {
-      "url":"http://svg-edit.googlecode.com",
+      "url":"https://github.com/SVG-Edit/svgedit",
       "title":"Web-based SVG editor"
     },
     {
@@ -38,6 +38,9 @@
     },
     {
       "description":"IE 9-11 do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`"
+    },
+    {
+      "description":"Chrome 48+ [no longer has support](https://www.chromestatus.com/feature/5708851034718208) for the SVGPathSeg interface. Polyfills are available: [original](https://github.com/progers/pathseg/blob/master/pathseg.js) - [SVG 2 draft-based](https://github.com/jarek-foksa/path-data-polyfill.js)"
     }
   ],
   "categories":[
