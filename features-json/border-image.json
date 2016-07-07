@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Firefox is not able to stretch svg images across an element - [bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=619500)."
+    },
+    {
+      "description":"WebKit browsers have a different rendering with the `round` value from other browsers, stretching the border rather than repeating it in certain cases [see bug](https://bugs.webkit.org/show_bug.cgi?id=155955)."
     }
   ],
   "categories":[

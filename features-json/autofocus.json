@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Firefox [has a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=712130) where `autofocus` doesn't always scroll to the correct part of the page."
+    }
   ],
   "categories":[
     "HTML5"
