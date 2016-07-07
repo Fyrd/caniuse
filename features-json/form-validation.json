@@ -15,6 +15,9 @@
     },
     {
       "description":"In Chrome (tested in 45) inputs marked as disabled or hidden while also marked as required are [incorrectly](https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled) being considered for constraint validation. https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled"
+    },
+    {
+      "description":"IE & Edge do not support `:valid` on `form` elements. Firefox seems to only apply it when child element values have changed from an invalid to valid state."
     }
   ],
   "categories":[
