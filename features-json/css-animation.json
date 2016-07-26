@@ -31,7 +31,7 @@
       "description":"In Chrome `animation-fill-mode backwards` is wrong if `steps(x, start)` is used [see example](http://codepen.io/Fyrd/pen/jPPKpX)."
     },
     {
-      "description":"IE10 and IE11 do not support CSS animations inside media queries."
+      "description":"IE10 and IE11 do not support CSS keyframe blocks inside media queries. Must be defined outside of media query definitions. [example](http://codepen.io/anon/pen/ZOodVd)"
     },
     {
       "description":"IE10 and IE11 on Windows 7 have a bug where translate transform values are always interpreted as pixels when used in animations [test case](http://codepen.io/flxsource/pen/jPYWoE)"
