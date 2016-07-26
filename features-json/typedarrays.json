@@ -1,6 +1,6 @@
 {
   "title":"Typed Arrays",
-  "description":"JavaScript typed arrays provide a mechanism for accessing raw binary data much more efficiently.\r\n",
+  "description":"JavaScript typed arrays provide a mechanism for accessing raw binary data much more efficiently. Includes: `Int8Array`, `Uint8Array`, `Uint8ClampedArray`, `Int16Array`, `Uint16Array`, `Int32Array`, `Uint32Array`, `Float32Array` & `Float64Array`\r\n",
   "spec":"http://www.ecma-international.org/ecma-262/6.0/#sec-typedarray-objects",
   "status":"other",
   "links":[
@@ -11,10 +11,10 @@
   ],
   "bugs":[
     {
-      "description":"Safari 5.1 does not support Float64Array"
+      "description":"Safari 5.1 does not support `Float64Array`"
     },
     {
-      "description":"Firefox 14 and under do not have DataView yet."
+      "description":"Firefox 14 and under do not have `DataView` yet."
     },
     {
       "description":"In versions before Safari 6, Typed Arrays are much slower than normal arrays."
@@ -268,7 +268,7 @@
   "usage_perc_a":1.26,
   "ucprefix":false,
   "parent":"",
-  "keywords":"ES6,JavaScript,float64array,dataview,uint8array,arraybuffer",
+  "keywords":"ES6,JavaScript,dataview,arraybuffer",
   "ie_id":"typedarrayses6",
   "chrome_id":"5135818813341696",
   "firefox_id":"",

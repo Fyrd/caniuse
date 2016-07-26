@@ -249,12 +249,12 @@
       "4":"u"
     }
   },
-  "notes":"Mac OS X \"Full Keyboard Access\" refers to setting Keyboard→Shortcuts→Full Keyboard Access to \"All controls\" in the System Preferences.",
+  "notes":"Mac OS X \"Full Keyboard Access\" refers to setting Keyboard\u2192Shortcuts\u2192Full Keyboard Access to \"All controls\" in the System Preferences.",
   "notes_by_num":{
     "1":"On Mac OS X, unless Full Keyboard Access is enabled, `<a>` elements are not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`."
   },
-  "usage_perc_y":0,
+  "usage_perc_y":69.45,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -263,5 +263,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }
