@@ -26,7 +26,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "Other"
@@ -221,7 +221,7 @@
       "9.3":"a"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
       "2.1":"u",
@@ -236,8 +236,8 @@
       "51":"a"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"a",
+      "10":"a"
     },
     "op_mob":{
       "10":"u",
@@ -245,8 +245,8 @@
       "11.1":"u",
       "11.5":"u",
       "12":"u",
-      "12.1":"u",
-      "37":"u"
+      "12.1":"a",
+      "37":"a"
     },
     "and_chr":{
       "51":"a"
@@ -255,22 +255,22 @@
       "47":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"y",
+      "11":"y"
     },
     "and_uc":{
-      "9.9":"u"
+      "9.9":"a"
     },
     "samsung":{
-      "4":"u"
+      "4":"a"
     }
   },
-  "notes":"Partial support refers to not supporting the `ALLOW-FROM` option.\nThe `X-Frame-Options` header has been obsoleted by [the `frame-ancestors` directive](https://www.w3.org/TR/CSP2/#directive-frame-ancestors) from Content Security Policy Level 2.",
+  "notes":"Partial support refers to not supporting the `ALLOW-FROM` option.\r\nThe `X-Frame-Options` header has been obsoleted by [the `frame-ancestors` directive](https://www.w3.org/TR/CSP2/#directive-frame-ancestors) from Content Security Policy Level 2.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":16.56,
+  "usage_perc_a":76.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"x-frame-options,frame,options,header,clickjacking",
