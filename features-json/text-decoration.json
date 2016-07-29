@@ -17,12 +17,12 @@
       "title":"MDN Documentation for text-decoration-line"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip",
-      "title":"MDN Documentation for text-decoration-skip"
-    },
-    {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6514536-text-decoration-styling",
       "title":"Microsoft Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip",
+      "title":"MDN Documentation for text-decoration-skip"
     }
   ],
   "bugs":[
@@ -269,7 +269,7 @@
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial support in Safari refers to not supporting the text-decoration-style property.",
-    "3": "Safari 8+ supports `-webkit-text-decoration-skip` with values `none` and `skip` (other values behave like `none` or `skip`)"
+    "3":"Safari 8+ supports `-webkit-text-decoration-skip` with values `none` and `skip` (other values behave like `none` or `skip`)"
   },
   "usage_perc_y":8.18,
   "usage_perc_a":10.75,
