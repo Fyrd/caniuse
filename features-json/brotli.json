@@ -1,7 +1,7 @@
 {
   "title":"Brotli Accept-Encoding/Content-Encoding",
   "description":"More effective lossless compression algorithm than gzip and deflate.",
-  "spec":"https://github.com/google/brotli",
+  "spec":"https://tools.ietf.org/html/rfc7932",
   "status":"other",
   "links":[
     {
@@ -11,6 +11,10 @@
     {
       "url":"https://groups.google.com/a/chromium.org/forum/m/#!msg/blink-dev/JufzX024oy0/WEOGbN43AwAJ",
       "title":"Blink's intent to ship"
+    },
+    {
+      "url":"https://github.com/google/brotli",
+      "title":"Official code repository"
     }
   ],
   "bugs":[
