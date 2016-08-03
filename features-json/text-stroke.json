@@ -87,9 +87,10 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"y #1",
-      "49":"y #1",
-      "50":"y #1"
+      "48":"n d #1",
+      "49":"n d #1",
+      "50":"n d #1",
+      "51":"n d #1"
     },
     "chrome":{
       "4":"y x",
@@ -198,7 +199,8 @@
       "37":"y x",
       "38":"y x",
       "39":"y x",
-      "40":"y x"
+      "40":"y x",
+      "41":"y x"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -259,9 +261,9 @@
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
   "notes_by_num":{
-    "1":"Firefox specifically supports the `-webkit-text-stroke` property, not `-moz-text-stroke`."
+    "1":"Firefox specifically supports the `-webkit-text-stroke` property, not `-moz-text-stroke`. Currently requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":70.06,
+  "usage_perc_y":69.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
