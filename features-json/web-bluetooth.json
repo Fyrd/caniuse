@@ -1,6 +1,6 @@
 {
   "title":"Web Bluetooth",
-  "description":"Access user-selected Bluetooth devices over GATT",
+  "description":"Allows web sites to communicate over GATT with nearby user-selected Bluetooth devices in a secure and privacy-preserving way.",
   "spec":"http://webbluetoothcg.github.io/web-bluetooth/",
   "status":"unoff",
   "links":[
@@ -9,7 +9,7 @@
       "title":"Intro"
     },
     {
-      "url":"https://googlechrome.github.io/samples/web-bluetooth",
+      "url":"https://googlechrome.github.io/samples/web-bluetooth/",
       "title":"Samples"
     },
     {
@@ -146,8 +146,8 @@
       "50":"n d #1",
       "51":"n d #1",
       "52":"n d #1",
-      "53":"u",
-      "54":"u",
+      "53":"n d #1 #3",
+      "54":"n d #1 #3",
       "55":"u"
     },
     "safari":{
@@ -199,10 +199,10 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
+      "36":"n d #1 #2",
+      "37":"n d #1 #2",
+      "38":"u",
+      "39":"u",
       "40":"u",
       "41":"u"
     },
@@ -265,7 +265,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available by enabling the \"Web Bluetooth\" experimental flag in `about:flags`. Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)"
+    "1":"Available by enabling the \"Web Bluetooth\" experimental flag in `about:flags`. Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)",
+    "2":"Only in Opera Mobile",
+    "3":"Available in [Origin Trials](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials) for Chrome OS, Android M, and Mac"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
