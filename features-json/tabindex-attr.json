@@ -96,17 +96,17 @@
       "12":"u",
       "13":"u",
       "14":"u",
-      "15":"u",
-      "16":"u",
-      "17":"u",
-      "18":"u",
-      "19":"u",
-      "20":"u",
-      "21":"u",
-      "22":"u",
-      "23":"u",
-      "24":"u",
-      "25":"u",
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
+      "23":"y",
+      "24":"y",
+      "25":"y",
       "26":"y",
       "27":"y",
       "28":"y",
@@ -195,16 +195,16 @@
       "41":"y"
     },
     "ios_saf":{
-      "3.2":"u",
-      "4.0-4.1":"u",
-      "4.2-4.3":"u",
-      "5.0-5.1":"u",
-      "6.0-6.1":"u",
-      "7.0-7.1":"u",
-      "8":"u",
-      "8.1-8.4":"u",
-      "9.0-9.2":"u",
-      "9.3":"u"
+      "3.2":"y #2 #3",
+      "4.0-4.1":"y #2 #3",
+      "4.2-4.3":"y #2 #3",
+      "5.0-5.1":"y #2 #3",
+      "6.0-6.1":"y #2 #3",
+      "7.0-7.1":"y #2 #3",
+      "8":"y #2 #3",
+      "8.1-8.4":"y #2 #3",
+      "9.0-9.2":"y #2 #3",
+      "9.3":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -219,7 +219,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "51":"y"
+      "51":"u"
     },
     "bb":{
       "7":"u",
@@ -235,10 +235,10 @@
       "37":"u"
     },
     "and_chr":{
-      "51":"y"
+      "51":"u"
     },
     "and_ff":{
-      "47":"y"
+      "47":"u"
     },
     "ie_mob":{
       "10":"u",
@@ -251,12 +251,13 @@
       "4":"u"
     }
   },
-  "notes":"Mac OS X \"Full Keyboard Access\" refers to setting Keyboard\u2192Shortcuts\u2192Full Keyboard Access to \"All controls\" in the System Preferences.",
+  "notes":"Mac OS X \"Full Keyboard Access\" refers to setting Keyboard\u2192Shortcuts\u2192Full Keyboard Access to \"All controls\" in the System Preferences.\r\n\r\n\"Unknown\" support for mobile browsers is due to lacking a method of tabbing through fields.",
   "notes_by_num":{
     "1":"On Mac OS X, unless Full Keyboard Access is enabled, `<a>` elements are not keyboard-focusable, even if they have `tabindex=\"0\"`.",
-    "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`."
+    "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
+    "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":67.66,
+  "usage_perc_y":55.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
