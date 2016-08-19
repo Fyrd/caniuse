@@ -5,13 +5,22 @@
   "status":"ed",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder_API",
-      "title":"MDN article"
-    },
-    {
       "url":"https://codepen.io/miguelao/pen/ZOkOQw",
       "title":"Minimal code pen"
+    },
+    {
+      "url":"https://rawgit.com/Miguelao/demos/master/imagecapture.html",
+      "title":"Extended demo"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=916643",
+      "title":"Firefox tracking bug"
+    },
+    {
+      "url":"https://crbug.com/518807",
+      "title":"Chromium tracking bug"
     }
+
   ],
   "bugs":[
 
