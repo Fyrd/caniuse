@@ -87,12 +87,12 @@
       "43":"n",
       "44":"n",
       "45":"n d #2",
-      "46":"n d #2",
-      "47":"n d #2",
-      "48":"n d #2",
-      "49":"n d #2",
-      "50":"n d #2",
-      "51":"n d #2"
+      "46":"a #3",
+      "47":"a #3",
+      "48":"a #3",
+      "49":"a #3",
+      "50":"a #3",
+      "51":"a #3"
     },
     "chrome":{
       "4":"n",
@@ -264,7 +264,8 @@
   "notes":"Some old WebKit browsers (like Chrome 24) support `-webkit-text-emphasis`, but does not support CJK languages and is therefore considered unsupported.",
   "notes_by_num":{
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
-    "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
+    "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag",
+    "3":"These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec. No need to add a vender prefix."
   },
   "usage_perc_y":11.2,
   "usage_perc_a":64.46,
