@@ -270,7 +270,7 @@
       "11":"n"
     },
     "and_uc":{
-      "9.9":"y"
+      "9.9":"y #2"
     },
     "samsung":{
       "4":"y"
@@ -278,7 +278,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Firefox through the `dom.details_element.enabled` flag"
+    "1":"Enabled in Firefox through the `dom.details_element.enabled` flag",
+    "2":"'toggle' event is not supported"
   },
   "usage_perc_y":76.71,
   "usage_perc_a":0,
