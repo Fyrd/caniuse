@@ -2,7 +2,7 @@
   "title":"ImageCapture API",
   "description":"The Image Capture API provides access to the Video Camera for taking photos while configuring picture-specific settings such as e.g. zoom or auto focus metering area.",
   "spec":"https://w3c.github.io/mediacapture-image/",
-  "status":"unoff",
+  "status":"wd",
   "links":[
     {
       "url":"https://codepen.io/miguelao/pen/ZOkOQw",
@@ -20,10 +20,9 @@
       "url":"https://crbug.com/518807",
       "title":"Chromium tracking bug"
     }
-
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "DOM",
@@ -265,12 +264,12 @@
       "4":"n"
     }
   },
-  "notes":"Firefox supports the takePhoto() method only.",
+  "notes":"Firefox supports the `takePhoto()` method only.",
   "notes_by_num":{
     "1":"Can be enabled via the about:config entry dom.imagecapture.enabled.",
     "2":"Can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":0,
+  "usage_perc_y":21.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"stream",
