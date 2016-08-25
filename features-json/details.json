@@ -118,13 +118,13 @@
       "9":"p",
       "10":"p",
       "11":"p",
-      "12":"y #2",
-      "13":"y #2",
-      "14":"y #2",
-      "15":"y #2",
-      "16":"y #2",
-      "17":"y #2",
-      "18":"y #2",
+      "12":"y #2 #3",
+      "13":"y #2 #3",
+      "14":"y #2 #3",
+      "15":"y #2 #3",
+      "16":"y #2 #3",
+      "17":"y #2 #3",
+      "18":"y #2 #3",
       "19":"y #2",
       "20":"y #2",
       "21":"y #2",
@@ -270,7 +270,7 @@
       "11":"n"
     },
     "and_uc":{
-      "9.9":"y #2"
+      "9.9":"y #2 #3"
     },
     "samsung":{
       "4":"y"
@@ -279,7 +279,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled in Firefox through the `dom.details_element.enabled` flag",
-    "2":"'toggle' event is not supported"
+    "2":"'toggle' event is not supported",
+    "3":"<summary> is not keyboard accessible"
   },
   "usage_perc_y":76.71,
   "usage_perc_a":0,
