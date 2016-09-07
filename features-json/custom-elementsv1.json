@@ -1,25 +1,9 @@
 {
-  "title":"Custom Elements v0",
+  "title":"Custom Elements v1",
   "description":"Method of defining new HTML tags.",
-  "spec":"http://www.w3.org/TR/custom-elements/",
-  "status":"wd",
+  "spec":"https://html.spec.whatwg.org/multipage/scripting.html#custom-elements",
+  "status":"ls",
   "links":[
-    {
-      "url":"http://w3c.github.io/webcomponents/spec/custom/",
-      "title":"W3C Editor's Draft spec (closer to current implementations)"
-    },
-    {
-      "url":"http://www.polymer-project.org/platform/custom-elements.html",
-      "title":"Polymer project (polyfill & web components framework)"
-    },
-    {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/customelements/",
-      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
-    },
-    {
-      "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
-      "title":"Chromium tracking bug: Implement Custom Elements"
-    },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
       "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
@@ -29,16 +13,12 @@
       "title":"IE Web Platform Status and Roadmap: Custom Elements"
     },
     {
-      "url":"https://github.com/WebReflection/document-register-element",
-      "title":"document.registerElement polyfill in 3KB minified & gzipped"
-    },
-    {
       "url":"https://developers.google.com/web/fundamentals/primers/customelements/",
       "title":"Google Developers - Custom elements v1: reusable web components"
     },
     {
       "url":"https://github.com/webcomponents/webcomponentsjs/tree/v1/src/CustomElements/v1",
-      "title":"customElements.define polyfill (supersedes document.registerElement)"
+      "title":"customElements.define polyfill"
     }
   ],
   "bugs":[
@@ -87,35 +67,35 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n d #1",
-      "24":"n d #1",
-      "25":"n d #1",
-      "26":"n d #1",
-      "27":"n d #1",
-      "28":"n d #1",
-      "29":"n d #1",
-      "30":"p d #1",
-      "31":"p d #1",
-      "32":"p d #1",
-      "33":"p d #1",
-      "34":"p d #1",
-      "35":"p d #1",
-      "36":"p d #1",
-      "37":"p d #1",
-      "38":"p d #1",
-      "39":"p d #1",
-      "40":"p d #1",
-      "41":"p d #1",
-      "42":"p d #1",
-      "43":"p d #1",
-      "44":"p d #1",
-      "45":"p d #1",
-      "46":"p d #1",
-      "47":"p d #1",
-      "48":"p d #1",
-      "49":"p d #1",
-      "50":"p d #1",
-      "51":"p d #1"
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"p",
+      "31":"p",
+      "32":"p",
+      "33":"p",
+      "34":"p",
+      "35":"p",
+      "36":"p",
+      "37":"p",
+      "38":"p",
+      "39":"p",
+      "40":"p",
+      "41":"p",
+      "42":"p",
+      "43":"p",
+      "44":"p",
+      "45":"p",
+      "46":"p",
+      "47":"p",
+      "48":"p",
+      "49":"p",
+      "50":"p",
+      "51":"p"
     },
     "chrome":{
       "4":"n",
@@ -141,33 +121,33 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"n d",
-      "28":"n d",
-      "29":"n d",
-      "30":"n d",
-      "31":"n d",
-      "32":"n d",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n",
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n",
+      "48":"n",
+      "49":"n",
+      "50":"n",
+      "51":"n",
+      "52":"p",
+      "53":"p",
       "54":"y",
       "55":"y"
     },
@@ -177,10 +157,10 @@
       "4":"n",
       "5":"n",
       "5.1":"n",
-      "6":"p",
-      "6.1":"p",
-      "7":"p",
-      "7.1":"p",
+      "6":"n",
+      "6.1":"n",
+      "7":"n",
+      "7.1":"n",
       "8":"p",
       "9":"p",
       "9.1":"p",
@@ -199,32 +179,32 @@
       "11.6":"n",
       "12":"n",
       "12.1":"n",
-      "15":"n d",
-      "16":"n d",
-      "17":"n d",
-      "18":"n d",
-      "19":"n d",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
+      "33":"n",
+      "34":"n",
+      "35":"n",
+      "36":"n",
+      "37":"n",
+      "38":"n",
+      "39":"n",
+      "40":"n",
       "41":"y"
     },
     "ios_saf":{
@@ -233,11 +213,11 @@
       "4.2-4.3":"n",
       "5.0-5.1":"n",
       "6.0-6.1":"n",
-      "7.0-7.1":"p",
-      "8":"p",
-      "8.1-8.4":"p",
-      "9.0-9.2":"p",
-      "9.3":"p"
+      "7.0-7.1":"n",
+      "8":"n",
+      "8.1-8.4":"n",
+      "9.0-9.2":"n",
+      "9.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -251,8 +231,8 @@
       "4.1":"n",
       "4.2-4.3":"n",
       "4.4":"n",
-      "4.4.3-4.4.4":"y",
-      "51":"y"
+      "4.4.3-4.4.4":"n",
+      "51":"n"
     },
     "bb":{
       "7":"n",
@@ -265,13 +245,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "37":"n"
     },
     "and_chr":{
-      "51":"y"
+      "51":"n"
     },
     "and_ff":{
-      "47":"p d #1"
+      "47":"p"
     },
     "ie_mob":{
       "10":"n",
@@ -281,20 +261,20 @@
       "9.9":"n"
     },
     "samsung":{
-      "4":"y"
+      "4":"n"
     }
   },
-  "notes":"",
+  "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`.",
   "notes_by_num":{
-    "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config"
+
   },
   "usage_perc_y":55.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"web components,registerElement",
+  "keywords":"web components,custom elements",
   "ie_id":"customelements",
-  "chrome_id":"4642138092470272",
+  "chrome_id":"4696261944934400",
   "firefox_id":"custom-elements",
   "webkit_id":"feature-custom-elements",
   "shown":true
