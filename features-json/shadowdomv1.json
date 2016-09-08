@@ -159,8 +159,8 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"y",
-      "TP":"y"
+      "10":"a #1",
+      "TP":"a #1"
     },
     "opera":{
       "9":"n",
@@ -261,7 +261,7 @@
   },
   "notes":"Shadow DOM v0 was implemented in Chrome/Opera but other browser vendors are implementing v1.",
   "notes_by_num":{
-
+    "1": "Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy."
   },
   "usage_perc_y":57.47,
   "usage_perc_a":0,
