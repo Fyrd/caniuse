@@ -31,9 +31,9 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"a",
-      "10":"a",
-      "11":"a"
+      "9":"a #1",
+      "10":"a #1",
+      "11":"a #1"
     },
     "edge":{
       "12":"y",
@@ -263,7 +263,7 @@
   },
   "notes":"Partial support refers to lack of filter support or buggy result from effects. A [CSS Filter Effects](http://www.w3.org/TR/filter-effects/) specification is in the works that would replace this method.",
   "notes_by_num":{
-    
+    "1":"IE11 and below do not support `<foreignObject>`."
   },
   "usage_perc_y":9.31,
   "usage_perc_a":74.42,
