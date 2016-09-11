@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "DOM",
@@ -266,9 +266,9 @@
   },
   "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`. The API is also available in WebKit Nightly.",
   "notes_by_num":{
-
+    
   },
-  "usage_perc_y":55.63,
+  "usage_perc_y":0.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -277,5 +277,5 @@
   "chrome_id":"4696261944934400",
   "firefox_id":"custom-elements",
   "webkit_id":"feature-custom-elements",
-  "shown":true
+  "shown":false
 }

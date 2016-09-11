@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "DOM"
@@ -261,10 +261,10 @@
   },
   "notes":"Shadow DOM v0 was implemented in Chrome/Opera but other browser vendors are implementing v1.",
   "notes_by_num":{
-    "1": "Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy."
+    "1":"Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy."
   },
-  "usage_perc_y":57.47,
-  "usage_perc_a":0,
+  "usage_perc_y":0.17,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components,shadow dom",
@@ -272,5 +272,5 @@
   "chrome_id":"4667415417847808",
   "firefox_id":"shadow-dom",
   "webkit_id":"feature-shadow-dom",
-  "shown":true
+  "shown":false
 }
