@@ -1,19 +1,27 @@
 {
-  "title":"BroadcastChannel",
-  "description":"BroadcastChannel allows scripts from the same origin but other browsing contexts (windows, workers) to send each other messages.",
-  "spec":"https://html.spec.whatwg.org/multipage/comms.html#broadcasting-to-other-browsing-contexts",
-  "status":"ls",
+  "title":"Shadow DOM v1",
+  "description":"Method of establishing and maintaining functional boundaries between DOM trees and how these trees interact with each other within a document, thus enabling better functional encapsulation within the DOM & CSS.",
+  "spec":"https://www.w3.org/TR/shadow-dom/",
+  "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel",
-      "title":"MDN article"
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=148695",
+      "title":"Safari implementation bug"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1205323",
+      "title":"Firefox implementation bug"
+    },
+    {
+      "url":"https://developers.google.com/web/fundamentals/primers/shadowdom/?hl=en",
+      "title":"Google Developers - Shadow DOM v1: self-contained web components"
     }
   ],
   "bugs":[
 
   ],
   "categories":[
-    "JS API"
+    "DOM"
   ],
   "stats":{
     "ie":{
@@ -69,20 +77,20 @@
       "35":"n",
       "36":"n",
       "37":"n",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y",
-      "49":"y",
-      "50":"y",
-      "51":"y"
+      "38":"n",
+      "39":"n",
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n",
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n",
+      "48":"n",
+      "49":"n",
+      "50":"n",
+      "51":"n"
     },
     "chrome":{
       "4":"n",
@@ -134,7 +142,7 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"n",
+      "53":"y",
       "54":"y",
       "55":"y"
     },
@@ -151,8 +159,8 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"n",
-      "TP":"n"
+      "10":"a #1",
+      "TP":"a #1"
     },
     "opera":{
       "9":"n",
@@ -191,7 +199,7 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"n",
+      "40":"y",
       "41":"y"
     },
     "ios_saf":{
@@ -238,7 +246,7 @@
       "51":"n"
     },
     "and_ff":{
-      "47":"y"
+      "47":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -248,21 +256,21 @@
       "9.9":"n"
     },
     "samsung":{
-      "4":"n"
+      "4":"u"
     }
   },
-  "notes":"",
+  "notes":"Shadow DOM v0 was implemented in Chrome/Opera but other browser vendors are implementing v1.",
   "notes_by_num":{
-
+    "1": "Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy."
   },
-  "usage_perc_y":7.01,
+  "usage_perc_y":57.47,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"broadcast,channel,messaging",
-  "ie_id":"",
-  "chrome_id":"4585496197988352",
-  "firefox_id":"",
-  "webkit_id":"",
+  "keywords":"web components,shadow dom",
+  "ie_id":"shadowdom",
+  "chrome_id":"4667415417847808",
+  "firefox_id":"shadow-dom",
+  "webkit_id":"feature-shadow-dom",
   "shown":true
 }
