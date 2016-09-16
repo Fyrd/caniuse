@@ -1,8 +1,8 @@
 {
   "title":"Node.innerText",
-  "description":"A currently-nonstandard property representing the text within a DOM element and its descendants. As a getter, it approximates the text the user would get if they highlighted the contents of the element with the cursor and then copied to the clipboard.",
-  "spec":"http://rocallahan.github.io/innerText-spec/",
-  "status":"unoff",
+  "description":"A property representing the text within a DOM element and its descendants. As a getter, it approximates the text the user would get if they highlighted the contents of the element with the cursor and then copied to the clipboard.",
+  "spec":"https://html.spec.whatwg.org/multipage/dom.html#the-innertext-idl-attribute",
+  "status":"ls",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Node/innerText",
