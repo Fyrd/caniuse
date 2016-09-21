@@ -154,10 +154,10 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y"
+      "53":"n d #1",
+      "54":"n d #1",
+      "55":"n d #1",
+      "56":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -212,8 +212,8 @@
       "37":"n",
       "38":"n",
       "39":"n",
-      "40":"n",
-      "41":"n"
+      "40":"n d #1",
+      "41":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -257,7 +257,7 @@
       "37":"n"
     },
     "and_chr":{
-      "51":"n"
+      "51":"y"
     },
     "and_ff":{
       "48":"n"
@@ -275,9 +275,9 @@
   },
   "notes":"Apple provides an equivalent proprietary API called [Apple Pay JS](https://developer.apple.com/reference/applepayjs/)",
   "notes_by_num":{
-    
+    "1":"Can be enabled via the \"Experimental Web Platform features\" flag"
   },
-  "usage_perc_y":0.17,
+  "usage_perc_y":21.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -286,5 +286,5 @@
   "chrome_id":"5639348045217792",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
