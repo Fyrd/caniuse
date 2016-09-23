@@ -1,5 +1,5 @@
 {
-  "title":"CSS text-stroke",
+  "title":"CSS text-stroke and text-fill",
   "description":"Method of declaring the outline (stroke) width and color for text.",
   "spec":"https://compat.spec.whatwg.org/#text-fill-and-stroking",
   "status":"unoff",
@@ -88,10 +88,10 @@
       "46":"n",
       "47":"n",
       "48":"n d #1",
-      "49":"n d #1",
-      "50":"n d #1",
-      "51":"n d #1",
-      "52":"n d #1"
+      "49":"y x #1",
+      "50":"y x #1",
+      "51":"y x #1",
+      "52":"y x #1"
     },
     "chrome":{
       "4":"y x",
@@ -264,13 +264,13 @@
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
   "notes_by_num":{
-    "1":"Firefox specifically supports the `-webkit-text-stroke` property, not `-moz-text-stroke`. Currently requires the `layout.css.prefixes.webkit` flag to be enabled."
+    "1":"Firefox specifically supports the `-webkit-text-stroke` property, not `-moz-text-stroke`. Requires the `layout.css.prefixes.webkit` flag to be enabled. Enabled by default in Firefox 49."
   },
   "usage_perc_y":70.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"textstroke,stroke-color,stroke-width,fill-color,text-outline",
+  "keywords":"textstroke,stroke-color,stroke-width,text-fill-color,text-outline",
   "ie_id":"webkittextstroke",
   "chrome_id":"",
   "firefox_id":"",
