@@ -22,6 +22,9 @@
     },
     {
       "description":"Chrome has an issue with MPEG-4/H.264 video requests [pending indefinitely](https://code.google.com/p/chromium/issues/detail?id=234779) as well as other [http request issues](https://code.google.com/p/chromium/issues/detail?id=157993)."
+    },
+    {
+      "description":"In Windows 7, the maximum supported resolution is 1920 × 1088 pixels for both software and DXVA decoding. [MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/dd797815(v=vs.85).aspx)."
     }
   ],
   "categories":[
