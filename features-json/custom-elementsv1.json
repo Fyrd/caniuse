@@ -267,7 +267,7 @@
       "4":"n"
     }
   },
-  "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`. The API is also available in WebKit Nightly.",
+  "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`.",
   "notes_by_num":{
     
   },
