@@ -1,6 +1,6 @@
 {
   "title":"DOM Parsing and Serialization",
-  "description":"Various DOM parsing and serializing functions, specifically `DOMParser`, `XMLSerializer`, `innerHTML`, `outerHTML` and `adjacentHTML`.",
+  "description":"Various DOM parsing and serializing functions, specifically `DOMParser`, `XMLSerializer`, `innerHTML`, `outerHTML` and `insertAdjacentHTML`.",
   "spec":"http://www.w3.org/TR/DOM-Parsing/",
   "status":"cr",
   "links":[
@@ -10,7 +10,7 @@
     },
     {
       "url":"http://ejohn.org/blog/dom-insertadjacenthtml/",
-      "title":"Article on insertAdjucentHTML"
+      "title":"Comparing Document Position by John Resig"
     }
   ],
   "bugs":[
