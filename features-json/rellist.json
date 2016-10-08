@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "DOM",
@@ -199,7 +199,8 @@
       "38":"a #1",
       "39":"a #1",
       "40":"a #1",
-      "41":"a #1"
+      "41":"a #1",
+      "42":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -243,10 +244,10 @@
       "37":"n"
     },
     "and_chr":{
-      "51":"n"
+      "53":"n"
     },
     "and_ff":{
-      "48":"y"
+      "49":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -261,10 +262,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1": "Chrome and Chromium based browsers support relList on link elements, but not anchor elements"
+    "1":"Chrome and Chromium based browsers support relList on link elements, but not anchor elements"
   },
   "usage_perc_y":17.51,
-  "usage_perc_a":0,
+  "usage_perc_a":25.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

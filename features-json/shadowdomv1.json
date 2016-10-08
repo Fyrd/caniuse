@@ -202,7 +202,8 @@
       "38":"n",
       "39":"n",
       "40":"y",
-      "41":"y"
+      "41":"y",
+      "42":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -246,10 +247,10 @@
       "37":"n"
     },
     "and_chr":{
-      "51":"n"
+      "53":"y"
     },
     "and_ff":{
-      "48":"n"
+      "49":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -266,7 +267,7 @@
   "notes_by_num":{
     "1":"Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy."
   },
-  "usage_perc_y":11.34,
+  "usage_perc_y":33.37,
   "usage_perc_a":2.72,
   "ucprefix":false,
   "parent":"",

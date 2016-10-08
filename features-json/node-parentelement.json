@@ -17,7 +17,7 @@
   ],
   "stats":{
     "ie":{
-      "5.5":"u",    
+      "5.5":"u",
       "6":"a #2",
       "7":"a #2",
       "8":"a #2",
@@ -194,7 +194,8 @@
       "38":"u",
       "39":"u",
       "40":"u",
-      "41":"u"
+      "41":"u",
+      "42":"u"
     },
     "ios_saf":{
       "3.2":"u",
@@ -238,10 +239,10 @@
       "37":"u"
     },
     "and_chr":{
-      "51":"y"
+      "53":"y"
     },
     "and_ff":{
-      "48":"y"
+      "49":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -259,8 +260,8 @@
     "1":"Only supported on `Element`s.",
     "2":"Only supported on `Element`s and `Comment`s."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":73.56,
+  "usage_perc_a":5.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"Node,parentElement,parent,element,DOM",
@@ -268,5 +269,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }

@@ -202,7 +202,8 @@
       "38":"y x",
       "39":"y x",
       "40":"y x",
-      "41":"y x"
+      "41":"y x",
+      "42":"y x"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -246,10 +247,10 @@
       "37":"y x"
     },
     "and_chr":{
-      "51":"y x"
+      "53":"y x"
     },
     "and_ff":{
-      "48":"n"
+      "49":"y x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -266,7 +267,7 @@
   "notes_by_num":{
     "1":"Firefox specifically supports the `-webkit-text-stroke` property, not `-moz-text-stroke`. Requires the `layout.css.prefixes.webkit` flag to be enabled. Enabled by default in Firefox 49."
   },
-  "usage_perc_y":70.72,
+  "usage_perc_y":70.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
