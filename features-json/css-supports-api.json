@@ -184,7 +184,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"y #1",
+      "12.1":"a #1",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -228,7 +228,7 @@
       "10":"y"
     },
     "op_mini":{
-      "all":"y #1"
+      "all":"a #1"
     },
     "android":{
       "2.1":"n",
@@ -252,7 +252,7 @@
       "11.1":"n",
       "11.5":"n",
       "12":"n",
-      "12.1":"y",
+      "12.1":"a #1",
       "37":"y"
     },
     "and_chr":{
@@ -272,12 +272,12 @@
       "4":"y"
     }
   },
-  "notes":"See also [@supports in CSS](#feat=css-featurequeries)\r\n\r\nSee the [WebKit Bug](http://trac.webkit.org/changeset/142739) for status in Safari",
+  "notes":"See also [@supports in CSS](#feat=css-featurequeries)",
   "notes_by_num":{
-    "1":"Opera 12 uses a different method name('window.supportsCSS')"
+    "1":"Partial support in Presto-based Opera browsers refers to using an older API (`window.supportsCSS`)"
   },
-  "usage_perc_y":76.55,
-  "usage_perc_a":0,
+  "usage_perc_y":76.45,
+  "usage_perc_a":4.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"conditional",
