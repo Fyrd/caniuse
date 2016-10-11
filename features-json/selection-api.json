@@ -1,6 +1,6 @@
 {
   "title":"Selection API",
-  "description":"API for accessing selected content of a document, including the `window.getSelection()` method, as well as the `selectstart` & `selectionchanged` events on `document`.",
+  "description":"API for accessing selected content of a document, including the `window.getSelection()` method, as well as the `selectstart` & `selectionchange` events on `document`.",
   "spec":"https://www.w3.org/TR/selection-api/",
   "status":"wd",
   "links":[
