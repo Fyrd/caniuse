@@ -231,9 +231,9 @@
       "2.2":"a #2",
       "2.3":"a #2",
       "3":"y",
-      "4":"y",
-      "4.1":"y",
-      "4.2-4.3":"y",
+      "4":"y #3",
+      "4.1":"y #3",
+      "4.2-4.3":"y #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
       "52":"y"
@@ -271,7 +271,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in older iOS Safari refers to [buggy behavior](http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/).",
-    "2":"Only works in Android 2.1 thru 2.3 by using the following meta tag: <meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">."
+    "2":"Only works in Android 2.1 thru 2.3 by using the following meta tag: <meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">.",
+    "3":"Android 4.0-4.3 [ignore transforms and margin:auto on position:fixed elements](https://codepen.io/mattiacci/pen/mPRKZY)."
   },
   "usage_perc_y":93.34,
   "usage_perc_a":0.14,
