@@ -118,7 +118,7 @@
       "49":"a x",
       "50":"a x",
       "51":"a x",
-      "52":"a x"
+      "52":"a"
     },
     "chrome":{
       "4":"a x",
@@ -292,7 +292,7 @@
   },
   "notes":"Partial support refers to not supporting the `break-before`, `break-after`, `break-inside` properties. WebKit- and Blink-based browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*`.",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":11.47,
   "usage_perc_a":85.61,
