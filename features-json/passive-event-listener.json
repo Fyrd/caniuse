@@ -223,7 +223,7 @@
       "10":"n"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
       "2.1":"n",
@@ -238,8 +238,8 @@
       "52":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -254,24 +254,24 @@
       "53":"y"
     },
     "and_ff":{
-      "49":"n"
+      "49":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11":"u"
+      "11":"y"
     },
     "samsung":{
-      "4":"u"
+      "4":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":48.06,
+  "usage_perc_y":56.56,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -280,5 +280,5 @@
   "chrome_id":"5745543795965952",
   "firefox_id":"passive-event-listeners",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
