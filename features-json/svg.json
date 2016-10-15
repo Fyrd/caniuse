@@ -37,7 +37,7 @@
       "description":"SVG graphics look pixelated when zooming in or using scaled up images in Opera Mini & Opera Mobile 12.1-."
     },
     {
-      "description":"IE9-Edge12, Safari 5.1-6, and UCWeb 11 (U3/0.8 Engine) do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`. Polyfills are available: [server-side inlining + snippet](http://codepen.io/hexalys/pen/epErZj/) - [script](https://github.com/jonathantneal/svg4everybody)"
+      "description":"IE9-Edge12, Safari 5.1-6, and UCWeb 11 do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`. Polyfills are available: [server-side inlining + snippet](http://codepen.io/hexalys/pen/epErZj/) - [script](https://github.com/jonathantneal/svg4everybody)"
     },
     {
       "description":"Chrome 48+ [no longer has support](https://www.chromestatus.com/feature/5708851034718208) for the SVGPathSeg interface. Polyfills are available: [original](https://github.com/progers/pathseg/blob/master/pathseg.js) - [SVG 2 draft-based](https://github.com/jarek-foksa/path-data-polyfill.js)"
@@ -225,7 +225,8 @@
       "38":"y",
       "39":"y",
       "40":"y",
-      "41":"y"
+      "41":"y",
+      "42":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -269,18 +270,16 @@
       "37":"y"
     },
     "and_chr":{
-      "51":"y"
+      "53":"y"
     },
     "and_ff":{
-      "48":"y"
+      "49":"y"
     },
     "ie_mob":{
       "10":"y #2",
       "11":"y #2"
     },
     "and_uc":{
-      "9.9":"y",
-      "10":"y",
       "11":"y"
     },
     "samsung":{
@@ -292,8 +291,8 @@
     "1":"Partial support in Android 3 & 4 refers to not supporting masking.",
     "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](http://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
   },
-  "usage_perc_y":96.6,
-  "usage_perc_a":0.77,
+  "usage_perc_y":96.72,
+  "usage_perc_a":0.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset",
