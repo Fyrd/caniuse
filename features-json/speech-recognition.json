@@ -270,7 +270,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to some attributes missing.",
-    "2":"Supported in Firefox in about:config using the `media.webspeech.recognition.enable` flag.",
+    "2":"Firefox currently has a `media.webspeech.recognition.enable` flag in about:config for this, but actual support is waiting for permissions to be sorted out.",
     "3":"Reported to be in development for Samsung Internet for GearVR, due Q1/2017"
   },
   "usage_perc_y":0,
