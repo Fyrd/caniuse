@@ -268,7 +268,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to lacking support for `parseFromString` on the DOMParser.",
-    "2":"Partial support in older IE refers to only supporting `innerHTML`, nothing else."
+    "2":"Partial support refers to supporting only `innerHTML`.",
+    "3":"Partial support refers to supporting only `innerHTML` and `insertAdjacentHTML`."
   },
   "usage_perc_y":82.2,
   "usage_perc_a":15.84,
