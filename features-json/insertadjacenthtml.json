@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Prior to [Technology Preview 15](https://webkit.org/blog/6987/release-notes-for-safari-technology-preview-15/), Safari [did not fully match the current specification](https://bugs.webkit.org/show_bug.cgi?id=162479)."
+    }
   ],
   "categories":[
     "JS API"
