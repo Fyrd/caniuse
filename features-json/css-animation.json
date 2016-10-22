@@ -35,6 +35,9 @@
     },
     {
       "description":"IE10 and IE11 on Windows 7 have a bug where translate transform values are always interpreted as pixels when used in animations [test case](http://codepen.io/flxsource/pen/jPYWoE)"
+    },
+    {
+      "description":"IE10 and IE11 will not fire Animation events for pseudo element animations. See [example here](http://codepen.io/dogoku/pen/JRwbmL)"
     }
   ],
   "categories":[
