@@ -1,12 +1,20 @@
 {
   "title":"ES6 classes",
-  "description":"Class definitions in ES6.",
+  "description":"ES6 classes are syntactical sugar to provide a much simpler and clearer syntax to create objects and deal with inheritance.",
   "spec":"http://www.ecma-international.org/ecma-262/6.0/#sec-class-definitions",
-  "status":"wd",
+  "status":"other",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes",
-      "title":"Classes"
+      "title":"MDN article on ES6 classes"
+    },
+    {
+      "url":"https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/",
+      "title":"Sitepoint deep dive on ES6 classes"
+    },
+    {
+      "url":"https://github.com/joshburgess/not-awesome-es6-classes",
+      "title":"List of resources critical of ES6 classes"
     }
   ],
   "bugs":[
@@ -26,9 +34,9 @@
       "11":"n"
     },
     "edge":{
-      "12":"u",
-      "13":"u",
-      "14":"u"
+      "12":"y",
+      "13":"y",
+      "14":"y"
     },
     "firefox":{
       "2":"n",
@@ -70,7 +78,7 @@
       "36":"n",
       "37":"n",
       "38":"n",
-      "39":"u",
+      "39":"n",
       "40":"n",
       "41":"n",
       "42":"n",
@@ -139,7 +147,7 @@
       "54":"y",
       "55":"y",
       "56":"y",
-      "57":"u"
+      "57":"y"
     },
     "safari":{
       "3.1":"n",
@@ -155,7 +163,7 @@
       "9":"y",
       "9.1":"y",
       "10":"y",
-      "TP":"u"
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -175,100 +183,100 @@
       "18":"n",
       "19":"n",
       "20":"n",
-      "21":"u",
-      "22":"u",
-      "23":"u",
-      "24":"u",
-      "25":"u",
-      "26":"u",
-      "27":"u",
-      "28":"u",
-      "29":"u",
-      "30":"u",
-      "31":"u",
-      "32":"u",
-      "33":"u",
-      "34":"u",
-      "35":"u",
-      "36":"u",
-      "37":"u",
-      "38":"u",
-      "39":"u",
-      "40":"u",
-      "41":"u",
-      "42":"u",
-      "43":"u"
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"a #1",
+      "30":"a #1",
+      "31":"a #1",
+      "32":"a #1",
+      "33":"a #1",
+      "34":"a #1",
+      "35":"a #1",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y"
     },
     "ios_saf":{
-      "3.2":"u",
-      "4.0-4.1":"u",
-      "4.2-4.3":"u",
-      "5.0-5.1":"u",
-      "6.0-6.1":"u",
-      "7.0-7.1":"u",
-      "8":"u",
-      "8.1-8.4":"u",
-      "9.0-9.2":"u",
-      "9.3":"u",
-      "10":"u"
+      "3.2":"n",
+      "4.0-4.1":"n",
+      "4.2-4.3":"n",
+      "5.0-5.1":"n",
+      "6.0-6.1":"n",
+      "7.0-7.1":"n",
+      "8":"n",
+      "8.1-8.4":"n",
+      "9.0-9.2":"y",
+      "9.3":"y",
+      "10":"y"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
       "2.1":"n",
       "2.2":"n",
       "2.3":"n",
       "3":"n",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
-      "53":"u"
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n",
+      "4.4.3-4.4.4":"n",
+      "53":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
-      "37":"u"
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
+      "37":"y"
     },
     "and_chr":{
-      "53":"u"
+      "53":"y"
     },
     "and_ff":{
-      "49":"u"
+      "49":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
-      "11":"u"
+      "11":"n"
     },
     "samsung":{
-      "4":"u"
+      "4":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Requires strict mode. Non-strict mode support is behind the flag 'Enable Experimental JavaScript', disabled by default."
   },
-  "usage_perc_y":34.68,
-  "usage_perc_a":1.25,
+  "usage_perc_y":67.69,
+  "usage_perc_a":1.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,JavaScript,class",
-  "ie_id":"",
-  "chrome_id":"",
+  "ie_id":"classeses6",
+  "chrome_id":"4633745457938432",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
