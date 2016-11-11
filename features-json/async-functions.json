@@ -32,7 +32,7 @@
     "edge":{
       "12":"n",
       "13":"n",
-      "14":"n d"
+      "14":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -87,7 +87,7 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"y"
+      "52":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -261,9 +261,10 @@
       "4":"n"
     }
   },
-  "notes":"Async functions are present in Firefox Nightly since 31th October 2016",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Since build 14342 - disabled by default; can be enabled through about:flags",
+    "2":"Async functions are present in Firefox Nightly since 31th October 2016." 
   },
   "usage_perc_y":0.1,
   "usage_perc_a":0,
@@ -272,7 +273,7 @@
   "keywords":"ES2017,JavaScript,function,async,await,promises,asynchronous",
   "ie_id":"asyncfunctions",
   "chrome_id":"5643236399906816",
-  "firefox_id":"",
+  "firefox_id":"async-function",
   "webkit_id":"",
   "shown":false
 }
