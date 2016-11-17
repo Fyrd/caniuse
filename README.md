@@ -1,3 +1,5 @@
+![image](https://travis-ci.org/Fyrd/caniuse.svg?branch=master)
+
 This repo contains raw data from the caniuse.com support tables. It serves two purposes:
 
 1. The ability for anyone interested to update or add to the support data on the site. If you are interested in this, please read the [CONTRIBUTING file](CONTRIBUTING.md).
