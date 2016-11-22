@@ -154,18 +154,18 @@
       "57":"p"
     },
     "safari":{
-      "3.1":"a",
-      "3.2":"a",
-      "4":"a",
-      "5":"a",
-      "5.1":"a",
-      "6":"a",
-      "6.1":"a",
-      "7":"a",
-      "7.1":"a",
-      "8":"a",
-      "9":"a",
-      "9.1":"a",
+      "3.1":"a #2",
+      "3.2":"a #2",
+      "4":"a #2",
+      "5":"a #2",
+      "5.1":"a #2",
+      "6":"a #2",
+      "6.1":"a #2",
+      "7":"a #2",
+      "7.1":"a #2",
+      "8":"a #2",
+      "9":"a #2",
+      "9.1":"a #2",
       "10":"y",
       "TP":"y"
     },
@@ -271,7 +271,8 @@
   },
   "notes":"Opera's support is limited to a CSS profile of MathML. Support was added in Chrome 24, but removed afterwards due to instability.",
   "notes_by_num":{
-    "1":"Before version 4, Firefox only supports the XHTML notation"
+    "1":"Before version 4, Firefox only supports the XHTML notation",
+    "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test"
   },
   "usage_perc_y":18.65,
   "usage_perc_a":9.43,
