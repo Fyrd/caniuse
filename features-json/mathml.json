@@ -13,6 +13,10 @@
       "title":"MathML demos"
     },
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test",
+      "title":"MathML torture test"
+    },
+    {
       "url":"http://www.mathjax.org",
       "title":"Cross-browser support script"
     },
@@ -154,18 +158,18 @@
       "57":"p"
     },
     "safari":{
-      "3.1":"p",
-      "3.2":"p",
-      "4":"p",
-      "5":"p",
-      "5.1":"y",
-      "6":"y",
-      "6.1":"y",
-      "7":"y",
-      "7.1":"y",
-      "8":"y",
-      "9":"y",
-      "9.1":"y",
+      "3.1":"a #2",
+      "3.2":"a #2",
+      "4":"a #2",
+      "5":"a #2",
+      "5.1":"a #2",
+      "6":"a #2",
+      "6.1":"a #2",
+      "7":"a #2",
+      "7.1":"a #2",
+      "8":"a #2",
+      "9":"a #2",
+      "9.1":"a #2",
       "10":"y",
       "TP":"y"
     },
@@ -271,7 +275,8 @@
   },
   "notes":"Opera's support is limited to a CSS profile of MathML. Support was added in Chrome 24, but removed afterwards due to instability.",
   "notes_by_num":{
-    "1":"Before version 4, Firefox only supports the XHTML notation"
+    "1":"Before version 4, Firefox only supports the XHTML notation",
+    "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test"
   },
   "usage_perc_y":18.65,
   "usage_perc_a":9.43,
