@@ -13,16 +13,16 @@
       "title":"MathML demos"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test",
-      "title":"MathML torture test"
-    },
-    {
       "url":"http://www.mathjax.org",
       "title":"Cross-browser support script"
     },
     {
       "url":"https://developer.mozilla.org/en/MathML/Element",
       "title":"MDN element reference"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test",
+      "title":"MathML torture test"
     }
   ],
   "bugs":[
@@ -99,7 +99,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "chrome":{
       "4":"p",
@@ -278,8 +279,8 @@
     "1":"Before version 4, Firefox only supports the XHTML notation",
     "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test"
   },
-  "usage_perc_y":18.65,
-  "usage_perc_a":9.43,
+  "usage_perc_y":17.25,
+  "usage_perc_a":10.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
