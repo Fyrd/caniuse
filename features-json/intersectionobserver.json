@@ -92,8 +92,8 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"y",
-      "53":"y"
+      "52":"n d #1",
+      "53":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -269,7 +269,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Enabled in Firefox by setting the `about:config` preference `dom.IntersectionObserver.enabled` to true"
   },
   "usage_perc_y":48.29,
   "usage_perc_a":0,
