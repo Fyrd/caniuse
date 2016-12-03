@@ -219,7 +219,7 @@
       "8.1-8.4":"y",
       "9.0-9.2":"y",
       "9.3":"y",
-      "10":"y"
+      "10-10.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -271,7 +271,7 @@
     "1":"IE<=8 instead only supports the [proprietary `.attachEvent()` method](https://msdn.microsoft.com/en-us/library/ms536343%28VS.85%29.aspx). It also does not support the [capture phase](http://www.w3.org/TR/DOM-Level-3-Events/#event-flow) of DOM event dispatch; it only supports event bubbling.",
     "2":"The `useCapture` parameter is non-optional and must be provided. Future versions made it optional, with a default value of `false`."
   },
-  "usage_perc_y":97.54,
+  "usage_perc_y":97.69,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

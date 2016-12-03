@@ -227,7 +227,7 @@
       "8.1-8.4":"a x",
       "9.0-9.2":"a x",
       "9.3":"a x",
-      "10":"a x"
+      "10-10.1":"a x"
     },
     "op_mini":{
       "all":"n"
@@ -278,8 +278,8 @@
   "notes_by_num":{
     "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
-  "usage_perc_y":6.81,
-  "usage_perc_a":85.85,
+  "usage_perc_y":6.72,
+  "usage_perc_a":86.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

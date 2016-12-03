@@ -225,7 +225,7 @@
       "8.1-8.4":"y",
       "9.0-9.2":"y",
       "9.3":"y",
-      "10":"y"
+      "10-10.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -277,8 +277,8 @@
     "1":"Support is limited to images and linked resources like CSS files, not HTML or JS files. Max URI length is 32KB.",
     "2":"Support is limited to images and linked resources like CSS or JS, not HTML files. Maximum size limit is 4GB."
   },
-  "usage_perc_y":91.08,
-  "usage_perc_a":6.9,
+  "usage_perc_y":91.41,
+  "usage_perc_a":6.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"data url,datauris,data uri,dataurl,dataurls,base64",

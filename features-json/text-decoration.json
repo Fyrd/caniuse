@@ -227,7 +227,7 @@
       "8.1-8.4":"a x #2",
       "9.0-9.2":"a x #2",
       "9.3":"a x #2",
-      "10":"a x #2"
+      "10-10.1":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -280,8 +280,8 @@
     "2":"Partial support in Safari refers to not supporting the text-decoration-style property.",
     "3":"Safari 8+ supports `-webkit-text-decoration-skip` with values `none` and `skip` (other values behave like `none` or `skip`)"
   },
-  "usage_perc_y":6.96,
-  "usage_perc_a":11.11,
+  "usage_perc_y":6.84,
+  "usage_perc_a":11.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",

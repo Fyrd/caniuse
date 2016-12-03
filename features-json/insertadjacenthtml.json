@@ -217,7 +217,7 @@
       "8.1-8.4":"y",
       "9.0-9.2":"y",
       "9.3":"y",
-      "10":"y"
+      "10-10.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -268,8 +268,8 @@
   "notes_by_num":{
     "1":"Throws an \"Invalid target element for this operation.\" error [when called on a table, tbody, thead, or tr element.](http://ejohn.org/blog/dom-insertadjacenthtml/)"
   },
-  "usage_perc_y":97.02,
-  "usage_perc_a":0.79,
+  "usage_perc_y":97.25,
+  "usage_perc_a":0.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"element,insert,adjacent,HTML",

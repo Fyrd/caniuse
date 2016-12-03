@@ -220,7 +220,7 @@
       "8.1-8.4":"a x #2",
       "9.0-9.2":"a x #2",
       "9.3":"a x #2",
-      "10":"a x #2"
+      "10-10.1":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -273,7 +273,7 @@
     "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":86.67,
+  "usage_perc_a":87.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"margin-start,margin-end,padding-start,padding-end,border-start,border-end,inline-start,inline-end,block-start,block-end",
