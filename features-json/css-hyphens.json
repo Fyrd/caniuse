@@ -150,9 +150,9 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n",
-      "56":"n",
-      "57":"n"
+      "55":"a #1",
+      "56":"a #1",
+      "57":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -270,9 +270,9 @@
       "4":"n"
     }
   },
-  "notes":"Chrome and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. It is [advisable to set the @lang attribute](http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html) on the HTML element to enable hyphenation support and improve accessibility.",
+  "notes":"Chrome < 55 and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. It is [advisable to set the @lang attribute](http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html) on the HTML element to enable hyphenation support and improve accessibility.",
   "notes_by_num":{
-    
+    "1":"Only supports the \"auto\" value [on Mac for now](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05)."
   },
   "usage_perc_y":23.84,
   "usage_perc_a":8.86,
