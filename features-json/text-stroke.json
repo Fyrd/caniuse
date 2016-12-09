@@ -37,7 +37,7 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"y x #1"
     },
     "firefox":{
       "2":"n",
@@ -88,7 +88,7 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"n d #1",
+      "48":"n d #1 #2",
       "49":"y x #1",
       "50":"y x #1",
       "51":"y x #1",
@@ -270,7 +270,8 @@
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
   "notes_by_num":{
-    "1":"Firefox specifically supports the `-webkit-text-stroke` property, not `-moz-text-stroke`. Requires the `layout.css.prefixes.webkit` flag to be enabled. Enabled by default in Firefox 49."
+    "1":"Firefox & Edge specifically support the `-webkit-text-stroke` property without having support with their own prefix.",
+    "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
   "usage_perc_y":76.27,
   "usage_perc_a":0,
