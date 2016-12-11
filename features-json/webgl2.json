@@ -87,9 +87,9 @@
       "48":"n d #2",
       "49":"n d #2",
       "50":"n d #2",
-      "51":"n d #2",
-      "52":"n d #2",
-      "53":"n d #2"
+      "51":"y",
+      "52":"y",
+      "53":"y"
     },
     "chrome":{
       "4":"n",
@@ -144,9 +144,9 @@
       "53":"n d #3",
       "54":"n d #3",
       "55":"n d #3",
-      "56":"n d #3",
-      "57":"n d #3",
-      "58":"n d #3"
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "safari":{
       "3.1":"n",
@@ -204,7 +204,7 @@
       "40":"n",
       "41":"n",
       "42":"n",
-      "43":"n"
+      "43":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -271,7 +271,7 @@
     "3":"Can be enabled in Chrome by passing the \"--enable-unsafe-es3-apis\" flag when starting the browser through the command line",
     "4":"Can be enabled via the \"Experimental Features\" developer menu"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.13,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",
