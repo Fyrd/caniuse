@@ -5,16 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
-      "title":"Mozilla Developer Network article"
-    },
-    {
       "url":"https://developer.apple.com/reference/webkitjs/webkitcssmatrix",
-      "title":"Apple API Reference for WebKitCSSMatrix"
+      "title":"API Reference"
     },
     {
       "url":"https://compat.spec.whatwg.org/#webkitcssmatrix-interface",
       "title":"WebkitCSSMatrix in Compatibility Standard"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
+      "title":"Mozilla Developer Network article"
     }
   ],
   "bugs":[
