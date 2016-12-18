@@ -7,6 +7,10 @@
     {
       "url":"http://docs.webplatform.org/wiki/html/attributes/required",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://webkit.org/blog/7099/html-interactive-form-validation/",
+      "title":"WebKit Blog: HTML Interactive Form Validation"
     }
   ],
   "bugs":[
@@ -166,7 +170,7 @@
       "9":"a #1",
       "9.1":"a #1",
       "10":"a #1",
-      "TP":"a #1"
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -282,6 +286,6 @@
   "ie_id":"",
   "chrome_id":"6091813840486400",
   "firefox_id":"",
-  "webkit_id":"",
+  "webkit_id":"feature-html-interactive-form-validation",
   "shown":true
 }
