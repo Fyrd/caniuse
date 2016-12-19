@@ -262,7 +262,7 @@
   "notes_by_num":{
     "1":"The appearance property is supported with the `none` value, but not `auto`. Webkit, Blink, and Gecko browsers also support additional vendor specific values.",
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
-    "3":"-moz-appearance:none on a combobox not remove the dropdown arrow"
+    "3":"-moz-appearance:none doesn't remove the dropdown arrow in select tag"
   },
   "usage_perc_y":0,
   "usage_perc_a":88.66,
