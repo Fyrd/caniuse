@@ -25,7 +25,7 @@
       "description":"iOS 6.1 and below do not support animation on pseudo-elements. iOS 7 and higher are reported to have buggy behavior with animating pseudo-elements."
     },
     {
-      "description":"@keyframes not supported in an inline or scoped stylesheet in Firefox (bug 830056)"
+      "description":"@keyframes not supported in an inline or scoped stylesheet in Firefox ([bug 830056](https://bugzilla.mozilla.org/show_bug.cgi?id=830056))"
     },
     {
       "description":"In Chrome `animation-fill-mode backwards` is wrong if `steps(x, start)` is used [see example](http://codepen.io/Fyrd/pen/jPPKpX)."
