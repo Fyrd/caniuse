@@ -32,6 +32,9 @@
   "bugs":[
     {
       "description":"IE and Edge do not fire the `popstate` event when the URL's [hash value changes](http://codepen.io/Fyrd/pen/wBVGjK). See [MS bug report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/3740423/)."
+    },
+    {
+      "description":"iOS Chrome [lose history](https://bugs.chromium.org/p/chromium/issues/detail?id=664443) records when changing domain."
     }
   ],
   "categories":[
