@@ -31,7 +31,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome 26 doesn't support the attribute preserveAspectRatio=none."
+      "description":"Chrome 26 doesn't support the attribute `preserveAspectRatio=none`."
     },
     {
       "description":"SVG graphics look pixelated when zooming in or using scaled up images in Opera Mini & Opera Mobile 12.1-."
@@ -40,7 +40,7 @@
       "description":"IE9-Edge12, Safari 5.1-6, and UCWeb 11 do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`. Polyfills are available: [server-side inlining + snippet](http://codepen.io/hexalys/pen/epErZj/) - [script](https://github.com/jonathantneal/svg4everybody)"
     },
     {
-      "description":"Chrome 48+ [no longer has support](https://www.chromestatus.com/feature/5708851034718208) for the SVGPathSeg interface. Polyfills are available: [original](https://github.com/progers/pathseg/blob/master/pathseg.js) - [SVG 2 draft-based](https://github.com/jarek-foksa/path-data-polyfill.js)"
+      "description":"Chrome 48+ [no longer has support](https://www.chromestatus.com/feature/5708851034718208) for the `SVGPathSeg` interface. Polyfills are available: [original](https://github.com/progers/pathseg/blob/master/pathseg.js) - [SVG 2 draft-based](https://github.com/jarek-foksa/path-data-polyfill.js)"
     }
   ],
   "categories":[
