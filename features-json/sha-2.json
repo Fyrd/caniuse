@@ -9,9 +9,9 @@
       "title":"DigiCert compatibility table"
     },
     {
-	  "url":"https://support.globalsign.com/customer/portal/articles/1499561-sha-256-compatibility",
-	  "title":"GlobalSign compatibility table"
-	}
+      "url":"https://support.globalsign.com/customer/portal/articles/1499561-sha-256-compatibility",
+      "title":"GlobalSign compatibility table"
+    }
   ],
   "bugs":[
     
@@ -267,11 +267,11 @@
   },
   "notes":"Intent to implement by Mozilla",
   "notes_by_num":{
-	"1": "Support dependent on operating system",
-    "2": "Some users may encounter issues with validating certificates that use cross certificates"
+    "1":"Support dependent on operating system",
+    "2":"Some users may encounter issues with validating certificates that use cross certificates"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":79.53,
+  "usage_perc_a":0.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"ssl, tls, sha-2, certificate",
