@@ -7,6 +7,18 @@
     {
       "url":"https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/",
       "title":"Intro to ES6 modules"
+    },
+    {
+      "url":"https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/",
+      "title":"MS Edge blog post on ES6 modules support"
+    },
+    {
+      "url":"https://hacks.mozilla.org/2015/08/es6-in-depth-modules/",
+      "title":"Mozilla hacks article"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=568953",
+      "title":"Firefox support bug"
     }
   ],
   "bugs":[
@@ -29,7 +41,7 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -158,7 +170,7 @@
       "9":"n",
       "9.1":"n",
       "10":"n",
-      "TP":"n"
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -263,7 +275,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Support can be enabled via `about:flags`"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
@@ -274,5 +286,5 @@
   "chrome_id":"5365692190687232",
   "firefox_id":"",
   "webkit_id":"feature-modules",
-  "shown":false
+  "shown":true
 }
