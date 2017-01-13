@@ -1,6 +1,6 @@
 {
   "title":"CSS touch-action property",
-  "description":"touch-action is a CSS property that controls filtering of gesture events, providing developers with a declarative mechanism to selectively disable touch scrolling (in one or both axes), pinch-zooming or double-tap-zooming.",
+  "description":"touch-action is a CSS property that controls filtering of gesture events, providing developers with a declarative mechanism to selectively disable touch scrolling (in one or both axes) or double-tap-zooming.",
   "spec":"http://www.w3.org/TR/pointerevents/#the-touch-action-css-property",
   "status":"rec",
   "links":[
@@ -288,7 +288,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Supported in Firefox behind the `layout.css.touch_action.enabled` flag, Firefox for Windows 8 Touch ('Metro') enabled by default.",
-    "2":"IE10+ has already supported these property which are not in standard at present such as `pinch-zoom`, `double-tap-zoom`, `cross-slide-x`, `cross-slide-y`.",
+    "2":"IE10+ has already supported these property which are not in standard at present such as `double-tap-zoom`, `cross-slide-x`, `cross-slide-y`.",
     "3":"Safari only supports `auto` and `manipulation`."
   },
   "usage_perc_y":61.76,
