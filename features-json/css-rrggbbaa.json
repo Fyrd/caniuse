@@ -1,12 +1,16 @@
 {
   "title":"#rrggbbaa hex color notation",
-  "description":"The CSS Color Module Level 4 defines new 4 & 8 character hex notation for color.",
+  "description":"The CSS Color Module Level 4 defines new 4 & 8 character hex notation for color to include the opacity level.",
   "spec":"https://drafts.csswg.org/css-color/#hex-notation",
   "status":"unoff",
   "links":[
     {
       "url":"http://jsbin.com/ruyetahatu/edit?html,css,output",
       "title":"JS Bin testcase"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/17366608--rrggbbaa-and-rgba-color-notation-support",
+      "title":"Edge support request for rrggbbaa"
     }
   ],
   "bugs":[
@@ -29,7 +33,7 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"u"
+      "15":"n"
     },
     "firefox":{
       "2":"n",
@@ -229,7 +233,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "53":"n d #1"
+      "53":"n"
     },
     "bb":{
       "7":"n",
@@ -245,7 +249,7 @@
       "37":"n"
     },
     "and_chr":{
-      "55":"n"
+      "55":"n d #1"
     },
     "and_ff":{
       "50":"y"
@@ -269,10 +273,10 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"color,colour",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"5685348285808640",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
