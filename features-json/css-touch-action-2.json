@@ -1,31 +1,33 @@
 {
-  "title":"ES6 module",
-  "description":"Import/export modules in JavaScript in ES6",
-  "spec":"http://www.ecma-international.org/ecma-262/6.0/#sec-exports",
-  "status":"ls",
+  "title":"CSS touch-action level 2 values",
+  "description":"touch-action is a CSS property that controls filtering of gesture events. Level 2 provides developers with a declarative mechanism to selectively disable direction-specific touch scrolling and pinch-zooming.",
+  "spec":"https://www.w3.org/TR/pointerevents2/#the-touch-action-css-property",
+  "status":"wd",
   "links":[
     {
-      "url":"https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/",
-      "title":"Intro to ES6 modules"
+      "url":"https://compat.spec.whatwg.org/#touch-action",
+      "title":"WHATWG Compatibility Specification extensions"
     },
     {
-      "url":"https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/",
-      "title":"MS Edge blog post on ES6 modules support"
+      "url":"http://output.jsbin.com/dahaga",
+      "title":"Pull to refresh demo using touch-action"
     },
     {
-      "url":"https://hacks.mozilla.org/2015/08/es6-in-depth-modules/",
-      "title":"Mozilla hacks article"
+      "url":"http://msdn.microsoft.com/en-us/library/windows/apps/hh767313.aspx",
+      "title":"MSDN Docs"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=568953",
-      "title":"Firefox support bug"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action",
+      "title":"Mozilla Developer Network"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome treats two parallel finger swipes as `pan` instead of `pinch-zoom`."
+    }
   ],
   "categories":[
-    "JS API"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -34,14 +36,14 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"n",
-      "11":"n"
+      "10":"a x #1",
+      "11":"a #1"
     },
     "edge":{
-      "12":"n",
-      "13":"n",
-      "14":"n",
-      "15":"n d #1"
+      "12":"a #1",
+      "13":"a #1",
+      "14":"a #1",
+      "15":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -151,10 +153,10 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n",
-      "56":"n",
-      "57":"n",
-      "58":"n"
+      "55":"a #2",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "safari":{
       "3.1":"n",
@@ -170,7 +172,7 @@
       "9":"n",
       "9.1":"n",
       "10":"n",
-      "TP":"y"
+      "TP":"n"
     },
     "opera":{
       "9":"n",
@@ -211,9 +213,9 @@
       "39":"n",
       "40":"n",
       "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n"
+      "42":"a #2",
+      "43":"y",
+      "44":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -257,34 +259,35 @@
       "37":"n"
     },
     "and_chr":{
-      "55":"n"
+      "55":"a #2"
     },
     "and_ff":{
       "50":"n"
     },
     "ie_mob":{
-      "10":"n",
-      "11":"n"
+      "10":"a x #1",
+      "11":"a #1"
     },
     "and_uc":{
       "11":"n"
     },
     "samsung":{
-      "4":"n"
+      "4":"u"
     }
   },
-  "notes":"",
+  "notes":"Due to scoping issues of the W3C Pointer Events Working Group, `pinch-zoom` appears in the WHATWG Compatibility Standard instead of W3C Pointer Events Level 2.",
   "notes_by_num":{
-    "1":"Support can be enabled via `about:flags`"
+    "1":"IE and Edge only support `pinch-zoom`.",
+    "2":"Chromium 55 derived browsers implement direction-specific panning but do not support `pinch-zoom`."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":0.13,
+  "usage_perc_a":41.88,
   "ucprefix":false,
-  "parent":"",
-  "keywords":"es6,module,import,export",
-  "ie_id":"moduleses6",
-  "chrome_id":"5365692190687232",
+  "parent":"css-touch-action",
+  "keywords":"touch action,level 2",
+  "ie_id":"touchactionpanuppandownpanleftpanrightcssproperties",
+  "chrome_id":"5712439765106688,5670200775016448",
   "firefox_id":"",
-  "webkit_id":"feature-modules",
-  "shown":true
+  "webkit_id":"",
+  "shown":false
 }
