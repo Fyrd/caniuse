@@ -31,14 +31,15 @@
     {
       "url":"http://docs.webplatform.org/wiki/css/transforms/transform",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/status/supportcsstransformsonsvg/",
+      "title":"IE platform status (SVG)"
     }
   ],
   "bugs":[
     {
       "description":"Scaling transforms in Android 2.3 fails to scale element background images."
-    },
-    {
-      "description":"IE 10 and below does not support CSS transforms on SVG elements (though SVG transform attributes do work)."
     },
     {
       "description":"In IE9 the caret of a `textarea` disappears when you use translate."
@@ -56,15 +57,15 @@
       "6":"p",
       "7":"p",
       "8":"p",
-      "9":"y x",
-      "10":"y",
-      "11":"y"
+      "9":"y x #1",
+      "10":"y #1",
+      "11":"y #1"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y"
+      "12":"y #1",
+      "13":"y #1",
+      "14":"y #1",
+      "15":"y #1"
     },
     "firefox":{
       "2":"n",
@@ -298,7 +299,7 @@
   },
   "notes":"The scale transform can be emulated in IE < 9 using Microsoft's \"zoom\" extension, others are (not easily) possible using the MS Matrix filter",
   "notes_by_num":{
-    
+    "1":"Does not support CSS transforms on SVG elements (transform attribute can be used instead)"
   },
   "usage_perc_y":93.29,
   "usage_perc_a":0,
