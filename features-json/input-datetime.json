@@ -107,7 +107,7 @@
       "51":"n",
       "52":"n",
       "53":"n",
-      "54":"y"
+      "54":"n d #4"
     },
     "chrome":{
       "4":"n",
@@ -288,7 +288,8 @@
   "notes_by_num":{
     "1":"Partial support in Microsoft Edge refers to supporting `date`, `week`, and `month` input types, and not `time` and `datetime-local`.",
     "2":"Partial support in iOS Safari refers to not supporting `min`, `max` or `step` attributes",
-    "3":"Some modified versions of the Android 4.x browser do have support for date/time fields."
+    "3":"Some modified versions of the Android 4.x browser do have support for date/time fields.",
+    "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag."
   },
   "usage_perc_y":69.27,
   "usage_perc_a":9.68,
