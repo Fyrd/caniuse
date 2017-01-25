@@ -101,7 +101,8 @@
       "50":"n d #1",
       "51":"n d #1",
       "52":"n d #1",
-      "53":"n d #1"
+      "53":"n d #1",
+      "54":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -173,7 +174,8 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"y",
+      "10":"n",
+      "10.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -277,11 +279,11 @@
       "4":"y x"
     }
   },
-  "notes":"Supported in current WebKit nightly, so may appear in an upcoming Safari version.",
+  "notes":"",
   "notes_by_num":{
     "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag."
   },
-  "usage_perc_y":59.53,
+  "usage_perc_y":58.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

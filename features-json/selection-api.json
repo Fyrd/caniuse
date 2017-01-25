@@ -85,7 +85,8 @@
       "50":"a #1 #5",
       "51":"a #1 #5",
       "52":"y",
-      "53":"y"
+      "53":"y",
+      "54":"y"
     },
     "chrome":{
       "4":"u",
@@ -158,6 +159,7 @@
       "9":"y",
       "9.1":"y",
       "10":"y",
+      "10.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -269,7 +271,7 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":76.33,
+  "usage_perc_y":76.34,
   "usage_perc_a":16.98,
   "ucprefix":false,
   "parent":"",
