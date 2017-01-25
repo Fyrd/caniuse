@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Firefox [does not yet](https://bugzilla.mozilla.org/show_bug.cgi?id=943918) support `<length>` values"
+      "description":"Firefox up to and including 52 [did not](https://bugzilla.mozilla.org/show_bug.cgi?id=943918) support `<length>` values"
     }
   ],
   "categories":[
@@ -91,7 +91,7 @@
       "50":"a x #1",
       "51":"a x #1",
       "52":"a x #1",
-      "53":"a x #1"
+      "53":"y x"
     },
     "chrome":{
       "4":"n",

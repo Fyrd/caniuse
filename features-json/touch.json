@@ -5,6 +5,10 @@
   "status":"rec",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Touch_events",
+      "title":"MDN \u2013 Touch events"
+    },
+    {
       "url":"http://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
@@ -106,8 +110,8 @@
       "49":"n d #1",
       "50":"n d #1",
       "51":"n d #1",
-      "52":"n d #1",
-      "53":"n d #1"
+      "52":"y",
+      "53":"y"
     },
     "chrome":{
       "4":"n",
