@@ -149,9 +149,10 @@
       "53":"a #1 #2",
       "54":"a #1 #2",
       "55":"a #1 #2",
-      "56":"a #1 #2",
-      "57":"a #1 #2",
-      "58":"a #1 #2"
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "59":"y"
     },
     "safari":{
       "3.1":"n",
@@ -209,9 +210,9 @@
       "39":"n",
       "40":"n",
       "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n"
+      "42":"y",
+      "43":"y",
+      "44":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -230,9 +231,9 @@
       "all":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
       "3":"u",
       "4":"u",
       "4.1":"u",
@@ -276,8 +277,8 @@
     "1":"HTMLMediaElement.canPlayType('audio/flac') returns an empty string",
     "2":"Only works on ChromeOS"
   },
-  "usage_perc_y":13.19,
-  "usage_perc_a":25.58,
+  "usage_perc_y":13.47,
+  "usage_perc_a":25.45,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"flac,lossless,audio",
@@ -285,5 +286,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
