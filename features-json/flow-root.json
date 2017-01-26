@@ -1,6 +1,6 @@
 {
   "title":"display: flow-root",
-  "description":"The element generates a block container box, and lays out its contents using flow layout. It always establishes a new block formatting context for its contents.",
+  "description":"The element generates a block container box, and lays out its contents using flow layout. It always establishes a new block formatting context for its contents. The result is the same as the \"clearfix\" hack.",
   "spec":"https://www.w3.org/TR/css-display-3/#valdef-display-flow-root",
   "status":"wd",
   "links":[
@@ -21,12 +21,8 @@
       "title":"Edge bug report"
     },
     {
-      "url":"https://discourse.wicg.io/t/containing-floated-children-with-clear-after-modern-clearfix/1835/9",
-      "title":"Intent to implement by Mozilla"
-    },
-    {
-      "url":"https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/k9WOAVA5Ewc",
-      "title":"Intent to implement and ship by Chromium"
+      "url":"https://rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/",
+      "title":"Blog post: \"The end of the clearfix hack?\""
     }
   ],
   "bugs":[
@@ -106,8 +102,8 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"n",
-      "54":"n"
+      "53":"y",
+      "54":"y"
     },
     "chrome":{
       "4":"n",
@@ -164,7 +160,7 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"n"
+      "58":"y"
     },
     "safari":{
       "3.1":"n",
@@ -224,7 +220,7 @@
       "41":"n",
       "42":"n",
       "43":"n",
-      "44":"n"
+      "44":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -284,7 +280,7 @@
       "4":"n"
     }
   },
-  "notes":"Intent to implement by Mozilla",
+  "notes":"",
   "notes_by_num":{
     
   },
@@ -292,10 +288,10 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"display, flow-root",
+  "keywords":"display,flow-root",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5769454877147136",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
