@@ -65,6 +65,9 @@
     },
     {
       "description":"Safari 10 and below uses min/max width/height declarations for actually rendering the size of flex items, but it ignores those values when calculating how many items should be on a single line of a multi-line flex container. Instead, it simply uses the item's flex-basis value, or its width if the flex basis is set to auto. [see bug](https://bugs.webkit.org/show_bug.cgi?id=136041). Fixed in all versions > 10."
+    },
+    {
+      "description":"IE 11 does not support `initial` variable on property `order` on flexbox."
     }
   ],
   "categories":[
