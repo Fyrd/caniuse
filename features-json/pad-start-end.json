@@ -1,12 +1,16 @@
 {
-  "title":"String.prototype.padStart()",
-  "description":"The padStart() method pads the current string with a given string (eventually repeated) so that the resulting string reaches a given length. The pad is applied from the start (left) of the current string.",
+  "title":"String.prototype.padStart(), String.prototype.padEnd()",
+  "description":"The padStart() and padEnd() methods pads the current string with a given string (eventually repeated) so that the resulting string reaches a given length. The pad is applied from the start (left) of the current string for padStart(), and applied from the end (right) of the current string for padEnd().",
   "spec":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart",
   "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart",
-      "title":"Mozilla Developer Network"
+      "title":"padStart()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padEnd",
+      "title":"padEnd()"
     }
   ],
   "bugs":[
@@ -80,9 +84,9 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
+      "48":"y",
+      "49":"y",
+      "50":"y",
       "51":"y",
       "52":"y",
       "53":"y",
@@ -272,7 +276,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"pad,pad start",
+  "keywords":"pad,pad start,pad end",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
