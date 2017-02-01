@@ -15,6 +15,10 @@
     {
       "url":"http://www.html5labs.com/prototypes/object-rtc/object-rtc/info",
       "title":"Prototype implementation for ORTC"
+    },
+    {
+      "url":"https://blogs.windows.com/msedgedev/2017/01/31/introducing-webrtc-microsoft-edge/",
+      "title":"Introducing WebRTC 1.0 and interoperable real-time communications in Microsoft Edge"
     }
   ],
   "bugs":[
@@ -37,7 +41,7 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n d #2"
+      "15":"y"
     },
     "firefox":{
       "2":"n",
@@ -272,10 +276,9 @@
       "4":"y x"
     }
   },
-  "notes":"Microsoft is working on a compatible implementation known as [ObjectRTC](http://blogs.msdn.com/b/ie/archive/2014/10/27/bringing-interoperable-real-time-communications-to-the-web.aspx)",
+  "notes":"Microsoft also offers a compatible implementation known as [ObjectRTC](http://blogs.msdn.com/b/ie/archive/2014/10/27/bringing-interoperable-real-time-communications-to-the-web.aspx). See [Object RTC](http://caniuse.com/#feat=objectrtc) for support details for that API.",
   "notes_by_num":{
-    "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed.",
-    "2":"Can be enabled via the \"Enable WebRTC 1.0\" flag"
+    "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed."
   },
   "usage_perc_y":62.79,
   "usage_perc_a":0,
