@@ -278,9 +278,10 @@
   },
   "notes":"Microsoft also offers a compatible implementation known as [ObjectRTC](http://blogs.msdn.com/b/ie/archive/2014/10/27/bringing-interoperable-real-time-communications-to-the-web.aspx). See [Object RTC](http://caniuse.com/#feat=objectrtc) for support details for that API.",
   "notes_by_num":{
-    "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed."
+    "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed.",
+    "2":"Can be enabled via the \"Enable WebRTC 1.0\" flag"
   },
-  "usage_perc_y":62.79,
+  "usage_perc_y":63.45,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
