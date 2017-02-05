@@ -13,12 +13,16 @@
       "title":"HTML5 Rocks article"
     },
     {
-      "url":"http://lab.iamvdo.me/css-svg-masks",
-      "title":"Visual test cases"
+      "url":"http://thenittygritty.co/css-masking",
+      "title":"Detailed blog post"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1224422",
       "title":"Firefox implementation bug"
+    },
+    {
+      "url":"http://lab.iamvdo.me/css-svg-masks",
+      "title":"Visual test cases"
     }
   ],
   "bugs":[
@@ -263,7 +267,7 @@
       "55":"a x #1"
     },
     "and_ff":{
-      "50":"a #2"
+      "51":"a #2"
     },
     "ie_mob":{
       "10":"n",
