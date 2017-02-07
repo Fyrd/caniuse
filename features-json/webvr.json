@@ -6,7 +6,19 @@
   "links":[
     {
       "url":"https://webvr.rocks/",
-      "title":"Detailed support information"
+      "title":"Detailed device support information"
+    },
+    {
+      "url":"https://github.com/googlevr/webvr-polyfill",
+      "title":"WebVR polyfill"
+    },
+    {
+      "url":"http://aframe.io",
+      "title":"WebVR framework"
+    },
+    {
+      "url":"https://webvr.info/",
+      "title":"WebVR info"
     }
   ],
   "bugs":[
@@ -29,7 +41,7 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"u"
+      "15":"a #3"
     },
     "firefox":{
       "2":"n",
@@ -160,8 +172,8 @@
       "9":"n",
       "9.1":"n",
       "10":"n",
-      "10.1":"u",
-      "TP":"u"
+      "10.1":"n",
+      "TP":"n"
     },
     "opera":{
       "9":"n",
@@ -266,8 +278,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available in Firefox nightly",
-    "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the specification."
+    "1":"Available only in Firefox nightly & Firefox Developer Edition, not yet on track to be enabled for stable & beta builds.",
+    "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification.",
+    "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
@@ -278,5 +291,5 @@
   "chrome_id":"4532810371039232",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
