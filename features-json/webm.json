@@ -44,8 +44,8 @@
     "edge":{
       "12":"p",
       "13":"p",
-      "14":"y",
-      "15":"y"
+      "14":"p",
+      "15":"p"
     },
     "firefox":{
       "2":"n",
@@ -280,7 +280,7 @@
       "4":"a"
     }
   },
-  "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all.",
+  "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all. MS Edge supports VP9 from MSE sources, also progressive sources are not supported by Edge.",
   "notes_by_num":{
     
   },
