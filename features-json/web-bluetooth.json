@@ -153,10 +153,10 @@
       "53":"n d #1 #3",
       "54":"n d #1 #3",
       "55":"n d #1 #3",
-      "56":"n d #1 #3",
-      "57":"u",
-      "58":"u",
-      "59":"u"
+      "56":"y #4",
+      "57":"y #4",
+      "58":"y #4",
+      "59":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -215,8 +215,8 @@
       "40":"n d #1 #3",
       "41":"n d #1 #3",
       "42":"n d #1 #3",
-      "43":"u",
-      "44":"u"
+      "43":"y #4",
+      "44":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -283,7 +283,8 @@
   "notes_by_num":{
     "1":"Available by enabling the \"Web Bluetooth\" experimental flag in `about:flags`. Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)",
     "2":"Only in Opera Mobile",
-    "3":"Available in [Origin Trials](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials) for Chrome OS, Android M, and Mac"
+    "3":"Available in [Origin Trials](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials) for Chrome OS, Android M, and Mac",
+    "4":"Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
