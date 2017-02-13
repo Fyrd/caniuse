@@ -270,6 +270,9 @@
     },
     "samsung":{
       "4":"y"
+    },
+    "and_qq":{
+      "1.2":"y"
     }
   },
   "notes":"The HTTP header is `Content-Security-Policy: upgrade-insecure-requests`. Alternatively, the HTML tag is `<meta http-equiv=\"Content-Security-Policy\" content=\"upgrade-insecure-requests\">`.",

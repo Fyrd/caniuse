@@ -278,6 +278,9 @@
     },
     "samsung":{
       "4":"a #1"
+    },
+    "and_qq":{
+      "1.2":"y"
     }
   },
   "notes":"Whether `<option selected>` matches `:default` (per the spec) was not tested since `<select>`s and `<option>`s are generally not styleable, which makes it hard to formulate a test for this.",

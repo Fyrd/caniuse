@@ -32,9 +32,6 @@
     },
     {
       "description":"In Internet Explorer the `timeout` property may only be set after calling `open` and before calling `send`."
-    },
-    {
-      "description":"IE10 and IE11, the request body will be corrupted, if the last checkable input is not checked. [More details](https://blog.yorkxin.org/2014/02/06/ajax-with-formdata-is-broken-on-ie10-ie11)."
     }
   ],
   "categories":[
@@ -288,6 +285,9 @@
     },
     "samsung":{
       "4":"y"
+    },
+    "and_qq":{
+      "1.2":"y"
     }
   },
   "notes":"",

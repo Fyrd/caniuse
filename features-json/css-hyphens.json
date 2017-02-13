@@ -274,6 +274,9 @@
     },
     "samsung":{
       "4":"n"
+    },
+    "and_qq":{
+      "1.2":"n"
     }
   },
   "notes":"Chrome < 55 and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. It is [advisable to set the @lang attribute](http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html) on the HTML element to enable hyphenation support and improve accessibility.",

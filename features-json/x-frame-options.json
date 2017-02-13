@@ -278,6 +278,9 @@
     },
     "samsung":{
       "4":"a"
+    },
+    "and_qq":{
+      "1.2":"a"
     }
   },
   "notes":"Partial support refers to not supporting the `ALLOW-FROM` option.\r\nThe `X-Frame-Options` header has been obsoleted by [the `frame-ancestors` directive](https://www.w3.org/TR/CSP2/#directive-frame-ancestors) from Content Security Policy Level 2.",

@@ -272,6 +272,9 @@
     },
     "samsung":{
       "4":"y"
+    },
+    "and_qq":{
+      "1.2":"y"
     }
   },
   "notes":"When the content of a node with a single CharacterData child node is changed by innerHTML attribute and the node have a single different one as a result, WebKit browsers consider it as a characterData mutation of the child CharacterData node, while other browsers think it as a childList mutation of the parent node.",

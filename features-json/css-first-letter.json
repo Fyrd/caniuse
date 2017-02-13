@@ -267,6 +267,9 @@
     },
     "samsung":{
       "4":"y"
+    },
+    "and_qq":{
+      "1.2":"y"
     }
   },
   "notes":"The spec says that both letters of digraphs which are always capitalized together (such as \"IJ\" in Dutch) should be matched by ::first-letter, but no browser has ever implemented this.",
