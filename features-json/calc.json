@@ -44,6 +44,12 @@
     },
     {
       "description":"IE11 does not support transitioning values set with `calc()`"
+    },
+    {
+      "description":"IE 9 - 11 and Edge do not support `width: calc()` on table cells. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10982196/)"
+    },
+    {
+      "description":"Firefox does not support `width: calc()` on table cells. [Bug Report](https://bugzilla.mozilla.org/show_bug.cgi?id=1297576)"
     }
   ],
   "categories":[
