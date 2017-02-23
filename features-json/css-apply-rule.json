@@ -1,32 +1,19 @@
 {
-  "title":"Media Capture from DOM Elements API",
-  "description":"API to capture Real-Time video and audio from a DOM element, such as a <video>, <audio>, or <canvas> element, in the form of a MediaStream",
-  "spec":"https://w3c.github.io/mediacapture-fromelement/",
-  "status":"wd",
+  "title":"CSS @apply rule",
+  "description":"Allows a set of CSS properties to be applied using a named variable",
+  "spec":"https://tabatkins.github.io/specs/css-apply-rule/",
+  "status":"unoff",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/captureStream",
-      "title":"MDN entry - capture from <canvas>"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/captureStream",
-      "title":"MDN entry - capture from <video>/<audio>"
-    },
-    {
-      "url":"https://www.chromestatus.com/features/4817998447640576",
-      "title":"Media capture from Canvas - Chrome status"
-    },
-    {
-      "url":"https://www.chromestatus.com/features/5522768674160640",
-      "title":"Media Capture from HTML Media Element - Chrome status"
+      "url":"http://zeke.sikelianos.com/css-from-the-future/",
+      "title":"Article on CSS @apply"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "DOM",
-    "JS API"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -42,7 +29,7 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"u"
     },
     "firefox":{
       "2":"n",
@@ -88,18 +75,18 @@
       "40":"n",
       "41":"n",
       "42":"n",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y"
+      "43":"n",
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n",
+      "48":"n",
+      "49":"n",
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n"
     },
     "chrome":{
       "4":"n",
@@ -149,15 +136,15 @@
       "48":"n",
       "49":"n",
       "50":"n",
-      "51":"y d #1",
-      "52":"y d #1",
-      "53":"y d #1",
-      "54":"y d #1",
-      "55":"y d #1",
-      "56":"y d #1",
-      "57":"y d #1",
-      "58":"y d #1",
-      "59":"y d #1"
+      "51":"n d #1",
+      "52":"n d #1",
+      "53":"n d #1",
+      "54":"n d #1",
+      "55":"n d #1",
+      "56":"n d #1",
+      "57":"n d #1",
+      "58":"n d #1",
+      "59":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -174,7 +161,7 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "TP":"n"
+      "TP":"u"
     },
     "opera":{
       "9":"n",
@@ -209,16 +196,16 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y"
+      "36":"n",
+      "37":"n",
+      "38":"n d #1",
+      "39":"n d #1",
+      "40":"n d #1",
+      "41":"n d #1",
+      "42":"n d #1",
+      "43":"n d #1",
+      "44":"n d #1",
+      "45":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -259,10 +246,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "37":"n d #1"
     },
     "and_chr":{
-      "56":"y"
+      "56":"n d #1"
     },
     "and_ff":{
       "51":"n"
@@ -281,18 +268,18 @@
       "1.2":"n"
     }
   },
-  "notes":"",
+  "notes":"See also support for [CSS Variables](#feat=css-variables)",
   "notes_by_num":{
-    "1":"Capture from <video>/<audio> can be enabled via the Experimental Web Platform Features flag."
+    "1":"Can be enabled via the \"Experimental web platform features\" flag under about:flags"
   },
-  "usage_perc_y":55.8,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"stream",
-  "keywords":"canvas,mediastream,capture",
+  "parent":"",
+  "keywords":"",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5753701012602880",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
