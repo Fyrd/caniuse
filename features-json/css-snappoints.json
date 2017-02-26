@@ -2,7 +2,7 @@
   "title":"CSS Scroll snap points",
   "description":"CSS technique that allows customizable scrolling experiences like pagination of carousels by setting defined snap points.",
   "spec":"http://www.w3.org/TR/css-snappoints-1/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"http://generatedcontent.org/post/66817675443/setting-native-like-scrolling-offsets-in-css-with",
@@ -30,14 +30,14 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a x #1",
-      "11":"a x #2"
+      "10":"a x #1 #5",
+      "11":"a x #2 #5"
     },
     "edge":{
-      "12":"a x #2",
-      "13":"a x #2",
-      "14":"a x #2",
-      "15":"a x #2"
+      "12":"a x #2 #5",
+      "13":"a x #2 #5",
+      "14":"a x #2 #5",
+      "15":"a x #2 #5"
     },
     "firefox":{
       "2":"n",
@@ -79,22 +79,22 @@
       "36":"n",
       "37":"n",
       "38":"n",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y"
+      "39":"a #5",
+      "40":"a #5",
+      "41":"a #5",
+      "42":"a #5",
+      "43":"a #5",
+      "44":"a #5",
+      "45":"a #5",
+      "46":"a #5",
+      "47":"a #5",
+      "48":"a #5",
+      "49":"a #5",
+      "50":"a #5",
+      "51":"a #5",
+      "52":"a #5",
+      "53":"a #5",
+      "54":"a #5"
     },
     "chrome":{
       "4":"n",
@@ -165,11 +165,11 @@
       "7":"n",
       "7.1":"n",
       "8":"n",
-      "9":"a x #4",
-      "9.1":"a x #4",
-      "10":"a x #4",
-      "10.1":"a x #4",
-      "TP":"a x #4"
+      "9":"a x #4 #5",
+      "9.1":"a x #4 #5",
+      "10":"a x #4 #5",
+      "10.1":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -224,9 +224,9 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9.0-9.2":"y x",
-      "9.3":"y x",
-      "10.0-10.2":"y x"
+      "9.0-9.2":"a x #4 #5",
+      "9.3":"a x #4 #5",
+      "10.0-10.2":"a x #4 #5"
     },
     "op_mini":{
       "all":"n"
@@ -260,7 +260,7 @@
       "56":"n"
     },
     "and_ff":{
-      "51":"n"
+      "51":"a #5"
     },
     "ie_mob":{
       "10":"n",
@@ -280,16 +280,16 @@
   "notes_by_num":{
     "1":"Partial support in IE10 refers to support limited to touch screens.",
     "2":"Partial support in IE11 [documented here](https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/scroll-snap-points/support.html)",
-    "3":"Can be enabled in Firefox using the `layout.css.scroll-snap.enabled` flag in `about:config`",
-    "4":"Partial support in Safari refers to not supporting the `none` keyword in `scroll-snap-points-x`, `scroll-snap-points-y` and `scroll-snap-coordinate`, and length keywords (`top`, `right`, etc.) in `scroll-snap-destination` and `scroll-snap-coordinate`."
+    "4":"Partial support in Safari refers to not supporting the `none` keyword in `scroll-snap-points-x`, `scroll-snap-points-y` and `scroll-snap-coordinate`, and length keywords (`top`, `right`, etc.) in `scroll-snap-destination` and `scroll-snap-coordinate`.",
+    "5":"Supports properties from an [older version](https://www.w3.org/TR/2015/WD-css-snappoints-1-20150326/) of the spec."
   },
-  "usage_perc_y":15.62,
-  "usage_perc_a":7.82,
+  "usage_perc_y":0,
+  "usage_perc_a":23.47,
   "ucprefix":false,
   "parent":"",
-  "keywords":"scroll-snap-points-x,scroll-snap-points-y,scroll-snap-type,scroll-snap-destination,scroll-snap-coordinate",
+  "keywords":"scroll-snap-points-x,scroll-snap-points-y,scroll-snap-type,scroll-snap-destination,scroll-snap-coordinate,scroll-snap-margin,scroll-snap-align",
   "ie_id":"cssscrollsnappoints",
-  "chrome_id":"",
+  "chrome_id":"5721832506261504",
   "firefox_id":"",
   "webkit_id":"specification-css-scroll-snap-points-module-level-1",
   "shown":true

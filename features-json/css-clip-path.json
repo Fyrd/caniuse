@@ -1,6 +1,6 @@
 {
-  "title":"CSS clip-path property",
-  "description":"Method of defining the visible region of an element using SVG or a shape definition.",
+  "title":"CSS clip-path property (for HTML)",
+  "description":"Method of defining the visible region of an HTML element using SVG or a shape definition.",
   "spec":"http://www.w3.org/TR/css-masking-1/#the-clip-path",
   "status":"cr",
   "links":[
@@ -276,7 +276,7 @@
       "1.2":"a x #2"
     }
   },
-  "notes":"",
+  "notes":"Support refers to the `clip-path` CSS property on HTML elements specifically. Support for `clip-path` in SVG is supported in all browsers with [basic SVG](#feat=svg) support.",
   "notes_by_num":{
     "1":"Partial support refers to only supporting the `url()` syntax.",
     "2":"Partial support refers to supporting shapes and the `url(#foo)` syntax for inline SVG, but not shapes in external SVGs.",
