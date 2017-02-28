@@ -53,7 +53,7 @@
       "description":"In IE10 the default value for `flex` is `0 0 auto` rather than `0 1 auto` as defined in the latest spec."
     },
     {
-      "description":"In Safari, the height of (non flex) children are not recognized in percentages. However other browsers recognize and scale the children based on percentage heights. ([See bug](https://bugs.webkit.org/show_bug.cgi?id=137730)) The bug also appeared in Chrome but was fixed in [Chrome 51](http://crbug.com/341310)"
+      "description":"In Safari 10 and below, the height of (non flex) children are not recognized in percentages. However other browsers recognize and scale the children based on percentage heights. Fixed in all versions > 10. ([See bug](https://bugs.webkit.org/show_bug.cgi?id=137730)) The bug also appeared in Chrome but was fixed in [Chrome 51](http://crbug.com/341310)"
     },
     {
       "description":"Firefox 51 and below does not support [Flexbox in button elements](https://bugzilla.mozilla.org/show_bug.cgi?id=984869#c2). Fixed in version 52."
