@@ -240,13 +240,13 @@
       "all":"n"
     },
     "android":{
-      "2.1":"a x #1",
-      "2.2":"a x #1",
-      "2.3":"a x #1",
-      "3":"a x #1",
-      "4":"a x #1",
-      "4.1":"a x #1",
-      "4.2-4.3":"a x #1",
+      "2.1":"a x #1 #3",
+      "2.2":"a x #1 #3",
+      "2.3":"a x #1 #3",
+      "3":"a x #1 #3",
+      "4":"a x #1 #3",
+      "4.1":"a x #1 #3",
+      "4.2-4.3":"a x #1 #3",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
       "53":"a x #1"
@@ -287,7 +287,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in WebKit/Blink browsers refers to supporting the mask-image and mask-box-image properties, but lacking support for other parts of the spec.",
-    "2":"Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo)."
+    "2":"Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo).",
+    "3":"Partial support refers to supporting the mask-box-image shorthand but not the longhand properties"
   },
   "usage_perc_y":0,
   "usage_perc_a":87.69,
