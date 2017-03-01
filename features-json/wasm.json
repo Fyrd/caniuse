@@ -84,7 +84,7 @@
       "49":"n d #1",
       "50":"n d #1",
       "51":"n d #1",
-      "52":"y",
+      "52":"y #4",
       "53":"y",
       "54":"y"
     },
@@ -272,7 +272,8 @@
   "notes_by_num":{
     "1":"Can be enabled via the `javascript.options.wasm` in `about:config`",
     "2":"Can be enabled via the `#enable-webassembly` flag",
-    "3":"Can be enabled via the Experimental JavaScript Features flag"
+    "3":"Can be enabled via the Experimental JavaScript Features flag",
+    "4":"Disabled for Firefox 52 ESR"
   },
   "usage_perc_y":0.1,
   "usage_perc_a":0,
