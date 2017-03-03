@@ -331,7 +331,7 @@
   "notes_by_num":{
     "1":"Only supports the [old flexbox](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723) specification and does not support wrapping.",
     "2":"Only supports the [2012 syntax](http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/)",
-    "3":"Does not support flex-wrap or flex-flow properties",
+    "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
   "usage_perc_y":82.91,
