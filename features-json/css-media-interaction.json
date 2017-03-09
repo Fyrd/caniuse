@@ -20,7 +20,10 @@
   "bugs":[
     {
       "description":"[Firefox tracking bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1035774)"
-    }
+    },
+    {
+      "description":"[Chrome issue 442418: Support dynamic values for interaction media queries](https://bugs.chromium.org/p/chromium/issues/detail?id=442418)"
+    }  
   ],
   "categories":[
     "CSS"
