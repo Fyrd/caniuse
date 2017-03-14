@@ -9,10 +9,6 @@
       "title":"IE Blog post"
     },
     {
-      "url":"https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/",
-      "title":"WebKit Blog post"
-    },
-    {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
       "title":"Webkit (Chrome, Safari, etc.) feature request"
     },
@@ -27,6 +23,10 @@
     {
       "url":"https://github.com/FremyCompany/css-grid-polyfill/",
       "title":"Polyfill based on new spec"
+    },
+    {
+      "url":"https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/",
+      "title":"WebKit Blog post"
     }
   ],
   "bugs":[
@@ -165,7 +165,8 @@
       "56":"p d #1",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y"
     },
     "safari":{
       "3.1":"n",

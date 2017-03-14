@@ -14,6 +14,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "DOM",
@@ -149,7 +150,8 @@
       "56":"p",
       "57":"p",
       "58":"p",
-      "59":"p"
+      "59":"p",
+      "60":"p"
     },
     "safari":{
       "3.1":"u",
@@ -275,15 +277,16 @@
   },
   "notes":"With introduction of this feature there will be no longer click event fired for non-primary buttons",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"click,auxclick,non-primary button,middle click,",
-  "shown":true,
   "ie_id":"",
   "chrome_id":"5663174342737920",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }
