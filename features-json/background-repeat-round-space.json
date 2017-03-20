@@ -1,6 +1,6 @@
 {
   "title":"CSS background-repeat round and space",
-  "description":"Allows CSS background images to be repeated without cliping.",
+  "description":"Allows CSS background images to be repeated without clipping.",
   "spec":"http://www.w3.org/TR/css3-background/#background-position",
   "status":"cr",
   "links":[
@@ -10,7 +10,7 @@
     },
     {
       "url":"https://css-tricks.com/almanac/properties/b/background-repeat/",
-      "title":"CSS-Trick article on background-repeatn"
+      "title":"CSS-Tricks article on background-repeat"
     }
   ],
   "bugs":[
@@ -25,7 +25,7 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"y",
+      "9":"a #1",
       "10":"y",
       "11":"y"
     },
@@ -85,7 +85,7 @@
       "46":"n",
       "47":"n",
       "48":"n",
-      "49":"n",
+      "49":"y",
       "50":"y",
       "51":"y",
       "52":"y",
@@ -115,13 +115,13 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
       "32":"y",
       "33":"y",
       "34":"y",
@@ -181,10 +181,10 @@
       "11.6":"y",
       "12":"y",
       "12.1":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
       "19":"y",
       "20":"y",
       "21":"y",
@@ -276,16 +276,16 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"IE9 does not appear to render \"background-repeat: round\" correctly."
   },
-  "usage_perc_y":85.92,
-  "usage_perc_a":0,
+  "usage_perc_y":85.6,
+  "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",
-  "keywords":"4 value syntax",
+  "keywords":"4 value syntax,background-repeat: round,background-repeat: space",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
