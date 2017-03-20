@@ -231,7 +231,7 @@
       "10.0-10.2":"y #1"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
       "2.1":"n",
@@ -247,7 +247,7 @@
     },
     "bb":{
       "7":"u",
-      "10":"u"
+      "10":"y"
     },
     "op_mob":{
       "10":"n",
@@ -256,7 +256,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"u"
+      "37":"y"
     },
     "and_chr":{
       "56":"y"
@@ -265,14 +265,14 @@
       "51":"n"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
-      "11":"u"
+      "11":"a #3"
     },
     "samsung":{
-      "4":"u"
+      "4":"y"
     },
     "and_qq":{
       "1.2":"u"
@@ -281,10 +281,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"iOS6-10 do not support the capture attribute used to force capture straight from the device's camera or microphone",
-    "2":"Android 2.2-2.3 do not support the capture attribute"
+    "2":"Android 2.2-2.3 do not support the capture attribute",
+    "3":"Supports a \"capture\" button for any `<input type=\"file\"> field, regardless of the whether the capture attribute is used."
   },
-  "usage_perc_y":37.84,
-  "usage_perc_a":0,
+  "usage_perc_y":41.41,
+  "usage_perc_a":9.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"htmlmediacapture, html media capture, media capture, mediacapture",
@@ -292,5 +293,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
