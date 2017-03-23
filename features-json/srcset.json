@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Edge 14 intermittently displays distorted images as soon as it encounters a srcset attribute, seemingly dependent on caching and network timing. [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7778808/)"
+    }
   ],
   "categories":[
     "HTML5"
@@ -32,7 +34,7 @@
     "edge":{
       "12":"a #2",
       "13":"y",
-      "14":"y",
+      "14":"n #3",
       "15":"y"
     },
     "firefox":{
@@ -277,7 +279,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled in Firefox by setting the about:config preference dom.image.srcset.enabled to true",
-    "2":"Supports the subset of the syntax for resolution switching (using the `x` descriptor), but not the full syntax that can be used with `sizes` (using the `w` descriptor)."
+    "2":"Supports the subset of the syntax for resolution switching (using the `x` descriptor), but not the full syntax that can be used with `sizes` (using the `w` descriptor).",
+    "3":"Intermittently displays distorted images due to bug present (see known issues)"
   },
   "usage_perc_y":85.25,
   "usage_perc_a":0.78,
