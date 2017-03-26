@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome treats two parallel finger swipes as `pan` instead of `pinch-zoom`."
+      "description":"Chrome 58 and below treats two parallel finger swipes as `pan` instead of `pinch-zoom`."
     }
   ],
   "categories":[
@@ -265,7 +265,7 @@
       "37":"n"
     },
     "and_chr":{
-      "56":"a #2"
+      "56":"y"
     },
     "and_ff":{
       "51":"n"
