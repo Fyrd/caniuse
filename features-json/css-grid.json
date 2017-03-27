@@ -163,7 +163,7 @@
       "54":"p d #1",
       "55":"p d #1",
       "56":"p d #1",
-      "57":"y",
+      "57":"y #4",
       "58":"y",
       "59":"y",
       "60":"y"
@@ -294,7 +294,8 @@
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
-    "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag"
+    "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag",
+    "4":"Grid does not initially display with certain JavaScript ([bug report](https://bugs.chromium.org/p/chromium/issues/detail?id=700383))"
   },
   "usage_perc_y":0.32,
   "usage_perc_a":5.96,
