@@ -13,7 +13,7 @@
       "title":"Blog post"
     },
     {
-      "url":"http://docs.webplatform.org/wiki/css/properties/hyphens",
+      "url":"https://www.webplatform.org/docs/css/properties/hyphens",
       "title":"WebPlatform Docs"
     },
     {
@@ -286,7 +286,7 @@
   },
   "notes":"Chrome < 55 and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. It is [advisable to set the @lang attribute](http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html) on the HTML element to enable hyphenation support and improve accessibility.",
   "notes_by_num":{
-    "1":"Only supports the \"auto\" value [on Mac for now](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05)."
+    "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [see commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05)."
   },
   "usage_perc_y":24.12,
   "usage_perc_a":60.2,

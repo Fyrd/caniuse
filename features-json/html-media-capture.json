@@ -282,7 +282,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"iOS6-10 do not support the capture attribute used to force capture straight from the device's camera or microphone",
+    "1":"iOS6-10 do not support the capture attribute used to force capture straight from the device's camera or microphone. Also note that default video dimensions are 480x320 (4:3).",
     "2":"Android 2.2-2.3 do not support the capture attribute",
     "3":"Supports a \"capture\" button for any `<input type=\"file\"> field, regardless of the whether the capture attribute is used."
   },
