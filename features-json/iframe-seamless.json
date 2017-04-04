@@ -1,7 +1,7 @@
 {
   "title":"seamless attribute for iframes",
-  "description":"The seamless attribute makes an iframe's contents actually part of a page, and adopts the styles from its hosting page. The attribute has been [removed from the current specification](https://github.com/whatwg/html/issues/331). ",
-  "spec":"https://www.w3.org/TR/html51/semantics.html#attr-iframe-seamless",
+  "description":"The seamless attribute makes an iframe's contents actually part of a page, and adopts the styles from its hosting page. The attribute has been removed from both [the WHATWG](https://github.com/whatwg/html/issues/331) and [the W3C](https://github.com/w3c/html/pull/325) HTML5 specifications.",
+  "spec":"https://www.w3.org/TR/2011/WD-html5-20110525/the-iframe-element.html#attr-iframe-seamless",
   "status":"unoff",
   "links":[
     {
@@ -14,7 +14,11 @@
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=631218",
-      "title":"Bug on Firefox support"
+      "title":"Bug on Firefox support: wontfix"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6261330-iframe-seamless-attribute",
+      "title":"Microsoft Edge Developer UserVoice: No plans"
     }
   ],
   "bugs":[
