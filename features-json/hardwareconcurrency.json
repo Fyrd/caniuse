@@ -1,23 +1,23 @@
 {
-  "title":"CSS overflow-anchor (Scroll Anchoring)",
-  "description":"Changes in DOM elements above the visible region of a scrolling box can result in the page moving while the user is in the middle of consuming the content.\r\nBy default, the value of  `overflow-anchor` is `auto`, it can mitigate this jarring user experience by keeping track of the position of an anchor node and adjusting the scroll offset accordingly",
-  "spec":"https://wicg.github.io/ScrollAnchoring/",
-  "status":"wd",
+  "title":"navigator.hardwareConcurrency",
+  "description":"Returns the number of logical cores of the user's CPU. The value may be reduced to prevent device fingerprinting or because it exceeds the allowed number of simultaneous web workers.",
+  "spec":"https://html.spec.whatwg.org/multipage/workers.html#navigatorconcurrenthardware",
+  "status":"ls",
   "links":[
     {
-      "url":"https://github.com/WICG/ScrollAnchoring/blob/master/explainer.md",
-      "title":"Explainer"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/NavigatorConcurrentHardware/hardwareConcurrency",
+      "title":"Mozilla Developer Network"
     },
     {
-      "url":"https://developers.google.com/web/updates/2016/04/scroll-anchoring",
-      "title":"Google developers article"
+      "url":"https://wiki.whatwg.org/wiki/Navigator_HW_Concurrency",
+      "title":"Original Proposal"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -84,14 +84,14 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n"
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y"
     },
     "chrome":{
       "4":"n",
@@ -127,25 +127,25 @@
       "34":"n",
       "35":"n",
       "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
       "56":"y",
       "57":"y",
       "58":"y",
@@ -162,12 +162,12 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"n",
-      "9":"n",
-      "9.1":"n",
-      "10":"n",
-      "10.1":"n",
-      "TP":"n"
+      "8":"u",
+      "9":"u",
+      "9.1":"u",
+      "10":"u",
+      "10.1":"u",
+      "TP":"u"
     },
     "opera":{
       "9":"n",
@@ -190,25 +190,25 @@
       "21":"n",
       "22":"n",
       "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
+      "24":"y",
+      "25":"y",
+      "26":"y",
+      "27":"y",
+      "28":"y",
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
       "43":"y",
       "44":"y",
       "45":"y",
@@ -221,31 +221,31 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"n",
-      "8.1-8.4":"n",
-      "9.0-9.2":"n",
-      "9.3":"n",
-      "10.0-10.2":"n",
-      "10.3":"n"
+      "8":"u",
+      "8.1-8.4":"u",
+      "9.0-9.2":"u",
+      "9.3":"u",
+      "10.0-10.2":"u",
+      "10.3":"u"
     },
     "op_mini":{
-      "all":"n"
+      "all":"u"
     },
     "android":{
-      "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"n",
-      "4":"n",
-      "4.1":"n",
-      "4.2-4.3":"n",
-      "4.4":"n",
-      "4.4.3-4.4.4":"n",
+      "2.1":"u",
+      "2.2":"u",
+      "2.3":"u",
+      "3":"u",
+      "4":"u",
+      "4.1":"u",
+      "4.2-4.3":"u",
+      "4.4":"u",
+      "4.4.3-4.4.4":"u",
       "56":"y"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"u",
+      "10":"u"
     },
     "op_mob":{
       "10":"n",
@@ -254,40 +254,40 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "37":"y"
     },
     "and_chr":{
       "57":"y"
     },
     "and_ff":{
-      "52":"n"
+      "52":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11":"u"
     },
     "samsung":{
-      "4":"n"
+      "4":"u"
     },
     "and_qq":{
-      "1.2":"n"
+      "1.2":"u"
     }
   },
-  "notes":"Mozilla has discussed a similar feature in [Bug 43114](https://bugzilla.mozilla.org/show_bug.cgi?id=43114).",
+  "notes":"Webkit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":50.16,
+  "usage_perc_y":59.59,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"overflow-anchor,scroll anchoring",
-  "ie_id":"",
-  "chrome_id":"5700102471548928",
+  "keywords":"navigator,cores,hardware,concurrency,hardwareConcurrency",
+  "ie_id":"hardwareconcurrency",
+  "chrome_id":"6248386202173440",
   "firefox_id":"",
-  "webkit_id":"",
-  "shown":true
+  "webkit_id":"feature-navigator.hardwareconcurrency",
+  "shown":false
 }
