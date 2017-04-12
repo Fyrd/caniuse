@@ -11,6 +11,10 @@
     {
       "url":"https://wiki.whatwg.org/wiki/Navigator_HW_Concurrency",
       "title":"Original Proposal"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=132588",
+      "title":"Webkit implementation bug"
     }
   ],
   "bugs":[
@@ -162,12 +166,12 @@
       "6.1":"n",
       "7":"n",
       "7.1":"n",
-      "8":"u",
-      "9":"u",
-      "9.1":"u",
-      "10":"u",
-      "10.1":"u",
-      "TP":"u"
+      "8":"d #1",
+      "9":"d #1",
+      "9.1":"d #1",
+      "10":"d #1",
+      "10.1":"d #1",
+      "TP":"d #1"
     },
     "opera":{
       "9":"n",
@@ -221,12 +225,12 @@
       "5.0-5.1":"n",
       "6.0-6.1":"n",
       "7.0-7.1":"n",
-      "8":"u",
-      "8.1-8.4":"u",
-      "9.0-9.2":"u",
-      "9.3":"u",
-      "10.0-10.2":"u",
-      "10.3":"u"
+      "8":"d #1",
+      "8.1-8.4":"d #1",
+      "9.0-9.2":"d #1",
+      "9.3":"d #1",
+      "10.0-10.2":"d #1",
+      "10.3":"d #1"
     },
     "op_mini":{
       "all":"u"
@@ -276,9 +280,9 @@
       "1.2":"u"
     }
   },
-  "notes":"Webkit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others.",
+  "notes":"",
   "notes_by_num":{
-    
+    "1":"Webkit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others. Disabled in Safari behind the ENABLE_NAVIGATOR_HWCONCURRENCY build option."
   },
   "usage_perc_y":59.59,
   "usage_perc_a":0,
