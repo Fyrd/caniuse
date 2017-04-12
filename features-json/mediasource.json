@@ -275,7 +275,8 @@
       "11":"n"
     },
     "samsung":{
-      "4":"y"
+      "4":"n #3",
+      "5":"n #3"
     },
     "and_qq":{
       "1.2":"n"
@@ -284,7 +285,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Requires the `media.mediasource.enabled` flag to be enabled, support is limited to a whitelist including the YouTube, Netflix, and Dailymotion websites",
-    "2":"Partial support in IE11 refers to only working in Windows 8+"
+    "2":"Partial support in IE11 refers to only working in Windows 8+",
+    "3":"Due to compatibility issues, MediaSource Extensions are currently disabled by default in Samsung Internet."
   },
   "usage_perc_y":68.84,
   "usage_perc_a":3.43,
