@@ -19,22 +19,16 @@
   ],
   "bugs":[
     {
-      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
+      "description":"IE 9 - 11 and Edge do not support `width: calc()` on table cells. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10982196/)"
     },
     {
       "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values"
     },
     {
+      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
+    },
+    {
       "description":"IE10, IE11, and Edge < 14 don't support using `calc()` inside a `transform`. [Bug report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/104773/)"
-    },
-    {
-      "description":"Safari & iOS Safari (both 6 and 7) does not support viewport units (`vw`, `vh`, etc) in `calc()`."
-    },
-    {
-      "description":"IE & Edge are reported to not support calc inside a 'flex'. (Not tested on older versions)\r\nThis example does not work: `flex: 1 1 calc(50% - 20px);`"
-    },
-    {
-      "description":"Firefox <48 does not support `calc()` inside the `line-height`, `stroke-width`, `stroke-dashoffset`, and `stroke-dasharray` properties. [Bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=594933)"
     },
     {
       "description":"IE11 is reported to have trouble with `calc()` with nested expressions, e.g. `width: calc((100% - 10px) / 3);` (i.e. it rounds differently)"
@@ -46,7 +40,13 @@
       "description":"IE11 does not support transitioning values set with `calc()`"
     },
     {
-      "description":"IE 9 - 11 and Edge do not support `width: calc()` on table cells. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10982196/)"
+      "description":"Safari & iOS Safari (both 6 and 7) does not support viewport units (`vw`, `vh`, etc) in `calc()`."
+    },
+    {
+      "description":"IE & Edge are reported to not support calc inside a 'flex'. (Not tested on older versions)\r\nThis example does not work: `flex: 1 1 calc(50% - 20px);`"
+    },
+    {
+      "description":"Firefox <48 does not support `calc()` inside the `line-height`, `stroke-width`, `stroke-dashoffset`, and `stroke-dasharray` properties. [Bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=594933)"
     },
     {
       "description":"Firefox does not support `width: calc()` on table cells. [Bug Report](https://bugzilla.mozilla.org/show_bug.cgi?id=1297576)"
