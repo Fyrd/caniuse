@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API",
-      "title":"Mozilla Developer Network (MDN) documentation - Web Crypto API"
-    },
-    {
       "url":"http://www.slideshare.net/Channy/the-history-and-status-of-web-crypto-api",
       "title":"The History and Status of Web Crypto API"
     },
@@ -39,6 +35,10 @@
     {
       "url":"https://github.com/vibornoff/webcrypto-shim",
       "title":"Web Cryptography API shim for IE11 and Safari - set of bugfixes and workarounds of prefixed api implementations"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API",
+      "title":"Mozilla Developer Network (MDN) documentation - Web Crypto API"
     }
   ],
   "bugs":[

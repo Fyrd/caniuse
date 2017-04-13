@@ -5,10 +5,6 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS",
-      "title":"Mozilla Developer Network (MDN) documentation - Access control CORS"
-    },
-    {
       "url":"http://hacks.mozilla.org/2009/07/cross-site-xmlhttprequest-with-cors/",
       "title":"Mozilla Hacks blog post"
     },
@@ -23,6 +19,10 @@
     {
       "url":"https://raw.github.com/phiggins42/has.js/master/detect/features.js#native-cors-xhr",
       "title":"has.js test"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS",
+      "title":"Mozilla Developer Network (MDN) documentation - Access control CORS"
     }
   ],
   "bugs":[
