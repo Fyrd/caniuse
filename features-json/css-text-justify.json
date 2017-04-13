@@ -92,10 +92,10 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"u",
-      "53":"u",
-      "54":"u",
-      "55":"u"
+      "52":"n",
+      "53":"n",
+      "54":"n d #3 #4",
+      "55":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -283,7 +283,9 @@
   "notes":"",
   "notes_by_num":{
     "1":"Supports `inter-word`, but not `inter-character` or  `none`. Also supports the following unofficial values: `distribute` , `distribute-all-lines`, `distribute-center-last`, `inter-cluster`, `inter-ideograph`, `newspaper`. See [MSDN](https://msdn.microsoft.com/en-us/library/ms531172%28v=vs.85%29.aspx) for details.",
-    "2":"`inter-word` and `distribute` values supported behind the \"Experimental platform features\" flag but `distribute` support [is buggy](https://crbug.com/467406)"
+    "2":"`inter-word` and `distribute` values supported behind the \"Experimental platform features\" flag but `distribute` support [is buggy](https://crbug.com/467406)",
+    "3":"Behind the \"layout.css.text-justify.enabled\" flag",
+    "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
   },
   "usage_perc_y":0,
   "usage_perc_a":6.28,
