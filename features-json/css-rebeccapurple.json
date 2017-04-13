@@ -23,7 +23,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"y"
+      "11":"a #1"
     },
     "edge":{
       "12":"y",
@@ -124,7 +124,7 @@
       "35":"n",
       "36":"n",
       "37":"n",
-      "38":"u",
+      "38":"y",
       "39":"y",
       "40":"y",
       "41":"y",
@@ -225,7 +225,7 @@
       "10.3":"y"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
       "2.1":"n",
@@ -240,16 +240,16 @@
       "56":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
-      "10":"u",
-      "11":"u",
-      "11.1":"u",
-      "11.5":"u",
-      "12":"u",
-      "12.1":"u",
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
       "37":"y"
     },
     "and_chr":{
@@ -263,21 +263,21 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"u"
+      "11":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
-      "1.2":"u"
+      "1.2":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Only works in IE11 for Windows 10, not older versions of Windows"
   },
-  "usage_perc_y":82.5,
-  "usage_perc_a":0,
+  "usage_perc_y":88.54,
+  "usage_perc_a":3.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"rebeccapurple,beccapurple",
@@ -285,5 +285,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }

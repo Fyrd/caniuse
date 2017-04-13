@@ -37,7 +37,7 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"y"
     },
     "firefox":{
       "2":"n",
@@ -170,8 +170,8 @@
       "9":"n d #1",
       "9.1":"n d #1",
       "10":"n d #1",
-      "10.1":"n d #1",
-      "TP":"n d #1"
+      "10.1":"y #1",
+      "TP":"y #1"
     },
     "opera":{
       "9":"n",
@@ -230,26 +230,26 @@
       "9.0-9.2":"n d #1",
       "9.3":"n d #1",
       "10.0-10.2":"n d #1",
-      "10.3":"n d #1"
+      "10.3":"y #1"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
-      "2.1":"u",
-      "2.2":"u",
-      "2.3":"u",
-      "3":"u",
-      "4":"u",
-      "4.1":"u",
-      "4.2-4.3":"u",
-      "4.4":"u",
-      "4.4.3-4.4.4":"u",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n",
+      "4.4.3-4.4.4":"n",
       "56":"y"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -271,20 +271,20 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"u"
+      "11":"y"
     },
     "samsung":{
-      "4":"u"
+      "4":"y"
     },
     "and_qq":{
-      "1.2":"u"
+      "1.2":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Webkit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others. Disabled in Safari behind the ENABLE_NAVIGATOR_HWCONCURRENCY build option."
   },
-  "usage_perc_y":59.59,
+  "usage_perc_y":72.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -293,5 +293,5 @@
   "chrome_id":"6248386202173440",
   "firefox_id":"",
   "webkit_id":"feature-navigator.hardwareconcurrency",
-  "shown":false
+  "shown":true
 }
