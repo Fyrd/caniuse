@@ -52,7 +52,7 @@
       "6":"p",
       "7":"p",
       "8":"p",
-      "9":"y #2",
+      "9":"y #2 #3",
       "10":"y #2",
       "11":"y #2"
     },
@@ -306,7 +306,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in Android 3 & 4 refers to not supporting masking.",
-    "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](http://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
+    "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](http://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround.",
+    "3":"Animations don't work in IE8-9 [Example](http://samherbert.net/svg-loaders/)."
   },
   "usage_perc_y":97.37,
   "usage_perc_a":0.65,
