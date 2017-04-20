@@ -27,6 +27,9 @@
     },
     {
       "description":"Chrome and Safari do not seem to [support kernelUnitLength](https://bugs.webkit.org/show_bug.cgi?id=84610)"
+    },
+    {
+      "description":"iOS 10 and below doesn't support feGaussianBlur filter. Neither Safari nor Chrome works on it."
     }
   ],
   "categories":[
