@@ -35,7 +35,7 @@ Currently the following feature information can be modified:
 	* `unoff` - Unofficial, Editor's Draft or W3C "Note"
 * **links** — Array of "link" objects consisting of URL and short description of link
 * **bugs** — Array of "bug" objects consisting of a bug description
-* **categories** — Array of categories, any of the following:
+* **categories** — Array of categories, any of the following:	(Note that some of these categories are put into a parent category on the caniuse site)
 	* `HTML5`
 	* `CSS`
 	* `CSS2`
@@ -48,7 +48,6 @@ Currently the following feature information can be modified:
 	* `Other`
 	* `JS`
 	* `Security`
-	(Note that some of these categories are put into a parent category on the caniuse site)
 * **stats** — The collection of support data for a given set of browsers/versions. Only the support value strings can be modified; additional versions *cannot be added*. Values are space-separated characters with these meanings, and must answer the question "*Can I use* the feature by default?":
 	* `y` - (**Y**)es, supported by default
 	* `a` - (**A**)lmost supported (aka Partial support)
