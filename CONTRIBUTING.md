@@ -46,6 +46,9 @@ Currently the following feature information can be modified:
 	* `Canvas`
 	* `DOM`
 	* `Other`
+	* `JS`
+	* `Security`
+	(Note that some of these categories are put into a parent category on the caniuse site)
 * **stats** — The collection of support data for a given set of browsers/versions. Only the support value strings can be modified; additional versions *cannot be added*. Values are space-separated characters with these meanings, and must answer the question "*Can I use* the feature by default?":
 	* `y` - (**Y**)es, supported by default
 	* `a` - (**A**)lmost supported (aka Partial support)
