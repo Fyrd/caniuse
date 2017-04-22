@@ -47,14 +47,14 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y",
+      "10":"a #1",
       "11":"y"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y"
+      "12":"a #1",
+      "13":"a #1",
+      "14":"a #1",
+      "15":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -300,7 +300,7 @@
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful.",
   "notes_by_num":{
-    
+    "1": "Partial support refers to not supporting scrollRestoration feature"
   },
   "usage_perc_y":94.33,
   "usage_perc_a":0.08,
