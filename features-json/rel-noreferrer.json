@@ -1,23 +1,21 @@
 {
-  "title":"Blob constructing",
-  "description":"Construct Blobs (binary large objects) either using the BlobBuilder API (deprecated) or the Blob constructor.",
-  "spec":"http://www.w3.org/TR/FileAPI/#constructorBlob",
-  "status":"wd",
+  "title":"Link type \"noreferrer\"",
+  "description":"Links with `rel=\"noreferrer\"` set do not send the request's \"referrer\" header. This prevents the destination site from seeing what URL the user came from.",
+  "spec":"https://html.spec.whatwg.org/multipage/semantics.html#link-type-noreferrer",
+  "status":"ls",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en/DOM/BlobBuilder",
-      "title":"Mozilla Developer Network (MDN) documentation - BlobBuilder"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/DOM/Blob",
-      "title":"Mozilla Developer Network (MDN) documentation - Blobs"
+      "url":"https://www.thoughtco.com/rel-noreferrer-3468002",
+      "title":"Blog post on rel=\"noreferrer\""
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API"
+    "DOM",
+    "HTML5",
+    "Security"
   ],
   "stats":{
     "ie":{
@@ -26,11 +24,11 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y",
-      "11":"y"
+      "10":"n",
+      "11":"n"
     },
     "edge":{
-      "12":"y",
+      "12":"u",
       "13":"y",
       "14":"y",
       "15":"y"
@@ -42,33 +40,33 @@
       "3.6":"n",
       "4":"n",
       "5":"n",
-      "6":"a x",
-      "7":"a x",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n",
+      "29":"n",
+      "30":"n",
+      "31":"n",
+      "32":"n",
       "33":"y",
       "34":"y",
       "35":"y",
@@ -95,22 +93,22 @@
       "56":"y"
     },
     "chrome":{
-      "4":"n",
-      "5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"a x",
-      "9":"a x",
-      "10":"a x",
-      "11":"a x",
-      "12":"a x",
-      "13":"a x",
-      "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x",
-      "19":"a x",
+      "4":"u",
+      "5":"u",
+      "6":"u",
+      "7":"u",
+      "8":"u",
+      "9":"u",
+      "10":"u",
+      "11":"u",
+      "12":"u",
+      "13":"u",
+      "14":"u",
+      "15":"u",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "19":"y",
       "20":"y",
       "21":"y",
       "22":"y",
@@ -158,8 +156,8 @@
       "3.1":"n",
       "3.2":"n",
       "4":"n",
-      "5":"n",
-      "5.1":"n",
+      "5":"y",
+      "5.1":"y",
       "6":"y",
       "6.1":"y",
       "7":"y",
@@ -182,7 +180,7 @@
       "11.5":"n",
       "11.6":"n",
       "12":"n",
-      "12.1":"y",
+      "12.1":"n",
       "15":"y",
       "16":"y",
       "17":"y",
@@ -218,9 +216,9 @@
     },
     "ios_saf":{
       "3.2":"n",
-      "4.0-4.1":"n",
-      "4.2-4.3":"n",
-      "5.0-5.1":"n",
+      "4.0-4.1":"y",
+      "4.2-4.3":"y",
+      "5.0-5.1":"y",
       "6.0-6.1":"y",
       "7.0-7.1":"y",
       "8":"y",
@@ -234,19 +232,19 @@
       "all":"n"
     },
     "android":{
-      "2.1":"n",
-      "2.2":"n",
-      "2.3":"n",
-      "3":"a x",
-      "4":"a x",
-      "4.1":"a x",
-      "4.2-4.3":"a x",
-      "4.4":"a x",
-      "4.4.3-4.4.4":"a x",
+      "2.1":"u",
+      "2.2":"u",
+      "2.3":"y",
+      "3":"y",
+      "4":"y",
+      "4.1":"y",
+      "4.2-4.3":"y",
+      "4.4":"y",
+      "4.4.3-4.4.4":"y",
       "56":"y"
     },
     "bb":{
-      "7":"n",
+      "7":"y",
       "10":"y"
     },
     "op_mob":{
@@ -255,7 +253,7 @@
       "11.1":"n",
       "11.5":"n",
       "12":"n",
-      "12.1":"y",
+      "12.1":"n",
       "37":"y"
     },
     "and_chr":{
@@ -265,8 +263,8 @@
       "52":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
       "11.4":"y"
@@ -278,17 +276,17 @@
       "1.2":"y"
     }
   },
-  "notes":"Partial support refers to only supporting the now deprecated BlobBuilder to create blobs.",
+  "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":92.01,
-  "usage_perc_a":2.45,
-  "ucprefix":true,
-  "parent":"fileapi",
+  "usage_perc_y":90.02,
+  "usage_perc_a":0,
+  "ucprefix":false,
+  "parent":"",
   "keywords":"",
-  "ie_id":"blob",
-  "chrome_id":"5328783104016384",
+  "ie_id":"",
+  "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
