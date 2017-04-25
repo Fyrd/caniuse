@@ -30,6 +30,9 @@
     },
     {
       "description":"Chrome has a bug where a deleted indexedDB can be re-created when dev tools are open (fixed in latest builds) [see bug](https://code.google.com/p/chromium/issues/detail?id=539931)"
+    },
+    {
+      "description":"Safari has a bug where unique indexes are ignored."
     }
   ],
   "categories":[
