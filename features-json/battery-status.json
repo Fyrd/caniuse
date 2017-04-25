@@ -88,11 +88,11 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y"
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"n",
@@ -278,7 +278,7 @@
       "1.2":"n"
     }
   },
-  "notes":"",
+  "notes":"Firefox 52+ [removed access to this API due to privacy concerns.](https://bugzilla.mozilla.org/show_bug.cgi?id=1313580)",
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
