@@ -15,10 +15,10 @@
   ],
   "bugs":[
     {
-      "description":"WebKitMutationObserver in iOS 6 has bug: it doesn't trigger `\"childList\"` changes until you bind one of the deprecated mutation events (for example, `\"DOMNodeInserted\"`) to the node which is watched by observer."
+      "description":"iOS 6 has a `WebKitMutationObserver` bug: it doesn't trigger `\"childList\"` changes until you bind one of the deprecated mutation events (for example, `\"DOMNodeInserted\"`) to the node being watched by the observer."
     },
     {
-      "description":"IE11 does not include the child nodes, when they are removed by setting the innerHTML of an element [see bug](https://connect.microsoft.com/IE/feedback/details/817132/ie-11-childnodes-are-missing-from-mutationobserver-mutations-removednodes-after-setting-innerhtml)"
+      "description":"IE11 does not include the child nodes when they are removed by setting the `innerHTML` [see bug](https://connect.microsoft.com/IE/feedback/details/817132/ie-11-childnodes-are-missing-from-mutationobserver-mutations-removednodes-after-setting-innerhtml)."
     }
   ],
   "categories":[
@@ -284,7 +284,7 @@
       "1.2":"y"
     }
   },
-  "notes":"When the content of a node with a single CharacterData child node is changed by innerHTML attribute and the node have a single different one as a result, WebKit browsers consider it as a characterData mutation of the child CharacterData node, while other browsers think it as a childList mutation of the parent node.",
+  "notes":"When changing the `innerHTML` content of a node containing a single `CharacterData` node, resulting in a single-but-different `CharacterData` child node, WebKit browsers consider this a `characterData` mutation of the child `CharacterData` node, while other browsers consider it a `childList` mutation of the parent node.",
   "notes_by_num":{
     
   },
