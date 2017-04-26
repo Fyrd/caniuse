@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Does not work on `select` elements work in Chrome and IE, only Firefox."
+      "description":"Does not work on `select` elements in Chrome and IE, only Firefox."
     },
     {
       "description":"Some Samsung-based browsers, have a bug with overflowing text when ellipsis is set and if `text-rendering` is not `auto`."

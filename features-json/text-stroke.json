@@ -287,7 +287,7 @@
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
   "notes_by_num":{
-    "1":"Firefox & Edge specifically support the `-webkit-text-stroke` property without having support with their own prefix.",
+    "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
   "usage_perc_y":78.22,
