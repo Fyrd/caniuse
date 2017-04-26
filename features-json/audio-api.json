@@ -290,6 +290,9 @@
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Not all browsers with support for the Audio API also support media streams (e.g. microphone input). See the [getUserMedia/Streams API](/#feat=stream) data for support for that feature.\r\n\r\nFirefox versions < 25 support an alternative, deprecated audio API.\r\n\r\nChrome support [went through some changes](http://updates.html5rocks.com/2014/07/Web-Audio-Changes-in-m36) as of version 36.",

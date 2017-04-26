@@ -282,6 +282,9 @@
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"When changing the `innerHTML` content of a node containing a single `CharacterData` node, resulting in a single-but-different `CharacterData` child node, WebKit browsers consider this a `characterData` mutation of the child `CharacterData` node, while other browsers consider it a `childList` mutation of the parent node.",

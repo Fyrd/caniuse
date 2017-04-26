@@ -305,6 +305,9 @@
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Many browsers support the `[crypto.getRandomValues()](#feat=getrandomvalues)` method, but not actual cryptography functionality under `crypto.subtle`. \r\n\r\nFirefox also has support for [unofficial features](https://developer.mozilla.org/en-US/docs/JavaScript_crypto). \r\n\r\nIn Chrome the API is only usable over secure connections. ([corresponding bug](https://code.google.com/p/chromium/issues/detail?id=373032))",

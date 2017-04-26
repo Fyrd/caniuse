@@ -288,6 +288,9 @@
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"Whether `<option selected>` matches `:default` (per the spec) was not tested since `<select>`s and `<option>`s are generally not styleable, which makes it hard to formulate a test for this.",

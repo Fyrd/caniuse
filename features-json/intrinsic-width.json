@@ -272,6 +272,9 @@
     },
     "and_qq":{
       "1.2":"y x #3"
+    },
+    "baidu":{
+      "7.12":"y #3 #4"
     }
   },
   "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content)\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",

@@ -289,6 +289,9 @@
     },
     "and_qq":{
       "1.2":"p"
+    },
+    "baidu":{
+      "7.12":"a #1"
     }
   },
   "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`.",

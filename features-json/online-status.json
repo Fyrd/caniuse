@@ -272,6 +272,9 @@
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"\"online\" does not always mean connection to the internet, it can also just mean connection to some network.\r\n\r\nEarly versions of Chrome and Safari always reported \"true\" for `navigator.onLine`",

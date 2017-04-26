@@ -298,6 +298,9 @@
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y #1"
     }
   },
   "notes":"Partial support refers to being able to use `data-*` attributes and access them using `getAttribute`. \r\n\r\n\"Supported\" refers to accessing the values using the `dataset` property. Current spec only refers to support on HTML elements, only some browsers also have support for SVG/MathML elements.",

@@ -293,6 +293,9 @@
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome, Opera, and Microsoft Edge also support the `datetime-local` type for both date and time.\r\n\r\nThere used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336) since only Presto ever fully supported it.",

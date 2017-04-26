@@ -273,6 +273,9 @@
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"Firefox OS is reported to have partial support for this property as `x-inputmode`.\r\n\r\nBlink-based browsers appear to recognize the `inputMode` property on `input` & `textarea` fields though it is unclear what effect it currently has as the feature is still in development.",

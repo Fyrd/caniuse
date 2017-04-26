@@ -272,6 +272,9 @@
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"The HTTP header syntax is 'Public-Key-Pins: pin-sha256=\"base64==\"; max-age=expireTime [; includeSubdomains][; report-uri=\"reportURI\"]'.",
