@@ -1,9 +1,13 @@
 {
   "title":"Auxclick",
   "description":"The click event for non-primary buttons of input devices",
-  "spec":"https://wicg.github.io/auxclick/",
-  "status":"unoff",
+  "spec":"https://w3c.github.io/uievents/#event-type-auxclick",
+  "status":"wd",
   "links":[
+    {
+      "url":"https://wicg.github.io/auxclick/",
+      "title":"Original Proposal"
+    },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Events/auxclick",
       "title":"Mozilla Developer Network (MDN) documentation - auxclick"
