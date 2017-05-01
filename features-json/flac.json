@@ -285,7 +285,7 @@
       "7.12":"y"
     }
   },
-  "notes":"Support refers to using the `audio` element, not other conditions.",
+  "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
   "notes_by_num":{
     "1":"HTMLMediaElement.canPlayType('audio/flac') returns an empty string",
     "2":"Only works on ChromeOS"
