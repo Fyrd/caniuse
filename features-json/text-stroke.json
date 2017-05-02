@@ -14,7 +14,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke",
-      "title":"Mozilla Developer Network article"
+      "title":"Mozilla Developer Network (MDN) documentation - text-stroke"
     }
   ],
   "bugs":[
@@ -95,7 +95,8 @@
       "52":"y x #1",
       "53":"y x #1",
       "54":"y x #1",
-      "55":"y x #1"
+      "55":"y x #1",
+      "56":"y x #1"
     },
     "chrome":{
       "4":"y x",
@@ -154,7 +155,8 @@
       "57":"y x",
       "58":"y x",
       "59":"y x",
-      "60":"y x"
+      "60":"y x",
+      "61":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -271,18 +273,21 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"y x"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"y x"
     }
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
   "notes_by_num":{
-    "1":"Firefox & Edge specifically support the `-webkit-text-stroke` property without having support with their own prefix.",
+    "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
   "usage_perc_y":78.22,

@@ -1,12 +1,16 @@
 {
   "title":"Auxclick",
   "description":"The click event for non-primary buttons of input devices",
-  "spec":"https://wicg.github.io/auxclick/",
-  "status":"unoff",
+  "spec":"https://w3c.github.io/uievents/#event-type-auxclick",
+  "status":"wd",
   "links":[
     {
+      "url":"https://wicg.github.io/auxclick/",
+      "title":"Original Proposal"
+    },
+    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Events/auxclick",
-      "title":"MDN documentation"
+      "title":"Mozilla Developer Network (MDN) documentation - auxclick"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1304044",
@@ -18,7 +22,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "DOM",
@@ -96,7 +100,8 @@
       "52":"n",
       "53":"y #1",
       "54":"y #1",
-      "55":"y #1"
+      "55":"y #1",
+      "56":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -155,7 +160,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -272,20 +278,23 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"u"
+      "11.4":"u"
     },
     "samsung":{
       "4":"u"
     },
     "and_qq":{
       "1.2":"u"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"With introduction of this feature there will be no longer click event fired for non-primary buttons",
   "notes_by_num":{
     "1":"As a compatibility measure, Firefox continues to fire the click event for document and window level event handlers."
   },
-  "usage_perc_y":0.1,
+  "usage_perc_y":50.86,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

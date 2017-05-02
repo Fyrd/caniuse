@@ -104,7 +104,8 @@
       "52":"p",
       "53":"p",
       "54":"p",
-      "55":"p"
+      "55":"p",
+      "56":"p"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +164,8 @@
       "57":"a #1",
       "58":"a #1",
       "59":"a #1",
-      "60":"a #1"
+      "60":"a #1",
+      "61":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -280,13 +282,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"p"
+    },
+    "baidu":{
+      "7.12":"a #1"
     }
   },
   "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`.",

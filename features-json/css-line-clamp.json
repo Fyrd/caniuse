@@ -91,7 +91,8 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n"
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"u",
@@ -150,7 +151,8 @@
       "57":"y x",
       "58":"y x",
       "59":"y x",
-      "60":"y x"
+      "60":"y x",
+      "61":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -267,13 +269,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"y x"
+      "11.4":"y x"
     },
     "samsung":{
       "4":"y x"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"y x"
     }
   },
   "notes":"As there is no specification and the property is dependent on an outdated implementation of flexbox (hence `display: -webkit-box`) it is unlikely that other browsers will support the property as-is, although an alternative solution may at some point replace it.\r\n\r\nOlder (presto-based) versions of the Opera browser have also supported the same effect using the proprietary `-o-ellipsis-lastline;` value for `text-overflow`.",

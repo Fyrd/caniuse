@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/WebAPI/Battery_Status",
-      "title":"MDN Docs"
+      "title":"Mozilla Developer Network (MDN) documentation - battery status"
     },
     {
       "url":"http://www.smartjava.org/examples/webapi-battery/",
@@ -88,10 +88,11 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y",
-      "55":"y"
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"n",
@@ -150,7 +151,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -267,20 +269,23 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"a #1"
+      "11.4":"a #1"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
-  "notes":"",
+  "notes":"Firefox 52+ [removed access to this API due to privacy concerns.](https://bugzilla.mozilla.org/show_bug.cgi?id=1313580)",
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":63.54,
+  "usage_perc_y":60.64,
   "usage_perc_a":9.94,
   "ucprefix":false,
   "parent":"",

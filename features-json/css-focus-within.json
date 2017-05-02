@@ -34,7 +34,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within",
-      "title":"Mozilla Developer Network article"
+      "title":"Mozilla Developer Network (MDN) documentation - :focus-within"
     }
   ],
   "bugs":[
@@ -115,7 +115,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -173,8 +174,9 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n",
-      "60":"n"
+      "59":"n d #1",
+      "60":"n d #1",
+      "61":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -236,7 +238,7 @@
       "43":"n",
       "44":"n",
       "45":"n",
-      "46":"n"
+      "46":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -291,18 +293,21 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Can be enabled via the \"Experimental Web Platform Features\" flag"
   },
   "usage_perc_y":3.19,
   "usage_perc_a":0,

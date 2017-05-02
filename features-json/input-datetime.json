@@ -106,9 +106,10 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"n",
+      "53":"n d #4",
       "54":"n d #4",
-      "55":"n d #4"
+      "55":"n d #4",
+      "56":"n d #4"
     },
     "chrome":{
       "4":"n",
@@ -167,7 +168,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -284,13 +286,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"y"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome, Opera, and Microsoft Edge also support the `datetime-local` type for both date and time.\r\n\r\nThere used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336) since only Presto ever fully supported it.",

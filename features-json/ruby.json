@@ -105,7 +105,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"p",
@@ -164,7 +165,8 @@
       "57":"a",
       "58":"a",
       "59":"a",
-      "60":"a"
+      "60":"a",
+      "61":"a"
     },
     "safari":{
       "3.1":"p",
@@ -281,13 +283,16 @@
       "11":"a"
     },
     "and_uc":{
-      "11":"a"
+      "11.4":"a"
     },
     "samsung":{
       "4":"a"
     },
     "and_qq":{
       "1.2":"a"
+    },
+    "baidu":{
+      "7.12":"a"
     }
   },
   "notes":"Browsers without native support can still simulate support using CSS. Partial support refers to only supporting basic ruby, may still be missing writing-mode, Complex ruby and CSS3 Ruby.",

@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - Intersection Observer"
     },
     {
       "url":"https://github.com/jeremenichelli/intersection-observer-polyfill",
@@ -96,7 +96,8 @@
       "52":"n d #1",
       "53":"n d #1",
       "54":"n d #1",
-      "55":"n d #1"
+      "55":"n d #1",
+      "56":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -155,7 +156,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -272,18 +274,22 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Firefox by setting the `about:config` preference `dom.IntersectionObserver.enabled` to true"
+    "1":"Enabled in Firefox by setting the `about:config` preference `dom.IntersectionObserver.enabled` to true",
+    "2":"\"Preliminary\" support as feature is still in development"
   },
   "usage_perc_y":51.5,
   "usage_perc_a":0,

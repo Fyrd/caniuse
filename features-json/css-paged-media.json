@@ -10,7 +10,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@page",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS @page"
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=85062",
@@ -105,7 +105,8 @@
       "52":"a #1",
       "53":"a #1",
       "54":"a #1",
-      "55":"a #1"
+      "55":"a #1",
+      "56":"a #1"
     },
     "chrome":{
       "4":"u",
@@ -164,7 +165,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -281,13 +283,16 @@
       "11":"n #2"
     },
     "and_uc":{
-      "11":"n #2"
+      "11.4":"n #2"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Currently no browsers appear to support the `marks` & `bleed` properties from the latest version of the specification.\r\n\r\n",

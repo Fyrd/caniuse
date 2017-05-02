@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Push_API",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - Push API"
     },
     {
       "url":"https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web",
@@ -91,7 +91,8 @@
       "52":"y #2",
       "53":"y #2",
       "54":"y #2",
-      "55":"y #2"
+      "55":"y #2",
+      "56":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -150,7 +151,8 @@
       "57":"y #2",
       "58":"y #2",
       "59":"y #2",
-      "60":"y #2"
+      "60":"y #2",
+      "61":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -267,13 +269,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
-      "1.2":"n"
+      "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"",
@@ -282,7 +287,7 @@
     "2":"Requires full browser to be running to receive messages",
     "3":"Safari supports a custom implementaion https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ "
   },
-  "usage_perc_y":61.08,
+  "usage_perc_y":70.51,
   "usage_perc_a":1.87,
   "ucprefix":false,
   "parent":"",

@@ -6,11 +6,11 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en/SVG/Tutorial/Other_content_in_SVG",
-      "title":"MDN Tutorial"
+      "title":"Mozilla Developer Network (MDN) documentation - Other content in SVG"
     },
     {
       "url":"https://developer.mozilla.org/En/Applying_SVG_effects_to_HTML_content",
-      "title":"MDN Reference page"
+      "title":"Mozilla Developer Network (MDN) documentation - Applying SVG effects"
     },
     {
       "url":"http://www.w3.org/TR/filter-effects/",
@@ -97,7 +97,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"a",
@@ -156,7 +157,8 @@
       "57":"a",
       "58":"a",
       "59":"a",
-      "60":"a"
+      "60":"a",
+      "61":"a"
     },
     "safari":{
       "3.1":"n",
@@ -273,13 +275,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"a"
     },
     "and_qq":{
       "1.2":"a"
+    },
+    "baidu":{
+      "7.12":"a"
     }
   },
   "notes":"Partial support refers to lack of filter support or buggy result from effects. A [CSS Filter Effects](http://www.w3.org/TR/filter-effects/) specification is in the works that would replace this method.",

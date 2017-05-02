@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-autocomplete",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - autocomplete attribute"
     }
   ],
   "bugs":[
@@ -87,7 +87,8 @@
       "52":"a #3",
       "53":"a #3",
       "54":"a #3",
-      "55":"a #3"
+      "55":"a #3",
+      "56":"a #3"
     },
     "chrome":{
       "4":"n",
@@ -146,7 +147,8 @@
       "57":"a #2",
       "58":"a #2",
       "59":"a #2",
-      "60":"a #2"
+      "60":"a #2",
+      "61":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -263,13 +265,16 @@
       "11":"a #5"
     },
     "and_uc":{
-      "11":"y #4"
+      "11.4":"y #4"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"a #2"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields. One example is the use of password managers.",

@@ -104,7 +104,8 @@
       "52":"p d #1",
       "53":"p d #1",
       "54":"p d #1",
-      "55":"p d #1"
+      "55":"p d #1",
+      "56":"p d #1"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +164,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -280,13 +282,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",
@@ -297,7 +302,7 @@
     "4":"Enabled through the \"Enable HTML Imports\" flag in opera://flags",
     "5":"Enabled through the \"Experimental Web Platform features\" flag in opera://flags"
   },
-  "usage_perc_y":57.58,
+  "usage_perc_y":67.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

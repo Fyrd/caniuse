@@ -10,7 +10,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en/docs/Web/CSS/calc",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - calc"
     },
     {
       "url":"https://www.webplatform.org/docs/css/functions/calc",
@@ -19,22 +19,16 @@
   ],
   "bugs":[
     {
-      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
+      "description":"IE 9 - 11 and Edge do not support `width: calc()` on table cells. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10982196/)"
     },
     {
       "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values"
     },
     {
+      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
+    },
+    {
       "description":"IE10, IE11, and Edge < 14 don't support using `calc()` inside a `transform`. [Bug report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/104773/)"
-    },
-    {
-      "description":"Safari & iOS Safari (both 6 and 7) does not support viewport units (`vw`, `vh`, etc) in `calc()`."
-    },
-    {
-      "description":"IE & Edge are reported to not support calc inside a 'flex'. (Not tested on older versions)\r\nThis example does not work: `flex: 1 1 calc(50% - 20px);`"
-    },
-    {
-      "description":"Firefox <48 does not support `calc()` inside the `line-height`, `stroke-width`, `stroke-dashoffset`, and `stroke-dasharray` properties. [Bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=594933)"
     },
     {
       "description":"IE11 is reported to have trouble with `calc()` with nested expressions, e.g. `width: calc((100% - 10px) / 3);` (i.e. it rounds differently)"
@@ -46,7 +40,13 @@
       "description":"IE11 does not support transitioning values set with `calc()`"
     },
     {
-      "description":"IE 9 - 11 and Edge do not support `width: calc()` on table cells. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10982196/)"
+      "description":"Safari & iOS Safari (both 6 and 7) does not support viewport units (`vw`, `vh`, etc) in `calc()`."
+    },
+    {
+      "description":"IE & Edge are reported to not support calc inside a 'flex'. (Not tested on older versions)\r\nThis example does not work: `flex: 1 1 calc(50% - 20px);`"
+    },
+    {
+      "description":"Firefox <48 does not support `calc()` inside the `line-height`, `stroke-width`, `stroke-dashoffset`, and `stroke-dasharray` properties. [Bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=594933)"
     },
     {
       "description":"Firefox does not support `width: calc()` on table cells. [Bug Report](https://bugzilla.mozilla.org/show_bug.cgi?id=1297576)"
@@ -127,7 +127,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -186,7 +187,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -303,13 +305,16 @@
       "11":"y"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Support can be somewhat emulated in older versions of IE using the non-standard `expression()` syntax.\r\n\r\nDue to the way browsers handle [sub-pixel rounding](http://ejohn.org/blog/sub-pixel-problems-in-css/) differently, layouts using `calc()` expressions may have unexpected results.",
@@ -317,7 +322,7 @@
     "1":"Partial support in Android Browser 4.4 refers to the browser lacking the ability to multiply and divide values.",
     "2":"Partial support in IE9 refers to the browser crashing when used as a `background-position` value."
   },
-  "usage_perc_y":82.6,
+  "usage_perc_y":92.03,
   "usage_perc_a":1.88,
   "ucprefix":false,
   "parent":"",

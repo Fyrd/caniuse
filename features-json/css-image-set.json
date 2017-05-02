@@ -11,6 +11,10 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6606738-image-set",
       "title":"Microsoft Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1107646",
+      "title":"Firefox feature request bug"
     }
   ],
   "bugs":[
@@ -91,7 +95,8 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n"
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"n",
@@ -150,7 +155,8 @@
       "57":"y x",
       "58":"y x",
       "59":"y x",
-      "60":"y x"
+      "60":"y x",
+      "61":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -267,13 +273,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"y x"
+      "11.4":"y x"
     },
     "samsung":{
       "4":"y x"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"y x"
     }
   },
   "notes":"",

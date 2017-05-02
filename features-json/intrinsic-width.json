@@ -1,6 +1,6 @@
 {
   "title":"Intrinsic & Extrinsic Sizing",
-  "description":"Allows for the heights and widths to be specified in intrinsic values using the `fill`, `max-content`, `min-content`, and `fit-content` properties.",
+  "description":"Allows for the heights and widths to be specified in intrinsic values using the `max-content`, `min-content`, `fit-content` and `stretch` (formerly `fill`) properties.",
   "spec":"http://www.w3.org/TR/css3-sizing/",
   "status":"wd",
   "links":[
@@ -87,7 +87,8 @@
       "52":"a x #1 #2 #3",
       "53":"a x #1 #2 #3",
       "54":"a x #1 #2 #3",
-      "55":"a x #1 #2 #3"
+      "55":"a x #1 #2 #3",
+      "56":"a x #1 #2 #3"
     },
     "chrome":{
       "4":"n",
@@ -146,7 +147,8 @@
       "57":"y #3 #4",
       "58":"y #3 #4",
       "59":"y #3 #4",
-      "60":"y #3 #4"
+      "60":"y #3 #4",
+      "61":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -263,23 +265,26 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y x #3"
     },
     "samsung":{
       "4":"y x #3"
     },
     "and_qq":{
       "1.2":"y x #3"
+    },
+    "baidu":{
+      "7.12":"y #3 #4"
     }
   },
   "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content)\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",
   "notes_by_num":{
     "1":"Does not support for height/min-height/max-height property, only width. [see test case](http://codepen.io/shshaw/pen/Kiwaz) [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=567039)",
-    "2":"Firefox currently supports the \"-moz-available\" property rather than \"-moz-fill\".",
+    "2":"Firefox currently supports the \"-moz-available\" property rather than \"-moz-stretch\".",
     "3":"Does not support for \"flex-basis\" property. [see specs](http://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property).\r\n[Blink bug](https://codereview.chromium.org/1304853002/),[Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887)",
-    "4":"This does not yet unprefix fill-available (aka fill)[See bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet."
+    "4":"This does not yet unprefix `stretch` (aka fill/fill-available)[See bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet."
   },
-  "usage_perc_y":59.72,
+  "usage_perc_y":69.15,
   "usage_perc_a":18.85,
   "ucprefix":false,
   "parent":"",

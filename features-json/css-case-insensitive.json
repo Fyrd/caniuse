@@ -6,11 +6,15 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors#case-insensitive",
-      "title":"Mozilla Developer Network article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS case-insensitive"
     },
     {
       "url":"http://jsbin.com/zutuna/edit?html,css,output",
       "title":"JS Bin testcase"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/16910512-case-insensitive-attribute-selector-i-flag",
+      "title":"MS Edge feature request on UserVoice"
     }
   ],
   "bugs":[
@@ -91,7 +95,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -150,7 +155,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -267,13 +273,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"",

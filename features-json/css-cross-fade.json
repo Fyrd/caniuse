@@ -7,6 +7,10 @@
     {
       "url":"http://peter.sh/files/examples/cross-fading.html",
       "title":"Simple demo"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=546052",
+      "title":"Firefox bug #546052: Implement cross-fade()"
     }
   ],
   "bugs":[
@@ -87,7 +91,8 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n"
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"n",
@@ -146,7 +151,8 @@
       "57":"y x",
       "58":"y x",
       "59":"y x",
-      "60":"y x"
+      "60":"y x",
+      "61":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -263,20 +269,23 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y x"
     },
     "samsung":{
       "4":"y x"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"y x"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":72.01,
+  "usage_perc_y":81.44,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

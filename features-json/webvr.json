@@ -19,6 +19,10 @@
     {
       "url":"https://webvr.info/",
       "title":"WebVR info"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API",
+      "title":"Mozilla Developer Network (MDN) documentation - WebVR API"
     }
   ],
   "bugs":[
@@ -99,7 +103,8 @@
       "52":"n",
       "53":"n",
       "54":"n d #1",
-      "55":"n d #1"
+      "55":"n d #1",
+      "56":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -158,7 +163,8 @@
       "57":"n d #2",
       "58":"n d #2",
       "59":"n d #2",
-      "60":"n d #2"
+      "60":"n d #2",
+      "61":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -275,13 +281,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n d #2"
     }
   },
   "notes":"",

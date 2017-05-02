@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS box-decoration-break"
     },
     {
       "url":"http://jsbin.com/xojoro/edit?css,output",
@@ -95,7 +95,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -154,7 +155,8 @@
       "57":"a x #1",
       "58":"a x #1",
       "59":"a x #1",
-      "60":"a x #1"
+      "60":"a x #1",
+      "61":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -271,20 +273,23 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
+    },
+    "baidu":{
+      "7.12":"a x #1"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to working for inline elements but not across column or page breaks."
   },
-  "usage_perc_y":6.4,
+  "usage_perc_y":15.83,
   "usage_perc_a":74.93,
   "ucprefix":false,
   "parent":"",

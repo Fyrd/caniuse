@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:any",
-      "title":"Mozilla Developer Network article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS :any"
     },
     {
       "url":"https://webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/",
@@ -107,7 +107,8 @@
       "52":"a x #3",
       "53":"a x #3",
       "54":"a x #3",
-      "55":"a x #3"
+      "55":"a x #3",
+      "56":"a x #3"
     },
     "chrome":{
       "4":"u",
@@ -166,7 +167,8 @@
       "57":"a x #1",
       "58":"a x #1",
       "59":"a x #1",
-      "60":"a x #1"
+      "60":"a x #1",
+      "61":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -283,13 +285,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"a x #1"
+      "11.4":"a x #1"
     },
     "samsung":{
       "4":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
+    },
+    "baidu":{
+      "7.12":"a x #1"
     }
   },
   "notes":"Most browsers support this spelled as a prefixed `:-vendor-any()` pseudo-class.",

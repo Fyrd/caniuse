@@ -10,7 +10,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker_API",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - Service Workers"
     },
     {
       "url":"https://jakearchibald.github.io/isserviceworkerready/resources.html",
@@ -95,7 +95,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -154,7 +155,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -271,13 +273,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"a"
     },
     "samsung":{
       "4":"a"
     },
     "and_qq":{
       "1.2":"a"
+    },
+    "baidu":{
+      "7.12":"a"
     }
   },
   "notes":"Details on partial support can be found on [is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)",
@@ -285,8 +290,8 @@
     "1":"Partial support can be enabled in Firefox with the `dom.serviceWorkers.enabled` flag.",
     "2":"Available behind the \"Enable service workers\" flag"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":63.39,
+  "usage_perc_y":32.89,
+  "usage_perc_a":39.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

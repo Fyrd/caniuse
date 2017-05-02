@@ -14,7 +14,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis",
-      "title":"Mozilla Developer Network"
+      "title":"Mozilla Developer Network (MDN) documentation - text-emphasis"
     }
   ],
   "bugs":[
@@ -97,7 +97,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -156,7 +157,8 @@
       "57":"a x #1",
       "58":"a x #1",
       "59":"a x #1",
-      "60":"a x #1"
+      "60":"a x #1",
+      "61":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -273,13 +275,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"a x #1"
+      "11.4":"a x #1"
     },
     "samsung":{
       "4":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
+    },
+    "baidu":{
+      "7.12":"a x #1"
     }
   },
   "notes":"Some old WebKit browsers (like Chrome 24) support `-webkit-text-emphasis`, but does not support CJK languages and is therefore considered unsupported.",

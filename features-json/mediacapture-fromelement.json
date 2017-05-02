@@ -6,11 +6,11 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/captureStream",
-      "title":"MDN entry - capture from <canvas>"
+      "title":"Mozilla Developer Network (MDN) documentation - capture from <canvas>"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/captureStream",
-      "title":"MDN entry - capture from <video>/<audio>"
+      "title":"Mozilla Developer Network (MDN) documentation - capture from <video>/<audio>"
     },
     {
       "url":"https://www.chromestatus.com/features/4817998447640576",
@@ -100,7 +100,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -159,7 +160,8 @@
       "57":"y d #1",
       "58":"y d #1",
       "59":"y d #1",
-      "60":"y d #1"
+      "60":"y d #1",
+      "61":"y d #1"
     },
     "safari":{
       "3.1":"n",
@@ -276,13 +278,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",

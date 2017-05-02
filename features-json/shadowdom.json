@@ -103,7 +103,8 @@
       "52":"n d #1",
       "53":"n d #1",
       "54":"n d #1",
-      "55":"n d #1"
+      "55":"n d #1",
+      "56":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -162,7 +163,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -279,20 +281,23 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y x"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag."
   },
-  "usage_perc_y":59.62,
+  "usage_perc_y":69.05,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

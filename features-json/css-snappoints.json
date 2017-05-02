@@ -10,7 +10,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap_Points",
-      "title":"MDN Documentation for CSS Scroll snap points"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS Scroll snap points"
     },
     {
       "url":"https://github.com/ckrack/scrollsnap-polyfill",
@@ -95,7 +95,8 @@
       "52":"a #5",
       "53":"a #5",
       "54":"a #5",
-      "55":"a #5"
+      "55":"a #5",
+      "56":"a #5"
     },
     "chrome":{
       "4":"n",
@@ -154,7 +155,8 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"n"
+      "60":"n",
+      "61":"n"
     },
     "safari":{
       "3.1":"n",
@@ -271,13 +273,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"Works in the iOS WKWebView, but not UIWebView.",

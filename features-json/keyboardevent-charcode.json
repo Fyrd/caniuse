@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/charCode",
-      "title":"Mozilla Developer Network"
+      "title":"Mozilla Developer Network (MDN) documentation - charCode"
     }
   ],
   "bugs":[
@@ -87,7 +87,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"y",
@@ -146,7 +147,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"u",
@@ -263,20 +265,23 @@
       "11":"n #1"
     },
     "and_uc":{
-      "11":"n #1"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"This property is legacy and deprecated, but its replacement(s) are not yet widely supported.",
   "notes_by_num":{
     "1":"Does not appear to support the `keypress` event at all"
   },
-  "usage_perc_y":84.97,
+  "usage_perc_y":94.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

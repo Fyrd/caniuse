@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/location",
-      "title":"Mozilla Developer Network"
+      "title":"Mozilla Developer Network (MDN) documentation - location"
     }
   ],
   "bugs":[
@@ -87,7 +87,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -146,7 +147,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"u",
@@ -263,21 +265,24 @@
       "11":"y"
     },
     "and_uc":{
-      "11":"a #1"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Only supports `KeyboardEvent.keyLocation` from an older draft of the DOM Level 3 Events spec instead."
   },
-  "usage_perc_y":84.16,
-  "usage_perc_a":10.6,
+  "usage_perc_y":93.59,
+  "usage_perc_a":1.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,key,location,keyLocation,numpad",

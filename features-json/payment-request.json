@@ -18,7 +18,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API",
-      "title":"Mozilla Developer Network"
+      "title":"Mozilla Developer Network (MDN) documentation - Payment Request API"
     },
     {
       "url":"https://emerald-eon.appspot.com/",
@@ -107,7 +107,8 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n"
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"n",
@@ -166,7 +167,8 @@
       "57":"n d #1",
       "58":"n d #1",
       "59":"n d #1",
-      "60":"n d #1"
+      "60":"n d #1",
+      "61":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -283,13 +285,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n d #1"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"Apple provides an equivalent proprietary API called [Apple Pay JS](https://developer.apple.com/reference/applepayjs/)",
@@ -297,7 +302,7 @@
     "1":"Can be enabled via the \"Experimental Web Platform features\" flag",
     "2":"Can be enabled via the \"Experimental Web Payments API\" flag",
     "3":"Preliminary implementation",
-    "4":"Safari has a proprietary implementation https://developer.apple.com/reference/applepayjs/applepaypaymentrequest"
+    "4":"Apple's proprietary implementation"
   },
   "usage_perc_y":26.57,
   "usage_perc_a":0,

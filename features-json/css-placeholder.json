@@ -18,7 +18,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-placeholder",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS ::-moz-placeholder"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1069012",
@@ -103,7 +103,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"a x",
@@ -162,7 +163,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -279,13 +281,16 @@
       "11":"a x"
     },
     "and_uc":{
-      "11":"a x"
+      "11.4":"a x"
     },
     "samsung":{
       "4":"a x"
     },
     "and_qq":{
       "1.2":"a x"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Partial support refers to using alternate names:\r\n`::-webkit-input-placeholder` for Chrome/Safari/Opera ([Chrome issue #623345](https://bugs.chromium.org/p/chromium/issues/detail?id=623345))\r\n`:-ms-input-placeholder` for IE. \r\n`::-ms-input-placeholder` for Edge (also supports webkit prefix)",

@@ -22,7 +22,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action",
-      "title":"Mozilla Developer Network"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS touch-action"
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=149854",
@@ -111,7 +111,8 @@
       "52":"y #4",
       "53":"y #4",
       "54":"y #4",
-      "55":"y #4"
+      "55":"y #4",
+      "56":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -170,7 +171,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -287,13 +289,16 @@
       "11":"y"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",
@@ -303,8 +308,8 @@
     "3":"iOS Safari only supports `auto` and `manipulation`.",
     "4":"Not applicable to Firefox platforms that support neither pointer nor touch events."
   },
-  "usage_perc_y":66.2,
-  "usage_perc_a":11.64,
+  "usage_perc_y":75.63,
+  "usage_perc_a":9.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"touch action",

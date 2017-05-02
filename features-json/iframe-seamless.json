@@ -99,7 +99,8 @@
       "52":"u",
       "53":"u",
       "54":"u",
-      "55":"u"
+      "55":"u",
+      "56":"u"
     },
     "chrome":{
       "4":"n",
@@ -158,7 +159,8 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"n"
+      "60":"n",
+      "61":"n"
     },
     "safari":{
       "3.1":"n",
@@ -275,13 +277,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"y"
+      "11.4":"y"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"Chrome 20-26 had partial support behind a flag, though this was [later removed](http://crbug.com/229421).",

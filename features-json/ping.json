@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-ping",
-      "title":"Ping attribute on Mozilla Developer Network"
+      "title":"Mozilla Developer Network (MDN) documentation - Element ping attribute"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6996308-implement-hyperlink-auditing-aka-the-ping-attribu",
@@ -91,7 +91,8 @@
       "52":"n d #1",
       "53":"n d #1",
       "54":"n d #1",
-      "55":"n d #1"
+      "55":"n d #1",
+      "56":"n d #1"
     },
     "chrome":{
       "4":"u",
@@ -150,7 +151,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -267,20 +269,23 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"While still in the WHATWG specification, this feature was removed from the W3C HTML5 specification in 2010.",
   "notes_by_num":{
     "1":"Disabled by default for [privacy reasons](http://kb.mozillazine.org/Browser.send_pings). Can be enabled via the `browser.send_pings` flag."
   },
-  "usage_perc_y":71.97,
+  "usage_perc_y":81.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

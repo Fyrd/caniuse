@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS writing-mode"
     },
     {
       "url":"https://www.chromestatus.com/feature/5707470202732544",
@@ -91,7 +91,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -150,7 +151,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -267,13 +269,16 @@
       "11":"a x"
     },
     "and_uc":{
-      "11":"y x"
+      "11.4":"y x"
     },
     "samsung":{
       "4":"y x"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",

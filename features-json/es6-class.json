@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes",
-      "title":"MDN article on ES6 classes"
+      "title":"Mozilla Developer Network (MDN) documentation - ES6 classes"
     },
     {
       "url":"https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/",
@@ -21,7 +21,7 @@
     
   ],
   "categories":[
-    "JS API"
+    "JS"
   ],
   "stats":{
     "ie":{
@@ -95,7 +95,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -154,7 +155,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -271,13 +273,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",

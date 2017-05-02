@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/element",
-      "title":"MDN page"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS element"
     }
   ],
   "bugs":[
@@ -92,7 +92,8 @@
       "52":"y x",
       "53":"y x",
       "54":"y x",
-      "55":"y x"
+      "55":"y x",
+      "56":"y x"
     },
     "chrome":{
       "4":"n",
@@ -151,7 +152,8 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"n"
+      "60":"n",
+      "61":"n"
     },
     "safari":{
       "3.1":"n",
@@ -268,13 +270,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"",

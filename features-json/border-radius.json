@@ -19,6 +19,10 @@
     {
       "url":"https://www.webplatform.org/docs/css/properties/border-radius",
       "title":"WebPlatform Docs"
+    },
+    {
+      "url":"https://developer.mozilla.org/en/docs/Web/CSS/border-radius",
+      "title":"Mozilla Developer Network (MDN) documentation - CSS border-radius"
     }
   ],
   "bugs":[
@@ -116,7 +120,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"y x",
@@ -175,7 +180,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -292,13 +298,16 @@
       "11":"y"
     },
     "and_uc":{
-      "11":"y"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",

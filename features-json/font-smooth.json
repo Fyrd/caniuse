@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - font-smooth"
     },
     {
       "url":"http://www.w3.org/TR/WD-font/#font-smooth",
@@ -93,7 +93,8 @@
       "52":"a x #2 #3",
       "53":"a x #2 #3",
       "54":"a x #2 #3",
-      "55":"a x #2 #3"
+      "55":"a x #2 #3",
+      "56":"a x #2 #3"
     },
     "chrome":{
       "4":"n",
@@ -152,7 +153,8 @@
       "57":"a x #1 #3",
       "58":"a x #1 #3",
       "59":"a x #1 #3",
-      "60":"a x #1 #3"
+      "60":"a x #1 #3",
+      "61":"a x #1 #3"
     },
     "safari":{
       "3.1":"n",
@@ -269,13 +271,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"Though present in early (2002) drafts of CSS3 Fonts, `font-smooth` has been removed from this specification and is currently not on the standard track.",

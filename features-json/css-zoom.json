@@ -26,7 +26,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/zoom",
-      "title":"Mozilla Developer Network"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS zoom"
     }
   ],
   "bugs":[
@@ -109,7 +109,8 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n"
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"y",
@@ -168,7 +169,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -285,13 +287,16 @@
       "11":"y #1"
     },
     "and_uc":{
-      "11":"y"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content.",

@@ -138,7 +138,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -197,7 +198,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -314,13 +316,16 @@
       "11":"a #2"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",
@@ -329,7 +334,7 @@
     "2":"Partial support refers to not supporting the \"vmax\" unit. ",
     "3":"Partial support in iOS7 is due to buggy behavior of the \"vh\" unit (see workarounds: [1](https://gist.github.com/pburtchaell/e702f441ba9b3f76f587), [2](https://gist.github.com/BenMorel/e9e34c08360ebbbd0634))."
   },
-  "usage_perc_y":78.19,
+  "usage_perc_y":87.62,
   "usage_perc_a":6.14,
   "ucprefix":false,
   "parent":"",

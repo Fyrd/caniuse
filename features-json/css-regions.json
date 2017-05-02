@@ -99,7 +99,8 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n"
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"n",
@@ -158,7 +159,8 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"n"
+      "60":"n",
+      "61":"n"
     },
     "safari":{
       "3.1":"n",
@@ -275,13 +277,16 @@
       "11":"a x #1 #2"
     },
     "and_uc":{
-      "11":"y x"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"",
@@ -289,7 +294,7 @@
     "1":"Support is limited to using an iframe as a content source with the `-ms-flow-into: flow_name;` and `-ms-flow-from: flow_name;` syntax.",
     "2":"Partial support refers to not supporting the `region-fragment` property."
   },
-  "usage_perc_y":21.62,
+  "usage_perc_y":12.19,
   "usage_perc_a":5.72,
   "ucprefix":false,
   "parent":"",

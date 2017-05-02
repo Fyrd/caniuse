@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/user-select",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS user-select"
     },
     {
       "url":"http://css-tricks.com/almanac/properties/u/user-select/",
@@ -100,7 +100,8 @@
       "52":"y x",
       "53":"y x",
       "54":"y x",
-      "55":"y x"
+      "55":"y x",
+      "56":"y x"
     },
     "chrome":{
       "4":"y x",
@@ -159,7 +160,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -276,13 +278,16 @@
       "11":"y x"
     },
     "and_uc":{
-      "11":"y x"
+      "11.4":"y x"
     },
     "samsung":{
       "4":"y x"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"n"
     }
   },
   "notes":"",

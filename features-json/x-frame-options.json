@@ -10,7 +10,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options",
-      "title":"Mozilla Developer Network article"
+      "title":"Mozilla Developer Network (MDN) documentation - X-Frame-Options"
     },
     {
       "url":"https://www.owasp.org/index.php/Clickjacking_Defense_Cheat_Sheet",
@@ -103,7 +103,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"u",
@@ -162,7 +163,8 @@
       "57":"a",
       "58":"a",
       "59":"a",
-      "60":"a"
+      "60":"a",
+      "61":"a"
     },
     "safari":{
       "3.1":"u",
@@ -279,13 +281,16 @@
       "11":"y"
     },
     "and_uc":{
-      "11":"a"
+      "11.4":"a"
     },
     "samsung":{
       "4":"a"
     },
     "and_qq":{
       "1.2":"a"
+    },
+    "baidu":{
+      "7.12":"a"
     }
   },
   "notes":"Partial support refers to not supporting the `ALLOW-FROM` option.\r\nThe `X-Frame-Options` header has been obsoleted by [the `frame-ancestors` directive](https://www.w3.org/TR/CSP2/#directive-frame-ancestors) from Content Security Policy Level 2.",

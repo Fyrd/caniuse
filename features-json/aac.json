@@ -87,7 +87,8 @@
       "52":"a #1",
       "53":"a #1",
       "54":"a #1",
-      "55":"a #1"
+      "55":"a #1",
+      "56":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -146,7 +147,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -263,16 +265,19 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"y"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
-  "notes":"Support refers to using the `audio` element, not other conditions.",
+  "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
   "notes_by_num":{
     "1":"Partial support in Firefox refers to only supporting AAC in an MP4 container and only when the operating system already has the codecs installed."
   },

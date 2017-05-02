@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:any-link",
-      "title":"MDN page"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS :any-link"
     }
   ],
   "bugs":[
@@ -87,7 +87,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"u",
@@ -146,7 +147,8 @@
       "57":"y x",
       "58":"y x",
       "59":"y x",
-      "60":"y x"
+      "60":"y x",
+      "61":"y x"
     },
     "safari":{
       "3.1":"u",
@@ -263,13 +265,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"u"
+      "11.4":"u"
     },
     "samsung":{
       "4":"u"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"y x"
     }
   },
   "notes":"",

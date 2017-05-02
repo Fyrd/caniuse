@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Opera and Firefox are reported to not support Opus in webm files yet, only in ogg."
+      "description":"Opera and Firefox are reported to not support Opus in WebM files yet, only in OGG."
     }
   ],
   "categories":[
@@ -97,7 +97,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -156,7 +157,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -273,16 +275,19 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
-  "notes":"Support refers to use using the `audio` element, not other conditions.\r\n\r\nFor Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
+  "notes":"Support refers to this format's use in the `audio` element, not other conditions.\r\n\r\nFor Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
   "notes_by_num":{
     
   },

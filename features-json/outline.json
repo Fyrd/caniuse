@@ -1,8 +1,8 @@
 {
-  "title":"CSS outline",
-  "description":"The CSS outline property is a shorthand property for setting one or more of the individual outline properties outline-style, outline-width and outline-color in a single rule. In most cases the use of this shortcut is preferable and more convenient.",
-  "spec":"http://www.w3.org/TR/CSS2/ui.html#propdef-outline",
-  "status":"rec",
+  "title":"CSS outline properties",
+  "description":"The CSS outline properties draw a border around an element that does not affect layout, making it ideal for highlighting. This covers the `outline` shorthand, as well as `outline-width`, `outline-style`, `outline-color` and `outline-offset`. ",
+  "spec":"https://drafts.csswg.org/css-ui/",
+  "status":"cr",
   "links":[
     {
       "url":"http://dev.w3.org/csswg/css3-ui/#outline",
@@ -10,35 +10,30 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/CSS/outline",
-      "title":"Mozilla Developer Network: outline"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS outline"
     }
   ],
   "bugs":[
-    {
-      "description":"IE9 and IE10 don't support outline-offset as defined here: http://dev.w3.org/csswg/css3-ui/#outline-offset0"
-    },
-    {
-      "description":"Some versions of Firefox, if not all, place the outline outside of the element's margin property."
-    }
+    
   ],
   "categories":[
-    "CSS2"
+    "CSS3"
   ],
   "stats":{
     "ie":{
       "5.5":"n",
       "6":"n",
       "7":"n",
-      "8":"y",
-      "9":"y #1",
-      "10":"y #1",
-      "11":"y #1"
+      "8":"a #2",
+      "9":"a #1 #2",
+      "10":"a #1 #2",
+      "11":"a #1 #2"
     },
     "edge":{
-      "12":"y #1",
-      "13":"y #1",
-      "14":"y #1",
-      "15":"y #1"
+      "12":"a #1 #2",
+      "13":"a #1 #2",
+      "14":"a #1 #2",
+      "15":"y"
     },
     "firefox":{
       "2":"y",
@@ -96,7 +91,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"y",
@@ -155,7 +151,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"y",
@@ -175,14 +172,14 @@
       "TP":"y"
     },
     "opera":{
-      "9":"y",
-      "9.5-9.6":"y",
-      "10.0-10.1":"y",
-      "10.5":"y",
-      "10.6":"y",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
+      "9":"a #2",
+      "9.5-9.6":"a #2",
+      "10.0-10.1":"a #2",
+      "10.5":"a #2",
+      "10.6":"a #2",
+      "11":"a #2",
+      "11.1":"a #2",
+      "11.5":"a #2",
       "11.6":"y",
       "12":"y",
       "12.1":"y #1",
@@ -253,10 +250,10 @@
       "10":"y"
     },
     "op_mob":{
-      "10":"y",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
+      "10":"a #2",
+      "11":"a #2",
+      "11.1":"a #2",
+      "11.5":"a #2",
       "12":"y",
       "12.1":"y",
       "37":"y"
@@ -268,28 +265,32 @@
       "52":"y"
     },
     "ie_mob":{
-      "10":"y #1",
-      "11":"y #1"
+      "10":"a #1 #2",
+      "11":"a #1 #2"
     },
     "and_uc":{
-      "11":"y"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
-  "notes":"",
+  "notes":"Firefox also supports the non-standard `-moz-outline-radius` property that acts similar to `border-radius`.",
   "notes_by_num":{
-    "1":"Also supports the value of `invert` for `outline-color`. (support of this value is optional for browsers)"
+    "1":"Also supports the value of `invert` for `outline-color`. (support of this value is optional for browsers)",
+    "2":"Does not support `outline-offset`."
   },
-  "usage_perc_y":95.35,
-  "usage_perc_a":0,
+  "usage_perc_y":89,
+  "usage_perc_a":6.35,
   "ucprefix":false,
   "parent":"",
-  "keywords":"-moz-outline,outline-width,outline-style,outline-color",
+  "keywords":"-moz-outline,outline-width,outline-style,outline-color,outline-radius",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

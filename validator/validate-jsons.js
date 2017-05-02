@@ -7,7 +7,7 @@
     var sampleData;
     var w3cStatusArr = ['rec', 'pr', 'cr', 'wd'];
     var statusArr = w3cStatusArr.concat(['ls', 'other', 'unoff']);
-    var categoryArr = ['HTML5', 'CSS', 'CSS2', 'CSS3', 'SVG', 'PNG', 'JS API', 'Canvas', 'DOM', 'Other'];
+    var categoryArr = ['HTML5', 'CSS', 'CSS2', 'CSS3', 'SVG', 'PNG', 'JS API', 'Canvas', 'DOM', 'Other', 'JS', 'Security'];
     // Support string MUST have one of these (optionally others)
     var supportValues = ['y', 'a', 'n', 'u', 'p'];
 

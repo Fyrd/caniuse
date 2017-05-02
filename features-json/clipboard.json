@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent",
-      "title":"MDN page on ClipboardEvent"
+      "title":"Mozilla Developer Network (MDN) documentation - ClipboardEvent"
     },
     {
       "url":"https://www.lucidchart.com/techblog/2014/12/02/definitive-guide-copying-pasting-javascript/",
@@ -93,7 +93,8 @@
       "52":"a #6",
       "53":"a #6",
       "54":"a #6",
-      "55":"a #6"
+      "55":"a #6",
+      "56":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -152,7 +153,8 @@
       "57":"a #5 #7",
       "58":"a #5 #7",
       "59":"a #5 #7",
-      "60":"a #5 #7"
+      "60":"a #5 #7",
+      "61":"a #5 #7"
     },
     "safari":{
       "3.1":"u",
@@ -269,13 +271,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"n"
     },
     "samsung":{
       "4":"a #2 #5"
     },
     "and_qq":{
       "1.2":"a #5 #7"
+    },
+    "baidu":{
+      "7.12":"a #5"
     }
   },
   "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+, Opera 29+ and Firefox 41+ support clipboard reading/writing only when part of a user action (click, keydown, etc).\r\n\r\nFirefox 40- users [can enable support](https://developer.mozilla.org/en-US/docs/Midas/Security_preferences) with a security preference setting.",

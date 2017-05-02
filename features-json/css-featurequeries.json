@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@supports",
-      "title":"MDN Article"
+      "title":"Mozilla Developer Network (MDN) documentation - CSS @supports"
     },
     {
       "url":"http://mcc.id.au/blog/2012/08/supports",
@@ -104,7 +104,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +164,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -280,20 +282,23 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"See also the [CSS.supports() DOM API](#feat=css-supports-api)",
   "notes_by_num":{
     
   },
-  "usage_perc_y":82.6,
+  "usage_perc_y":92.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

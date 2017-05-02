@@ -6,14 +6,15 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/window.crypto.getRandomValues",
-      "title":"MDN article"
+      "title":"Mozilla Developer Network (MDN) documentation - crypto.getRandomValues"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS API"
+    "JS API",
+    "Security"
   ],
   "stats":{
     "ie":{
@@ -87,7 +88,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"n",
@@ -146,7 +148,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -263,20 +266,23 @@
       "11":"y x"
     },
     "and_uc":{
-      "11":"n"
+      "11.4":"y"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":83.88,
+  "usage_perc_y":93.31,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -18,7 +18,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en/MathML/Element",
-      "title":"MDN element reference"
+      "title":"Mozilla Developer Network (MDN) documentation - MathML Element"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test",
@@ -103,7 +103,8 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y"
+      "55":"y",
+      "56":"y"
     },
     "chrome":{
       "4":"p",
@@ -162,7 +163,8 @@
       "57":"p",
       "58":"p",
       "59":"p",
-      "60":"p"
+      "60":"p",
+      "61":"p"
     },
     "safari":{
       "3.1":"a #2",
@@ -279,13 +281,16 @@
       "11":"n"
     },
     "and_uc":{
-      "11":"a"
+      "11.4":"a"
     },
     "samsung":{
       "4":"p"
     },
     "and_qq":{
       "1.2":"p"
+    },
+    "baidu":{
+      "7.12":"p"
     }
   },
   "notes":"Opera's support is limited to a CSS profile of MathML. Support was added in Chrome 24, but removed afterwards due to instability.",

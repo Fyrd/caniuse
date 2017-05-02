@@ -95,7 +95,8 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n"
+      "55":"n",
+      "56":"n"
     },
     "chrome":{
       "4":"u",
@@ -154,7 +155,8 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y"
     },
     "safari":{
       "3.1":"n",
@@ -271,13 +273,16 @@
       "11":"u"
     },
     "and_uc":{
-      "11":"u"
+      "11.4":"u"
     },
     "samsung":{
       "4":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
     }
   },
   "notes":"These events are deprecated. Use the `focus`/`blur`/`focusin`/`focusout` events instead if possible.",
