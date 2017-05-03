@@ -21,7 +21,7 @@
       "description":"Browsers have trouble with more than one audio track in a video (for multi-language support): IE 11 supports it, Firefox plays the last track, Chrome plays the first track."
     },
     {
-      "description":"In Windows 7, the maximum supported resolution is 1920 \u00d7 1088 pixels for both software and DXVA decoding. [MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/dd797815\\(v=vs.85.aspx\\))."
+      "description":"In Windows 7, the maximum supported resolution is 1920 \u00d7 1088 pixels for both software and DXVA decoding. [MSDN](https://msdn.microsoft.com/en-us/library/windows/desktop/dd797815(v=vs.85.aspx))."
     }
   ],
   "categories":[
@@ -294,8 +294,8 @@
     "1":"The Android 2.3 browser requires [specific handling](http://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to play videos.",
     "2":"Partial supports refers to the lack of hardware acceleration."
   },
-  "usage_perc_y":84.26,
-  "usage_perc_a":10.31,
+  "usage_perc_y":84.88,
+  "usage_perc_a":9.84,
   "ucprefix":false,
   "parent":"video",
   "keywords":"avc,mp4,mpv,mov,aac,h264",

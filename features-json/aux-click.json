@@ -5,10 +5,6 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://wicg.github.io/auxclick/",
-      "title":"Original Proposal"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Events/auxclick",
       "title":"Mozilla Developer Network (MDN) documentation - auxclick"
     },
@@ -19,6 +15,10 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=22382",
       "title":"Webkit bug"
+    },
+    {
+      "url":"https://wicg.github.io/auxclick/",
+      "title":"Original Proposal"
     }
   ],
   "bugs":[
@@ -294,7 +294,7 @@
   "notes_by_num":{
     "1":"As a compatibility measure, Firefox continues to fire the click event for document and window level event handlers."
   },
-  "usage_perc_y":50.86,
+  "usage_perc_y":53.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
