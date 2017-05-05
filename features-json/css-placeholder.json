@@ -1,7 +1,7 @@
 {
-  "title":"::placeholder CSS pseudo-element",
-  "description":"The ::placeholder pseudo-element represents placeholder text in an input field: text that represents the input and provides a hint to the user on how to fill out the form. For example, a date-input field might have the placeholder text `YYYY/MM/DD` to clarify that numeric dates are to be entered in year-month-day order.",
-  "spec":"http://dev.w3.org/csswg/css-pseudo-4/#placeholder-pseudo",
+  "title":":placeholder-shown CSS pseudo-class",
+  "description":"The :placeholder-shown pseudo-class represents placeholder text in an input field: text that represents the input and provides a hint to the user on how to fill out the form. For example, a date-input field might have the placeholder text `YYYY/MM/DD` to clarify that numeric dates are to be entered in year-month-day order.",
+  "spec":"http://www.w3.org/TR/selectors4/#placeholder-shown-pseudo",
   "status":"wd",
   "links":[
     {
@@ -301,7 +301,7 @@
   "usage_perc_a":36.28,
   "ucprefix":false,
   "parent":"",
-  "keywords":"::placeholder,placeholder",
+  "keywords":":placeholder-shown,::placeholder,placeholder",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
