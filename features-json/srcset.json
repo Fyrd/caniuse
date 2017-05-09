@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Edge versions 13 and 14 intermittently display distorted images as soon as they encounter a srcset attribute, seemingly dependent on caching and network timing. [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7778808/)"
+      "description":"Edge versions 13, 14 and 15 intermittently display distorted images as soon as they encounter a srcset attribute, seemingly dependent on caching and network timing. [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7778808/)"
     }
   ],
   "categories":[
@@ -35,7 +35,7 @@
       "12":"a #2",
       "13":"n #3",
       "14":"n #3",
-      "15":"y"
+      "15":"n #3"
     },
     "firefox":{
       "2":"n",
