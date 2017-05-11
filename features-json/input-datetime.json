@@ -28,9 +28,6 @@
   "bugs":[
     {
       "description":"Chrome for Android grays out dates that are out of range (using `min` and `max` attributes), but does not prevent the user from selecting these dates."
-    },
-    {
-      "description":"The time control in Microsoft Edge currently does not provide a way for a user to specify AM/PM, if their current region uses a 12 hour clock."
     }
   ],
   "categories":[
