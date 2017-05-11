@@ -4,7 +4,10 @@
   "spec":"https://datatracker.ietf.org/doc/draft-ietf-tokbind-https/",
   "status":"other",
   "links":[
-
+    {
+      "url":"https://docs.microsoft.com/en-us/windows-server/security/token-binding/introducing-token-binding",
+      "title":"Introducing Token Binding in Windows"
+    }
   ],
   "bugs":[
 
@@ -23,10 +26,10 @@
       "11":"n"
     },
     "edge":{
-      "12":"u",
-      "13":"u",
-      "14":"u",
-      "15":"u"
+      "12":"n",
+      "13":"n",
+      "14":"n",
+      "15":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -276,7 +279,8 @@
   },
   "notes":"Sample notes for feature, explain partial support here",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"Token Binding\" flag in chrome://flags"
+    "1":"Enabled in Chrome through the \"Token Binding\" flag in chrome://flags",
+    "2":"Token binding in Edge is enabled on Windows 10, version 1703 and newer"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
