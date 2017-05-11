@@ -30,6 +30,9 @@
     },
     {
       "description":"Does not work in IE8 and IE9 on `<input type=\"text\">`"
+    },
+    {
+      "description":"In Chrome version 44, text-overflow: ellipsis is ignored when the width of the element is smaller than the font size. [Bug report](https://code.google.com/p/chromium/issues/detail?id=443159)."
     }
   ],
   "categories":[
