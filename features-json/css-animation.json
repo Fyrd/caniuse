@@ -177,8 +177,8 @@
     "safari":{
       "3.1":"n",
       "3.2":"n",
-      "4":"y x",
-      "5":"y x",
+      "4":"a x #2",
+      "5":"a x #2",
       "5.1":"y x",
       "6":"y x",
       "6.1":"y x",
@@ -237,10 +237,10 @@
       "46":"y"
     },
     "ios_saf":{
-      "3.2":"y x",
-      "4.0-4.1":"y x",
-      "4.2-4.3":"y x",
-      "5.0-5.1":"y x",
+      "3.2":"a x #1",
+      "4.0-4.1":"a x #1",
+      "4.2-4.3":"a x #1",
+      "5.0-5.1":"a x #1",
       "6.0-6.1":"y x",
       "7.0-7.1":"y x",
       "8":"y x",
@@ -303,13 +303,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support in Android browser refers to buggy behavior in different scenarios."
+    "1":"Partial support in Android browser refers to buggy behavior in different scenarios.",
+    "2":"Does not support the `steps()`, `step-start` & `step-end` timing functions"
   },
-  "usage_perc_y":94.78,
-  "usage_perc_a":0,
+  "usage_perc_y":94.75,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
-  "keywords":"animations,css-animations,animation-name,animation-duration,animation-delay,animation-timing-function,@keyframes,animationstart,animationend,animationiteration,css3 animation",
+  "keywords":"animations,css-animations,animation-name,animation-duration,animation-delay,animation-timing-function,@keyframes,animationstart,animationend,animationiteration,css3 animation,steps,step-start,step-end",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

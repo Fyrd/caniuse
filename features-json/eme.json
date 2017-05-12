@@ -1,27 +1,28 @@
 {
-  "title":"TLS 1.3",
-  "description":"An upcoming version of the Transport Layer Security (TLS) protocol. Removes weaker elliptic curves and hash functions.",
-  "spec":"https://tools.ietf.org/html/draft-ietf-tls-tls13-18",
-  "status":"other",
+  "title":"Encrypted Media Extensions",
+  "description":"The EncryptedMediaExtenstions API provides interfaces for controlling the playback of content which is subject to a DRM scheme.",
+  "spec":"https://w3c.github.io/encrypted-media/",
+  "status":"pr",
   "links":[
     {
-      "url":"https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.3",
-      "title":"Wikipedia article on TLS"
+      "url":"https://www.html5rocks.com/en/tutorials/eme/basics/",
+      "title":"HTML5rocks article"
     },
     {
-      "url":"https://crbug.com/630147",
-      "title":"Chrome support bug"
+      "url":"https://en.wikipedia.org/wiki/Encrypted_Media_Extensions",
+      "title":"Wikipedia article"
     },
     {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/17379247-support-tls-1-3-with-1-rtt",
-      "title":"UserVoice support request"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Encrypted_Media_Extensions_API",
+      "title":"Encrypted Media Extensions API on MDN"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "Other"
+    "JS API",
+    "Security"
   ],
   "stats":{
     "ie":{
@@ -31,13 +32,13 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"n"
+      "11":"a x #1"
     },
     "edge":{
-      "12":"n",
-      "13":"n",
-      "14":"n",
-      "15":"n"
+      "12":"y",
+      "13":"y",
+      "14":"y",
+      "15":"y"
     },
     "firefox":{
       "2":"n",
@@ -78,20 +79,20 @@
       "35":"n",
       "36":"n",
       "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n d",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
       "52":"y",
       "53":"y",
       "54":"y",
@@ -130,27 +131,27 @@
       "32":"n",
       "33":"n",
       "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n d",
-      "55":"n d",
+      "35":"a #1",
+      "36":"a #1",
+      "37":"a #1",
+      "38":"a #1",
+      "39":"a #1",
+      "40":"a #1",
+      "41":"a #1",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
       "56":"y",
       "57":"y",
       "58":"y",
@@ -166,14 +167,14 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n",
-      "7.1":"n",
-      "8":"n",
-      "9":"n",
-      "9.1":"n",
-      "10":"n",
-      "10.1":"n",
-      "TP":"n"
+      "7":"a x #1",
+      "7.1":"a x #1",
+      "8":"a x #1",
+      "9":"a x #1",
+      "9.1":"a x #1",
+      "10":"a x #1",
+      "10.1":"a x #1",
+      "TP":"a x #1"
     },
     "opera":{
       "9":"n",
@@ -194,27 +195,27 @@
       "19":"n",
       "20":"n",
       "21":"n",
-      "22":"n",
-      "23":"n",
-      "24":"n",
-      "25":"n",
-      "26":"n",
-      "27":"n",
-      "28":"n",
-      "29":"n",
-      "30":"n",
-      "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n d",
+      "22":"a #1",
+      "23":"a #1",
+      "24":"a #1",
+      "25":"a #1",
+      "26":"a #1",
+      "27":"a #1",
+      "28":"a #1",
+      "29":"y",
+      "30":"y",
+      "31":"y",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
       "43":"y",
       "44":"y",
       "45":"y",
@@ -247,11 +248,11 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"u"
+      "56":"y"
     },
     "bb":{
       "7":"n",
-      "10":"u"
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -260,44 +261,43 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "37":"y"
     },
     "and_chr":{
-      "57":"u"
+      "57":"y"
     },
     "and_ff":{
-      "52":"u"
+      "52":"n"
     },
     "ie_mob":{
       "10":"n",
-      "11":"u"
+      "11":"n"
     },
     "and_uc":{
-      "11.4":"u"
+      "11.4":"n"
     },
     "samsung":{
-      "4":"u"
+      "4":"n"
     },
     "and_qq":{
-      "1.2":"u"
+      "1.2":"n"
     },
     "baidu":{
-      "7.12":"u"
+      "7.12":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled by setting the `security.tls.version.max` flag value to `4` at `about:flags`",
-    "2":"Can be enabled by setting \"Maximum TLS version enabled\" to \"TLS 1.3\"at `chrome://flags/`. Support is reported to have be currently enabled as of version 56 for 1/10th of all users."
+    "1":"Only supports the older event-based specification"
   },
-  "usage_perc_y":28.46,
-  "usage_perc_a":0,
+  "usage_perc_y":62.22,
+  "usage_perc_a":5.59,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
-  "ie_id":"",
-  "chrome_id":"5712755738804224",
+  "keywords":"requestMediaKeySystemAccess,createMediaKeys",
+  "ie_id":"encryptedmediaextensions",
+  "chrome_id":"6578378068983808",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
