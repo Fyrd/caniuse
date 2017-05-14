@@ -104,8 +104,8 @@
       "49":"p d #3",
       "50":"p d #3",
       "51":"p d #3",
-      "52":"y #5",
-      "53":"y #5",
+      "52":"y #4",
+      "53":"y #4",
       "54":"y",
       "55":"y",
       "56":"y"
@@ -275,7 +275,7 @@
       "37":"p"
     },
     "and_chr":{
-      "57":"y #4"
+      "57":"y"
     },
     "and_ff":{
       "52":"y"
@@ -302,8 +302,7 @@
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
     "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag",
-    "4":"Grid does not initially display with certain JavaScript ([bug report](https://bugs.chromium.org/p/chromium/issues/detail?id=700383))",
-    "5":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))"
+    "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))"
   },
   "usage_perc_y":56.99,
   "usage_perc_a":5.35,
