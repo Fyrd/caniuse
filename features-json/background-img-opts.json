@@ -29,6 +29,9 @@
     },
     {
       "description":"Android 4.3 browser and below are reported to not support percentages in `background-size`"
+    },
+    {
+      "description":"Chrome 48 does not support `to right` or `to left` in `linear-gradient` if the parent container is a list element and over 1025px wide."
     }
   ],
   "categories":[
