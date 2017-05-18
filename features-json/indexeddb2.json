@@ -226,9 +226,7 @@
       "8.1-8.4":"n",
       "9.0-9.2":"n",
       "9.3":"n",
-      "10.0":"n",
-      "10.1":"y",
-      "10.2":"y",
+      "10.0-10.2":"u",
       "10.3":"y"
     },
     "op_mini":{
@@ -292,9 +290,9 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",
+  "shown":true,
   "ie_id":"indexeddb",
   "chrome_id":"5812621622116352,6571252802125824,6537756637396992",
   "firefox_id":"indexeddb",
-  "webkit_id":"specification-indexed-database-2.0",
-  "shown":true
+  "webkit_id":"specification-indexed-database-2.0"
 }
