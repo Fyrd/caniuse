@@ -293,7 +293,7 @@
       "7.12":"n d #2"
     }
   },
-  "notes":"",
+  "notes":"Not every computer or smartphone could run WebVR appication. For smartphones, you need a gyroscope and for computers must be VR-ready also the needed sotfware (Oculus client or (Steam VR and VivePort)) and drivers must been installed on the computer. In this situations, you've the best experiance to use WebVR applications.",
   "notes_by_num":{
     "1":"Available only in Firefox nightly & Firefox Developer Edition, not yet on track to be enabled for stable & beta builds and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
     "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
