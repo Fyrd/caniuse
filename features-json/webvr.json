@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    "WebVR is in development and is still changing. Because of this there could be bugs inside the standard of the W3C."
+    {
+      "description":"WebVR is in development and is still changing. Because of this there could be bugs inside the standard of the W3C."
+    }
   ],
   "categories":[
     "JS API"
