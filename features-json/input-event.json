@@ -34,7 +34,7 @@
       "8":"n",
       "9":"a #1 #3 #5",
       "10":"y #3 #5",
-      "11":"y #3 #5"
+      "11":"y #3 #5 #6"
     },
     "edge":{
       "12":"y #3 #5",
@@ -295,6 +295,7 @@
     "3":"`<select>` doesn't fire `input` events. See [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1816207) and [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024350).",
     "4":"Doesn't fire an `input` event when (un)checking a checkbox or radio button, or when changing the selected file(s) of an `<input type=\"file\">`. See [Chrome bug](https://code.google.com/p/chromium/issues/detail?id=534245), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=149398), and [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1206616).",
     "5":"Doesn't fire an `input` event when (un)checking a checkbox or radio button. See [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1883692)."
+    "6":"Fires an `input` event when an input field with placeholder is focused [IE11 bug report](https://connect.microsoft.com/IE/feedback/details/885747/ie-11-fires-the-input-event-when-a-input-field-with-placeholder-is-focused)."
   },
   "usage_perc_y":94.69,
   "usage_perc_a":0.22,
