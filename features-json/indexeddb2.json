@@ -14,6 +14,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "JS API"
@@ -285,14 +286,14 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":11.44,
+  "usage_perc_a":53.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",
-  "shown":true,
   "ie_id":"indexeddb",
   "chrome_id":"5812621622116352,6571252802125824,6537756637396992",
   "firefox_id":"indexeddb",
-  "webkit_id":"specification-indexed-database-2.0"
+  "webkit_id":"specification-indexed-database-2.0",
+  "shown":true
 }
