@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"WebVR is in development and is still changing. Because of this there could be bugs inside the standard of the W3C."
+    }
   ],
   "categories":[
     "JS API"
@@ -271,7 +273,7 @@
       "37":"n"
     },
     "and_chr":{
-      "57":"n d #2"
+      "57":"y #5"
     },
     "and_ff":{
       "52":"n"
@@ -284,7 +286,7 @@
       "11.4":"n"
     },
     "samsung":{
-      "4":"n"
+      "4":"y #4"
     },
     "and_qq":{
       "1.2":"n"
@@ -293,11 +295,13 @@
       "7.12":"n d #2"
     }
   },
-  "notes":"",
+  "notes":"Not every computer or smartphone could run WebVR appication. For smartphones, you need a gyroscope and for computers must be VR-ready also the needed sotfware (Oculus client or (Steam VR and VivePort)) and drivers must been installed on the computer. In this situations, you've the best experiance to use WebVR applications.",
   "notes_by_num":{
-    "1":"Available only in Firefox nightly & Firefox Developer Edition, not yet on track to be enabled for stable & beta builds.",
-    "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification.",
-    "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds."
+    "1":"Available only in Firefox nightly & Firefox Developer Edition, not yet on track to be enabled for stable & beta builds and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
+    "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
+    "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supports only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
+    "4":"Supports only Samsung Galaxy devices with the Samgung Gear VR",
+    "5":"Supports only Google Daydream on [daydream-ready devices](https://vr.google.com/daydream/smartphonevr/phones/) and Google Cardboards"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
