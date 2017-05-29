@@ -1,0 +1,44 @@
+{
+  "title":"NPAPI Netscape Plugin Application Programming Interface",
+  "description":"is a cross-platform plugin architecture used by many web browsers. A plugin declares that it handles certain content types (e.g. \"audio/mp3\"). When the browser encounters that content type it loads the associated plugin, sets aside space within the browser context for the plugin to render and then streams data to it. The plugin is then responsible for rendering the data. The plugin runs in-place within the page, as opposed to older browsers that had to launch an external application to handle unknown content types. The application programming interface (API) requires each plugin to implement and expose approximately 15 functions for initializing, creating, destroying and positioning plugin content. The NPAPI also supports scripting, printing, full screen plugins, windowless plugins and content streaming.",
+  "links":[
+    {
+      "url":"https://developer.mozilla.org/en-US/Add-ons/Plugins/Gecko_Plugin_API_Reference",
+      "title":"Mozilla Developer Network article"
+    }
+  ],
+  "bugs":[
+  ],
+  "categories":[
+    "JS API"
+  ],
+  "stats":{
+    "ie":{
+      "5.5":"n",
+      "6":"n",
+      "7":"n",
+      "8":"n",
+      "9":"n",
+      "10":"n",
+      "11":"n",
+      "Edge":"n"
+    },
+    "firefox":{
+      "29":"y"
+    },
+    "chrome":{
+      "43":"y"
+    },
+    "safari":{
+      "7.1":"y"
+    },
+    "opera":{
+      "19":"y"
+    }
+  },
+  "notes":"",
+  "notes_by_num":{
+  },
+  "parent":"",
+  "shown":true
+}
