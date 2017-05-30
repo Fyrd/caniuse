@@ -81,14 +81,14 @@
       "42":"n",
       "43":"n",
       "44":"y #2",
-      "45":"y #2 #4",
+      "45":"y #2",
       "46":"y #2",
       "47":"y #2",
       "48":"y #2",
       "49":"y #2",
       "50":"y #2",
       "51":"y #2",
-      "52":"y #2 #4",
+      "52":"y #2",
       "53":"y #2",
       "54":"y #2",
       "55":"y #2",
@@ -286,8 +286,7 @@
   "notes_by_num":{
     "1":"Partial support refers to not supporting `PushEvent.data` and `PushMessageData`",
     "2":"Requires full browser to be running to receive messages",
-    "3":"Safari supports a custom implementaion https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ ",
-    "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags"
+    "3":"Safari supports a custom implementaion https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ "
   },
   "usage_perc_y":71.12,
   "usage_perc_a":1.74,
