@@ -85,14 +85,14 @@
       "42":"n d #1",
       "43":"n d #1",
       "44":"y",
-      "45":"y",
+      "45":"y #3",
       "46":"y",
       "47":"y",
       "48":"y",
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y",
+      "52":"y #3",
       "53":"y",
       "54":"y",
       "55":"y",
@@ -289,7 +289,8 @@
   "notes":"Details on partial support can be found on [is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)",
   "notes_by_num":{
     "1":"Partial support can be enabled in Firefox with the `dom.serviceWorkers.enabled` flag.",
-    "2":"Available behind the \"Enable service workers\" flag"
+    "2":"Available behind the \"Enable service workers\" flag",
+    "3":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` flag"
   },
   "usage_perc_y":32.26,
   "usage_perc_a":41,
