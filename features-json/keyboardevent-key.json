@@ -33,15 +33,15 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "9":"a #2",
+      "10":"a #2",
+      "11":"a #2"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y"
+      "12":"a #2",
+      "13":"a #2",
+      "14":"a #2",
+      "15":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -273,8 +273,8 @@
       "52":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"a #2",
+      "11":"a #2"
     },
     "and_uc":{
       "11.4":"n"
@@ -292,7 +292,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to these versions of Firefox returning `\"MozPrintableKey\"` for all character keys."
+    "1":"Partial support refers to these versions of Firefox returning `\"MozPrintableKey\"` for all character keys.",
+    "2":"Has non-standard key identifiers and incorrect behaviour with AltGraph."
   },
   "usage_perc_y":69,
   "usage_perc_a":0.07,
