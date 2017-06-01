@@ -297,7 +297,7 @@
       "7.12":"y"
     }
   },
-  "notes":"Safari also supports the unofficial `-webkit-background-clip: text` (only with prefix)",
+  "notes":"Firefox, Chrome and Safari supports the unofficial `-webkit-background-clip: text` (only with prefix)",
   "notes_by_num":{
     "1":"Partial support in Opera Mini refers to not supporting background sizing or background attachments. However Opera Mini 7.5 supports background sizing (including cover and contain values).",
     "2":"Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
