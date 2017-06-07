@@ -1,6 +1,6 @@
 {
   "title":"Viewport units: vw, vh, vmin, vmax",
-  "description":"Length units representing 1% of the viewport size for viewport width (vw), height (vh), the smaller of the two (vmin), or the larger of the two (vmax).",
+  "description":"Length units representing a percentage of the current viewport dimensions: width (vw), height (vh), the smaller of the two (vmin), or the larger of the two (vmax).",
   "spec":"http://www.w3.org/TR/css3-values/#viewport-relative-lengths",
   "status":"cr",
   "links":[
