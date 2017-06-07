@@ -19,6 +19,9 @@
   ],
   "bugs":[
     {
+      "description":"macOS Safari 10 is having frame rate issue with `background-size`."
+    },
+    {
       "description":"iOS Safari has buggy behavior with `background-size: cover;` on a page's body."
     },
     {
