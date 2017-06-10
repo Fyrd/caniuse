@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "Canvas"
@@ -79,15 +79,15 @@
       "39":"n d #1 #2",
       "40":"n d #1 #2",
       "41":"n d #1 #2",
-      "42":"n d #1 #2",
-      "43":"n d #1 #2",
-      "44":"n d #1 #2",
-      "45":"n d #2",
-      "46":"n d #2",
-      "47":"n d #2",
-      "48":"n d #2",
-      "49":"n d #2",
-      "50":"n d #2",
+      "42":"n d #1",
+      "43":"n d #1",
+      "44":"n d #1",
+      "45":"n d #1",
+      "46":"n d #1 #5",
+      "47":"n d #1 #5",
+      "48":"n d #1 #5",
+      "49":"n d #1 #5",
+      "50":"n d #1 #5",
       "51":"y",
       "52":"y",
       "53":"y",
@@ -266,7 +266,8 @@
       "57":"n"
     },
     "and_ff":{
-      "52":"n"
+      "50":"n d #1 #5",
+      "51":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -291,7 +292,8 @@
     "1":"Can be enabled in Firefox by setting the about:config preference webgl.enable-prototype-webgl2 to true",
     "2":"WebGL2 context is accessed from \"experimental-webgl2\" rather than \"webgl2\"",
     "3":"Can be enabled in Chrome by passing the \"--enable-unsafe-es3-apis\" flag when starting the browser through the command line",
-    "4":"Can be enabled via the \"Experimental Features\" developer menu"
+    "4":"Can be enabled via the \"Experimental Features\" developer menu",
+    "5":"Enabled by default for Nightly and Dev Edition"
   },
   "usage_perc_y":28.89,
   "usage_perc_a":0,
