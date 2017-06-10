@@ -15,9 +15,14 @@
     {
       "url":"https://github.com/que-etc/resize-observer-polyfill",
       "title":"Polyfill"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1272409",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "DOM",
@@ -37,7 +42,8 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"n",
+      "16":"n"
     },
     "firefox":{
       "2":"n",
@@ -215,12 +221,12 @@
       "38":"n",
       "39":"n",
       "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n"
+      "41":"n d #1",
+      "42":"n d #1",
+      "43":"n d #1",
+      "44":"n d #1",
+      "45":"n d #1",
+      "46":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -266,7 +272,7 @@
       "37":"n"
     },
     "and_chr":{
-      "57":"n"
+      "57":"n d #1"
     },
     "and_ff":{
       "52":"n"
@@ -298,9 +304,9 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"ResizeObserver,onresize,resize events",
-  "shown":false,
   "ie_id":"resizeobserver",
   "chrome_id":"5705346022637568",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":true
 }
