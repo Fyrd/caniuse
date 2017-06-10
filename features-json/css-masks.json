@@ -229,7 +229,8 @@
       "43":"a x #1",
       "44":"a x #1",
       "45":"a x #1",
-      "46":"a x #1"
+      "46":"a x #1",
+      "47":"a x #1"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -275,10 +276,10 @@
       "37":"a x #1"
     },
     "and_chr":{
-      "57":"a x #1"
+      "59":"a x #1"
     },
     "and_ff":{
-      "52":"a #2"
+      "53":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -304,8 +305,8 @@
     "2":"Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo).",
     "3":"Partial support refers to supporting the mask-box-image shorthand but not the longhand properties"
   },
-  "usage_perc_y":4.05,
-  "usage_perc_a":85.22,
+  "usage_perc_y":4.08,
+  "usage_perc_a":85.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type",
