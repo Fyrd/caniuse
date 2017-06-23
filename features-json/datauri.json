@@ -42,7 +42,7 @@
     "edge":{
       "12":"a #2",
       "13":"a #2",
-      "14":"a #2",
+      "14":"a #2 #3",
       "15":"a #2",
       "16":"a #2"
     },
@@ -301,7 +301,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Support is limited to images and linked resources like CSS files, not HTML or JS files. Max URI length is 32KB.",
-    "2":"Support is limited to images and linked resources like CSS or JS, not HTML files. Maximum size limit is 4GB."
+    "2":"Support is limited to images and linked resources like CSS or JS, not HTML files. Maximum size limit is 4GB.",
+    "3":"SVGs with XML declarations are not displayed when used in data-urls"
   },
   "usage_perc_y":92.28,
   "usage_perc_a":5.94,
