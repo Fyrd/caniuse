@@ -15,6 +15,10 @@
     {
       "url":"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped",
       "title":"HTML5Rocks article"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1291515",
+      "title":"Firefox bug #1291515: disable `<style scoped>` in content documents"
     }
   ],
   "bugs":[
@@ -98,8 +102,8 @@
       "53":"y",
       "54":"y",
       "55":"y",
-      "56":"y",
-      "57":"y"
+      "56":"n",
+      "57":"n"
     },
     "chrome":{
       "4":"n",
