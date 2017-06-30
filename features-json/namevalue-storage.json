@@ -33,7 +33,7 @@
       "description":"In iOS 5 & 6 localStorage data is stored in a location that may occasionally be cleared out by the OS."
     },
     {
-      "description":"In private browsing mode, Safari, iOS Safari and the Android browser (not include Chrome for Android) do not support setting sessionStorage or localStorage."
+      "description":"In private browsing mode, Safari and iOS Safari up to including version 10.x as well as the Android browser (not include Chrome for Android) do not support setting sessionStorage or localStorage."
     },
     {
       "description":"In IE attempting to access localStorage on HTML files served from the file system results in the localStorage object being `undefined`"
