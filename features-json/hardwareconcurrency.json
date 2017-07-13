@@ -1,7 +1,7 @@
 {
   "title":"navigator.hardwareConcurrency",
   "description":"Returns the number of logical cores of the user's CPU. The value may be reduced to prevent device fingerprinting or because it exceeds the allowed number of simultaneous web workers.",
-  "spec":"https://html.spec.whatwg.org/multipage/workers.html#navigatorconcurrenthardware",
+  "spec":"https://html.spec.whatwg.org/multipage/workers.html#navigator.hardwareconcurrency",
   "status":"ls",
   "links":[
     {
