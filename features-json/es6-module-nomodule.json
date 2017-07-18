@@ -1,5 +1,5 @@
 {
-  "title":"JavaScript modules: <script nomodule>",
+  "title":"JavaScript modules: nomodule attribute",
   "description":"Loading JavaScript scripts only if modules are not supported",
   "spec":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-nomodule",
   "status":"ls",
@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "JS"
@@ -299,7 +299,7 @@
     "2":"Support can be enabled via `about:config`",
     "3":"Marked as [\"fixed, not yet flighted\"](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10525830/) on the Edge issue tracker"
   },
-  "usage_perc_y":8.91,
+  "usage_perc_y":0.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es6-module",
@@ -308,5 +308,5 @@
   "chrome_id":"5365692190687232",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }

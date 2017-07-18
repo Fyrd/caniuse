@@ -1,12 +1,12 @@
 {
-  "title":"JavaScript modules: <script type=\"module\">",
+  "title":"JavaScript modules via script tag",
   "description":"Loading JavaScript modules using `<script type=\"module\">`",
   "spec":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-type",
   "status":"ls",
   "links":[
     {
-      "url":"https://tc39.github.io/ecma262/#sec-modules",
-      "title":"Counterpart ECMAScript specification for import/export syntax"
+      "url":"https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/",
+      "title":"Intro to ES6 modules"
     },
     {
       "url":"https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/",
@@ -21,20 +21,16 @@
       "title":"Firefox support bug"
     },
     {
-      "url":"https://strongloop.com/strongblog/an-introduction-to-javascript-es6-modules/",
-      "title":"Blog post: Intro to ES6 modules"
-    },
-    {
       "url":"https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview",
       "title":"Blog post: Native ECMAScript modules - the first overview"
     },
     {
-      "url":"https://jakearchibald.com/2017/es-modules-in-browsers/",
-      "title":"Blog post: ECMAScript modules in browsers"
+      "url":"https://tc39.github.io/ecma262/#sec-modules",
+      "title":"Counterpart ECMAScript specification for import/export syntax"
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "JS"
