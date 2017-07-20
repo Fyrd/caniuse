@@ -93,9 +93,9 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"y",
-      "53":"y",
-      "54":"y",
+      "52":"n",
+      "53":"n d #1",
+      "54":"n d #1",
       "55":"y",
       "56":"y",
       "57":"y"
@@ -273,7 +273,7 @@
       "59":"y"
     },
     "and_ff":{
-      "54":"n"
+      "54":"n d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -295,9 +295,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Can be enabled via the `dom.requestIdleCallback.enabled` flag"
   },
-  "usage_perc_y":59.28,
+  "usage_perc_y":54.68,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
