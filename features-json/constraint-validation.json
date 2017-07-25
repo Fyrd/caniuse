@@ -292,7 +292,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Does not support `reportValidity`",
-    "2":"Does not support `validity.tooShort`",
+    "2":"Does not support `validity.tooShort`. See also [support for `minlength`.](http://caniuse.com/#feat=input-minlength)",
     "3":"Does not support `validity.badInput`"
   },
   "usage_perc_y":84.22,
