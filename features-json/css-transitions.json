@@ -315,7 +315,7 @@
       "7.12":"y"
     }
   },
-  "notes":"Support listed is for `transition` properties as well as the `transitionend` event. The prefixed name in WebKit browsers is `webkitTransitionEnd`",
+  "notes":"Support listed is for `transition` properties as well as the `transitionend` event.",
   "notes_by_num":{
     "1":"Does not support the `steps()`, `step-start` & `step-end` timing functions"
   },
@@ -323,7 +323,7 @@
   "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
-  "keywords":"css transition,transitionend,transition-property,transition-duration,transition-timing-function,transition-delay,steps,step-start,step-end",
+  "keywords":"css transition,transitionend,transition-property,transition-duration,transition-timing-function,transition-delay,steps,step-start,step-end,cubic-bezier",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
