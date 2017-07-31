@@ -23,6 +23,9 @@
     },
     {
       "description":"In Edge 15 animations with css variables may cause the webpage to crash [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/11676012/)"
+    },
+    {
+      "description":"In Edge 15, nested calculations with css variables are not computed and are ignored [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/12143022/)"
     }
   ],
   "categories":[
