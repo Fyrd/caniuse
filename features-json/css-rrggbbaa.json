@@ -155,8 +155,8 @@
       "59":"n d #1",
       "60":"n d #1",
       "61":"n d #1",
-      "62":"n d #1",
-      "63":"n d #1"
+      "62":"y",
+      "63":"y"
     },
     "safari":{
       "3.1":"n",
@@ -290,7 +290,7 @@
       "7.12":"n d #1"
     }
   },
-  "notes":"Support in Chrome is currently disable due to [this issue](http://crbug.com/618472)",
+  "notes":"Support in Android WebView is currently disabled due to [this issue](http://crbug.com/618472)",
   "notes_by_num":{
     "1":"Can be enabled via the \"Experimental web platform features\" flag."
   },
