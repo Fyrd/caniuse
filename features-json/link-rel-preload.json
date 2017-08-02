@@ -9,6 +9,10 @@
       "title":"Preload: What Is It Good For?"
     },
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content",
+      "title":"Preloading content with rel='preload'"
+    },
+    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1222633",
       "title":"Firefox support bug"
     }
@@ -93,8 +97,8 @@
       "53":"n",
       "54":"n",
       "55":"n",
-      "56":"n",
-      "57":"n"
+      "56":"y",
+      "57":"y"
     },
     "chrome":{
       "4":"n",
@@ -270,7 +274,9 @@
       "59":"y"
     },
     "and_ff":{
-      "54":"n"
+      "54":"n",
+      "55":"n",
+      "56":"y"
     },
     "ie_mob":{
       "10":"n",
