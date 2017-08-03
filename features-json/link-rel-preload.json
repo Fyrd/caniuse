@@ -97,8 +97,8 @@
       "53":"n",
       "54":"n",
       "55":"n",
-      "56":"y",
-      "57":"y"
+      "56":"a #1",
+      "57":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -296,7 +296,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Only cachable resources are supported to be preloaded which is script, style, image, video, audio, track, fetch, and font (note font/collection is not supported)."
   },
   "usage_perc_y":53.36,
   "usage_perc_a":0,
