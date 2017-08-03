@@ -296,7 +296,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only cachable resources are supported to be preloaded which is script, style, image, video, audio, track, fetch, and font (note font/collection is not supported)."
+    "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported)."
   },
   "usage_perc_y":53.36,
   "usage_perc_a":0,
