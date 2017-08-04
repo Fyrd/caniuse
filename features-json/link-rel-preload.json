@@ -11,6 +11,10 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1222633",
       "title":"Firefox support bug"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content",
+      "title":"Mozilla Developer Network (MDN) documentation - Preloading content with rel=\"preload\""
     }
   ],
   "bugs":[
@@ -93,8 +97,8 @@
       "53":"n",
       "54":"n",
       "55":"n",
-      "56":"n",
-      "57":"n"
+      "56":"a #1",
+      "57":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -292,7 +296,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported)."
   },
   "usage_perc_y":53.8,
   "usage_perc_a":0,
