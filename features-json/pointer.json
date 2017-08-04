@@ -5,12 +5,28 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events",
-      "title":"Pointer Event API on MDN"
+      "url":"http://blogs.msdn.com/b/ie/archive/2011/09/20/touch-input-for-ie10-and-metro-style-apps.aspx",
+      "title":"Implementation of Pointer Events in IE10"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "title":"Hand.js, the polyfill for browsers only supporting Touch Events"
+    },
+    {
+      "url":"http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
+      "title":"Article & tutorial"
+    },
+    {
+      "url":"http://deeptissuejs.com",
+      "title":"Abstraction library for pointer events"
     },
     {
       "url":"https://github.com/jquery/PEP",
       "title":"PEP: Pointer Events Polyfill"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events",
+      "title":"Pointer Event API on MDN"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=822898",
@@ -302,7 +318,7 @@
     "3":"Can be enabled with the `#enable-pointer-events` flag."
   },
   "usage_perc_y":57.65,
-  "usage_perc_a":0.24,
+  "usage_perc_a":0.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",
