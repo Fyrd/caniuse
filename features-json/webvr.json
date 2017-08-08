@@ -106,9 +106,9 @@
       "52":"n",
       "53":"n",
       "54":"n d #1",
-      "55":"n d #1",
-      "56":"n d #1",
-      "57":"n d #1"
+      "55":"y d #1",
+      "56":"y d #1",
+      "57":"y d #1"
     },
     "chrome":{
       "4":"n",
@@ -306,7 +306,7 @@
   },
   "notes":"Not every computer or smartphone could run WebVR appication. For smartphones, you need a gyroscope and for computers must be VR-ready also the needed sotfware (Oculus client or (Steam VR and VivePort)) and drivers must been installed on the computer. In this situations, you've the best experiance to use WebVR applications.",
   "notes_by_num":{
-    "1":"Available only in Firefox nightly & Firefox Developer Edition, not yet on track to be enabled for stable & beta builds and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
+    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS.",
     "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
     "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supports only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
     "4":"Supports only Samsung Galaxy devices with the Samgung Gear VR",
