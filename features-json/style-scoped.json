@@ -101,10 +101,10 @@
       "52":"y",
       "53":"y",
       "54":"y",
-      "55":"y",
-      "56":"n",
-      "57":"n",
-      "58":"n"
+      "55":"n d #2",
+      "56":"n d #2",
+      "57":"n d #2",
+      "58":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -302,7 +302,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "2":"Enabled in Firefox through the about:config setting \"layout.css.scoped-style.enabled\""
   },
   "usage_perc_y":14.7,
   "usage_perc_a":0,
