@@ -294,7 +294,8 @@
     "1":"Does not support for height/min-height/max-height property, only width. [see test case](http://codepen.io/shshaw/pen/Kiwaz) [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=567039)",
     "2":"Firefox currently supports the \"-moz-available\" property rather than \"-moz-stretch\".",
     "3":"Does not support for \"flex-basis\" property. [see specs](http://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property).\r\n[Blink bug](https://codereview.chromium.org/1304853002/),[Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887)",
-    "4":"This does not yet unprefix `stretch` (aka fill/fill-available)[See bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet."
+    "4":"This does not yet unprefix `stretch` (aka fill/fill-available)[See bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet.",
+    "5":"Safari does not yet support usage with CSS Grid Layout properties such as grid-template-rows."
   },
   "usage_perc_y":70.74,
   "usage_perc_a":17.76,
