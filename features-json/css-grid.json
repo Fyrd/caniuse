@@ -36,6 +36,9 @@
   "bugs":[
     {
       "description":"[GridBugs](https://github.com/rachelandrew/gridbugs): aims to be a community curated list of CSS Grid Layout bugs"
+    },
+    {
+      "description":"Safari does not yet support intrinsic and extrinsic sizing with grid properties such as `grid-template-rows`"
     }
   ],
   "categories":[

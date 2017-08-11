@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari does not yet support usage with CSS Grid Layout properties such as `grid-template-rows`."
+    }
   ],
   "categories":[
     "CSS3"
