@@ -13,6 +13,7 @@
     
   ],
   "categories":[
+    "Other",
     "Other"
   ],
   "stats":{
@@ -289,10 +290,10 @@
   },
   "notes":"DASH can be used in browsers that doesn't support it natively thanks to Media Source Extensions.",
   "notes_by_num":{
-    "1": "Can be enabled via the `media.dash.enabled` flag.",
-    "2": "Only WebM video is supported."
+    "1":"Can be enabled via the `media.dash.enabled` flag.",
+    "2":"Only WebM video is supported."
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -301,5 +302,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }
