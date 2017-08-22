@@ -1,19 +1,22 @@
 {
   "title":"Dynamic Adaptive Streaming over HTTP (MPEG-DASH)",
-  "description":"HTTP-based media streaming communications protocol",
+  "description":"HTTP-based media streaming communications protocol, an alternative to HTTP Live Streaming (HLS).",
   "spec":"https://www.iso.org/standard/65274.html",
   "status":"other",
   "links":[
     {
       "url":"https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP",
       "title":"Wikipedia article"
+    },
+    {
+      "url":"https://github.com/Dash-Industry-Forum/dash.js/",
+      "title":"JavaScript implementation"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "Other",
     "Other"
   ],
   "stats":{
@@ -288,7 +291,7 @@
       "7.12":"n"
     }
   },
-  "notes":"DASH can be used in browsers that doesn't support it natively thanks to Media Source Extensions.",
+  "notes":"DASH can be used with a JavaScript library in browsers that doesn't support it natively as long as they support [Media Source Extensions](/#feat=mediasource).",
   "notes_by_num":{
     "1":"Can be enabled via the `media.dash.enabled` flag.",
     "2":"Only WebM video is supported."
@@ -297,10 +300,10 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"dynamic adaptive streaming over http",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
