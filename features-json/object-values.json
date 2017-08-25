@@ -7,12 +7,14 @@
     {
       "url":"https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Object/values",
       "title":"MDN Specification"
+    },
+    {
+      "url":"https://github.com/es-shims/Object.values",
+      "title":"Polyfill"
     }
   ],
   "bugs":[
-    {
-      "description":"Sample bug description"
-    }
+
   ],
   "categories":[
     "JS"
