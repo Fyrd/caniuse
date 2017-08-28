@@ -1,7 +1,7 @@
 {
-  "title":"Web Share Api",
+  "title":"Web Share API",
   "description":"An way to allow websites to invoke the native sharing capabilities of the host platform",
-  "spec":"https://github.com/WICG/web-share/blob/master/docs/explainer.md",
+  "spec":"https://wicg.github.io/web-share/",
   "status":"wd",
   "links":[
     {
@@ -15,6 +15,10 @@
     {
       "url":"https://philna.sh/blog/2017/03/14/the-web-share-api/",
       "title":"Web Share API"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1312422",
+      "title":"Mozilla bug #1312422: Consider experimental support for Web Share API"
     }
   ],
   "bugs":[
@@ -308,8 +312,8 @@
   "parent":"",
   "keywords":"web share,share, share api,intents api",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5668769141620736",
   "firefox_id":"",
-  "webkit_id":"",
+  "webkit_id":"feature-web-share",
   "shown":false
 }
