@@ -2,7 +2,7 @@
   "title":"IndexedDB 2.0",
   "description":"Improvements to Indexed DB, including getAll(), renaming stores and indexes, and binary keys.",
   "spec":"https://www.w3.org/TR/IndexedDB-2/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://hacks.mozilla.org/2016/10/whats-new-in-indexeddb-2-0/",
@@ -253,7 +253,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"a #2"
+      "56":"y"
     },
     "bb":{
       "7":"n",
@@ -269,10 +269,10 @@
       "37":"a #1"
     },
     "and_chr":{
-      "59":"a #2"
+      "59":"y"
     },
     "and_ff":{
-      "55":"u"
+      "55":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -297,8 +297,8 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":36.64,
-  "usage_perc_a":32.91,
+  "usage_perc_y":66.55,
+  "usage_perc_a":3.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",
