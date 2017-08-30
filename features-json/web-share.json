@@ -1,8 +1,8 @@
 {
   "title":"Web Share API",
-  "description":"An way to allow websites to invoke the native sharing capabilities of the host platform",
+  "description":"A way to allow websites to invoke the native sharing capabilities of the host platform",
   "spec":"https://wicg.github.io/web-share/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developers.google.com/web/updates/2016/10/navigator-share",
@@ -25,7 +25,7 @@
     
   ],
   "categories":[
-    "JS"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -157,15 +157,15 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"y #1",
-      "56":"y #1",
-      "57":"y #1",
-      "58":"y #1",
-      "59":"y #1",
-      "60":"y #1",
-      "61":"y #1",
-      "62":"y #1",
-      "63":"y #1"
+      "55":"a #1",
+      "56":"a #1",
+      "57":"a #1",
+      "58":"a #1",
+      "59":"a #1",
+      "60":"a #1",
+      "61":"a #1",
+      "62":"a #1",
+      "63":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -261,7 +261,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n #3",
-      "56":"y #1"
+      "56":"a #1"
     },
     "bb":{
       "7":"n",
@@ -302,12 +302,12 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Behind origin trail",
+    "1":"Partial support refers to feature only being available for sites opting into the [origin trial](https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md)",
     "2":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
-    "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URL's could be used"
+    "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead."
   },
-  "usage_perc_y":22.65,
-  "usage_perc_a":0,
+  "usage_perc_y":0,
+  "usage_perc_a":22.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share, share api,intents api",
@@ -315,5 +315,5 @@
   "chrome_id":"5668769141620736",
   "firefox_id":"",
   "webkit_id":"feature-web-share",
-  "shown":false
+  "shown":true
 }
