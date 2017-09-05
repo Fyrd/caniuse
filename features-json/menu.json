@@ -1,8 +1,8 @@
 {
-  "title":"Toolbar/context menu",
-  "description":"Method of defining a toolbar menu, a context menu or a list of (interactive) options using the <menu> element.",
-  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-menu-element",
-  "status":"ls",
+  "title":"Context menu item (menuitem element)",
+  "description":"Method of defining a context menu item, now deprecated and [removed from the HTML specification](https://github.com/whatwg/html/issues/2730). ",
+  "spec":"https://www.w3.org/TR/2016/REC-html51-20161101/interactive-elements.html#context-menus",
+  "status":"unoff",
   "links":[
     {
       "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
@@ -316,7 +316,7 @@
   "usage_perc_a":5.82,
   "ucprefix":false,
   "parent":"",
-  "keywords":"contextmenu,menuitem,command",
+  "keywords":"contextmenu,<menuitem>,command",
   "ie_id":"menuelement",
   "chrome_id":"",
   "firefox_id":"",
