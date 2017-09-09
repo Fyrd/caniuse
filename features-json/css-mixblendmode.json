@@ -16,6 +16,9 @@
   "bugs":[
     {
       "description":"Firefox on OSX [has a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1135271) where content may turn entirely black"
+    },
+    {
+      "description":"[Chrome](https://bugs.chromium.org/p/chromium/issues/detail?id=762966)/Opera sometimes renders mix-blend-mode incorrectly. [There is a workaround though.](https://codepen.io/lumio/pen/vJqExB)"
     }
   ],
   "categories":[
