@@ -27,6 +27,9 @@
   ],
   "bugs":[
     {
+      "description":"Firefox does not support the `break-before`, `break-after` and `break-inside` properties. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=775628)."
+    },
+    {
       "description":"In Firefox, the property `column-span` (or `-moz-column-span`) does not yet work. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=616436)."
     },
     {
