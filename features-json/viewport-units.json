@@ -57,9 +57,6 @@
       "description":"In IE9 inside an iframe, viewport units will be calculated in the context of the parent window and not the iframe."
     },
     {
-      "description":"[Chrome does not print elements defined with viewport units.](https://code.google.com/p/chromium/issues/detail?id=382313)"
-    },
-    {
       "description":"`vh` on iOS is reported to include the height of the bottom toolbar in the height calculation, and the width of the sidebar (bookmarks) in the `vw` width calculation."
     }
   ],

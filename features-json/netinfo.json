@@ -152,10 +152,10 @@
       "58":"n",
       "59":"n",
       "60":"n",
-      "61":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n"
+      "61":"a #4",
+      "62":"a #4",
+      "63":"a #4",
+      "64":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -220,8 +220,8 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"n",
-      "49":"n"
+      "48":"a #4",
+      "49":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -251,7 +251,7 @@
       "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y"
+      "56":"a #3"
     },
     "bb":{
       "7":"n",
@@ -264,13 +264,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "37":"a #3"
     },
     "and_chr":{
-      "61":"y"
+      "61":"a #3"
     },
     "and_ff":{
-      "55":"y"
+      "55":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -281,21 +281,24 @@
     },
     "samsung":{
       "4":"a #1",
-      "5":"y"
+      "5":"a #3"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
-      "7.12":"y"
+      "7.12":"a #3"
     }
   },
   "notes":"In Chrome the API is enabled on Android only, support for other platforms [is coming](https://docs.google.com/a/chromium.org/document/d/1LTk9uVMGi4kurzcF5ellsAJReTF31fFJMHrQwSVtBjc/) . Support is also available on [Firefox OS](https://bugzilla.mozilla.org/show_bug.cgi?id=960426).",
   "notes_by_num":{
-    "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](http://davidbcalhoun.com/2010/using-navigator-connection-android/)"
+    "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](http://davidbcalhoun.com/2010/using-navigator-connection-android/)",
+    "2":"Only supports the `type` value.",
+    "3":"Only supports the `type` and `downloadMax` values.",
+    "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":31.81,
-  "usage_perc_a":1.95,
+  "usage_perc_y":0,
+  "usage_perc_a":33.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",
