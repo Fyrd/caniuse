@@ -1,7 +1,7 @@
 {
   "title":"Page Visibility",
   "description":"JavaScript API for determining whether a document is visible on the display",
-  "spec":"http://www.w3.org/TR/page-visibility/",
+  "spec":"https://www.w3.org/TR/page-visibility/",
   "status":"rec",
   "links":[
     {
@@ -311,7 +311,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"visibilitystate,visibilitychange",
+  "keywords":"visibilitystate,visibilitychange,onvisibilitychange",
   "ie_id":"pagevisibilityapi",
   "chrome_id":"5689697795833856",
   "firefox_id":"page-visibility",
