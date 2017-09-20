@@ -243,7 +243,7 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"y"
+      "11":"n d #2"
     },
     "op_mini":{
       "all":"n"
@@ -299,7 +299,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported)."
+    "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported).",
+    "2":"Can be enabled via the \"Experimental Features\" developer menu"
   },
   "usage_perc_y":56.75,
   "usage_perc_a":0.06,
