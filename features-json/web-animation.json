@@ -185,7 +185,7 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
-      "TP":"n"
+      "TP":"n d #4"
     },
     "opera":{
       "9":"n",
@@ -248,7 +248,7 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11":"n d #4"
     },
     "op_mini":{
       "all":"n"
@@ -306,7 +306,8 @@
   "notes_by_num":{
     "1":"Partial support refers to basic support of `element.animate()`",
     "2":"Partial support refers to basic support of `element.animate()` and [playback control of AnimationPlayer](https://www.chromestatus.com/features/5633748733263872)",
-    "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)"
+    "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)",
+    "4":"Can be enabled via the \"Experimental Features\" developer menu"
   },
   "usage_perc_y":0,
   "usage_perc_a":73.87,
