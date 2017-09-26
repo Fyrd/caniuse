@@ -7,6 +7,10 @@
     {
       "url":"http://css-tricks.com/almanac/properties/a/appearance/",
       "title":"CSS Tricks article"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-appearance",
+      "title":"MDN"
     }
   ],
   "bugs":[
@@ -26,11 +30,11 @@
       "11":"n"
     },
     "edge":{
-      "12":"a #1 #2",
-      "13":"a #1 #2",
-      "14":"a #1 #2",
-      "15":"a #1 #2",
-      "16":"a #1 #2"
+      "12":"a x #1 #2",
+      "13":"a x #1 #2",
+      "14":"a x #1 #2",
+      "15":"a x #1 #2",
+      "16":"a x #1 #2"
     },
     "firefox":{
       "2":"a x #1 #3",
@@ -273,7 +277,7 @@
     },
     "ie_mob":{
       "10":"n",
-      "11":"a #1 #2"
+      "11":"a x #1 #2"
     },
     "and_uc":{
       "11.4":"a x #1"
