@@ -30,7 +30,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"a #1"
+      "11":"n #1"
     },
     "edge":{
       "12":"u",
@@ -276,10 +276,10 @@
       "61":"u"
     },
     "and_ff":{
-      "55":"u"
+      "55":"n"
     },
     "ie_mob":{
-      "10":"u",
+      "10":"n",
       "11":"u"
     },
     "and_uc":{
@@ -299,7 +299,8 @@
   "notes":"",
   "notes_by_num":{
     "1": "IE implements a different API than the one from WHATWG.",
-    "2": "Chrome is still in development."
+    "2": "Only basic read support.",
+    "3": "No support of BYOB (\"bring your own buffer\") stream readers."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
