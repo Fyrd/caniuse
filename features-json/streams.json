@@ -97,8 +97,8 @@
       "54":"n",
       "55":"n",
       "56":"n",
-      "57":"y",
-      "58":"y"
+      "57":"a x #3",
+      "58":"a x #3"
     },
     "chrome":{
       "4":"u",
@@ -158,8 +158,8 @@
       "58":"u",
       "59":"u",
       "60":"u",
-      "61":"u",
-      "62":"u",
+      "61":"a #4",
+      "62":"a #4",
       "63":"u",
       "64":"u"
     },
@@ -226,8 +226,8 @@
       "45":"u",
       "46":"u",
       "47":"u",
-      "48":"u",
-      "49":"u"
+      "48":"a #4",
+      "49":"a #4"
     },
     "ios_saf":{
       "3.2":"u",
@@ -300,7 +300,8 @@
   "notes_by_num":{
     "1": "IE implements a different API than the one from WHATWG.",
     "2": "Only basic read support.",
-    "3": "No support of BYOB (\"bring your own buffer\") stream readers."
+    "3": "No support of WritableStream.",
+    "4": "No support of BYOB (\"bring your own buffer\") stream readers."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
