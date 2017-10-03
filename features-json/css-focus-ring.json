@@ -1,6 +1,6 @@
 {
   "title":":focus-ring CSS pseudo-class",
-  "description":"The `:focus-ring` pseudo-class applies while an element matches the `:focus` pseudo-class, and the UA determines via heuristics that the focus should be specially indicated on the element (typically via a “focus ring”).",
+  "description":"The `:focus-ring` pseudo-class applies while an element matches the `:focus` pseudo-class, and the UA determines via heuristics that the focus should be specially indicated on the element (typically via a \u201cfocus ring\u201d).",
   "spec":"https://drafts.csswg.org/selectors-4/#the-focusring-pseudo",
   "status":"unoff",
   "links":[
@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "CSS"
@@ -305,7 +305,7 @@
   "notes_by_num":{
     "1":"As `-moz-focusring`"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":5.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
