@@ -172,8 +172,8 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"y #1",
-      "TP":"y #1"
+      "11":"n #1",
+      "TP":"n #1"
     },
     "opera":{
       "9":"n",
@@ -236,7 +236,7 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"y #1"
+      "11":"n #1"
     },
     "op_mini":{
       "all":"n"
@@ -292,9 +292,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported only by macOS High Sierra and iOS 11 at the moment."
+    "1":"While supported natively in macOS High Sierra and iOS 11, the file format does not appear to be supported in Safari."
   },
-  "usage_perc_y":1.99,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

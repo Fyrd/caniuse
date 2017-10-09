@@ -5,12 +5,24 @@
   "status":"cr",
   "links":[
     {
-      "url": "https://mozilladevelopers.github.io/playground/",
-      "title": "Mozilla: Introduction to CSS Grid Layout"
+      "url":"http://blogs.msdn.com/b/ie/archive/2011/04/14/ie10-platform-preview-and-css-features-for-adaptive-layouts.aspx",
+      "title":"IE Blog post"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
+      "title":"Webkit (Chrome, Safari, etc.) feature request"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=616605",
+      "title":"Mozilla (Firefox) feature request"
+    },
+    {
+      "url":"https://github.com/codler/Grid-Layout-Polyfill",
+      "title":"Polyfill based on old spec"
     },
     {
       "url":"https://github.com/FremyCompany/css-grid-polyfill/",
-      "title":"Polyfill"
+      "title":"Polyfill based on new spec"
     },
     {
       "url":"https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/",
@@ -19,6 +31,10 @@
     {
       "url":"https://gridbyexample.com/",
       "title":"Css Grid By Example: Everything you need to learn CSS Grid Layout"
+    },
+    {
+      "url":"https://mozilladevelopers.github.io/playground/",
+      "title":"Mozilla: Introduction to CSS Grid Layout"
     }
   ],
   "bugs":[
