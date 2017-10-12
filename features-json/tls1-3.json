@@ -276,7 +276,7 @@
       "37":"n"
     },
     "and_chr":{
-      "61":"u"
+      "61":"d #1"
     },
     "and_ff":{
       "56":"u"
@@ -301,8 +301,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled by setting the `security.tls.version.max` flag value to `4` at `about:flags`",
-    "2":"Can be enabled by setting \"Maximum TLS version enabled\" to \"TLS 1.3\"at `chrome://flags/`. Support is reported to have be currently enabled as of version 56 for 1/10th of all users."
+    "1":"Can be enabled by setting \"TLS 1.3\" to \"Enabled (Draft)\" at `chrome://flags/tls13-variant`."
   },
   "usage_perc_y":29.59,
   "usage_perc_a":0,
