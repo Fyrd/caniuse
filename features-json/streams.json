@@ -38,7 +38,7 @@
       "13":"u",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"a #4 #6"
     },
     "firefox":{
       "2":"n",
@@ -163,7 +163,8 @@
       "61":"a #4",
       "62":"a #4",
       "63":"a #4",
-      "64":"a #4"
+      "64":"a #4",
+      "65":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -305,7 +306,8 @@
     "2":"Only basic read support.",
     "3":"Disabled by default behind the `javascript.options.streams` and `dom.streams.enabled` flags. ",
     "4":"No support for BYOB (\"bring your own buffer\") stream readers.",
-    "5":"No support for `WritableStream`."
+    "5":"No support for `WritableStream`.",
+    "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
   "usage_perc_y":0,
   "usage_perc_a":67.64,
