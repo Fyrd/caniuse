@@ -5,10 +5,6 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range",
-      "title":"MDN web docs"
-    },
-    {
       "url":"https://github.com/fryn/html5slider",
       "title":"Polyfill for Firefox"
     },
@@ -17,7 +13,7 @@
       "title":"Cross-browser polyfill"
     },
     {
-      "url":"https://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input",
+      "url":"http://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input/",
       "title":"Tutorial"
     },
     {
@@ -25,8 +21,20 @@
       "title":"has.js test"
     },
     {
+      "url":"https://www.webplatform.org/docs/html/elements/input/type/range",
+      "title":"WebPlatform Docs"
+    },
+    {
       "url":"https://github.com/andreruffert/rangeslider.js",
       "title":"rangeslider.js polyfill"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range",
+      "title":"MDN web docs"
+    },
+    {
+      "url":"https://tutorialzine.com/2011/12/what-you-need-to-know-html5-range-input",
+      "title":"Tutorial"
     }
   ],
   "bugs":[
