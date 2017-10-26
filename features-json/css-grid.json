@@ -1,6 +1,6 @@
 {
   "title":"CSS Grid Layout",
-  "description":"Method of using a grid concept to lay out content, providing a mechanism for authors to divide available space for layout into columns and rows using a set of predictable sizing behaviors",
+  "description":"Method of using a grid concept to lay out content, providing a mechanism for authors to divide available space for layout into columns and rows using a set of predictable sizing behaviors. Includes support for all `grid-*` properties and the `fr` unit.",
   "spec":"http://www.w3.org/TR/css3-grid-layout/",
   "status":"cr",
   "links":[
@@ -337,7 +337,7 @@
   "usage_perc_a":5.62,
   "ucprefix":false,
   "parent":"",
-  "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid",
+  "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid,fr unit,fractional unit",
   "ie_id":"cssgridlayout",
   "chrome_id":"4589636412243968",
   "firefox_id":"css-grid-layout",
