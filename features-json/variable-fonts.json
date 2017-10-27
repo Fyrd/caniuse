@@ -1,6 +1,6 @@
 {
   "title":"Variable fonts",
-  "description":"Font format that supports",
+  "description":"This is a new font format that allows a single font file to behave like multiple fonts: it can contain all the allowed variations in width, weight, slant, optical size, or any other exposed axes of variation as defined by the font designer.",
   "spec":"https://drafts.csswg.org/css-fonts-4/",
   "status":"wd",
   "links":[
@@ -21,8 +21,7 @@
 
   ],
   "categories":[
-    "CSS",
-    "JS API"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -95,13 +94,13 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
-      "56":"n",
-      "57":"n",
-      "58":"n",
-      "59":"n"
+      "53":"n d #2",
+      "54":"n d #2",
+      "55":"n d #2",
+      "56":"n d #2",
+      "57":"n d #2",
+      "58":"n d #2",
+      "59":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -158,10 +157,10 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"y x #1",
-      "59":"y x #1",
-      "60":"y x #1",
-      "61":"y x #1",
+      "58":"n",
+      "59":"n d #1",
+      "60":"n d #1",
+      "61":"n d #1",
       "62":"y",
       "63":"y",
       "64":"y",
@@ -182,8 +181,8 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"y",
-      "TP":"y"
+      "11":"y #3",
+      "TP":"y #3"
     },
     "opera":{
       "9":"n",
@@ -303,7 +302,9 @@
   },
   "notes":"Variable fonts are still developing, but can be used with @supports in CSS to more safely put them in to use.",
   "notes_by_num":{
-    "1":"Works with Experiemental Web Platform features enabled"
+    "1":"Works with Experiemental Web Platform features enabled",
+    "2":"Requires MacOS 10.12+",
+    "3":"Requires MacOS 10.13+"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
