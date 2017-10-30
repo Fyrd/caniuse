@@ -1,20 +1,16 @@
 {
   "title":"Variable fonts",
-  "description":"This is a new font format that allows a single font file to behave like multiple fonts: it can contain all the allowed variations in width, weight, slant, optical size, or any other exposed axes of variation as defined by the font designer.",
-  "spec":"https://drafts.csswg.org/css-fonts-4/",
+  "description":"OpenType font settings that allows a single font file to behave like multiple fonts: it can contain all the allowed variations in width, weight, slant, optical size, or any other exposed axes of variation as defined by the font designer. Variations can be applied via the `font-variation-settings` property.",
+  "spec":"https://drafts.csswg.org/css-fonts-4/#font-variation-settings-def",
   "status":"wd",
   "links":[
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=162815",
-      "title":"Webkit status"
+      "url":"http://www.axis-praxis.org/about",
+      "title":"Axis-Praxs - Tool & info on variable fonts"
     },
     {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=669453",
-      "title":"Chromium status"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1302685",
-      "title":"Firefox status"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings",
+      "title":"MDN Web docs article"
     }
   ],
   "bugs":[
@@ -302,7 +298,7 @@
   },
   "notes":"Variable fonts are still developing, but can be used with @supports in CSS to more safely put them in to use.",
   "notes_by_num":{
-    "1":"Works with Experiemental Web Platform features enabled",
+    "1":"Works with Experimental Web Platform features enabled",
     "2":"Requires MacOS 10.12+",
     "3":"Requires MacOS 10.13+"
   },
@@ -311,9 +307,9 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"variable fonts, variation fonts, font variations",
-  "ie_id":"",
-  "chrome_id":"",
-  "firefox_id":"",
-  "webkit_id":"",
-  "shown":false
+  "ie_id":"fontvariationpropertieswithopentypevariablefontsupport",
+  "chrome_id":"4708676673732608",
+  "firefox_id":"css-font-variation-settings",
+  "webkit_id":"feature-variation-fonts",
+  "shown":true
 }
