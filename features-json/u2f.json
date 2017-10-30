@@ -85,19 +85,19 @@
       "44":"n",
       "45":"n",
       "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
-      "56":"n",
-      "57":"n",
-      "58":"n",
-      "59":"n"
+      "47":"y #2",
+      "48":"y #2",
+      "49":"y #2",
+      "50":"y #2",
+      "51":"y #2",
+      "52":"y #2",
+      "53":"y #2",
+      "54":"y #2",
+      "55":"y #2",
+      "56":"y #2",
+      "57":"y #2",
+      "58":"y #2",
+      "59":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -299,7 +299,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Requires the \"FIDO U2F (Universal 2nd Factor)\" Chrome extension"
+    "1":"Requires the \"FIDO U2F (Universal 2nd Factor)\" Chrome extension",
+    "2": "Support can be enabled with the \"security.webauth.u2f\" flag"
   },
   "usage_perc_y":27.12,
   "usage_perc_a":0,
