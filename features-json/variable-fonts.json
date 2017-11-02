@@ -299,7 +299,7 @@
   "notes":"Variable fonts are still developing, but can be used with @supports in CSS to more safely put them in to use.",
   "notes_by_num":{
     "1":"Works with Experimental Web Platform features enabled",
-    "2":"Requires MacOS 10.12+",
+    "2":"Requires MacOS 10.12+ and the following about:config flags to be enabled:\r\n`layout.css.font-variations.enabled`,\r\n`gfx.downloadable_fonts.keep_variation_tables`",
     "3":"Requires MacOS 10.13+"
   },
   "usage_perc_y":2.08,
