@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"In Firefox there is a [documented bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1221721) where `100vh` has no effect on any element with it's `display` property set to `table`."
+      "description":"In Firefox there is a [documented bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1221721) where `100vh` has no effect on any element with its `display` property set to `table`."
     },
     {
       "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in `calc()` until version 34."
