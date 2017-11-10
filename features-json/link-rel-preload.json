@@ -98,9 +98,9 @@
       "54":"n",
       "55":"n",
       "56":"a #1",
-      "57":"a #1",
-      "58":"a #1",
-      "59":"a #1"
+      "57":"n d #3",
+      "58":"n d #3",
+      "59":"y"
     },
     "chrome":{
       "4":"n",
@@ -303,7 +303,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported).",
-    "2":"Can be enabled via the \"Experimental Features\" developer menu"
+    "2":"Can be enabled via the \"Experimental Features\" developer menu",
+    "3":"Disabled by default behind the `network.preload` flag."
   },
   "usage_perc_y":56.97,
   "usage_perc_a":3.82,
