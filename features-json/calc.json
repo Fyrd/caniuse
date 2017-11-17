@@ -52,7 +52,7 @@
       "description":"Firefox does not support `width: calc()` on table cells. [Bug Report](https://bugzilla.mozilla.org/show_bug.cgi?id=1297576)"
     },
     {
-      "description":"Firefox does not support `calc()` on color functions. Example: `color: hsl(calc(60 * 2), 100%, 50%)`"
+      "description":"Firefox does not support `calc()` on color functions. Example: `color: hsl(calc(60 * 2), 100%, 50%)`. [Bug Report](https://bugzilla.mozilla.org/show_bug.cgi?id=984021)"
     }
   ],
   "categories":[
