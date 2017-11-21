@@ -231,9 +231,9 @@
       "45":"n d #1 #2",
       "46":"n d #1 #2",
       "47":"n d #1 #2",
-      "48":"n d #1 #2",
-      "49":"n d #1 #2",
-      "50":"n d #1 #2"
+      "48":"y #1",
+      "49":"y #1",
+      "50":"y #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -279,10 +279,10 @@
       "37":"n"
     },
     "and_chr":{
-      "61":"y"
+      "62":"y"
     },
     "and_ff":{
-      "56":"n"
+      "57":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -307,7 +307,7 @@
     "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
   },
-  "usage_perc_y":5.6,
+  "usage_perc_y":57.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
