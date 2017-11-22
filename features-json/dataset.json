@@ -36,6 +36,9 @@
   "bugs":[
     {
       "description":"Android 2.3 cannot read `data-*` properties from `select` elements.\r\n"
+    },
+    {
+      "description":"Safari 10 and below can return `undefined` on properties of `dataset` in some cases. ([See bug](https://bugs.webkit.org/show_bug.cgi?id=161454)).\r\n"
     }
   ],
   "categories":[
