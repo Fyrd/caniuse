@@ -166,11 +166,11 @@
       "58":"a #1",
       "59":"a #1",
       "60":"a #1",
-      "61":"a #4",
-      "62":"a #4",
-      "63":"a #4",
-      "64":"a #4",
-      "65":"a #4"
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y"
     },
     "safari":{
       "3.1":"u",
@@ -235,9 +235,9 @@
       "45":"a #1",
       "46":"a #1",
       "47":"a #1",
-      "48":"a #4",
-      "49":"a #4",
-      "50":"a #4"
+      "48":"y",
+      "49":"y",
+      "50":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -267,7 +267,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "56":"a #1"
+      "62":"y"
     },
     "bb":{
       "7":"u",
@@ -283,7 +283,7 @@
       "37":"a #1"
     },
     "and_chr":{
-      "62":"a #4"
+      "62":"y"
     },
     "and_ff":{
       "57":"y"
@@ -310,11 +310,10 @@
   "notes_by_num":{
     "1":"Only supports the `WebKitCSSMatrix` version of the interface, not `DOMMatrix`",
     "2":"`WebKitCSSMatrix#skewX`, `WebKitCSSMatrix#skewY` are not supported",
-    "3":"Only supports the `DOMMatrix` version of the interface, not `WebKitCSSMatrix` (support required by spec for legacy reasons)",
-    "4":"Does not support the `scaleNonUniformSelf` method"
+    "3":"Only supports the `DOMMatrix` version of the interface, not `WebKitCSSMatrix` (support required by spec for legacy reasons)"
   },
-  "usage_perc_y":6.57,
-  "usage_perc_a":87.9,
+  "usage_perc_y":58.2,
+  "usage_perc_a":36.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",
