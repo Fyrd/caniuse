@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"Safari has [a serious issue](http://jsfiddle.net/24FhL/) with blobs that are of the type `application/octet-stream`"
+      "description":"Safari has [a serious issue](https://jsfiddle.net/24FhL/) with blobs that are of the type `application/octet-stream`"
     },
     {
       "description":"Chrome on iOS appears to have an issue when opening Blob URLs in another tab [see workaround](https://stackoverflow.com/questions/24485077/how-to-open-blob-url-on-chrome-ios)"

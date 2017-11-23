@@ -31,7 +31,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome, Firefox and Safari 7 & below do not appear to support [sticky table headers](http://jsfiddle.net/Mf4YT/2/). (see also [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=975644))"
+      "description":"Chrome, Firefox and Safari 7 & below do not appear to support [sticky table headers](https://jsfiddle.net/Mf4YT/2/). (see also [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=975644))"
     },
     {
       "description":"A parent with overflow set to `auto` will prevent `position: sticky` from working in Safari"

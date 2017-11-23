@@ -38,7 +38,7 @@
       "description":"The Android browser does not support clipping on HTML5 canvas. See the bug filed here: http://code.google.com/p/android/issues/detail?id=21099"
     },
     {
-      "description":"Older versions of iOS did not support video as a source for the canvas `drawImage()`, though it does appear to work as of iOS 8 [test case](http://jsfiddle.net/zL8KC/)"
+      "description":"Older versions of iOS did not support video as a source for the canvas `drawImage()`, though it does appear to work as of iOS 8 [test case](https://jsfiddle.net/zL8KC/)"
     },
     {
       "description":"Limits of `toDataURL()` for iOS:\r\n- The maximum size for decoded GIF, PNG, and TIFF images is 3 megapixels for devices with less than 256 MB RAM and 5 megapixels for devices with greater or equal than 256 MB RAM.\r\n- The maximum size for a canvas element is 3 megapixels for devices with less than 256 MB RAM and 5 megapixels for devices with greater or equal than 256 MB RAM.\r\n- JavaScript execution time is limited to 10 seconds for each top-level entry point."
@@ -50,7 +50,7 @@
       "description":"IE 10 canvas doesn't support `setLineDash` or `lineDashOffset` [see bug](https://social.msdn.microsoft.com/Forums/en-US/85007e72-90ad-4bd9-affd-9a24702219e6/canvasrenderingcontext2dsetlinedash-and-linedashoffset-missing?forum=winappswithhtml5) "
     },
     {
-      "description":"IE and Edge does not support globalAlpha for drawImage of SVG graphics. [see bug](https://connect.microsoft.com/IE/feedback/details/1847897/globalalpha-ignored-when-drawing-svg-to-canvas) [see testcase](http://jsfiddle.net/p7b0wmcu/)"
+      "description":"IE and Edge does not support globalAlpha for drawImage of SVG graphics. [see bug](https://connect.microsoft.com/IE/feedback/details/1847897/globalalpha-ignored-when-drawing-svg-to-canvas) [see testcase](https://jsfiddle.net/p7b0wmcu/)"
     }
   ],
   "categories":[
