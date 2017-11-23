@@ -38,7 +38,7 @@
       "description":"`<select>` within `<details>` elements won't have their value changed on the Android browser shipped with most of Samsung's devices (i.e. Note 3, Galaxy 5)\r\nThe picker will appear, but attempting to select any option won't update the `<select>` or trigger any event."
     },
     {
-      "description":"In Chrome, when using the common inherit box-sizing fix (http://www.paulirish.com/2012/box-sizing-border-box-ftw/) in combination with a `<details>` element, the children of the `<details>` element get rendered as if they were `box-sizing: content-box;`. See: https://codepen.io/jochemnabuurs/pen/yYzYqM"
+      "description":"In Chrome, when using the common inherit box-sizing fix (https://www.paulirish.com/2012/box-sizing-border-box-ftw/) in combination with a `<details>` element, the children of the `<details>` element get rendered as if they were `box-sizing: content-box;`. See: https://codepen.io/jochemnabuurs/pen/yYzYqM"
     }
   ],
   "categories":[
