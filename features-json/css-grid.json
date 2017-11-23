@@ -1,7 +1,7 @@
 {
   "title":"CSS Grid Layout",
   "description":"Method of using a grid concept to lay out content, providing a mechanism for authors to divide available space for layout into columns and rows using a set of predictable sizing behaviors. Includes support for all `grid-*` properties and the `fr` unit.",
-  "spec":"http://www.w3.org/TR/css3-grid-layout/",
+  "spec":"https://www.w3.org/TR/css3-grid-layout/",
   "status":"cr",
   "links":[
     {
@@ -330,7 +330,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
-    "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
+    "2":"Partial support in IE refers to supporting an [older version](https://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
     "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag",
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))",
     "5":"Enabled in Edge through the \"Enable Unprefixed CSS Grid Layout\" flag in about:flags"

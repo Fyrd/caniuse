@@ -1,7 +1,7 @@
 {
   "title":"Resource Hints: preconnect",
   "description":"Gives a hint to the browser to begin the connection handshake (DNS, TCP, TLS) in the background to improve performance. This is indicated using `<link rel=\"preconnect\" href=\"https://example-domain.com/\">`",
-  "spec":"http://www.w3.org/TR/resource-hints/#preconnect",
+  "spec":"https://www.w3.org/TR/resource-hints/#preconnect",
   "status":"wd",
   "links":[
     {

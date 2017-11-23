@@ -1,7 +1,7 @@
 {
   "title":"KeyboardEvent.key",
   "description":"A `KeyboardEvent` property whose value is a string identifying the key that was pressed. Covers character keys, non-character keys (e.g. arrow keys), and dead keys.",
-  "spec":"http://www.w3.org/TR/uievents/#widl-KeyboardEvent-key",
+  "spec":"https://www.w3.org/TR/uievents/#widl-KeyboardEvent-key",
   "status":"wd",
   "links":[
     {
@@ -17,7 +17,7 @@
       "title":"WebKit feature request bug"
     },
     {
-      "url":"http://www.w3.org/TR/DOM-Level-3-Events-key/",
+      "url":"https://www.w3.org/TR/DOM-Level-3-Events-key/",
       "title":"Spec listing all key string values"
     }
   ],
