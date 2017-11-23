@@ -48,7 +48,7 @@
       "description":"In IE 10 and 11, using `vw` units with 3D transforms causes unexpected behavior"
     },
     {
-      "description":"Currently all browsers but Firefox incorrectly consider 100vw to be the entire page width, including vertical scroll bar, which can [cause a horizontal scroll bar](http://codepen.io/anon/pen/ZGYNWZ) when `overflow: auto` is set."
+      "description":"Currently all browsers but Firefox incorrectly consider 100vw to be the entire page width, including vertical scroll bar, which can [cause a horizontal scroll bar](https://codepen.io/anon/pen/ZGYNWZ) when `overflow: auto` is set."
     },
     {
       "description":"IE9 does not calculate viewport units correctly when the browser or OS is zoomed."

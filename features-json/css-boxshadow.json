@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Edge and IE up to 11 suppress box-shadow in tables with border-collapse:collapse. [test case](http://codepen.io/Fyrd/pen/oXVYyq)"
+      "description":"Edge and IE up to 11 suppress box-shadow in tables with border-collapse:collapse. [test case](https://codepen.io/Fyrd/pen/oXVYyq)"
     },
     {
       "description":"Safari 6, iOS 6 and Android 2.3 default browser don't work with a 0px value for \"blur-radius\".\r\ne.g. `-webkit-box-shadow: 5px 1px 0px 1px #f04e29;`\r\ndoesn't work, but\r\n`-webkit-box-shadow: 5px 1px 1px 1px #f04e29`\r\ndoes."

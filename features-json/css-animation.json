@@ -24,16 +24,16 @@
       "description":"@keyframes not supported in an inline or scoped stylesheet in Firefox ([bug 830056](https://bugzilla.mozilla.org/show_bug.cgi?id=830056))"
     },
     {
-      "description":"In Chrome `animation-fill-mode backwards` is wrong if `steps(x, start)` is used [see example](http://codepen.io/Fyrd/pen/jPPKpX)."
+      "description":"In Chrome `animation-fill-mode backwards` is wrong if `steps(x, start)` is used [see example](https://codepen.io/Fyrd/pen/jPPKpX)."
     },
     {
-      "description":"IE10 and IE11 do not support CSS keyframe blocks inside media queries. Must be defined outside of media query definitions. [example](http://codepen.io/anon/pen/ZOodVd)"
+      "description":"IE10 and IE11 do not support CSS keyframe blocks inside media queries. Must be defined outside of media query definitions. [example](https://codepen.io/anon/pen/ZOodVd)"
     },
     {
-      "description":"IE10 and IE11 on Windows 7 have a bug where translate transform values are always interpreted as pixels when used in animations [test case](http://codepen.io/flxsource/pen/jPYWoE)"
+      "description":"IE10 and IE11 on Windows 7 have a bug where translate transform values are always interpreted as pixels when used in animations [test case](https://codepen.io/flxsource/pen/jPYWoE)"
     },
     {
-      "description":"IE10 and IE11 will not fire Animation events for pseudo element animations. See [example here](http://codepen.io/dogoku/pen/JRwbmL)"
+      "description":"IE10 and IE11 will not fire Animation events for pseudo element animations. See [example here](https://codepen.io/dogoku/pen/JRwbmL)"
     }
   ],
   "categories":[
