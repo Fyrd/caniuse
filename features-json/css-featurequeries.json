@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Using @supports on Chrome 28-29 and Opera 15-16 breaks following :not selectors. [crbug.com/257695](http://crbug.com/257695)"
+      "description":"Using @supports on Chrome 28-29 and Opera 15-16 breaks following :not selectors. [crbug.com/257695](https://bugs.chromium.org/p/chromium/issues/detail?id=257695)"
     },
     {
       "description":"Safari claims to support certain font-feature-settings it actually does not. [This JS module](https://github.com/kennethormandy/font-feature-fibbing) helps to provide accurate support for this."

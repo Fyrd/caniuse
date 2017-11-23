@@ -304,7 +304,7 @@
     "1":"Partial support refers to supporting `fixed` but not `local`",
     "2":"Partial support refers to supporting `local` but not `fixed`",
     "3":"Only supports `local` when `-webkit-overflow-scrolling: touch` is _not_ used",
-    "4":"Does not support `fixed`, and due [to a bug](https://crbug.com/627037) only supports `local` if a `border-radius` is set on the element."
+    "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element."
   },
   "usage_perc_y":71.29,
   "usage_perc_a":21.47,
