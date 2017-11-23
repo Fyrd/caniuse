@@ -26,7 +26,7 @@
       "description":"Firefox (prior to version 37) and [Safari](https://bugs.webkit.org/show_bug.cgi?id=149953) do not support IndexedDB inside web workers."
     },
     {
-      "description":"Not supported in Chrome 47 for iOS & below or other older iOS WebViews using UIWebView instead of WKWebView [see details](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)\r\n\r\nChrome 36 and below did not support Blob objects as indexedDB values."
+      "description":"Not supported in Chrome 47 for iOS & below or other older iOS WebViews using UIWebView instead of WKWebView [see details](https://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)\r\n\r\nChrome 36 and below did not support Blob objects as indexedDB values."
     },
     {
       "description":"Chrome has a bug where a deleted indexedDB can be re-created when dev tools are open (fixed in latest builds) [see bug](https://code.google.com/p/chromium/issues/detail?id=539931)"
