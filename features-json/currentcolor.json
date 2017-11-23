@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"Safari and iOS Safari 8 (maybe earlier too) have [a bug with currentColor](http://stackoverflow.com/questions/29400291/currentcolor-seems-to-get-stuck-in-safari) in :after/:before pseudo-content"
+      "description":"Safari and iOS Safari 8 (maybe earlier too) have [a bug with currentColor](https://stackoverflow.com/questions/29400291/currentcolor-seems-to-get-stuck-in-safari) in :after/:before pseudo-content"
     },
     {
       "description":"IE10+ & Edge have an issue with `currentColor` in a linear gradient [see bug](https://developer.microsoft.com/microsoft-edge/platform/issues/1328019/)"

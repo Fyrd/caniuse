@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Safari does not apply `border-radius` correctly to image borders: http://stackoverflow.com/q/17202128"
+      "description":"Safari does not apply `border-radius` correctly to image borders: https://stackoverflow.com/q/17202128"
     },
     {
       "description":"Android Browser 2.3 does not support % value for `border-radius`."
@@ -329,7 +329,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari 6.1 and earlier did not apply `border-radius` correctly to image borders: http://stackoverflow.com/q/17202128",
+    "1":"Safari 6.1 and earlier did not apply `border-radius` correctly to image borders: https://stackoverflow.com/q/17202128",
     "2":"Dotted and dashed rounded border corners are rendered as solid in Firefox. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=382721)"
   },
   "usage_perc_y":94.97,

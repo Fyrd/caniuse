@@ -25,7 +25,7 @@
       "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values"
     },
     {
-      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](http://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
+      "description":"IE10 crashes when a div with a property using `calc()` has a child with [same property with inherit](https://stackoverflow.com/questions/19423384/css-less-calc-method-is-crashing-my-ie10)."
     },
     {
       "description":"IE10, IE11, and Edge < 14 don't support using `calc()` inside a `transform`. [Bug report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/104773/)"
@@ -34,7 +34,7 @@
       "description":"IE11 is reported to have trouble with `calc()` with nested expressions, e.g. `width: calc((100% - 10px) / 3);` (i.e. it rounds differently)"
     },
     {
-      "description":"IE11 is reported to not support `calc()` correctly in [generated content](http://stackoverflow.com/questions/31323915/internet-explorer-incorrectly-calculates-percentage-height-for-generated-content)"
+      "description":"IE11 is reported to not support `calc()` correctly in [generated content](https://stackoverflow.com/questions/31323915/internet-explorer-incorrectly-calculates-percentage-height-for-generated-content)"
     },
     {
       "description":"IE11 does not support transitioning values set with `calc()`"

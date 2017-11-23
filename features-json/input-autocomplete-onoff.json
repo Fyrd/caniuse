@@ -300,7 +300,7 @@
     "2":"Partial support in Chrome refers to the browser intentionally ignoring `autocomplete=\"off\"` when the user uses the browser's autofill functionality. [see bug](https://code.google.com/p/chromium/issues/detail?id=468153#c29)",
     "3":"Partial support in Firefox refers to ignoring `autocomplete=\"off\"` for login forms. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)",
     "4":"Browser does not display previously submitted values as options with `on` value.",
-    "5":"Safari ignores the `off` value for [username, email and password fields](http://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
+    "5":"Safari ignores the `off` value for [username, email and password fields](https://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
   "usage_perc_y":56.33,
   "usage_perc_a":41.49,

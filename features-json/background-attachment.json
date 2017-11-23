@@ -11,7 +11,7 @@
   ],
   "bugs":[
     {
-      "description":"iOS has an issue preventing `background-attachment: fixed` from being used with `background-size: cover` - [see details](http://stackoverflow.com/questions/21476380/background-size-on-ios)"
+      "description":"iOS has an issue preventing `background-attachment: fixed` from being used with `background-size: cover` - [see details](https://stackoverflow.com/questions/21476380/background-size-on-ios)"
     },
     {
       "description":"Chrome has an issue that occurs when using the will-change property on a selector which also has `background-attachment: fixed` defined. It causes the image to get cut off and gain whitespace around it. "

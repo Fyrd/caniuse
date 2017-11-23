@@ -26,7 +26,7 @@
       "description":"Android 4.3 and lower (together with older WebKit browsers) [have issues](https://css-tricks.com/webkit-sibling-bug/) when combining pseudo classes with adjacent or general sibling selectors."
     },
     {
-      "description":"iOS 8 Safari has [issues with nth-child](http://stackoverflow.com/questions/26032513/ios8-safari-after-a-pushstate-the-nth-child-selectors-not-works).\r\n"
+      "description":"iOS 8 Safari has [issues with nth-child](https://stackoverflow.com/questions/26032513/ios8-safari-after-a-pushstate-the-nth-child-selectors-not-works).\r\n"
     },
     {
       "description":"IE9-IE11 supports `:empty` but will not repaint/relayout the page if content is added/removed from an `:empty` selected element"
