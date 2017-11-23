@@ -294,7 +294,7 @@
       "7.12":"a #1"
     }
   },
-  "notes":"See also support for [Mutation Observer](http://caniuse.com/#feat=mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
+  "notes":"See also support for [Mutation Observer](https://caniuse.com/#feat=mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
   "notes_by_num":{
     "1":"Does not support `DOMAttrModified`",
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
