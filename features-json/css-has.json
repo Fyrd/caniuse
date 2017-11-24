@@ -2,7 +2,7 @@
   "title":":has() CSS relational pseudo-class",
   "description":"Only select elements containing specified content. For example, `a:has(>img)` selects all `<a>` elements that contain an `<img>` child.",
   "spec":"https://drafts.csswg.org/selectors-4/#relational",
-  "status":"unoff",
+  "status":"WD",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:has",
