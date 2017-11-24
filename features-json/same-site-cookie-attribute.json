@@ -1,6 +1,6 @@
 {
   "title":"'SameSite' cookie attribute",
-  "description":"Same-site cookies (n\u00e9e \"First-Party-Only\" (n\u00e9e \"First-Party\")) allow servers to mitigate the risk of CSRF and information leakage attacks by asserting that a particular cookie should only be sent with requests initiated from the same registrable domain.",
+  "description":"Same-site cookies (\"First-Party-Only\" or \"First-Party\") allow servers to mitigate the risk of CSRF and information leakage attacks by asserting that a particular cookie should only be sent with requests initiated from the same registrable domain.",
   "spec":"https://tools.ietf.org/html/draft-west-first-party-cookies-06",
   "status":"other",
   "links":[

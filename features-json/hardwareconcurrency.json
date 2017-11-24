@@ -14,7 +14,7 @@
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=132588",
-      "title":"Webkit implementation bug"
+      "title":"WebKit implementation bug"
     }
   ],
   "bugs":[
@@ -304,7 +304,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Webkit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others. Disabled in Safari behind the ENABLE_NAVIGATOR_HWCONCURRENCY build option."
+    "1":"WebKit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others. Disabled in Safari behind the ENABLE_NAVIGATOR_HWCONCURRENCY build option."
   },
   "usage_perc_y":85.94,
   "usage_perc_a":0,

@@ -302,7 +302,7 @@
   },
   "notes":"Though present in early (2002) drafts of CSS3 Fonts, `font-smooth` has been removed from this specification and is currently not on the standard track.",
   "notes_by_num":{
-    "1":"Webkit implements something similar with a different name `-webkit-font-smoothing` and different values: `none`, `antialiased` and `subpixel-antialiased`.",
+    "1":"WebKit implements something similar with a different name `-webkit-font-smoothing` and different values: `none`, `antialiased` and `subpixel-antialiased`.",
     "2":"Firefox implements something similar with a different name `-moz-osx-font-smoothing` and different values: `auto`, `inherit`, `unset`, `grayscale`.",
     "3":"Works only on Mac OS X platform."
   },
