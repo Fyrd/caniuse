@@ -1,7 +1,7 @@
 {
   "title":"CSS Flexible Box Layout Module",
   "description":"Method of positioning elements in horizontal or vertical stacks. Support includes all properties prefixed with `flex`, as well as `display: flex`, `display: inline-flex`, `align-content`, `align-items`, `align-self`, `justify-content` and `order`.",
-  "spec":"http://www.w3.org/TR/css3-flexbox/",
+  "spec":"https://www.w3.org/TR/css3-flexbox/",
   "status":"cr",
   "links":[
     {
@@ -21,7 +21,7 @@
       "title":"Examples on how to solve common layout problems with flexbox"
     },
     {
-      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "url":"https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
       "title":"A Complete Guide to Flexbox"
     },
     {
@@ -53,7 +53,7 @@
       "description":"In IE10 the default value for `flex` is `0 0 auto` rather than `0 1 auto` as defined in the latest spec."
     },
     {
-      "description":"In Safari 10.1 and below, the height of (non flex) children are not recognized in percentages. However other browsers recognize and scale the children based on percentage heights. Fixed in all versions > 10.1 ([See bug](https://bugs.webkit.org/show_bug.cgi?id=137730)) The bug also appeared in Chrome but was fixed in [Chrome 51](http://crbug.com/341310)"
+      "description":"In Safari 10.1 and below, the height of (non flex) children are not recognized in percentages. However other browsers recognize and scale the children based on percentage heights. Fixed in all versions > 10.1 ([See bug](https://bugs.webkit.org/show_bug.cgi?id=137730)) The bug also appeared in Chrome but was fixed in [Chrome 51](https://bugs.chromium.org/p/chromium/issues/detail?id=341310)"
     },
     {
       "description":"Firefox 51 and below does not support [Flexbox in button elements](https://bugzilla.mozilla.org/show_bug.cgi?id=984869#c2). Fixed in version 52."
@@ -356,10 +356,10 @@
       "7.12":"y"
     }
   },
-  "notes":"Most partial support refers to supporting an [older version](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) of the specification or an [older syntax](http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/).",
+  "notes":"Most partial support refers to supporting an [older version](https://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) of the specification or an [older syntax](https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/).",
   "notes_by_num":{
-    "1":"Only supports the [old flexbox](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723) specification and does not support wrapping.",
-    "2":"Only supports the [2012 syntax](http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/)",
+    "1":"Only supports the [old flexbox](https://www.w3.org/TR/2009/WD-css3-flexbox-20090723) specification and does not support wrapping.",
+    "2":"Only supports the [2012 syntax](https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/)",
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },

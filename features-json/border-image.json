@@ -305,7 +305,7 @@
   },
   "notes":"Note that both the `border-style` and `border-width` must be specified (not set to `none` or 0) for border-images to work.",
   "notes_by_num":{
-    "1":"Has a bug where `border-image` incorrectly overrides `border-style`. See [test case](http://codepen.io/Savago/pen/yYrgyK), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=99922), [discussion](https://github.com/whatwg/compat/issues/17)",
+    "1":"Has a bug where `border-image` incorrectly overrides `border-style`. See [test case](https://codepen.io/Savago/pen/yYrgyK), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=99922), [discussion](https://github.com/whatwg/compat/issues/17)",
     "2":"Partial support refers to not supporting `border-image-repeat: space`",
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"

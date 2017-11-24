@@ -1,11 +1,11 @@
 {
   "title":"Viewport units: vw, vh, vmin, vmax",
   "description":"Length units representing a percentage of the current viewport dimensions: width (vw), height (vh), the smaller of the two (vmin), or the larger of the two (vmax).",
-  "spec":"http://www.w3.org/TR/css3-values/#viewport-relative-lengths",
+  "spec":"https://www.w3.org/TR/css3-values/#viewport-relative-lengths",
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/viewport-sized-typography/",
+      "url":"https://css-tricks.com/viewport-sized-typography/",
       "title":"Blog post"
     },
     {
@@ -17,7 +17,7 @@
       "title":"Buggyfill - Polyfill that fixes buggy support"
     },
     {
-      "url":"http://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
+      "url":"https://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
       "title":"Back-Forward issue blog post"
     },
     {
@@ -48,7 +48,7 @@
       "description":"In IE 10 and 11, using `vw` units with 3D transforms causes unexpected behavior"
     },
     {
-      "description":"Currently all browsers but Firefox incorrectly consider 100vw to be the entire page width, including vertical scroll bar, which can [cause a horizontal scroll bar](http://codepen.io/anon/pen/ZGYNWZ) when `overflow: auto` is set."
+      "description":"Currently all browsers but Firefox incorrectly consider 100vw to be the entire page width, including vertical scroll bar, which can [cause a horizontal scroll bar](https://codepen.io/anon/pen/ZGYNWZ) when `overflow: auto` is set."
     },
     {
       "description":"IE9 does not calculate viewport units correctly when the browser or OS is zoomed."

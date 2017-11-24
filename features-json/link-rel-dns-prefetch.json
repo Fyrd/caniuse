@@ -1,7 +1,7 @@
 {
   "title":"Resource Hints: dns-prefetch",
   "description":"Gives a hint to the browser to perform a DNS lookup in the background to improve performance. This is indicated using `<link rel=\"dns-prefetch\" href=\"http://example-domain.com/\">`",
-  "spec":"http://www.w3.org/TR/resource-hints/#dns-prefetch",
+  "spec":"https://www.w3.org/TR/resource-hints/#dns-prefetch",
   "status":"wd",
   "links":[
     {

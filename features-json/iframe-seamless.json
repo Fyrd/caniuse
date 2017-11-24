@@ -306,7 +306,7 @@
       "7.12":"n"
     }
   },
-  "notes":"Chrome 20-26 had partial support behind a flag, though this was [later removed](http://crbug.com/229421).",
+  "notes":"Chrome 20-26 had partial support behind a flag, though this was [later removed](https://bugs.chromium.org/p/chromium/issues/detail?id=229421).",
   "notes_by_num":{
     "1":"Hides the border of seamless iframes and recognizes the 'seamless' DOM property, but does not provide actual support."
   },

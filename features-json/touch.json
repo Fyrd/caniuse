@@ -1,15 +1,15 @@
 {
   "title":"Touch events",
   "description":"Method of registering when, where and how the interface is touched, for devices with a touch screen. These DOM events are similar to mousedown, mousemove, etc.",
-  "spec":"http://www.w3.org/TR/touch-events/",
+  "spec":"https://www.w3.org/TR/touch-events/",
   "status":"rec",
   "links":[
     {
-      "url":"http://www.quirksmode.org/mobile/tableTouch.html",
+      "url":"https://www.quirksmode.org/mobile/tableTouch.html",
       "title":"Detailed support tables"
     },
     {
-      "url":"http://www.quirksmode.org/m/tests/drag2.html",
+      "url":"https://www.quirksmode.org/m/tests/drag2.html",
       "title":"Multi-touch demo"
     },
     {
@@ -21,7 +21,7 @@
       "title":"Internet Explorer's gesture and touch implementation."
     },
     {
-      "url":"http://github.com/CamHenlin/TouchPolyfill",
+      "url":"https://github.com/CamHenlin/TouchPolyfill",
       "title":"Touch polyfill for supporting touch events on Internet Explorer"
     },
     {

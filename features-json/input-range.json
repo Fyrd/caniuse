@@ -39,7 +39,7 @@
   ],
   "bugs":[
     {
-      "description":"IE10 & 11 have [some bugs related to the `step` value](http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter)."
+      "description":"IE10 & 11 have [some bugs related to the `step` value](https://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter)."
     },
     {
       "description":"IE10 & 11 [fire the \"change\" event instead of \"input\" on mousemove](http://hparra.github.io/html5-input-range/)."

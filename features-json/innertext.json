@@ -310,7 +310,7 @@
       "7.12":"y"
     }
   },
-  "notes":"This test only checks that the property exists and works correctly in a very simple case.\r\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\r\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](http://caniuse.com/#feat=textcontent) property.",
+  "notes":"This test only checks that the property exists and works correctly in a very simple case.\r\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\r\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](https://caniuse.com/#feat=textcontent) property.",
   "notes_by_num":{
     
   },

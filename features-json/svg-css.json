@@ -1,17 +1,17 @@
 {
   "title":"SVG in CSS backgrounds",
   "description":"Method of using SVG images as CSS backgrounds",
-  "spec":"http://www.w3.org/TR/css3-background/#background-image",
+  "spec":"https://www.w3.org/TR/css3-background/#background-image",
   "status":"cr",
   "links":[
     {
-      "url":"http://www.sitepoint.com/a-farewell-to-css3-gradients/",
+      "url":"https://www.sitepoint.com/a-farewell-to-css3-gradients/",
       "title":"Tutorial for advanced effects"
     }
   ],
   "bugs":[
     {
-      "description":"Opera messes background repeat when changing zoom level: [known issue in Opera's private bug tracker (CORE-33071)](http://stackoverflow.com/questions/15220910/svg-as-css-background-problems-with-zoom-level-in-opera#comment21458317_15220910)"
+      "description":"Opera messes background repeat when changing zoom level: [known issue in Opera's private bug tracker (CORE-33071)](https://stackoverflow.com/questions/15220910/svg-as-css-background-problems-with-zoom-level-in-opera#comment21458317_15220910)"
     },
     {
       "description":"IE 10 Mobile does not always provide crisp SVG backgrounds, particularly when zooming in."

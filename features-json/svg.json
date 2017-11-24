@@ -1,11 +1,11 @@
 {
   "title":"SVG (basic support)",
   "description":"Method of displaying basic Vector Graphics features using the embed or object elements. Refers to the SVG 1.1 spec.",
-  "spec":"http://www.w3.org/TR/SVG/",
+  "spec":"https://www.w3.org/TR/SVG/",
   "status":"rec",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
+      "url":"https://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
       "title":"Wikipedia"
     },
     {
@@ -37,7 +37,7 @@
       "description":"SVG graphics look pixelated when zooming in or using scaled up images in Opera Mini & Opera Mobile 12.1-."
     },
     {
-      "description":"IE9-Edge12, Safari 5.1-6, and UCWeb 11 do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`. Polyfills are available: [server-side inlining + snippet](http://codepen.io/hexalys/pen/epErZj/) - [script](https://github.com/jonathantneal/svg4everybody)"
+      "description":"IE9-Edge12, Safari 5.1-6, and UCWeb 11 do not support [referencing external files](https://css-tricks.com/svg-use-external-source/) via `<use xlink:href>`. Polyfills are available: [server-side inlining + snippet](https://codepen.io/hexalys/pen/epErZj/) - [script](https://github.com/jonathantneal/svg4everybody)"
     },
     {
       "description":"Chrome 48+ [no longer has support](https://www.chromestatus.com/feature/5708851034718208) for the `SVGPathSeg` interface. Polyfills are available: [original](https://github.com/progers/pathseg/blob/master/pathseg.js) - [SVG 2 draft-based](https://github.com/jarek-foksa/path-data-polyfill.js)"
@@ -328,7 +328,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in Android 3 & 4 refers to not supporting masking.",
-    "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](http://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
+    "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](https://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
   },
   "usage_perc_y":97.23,
   "usage_perc_a":0.39,

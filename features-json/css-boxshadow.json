@@ -1,7 +1,7 @@
 {
   "title":"CSS3 Box-shadow",
   "description":"Method of displaying an inner or outer shadow effect to elements",
-  "spec":"http://www.w3.org/TR/css3-background/#box-shadow",
+  "spec":"https://www.w3.org/TR/css3-background/#box-shadow",
   "status":"cr",
   "links":[
     {
@@ -23,13 +23,13 @@
   ],
   "bugs":[
     {
-      "description":"Edge and IE up to 11 suppress box-shadow in tables with border-collapse:collapse. [test case](http://codepen.io/Fyrd/pen/oXVYyq)"
+      "description":"Edge and IE up to 11 suppress box-shadow in tables with border-collapse:collapse. [test case](https://codepen.io/Fyrd/pen/oXVYyq)"
     },
     {
       "description":"Safari 6, iOS 6 and Android 2.3 default browser don't work with a 0px value for \"blur-radius\".\r\ne.g. `-webkit-box-shadow: 5px 1px 0px 1px #f04e29;`\r\ndoesn't work, but\r\n`-webkit-box-shadow: 5px 1px 1px 1px #f04e29`\r\ndoes."
     },
     {
-      "description":"iOS 8 has a bug where the box shadow disappears when zooming in a certain amount. [test case](http://jsfiddle.net/b6aaq57z/4/)"
+      "description":"iOS 8 has a bug where the box shadow disappears when zooming in a certain amount. [test case](https://jsfiddle.net/b6aaq57z/4/)"
     }
   ],
   "categories":[

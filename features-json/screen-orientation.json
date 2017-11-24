@@ -1,7 +1,7 @@
 {
   "title":"Screen Orientation",
   "description":"Provides the ability to read the screen orientation state, to be informed when this state changes, and to be able to lock the screen orientation to a specific state.",
-  "spec":"http://www.w3.org/TR/screen-orientation/",
+  "spec":"https://www.w3.org/TR/screen-orientation/",
   "status":"wd",
   "links":[
     {
@@ -13,7 +13,7 @@
       "title":"MDN Web Docs - Screen Orientation"
     },
     {
-      "url":"http://www.sitepoint.com/introducing-screen-orientation-api/",
+      "url":"https://www.sitepoint.com/introducing-screen-orientation-api/",
       "title":"SitePoint article"
     }
   ],
@@ -302,7 +302,7 @@
       "7.12":"y"
     }
   },
-  "notes":"Partial support refers to an [older version](http://www.w3.org/TR/2014/WD-screen-orientation-20140220/) of the draft specification, and the spec has undergone significant changes since, for example renaming the `screen.lockOrientation` method to `screen.orientation.lock`.",
+  "notes":"Partial support refers to an [older version](https://www.w3.org/TR/2014/WD-screen-orientation-20140220/) of the draft specification, and the spec has undergone significant changes since, for example renaming the `screen.lockOrientation` method to `screen.orientation.lock`.",
   "notes_by_num":{
     
   },

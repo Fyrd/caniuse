@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"IE10 and 11 [have a problem](http://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter) validating number fields in combination with the `step` attribute and certain values"
+      "description":"IE10 and 11 [have a problem](https://stackoverflow.com/questions/20241415/html5-number-input-field-step-attribute-broken-in-internet-explorer-10-and-inter) validating number fields in combination with the `step` attribute and certain values"
     },
     {
       "description":"In Chrome (tested in 45) inputs marked as disabled or hidden while also marked as required are [incorrectly](https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled) being considered for constraint validation. https://html.spec.whatwg.org/multipage/forms.html#concept-fe-disabled"

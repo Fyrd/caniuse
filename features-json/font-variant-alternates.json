@@ -1,7 +1,7 @@
 {
   "title":"CSS font-variant-alternates",
   "description":"Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values for certain types of OpenType fonts.",
-  "spec":"http://www.w3.org/TR/css-fonts-3/#propdef-font-variant-alternates",
+  "spec":"https://www.w3.org/TR/css-fonts-3/#propdef-font-variant-alternates",
   "status":"cr",
   "links":[
     {
@@ -296,7 +296,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Low-level syntax available in [font-feature-settings](http://caniuse.com/#feat=font-feature) property equivalent to OpenType features: salt, ss01 through ss20, cv01 through cv99, swsh, cswh, ornm, nalt",
+    "1":"Low-level syntax available in [font-feature-settings](https://caniuse.com/#feat=font-feature) property equivalent to OpenType features: salt, ss01 through ss20, cv01 through cv99, swsh, cswh, ornm, nalt",
     "2":"Experimental support available by enabling the layout.css.font-features.enabled flag"
   },
   "usage_perc_y":18.21,

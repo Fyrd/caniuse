@@ -1,7 +1,7 @@
 {
   "title":"CSS3 Multiple column layout",
   "description":"Method of flowing information in multiple columns",
-  "spec":"http://www.w3.org/TR/css3-multicol/",
+  "spec":"https://www.w3.org/TR/css3-multicol/",
   "status":"cr",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"Dev.Opera article"
     },
     {
-      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
+      "url":"https://webdesign.tutsplus.com/articles/an-introduction-to-the-css3-multiple-column-layout-module--webdesign-4934",
       "title":"Introduction page"
     },
     {
@@ -51,7 +51,7 @@
       "description":"Firefox and Chrome do not support columns on the <fieldset> element [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=727164)"
     },
     {
-      "description":"Safari 5-8 is known to render columns [less evenly](http://stackoverflow.com/questions/14148078/safari-column-count-differs-from-firefox-and-chrome) than other browsers"
+      "description":"Safari 5-8 is known to render columns [less evenly](https://stackoverflow.com/questions/14148078/safari-column-count-differs-from-firefox-and-chrome) than other browsers"
     },
     {
       "description":"Safari 5.1-10+ does not work as expected with `min-height` [see testcase](https://codepen.io/herrschuessler/pen/LNVWJE) [see bug](https://bugs.webkit.org/show_bug.cgi?id=65691)"

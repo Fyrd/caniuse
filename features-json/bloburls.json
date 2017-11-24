@@ -1,7 +1,7 @@
 {
   "title":"Blob URLs",
   "description":"Method of creating URL handles to the specified File or Blob object.",
-  "spec":"http://www.w3.org/TR/FileAPI/#url",
+  "spec":"https://www.w3.org/TR/FileAPI/#url",
   "status":"wd",
   "links":[
     {
@@ -11,10 +11,10 @@
   ],
   "bugs":[
     {
-      "description":"Safari has [a serious issue](http://jsfiddle.net/24FhL/) with blobs that are of the type `application/octet-stream`"
+      "description":"Safari has [a serious issue](https://jsfiddle.net/24FhL/) with blobs that are of the type `application/octet-stream`"
     },
     {
-      "description":"Chrome on iOS appears to have an issue when opening Blob URLs in another tab [see workaround](http://stackoverflow.com/questions/24485077/how-to-open-blob-url-on-chrome-ios)"
+      "description":"Chrome on iOS appears to have an issue when opening Blob URLs in another tab [see workaround](https://stackoverflow.com/questions/24485077/how-to-open-blob-url-on-chrome-ios)"
     }
   ],
   "categories":[

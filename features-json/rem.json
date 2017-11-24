@@ -1,7 +1,7 @@
 {
   "title":"rem (root em) units",
   "description":"Type of unit similar to `em`, but relative only to the root element, not any parent element. Thus compounding does not occur as it does with `em` units.",
-  "spec":"http://www.w3.org/TR/css3-values/#font-relative-lengths",
+  "spec":"https://www.w3.org/TR/css3-values/#font-relative-lengths",
   "status":"cr",
   "links":[
     {

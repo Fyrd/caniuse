@@ -1,7 +1,7 @@
 {
   "title":"CSS currentColor value",
   "description":"A CSS value that will apply the existing `color` value to other properties like `background-color`, etc. ",
-  "spec":"http://www.w3.org/TR/css3-color/#currentcolor",
+  "spec":"https://www.w3.org/TR/css3-color/#currentcolor",
   "status":"rec",
   "links":[
     {
@@ -9,13 +9,13 @@
       "title":"MDN Web Docs - CSS currentColor"
     },
     {
-      "url":"http://css-tricks.com/currentcolor/",
+      "url":"https://css-tricks.com/currentcolor/",
       "title":"CSS Tricks article"
     }
   ],
   "bugs":[
     {
-      "description":"Safari and iOS Safari 8 (maybe earlier too) have [a bug with currentColor](http://stackoverflow.com/questions/29400291/currentcolor-seems-to-get-stuck-in-safari) in :after/:before pseudo-content"
+      "description":"Safari and iOS Safari 8 (maybe earlier too) have [a bug with currentColor](https://stackoverflow.com/questions/29400291/currentcolor-seems-to-get-stuck-in-safari) in :after/:before pseudo-content"
     },
     {
       "description":"IE10+ & Edge have an issue with `currentColor` in a linear gradient [see bug](https://developer.microsoft.com/microsoft-edge/platform/issues/1328019/)"

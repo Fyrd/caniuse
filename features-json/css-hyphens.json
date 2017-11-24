@@ -1,7 +1,7 @@
 {
   "title":"CSS Hyphenation",
   "description":"Method of controlling when words at the end of lines should be hyphenated using the \"hyphens\" property.",
-  "spec":"http://www.w3.org/TR/css3-text/#hyphenation",
+  "spec":"https://www.w3.org/TR/css3-text/#hyphenation",
   "status":"wd",
   "links":[
     {
@@ -17,7 +17,7 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://crbug.com/605840",
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=605840",
       "title":"Chrome bug for implementing hyphenation"
     }
   ],
@@ -308,7 +308,7 @@
   },
   "notes":"Chrome < 55 and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. It is [advisable to set the @lang attribute](http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html) on the HTML element to enable hyphenation support and improve accessibility.",
   "notes_by_num":{
-    "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [see commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://crbug.com/652964)."
+    "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964)."
   },
   "usage_perc_y":24.26,
   "usage_perc_a":64.62,
