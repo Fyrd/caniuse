@@ -22,7 +22,7 @@
       "description":"Partial support in Internet Explorer 10-11 refers to the browser only supporting the 'sandbox' directive by using the `X-Content-Security-Policy` header."
     },
     {
-      "description":"Partial support in iOS Safari 5.0-5.1 refers to the browser recognizing the `X-Webkit-CSP` header but failing to handle complex cases correctly, often resulting in broken pages."
+      "description":"Partial support in iOS Safari 5.0-5.1 refers to the browser recognizing the `X-WebKit-CSP` header but failing to handle complex cases correctly, often resulting in broken pages."
     },
     {
       "description":"Chrome for iOS fails to render pages without a [connect-src 'self'](https://code.google.com/p/chromium/issues/detail?id=322497) policy."
@@ -313,7 +313,7 @@
   "notes":"The standard HTTP header is `Content-Security-Policy` which is used unless otherwise noted.",
   "notes_by_num":{
     "1":"Supported through the `X-Content-Security-Policy` header",
-    "2":"Supported through the `X-Webkit-CSP` header"
+    "2":"Supported through the `X-WebKit-CSP` header"
   },
   "usage_perc_y":90.42,
   "usage_perc_a":3.76,
