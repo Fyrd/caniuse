@@ -27,9 +27,6 @@
   ],
   "bugs":[
     {
-      "description":"Safari does not apply `border-radius` correctly to image borders: https://stackoverflow.com/q/17202128"
-    },
-    {
       "description":"Android Browser 2.3 does not support % value for `border-radius`."
     },
     {
@@ -37,9 +34,6 @@
     },
     {
       "description":"The stock browser on the Samsung Galaxy S4 with Android 4.2 does not support the `border-radius` shorthand property but does support the long-hand properties for each corner like `border-top-left-radius`."
-    },
-    {
-      "description":"Older versions of Safari [had a bug](https://bugs.webkit.org/show_bug.cgi?id=50072) where background images would bleed out of the border-radius."
     },
     {
       "description":"Dotted and dashed rounded border corners are rendered as solid in Firefox. Fixed since Firefox 50. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=382721)"
