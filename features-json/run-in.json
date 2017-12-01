@@ -7,6 +7,10 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=2056",
       "title":"Mozilla bug report"
+    },
+    {
+      "url":"https://css-tricks.com/run-in/",
+      "title":"CSS Tricks article"
     }
   ],
   "bugs":[
@@ -255,7 +259,7 @@
       "4.1":"y",
       "4.2-4.3":"y",
       "4.4":"y",
-      "4.4.3-4.4.4":"y",
+      "4.4.3-4.4.4":"n",
       "62":"n"
     },
     "bb":{
@@ -286,7 +290,8 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -299,7 +304,7 @@
   "notes_by_num":{
     "1":"Not before inline-elements"
   },
-  "usage_perc_y":8.86,
+  "usage_perc_y":8.44,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -308,5 +313,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }

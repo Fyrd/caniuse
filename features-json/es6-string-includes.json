@@ -287,7 +287,8 @@
     },
     "samsung":{
       "4":"u",
-      "5":"u"
+      "5":"u",
+      "6.2":"u"
     },
     "and_qq":{
       "1.2":"u"
@@ -297,15 +298,17 @@
     }
   },
   "notes":"",
-  "notes_by_num":{},
-  "usage_perc_y":0,
+  "notes_by_num":{
+    
+  },
+  "usage_perc_y":78.19,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,JavaScript,String,includes",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }
