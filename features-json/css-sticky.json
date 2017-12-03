@@ -31,7 +31,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome, Firefox and Safari 7 & below do not appear to support [sticky table headers](https://jsfiddle.net/Mf4YT/2/). (see also [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=975644))"
+      "description":"Firefox, Chrome 63 & below and Safari 7 & below do not appear to support [sticky table headers](https://jsfiddle.net/Mf4YT/2/). (see also [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=975644))"
     },
     {
       "description":"A parent with overflow set to `auto` will prevent `position: sticky` from working in Safari"
@@ -182,8 +182,8 @@
       "61":"a #4",
       "62":"a #4",
       "63":"a #4",
-      "64":"a #4",
-      "65":"a #4"
+      "64":"y",
+      "65":"y"
     },
     "safari":{
       "3.1":"n",
@@ -325,7 +325,8 @@
     "1":"Can be enabled in Firefox by setting the about:config preference layout.css.sticky.enabled to true",
     "2":"Enabled through the \"experimental Web Platform features\" flag",
     "3":"Not supported on any `table` parts - See [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=975644)",
-    "4":"Supported on `th` elements, but not `thead` or `tr` - See [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=702927)"
+    "4":"Supported on `th` elements, but not `thead` or `tr` - See [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=702927)",
+    "5":"Do not appear to support sticky table headers"
   },
   "usage_perc_y":12.55,
   "usage_perc_a":59.8,
