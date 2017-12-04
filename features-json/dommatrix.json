@@ -252,7 +252,7 @@
       "9.3":"a #1",
       "10.0-10.2":"a #1",
       "10.3":"a #1",
-      "11.0-11.1":"a #1"
+      "11.0-11.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -313,8 +313,8 @@
     "2":"`WebKitCSSMatrix#skewX`, `WebKitCSSMatrix#skewY` are not supported",
     "3":"Only supports the `DOMMatrix` version of the interface, not `WebKitCSSMatrix` (support required by spec for legacy reasons)"
   },
-  "usage_perc_y":58.2,
-  "usage_perc_a":36.26,
+  "usage_perc_y":59.83,
+  "usage_perc_a":34.61,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",

@@ -244,7 +244,7 @@
       "9.3":"a #1 #2",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -305,8 +305,8 @@
     "2":"Does not support `validity.tooShort`. See also [support for `minlength`.](https://caniuse.com/#feat=input-minlength)",
     "3":"Does not support `validity.badInput`"
   },
-  "usage_perc_y":84.88,
-  "usage_perc_a":9.75,
+  "usage_perc_y":84.75,
+  "usage_perc_a":9.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

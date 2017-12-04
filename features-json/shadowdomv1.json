@@ -248,7 +248,7 @@
       "9.3":"n",
       "10.0-10.2":"a #1",
       "10.3":"a #1",
-      "11.0-11.1":"a #1"
+      "11.0-11.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -307,8 +307,8 @@
   "notes_by_num":{
     "1":"Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy."
   },
-  "usage_perc_y":54.4,
-  "usage_perc_a":14,
+  "usage_perc_y":56.21,
+  "usage_perc_a":12.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components,shadow dom,attachShadow",

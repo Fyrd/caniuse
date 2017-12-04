@@ -248,7 +248,7 @@
       "9.3":"a x #2",
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
-      "11.0-11.1":"a x #2"
+      "11.0-11.2":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -309,8 +309,8 @@
     "2":"Partial support refers to supporting shapes and the `url(#foo)` syntax for inline SVG, but not shapes in external SVGs.",
     "3":"Supports shapes behind the `layout.css.clip-path-shapes.enabled` flag"
   },
-  "usage_perc_y":4.61,
-  "usage_perc_a":83.49,
+  "usage_perc_y":4.74,
+  "usage_perc_a":83.43,
   "ucprefix":false,
   "parent":"css-masks",
   "keywords":"clippath",

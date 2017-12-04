@@ -250,7 +250,7 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -311,8 +311,8 @@
     "2":"Partial support refers to supporting only `innerHTML`.",
     "3":"Partial support refers to supporting only `innerHTML` and `insertAdjacentHTML`."
   },
-  "usage_perc_y":93.67,
-  "usage_perc_a":4.24,
+  "usage_perc_y":93.61,
+  "usage_perc_a":4.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"parseFromString",

@@ -250,7 +250,7 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -310,8 +310,8 @@
     "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740).",
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one."
   },
-  "usage_perc_y":68.92,
-  "usage_perc_a":14.19,
+  "usage_perc_y":72.09,
+  "usage_perc_a":12.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",

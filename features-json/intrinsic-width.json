@@ -242,7 +242,7 @@
       "9.3":"a x #3",
       "10.0-10.2":"a x #3",
       "10.3":"a x #3",
-      "11.0-11.1":"a x #3"
+      "11.0-11.2":"a x #3"
     },
     "op_mini":{
       "all":"n"
@@ -304,8 +304,8 @@
     "3":"Does not support the `flex-basis` property. See [specs](https://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property), [Blink bug](https://codereview.chromium.org/1304853002/), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887).",
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2)"
   },
-  "usage_perc_y":69.57,
-  "usage_perc_a":18.67,
+  "usage_perc_y":69.61,
+  "usage_perc_a":18.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

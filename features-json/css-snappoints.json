@@ -248,7 +248,7 @@
       "9.3":"a x #4 #5",
       "10.0-10.2":"a x #4 #5",
       "10.3":"a x #4 #5",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -311,8 +311,8 @@
     "5":"Supports properties from an [older version](https://www.w3.org/TR/2015/WD-css-snappoints-1-20150326/) of the spec.",
     "6":"Partial support in IE & Edge refers to not supporting `scroll-snap-coordinate` and `scroll-snap-destination`."
   },
-  "usage_perc_y":6.51,
-  "usage_perc_a":17.18,
+  "usage_perc_y":8.01,
+  "usage_perc_a":15.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-snap-points-x,scroll-snap-points-y,scroll-snap-type,scroll-snap-destination,scroll-snap-coordinate,scroll-snap-margin,scroll-snap-align",

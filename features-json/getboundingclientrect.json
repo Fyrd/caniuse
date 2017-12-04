@@ -252,7 +252,7 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -314,8 +314,8 @@
     "3":"The returned object cannot have new properties added to it; it's not extensible.",
     "4":"Existing properties of the returned object are immutable."
   },
-  "usage_perc_y":97.51,
-  "usage_perc_a":0.39,
+  "usage_perc_y":97.84,
+  "usage_perc_a":0.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"getBoundingClientRect,bounding,client,rect,DOMRect,box,cssom",

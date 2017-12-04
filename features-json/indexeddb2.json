@@ -244,7 +244,7 @@
       "9.3":"n",
       "10.0-10.2":"u",
       "10.3":"y",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -304,8 +304,8 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":69.45,
-  "usage_perc_a":5.02,
+  "usage_perc_y":69.77,
+  "usage_perc_a":4.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",

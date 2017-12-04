@@ -273,7 +273,7 @@
       "9.3":"y x #3",
       "10.0-10.2":"y x #3",
       "10.3":"y x #3",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -334,8 +334,8 @@
     "2":"Supported in Firefox behind the `dom.webcrypto.enabled` flag.",
     "3":"Supported in Safari using the `crypto.webkitSubtle` prefix."
   },
-  "usage_perc_y":88.31,
-  "usage_perc_a":3.47,
+  "usage_perc_y":88.07,
+  "usage_perc_a":3.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"subtle,subtlecrypto",

@@ -244,7 +244,7 @@
       "9.3":"a #1",
       "10.0-10.2":"a #1",
       "10.3":"a #1",
-      "11.0-11.1":"a #1"
+      "11.0-11.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -304,8 +304,8 @@
     "1":"Supports an [older draft](https://wiki.whatwg.org/wiki/Meta_referrer) of the specification with `never`, `always`, `origin` & `default` values.\r\n",
     "2":"Chrome does not support `same-origin`, `strict-origin`, or `strict-origin-when-cross-origin` values ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))"
   },
-  "usage_perc_y":60.11,
-  "usage_perc_a":19.29,
+  "usage_perc_y":61.14,
+  "usage_perc_a":18.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",

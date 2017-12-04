@@ -244,7 +244,7 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -303,8 +303,8 @@
   "notes_by_num":{
     "1":"Partial support in Android browser versions is due to a serious bug where `text-rendering: optimizeLegibility` causes custom web fonts to not render."
   },
-  "usage_perc_y":88.47,
-  "usage_perc_a":0.39,
+  "usage_perc_y":88.73,
+  "usage_perc_a":0.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"optimizeLegibility,optimizeSpeed,geometricPrecision",

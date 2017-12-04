@@ -244,7 +244,7 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11.0-11.1":"y"
+      "11.0-11.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -303,8 +303,8 @@
   "notes_by_num":{
     "1":"IE supports the `ch` unit, but unlike other browsers its width is that specifically of the \"0\" glyph, not its surrounding space. As a result, 3ch for example is shorter than the width of the string \"000\" in IE."
   },
-  "usage_perc_y":90.62,
-  "usage_perc_a":3.52,
+  "usage_perc_y":90.49,
+  "usage_perc_a":3.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"ch unit,character unit",
