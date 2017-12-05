@@ -39,8 +39,8 @@
       "13":"a #3",
       "14":"a #3",
       "15":"a #3",
-      "16":"a #3",
-      "17":"a #3"
+      "16":"y",
+      "17":"y"
     },
     "firefox":{
       "2":"n",
@@ -308,7 +308,7 @@
   "notes_by_num":{
     "1":"Partial support in iOS Safari and older Safari versions refers to failing to support tiling or the background-position property.",
     "2":"Partial support in older Firefox and Opera Mini/Mobile refers to SVG images being blurry when scaled.",
-    "3":"Partial support in Edge refers to a lack of support for SVG data URIs. [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6274479/)"
+    "3":"Partial support in Edge 15 and older refers to a lack of support for SVG data URIs. [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6274479/)"
   },
   "usage_perc_y":94.95,
   "usage_perc_a":2.97,
