@@ -29,7 +29,7 @@
       "description":"Transitionable properties with calc() derived values are not supported below and including IE11 (http://connect.microsoft.com/IE/feedback/details/762719/css3-calc-bug-inside-transition-or-transform)"
     },
     {
-      "description":"'background-size' is not supported below and including IE11"
+      "description":"Internet Explorer does not support transitions of the 'background-size' property."
     },
     {
       "description":"IE11 [does not support](https://connect.microsoft.com/IE/feedbackdetail/view/920928/ie-11-css-transition-property-not-working-for-svg-elements) CSS transitions on the SVG `fill` property."
