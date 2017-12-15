@@ -184,7 +184,7 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"y",
+      "11":"a #2",
       "TP":"y"
     },
     "opera":{
@@ -306,7 +306,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled in Firefox using the dom.enable_resource_timing flag"
+    "1":"Can be enabled in Firefox using the dom.enable_resource_timing flag",
+    "2":"Partial support in Safari refers to being limited to OSX 10.12+"
   },
   "usage_perc_y":89.13,
   "usage_perc_a":0,
