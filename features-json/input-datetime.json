@@ -1,6 +1,6 @@
 {
   "title":"Date and time input types",
-  "description":"Form field widget to easily allow users to enter a date, time or both, generally by using a calendar/time input widget.",
+  "description":"Form field widgets to easily allow users to enter a date, time or both, generally by using a calendar/time input widget. Refers to supporting the following input types: `date`, `time`, `datetime-local`, `month` & `week`.",
   "spec":"https://html.spec.whatwg.org/multipage/forms.html#date-state-(type=date)",
   "status":"ls",
   "links":[
@@ -107,10 +107,10 @@
       "54":"n d #4",
       "55":"n d #4",
       "56":"n d #4",
-      "57":"y",
-      "58":"y",
-      "59":"y",
-      "60":"y"
+      "57":"a #5",
+      "58":"a #5",
+      "59":"a #5",
+      "60":"a #5"
     },
     "chrome":{
       "4":"n",
@@ -129,11 +129,11 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
+      "20":"a #5",
+      "21":"a #5",
+      "22":"a #5",
+      "23":"a #5",
+      "24":"a #5",
       "25":"y",
       "26":"y",
       "27":"y",
@@ -312,15 +312,16 @@
       "7.12":"y"
     }
   },
-  "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome, Opera, and Microsoft Edge also support the `datetime-local` type for both date and time.\r\n\r\nThere used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336) since only Presto ever fully supported it.",
+  "notes":"There used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336).",
   "notes_by_num":{
     "1":"Partial support in Microsoft Edge refers to supporting `date`, `week`, and `month` input types, and not `time` and `datetime-local`.",
-    "2":"Partial support in iOS Safari refers to not supporting `min`, `max` or `step` attributes",
+    "2":"Partial support in iOS Safari refers to not supporting the `week` input type, nor the `min`, `max` or `step` attributes",
     "3":"Some modified versions of the Android 4.x browser do have support for date/time fields.",
-    "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag."
+    "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
+    "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
   },
-  "usage_perc_y":76.32,
-  "usage_perc_a":10.4,
+  "usage_perc_y":72.58,
+  "usage_perc_a":14.13,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\",input date,datetime-local",
