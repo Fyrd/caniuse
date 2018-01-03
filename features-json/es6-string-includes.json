@@ -2,7 +2,7 @@
   "title":"String.prototype.includes",
   "description":"The includes() method determines whether one string may be found within another string, returning true or false as appropriate.",
   "spec":"http://www.ecma-international.org/ecma-262/6.0/#sec-string.prototype.includes",
-  "status":"ls",
+  "status":"other",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes",
@@ -182,30 +182,30 @@
       "TP":"y"
     },
     "opera":{
-      "9":"y",
-      "9.5-9.6":"y",
-      "10.0-10.1":"y",
-      "10.5":"y",
-      "10.6":"y",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
-      "11.6":"y",
-      "12":"y",
-      "12.1":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "11.6":"n",
+      "12":"n",
+      "12.1":"n",
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "19":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
       "28":"y",
       "29":"y",
       "30":"y",
@@ -246,31 +246,31 @@
       "11.0-11.2":"y"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
-      "2.1":"y",
-      "2.2":"y",
-      "2.3":"y",
-      "3":"y",
-      "4":"y",
-      "4.1":"y",
-      "4.2-4.3":"y",
-      "4.4":"y",
-      "4.4.3-4.4.4":"y",
+      "2.1":"n",
+      "2.2":"n",
+      "2.3":"n",
+      "3":"n",
+      "4":"n",
+      "4.1":"n",
+      "4.2-4.3":"n",
+      "4.4":"n",
+      "4.4.3-4.4.4":"n",
       "62":"y"
     },
     "bb":{
-      "7":"u",
+      "7":"n",
       "10":"u"
     },
     "op_mob":{
-      "10":"y",
-      "11":"y",
-      "11.1":"y",
-      "11.5":"y",
-      "12":"y",
-      "12.1":"y",
+      "10":"n",
+      "11":"n",
+      "11.1":"n",
+      "11.5":"n",
+      "12":"n",
+      "12.1":"n",
       "37":"y"
     },
     "and_chr":{
@@ -284,25 +284,25 @@
       "11":"n"
     },
     "and_uc":{
-      "11.4":"u"
+      "11.4":"n"
     },
     "samsung":{
-      "4":"u",
-      "5":"u",
-      "6.2":"u"
+      "4":"y",
+      "5":"y",
+      "6.2":"y"
     },
     "and_qq":{
-      "1.2":"u"
+      "1.2":"n"
     },
     "baidu":{
-      "7.12":"u"
+      "7.12":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":78.17,
+  "usage_perc_y":79.35,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -311,5 +311,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
