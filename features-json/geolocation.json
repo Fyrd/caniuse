@@ -28,7 +28,7 @@
       "description":"Safari 5 & 6 seem to not provide geolocation data [when using a wired connection](https://stackoverflow.com/questions/3791442/geolocation-in-safari-5)."
     },
     {
-      "description":"Firefox sometimes fails to call the success or error callbacks [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=675533)"
+      "description":"Firefox 52 and below had a permission dialog with an additional \"not now\" option. This option postponed the permission decision until later and therefore deliberately did not call any callbacks, [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=675533)"
     }
   ],
   "categories":[
