@@ -1,8 +1,8 @@
 {
   "title":"IntersectionObserver",
   "description":"API that can be used to understand the visibility and position of DOM elements relative to a containing element or to the top-level viewport. The position is delivered asynchronously and is useful for understanding the visibility of elements and implementing pre-loading and deferred loading of DOM content.",
-  "spec":"https://w3c.github.io/IntersectionObserver/",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/intersection-observer/",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
