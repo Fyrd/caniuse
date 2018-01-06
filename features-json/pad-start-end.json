@@ -1,8 +1,8 @@
 {
   "title":"String.prototype.padStart(), String.prototype.padEnd()",
   "description":"The padStart() and padEnd() methods pads the current string with a given string (eventually repeated) so that the resulting string reaches a given length. The pad is applied from the start (left) of the current string for padStart(), and applied from the end (right) of the current string for padEnd().",
-  "spec":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart",
-  "status":"unoff",
+  "spec":"https://www.ecma-international.org/ecma-262/8.0/index.html#sec-string.prototype.padend",
+  "status":"other",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart",
