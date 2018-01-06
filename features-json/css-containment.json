@@ -1,8 +1,8 @@
 {
   "title":"CSS Containment",
   "description":"The CSS `contain` property lets developers limit the scope of the browser's styles, layout and paint work for faster and more efficient rendering.",
-  "spec":"https://drafts.csswg.org/css-containment/#style-containment",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/css-contain-1/#contain-property",
+  "status":"cr",
   "links":[
     {
       "url":"https://developers.google.com/web/updates/2016/06/css-containment",
