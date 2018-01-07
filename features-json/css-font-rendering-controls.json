@@ -1,8 +1,8 @@
 {
   "title":"CSS font-rendering controls",
   "description":"`@font-face` descriptor (currently defined as `font-display`) that allows control over how a downloadable font renders before it is fully loaded.",
-  "spec":"https://tabatkins.github.io/specs/css-font-display/",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/css-fonts-4/#font-display-desc",
+  "status":"wd",
   "links":[
     {
       "url":"https://developers.google.com/web/updates/2016/02/font-display",
