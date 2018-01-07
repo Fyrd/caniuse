@@ -1,7 +1,7 @@
 {
   "title":"Font unicode-range subsetting",
   "description":"This @font-face descriptor defines the set of Unicode codepoints that may be supported by the font face for which it is declared. The descriptor value is a comma-delimited list of Unicode range (<urange>) values. The union of these ranges defines the set of codepoints that serves as a hint for user agents when deciding whether or not to download a font resource for a given text run.",
-  "spec":"http://dev.w3.org/csswg/css-fonts/#descdef-unicode-range",
+  "spec":"https://www.w3.org/TR/css-fonts-3/#descdef-unicode-range",
   "status":"cr",
   "links":[
     {
