@@ -1,8 +1,8 @@
 {
   "title":"CSS Font Loading",
   "description":"This CSS module defines a scripting interface to font faces in CSS, allowing font faces to be easily created and loaded from script. It also provides methods to track the loading status of an individual font, or of all the fonts on an entire page.",
-  "spec":"http://dev.w3.org/csswg/css-font-loading/",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/css-font-loading-3/",
+  "status":"wd",
   "links":[
     {
       "url":"https://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/#font-load-events",
