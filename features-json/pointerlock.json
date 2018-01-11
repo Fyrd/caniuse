@@ -1,8 +1,8 @@
 {
-  "title":"PointerLock API",
+  "title":"Pointer Lock API",
   "description":"API that provides access to raw mouse movement data. This is done by ignoring boundaries resulting from screen edges where the cursor can't go beyond, providing proper control for first person or real time strategy games. ",
-  "spec":"https://dvcs.w3.org/hg/pointerlock/raw-file/default/index.html",
-  "status":"cr",
+  "spec":"https://www.w3.org/TR/pointerlock/",
+  "status":"rec",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API",
