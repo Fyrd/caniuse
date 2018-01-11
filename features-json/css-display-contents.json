@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"iOS Safari 10 and 11, and Safari 11 renders `display:contents` as `display:inline`. @supports will also report as true."
+    }
   ],
   "categories":[
     "CSS"
