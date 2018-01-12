@@ -38,16 +38,16 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"n",
-      "11":"n"
+      "10":"a #1",
+      "11":"a #1"
     },
     "edge":{
-      "12":"n",
-      "13":"n",
-      "14":"n",
-      "15":"n",
-      "16":"n",
-      "17":"u"
+      "12":"a #1",
+      "13":"a #1",
+      "14":"a #1",
+      "15":"a #1",
+      "16":"a #1",
+      "17":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -172,8 +172,8 @@
       "60":"n",
       "61":"n",
       "62":"n",
-      "63":"y",
-      "64":"y",
+      "63":"a #2",
+      "64":"a #2",
       "65":"y",
       "66":"y"
     },
@@ -242,7 +242,7 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"y"
+      "50":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -288,14 +288,14 @@
       "37":"n"
     },
     "and_chr":{
-      "62":"y"
+      "62":"a #2"
     },
     "and_ff":{
       "57":"n"
     },
     "ie_mob":{
-      "10":"n",
-      "11":"n"
+      "10":"a #1",
+      "11":"a #1"
     },
     "and_uc":{
       "11.4":"n"
@@ -314,13 +314,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Supports the precursor version of the property: [`-ms-scroll-chaining`](https://msdn.microsoft.com/en-us/library/hh772034%28v=vs.85%29.aspx), which works similarly. IE support is limited to Windows 8 & above",
+    "2":"Does not support `overscroll-behavior: none;` on the body element to prevent the overscroll glow and rubberbanding effects."
   },
-  "usage_perc_y":41.33,
-  "usage_perc_a":0,
+  "usage_perc_y":0.02,
+  "usage_perc_a":46.37,
   "ucprefix":false,
   "parent":"",
-  "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y",
+  "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",
   "ie_id":"",
   "chrome_id":"5734614437986304",
   "firefox_id":"",
