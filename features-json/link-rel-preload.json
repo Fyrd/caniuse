@@ -2,7 +2,7 @@
   "title":"Resource Hints: preload",
   "description":"Using `<link rel=\"preload\">`, browsers can be informed to prefetch resources without having to execute them, allowing fine-grained control over when and how resources are loaded.",
   "spec":"https://w3c.github.io/preload/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/",
