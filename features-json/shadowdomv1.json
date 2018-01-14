@@ -100,9 +100,9 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"n",
-      "59":"n",
-      "60":"n"
+      "58":"d #2",
+      "59":"d #2",
+      "60":"d #2"
     },
     "chrome":{
       "4":"n",
@@ -306,7 +306,8 @@
   },
   "notes":"Shadow DOM v0 was implemented in Chrome/Opera but other browser vendors are implementing v1.",
   "notes_by_num":{
-    "1":"Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy."
+    "1":"Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy.",
+    "2":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config"
   },
   "usage_perc_y":56.54,
   "usage_perc_a":11.95,
