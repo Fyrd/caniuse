@@ -150,9 +150,9 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
+      "53":"n#2",
+      "54":"n#2",
+      "55":"n#2",
       "56":"y",
       "57":"y",
       "58":"y",
@@ -303,7 +303,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported as the `-apple-ui` value (only on Mac)"
+    "1":"Supported as the `-apple-ui` value (only on Mac)",
+    "2":"Supported as the 'BlinkMacSystemFont'  value (only on Mac)",
   },
   "usage_perc_y": 79.70,
   "usage_perc_a":8.67,
