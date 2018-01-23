@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder",
-      "title":"MDN web docs - ::placeholder"
+      "url":"http://msdn.microsoft.com/en-us/library/ie/hh772745(v=vs.85).aspx",
+      "title":"MSDN article"
     },
     {
       "url":"https://css-tricks.com/snippets/css/style-placeholder-text/",
@@ -17,8 +17,16 @@
       "title":"CSSWG discussion"
     },
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-placeholder",
+      "title":"MDN Web Docs - CSS ::-moz-placeholder"
+    },
+    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1069012",
       "title":"Mozilla Bug 1069012 - unprefix :placeholder-shown pseudo-class and ::placeholder pseudo-element"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder",
+      "title":"MDN web docs - ::placeholder"
     }
   ],
   "bugs":[
