@@ -1,15 +1,15 @@
 {
-  "title":":focus-ring CSS pseudo-class",
-  "description":"The `:focus-ring` pseudo-class applies while an element matches the `:focus` pseudo-class, and the UA determines via heuristics that the focus should be specially indicated on the element (typically via a \u201cfocus ring\u201d).",
-  "spec":"https://drafts.csswg.org/selectors-4/#the-focusring-pseudo",
+  "title":":focus-visible CSS pseudo-class",
+  "description":"The `:focus-visible` pseudo-class applies while an element matches the `:focus` pseudo-class, and the UA determines via heuristics that the focus should be specially indicated on the element (typically via a \u201cfocus ring\u201d).",
+  "spec":"https://drafts.csswg.org/selectors-4/#the-focus-visible-pseudo",
   "status":"unoff",
   "links":[
     {
-      "url":"https://github.com/WICG/focus-ring",
-      "title":"Prototype for `:focus-ring`"
+      "url":"https://github.com/WICG/focus-visible",
+      "title":"Prototype for `:focus-visible`"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=140144",
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=30523",
       "title":"WebKit bug #140144: Add support for `-webkit-focusring` CSS pseudo class"
     },
     {
@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "CSS"
@@ -309,15 +309,15 @@
       "7.12":"n"
     }
   },
-  "notes":"",
+  "notes":"Previously drafted as `:focus-ring`",
   "notes_by_num":{
-    "1":"As `-moz-focusring`"
+    "1":"As `:-moz-focusring`"
   },
   "usage_perc_y":5.7,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"focus,ring,focusring,focus-ring,pseudo",
+  "keywords":"focus,ring,focusring,focus-ring,visible,focus-visible,pseudo",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
