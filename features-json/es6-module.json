@@ -113,8 +113,8 @@
       "56":"n d #2",
       "57":"n d #2",
       "58":"n d #2",
-      "59":"n d #2",
-      "60":"n d #2"
+      "59":"y #4",
+      "60":"y"
     },
     "chrome":{
       "4":"n",
@@ -321,7 +321,8 @@
   "notes_by_num":{
     "1":"Support can be enabled via `about:flags`",
     "2":"Support can be enabled via `about:config`",
-    "3":"Support can be enabled via the `experimental-web-platform-features` flag"
+    "3":"Support can be enabled via the `experimental-web-platform-features` flag",
+    "4":"Enabled by default since 2018-01-10"
   },
   "usage_perc_y":63.98,
   "usage_perc_a":0,
