@@ -14,6 +14,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS",
@@ -98,7 +99,8 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"n"
+      "60":"n",
+      "61":"n"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +165,8 @@
       "63":"n",
       "64":"n",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "safari":{
       "3.1":"n",
@@ -181,6 +184,7 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -303,15 +307,16 @@
   },
   "notes":"",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"5685444318593024",
   "firefox_id":"",
-  "webkit_id":"specification-css-painting-api-level-1"
+  "webkit_id":"specification-css-painting-api-level-1",
+  "shown":false
 }
