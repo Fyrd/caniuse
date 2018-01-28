@@ -151,9 +151,9 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
+      "53":"n #2",
+      "54":"n #2",
+      "55":"n #2",
       "56":"y",
       "57":"y",
       "58":"y",
@@ -179,9 +179,9 @@
       "7.1":"n",
       "8":"n",
       "9":"u",
-      "9.1":"a #1",
-      "10":"a #1",
-      "10.1":"a #1",
+      "9.1":"a #1 #2",
+      "10":"a #1 #2",
+      "10.1":"a #1 #2",
       "11":"y",
       "11.1":"y",
       "TP":"y"
@@ -282,7 +282,7 @@
       "37":"y"
     },
     "and_chr":{
-      "64":"n"
+      "64":"y"
     },
     "and_ff":{
       "57":"n"
@@ -308,9 +308,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported as the `-apple-ui` value (only on Mac)"
+    "1":"Supported as the `-apple-ui` value (only on Mac)",
+    "2":"Supported as the 'BlinkMacSystemFont'  value (only on Mac)"
   },
-  "usage_perc_y":44.94,
+  "usage_perc_y": 79.70,
   "usage_perc_a":8.67,
   "ucprefix":false,
   "parent":"",
