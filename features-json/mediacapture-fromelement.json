@@ -1,6 +1,6 @@
 {
   "title":"Media Capture from DOM Elements API",
-  "description":"API to capture Real-Time video and audio from a DOM element, such as a <video>, <audio>, or <canvas> element, in the form of a MediaStream",
+  "description":"API to capture Real-Time video and audio from a DOM element, such as a `<video>`, `<audio>`, or `<canvas>` element via the `captureStream` method, in the form of a `MediaStream`",
   "spec":"https://w3c.github.io/mediacapture-fromelement/",
   "status":"wd",
   "links":[
@@ -13,12 +13,8 @@
       "title":"MDN Web Docs - capture from <video>/<audio>"
     },
     {
-      "url":"https://www.chromestatus.com/features/4817998447640576",
-      "title":"Media capture from Canvas - Chrome status"
-    },
-    {
-      "url":"https://www.chromestatus.com/features/5522768674160640",
-      "title":"Media Capture from HTML Media Element - Chrome status"
+      "url":"https://developers.google.com/web/updates/2016/10/capture-stream",
+      "title":"Google Developers article"
     }
   ],
   "bugs":[
@@ -90,25 +86,25 @@
       "40":"n",
       "41":"n",
       "42":"n",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y",
-      "57":"y",
-      "58":"y",
-      "59":"y",
-      "60":"y",
-      "61":"y"
+      "43":"a #2",
+      "44":"a #2",
+      "45":"a #2",
+      "46":"a #2",
+      "47":"a #2",
+      "48":"a #2",
+      "49":"a #2",
+      "50":"a #2",
+      "51":"a #2",
+      "52":"a #2",
+      "53":"a #2",
+      "54":"a #2",
+      "55":"a #2",
+      "56":"a #2",
+      "57":"a #2",
+      "58":"a #2",
+      "59":"a #2",
+      "60":"a #2",
+      "61":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -158,23 +154,23 @@
       "48":"n",
       "49":"n",
       "50":"n",
-      "51":"y d #1",
-      "52":"y d #1",
-      "53":"y d #1",
-      "54":"y d #1",
-      "55":"y d #1",
-      "56":"y d #1",
-      "57":"y d #1",
-      "58":"y d #1",
-      "59":"y d #1",
-      "60":"y d #1",
-      "61":"y d #1",
-      "62":"y d #1",
-      "63":"y d #1",
-      "64":"y d #1",
-      "65":"y d #1",
-      "66":"y d #1",
-      "67":"y d #1"
+      "51":"a d #2",
+      "52":"a d #2",
+      "53":"a d #2",
+      "54":"a d #2",
+      "55":"a d #2",
+      "56":"a d #2",
+      "57":"a d #2",
+      "58":"a d #2",
+      "59":"a d #2",
+      "60":"a d #2",
+      "61":"a d #2",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y"
     },
     "safari":{
       "3.1":"n",
@@ -191,9 +187,9 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"n",
-      "11.1":"n",
-      "TP":"n"
+      "11":"a #1",
+      "11.1":"a #1",
+      "TP":"a #1"
     },
     "opera":{
       "9":"n",
@@ -228,18 +224,18 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
+      "36":"a d #2",
+      "37":"a d #2",
+      "38":"a d #2",
+      "39":"a d #2",
+      "40":"a d #2",
+      "41":"a d #2",
+      "42":"a d #2",
+      "43":"a d #2",
+      "44":"a d #2",
+      "45":"a d #2",
+      "46":"a d #2",
+      "47":"a d #2",
       "48":"y",
       "49":"y",
       "50":"y",
@@ -275,7 +271,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "62":"y"
     },
     "bb":{
       "7":"n",
@@ -294,39 +290,40 @@
       "64":"y"
     },
     "and_ff":{
-      "57":"n"
+      "57":"a #2"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.4":"a #1"
     },
     "samsung":{
       "4":"n",
-      "5":"y",
-      "6.2":"y"
+      "5":"a #1",
+      "6.2":"a #1"
     },
     "and_qq":{
-      "1.2":"n"
+      "1.2":"a #1"
     },
     "baidu":{
-      "7.12":"y"
+      "7.12":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Capture from <video>/<audio> can be enabled via the Experimental Web Platform Features flag."
+    "1":"Does not support capture from `<video>`/`<audio>`",
+    "2":"Capture from `<video>`/`<audio>` can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":61.98,
-  "usage_perc_a":0,
+  "usage_perc_y":52.65,
+  "usage_perc_a":20.1,
   "ucprefix":false,
   "parent":"stream",
-  "keywords":"canvas,mediastream,capture",
+  "keywords":"canvas,mediastream,capturestream,canvas.capturestream",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5522768674160640,4817998447640576",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
