@@ -279,7 +279,7 @@
     },
     "bb":{
       "7":"n",
-      "10":"u"
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -288,28 +288,28 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "37":"u"
     },
     "and_chr":{
       "64":"y"
     },
     "and_ff":{
-      "57":"n"
+      "57":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"u"
+      "11.4":"y"
     },
     "samsung":{
-      "4":"u",
+      "4":"n",
       "5":"y",
       "6.2":"y"
     },
     "and_qq":{
-      "1.2":"u"
+      "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
@@ -319,7 +319,7 @@
   "notes_by_num":{
     "1":"As a compatibility measure, Firefox continues to fire the click event for document and window level event handlers."
   },
-  "usage_perc_y":60.84,
+  "usage_perc_y":70.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -328,5 +328,5 @@
   "chrome_id":"5663174342737920",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
