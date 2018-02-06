@@ -168,8 +168,8 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n",
-      "67":"n"
+      "66":"n d #7",
+      "67":"n d #7"
     },
     "safari":{
       "3.1":"n",
@@ -316,7 +316,8 @@
     "2":"Partial support in IE11 [documented here](https://web.archive.org/web/20160616212557/https://dl.dropboxusercontent.com/u/444684/openwebref/CSS/scroll-snap-points/support.html)",
     "4":"Partial support in Safari refers to not supporting the `none` keyword in `scroll-snap-points-x`, `scroll-snap-points-y` and `scroll-snap-coordinate`, and length keywords (`top`, `right`, etc.) in `scroll-snap-destination` and `scroll-snap-coordinate`.",
     "5":"Supports properties from an [older version](https://www.w3.org/TR/2015/WD-css-snappoints-1-20150326/) of the spec.",
-    "6":"Partial support in IE & Edge refers to not supporting `scroll-snap-coordinate` and `scroll-snap-destination`."
+    "6":"Partial support in IE & Edge refers to not supporting `scroll-snap-coordinate` and `scroll-snap-destination`.",
+    "7":"Available behind the \"Experimental Web Platform features\" feature flag"
   },
   "usage_perc_y":9.2,
   "usage_perc_a":13.18,
