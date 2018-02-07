@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In IE10 and IE11, when using `innerText` (and also `innerHTML` or `outerHTML`) on a `textarea` which has a `placeholder` attribute, the returned HTML/text also uses the `placeholder`'s value as the actual `textarea`'s value. [See bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/)."
+    }
   ],
   "categories":[
     "DOM"

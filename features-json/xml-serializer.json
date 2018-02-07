@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"In IE10 and IE11, when using `innerText`, `innerHTML` or `outerHTML` on a `textarea` which has a `placeholder` attribute, the returned HTML/text also uses the `placeholder`'s value as the actual `textarea`'s value. [See bug](https://connect.microsoft.com/IE/feedback/details/811408)."
+      "description":"In IE10 and IE11, when using `innerText`, `innerHTML` or `outerHTML` on a `textarea` which has a `placeholder` attribute, the returned HTML/text also uses the `placeholder`'s value as the actual `textarea`'s value. [See bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/)."
     },
     {
       "description":"innerHTML, insertAdjacentHTML, etc aren't supported or are read-only on the following elements in IE9 and below: col, colgroup, frameset, html, head, style, table, tbody, tfoot, thead, title, and tr."
