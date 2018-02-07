@@ -298,7 +298,7 @@
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x #1 #2"
+      "11.8":"y"
     },
     "samsung":{
       "4":"a x #1 #2",
@@ -317,8 +317,8 @@
     "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740).",
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one."
   },
-  "usage_perc_y":74.52,
-  "usage_perc_a":12.07,
+  "usage_perc_y":83.02,
+  "usage_perc_a":3.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",

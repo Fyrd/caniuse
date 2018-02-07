@@ -292,7 +292,7 @@
       "11":"y"
     },
     "and_uc":{
-      "11.4":"a #6"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y #6",
@@ -315,8 +315,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":86.06,
-  "usage_perc_a":12.14,
+  "usage_perc_y":94.57,
+  "usage_perc_a":3.63,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",
