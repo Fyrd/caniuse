@@ -180,8 +180,8 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"y",
-      "10.1":"y",
+      "10":"a #4",
+      "10.1":"a #4",
       "11":"y",
       "11.1":"y",
       "TP":"y"
@@ -248,8 +248,8 @@
       "8.1-8.4":"n",
       "9.0-9.2":"n",
       "9.3":"n",
-      "10.0-10.2":"y",
-      "10.3":"y",
+      "10.0-10.2":"a #4",
+      "10.3":"a #4",
       "11.0-11.2":"y",
       "11.3":"y"
     },
@@ -310,7 +310,8 @@
   "notes_by_num":{
     "1":"Supports a non-standard version that can only be used in script elements with a type attribute of `application/javascript;version=1.7`. As other browsers do not support these types of `script` tags this makes support useless for cross-browser support.",
     "2":"Requires the \u2018Experimental JavaScript features\u2019 flag to be enabled",
-    "3":"Only supported in strict mode"
+    "3":"Only supported in strict mode",
+    "4":"`let` bindings in for loops are incorrectly treated as function-scoped instead of block scoped."
   },
   "usage_perc_y":89.57,
   "usage_perc_a":1.41,
