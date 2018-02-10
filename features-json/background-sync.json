@@ -2,30 +2,26 @@
   "title":"Background Sync API",
   "description":"Provides one-off and periodic synchronization for Service Workers with an onsync event.",
   "spec":"https://wicg.github.io/BackgroundSync/spec/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1217544",
-      "title":"Mozilla bug report"
+      "title":"Firefox support bug"
     },
     {
       "url":"https://developer.mozilla.org/docs/Web/API/SyncManager",
-      "title":"Documentation"
+      "title":"SyncManager on MDN Web Docs"
     },
     {
-      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/status/backgroundsyncapi/",
-      "title":"Edge status"
-    },
-    {
-      "url":"https://wicg.github.io/BackgroundSync/spec/",
-      "title":"Working draft or equivalent"
+      "url":"https://developers.google.com/web/updates/2015/12/background-sync",
+      "title":"Google Developers blog: Introducing Background Sync"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -43,7 +39,7 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"u"
     },
     "firefox":{
       "2":"n",
@@ -99,15 +95,15 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y",
-      "57":"y",
-      "58":"y",
-      "59":"y",
-      "60":"y",
-      "61":"y"
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"u"
     },
     "chrome":{
       "4":"n",
@@ -227,23 +223,23 @@
       "33":"n",
       "34":"n",
       "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n"
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -287,7 +283,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "37":"y"
     },
     "and_chr":{
       "64":"y"
@@ -300,15 +296,15 @@
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "11.8":"y"
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n"
+      "5":"y",
+      "6.2":"y"
     },
     "and_qq":{
-      "1.2":"n"
+      "1.2":"y"
     },
     "baidu":{
       "7.12":"n"
@@ -318,14 +314,14 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":60.58,
+  "usage_perc_y":68.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"background sync api",
+  "keywords":"syncmanager",
   "ie_id":"backgroundsyncapi",
   "chrome_id":"6170807885627392",
   "firefox_id":"background-sync",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
