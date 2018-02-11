@@ -335,7 +335,7 @@
       "7.12":"y"
     }
   },
-  "notes":"Firefox currently also supports the `padding-box` in addition to `content-box` and `border-box`, though this value has been removed from the specification.",
+  "notes":"Firefox versions before 57 also supported the `padding-box` value for `box-sizing`, though this value was been removed from the specification and later versions of the browser.",
   "notes_by_num":{
     
   },

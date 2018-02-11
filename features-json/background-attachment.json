@@ -15,6 +15,9 @@
     },
     {
       "description":"Chrome has an issue that occurs when using the will-change property on a selector which also has `background-attachment: fixed` defined. It causes the image to get cut off and gain whitespace around it. "
+    },
+    {
+      "description":"Firefox does not appear to support the `local` value when applied on a `textarea` element."
     }
   ],
   "categories":[

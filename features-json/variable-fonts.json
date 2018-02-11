@@ -11,10 +11,16 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings",
       "title":"MDN Web docs article"
+    },
+    {
+      "url":"https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604",
+      "title":"How to use variable fonts in the real world"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome reportedly does not support `format('woff2-variations')` inside the `@font-face` block and has not made `font-weight` and `font-stretch` work on variable fonts yet."
+    }
   ],
   "categories":[
     "CSS"
@@ -35,7 +41,7 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"y"
+      "17":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -91,15 +97,15 @@
       "50":"n",
       "51":"n",
       "52":"n",
-      "53":"n d #2",
-      "54":"n d #2",
-      "55":"n d #2",
-      "56":"n d #2",
-      "57":"n d #2",
-      "58":"n d #2",
-      "59":"n d #2",
-      "60":"n d #2",
-      "61":"n d #2"
+      "53":"n d #2 #4",
+      "54":"n d #2 #4",
+      "55":"n d #2 #4",
+      "56":"n d #2 #4",
+      "57":"n d #2 #4",
+      "58":"n d #2 #4",
+      "59":"n d #2 #4",
+      "60":"n d #2 #4",
+      "61":"n d #2 #4"
     },
     "chrome":{
       "4":"n",
@@ -160,12 +166,12 @@
       "59":"n d #1",
       "60":"n d #1",
       "61":"n d #1",
-      "62":"y",
-      "63":"y",
-      "64":"y",
-      "65":"y",
-      "66":"y",
-      "67":"y"
+      "62":"a #4",
+      "63":"a #4",
+      "64":"a #4",
+      "65":"a #4",
+      "66":"a #4",
+      "67":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -232,10 +238,10 @@
       "46":"n",
       "47":"n",
       "48":"n",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y"
+      "49":"a #4",
+      "50":"a #4",
+      "51":"a #4",
+      "52":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -266,7 +272,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"y"
+      "62":"a #4"
     },
     "bb":{
       "7":"n",
@@ -282,7 +288,7 @@
       "37":"n"
     },
     "and_chr":{
-      "64":"y"
+      "64":"a #4"
     },
     "and_ff":{
       "57":"n"
@@ -306,14 +312,15 @@
       "7.12":"n"
     }
   },
-  "notes":"Variable fonts are still developing, but can be used with @supports in CSS to more safely put them in to use.",
+  "notes":"",
   "notes_by_num":{
     "1":"Works with Experimental Web Platform features enabled",
     "2":"Requires MacOS 10.12+ and the following about:config flags to be enabled:\r\n`layout.css.font-variations.enabled`,\r\n`gfx.downloadable_fonts.keep_variation_tables`",
-    "3":"Requires MacOS 10.13+"
+    "3":"Requires MacOS 10.13+",
+    "4":"Does not support the `font-weight` and `font-stretch` properties, nor `format('truetype-variations')`"
   },
-  "usage_perc_y":63.76,
-  "usage_perc_a":0,
+  "usage_perc_y":9.2,
+  "usage_perc_a":54.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"variable fonts, variation fonts, font variations",
