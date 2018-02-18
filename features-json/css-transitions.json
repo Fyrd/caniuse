@@ -39,6 +39,9 @@
     },
     {
       "description":"IE10 & IE11 are reported to not support transitioning the `column-count` property."
+    },
+    {
+      "description":"Safari 11 [does not support](https://bugs.webkit.org/show_bug.cgi?id=180435) CSS transitions on the `flex-basis` property."
     }
   ],
   "categories":[
