@@ -1,6 +1,6 @@
 {
   "title":"display: flow-root",
-  "description":"The element generates a block container box, and lays out its contents using flow layout. It always establishes a new block formatting context for its contents. The result is the same as the \"clearfix\" hack.",
+  "description":"The element generates a block container box, and lays out its contents using flow layout. It always establishes a new block formatting context for its contents. It provides a better solution to the most use cases of the \"clearfix\" hack.",
   "spec":"https://www.w3.org/TR/css-display-3/#valdef-display-flow-root",
   "status":"wd",
   "links":[
