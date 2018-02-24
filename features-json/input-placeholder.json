@@ -33,7 +33,7 @@
       "description":"Internet Explorer 10 and 11 fire the input event when an input field with a placeholder [is focused](https://connect.microsoft.com/IE/feedback/details/885747/ie-11-fires-the-input-event-when-a-input-field-with-placeholder-is-focused) or on page load when the placeholder [contains certain characters](https://jsfiddle.net/yiminghe/fm3rckaz/), like Chinese. "
     },
     {
-      "description":"IE 10, 11 & above can accidentally [show placeholder attributes on textareas as their actual value](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/) when using `innerHTML`, etc.\r\n"
+      "description":"Internet Explorer 10 and 11 accidentally [show placeholder attributes on textareas as their actual value](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/) when using `innerHTML`, etc.\r\n"
     }
   ],
   "categories":[
