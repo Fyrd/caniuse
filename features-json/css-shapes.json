@@ -1,6 +1,6 @@
 {
   "title":"CSS Shapes Level 1",
-  "description":"Allows geometric shapes to be set in CSS to define an area for text to flow around.",
+  "description":"Allows geometric shapes to be set in CSS to define an area for text to flow around. Includes properties `shape-outside`, `shape-margin` and `shape-image-threshold`",
   "spec":"https://www.w3.org/TR/css-shapes/",
   "status":"cr",
   "links":[
@@ -89,17 +89,17 @@
       "48":"n",
       "49":"n",
       "50":"n",
-      "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
-      "56":"n",
-      "57":"n",
-      "58":"n",
-      "59":"n",
-      "60":"n",
-      "61":"n"
+      "51":"n d #2",
+      "52":"n d #2",
+      "53":"n d #2",
+      "54":"n d #2",
+      "55":"n d #2",
+      "56":"n d #2",
+      "57":"n d #2",
+      "58":"n d #2",
+      "59":"n d #2",
+      "60":"n d #2",
+      "61":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -285,7 +285,7 @@
       "64":"y"
     },
     "and_ff":{
-      "57":"n"
+      "57":"n d #2"
     },
     "ie_mob":{
       "10":"n",
@@ -308,13 +308,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "2":"Partially supported in Firefox by enabling \"layout.css.shape-outside.enabled\" in about:config"
   },
   "usage_perc_y":81.99,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"circle,ellipse,polygon,inset,shape-outside,shape-inside",
+  "keywords":"circle,ellipse,polygon,inset,shape-outside,shape-margin,shape-image-threshold",
   "ie_id":"shapes",
   "chrome_id":"5163890719588352",
   "firefox_id":"css-shapes",
