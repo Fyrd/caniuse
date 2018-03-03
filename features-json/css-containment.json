@@ -79,27 +79,27 @@
       "38":"n",
       "39":"n",
       "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"u",
-      "53":"u",
-      "54":"u",
-      "55":"u",
-      "56":"u",
-      "57":"u",
-      "58":"u",
-      "59":"u",
-      "60":"u",
-      "61":"u"
+      "41":"n d #2",
+      "42":"n d #2",
+      "43":"n d #2",
+      "44":"n d #2",
+      "45":"n d #2",
+      "46":"n d #2",
+      "47":"n d #2",
+      "48":"n d #2",
+      "49":"n d #2",
+      "50":"n d #2",
+      "51":"n d #2",
+      "52":"u d #2",
+      "53":"u d #2",
+      "54":"u d #2",
+      "55":"u d #2",
+      "56":"u d #2",
+      "57":"u d #2",
+      "58":"u d #2",
+      "59":"u d #2",
+      "60":"u d #2",
+      "61":"u d #2"
     },
     "chrome":{
       "4":"n",
@@ -285,7 +285,7 @@
       "64":"y"
     },
     "and_ff":{
-      "57":"n"
+      "57":"n d #2"
     },
     "ie_mob":{
       "10":"n",
@@ -308,7 +308,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled via the \"Experimental Web Platform features\" flag"
+    "1":"Enabled via the \"Experimental Web Platform features\" flag",
+    "2":"Partially supported in Firefox by enabling \"layout.css.contain.enabled\" in about:config"
   },
   "usage_perc_y":66.63,
   "usage_perc_a":0,
