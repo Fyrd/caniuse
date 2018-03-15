@@ -13,7 +13,9 @@
       "title":"Blog post"
     }
   ],
-  "bugs":[],
+  "bugs":[
+    
+  ],
   "categories":[
     "JS API"
   ],
@@ -310,14 +312,14 @@
     "1":"Chrome v60-63: An older version of the API is behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag.",
     "2":"Chrome v64: The current API is behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":0.1,
+  "usage_perc_a":25.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,performance.timing,testing,resource,performancenavigation",
-  "shown":true,
   "ie_id":"servertiming",
   "chrome_id":"5695708376072192",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }
