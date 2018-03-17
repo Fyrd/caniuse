@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"Firefox only supports [same-origin](https://bugzilla.mozilla.org/show_bug.cgi?id=874009) download links."
+    },
+    {
+      "description":"Chrome 65 and above only supports [same-origin](https://bugs.chromium.org/p/chromium/issues/detail?id=714373) download links."
     }
   ],
   "categories":[
