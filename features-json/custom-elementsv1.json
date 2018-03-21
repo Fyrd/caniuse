@@ -110,9 +110,9 @@
       "56":"p d #2 #1",
       "57":"p d #2 #1",
       "58":"p d #2 #1",
-      "59":"a #1",
-      "60":"a #1",
-      "61":"a #1"
+      "59":"p d #3 #1",
+      "60":"p d #3 #1",
+      "61":"p d #3 #1"
     },
     "chrome":{
       "4":"n",
@@ -323,7 +323,8 @@
   "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`.",
   "notes_by_num":{
     "1":"Supports \"Autonomous custom elements\" but not \"Customized built-in elements\"",
-    "2":"Enabled through the \"dom.webcomponents.enabled\" or \"dom.webcomponents.customelements.enabled\" preference in about:config"
+    "2":"Enabled through the \"dom.webcomponents.enabled\" or \"dom.webcomponents.customelements.enabled\" preference in about:config",
+    "3":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
   },
   "usage_perc_y":9.9,
   "usage_perc_a":68.97,

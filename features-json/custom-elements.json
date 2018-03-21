@@ -126,9 +126,9 @@
       "56":"p d #1",
       "57":"p d #1",
       "58":"p d #1",
-      "59":"p d #1",
-      "60":"p d #1",
-      "61":"p d #1"
+      "59":"p d #2",
+      "60":"p d #2",
+      "61":"p d #2"
     },
     "chrome":{
       "4":"n",
@@ -338,7 +338,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config"
+    "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
+    "2":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
   },
   "usage_perc_y":70.76,
   "usage_perc_a":0,
