@@ -7,11 +7,15 @@
     {
       "url":"https://msdn.microsoft.com/en-us/library/dn265039(v=vs.85).aspx",
       "title":"Prerender and prefetch support"
+    },
+    {
+      "url":"ttps://bugzilla.mozilla.org/show_bug.cgi?id=730101",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
     {
-      "description":"Bug to [implement in Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=730101)"
+      "description":"Chrome intends to [deprecate and remove](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/0nSxuuv9bBw/EMfaclV-AwAJ) support for prerender in the future."
     }
   ],
   "categories":[
