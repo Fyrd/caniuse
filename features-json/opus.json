@@ -187,9 +187,9 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"a #1",
-      "11.1":"a #1",
-      "TP":"a #1"
+      "11":"n",
+      "11.1":"n",
+      "TP":"n"
     },
     "opera":{
       "9":"n",
@@ -255,8 +255,8 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.2":"y",
-      "11.3":"y"
+      "11.0-11.2":"n",
+      "11.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -313,7 +313,7 @@
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.\r\n\r\nFor Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
   "notes_by_num":{
-    "1":"Supported only on macOS High Sierra or later"
+    
   },
   "usage_perc_y":76.37,
   "usage_perc_a":1.53,
