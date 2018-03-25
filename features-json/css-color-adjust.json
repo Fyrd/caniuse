@@ -1,6 +1,6 @@
 {
   "title":"CSS color-adjust",
-  "description":"The `color-adjust` property is a non-standard CSS extension that can be used to force printing of background colors and images.",
+  "description":"The `color-adjust` (or `-webkit-print-color-adjust` as prefixed in WebKit/Blink browsers) property is a non-standard CSS extension that can be used to force printing of background colors and images.",
   "spec":"https://drafts.csswg.org/css-color-4/#color-adjust",
   "status":"unoff",
   "links":[
@@ -23,10 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Chrome and Safari do not print backgrounds of the <body> element. If this property is set to exact for the <body> element, it will apply only to its descendants. [test case](https://jsfiddle.net/soul_wish/8tw09dd0/)"
-    },
-    {
-      "description":"Before Chrome 26, if background images are clipped (for example, when using background-image sprites) and -webkit-print-color-adjust is set to exact, then backgrounds will appear distorted when printed. Solid backgrounds and background images that are not clipped (i.e., backgrounds that have narrower and shorter than the element to which they are applied) are printed correctly."
+      "description":"Chrome and Safari do not print backgrounds of the `<body>` element. If this property is set to exact for the `<body>` element, it will apply only to its descendants. [test case](https://jsfiddle.net/soul_wish/8tw09dd0/)"
     }
   ],
   "categories":[
@@ -130,14 +127,14 @@
       "16":"u",
       "17":"u",
       "18":"u",
-      "19":"y x #1",
-      "20":"y x #1",
-      "21":"y x #1",
-      "22":"y x #1",
-      "23":"y x #1",
-      "24":"y x #1",
-      "25":"y x #1",
-      "26":"y x #1",
+      "19":"y x",
+      "20":"y x",
+      "21":"y x",
+      "22":"y x",
+      "23":"y x",
+      "24":"y x",
+      "25":"y x",
+      "26":"y x",
       "27":"y x",
       "28":"y x",
       "29":"y x",
@@ -322,7 +319,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Before Chrome 26, if background images are clipped (for example, when using background-image sprites) and -webkit-print-color-adjust is set to exact, then backgrounds will appear distorted when printed. [See Chromium bug 131054](https://bugs.chromium.org/p/chromium/issues/detail?id=131054)."
+    
   },
   "usage_perc_y":36.59,
   "usage_perc_a":0,
@@ -333,5 +330,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
