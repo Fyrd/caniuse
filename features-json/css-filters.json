@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In Edge filter won't apply if the element or it's parent has negative z-index. [See bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/9318580/)."
+    }
   ],
   "categories":[
     "CSS",
