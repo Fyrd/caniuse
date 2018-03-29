@@ -9,20 +9,28 @@
       "title":"Prototype for `:focus-visible`"
     },
     {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=817199",
+      "title":"Chrome does not support CSS Selectors 4 :focus-visible"
+    },
+    {
+      "url":"https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/-wN72ESFsyo",
+      "title":"Blink: Intent to implement :focus-visible pseudo class."
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1437901&GoAheadAndLogIn=1",
+      "title":"Bugzilla: Add :focus-visible (former :focus-ring)"
+    },
+    {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=30523",
       "title":"WebKit bug #140144: Add support for `-webkit-focusring` CSS pseudo class"
     },
     {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=271023",
-      "title":"Chromium issue #271023: Outline should not appear on elements focused by mouse"
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/19594159--focus-visible",
+      "title":"Microsoft Edge implementation suggestion"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-focusring",
       "title":"Mozilla Developer Network (MDN) documentation - :-moz-focusring"
-    },
-    {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/19594159--focus-visible",
-      "title":"Microsoft Edge implementation suggestion"
     }
   ],
   "bugs":[
@@ -177,8 +185,8 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n",
-      "68":"n"
+      "67":"p d #2",
+      "68":"p d #2"
     },
     "safari":{
       "3.1":"n",
@@ -321,7 +329,8 @@
   },
   "notes":"Previously drafted as `:focus-ring`",
   "notes_by_num":{
-    "1":"As `:-moz-focusring`"
+    "1":"As `:-moz-focusring`",
+    "2":"Enabled through the \"Experimental Web Platform features\" flag in chrome://flags"
   },
   "usage_perc_y":5.5,
   "usage_perc_a":0,
@@ -329,7 +338,7 @@
   "parent":"",
   "keywords":"focus,ring,focusring,focus-ring,visible,focus-visible,pseudo",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5823526732824576",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
