@@ -9,6 +9,22 @@
       "title":"Prototype for `:focus-visible`"
     },
     {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=30523",
+      "title":"WebKit bug #140144: Add support for `-webkit-focusring` CSS pseudo class"
+    },
+    {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=271023",
+      "title":"Chromium issue #271023: Outline should not appear on elements focused by mouse"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-focusring",
+      "title":"Mozilla Developer Network (MDN) documentation - :-moz-focusring"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/19594159--focus-visible",
+      "title":"Microsoft Edge implementation suggestion"
+    },
+    {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=817199",
       "title":"Chrome does not support CSS Selectors 4 :focus-visible"
     },
@@ -19,18 +35,6 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1437901&GoAheadAndLogIn=1",
       "title":"Bugzilla: Add :focus-visible (former :focus-ring)"
-    },
-    {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=30523",
-      "title":"WebKit bug #140144: Add support for `-webkit-focusring` CSS pseudo class"
-    },
-    {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/19594159--focus-visible",
-      "title":"Microsoft Edge implementation suggestion"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-focusring",
-      "title":"Mozilla Developer Network (MDN) documentation - :-moz-focusring"
     }
   ],
   "bugs":[
