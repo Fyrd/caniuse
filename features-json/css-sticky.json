@@ -55,8 +55,8 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"y",
-      "17":"y"
+      "16":"a #6",
+      "17":"a #6"
     },
     "firefox":{
       "2":"n",
@@ -334,7 +334,8 @@
     "2":"Enabled through the \"experimental Web Platform features\" flag",
     "3":"Not supported on any `table` parts - See [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=975644)",
     "4":"Supported on `th` elements, but not `thead` or `tr` - See [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=702927)",
-    "5":"Do not appear to support sticky table headers"
+    "5":"Do not appear to support sticky table headers",
+    "6":"Supported on `th` elements, but not `thead` or `tr` - See [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16765952/)"
   },
   "usage_perc_y":17.79,
   "usage_perc_a":68.39,
