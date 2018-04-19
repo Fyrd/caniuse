@@ -309,7 +309,7 @@
   "notes_by_num":{
     "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](http://davidbcalhoun.com/2010/using-navigator-connection-android/)",
     "2":"Only supports the `type` value.",
-    "3":"Only supports the `type` and `downloadMax` values.",
+    "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
   "usage_perc_y":0,
