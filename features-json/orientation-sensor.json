@@ -1,6 +1,6 @@
 {
   "title":"Orientation Sensor",
-  "description":"Defines a base orientation sensor interface and concrete sensor subclasses to monitor the device’s physical orientation in relation to a stationary three dimensional Cartesian coordinate system.",
+  "description":"Defines a base orientation sensor interface and concrete sensor subclasses to monitor the device\u2019s physical orientation in relation to a stationary three dimensional Cartesian coordinate system.",
   "spec":"https://www.w3.org/TR/orientation-sensor/",
   "status":"cr",
   "links":[
@@ -312,8 +312,8 @@
   "notes_by_num":{
     "1":"Available by enabling the \"Generic Sensor\" experimental flag in `about:flags`"
   },
-  "usage_perc_y":2.07,
-  "usage_perc_a":5.04,
+  "usage_perc_y":0.02,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

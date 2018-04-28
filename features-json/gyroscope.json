@@ -1,6 +1,6 @@
 {
   "title":"Gyroscope",
-  "description":"Defines a concrete sensor interface to monitor the rate of rotation around the device’s local three primary axes.",
+  "description":"Defines a concrete sensor interface to monitor the rate of rotation around the device\u2019s local three primary axes.",
   "spec":"https://www.w3.org/TR/gyroscope/",
   "status":"cr",
   "links":[
@@ -312,8 +312,8 @@
   "notes_by_num":{
     "1":"Available by enabling the \"Generic Sensor\" experimental flag in `about:flags`"
   },
-  "usage_perc_y":2.07,
-  "usage_perc_a":5.04,
+  "usage_perc_y":0.02,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
@@ -321,5 +321,5 @@
   "chrome_id":"5698781827825664",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }
