@@ -47,8 +47,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n",
-      "18":"a #4"
+      "17":"n d #4 #5",
+      "18":"a #6"
     },
     "firefox":{
       "2":"n",
@@ -326,7 +326,9 @@
     "1":"Partial support in WebKit/Blink browsers refers to supporting the mask-image and mask-box-image properties, but lacking support for other parts of the spec.",
     "2":"Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo).",
     "3":"Partial support refers to supporting the mask-box-image shorthand but not the longhand properties",
-    "4":"Partial support refers to supporting mask-image, mask-size, mask-position, and the mask shorthand"
+    "4":"Can be enabled in MS edge behind the \"Enable CSS Masking\" flag.",
+    "5":"Partial support refers to supporting mask-image and mask-size"
+    "6":"Partial support refers to supporting mask-image, mask-size, mask-position, and the mask shorthand"
   },
   "usage_perc_y":4.19,
   "usage_perc_a":85.87,
