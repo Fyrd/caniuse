@@ -39,8 +39,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"y",
-      "18":"y"
+      "17":"a #4",
+      "18":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -317,7 +317,8 @@
   "notes_by_num":{
     "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported).",
     "2":"Can be enabled via the \"Experimental Features\" developer menu",
-    "3":"Disabled by default behind the `network.preload` flag."
+    "3":"Disabled by default behind the `network.preload` flag.",
+    "4":"Partial support in Edge 17+ refers to support for only the HTML `<link rel>` format, not the HTTP header format."
   },
   "usage_perc_y":61.43,
   "usage_perc_a":0.37,
