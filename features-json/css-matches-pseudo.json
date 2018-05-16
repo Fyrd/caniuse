@@ -181,11 +181,11 @@
       "62":"a x #1",
       "63":"a x #1",
       "64":"a x #1",
-      "65":"a x #1",
-      "66":"a x #1",
-      "67":"a x #1",
-      "68":"a x #1",
-      "69":"a x #1"
+      "65":"a d #1 #4",
+      "66":"a d #1 #4",
+      "67":"a d #1 #4",
+      "68":"a d #1 #4",
+      "69":"a d #1 #4"
     },
     "safari":{
       "3.1":"n",
@@ -255,7 +255,7 @@
       "49":"a x #1",
       "50":"a x #1",
       "51":"a x #1",
-      "52":"a x #1"
+      "52":"a d #1 #4"
     },
     "ios_saf":{
       "3.2":"u",
@@ -302,7 +302,7 @@
       "37":"a x #1"
     },
     "and_chr":{
-      "66":"a x #1"
+      "66":"a d #1 #4"
     },
     "and_ff":{
       "57":"a x #3"
@@ -330,7 +330,8 @@
   "notes_by_num":{
     "1":"Only supports the `:-webkit-any()` pseudo-class, which is deprecated due to handling specificity incorrectly.",
     "2":"Also supports the `:-webkit-any()` pseudo-class, which is deprecated due to handling specificity incorrectly.",
-    "3":"Only supports the `:-moz-any()` pseudo-class."
+    "3":"Only supports the `:-moz-any()` pseudo-class.",
+    "4":"Support for ':matches()' is available behind the \"Experimental Web Platform features\" flag"
   },
   "usage_perc_y":11.8,
   "usage_perc_a":77.38,
