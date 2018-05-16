@@ -311,7 +311,7 @@
   "notes":"Partial support refers to the doNotTrack field being misnamed, or being attached to an object other than `navigator` (e.g. `window`).",
   "notes_by_num":{
     "1":"IE 9 and 10 are vendor-prefixed as `navigator.msDoNotTrack`",
-    "2":"IE 11 and Edge use `window.doNotTrack` instead of `navigator.doNotTrack`.",
+    "2":"IE 11 and Edge 16- use `window.doNotTrack` instead of `navigator.doNotTrack`.",
     "3":"Browsers based on Gecko versions prior to 32 used 'yes' and 'no' rather than '1' and '0'.",
     "4":"Between versions 6.1.1 and 9.1.3, Safari supported an ultimately-rejected amendment to the spec, using `window.doNotTrack` rather than `navigator.doNotTrack`."
   },
