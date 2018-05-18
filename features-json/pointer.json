@@ -260,7 +260,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -291,7 +292,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "62":"y"
+      "66":"y"
     },
     "bb":{
       "7":"p",
@@ -304,7 +305,7 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "37":"p"
+      "46":"y"
     },
     "and_chr":{
       "66":"y"
@@ -337,7 +338,7 @@
     "2":"Firefox support is disabled by default and [only supports mouse input](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/). On Windows only, touch can be enabled with the `layers.async-pan-zoom.enabled` and `dom.w3c_touch_events.enabled` flags",
     "3":"Can be enabled with the `#enable-pointer-events` flag."
   },
-  "usage_perc_y":67.85,
+  "usage_perc_y":67.86,
   "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",

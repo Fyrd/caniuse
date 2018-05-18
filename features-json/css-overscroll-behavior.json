@@ -251,7 +251,8 @@
       "49":"n",
       "50":"a #2",
       "51":"a #2",
-      "52":"a #2"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -282,7 +283,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "66":"y"
     },
     "bb":{
       "7":"n",
@@ -295,10 +296,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "66":"a #2"
+      "66":"y"
     },
     "and_ff":{
       "60":"n"
@@ -327,8 +328,8 @@
     "1":"Supports the precursor version of the property: [`-ms-scroll-chaining`](https://msdn.microsoft.com/en-us/library/hh772034%28v=vs.85%29.aspx), which works similarly. IE support is limited to Windows 8 & above",
     "2":"Does not support `overscroll-behavior: none;` on the body element to prevent the overscroll glow and rubberbanding effects."
   },
-  "usage_perc_y":27.88,
-  "usage_perc_a":37.07,
+  "usage_perc_y":58.6,
+  "usage_perc_a":6.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",

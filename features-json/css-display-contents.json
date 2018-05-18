@@ -249,7 +249,8 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -280,7 +281,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "66":"y"
     },
     "bb":{
       "7":"n",
@@ -293,10 +294,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "66":"n"
+      "66":"y"
     },
     "and_ff":{
       "60":"y"
@@ -324,7 +325,7 @@
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
   },
-  "usage_perc_y":34.73,
+  "usage_perc_y":64.66,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

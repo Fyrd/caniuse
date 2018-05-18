@@ -239,7 +239,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -270,7 +271,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"y"
+      "66":"y"
     },
     "bb":{
       "7":"n",
@@ -283,7 +284,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a #1"
+      "46":"y"
     },
     "and_chr":{
       "66":"y"
@@ -315,8 +316,8 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":72.53,
-  "usage_perc_a":3.81,
+  "usage_perc_y":72.54,
+  "usage_perc_a":3.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",
