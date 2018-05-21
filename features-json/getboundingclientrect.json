@@ -32,19 +32,19 @@
       "5.5":"a #1 #3",
       "6":"a #1 #3",
       "7":"a #1 #3",
-      "8":"a #1 #3",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "8":"a #1 #3 #5",
+      "9":"a #5",
+      "10":"a #5",
+      "11":"a #5"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "12":"a #5",
+      "13":"a #5",
+      "14":"a #5",
+      "15":"a #5",
+      "16":"a #5",
+      "17":"a #5",
+      "18":"a #5"
     },
     "firefox":{
       "2":"n",
@@ -324,7 +324,8 @@
     "1":"The returned object lacks `width` and `height` properties.",
     "2":"Returns incorrect values for elements which have had CSS `transform`s applied to them.",
     "3":"The returned object cannot have new properties added to it; it's not extensible.",
-    "4":"Existing properties of the returned object are immutable."
+    "4":"Existing properties of the returned object are immutable.",
+    "5":"Partial support by Internet Explorer/Edge due to lack of .x and .y property support."
   },
   "usage_perc_y":97.37,
   "usage_perc_a":0.33,
