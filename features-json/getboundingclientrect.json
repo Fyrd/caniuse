@@ -32,19 +32,19 @@
       "5.5":"a #1 #3",
       "6":"a #1 #3",
       "7":"a #1 #3",
-      "8":"a #1 #3",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "8":"a #1 #3 #5",
+      "9":"y #5",
+      "10":"y #5",
+      "11":"y #5"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "12":"y #5",
+      "13":"y #5",
+      "14":"y #5",
+      "15":"y #5",
+      "16":"y #5",
+      "17":"y #5",
+      "18":"y #5"
     },
     "firefox":{
       "2":"n",
@@ -301,8 +301,8 @@
       "60":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"y #5",
+      "11":"y #5"
     },
     "and_uc":{
       "11.8":"y"
@@ -324,7 +324,8 @@
     "1":"The returned object lacks `width` and `height` properties.",
     "2":"Returns incorrect values for elements which have had CSS `transform`s applied to them.",
     "3":"The returned object cannot have new properties added to it; it's not extensible.",
-    "4":"Existing properties of the returned object are immutable."
+    "4":"Existing properties of the returned object are immutable.",
+    "5":"The returned object lacks `x` & `y` values, though existing `top` & `left` values can be used instead."
   },
   "usage_perc_y":97.37,
   "usage_perc_a":0.33,
