@@ -310,9 +310,9 @@
       "7.12":"n"
     }
   },
-  "notes":"Standard support includes the HTTP header (`Feature Policy`) and corresponding JS API.",
+  "notes":"Standard support includes the HTTP header (`Feature Policy`), `allow` attribute on iframes, and corresponding JS API.",
   "notes_by_num":{
-    "1":"Supported through the `Feature-Policy` header. JS API support is available in Chrome 64+ by enabling the \"Experimental Web Platform features\" feature flag in under about:flags."
+    "1":"Supported through the `Feature-Policy` header and `allow` attribute on iframes. JS API support is available in Chrome 64+ by enabling the \"Experimental Web Platform features\" feature flag in under about:flags."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
