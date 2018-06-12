@@ -10,12 +10,12 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
-    "Security",
+    "JS API",
     "Other",
-    "JS API"
+    "Security"
   ],
   "stats":{
     "ie":{
@@ -315,7 +315,7 @@
     "1":"Supported through the `Feature-Policy` header and `allow` attribute on iframes. JS API support is available in Chrome 64+ by enabling the \"Experimental Web Platform features\" feature flag in under about:flags."
   },
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":57.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header",
@@ -323,5 +323,5 @@
   "chrome_id":"5694225681219584",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }
