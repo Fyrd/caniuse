@@ -1,6 +1,6 @@
 {
   "title":"String.prototype.padStart(), String.prototype.padEnd()",
-  "description":"The padStart() and padEnd() methods pads the current string with a given string (eventually repeated) so that the resulting string reaches a given length. The pad is applied from the start (left) of the current string for padStart(), and applied from the end (right) of the current string for padEnd().",
+  "description":"The `padStart()` and `padEnd()` methods pad the current string with a given string (eventually repeated) so that the resulting string reaches a given length. The pad is applied from the start (left) of the current string for `padStart()`, and applied from the end (right) of the current string for `padEnd()`.",
   "spec":"https://www.ecma-international.org/ecma-262/8.0/index.html#sec-string.prototype.padend",
   "status":"other",
   "links":[
@@ -260,7 +260,7 @@
       "11.3":"y"
     },
     "op_mini":{
-      "all":"u"
+      "all":"n"
     },
     "android":{
       "2.1":"n",
@@ -272,11 +272,11 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "66":"u"
+      "66":"y"
     },
     "bb":{
       "7":"n",
-      "10":"u"
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -285,13 +285,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"u"
+      "46":"y"
     },
     "and_chr":{
-      "66":"n"
+      "66":"y"
     },
     "and_ff":{
-      "60":"n"
+      "60":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -316,14 +316,14 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":45.2,
+  "usage_perc_y":75.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"pad,pad start,pad end",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5694172086403072",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
