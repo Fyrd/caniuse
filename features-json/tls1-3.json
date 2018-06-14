@@ -95,7 +95,7 @@
       "49":"n",
       "50":"n",
       "51":"n d",
-      "52":"y",
+      "52":"a #3",
       "53":"y",
       "54":"y",
       "55":"y",
@@ -319,10 +319,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled by setting \"TLS 1.3\" to \"Enabled (Draft)\" at `chrome://flags/tls13-variant`.",
-    "2":"Can be enabled by setting \"Maximum TLS version enabled\" to \"TLS 1.3\"at `chrome://flags/`. Support is reported to have be currently enabled as of version 56 for 1/10th of all users."
+    "2":"Can be enabled by setting \"Maximum TLS version enabled\" to \"TLS 1.3\"at `chrome://flags/`. Support is reported to have be currently enabled as of version 56 for 1/10th of all users.",
+    "3":"Enabled on the regular version of Firefox 53, but [not the ESR version](https://groups.google.com/forum/#!topic/mozilla.dev.platform/sfeqeMkyxCI)."
   },
-  "usage_perc_y":64.09,
-  "usage_perc_a":0,
+  "usage_perc_y":63.66,
+  "usage_perc_a":0.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

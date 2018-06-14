@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome & Safari do not support -webkit-text-stroke in the `::first-letter` pseudo-element."
+    }
   ],
   "categories":[
     "CSS"
