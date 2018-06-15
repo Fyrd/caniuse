@@ -1,8 +1,8 @@
 {
-  "title":"CSS3 Cursors: grab & grabbing",
-  "description":"Support for `grab`, `grabbing` values for the CSS3 `cursor` property.",
+  "title":"CSS grab & grabbing cursors",
+  "description":"Support for the `grab` & `grabbing` values for the `cursor` property. Used to indicate that something can be grabbed (dragged to be moved).",
   "spec":"https://www.w3.org/TR/css3-ui/#cursor",
-  "status":"cr",
+  "status":"pr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/cursor",
@@ -29,10 +29,10 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n"
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"y x",
@@ -164,8 +164,8 @@
       "65":"y x",
       "66":"y x",
       "67":"y x",
-      "68":"y x",
-      "69":"y x"
+      "68":"y",
+      "69":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -182,10 +182,10 @@
       "9.1":"y x",
       "10":"y x",
       "10.1":"y x",
-      "11":"y x",
-      "11.1":"y x",
-      "12":"y x",
-      "TP":"y x"
+      "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -268,7 +268,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "66":"n"
+      "66":"y"
     },
     "bb":{
       "7":"y x",
@@ -281,10 +281,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "46":"y x"
     },
     "and_chr":{
-      "66":"n"
+      "66":"y x"
     },
     "and_ff":{
       "60":"n"
@@ -312,14 +312,14 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":37.56,
+  "usage_perc_y":69.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"cursors, pointers, grab, grabbing",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
