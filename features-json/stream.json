@@ -20,6 +20,9 @@
   "bugs":[
     {
       "description":"Until version 12.16, Opera supported [video context only](http://my.opera.com/community/forums/topic.dml?id=1528992)."
+    },
+    {
+      "description":"getUserMedia() is not supported by default in Android webviews, such as Facebook or Snapchat in-app browsers."
     }
   ],
   "categories":[
