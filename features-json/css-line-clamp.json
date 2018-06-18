@@ -35,8 +35,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n",
-      "18":"n"
+      "17":"y #1",
+      "18":"y #1"
     },
     "firefox":{
       "2":"n",
@@ -314,7 +314,7 @@
   },
   "notes":"As there is no specification and the property is dependent on an outdated implementation of flexbox (hence `display: -webkit-box`) it is unlikely that other browsers will support the property as-is, although an alternative solution may at some point replace it.\r\n\r\nOlder (presto-based) versions of the Opera browser have also supported the same effect using the proprietary `-o-ellipsis-lastline;` value for `text-overflow`.",
   "notes_by_num":{
-    
+    "1":"Supported in MS Edge with `-webkit-` prefix only (not with `-ms-`)"
   },
   "usage_perc_y":84.39,
   "usage_perc_a":0,
