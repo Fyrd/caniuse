@@ -319,7 +319,7 @@
   "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
   "notes_by_num":{
     "1":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients.",
-    "2":"Partial support in Safari refers to it not using premultiplied colors which results in unexpected behavior when using the keyword transparent."
+    "2":"Partial support in Safari refers to not using premultiplied colors which results in unexpected behavior when using the transparent keywoard as advised by the spec."
   },
   "usage_perc_y":94.6,
   "usage_perc_a":0.07,
