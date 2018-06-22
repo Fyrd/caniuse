@@ -178,22 +178,22 @@
     "safari":{
       "3.1":"n",
       "3.2":"n",
-      "4":"a x",
-      "5":"a x",
-      "5.1":"y x",
-      "6":"y x",
-      "6.1":"y",
-      "7":"y",
-      "7.1":"y",
-      "8":"y",
-      "9":"y",
-      "9.1":"y",
-      "10":"y",
-      "10.1":"y",
-      "11":"y",
-      "11.1":"y",
-      "12":"y",
-      "TP":"y"
+      "4":"a x #2",
+      "5":"a x #2",
+      "5.1":"a x #2",
+      "6":"a x #2",
+      "6.1":"a #2",
+      "7":"a #2",
+      "7.1":"a #2",
+      "8":"a #2",
+      "9":"a #2",
+      "9.1":"a #2",
+      "10":"a #2",
+      "10.1":"a #2",
+      "11":"a #2",
+      "11.1":"a #2",
+      "12":"a #2",
+      "TP":"a #2"
     },
     "opera":{
       "9":"n",
@@ -248,20 +248,20 @@
       "53":"y"
     },
     "ios_saf":{
-      "3.2":"a x",
-      "4.0-4.1":"a x",
-      "4.2-4.3":"a x",
-      "5.0-5.1":"y x",
-      "6.0-6.1":"y x",
-      "7.0-7.1":"y",
-      "8":"y",
-      "8.1-8.4":"y",
-      "9.0-9.2":"y",
-      "9.3":"y",
-      "10.0-10.2":"y",
-      "10.3":"y",
-      "11.0-11.2":"y",
-      "11.3":"y"
+      "3.2":"a x #2",
+      "4.0-4.1":"a x #2",
+      "4.2-4.3":"a x #2",
+      "5.0-5.1":"a x #2",
+      "6.0-6.1":"a x #2",
+      "7.0-7.1":"a #2",
+      "8":"a #2",
+      "8.1-8.4":"a #2",
+      "9.0-9.2":"a #2",
+      "9.3":"a #2",
+      "10.0-10.2":"a #2",
+      "10.3":"a #2",
+      "11.0-11.2":"a #2",
+      "11.3":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -318,7 +318,8 @@
   },
   "notes":"Syntax used by browsers with prefixed support may be incompatible with that for proper support.\r\n\r\nSupport can be somewhat emulated in older IE versions using the non-standard \"gradient\" filter. \r\n\r\nFirefox 10+, Opera 11.6+, Chrome 26+ and IE10+ also support the new \"to (side)\" syntax.",
   "notes_by_num":{
-    "1":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients."
+    "1":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients.",
+    "2":"Partial support in Safari refers to not using premultiplied colors which results in unexpected behavior when using the transparent keywoard as advised by the [spec](https://www.w3.org/TR/2012/CR-css3-images-20120417/#color-stop-syntax)."
   },
   "usage_perc_y":94.6,
   "usage_perc_a":0.07,
