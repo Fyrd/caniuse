@@ -5,10 +5,6 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://developer.mozilla.org//docs/Web/API/SpeechSynthesis",
-      "title":"MDN article"
-    },
-    {
       "url":"http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API",
       "title":"HTML5Rocks article"
     },
@@ -23,6 +19,10 @@
     {
       "url":"http://zenorocha.github.io/voice-elements/",
       "title":"Advanced demo and resource"
+    },
+    {
+      "url":"https://developer.mozilla.org//docs/Web/API/SpeechSynthesis",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -183,7 +183,8 @@
       "66":"y #2",
       "67":"y #2",
       "68":"y #2",
-      "69":"y #2"
+      "69":"y #2",
+      "70":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -286,7 +287,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "66":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -302,7 +303,7 @@
       "46":"n"
     },
     "and_chr":{
-      "66":"y"
+      "67":"y"
     },
     "and_ff":{
       "60":"n"

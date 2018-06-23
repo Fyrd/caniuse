@@ -5,8 +5,12 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://msdn.microsoft.com/en-us/library/dn369270(v=vs.85).aspx",
+      "url":"https://msdn.microsoft.com/en-us/ie/dn369270(v=vs.94)",
       "title":"lazyload attribute | lazyload property"
+    },
+    {
+      "url":"https://github.com/whatwg/html/issues/2806",
+      "title":"Discussion on standardization"
     }
   ],
   "bugs":[
@@ -165,7 +169,8 @@
       "66":"n",
       "67":"n",
       "68":"n",
-      "69":"n"
+      "69":"n",
+      "70":"n"
     },
     "safari":{
       "3.1":"n",
@@ -268,7 +273,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "66":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -284,7 +289,7 @@
       "46":"n"
     },
     "and_chr":{
-      "66":"n"
+      "67":"n"
     },
     "and_ff":{
       "60":"n"
