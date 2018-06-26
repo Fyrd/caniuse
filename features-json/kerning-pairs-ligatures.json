@@ -1,6 +1,6 @@
 {
-  "title":"Improved kerning pairs & ligatures",
-  "description":"Currently non-standard method of improving kerning pairs & ligatures using `text-rendering: optimizeLegibility`.",
+  "title":"High-quality kerning pairs & ligatures",
+  "description":"Modern browsers enable high-quality kerning and ligatures for all text, or support the legacy text-rendering property (this property has no effect in the latest version of all browsers but used to allow improving kerning pairs & ligatures using `text-rendering: optimizeLegibility`).",
   "spec":"https://www.w3.org/TR/SVG11/painting.html#TextRenderingProperty",
   "status":"unoff",
   "links":[
@@ -36,7 +36,7 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"y"
     },
     "firefox":{
       "2":"n",
