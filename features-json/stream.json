@@ -15,6 +15,10 @@
     {
       "url":"https://blogs.windows.com/msedgedev/2015/05/13/announcing-media-capture-functionality-in-microsoft-edge/",
       "title":"Media Capture functionality in Microsoft Edge"
+    },
+    {
+      "url":"https://stackoverflow.com/questions/50800696/getusermedia-in-pwa-with-manifest-on-ios-11",
+      "title":"getUserMedia in PWA with manifest on iOS 11"
     }
   ],
   "bugs":[
@@ -23,6 +27,9 @@
     },
     {
       "description":"getUserMedia() is not supported by default in Android webviews, such as Facebook or Snapchat in-app browsers."
+    },
+    {
+      "description":"getUserMedia() is not supported in iOS PWAs."
     }
   ],
   "categories":[
