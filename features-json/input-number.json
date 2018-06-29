@@ -55,17 +55,17 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y #1",
-      "11":"y #1"
+      "10":"a #1 #5",
+      "11":"a #1 #5"
     },
     "edge":{
-      "12":"y #1",
-      "13":"y #1",
-      "14":"y #4",
-      "15":"y #4",
-      "16":"y #4",
-      "17":"y #4",
-      "18":"y #4"
+      "12":"a #1 #5",
+      "13":"a #1 #5",
+      "14":"a #4 #5",
+      "15":"a #4 #5",
+      "16":"a #4 #5",
+      "17":"a #4 #5",
+      "18":"a #4 #5"
     },
     "firefox":{
       "2":"n",
@@ -348,7 +348,8 @@
     "1":"UI widget does not include increment/decrement buttons.",
     "2":"UI widget does not take the \"step\", \"min\" or \"max\" attributes into account.",
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
-    "4":"Does not include increment/decrement buttons, but does supports increment/decrement via arrow up & down keys."
+    "4":"Does not include increment/decrement buttons, but does supports increment/decrement via arrow up & down keys.",
+    "5":"Partial support in IE and Edge refers to still allow alphabetic characters to be typed. See [bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10792541/)"
   },
   "usage_perc_y":42.2,
   "usage_perc_a":52.33,
