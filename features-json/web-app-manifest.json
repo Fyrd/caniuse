@@ -93,11 +93,11 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"n",
-      "59":"n",
-      "60":"n",
-      "61":"n",
-      "62":"n"
+      "58":"a #2",
+      "59":"a #2",
+      "60":"a #2",
+      "61":"a #2",
+      "62":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -312,7 +312,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"On Windows, Chrome will read the manifest to generate a desktop icon when selecting the \"Add to desktop...\" option."
+    "1":"On Windows, Chrome will read the manifest to generate a desktop icon when selecting the \"Add to desktop...\" option.",
+    "2":"The installation events, appinstalled and beforeinstallprompt, are not supported on all platforms."
   },
   "usage_perc_y":47.8,
   "usage_perc_a":28.37,
