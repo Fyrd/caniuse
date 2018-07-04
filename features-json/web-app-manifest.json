@@ -31,8 +31,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"y",
-      "18":"y"
+      "17":"a #1",
+      "18":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -163,10 +163,10 @@
       "64":"a #1",
       "65":"a #1",
       "66":"a #1",
-      "67":"a #1",
-      "68":"a #1",
-      "69":"a #1",
-      "70":"a #1"
+      "67":"a #2",
+      "68":"a #2",
+      "69":"a #2",
+      "70":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -312,7 +312,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"On Windows, Chrome will read the manifest to generate a desktop icon when selecting the \"Add to desktop...\" option."
+    "1":"The installation events, appinstalled and beforeinstallprompt, are not supported.",
+    "2":"The installation events, appinstalled and beforeinstallprompt, are not supported on all platforms."
   },
   "usage_perc_y":47.8,
   "usage_perc_a":28.37,
