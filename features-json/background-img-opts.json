@@ -273,7 +273,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -335,8 +336,8 @@
     "2":"Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
     "3":"Does not support `background-size` values in the `background` shorthand"
   },
-  "usage_perc_y":94.4,
-  "usage_perc_a":3.08,
+  "usage_perc_y":94.02,
+  "usage_perc_a":2.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

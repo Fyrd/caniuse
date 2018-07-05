@@ -264,7 +264,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -328,8 +329,8 @@
     "4":"Does not support the `font-weight` and `font-stretch` properties.",
     "5":"Does not support `format('truetype-variations')`, `format('woff-variations')`, `format('woff2-variations')`"
   },
-  "usage_perc_y":64.11,
-  "usage_perc_a":3.57,
+  "usage_perc_y":68.21,
+  "usage_perc_a":1.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"variable fonts, variation fonts, font variations",

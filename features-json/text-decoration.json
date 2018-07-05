@@ -274,7 +274,8 @@
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
       "11.0-11.2":"a x #2",
-      "11.3":"a x #2"
+      "11.3-11.4":"a x #2",
+      "12":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -339,7 +340,7 @@
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
   "usage_perc_y":0.17,
-  "usage_perc_a":83.39,
+  "usage_perc_a":83.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",

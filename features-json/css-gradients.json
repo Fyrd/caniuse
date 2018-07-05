@@ -262,7 +262,8 @@
       "10.0-10.2":"a #2",
       "10.3":"a #2",
       "11.0-11.2":"a #2",
-      "11.3":"a #2"
+      "11.3-11.4":"a #2",
+      "12":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -323,8 +324,8 @@
     "1":"Partial support in Opera 11.10 and 11.50 also refers to only having support for linear gradients.",
     "2":"Partial support in Safari refers to not using premultiplied colors which results in unexpected behavior when using the transparent keyword as advised by the [spec](https://www.w3.org/TR/2012/CR-css3-images-20120417/#color-stop-syntax)."
   },
-  "usage_perc_y":82.53,
-  "usage_perc_a":12.13,
+  "usage_perc_y":82.15,
+  "usage_perc_a":12.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

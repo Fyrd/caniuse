@@ -262,7 +262,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -322,8 +323,8 @@
   "notes_by_num":{
     "1":"Does not match non-required `<select>`s"
   },
-  "usage_perc_y":94.53,
-  "usage_perc_a":2.75,
+  "usage_perc_y":94.11,
+  "usage_perc_a":2.52,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":":optional,optional,:required,required",

@@ -254,7 +254,8 @@
       "10.0-10.2":"y x",
       "10.3":"y x",
       "11.0-11.2":"y x",
-      "11.3":"y x"
+      "11.3-11.4":"y x",
+      "12":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -314,7 +315,7 @@
   "notes_by_num":{
     "1":"Disabled by default, can be enabled using preference layout.css.font-features.enabled - defaulting to true on Nightly and Aurora only."
   },
-  "usage_perc_y":88.95,
+  "usage_perc_y":88.55,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

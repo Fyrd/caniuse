@@ -258,7 +258,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -324,8 +325,8 @@
     "6":"Firefox 38 on Android is missing the child-src directive.",
     "7":"Firefox 45+ is missing the plugin-types directive."
   },
-  "usage_perc_y":75.25,
-  "usage_perc_a":5.24,
+  "usage_perc_y":75.66,
+  "usage_perc_a":5.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,header,nonce,hash",

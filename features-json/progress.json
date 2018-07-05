@@ -266,7 +266,8 @@
       "10.0-10.2":"a #1",
       "10.3":"a #1",
       "11.0-11.2":"a #1",
-      "11.3":"a #1"
+      "11.3-11.4":"a #1",
+      "12":"a #1"
     },
     "op_mini":{
       "all":"y"
@@ -326,8 +327,8 @@
   "notes_by_num":{
     "1":"iOS Safari does not support \"indeterminate\" <progress> elements."
   },
-  "usage_perc_y":87.29,
-  "usage_perc_a":9.66,
+  "usage_perc_y":86.63,
+  "usage_perc_a":9.69,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"#progressmeter,<progress>",

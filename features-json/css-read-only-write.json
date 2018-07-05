@@ -270,7 +270,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -330,8 +331,8 @@
   "notes_by_num":{
     "1":"Supports selector only for input and textarea fields, but not for contenteditable"
   },
-  "usage_perc_y":89.72,
-  "usage_perc_a":1.87,
+  "usage_perc_y":89.15,
+  "usage_perc_a":2.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,selector,read-only,read-write",

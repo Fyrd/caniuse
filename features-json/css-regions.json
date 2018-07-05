@@ -266,7 +266,8 @@
       "10.0-10.2":"y x",
       "10.3":"y x",
       "11.0-11.2":"y x",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -327,8 +328,8 @@
     "1":"Support is limited to using an iframe as a content source with the `-ms-flow-into: flow_name;` and `-ms-flow-from: flow_name;` syntax.",
     "2":"Partial support refers to not supporting the `region-fragment` property."
   },
-  "usage_perc_y":4.67,
-  "usage_perc_a":4.89,
+  "usage_perc_y":3.87,
+  "usage_perc_a":4.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

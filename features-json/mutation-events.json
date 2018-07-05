@@ -254,7 +254,8 @@
       "10.0-10.2":"a #1",
       "10.3":"a #1",
       "11.0-11.2":"a #1",
-      "11.3":"a #1"
+      "11.3-11.4":"a #1",
+      "12":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -316,7 +317,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.05,
-  "usage_perc_a":94.64,
+  "usage_perc_a":94.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

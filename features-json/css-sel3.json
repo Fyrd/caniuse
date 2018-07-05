@@ -277,7 +277,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"y"
@@ -337,7 +338,7 @@
   "notes_by_num":{
     "1":"IE7 and IE8 support only these CSS3 selectors: General siblings (`element1~element2`) and Attribute selectors `[attr^=val]`, `[attr$=val]`, and `[attr*=val]`"
   },
-  "usage_perc_y":97.5,
+  "usage_perc_y":96.89,
   "usage_perc_a":0.19,
   "ucprefix":false,
   "parent":"",

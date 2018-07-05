@@ -262,7 +262,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -323,7 +324,7 @@
     "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
   },
-  "usage_perc_y":62.7,
+  "usage_perc_y":63.48,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -287,7 +287,8 @@
       "10.0-10.2":"p",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -351,8 +352,8 @@
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))",
     "5":"Enabled in Edge through the \"Enable Unprefixed CSS Grid Layout\" flag in about:flags"
   },
-  "usage_perc_y":84.9,
-  "usage_perc_a":3.22,
+  "usage_perc_y":84.53,
+  "usage_perc_a":3.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid,fr unit,fractional unit",

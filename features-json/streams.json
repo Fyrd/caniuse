@@ -262,7 +262,8 @@
       "10.0-10.2":"u",
       "10.3":"a #4",
       "11.0-11.2":"a #4",
-      "11.3":"a #4"
+      "11.3-11.4":"a #4",
+      "12":"a #4"
     },
     "op_mini":{
       "all":"n"
@@ -328,7 +329,7 @@
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
   "usage_perc_y":0,
-  "usage_perc_a":71.38,
+  "usage_perc_a":72.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

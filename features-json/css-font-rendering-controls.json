@@ -266,7 +266,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -327,7 +328,7 @@
     "1":"Can be enabled via the \"Experimental Web Platform features\" flag",
     "2":"Can be enabled in Firefox through the `layout.css.font-display.enabled` flag at about:config"
   },
-  "usage_perc_y":68.8,
+  "usage_perc_y":70.33,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

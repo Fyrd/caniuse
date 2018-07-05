@@ -268,7 +268,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -329,8 +330,8 @@
     "1":"Partial support refers to lacking `cancelAnimationFrame` support.",
     "2":"Supports `webkitCancelRequestAnimationFrame` rather than `webkitCancelAnimationFrame`."
   },
-  "usage_perc_y":94.09,
-  "usage_perc_a":0.13,
+  "usage_perc_y":93.69,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

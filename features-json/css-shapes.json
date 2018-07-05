@@ -258,7 +258,8 @@
       "10.0-10.2":"y x",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -319,7 +320,7 @@
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partially supported in Firefox by enabling \"layout.css.shape-outside.enabled\" in about:config"
   },
-  "usage_perc_y":82.63,
+  "usage_perc_y":82.21,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

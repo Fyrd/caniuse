@@ -267,7 +267,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n d #4",
-      "11.3":"n d #4"
+      "11.3-11.4":"n d #4",
+      "12":"n d #4"
     },
     "op_mini":{
       "all":"n"
@@ -330,8 +331,8 @@
     "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)",
     "4":"Can be enabled via the \"Experimental Features\" developer menu"
   },
-  "usage_perc_y":3.85,
-  "usage_perc_a":72.01,
+  "usage_perc_y":3.79,
+  "usage_perc_a":71.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

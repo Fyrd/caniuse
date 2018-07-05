@@ -263,7 +263,8 @@
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
       "11.0-11.2":"a x #2",
-      "11.3":"a x #2"
+      "11.3-11.4":"a x #2",
+      "12":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -324,8 +325,8 @@
     "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
     "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
   },
-  "usage_perc_y":4.99,
-  "usage_perc_a":84.78,
+  "usage_perc_y":4.9,
+  "usage_perc_a":84.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"margin-start,margin-end,padding-start,padding-end,border-start,border-end,inline-start,inline-end,block-start,block-end,block-size,inline-size",

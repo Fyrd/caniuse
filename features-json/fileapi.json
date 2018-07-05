@@ -262,7 +262,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -323,8 +324,8 @@
     "1":"Does not have `FileReader` support. ",
     "2":"Does not support the `File` constructor"
   },
-  "usage_perc_y":87.39,
-  "usage_perc_a":7.22,
+  "usage_perc_y":86.95,
+  "usage_perc_a":7.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

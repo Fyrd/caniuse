@@ -268,7 +268,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"a #2"
@@ -329,8 +330,8 @@
     "1":"Partial support refers to requiring the second parameter to be included.",
     "2":"Partial support refers to not supporting getComputedStyle on pseudo-elements."
   },
-  "usage_perc_y":94.76,
-  "usage_perc_a":2.76,
+  "usage_perc_y":94.36,
+  "usage_perc_a":2.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

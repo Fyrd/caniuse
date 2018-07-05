@@ -256,7 +256,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"u"
+      "11.3-11.4":"u",
+      "12":"u"
     },
     "op_mini":{
       "all":"n"
@@ -318,7 +319,7 @@
     "2":"Only supports the `allow` attribute on iframes"
   },
   "usage_perc_y":0,
-  "usage_perc_a":59.06,
+  "usage_perc_a":60,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header",

@@ -316,7 +316,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"y"
@@ -379,7 +380,7 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":93.84,
+  "usage_perc_y":93.2,
   "usage_perc_a":3.47,
   "ucprefix":false,
   "parent":"",

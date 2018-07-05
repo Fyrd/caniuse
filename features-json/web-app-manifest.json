@@ -254,7 +254,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -314,8 +315,8 @@
   "notes_by_num":{
     "1":"On Windows, Chrome will read the manifest to generate a desktop icon when selecting the \"Add to desktop...\" option."
   },
-  "usage_perc_y":47.8,
-  "usage_perc_a":28.37,
+  "usage_perc_y":49.35,
+  "usage_perc_a":27.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa",
