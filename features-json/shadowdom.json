@@ -47,7 +47,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -109,9 +110,11 @@
       "56":"n d #1",
       "57":"n d #1",
       "58":"n d #1",
-      "59":"n d #1",
-      "60":"n d #1",
-      "61":"n d #1"
+      "59":"n d #2",
+      "60":"n d #2",
+      "61":"n d #2",
+      "62":"n d #2",
+      "63":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -177,7 +180,10 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"n",
@@ -196,6 +202,7 @@
       "10.1":"n",
       "11":"n",
       "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -247,7 +254,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -263,7 +271,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -278,7 +287,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "62":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -291,13 +300,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "64":"y"
+      "67":"y"
     },
     "and_ff":{
-      "57":"n"
+      "60":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -309,7 +318,8 @@
     "samsung":{
       "4":"y x",
       "5":"y",
-      "6.2":"y"
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -320,16 +330,17 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag."
+    "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag.",
+    "2":"Supported in Firefox behind the `dom.webcomponents.shadowdom.enabled` flag."
   },
-  "usage_perc_y":71.73,
+  "usage_perc_y":71.7,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components",
-  "ie_id":"shadowdom",
+  "ie_id":"",
   "chrome_id":"4507242028072960",
-  "firefox_id":"shadow-dom",
-  "webkit_id":"feature-shadow-dom",
+  "firefox_id":"",
+  "webkit_id":"",
   "shown":true
 }

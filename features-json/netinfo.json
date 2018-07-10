@@ -32,7 +32,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -96,7 +97,9 @@
       "58":"n",
       "59":"n",
       "60":"n",
-      "61":"n"
+      "61":"n",
+      "62":"n",
+      "63":"n"
     },
     "chrome":{
       "4":"n",
@@ -162,7 +165,10 @@
       "64":"a #4",
       "65":"a #4",
       "66":"a #4",
-      "67":"a #4"
+      "67":"a #4",
+      "68":"a #4",
+      "69":"a #4",
+      "70":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -181,6 +187,7 @@
       "10.1":"n",
       "11":"n",
       "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -232,7 +239,8 @@
       "49":"a #4",
       "50":"a #4",
       "51":"a #4",
-      "52":"a #4"
+      "52":"a #4",
+      "53":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -248,7 +256,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -263,7 +272,7 @@
       "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"a #3"
+      "67":"a #3"
     },
     "bb":{
       "7":"n",
@@ -276,13 +285,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a #3"
+      "46":"a #3"
     },
     "and_chr":{
-      "64":"a #3"
+      "67":"a #3"
     },
     "and_ff":{
-      "57":"a #2"
+      "60":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -294,7 +303,8 @@
     "samsung":{
       "4":"a #1",
       "5":"a #3",
-      "6.2":"a #3"
+      "6.2":"a #3",
+      "7.2":"a #3"
     },
     "and_qq":{
       "1.2":"n"
@@ -307,11 +317,11 @@
   "notes_by_num":{
     "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](http://davidbcalhoun.com/2010/using-navigator-connection-android/)",
     "2":"Only supports the `type` value.",
-    "3":"Only supports the `type` and `downloadMax` values.",
+    "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
   "usage_perc_y":0,
-  "usage_perc_a":60.26,
+  "usage_perc_a":61.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

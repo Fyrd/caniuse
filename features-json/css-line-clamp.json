@@ -35,7 +35,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"y #1",
+      "18":"y #1"
     },
     "firefox":{
       "2":"n",
@@ -99,7 +100,9 @@
       "58":"n",
       "59":"n",
       "60":"n",
-      "61":"n"
+      "61":"n",
+      "62":"n",
+      "63":"n"
     },
     "chrome":{
       "4":"u",
@@ -165,7 +168,10 @@
       "64":"y x",
       "65":"y x",
       "66":"y x",
-      "67":"y x"
+      "67":"y x",
+      "68":"y x",
+      "69":"y x",
+      "70":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -184,6 +190,7 @@
       "10.1":"y x",
       "11":"y x",
       "11.1":"y x",
+      "12":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -235,7 +242,8 @@
       "49":"y x",
       "50":"y x",
       "51":"y x",
-      "52":"y x"
+      "52":"y x",
+      "53":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -251,7 +259,8 @@
       "10.0-10.2":"y x",
       "10.3":"y x",
       "11.0-11.2":"y x",
-      "11.3":"y x"
+      "11.3-11.4":"y x",
+      "12":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -266,7 +275,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "62":"y x"
+      "67":"y x"
     },
     "bb":{
       "7":"y x",
@@ -279,13 +288,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y x"
+      "46":"y x"
     },
     "and_chr":{
-      "64":"y x"
+      "67":"y x"
     },
     "and_ff":{
-      "57":"n"
+      "60":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -297,7 +306,8 @@
     "samsung":{
       "4":"y x",
       "5":"y x",
-      "6.2":"y x"
+      "6.2":"y x",
+      "7.2":"y x"
     },
     "and_qq":{
       "1.2":"y x"
@@ -308,9 +318,9 @@
   },
   "notes":"As there is no specification and the property is dependent on an outdated implementation of flexbox (hence `display: -webkit-box`) it is unlikely that other browsers will support the property as-is, although an alternative solution may at some point replace it.\r\n\r\nOlder (presto-based) versions of the Opera browser have also supported the same effect using the proprietary `-o-ellipsis-lastline;` value for `text-overflow`.",
   "notes_by_num":{
-    
+    "1":"Supported in MS Edge with `-webkit-` prefix only (not with `-ms-`)"
   },
-  "usage_perc_y":84.87,
+  "usage_perc_y":85.26,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

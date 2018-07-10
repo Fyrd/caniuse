@@ -11,6 +11,14 @@
     {
       "url":"https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import",
       "title":"Blog post: Native ECMAScript modules - dynamic import()"
+    },
+    {
+      "url":"https://developers.google.com/web/updates/2017/11/dynamic-import",
+      "title":"Dynamic import()"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1342012",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
@@ -35,7 +43,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -99,7 +108,9 @@
       "58":"n",
       "59":"n",
       "60":"n",
-      "61":"n"
+      "61":"n",
+      "62":"n",
+      "63":"n"
     },
     "chrome":{
       "4":"n",
@@ -161,11 +172,14 @@
       "60":"n",
       "61":"n",
       "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n",
-      "67":"n"
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"n",
@@ -184,6 +198,7 @@
       "10.1":"n #1",
       "11":"n #1",
       "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -233,9 +248,10 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -250,8 +266,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n #1",
-      "11.0-11.2":"u",
-      "11.3":"u"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -266,7 +283,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -279,13 +296,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"y"
     },
     "and_chr":{
-      "64":"n"
+      "67":"y"
     },
     "and_ff":{
-      "57":"n"
+      "60":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -297,7 +314,8 @@
     "samsung":{
       "4":"n",
       "5":"n",
-      "6.2":"n"
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -310,7 +328,7 @@
   "notes_by_num":{
     "1":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3"
   },
-  "usage_perc_y":0.01,
+  "usage_perc_y":67.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es6-module",
@@ -319,5 +337,5 @@
   "chrome_id":"5684934484164608",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }

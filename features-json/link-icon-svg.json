@@ -36,7 +36,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -100,7 +101,9 @@
       "58":"y #4",
       "59":"y #4",
       "60":"y #4",
-      "61":"y #4"
+      "61":"y #4",
+      "62":"y #4",
+      "63":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -164,9 +167,12 @@
       "62":"n",
       "63":"n",
       "64":"n",
-      "65":"u",
-      "66":"u",
-      "67":"u"
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"u",
+      "69":"u",
+      "70":"u"
     },
     "safari":{
       "3.1":"n",
@@ -185,6 +191,7 @@
       "10.1":"a #3",
       "11":"a #3",
       "11.1":"a #3",
+      "12":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -236,7 +243,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -252,7 +260,8 @@
       "10.0-10.2":"a #3",
       "10.3":"a #3",
       "11.0-11.2":"a #3",
-      "11.3":"a #3"
+      "11.3-11.4":"a #3",
+      "12":"a #3"
     },
     "op_mini":{
       "all":"n #1"
@@ -267,7 +276,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -280,13 +289,13 @@
       "11.5":"n #1",
       "12":"n #1",
       "12.1":"n #1",
-      "37":"n #1"
+      "46":"n #1"
     },
     "and_chr":{
-      "64":"n"
+      "67":"n"
     },
     "and_ff":{
-      "57":"n"
+      "60":"n"
     },
     "ie_mob":{
       "10":"n #1",
@@ -298,7 +307,8 @@
     "samsung":{
       "4":"n",
       "5":"n",
-      "6.2":"n"
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -314,8 +324,8 @@
     "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":5.65,
-  "usage_perc_a":12.62,
+  "usage_perc_y":5.64,
+  "usage_perc_a":12.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

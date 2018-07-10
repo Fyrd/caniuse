@@ -51,7 +51,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"u",
@@ -115,7 +116,9 @@
       "58":"a x #3",
       "59":"a x #3",
       "60":"a x #3",
-      "61":"a x #3"
+      "61":"a x #3",
+      "62":"a x #3",
+      "63":"a x #3"
     },
     "chrome":{
       "4":"u",
@@ -179,9 +182,12 @@
       "62":"a x #1",
       "63":"a x #1",
       "64":"a x #1",
-      "65":"a x #1",
-      "66":"a x #1",
-      "67":"a x #1"
+      "65":"a d #2 #4",
+      "66":"a d #2 #4",
+      "67":"a d #2 #4",
+      "68":"a d #2 #4",
+      "69":"a d #2 #4",
+      "70":"a d #2 #4"
     },
     "safari":{
       "3.1":"n",
@@ -200,6 +206,7 @@
       "10.1":"y #2",
       "11":"y #2",
       "11.1":"y #2",
+      "12":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -251,7 +258,8 @@
       "49":"a x #1",
       "50":"a x #1",
       "51":"a x #1",
-      "52":"a x #1"
+      "52":"a d #1 #4",
+      "53":"a d #1 #4"
     },
     "ios_saf":{
       "3.2":"u",
@@ -267,7 +275,8 @@
       "10.0-10.2":"y #2",
       "10.3":"y #2",
       "11.0-11.2":"y #2",
-      "11.3":"y #2"
+      "11.3-11.4":"y #2",
+      "12":"y #2"
     },
     "op_mini":{
       "all":"n"
@@ -282,7 +291,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "62":"a x #1"
+      "67":"a x #1"
     },
     "bb":{
       "7":"u",
@@ -295,13 +304,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a x #1"
+      "46":"a x #1"
     },
     "and_chr":{
-      "64":"a x #1"
+      "67":"a d #1 #4"
     },
     "and_ff":{
-      "57":"a x #3"
+      "60":"a x #3"
     },
     "ie_mob":{
       "10":"n",
@@ -313,7 +322,8 @@
     "samsung":{
       "4":"a x #1",
       "5":"a x #1",
-      "6.2":"a x #1"
+      "6.2":"a x #1",
+      "7.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -326,10 +336,11 @@
   "notes_by_num":{
     "1":"Only supports the `:-webkit-any()` pseudo-class, which is deprecated due to handling specificity incorrectly.",
     "2":"Also supports the `:-webkit-any()` pseudo-class, which is deprecated due to handling specificity incorrectly.",
-    "3":"Only supports the `:-moz-any()` pseudo-class."
+    "3":"Only supports the `:-moz-any()` pseudo-class.",
+    "4":"Support for ':matches()' is available behind the \"Experimental Web Platform features\" flag"
   },
-  "usage_perc_y":12.36,
-  "usage_perc_a":77.95,
+  "usage_perc_y":11.75,
+  "usage_perc_a":77.49,
   "ucprefix":false,
   "parent":"",
   "keywords":":matches,matches,:any,any",

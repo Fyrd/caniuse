@@ -2,7 +2,7 @@
   "title":"Payment Request API",
   "description":"Payment Request is a new API for the open web that makes checkout flows easier, faster and consistent on shopping sites.",
   "spec":"https://www.w3.org/TR/payment-request/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://github.com/w3c/browser-payment-api/",
@@ -51,7 +51,8 @@
       "14":"n d #2",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -115,7 +116,9 @@
       "58":"n d #6",
       "59":"n d #6",
       "60":"n d #6",
-      "61":"n d #6"
+      "61":"n d #6",
+      "62":"n d #6",
+      "63":"n d #6"
     },
     "chrome":{
       "4":"n",
@@ -181,7 +184,10 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"n",
@@ -200,6 +206,7 @@
       "10.1":"n #3",
       "11":"n #3",
       "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -251,7 +258,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -267,7 +275,8 @@
       "10.0-10.2":"n #3",
       "10.3":"n #3",
       "11.0-11.2":"n #3",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -282,7 +291,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -295,13 +304,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "64":"y #5"
+      "67":"y #5"
     },
     "and_ff":{
-      "57":"n"
+      "60":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -313,7 +322,8 @@
     "samsung":{
       "4":"n",
       "5":"y",
-      "6.2":"y"
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"n d #1"
@@ -331,7 +341,7 @@
     "5":"Unlike Desktop Chrome, support has been in Chrome for Android since version 53.",
     "6":"Can be enabled via the `dom.payments.request.enabled` flag in \"about:config\" flag since 55."
   },
-  "usage_perc_y":60.09,
+  "usage_perc_y":69.56,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

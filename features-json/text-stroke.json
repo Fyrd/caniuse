@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chrome & Safari do not support -webkit-text-stroke in the `::first-letter` pseudo-element."
+    }
   ],
   "categories":[
     "CSS"
@@ -39,7 +41,8 @@
       "14":"n",
       "15":"y x #1",
       "16":"y x #1",
-      "17":"y x #1"
+      "17":"y x #1",
+      "18":"y x #1"
     },
     "firefox":{
       "2":"n",
@@ -103,7 +106,9 @@
       "58":"y x #1",
       "59":"y x #1",
       "60":"y x #1",
-      "61":"y x #1"
+      "61":"y x #1",
+      "62":"y x #1",
+      "63":"y x #1"
     },
     "chrome":{
       "4":"y x",
@@ -169,7 +174,10 @@
       "64":"y x",
       "65":"y x",
       "66":"y x",
-      "67":"y x"
+      "67":"y x",
+      "68":"y x",
+      "69":"y x",
+      "70":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -188,6 +196,7 @@
       "10.1":"y x",
       "11":"y",
       "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -239,7 +248,8 @@
       "49":"y x",
       "50":"y x",
       "51":"y x",
-      "52":"y x"
+      "52":"y x",
+      "53":"y x"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -255,7 +265,8 @@
       "10.0-10.2":"y x",
       "10.3":"y x",
       "11.0-11.2":"y x",
-      "11.3":"y x"
+      "11.3-11.4":"y x",
+      "12":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -270,7 +281,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "62":"y x"
+      "67":"y x"
     },
     "bb":{
       "7":"y x",
@@ -283,13 +294,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y x"
+      "46":"y x"
     },
     "and_chr":{
-      "64":"y x"
+      "67":"y x"
     },
     "and_ff":{
-      "57":"y x #1"
+      "60":"y x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -301,7 +312,8 @@
     "samsung":{
       "4":"y x",
       "5":"y x",
-      "6.2":"y x"
+      "6.2":"y x",
+      "7.2":"y x"
     },
     "and_qq":{
       "1.2":"y x"
@@ -315,7 +327,7 @@
     "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":91.47,
+  "usage_perc_y":90.47,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

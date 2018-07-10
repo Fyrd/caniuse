@@ -64,7 +64,8 @@
       "14":"a x #2",
       "15":"a x #2",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -128,7 +129,9 @@
       "58":"y",
       "59":"y",
       "60":"y",
-      "61":"y"
+      "61":"y",
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"n",
@@ -194,7 +197,10 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"n",
@@ -213,6 +219,7 @@
       "10.1":"y",
       "11":"y",
       "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -264,7 +271,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -280,7 +288,8 @@
       "10.0-10.2":"p",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -295,7 +304,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "62":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -308,13 +317,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"p"
+      "46":"y"
     },
     "and_chr":{
-      "64":"y"
+      "67":"y"
     },
     "and_ff":{
-      "57":"y"
+      "60":"y"
     },
     "ie_mob":{
       "10":"a x #2",
@@ -326,7 +335,8 @@
     "samsung":{
       "4":"p",
       "5":"n",
-      "6.2":"y"
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"p d #1"
@@ -343,8 +353,8 @@
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))",
     "5":"Enabled in Edge through the \"Enable Unprefixed CSS Grid Layout\" flag in about:flags"
   },
-  "usage_perc_y":84.14,
-  "usage_perc_a":3.42,
+  "usage_perc_y":84.53,
+  "usage_perc_a":3.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid,fr unit,fractional unit",

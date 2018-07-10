@@ -31,7 +31,8 @@
       "14":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"u",
@@ -95,7 +96,9 @@
       "58":"y #1",
       "59":"y #1",
       "60":"y #1",
-      "61":"y #1"
+      "61":"y #1",
+      "62":"y #1",
+      "63":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -161,7 +164,10 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"u",
@@ -180,6 +186,7 @@
       "10.1":"y #2",
       "11":"y #2",
       "11.1":"y #2",
+      "12":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -231,7 +238,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"y #2 #3",
@@ -247,7 +255,8 @@
       "10.0-10.2":"y #2 #3",
       "10.3":"y #2 #3",
       "11.0-11.2":"y #2 #3",
-      "11.3":"y #2 #3"
+      "11.3-11.4":"y #2 #3",
+      "12":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -262,7 +271,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "62":"u"
+      "67":"u"
     },
     "bb":{
       "7":"u",
@@ -275,13 +284,13 @@
       "11.5":"u",
       "12":"u",
       "12.1":"u",
-      "37":"u"
+      "46":"u"
     },
     "and_chr":{
-      "64":"y"
+      "67":"y"
     },
     "and_ff":{
-      "57":"y"
+      "60":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -293,7 +302,8 @@
     "samsung":{
       "4":"u",
       "5":"u",
-      "6.2":"u"
+      "6.2":"u",
+      "7.2":"u"
     },
     "and_qq":{
       "1.2":"n"
@@ -308,7 +318,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":82.78,
+  "usage_perc_y":83.49,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

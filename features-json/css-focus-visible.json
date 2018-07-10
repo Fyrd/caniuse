@@ -9,16 +9,28 @@
       "title":"Prototype for `:focus-visible`"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=30523",
-      "title":"WebKit bug #140144: Add support for `-webkit-focusring` CSS pseudo class"
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=817199",
+      "title":"Chrome does not support CSS Selectors 4 :focus-visible"
     },
     {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=271023",
-      "title":"Chromium issue #271023: Outline should not appear on elements focused by mouse"
+      "url":"https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/-wN72ESFsyo",
+      "title":"Blink: Intent to implement :focus-visible pseudo class."
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-focusring",
       "title":"Mozilla Developer Network (MDN) documentation - :-moz-focusring"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/19594159--focus-visible",
+      "title":"Microsoft Edge implementation suggestion"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1437901&GoAheadAndLogIn=1",
+      "title":"Bugzilla: Add :focus-visible (former :focus-ring)"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=30523",
+      "title":"WebKit bug #140144: Add support for `-webkit-focusring` CSS pseudo class"
     }
   ],
   "bugs":[
@@ -43,7 +55,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -107,7 +120,9 @@
       "58":"y x #1",
       "59":"y x #1",
       "60":"y x #1",
-      "61":"y x #1"
+      "61":"y x #1",
+      "62":"y x #1",
+      "63":"y x #1"
     },
     "chrome":{
       "4":"n",
@@ -173,7 +188,10 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n"
+      "67":"p d #2",
+      "68":"p d #2",
+      "69":"p d #2",
+      "70":"p d #2"
     },
     "safari":{
       "3.1":"n",
@@ -192,6 +210,7 @@
       "10.1":"n",
       "11":"n",
       "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -243,7 +262,8 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"n"
+      "52":"n",
+      "53":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -259,7 +279,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -274,7 +295,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -287,13 +308,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "64":"n"
+      "67":"p d #2"
     },
     "and_ff":{
-      "57":"y x #1"
+      "60":"y x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -305,7 +326,8 @@
     "samsung":{
       "4":"n",
       "5":"n",
-      "6.2":"n"
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -316,15 +338,16 @@
   },
   "notes":"Previously drafted as `:focus-ring`",
   "notes_by_num":{
-    "1":"As `:-moz-focusring`"
+    "1":"As `:-moz-focusring`",
+    "2":"Enabled through the \"Experimental Web Platform features\" flag in chrome://flags"
   },
-  "usage_perc_y":5.5,
+  "usage_perc_y":5.18,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"focus,ring,focusring,focus-ring,visible,focus-visible,pseudo",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5823526732824576",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true

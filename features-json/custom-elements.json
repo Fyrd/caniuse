@@ -64,7 +64,8 @@
       "14":"p",
       "15":"p",
       "16":"p",
-      "17":"p"
+      "17":"p",
+      "18":"p"
     },
     "firefox":{
       "2":"n",
@@ -126,9 +127,11 @@
       "56":"p d #1",
       "57":"p d #1",
       "58":"p d #1",
-      "59":"p d #1",
-      "60":"p d #1",
-      "61":"p d #1"
+      "59":"p d #2",
+      "60":"p d #2",
+      "61":"p d #2",
+      "62":"p d #2",
+      "63":"p d #2"
     },
     "chrome":{
       "4":"n",
@@ -194,7 +197,10 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"n",
@@ -213,6 +219,7 @@
       "10.1":"p",
       "11":"p",
       "11.1":"p",
+      "12":"p",
       "TP":"p"
     },
     "opera":{
@@ -264,7 +271,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -280,7 +288,8 @@
       "10.0-10.2":"p",
       "10.3":"p",
       "11.0-11.2":"p",
-      "11.3":"p"
+      "11.3-11.4":"p",
+      "12":"p"
     },
     "op_mini":{
       "all":"n"
@@ -295,7 +304,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"y",
-      "62":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -308,13 +317,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "64":"y"
+      "67":"y"
     },
     "and_ff":{
-      "57":"p d #1"
+      "60":"p d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -326,7 +335,8 @@
     "samsung":{
       "4":"y",
       "5":"y",
-      "6.2":"y"
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -337,9 +347,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config"
+    "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
+    "2":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
   },
-  "usage_perc_y":70.76,
+  "usage_perc_y":70.81,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

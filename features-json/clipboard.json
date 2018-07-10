@@ -1,5 +1,5 @@
 {
-  "title":"Clipboard API",
+  "title":"Synchronous Clipboard API",
   "description":"API to provide copy, cut and paste events as well as provide access to the OS clipboard.",
   "spec":"https://www.w3.org/TR/clipboard-apis/",
   "status":"wd",
@@ -37,7 +37,8 @@
       "14":"a #1 #2 #5",
       "15":"a #1 #2 #5",
       "16":"a #1 #2 #5",
-      "17":"a #2"
+      "17":"a #2",
+      "18":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -101,7 +102,9 @@
       "58":"a #6",
       "59":"a #6",
       "60":"a #6",
-      "61":"a #6"
+      "61":"a #6",
+      "62":"a #6",
+      "63":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -167,7 +170,10 @@
       "64":"a #5 #7",
       "65":"a #5 #7",
       "66":"a #5 #7",
-      "67":"a #5 #7"
+      "67":"a #5 #7",
+      "68":"a #5 #7",
+      "69":"a #5 #7",
+      "70":"a #5 #7"
     },
     "safari":{
       "3.1":"u",
@@ -186,6 +192,7 @@
       "10.1":"a #2 #5",
       "11":"a #2 #5",
       "11.1":"a #2 #5",
+      "12":"a #2 #5",
       "TP":"a #2 #5"
     },
     "opera":{
@@ -237,7 +244,8 @@
       "49":"a #5 #7",
       "50":"a #5 #7",
       "51":"a #5 #7",
-      "52":"a #5 #7"
+      "52":"a #5 #7",
+      "53":"a #5 #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -253,7 +261,8 @@
       "10.0-10.2":"a #2 #3 #5",
       "10.3":"a #2 #3 #5",
       "11.0-11.2":"a #2 #3 #5",
-      "11.3":"a #2 #3 #5"
+      "11.3-11.4":"a #2 #3 #5",
+      "12":"a #2 #3 #5"
     },
     "op_mini":{
       "all":"n"
@@ -268,7 +277,7 @@
       "4.2-4.3":"n",
       "4.4":"a #2 #5",
       "4.4.3-4.4.4":"a #2 #5",
-      "62":"a #2 #5"
+      "67":"a #2 #5"
     },
     "bb":{
       "7":"n",
@@ -281,13 +290,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"u",
-      "37":"a #4 #5"
+      "46":"a #4 #5"
     },
     "and_chr":{
-      "64":"a #5"
+      "67":"a #5"
     },
     "and_ff":{
-      "57":"a #4"
+      "60":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -299,7 +308,8 @@
     "samsung":{
       "4":"a #2 #5",
       "5":"a #5",
-      "6.2":"a #5"
+      "6.2":"a #5",
+      "7.2":"a #5"
     },
     "and_qq":{
       "1.2":"a #5 #7"
@@ -319,7 +329,7 @@
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
   "usage_perc_y":0,
-  "usage_perc_a":86.87,
+  "usage_perc_a":86.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

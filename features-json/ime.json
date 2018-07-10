@@ -31,7 +31,8 @@
       "14":"y x #1",
       "15":"y x #1",
       "16":"y x #1",
-      "17":"y x #1"
+      "17":"y x #1",
+      "18":"y x #1"
     },
     "firefox":{
       "2":"n",
@@ -95,7 +96,9 @@
       "58":"n",
       "59":"n",
       "60":"n",
-      "61":"n"
+      "61":"n",
+      "62":"n",
+      "63":"n"
     },
     "chrome":{
       "4":"n",
@@ -161,7 +164,10 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n"
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n"
     },
     "safari":{
       "3.1":"n",
@@ -180,6 +186,7 @@
       "10.1":"n",
       "11":"n",
       "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -231,7 +238,8 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"n"
+      "52":"n",
+      "53":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -247,7 +255,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -262,7 +271,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "62":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -275,13 +284,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "64":"n"
+      "67":"n"
     },
     "and_ff":{
-      "57":"n"
+      "60":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -293,7 +302,8 @@
     "samsung":{
       "4":"n",
       "5":"n",
-      "6.2":"n"
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -306,7 +316,7 @@
   "notes_by_num":{
     "1":"Prefixed implementation uses `msGetInputContext()` method from an earlier version of the spec to get the `InputMethodContext`, rather than the `inputMethodContext` attribute. Also includes support for `getCompositionAlternatives()` from the latest Editor'"
   },
-  "usage_perc_y":4.68,
+  "usage_perc_y":4.7,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

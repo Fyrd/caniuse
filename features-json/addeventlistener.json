@@ -1,6 +1,6 @@
 {
   "title":"EventTarget.addEventListener()",
-  "description":"The modern standard API for adding DOM event handlers. Introduced in the DOM Level 2 Events spec. Also implies support for the [capture phase](https://dom.spec.whatwg.org/#dom-event-capturing_phase) of DOM event dispatch, as well as the `stopPropagation()` and `preventDefault()` event methods.",
+  "description":"The modern standard API for adding DOM event handlers. Introduced in the DOM Level 2 Events spec. Also implies support for `removeEventListener`, the [capture phase](https://dom.spec.whatwg.org/#dom-event-capturing_phase) of DOM event dispatch, as well as the `stopPropagation()` and `preventDefault()` event methods.",
   "spec":"https://dom.spec.whatwg.org/#dom-eventtarget-addeventlistener",
   "status":"ls",
   "links":[
@@ -39,7 +39,8 @@
       "14":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"y #2",
@@ -103,7 +104,9 @@
       "58":"y",
       "59":"y",
       "60":"y",
-      "61":"y"
+      "61":"y",
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"y",
@@ -169,7 +172,10 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"y",
@@ -188,6 +194,7 @@
       "10.1":"y",
       "11":"y",
       "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -239,7 +246,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -255,7 +263,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"y"
@@ -270,7 +279,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "62":"y"
+      "67":"y"
     },
     "bb":{
       "7":"y",
@@ -283,13 +292,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "64":"y"
+      "67":"y"
     },
     "and_ff":{
-      "57":"y"
+      "60":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -301,7 +310,8 @@
     "samsung":{
       "4":"y",
       "5":"y",
-      "6.2":"y"
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -315,7 +325,7 @@
     "1":"IE<=8 instead only supports the [proprietary `.attachEvent()` method](https://msdn.microsoft.com/en-us/library/ms536343%28VS.85%29.aspx). It also does not support the [capture phase](https://www.w3.org/TR/DOM-Level-3-Events/#event-flow) of DOM event dispatch; it only supports event bubbling.",
     "2":"The `useCapture` parameter is non-optional and must be provided. Future versions made it optional, with a default value of `false`."
   },
-  "usage_perc_y":98.27,
+  "usage_perc_y":96.91,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

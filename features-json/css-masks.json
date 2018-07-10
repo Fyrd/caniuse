@@ -47,7 +47,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n d #4 #5",
+      "18":"a #6"
     },
     "firefox":{
       "2":"n",
@@ -111,7 +112,9 @@
       "58":"y",
       "59":"y",
       "60":"y",
-      "61":"y"
+      "61":"y",
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -177,7 +180,10 @@
       "64":"a x #1",
       "65":"a x #1",
       "66":"a x #1",
-      "67":"a x #1"
+      "67":"a x #1",
+      "68":"a x #1",
+      "69":"a x #1",
+      "70":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -196,6 +202,7 @@
       "10.1":"a x #1",
       "11":"a x #1",
       "11.1":"a x #1",
+      "12":"a x #1",
       "TP":"a x #1"
     },
     "opera":{
@@ -247,7 +254,8 @@
       "49":"a x #1",
       "50":"a x #1",
       "51":"a x #1",
-      "52":"a x #1"
+      "52":"a x #1",
+      "53":"a x #1"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -263,7 +271,8 @@
       "10.0-10.2":"a x #1",
       "10.3":"a x #1",
       "11.0-11.2":"a x #1",
-      "11.3":"a x #1"
+      "11.3-11.4":"a x #1",
+      "12":"a x #1"
     },
     "op_mini":{
       "all":"n"
@@ -278,7 +287,7 @@
       "4.2-4.3":"a x #1 #3",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "62":"a x #1"
+      "67":"a x #1"
     },
     "bb":{
       "7":"a x #1",
@@ -291,13 +300,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a x #1"
+      "46":"a x #1"
     },
     "and_chr":{
-      "64":"a x #1"
+      "67":"a x #1"
     },
     "and_ff":{
-      "57":"y"
+      "60":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -309,7 +318,8 @@
     "samsung":{
       "4":"a x #1",
       "5":"a x #1",
-      "6.2":"a x #1"
+      "6.2":"a x #1",
+      "7.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -322,10 +332,13 @@
   "notes_by_num":{
     "1":"Partial support in WebKit/Blink browsers refers to supporting the mask-image and mask-box-image properties, but lacking support for other parts of the spec.",
     "2":"Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo).",
-    "3":"Partial support refers to supporting the mask-box-image shorthand but not the longhand properties"
+    "3":"Partial support refers to supporting the mask-box-image shorthand but not the longhand properties",
+    "4":"Can be enabled in MS edge behind the \"Enable CSS Masking\" flag.",
+    "5":"Partial support refers to supporting mask-image and mask-size",
+    "6":"Partial support refers to supporting mask-image, mask-size, mask-position, and the mask shorthand"
   },
-  "usage_perc_y":4.33,
-  "usage_perc_a":86.13,
+  "usage_perc_y":4.07,
+  "usage_perc_a":85.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type,css masking",

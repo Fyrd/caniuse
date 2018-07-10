@@ -35,7 +35,8 @@
       "14":"y",
       "15":"y",
       "16":"y",
-      "17":"y"
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -99,7 +100,9 @@
       "58":"y",
       "59":"y",
       "60":"y",
-      "61":"y"
+      "61":"y",
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"n",
@@ -165,7 +168,10 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "safari":{
       "3.1":"n",
@@ -184,6 +190,7 @@
       "10.1":"y",
       "11":"y",
       "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -235,7 +242,8 @@
       "49":"y",
       "50":"y",
       "51":"y",
-      "52":"y"
+      "52":"y",
+      "53":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -251,7 +259,8 @@
       "10.0-10.2":"a #1 #2",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -266,7 +275,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"y",
-      "62":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -279,13 +288,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"a #1"
+      "46":"a #1"
     },
     "and_chr":{
-      "64":"y"
+      "67":"y"
     },
     "and_ff":{
-      "57":"y"
+      "60":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -297,7 +306,8 @@
     "samsung":{
       "4":"y",
       "5":"y",
-      "6.2":"y"
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -311,8 +321,8 @@
     "1":"Partial support refers to not displaying a message for invalid patterns",
     "2":"Safari browsers support the `pattern` attribute but will still allow forms to be submitted if the pattern is incorrect. See the [form validation data](https://caniuse.com/#feat=form-validation) for details."
   },
-  "usage_perc_y":92.5,
-  "usage_perc_a":1.91,
+  "usage_perc_y":92.07,
+  "usage_perc_a":1.35,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"",

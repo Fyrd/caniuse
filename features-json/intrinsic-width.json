@@ -33,7 +33,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n"
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -97,7 +98,9 @@
       "58":"a x #1 #2 #3",
       "59":"a x #1 #2 #3",
       "60":"a x #1 #2 #3",
-      "61":"a x #1 #2 #3"
+      "61":"a x #1 #2 #3",
+      "62":"a x #1 #2 #3",
+      "63":"a x #1 #2 #3"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +166,10 @@
       "64":"y #3 #4",
       "65":"y #3 #4",
       "66":"y #3 #4",
-      "67":"y #3 #4"
+      "67":"y #3 #4",
+      "68":"y #3 #4",
+      "69":"y #3 #4",
+      "70":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -182,6 +188,7 @@
       "10.1":"a x #3",
       "11":"a #3",
       "11.1":"a #3",
+      "12":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -233,7 +240,8 @@
       "49":"y #3 #4",
       "50":"y #3 #4",
       "51":"y #3 #4",
-      "52":"y #3 #4"
+      "52":"y #3 #4",
+      "53":"y #3 #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -249,7 +257,8 @@
       "10.0-10.2":"a x #3",
       "10.3":"a x #3",
       "11.0-11.2":"a x #3",
-      "11.3":"a x #3"
+      "11.3-11.4":"a x #3",
+      "12":"a x #3"
     },
     "op_mini":{
       "all":"n"
@@ -264,7 +273,7 @@
       "4.2-4.3":"n",
       "4.4":"y x #3",
       "4.4.3-4.4.4":"y x #3",
-      "62":"y #3 #4"
+      "67":"y #3 #4"
     },
     "bb":{
       "7":"n",
@@ -277,13 +286,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y #3 #4"
+      "46":"y #3 #4"
     },
     "and_chr":{
-      "64":"y #3 #4"
+      "67":"y #3 #4"
     },
     "and_ff":{
-      "57":"a x #1 #2 #3"
+      "60":"a x #1 #2 #3"
     },
     "ie_mob":{
       "10":"n",
@@ -295,7 +304,8 @@
     "samsung":{
       "4":"y x #3",
       "5":"y #3 #4",
-      "6.2":"y #3 #4"
+      "6.2":"y #3 #4",
+      "7.2":"y #3 #4"
     },
     "and_qq":{
       "1.2":"y x #3"
@@ -311,8 +321,8 @@
     "3":"Does not support the `flex-basis` property. See [specs](https://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property), [Blink bug](https://codereview.chromium.org/1304853002/), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887).",
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2)"
   },
-  "usage_perc_y":71.82,
-  "usage_perc_a":18.1,
+  "usage_perc_y":71.79,
+  "usage_perc_a":17.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",
