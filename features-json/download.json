@@ -23,6 +23,9 @@
     },
     {
       "description":"Chrome 65 and above only supports [same-origin](https://bugs.chromium.org/p/chromium/issues/detail?id=714373) download links."
+    },
+    {
+      "description":"Edge 13 crashes when attempting to download data url links. See [bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7160092/)"
     }
   ],
   "categories":[
