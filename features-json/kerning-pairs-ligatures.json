@@ -1,8 +1,8 @@
 {
   "title":"High-quality kerning pairs & ligatures",
   "description":"Modern browsers enable high-quality kerning and ligatures for all text, or support the legacy text-rendering property (this property has no effect in the latest version of all browsers but used to allow improving kerning pairs & ligatures using `text-rendering: optimizeLegibility`).",
-  "spec":"https://www.w3.org/TR/SVG11/painting.html#TextRenderingProperty",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/SVG2/painting.html#TextRendering",
+  "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering",
