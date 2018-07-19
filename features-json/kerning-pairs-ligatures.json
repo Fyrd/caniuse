@@ -1,7 +1,7 @@
 {
   "title":"High-quality kerning pairs & ligatures",
-  "description":"Modern browsers enable high-quality kerning and ligatures for all text, or support the legacy text-rendering property (this property has no effect in the latest version of all browsers but used to allow improving kerning pairs & ligatures using `text-rendering: optimizeLegibility`).",
-  "spec":"https://www.w3.org/TR/SVG11/painting.html#TextRenderingProperty",
+  "description":"When used in HTML, the unofficial `text-rendering: optimizeLegibility` CSS property enables high-quality kerning and ligatures in certain browsers. Newer browsers have this behavior enabled by default.",
+  "spec":"https://www.w3.org/TR/SVG2/painting.html#TextRendering",
   "status":"unoff",
   "links":[
     {
@@ -316,7 +316,7 @@
       "7.12":"y"
     }
   },
-  "notes":"",
+  "notes":"The `text-rendering` property is specified in SVG, though behavior there is not related to kerning pairs & ligatures.",
   "notes_by_num":{
     "1":"Partial support in Android browser versions is due to a serious bug where `text-rendering: optimizeLegibility` causes custom web fonts to not render."
   },
