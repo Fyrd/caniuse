@@ -97,7 +97,8 @@
       "59":"y",
       "60":"y",
       "61":"y",
-      "62":"y"
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"u",
@@ -254,7 +255,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"u"
@@ -318,8 +320,8 @@
     "4":"`Comment` nodes are treated as not being contained by any node.",
     "5":"The method throws an error when given a `Text` node as an argument."
   },
-  "usage_perc_y":81.83,
-  "usage_perc_a":3.45,
+  "usage_perc_y":82.2,
+  "usage_perc_a":3.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"Node,node,contains,contain,ancestor,descendant,DOM",

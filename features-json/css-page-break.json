@@ -101,7 +101,8 @@
       "59":"a #1 #2 #3",
       "60":"a #1 #2 #3",
       "61":"a #1 #2 #3",
-      "62":"a #1 #2 #3"
+      "62":"a #1 #2 #3",
+      "63":"a #1 #2 #3"
     },
     "chrome":{
       "4":"a #1 #2 #3",
@@ -258,7 +259,8 @@
       "10.0-10.2":"a #1 #2 #3",
       "10.3":"a #1 #2 #3",
       "11.0-11.2":"a #1 #2 #3",
-      "11.3":"a #1 #2 #3"
+      "11.3-11.4":"a #1 #2 #3",
+      "12":"a #1 #2 #3"
     },
     "op_mini":{
       "all":"y #1"
@@ -320,8 +322,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":2.75,
-  "usage_perc_a":94.98,
+  "usage_perc_y":2.52,
+  "usage_perc_a":94.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

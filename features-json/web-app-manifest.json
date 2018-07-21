@@ -97,7 +97,8 @@
       "59":"a #2",
       "60":"a #2",
       "61":"a #2",
-      "62":"a #2"
+      "62":"a #2",
+      "63":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -254,7 +255,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -315,8 +317,8 @@
     "1":"On Windows, Chrome will read the manifest to generate a desktop icon when selecting the \"Add to desktop...\" option.",
     "2":"The installation events, appinstalled and beforeinstallprompt, are not supported on all platforms."
   },
-  "usage_perc_y":47.8,
-  "usage_perc_a":28.37,
+  "usage_perc_y":49.35,
+  "usage_perc_a":27.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa",

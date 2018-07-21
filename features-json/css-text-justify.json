@@ -105,7 +105,8 @@
       "59":"y #4",
       "60":"y #4",
       "61":"y #4",
-      "62":"y #4"
+      "62":"y #4",
+      "63":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -262,7 +263,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -325,8 +327,8 @@
     "3":"Behind the \"layout.css.text-justify.enabled\" flag",
     "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
   },
-  "usage_perc_y":4.11,
-  "usage_perc_a":5.16,
+  "usage_perc_y":4.02,
+  "usage_perc_a":5.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

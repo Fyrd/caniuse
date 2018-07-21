@@ -117,7 +117,8 @@
       "59":"y",
       "60":"y",
       "61":"y",
-      "62":"y"
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"y",
@@ -274,7 +275,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"y"
@@ -335,8 +337,8 @@
     "1":"Partial support refers to only working in frames/iframes (not other tabs/windows). Also, objects cannot be sent using postMessage.",
     "2":"Partial support refers to [limitations in certain conditions](https://stackoverflow.com/questions/16226924/is-cross-origin-postmessage-broken-in-ie10)."
   },
-  "usage_perc_y":94.37,
-  "usage_perc_a":3.31,
+  "usage_perc_y":93.72,
+  "usage_perc_a":3.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -114,7 +114,8 @@
       "59":"p d #3 #1",
       "60":"p d #3 #1",
       "61":"p d #3 #1",
-      "62":"p d #3 #1"
+      "62":"p d #3 #1",
+      "63":"p d #3 #1"
     },
     "chrome":{
       "4":"n",
@@ -271,7 +272,8 @@
       "10.0-10.2":"n",
       "10.3":"a #1",
       "11.0-11.2":"a #1",
-      "11.3":"a #1"
+      "11.3-11.4":"a #1",
+      "12":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -333,8 +335,8 @@
     "2":"Enabled through the \"dom.webcomponents.enabled\" or \"dom.webcomponents.customelements.enabled\" preference in about:config",
     "3":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
   },
-  "usage_perc_y":40.47,
-  "usage_perc_a":38.92,
+  "usage_perc_y":55.93,
+  "usage_perc_a":23.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components,custom elements",

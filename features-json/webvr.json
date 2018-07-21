@@ -115,7 +115,8 @@
       "59":"y #1",
       "60":"y #1",
       "61":"y #1",
-      "62":"y #1"
+      "62":"y #1",
+      "63":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -272,7 +273,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -336,8 +338,8 @@
     "4":"Supports only Samsung Galaxy devices with the Samgung Gear VR",
     "5":"Supports only Google Daydream on [daydream-ready devices](https://vr.google.com/daydream/smartphonevr/phones/) and Google Cardboards"
   },
-  "usage_perc_y":36.96,
-  "usage_perc_a":1.66,
+  "usage_perc_y":38.08,
+  "usage_perc_a":1.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"getvrdevices,getvrdisplays,getdisplays,navigator.vr",

@@ -105,7 +105,8 @@
       "59":"n d #3",
       "60":"n d #3",
       "61":"n d #3",
-      "62":"n d #3"
+      "62":"n d #3",
+      "63":"n d #3"
     },
     "chrome":{
       "4":"n",
@@ -262,7 +263,8 @@
       "10.0-10.2":"a #1",
       "10.3":"a #1",
       "11.0-11.2":"a #1",
-      "11.3":"a #1"
+      "11.3-11.4":"a #1",
+      "12":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -324,8 +326,8 @@
     "2":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
     "3":"Enabled through the \"dom.webcomponents.shadowdom.enabled\" preference in about:config"
   },
-  "usage_perc_y":68.43,
-  "usage_perc_a":11.38,
+  "usage_perc_y":68.1,
+  "usage_perc_a":11.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components,shadow dom,attachShadow",

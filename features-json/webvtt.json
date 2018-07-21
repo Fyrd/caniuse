@@ -110,7 +110,8 @@
       "59":"y #1",
       "60":"y #1",
       "61":"y #1",
-      "62":"y #1"
+      "62":"y #1",
+      "63":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -267,7 +268,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -327,7 +329,7 @@
   "notes_by_num":{
     "1":"Firefox currently lacks support for the `::cue` pseudo-element. [See bug #865395.](https://bugzilla.mozilla.org/show_bug.cgi?id=865395)"
   },
-  "usage_perc_y":85.66,
+  "usage_perc_y":86.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",

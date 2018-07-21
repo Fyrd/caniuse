@@ -133,7 +133,8 @@
       "59":"y",
       "60":"y",
       "61":"y",
-      "62":"y"
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"y",
@@ -290,7 +291,8 @@
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
-      "11.3":"y"
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -350,7 +352,7 @@
   "notes_by_num":{
     "1":"Old Firefox versions were missing support for some properties: `loop` was added in v11, `played` in v15, `playbackRate` in v20."
   },
-  "usage_perc_y":94.71,
+  "usage_perc_y":94.32,
   "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",

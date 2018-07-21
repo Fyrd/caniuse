@@ -7,6 +7,10 @@
     {
       "url":"https://feature-policy-demos.appspot.com/",
       "title":"Feature Policy Kitchen Sink Demos"
+    },
+    {
+      "url":"https://developers.google.com/web/updates/2018/06/feature-policy",
+      "title":"Introduction to Feature Policy"
     }
   ],
   "bugs":[
@@ -99,7 +103,8 @@
       "59":"n",
       "60":"n",
       "61":"n",
-      "62":"n"
+      "62":"n",
+      "63":"n"
     },
     "chrome":{
       "4":"n",
@@ -256,7 +261,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"u"
+      "11.3-11.4":"u",
+      "12":"u"
     },
     "op_mini":{
       "all":"n"
@@ -318,7 +324,7 @@
     "2":"Only supports the `allow` attribute on iframes"
   },
   "usage_perc_y":0,
-  "usage_perc_a":59.06,
+  "usage_perc_a":60,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header",

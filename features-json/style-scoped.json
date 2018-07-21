@@ -110,7 +110,8 @@
       "59":"n d #2",
       "60":"n d #2",
       "61":"n d #2",
-      "62":"n d #2"
+      "62":"n d #2",
+      "63":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -267,7 +268,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -328,7 +330,7 @@
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Enabled in Firefox through the about:config setting \"layout.css.scoped-style.enabled\""
   },
-  "usage_perc_y":1.07,
+  "usage_perc_y":1.06,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

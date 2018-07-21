@@ -117,7 +117,8 @@
       "59":"a #4",
       "60":"a #4",
       "61":"a #4",
-      "62":"a #4"
+      "62":"a #4",
+      "63":"a #4"
     },
     "chrome":{
       "4":"n",
@@ -274,7 +275,8 @@
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
       "11.0-11.2":"a x #2",
-      "11.3":"a x #2"
+      "11.3-11.4":"a x #2",
+      "12":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -339,12 +341,12 @@
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
   "usage_perc_y":0.17,
-  "usage_perc_a":83.39,
+  "usage_perc_a":83.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",
   "ie_id":"",
-  "chrome_id":"4896897575682048,5766823203045376",
+  "chrome_id":"5766823203045376",
   "firefox_id":"",
   "webkit_id":"specification-css-text-decoration-level-4",
   "shown":true

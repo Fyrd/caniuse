@@ -101,7 +101,8 @@
       "59":"n",
       "60":"y",
       "61":"y",
-      "62":"y"
+      "62":"y",
+      "63":"y"
     },
     "chrome":{
       "4":"n",
@@ -258,7 +259,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -289,7 +291,7 @@
       "46":"n"
     },
     "and_chr":{
-      "67":"y"
+      "67":"n"
     },
     "and_ff":{
       "60":"y"
@@ -318,7 +320,7 @@
   "notes_by_num":{
     "1":"Can be enabled at `about:flags`\r\n\r\nEdge 13 used an earlier draft syntax. As of Edge 14 the implementation is prefixed and based on the FIDO 2.0 Web APIs."
   },
-  "usage_perc_y":32.55,
+  "usage_perc_y":19.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

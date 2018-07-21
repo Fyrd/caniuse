@@ -117,7 +117,8 @@
       "59":"a x #3",
       "60":"a x #3",
       "61":"a x #3",
-      "62":"a x #3"
+      "62":"a x #3",
+      "63":"a x #3"
     },
     "chrome":{
       "4":"u",
@@ -274,7 +275,8 @@
       "10.0-10.2":"y #2",
       "10.3":"y #2",
       "11.0-11.2":"y #2",
-      "11.3":"y #2"
+      "11.3-11.4":"y #2",
+      "12":"y #2"
     },
     "op_mini":{
       "all":"n"
@@ -337,8 +339,8 @@
     "3":"Only supports the `:-moz-any()` pseudo-class.",
     "4":"Support for ':matches()' is available behind the \"Experimental Web Platform features\" flag"
   },
-  "usage_perc_y":11.78,
-  "usage_perc_a":77.85,
+  "usage_perc_y":11.75,
+  "usage_perc_a":77.49,
   "ucprefix":false,
   "parent":"",
   "keywords":":matches,matches,:any,any",

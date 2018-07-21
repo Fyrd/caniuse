@@ -103,7 +103,8 @@
       "59":"y x",
       "60":"y x",
       "61":"y x",
-      "62":"y x"
+      "62":"y x",
+      "63":"y x"
     },
     "chrome":{
       "4":"n",
@@ -260,7 +261,8 @@
       "10.0-10.2":"a #1",
       "10.3":"a #1",
       "11.0-11.2":"a #1",
-      "11.3":"a #1"
+      "11.3-11.4":"a #1",
+      "12":"a #1"
     },
     "op_mini":{
       "all":"a x #1"
@@ -320,8 +322,8 @@
   "notes_by_num":{
     "1":"Partial refers to supporting `<integer>` but not `<length>` values."
   },
-  "usage_perc_y":74.77,
-  "usage_perc_a":17.26,
+  "usage_perc_y":74.28,
+  "usage_perc_a":17.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"tab-size,tab-width",

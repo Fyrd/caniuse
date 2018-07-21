@@ -96,8 +96,9 @@
       "58":"n",
       "59":"n",
       "60":"n",
-      "61":"u",
-      "62":"u"
+      "61":"n",
+      "62":"u",
+      "63":"u"
     },
     "chrome":{
       "4":"n",
@@ -254,7 +255,8 @@
       "10.0-10.2":"u",
       "10.3":"u",
       "11.0-11.2":"u",
-      "11.3":"u"
+      "11.3-11.4":"u",
+      "12":"u"
     },
     "op_mini":{
       "all":"u"
@@ -315,7 +317,7 @@
     "1":"Enabled in Chrome through the \"Token Binding\" flag in chrome://flags",
     "2":"Token binding in Edge is enabled on Windows 10, version 1703 and newer"
   },
-  "usage_perc_y":1.72,
+  "usage_perc_y":1.71,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

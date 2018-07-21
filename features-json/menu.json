@@ -113,7 +113,8 @@
       "59":"a #1",
       "60":"a #1",
       "61":"a #1",
-      "62":"a #1"
+      "62":"a #1",
+      "63":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -270,7 +271,8 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3":"n"
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -335,7 +337,7 @@
     "5":"Context menus supported in Chromium with the \"enable-blink-features=ContextMenu\" command line flag"
   },
   "usage_perc_y":0,
-  "usage_perc_a":5.25,
+  "usage_perc_a":5.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"contextmenu,<menuitem>,command",
