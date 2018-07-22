@@ -31,7 +31,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"a x"
+      "11":"a x #1"
     },
     "edge":{
       "12":"a x",
@@ -322,7 +322,7 @@
   },
   "notes":"Partial support refers to an [older version](https://www.w3.org/TR/2014/WD-screen-orientation-20140220/) of the draft specification, and the spec has undergone significant changes since, for example renaming the `screen.lockOrientation` method to `screen.orientation.lock`.",
   "notes_by_num":{
-    
+    "1":"Not supported on Windows 7"
   },
   "usage_perc_y":74.33,
   "usage_perc_a":4.94,
