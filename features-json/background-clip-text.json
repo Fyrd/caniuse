@@ -47,10 +47,10 @@
       "12":"a x",
       "13":"a x",
       "14":"a x",
-      "15":"a x",
-      "16":"a x",
-      "17":"a x",
-      "18":"a x"
+      "15":"y #2",
+      "16":"y #2",
+      "17":"y #2",
+      "18":"y #2"
     },
     "firefox":{
       "2":"u",
@@ -332,7 +332,8 @@
   },
   "notes":"Chrome, Opera, Safari work only by using the prefix: -webkit-background-clip: text; Firefox 49+ as background-clip: text;",
   "notes_by_num":{
-    "1":"Can be enabled by setting layout.css.background-clip-text.enabled to 'true'"
+    "1":"Can be enabled by setting layout.css.background-clip-text.enabled to 'true'",
+    "2":"'background-clip: text' Natively supported on Edge 15+ See Browser Compatibility chart: https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
