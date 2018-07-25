@@ -41,10 +41,10 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "15":"a #3",
+      "16":"a #3",
+      "17":"a #3",
+      "18":"a #3"
     },
     "firefox":{
       "2":"n",
@@ -328,7 +328,8 @@
   "notes":"Microsoft also offers a compatible implementation known as [ObjectRTC](http://blogs.msdn.com/b/ie/archive/2014/10/27/bringing-interoperable-real-time-communications-to-the-web.aspx). See [Object RTC](https://caniuse.com/#feat=objectrtc) for support details for that API.",
   "notes_by_num":{
     "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed.",
-    "2":"Can be enabled via the \"Enable WebRTC 1.0\" flag"
+    "2":"Can be enabled via the \"Enable WebRTC 1.0\" flag",
+    "3":"Edge does not support RTCDataChannel. See [API Catalogue](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?q=specName%3Awebrtc)"
   },
   "usage_perc_y":79.93,
   "usage_perc_a":0,
