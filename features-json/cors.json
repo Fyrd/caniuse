@@ -124,9 +124,9 @@
       "58":"y",
       "59":"y",
       "60":"y",
-      "61":"y",
-      "62":"y",
-      "63":"y"
+      "61":"y #4",
+      "62":"y #4",
+      "63":"y #4"
     },
     "chrome":{
       "4":"a #1",
@@ -345,7 +345,8 @@
   "notes_by_num":{
     "1":"Does not support CORS for images in `<canvas>`",
     "2":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has [limitations](http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx))",
-    "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379"
+    "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379",
+    "4":"Does not support CORS for resources which redirect: https://bugzilla.mozilla.org/show_bug.cgi?id=1346749"
   },
   "usage_perc_y":92.63,
   "usage_perc_a":0.71,
