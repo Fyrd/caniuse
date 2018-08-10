@@ -10,7 +10,7 @@
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=160484",
-      "title":"WebKit Bug 160484 - iOS doesn't support indeterminate checkboxes"
+      "title":"iOS versions below 12 don't support indeterminate checkboxes (WebKit Bug 160484)"
     }
   ],
   "bugs":[
@@ -262,7 +262,7 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12":"n"
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
