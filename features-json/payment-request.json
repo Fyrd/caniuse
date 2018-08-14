@@ -49,10 +49,10 @@
       "12":"n",
       "13":"n",
       "14":"n d #2",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "15":"a #7",
+      "16":"a #7",
+      "17":"a #7",
+      "18":"a #7"
     },
     "firefox":{
       "2":"n",
@@ -178,17 +178,17 @@
       "58":"n d #1",
       "59":"n d #4",
       "60":"n d #4",
-      "61":"y",
-      "62":"y",
-      "63":"y",
-      "64":"y",
-      "65":"y",
-      "66":"y",
-      "67":"y",
-      "68":"y",
-      "69":"y",
-      "70":"y",
-      "71":"y"
+      "61":"a #7",
+      "62":"a #7",
+      "63":"a #7",
+      "64":"a #7",
+      "65":"a #7",
+      "66":"a #7",
+      "67":"a #7",
+      "68":"a #7",
+      "69":"a #7",
+      "70":"a #7",
+      "71":"a #7"
     },
     "safari":{
       "3.1":"n",
@@ -206,9 +206,9 @@
       "10":"n #3",
       "10.1":"n #3",
       "11":"n #3",
-      "11.1":"y",
-      "12":"y",
-      "TP":"y"
+      "11.1":"a #7",
+      "12":"a #7",
+      "TP":"a #7"
     },
     "opera":{
       "9":"n",
@@ -255,12 +255,12 @@
       "45":"n d #1",
       "46":"n d #1",
       "47":"n d #1",
-      "48":"y",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y"
+      "48":"a #7",
+      "49":"a #7",
+      "50":"a #7",
+      "51":"a #7",
+      "52":"a #7",
+      "53":"a #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -276,8 +276,8 @@
       "10.0-10.2":"n #3",
       "10.3":"n #3",
       "11.0-11.2":"n #3",
-      "11.3-11.4":"y",
-      "12":"y"
+      "11.3-11.4":"a #7",
+      "12":"a #7"
     },
     "op_mini":{
       "all":"n"
@@ -308,7 +308,7 @@
       "46":"n"
     },
     "and_chr":{
-      "67":"y #5"
+      "67":"a #5"
     },
     "and_ff":{
       "60":"n"
@@ -322,9 +322,9 @@
     },
     "samsung":{
       "4":"n",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5":"a #7",
+      "6.2":"a #7",
+      "7.2":"a #7"
     },
     "and_qq":{
       "1.2":"n d #1"
@@ -340,7 +340,8 @@
     "3":"Apple's proprietary implementation (see above)",
     "4":"Can be enabled via the \"[Web Payments API](chrome://flags/#web-payments)\" flag",
     "5":"Unlike Desktop Chrome, support has been in Chrome for Android since version 53.",
-    "6":"Can be enabled via the `dom.payments.request.enabled` flag in \"about:config\" flag since 55."
+    "6":"Can be enabled via the `dom.payments.request.enabled` flag in \"about:config\" flag since 55.",
+    "7":"Missing support for PaymentResponse.prototype.retry() method"
   },
   "usage_perc_y":69.62,
   "usage_perc_a":0,
