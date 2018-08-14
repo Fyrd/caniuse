@@ -42,10 +42,10 @@
       "description":"Volume is read-only on iOS."
     },
     {
-      "description":"Chrome on Android does [not support autoplay](https://code.google.com/p/chromium/issues/detail?id=178297) as advised by the specification."
+      "description":"[iOS](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Device-SpecificConsiderations/Device-SpecificConsiderations.html) and [Chrome on Android](https://code.google.com/p/chromium/issues/detail?id=178297) do not support autoplay as advised by the specification."
     },
     {
-      "description":"Chrome on Android does [not support changing playbackrate](https://developer.mozilla.org/en-US/Apps/Build/Audio_and_video_delivery/WebAudio_playbackRate_explained) as advised by the specification."
+      "description":"On iOS the [`ended` event is not fired](https://bugs.webkit.org/show_bug.cgi?id=173332) when the screen is off or the browser is in the background (meaning that e.g. `src` cannot be changed)."
     }
   ],
   "categories":[
