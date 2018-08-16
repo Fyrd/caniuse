@@ -320,7 +320,7 @@
       "46":"a x"
     },
     "and_chr":{
-      "67":"y"
+      "67":"y #3"
     },
     "and_ff":{
       "60":"y"
@@ -348,7 +348,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled in `about:flags`",
-    "2":"Chrome for Android supports notifications via the [Push API](https://caniuse.com/#feat=push-api) but not the Web Notifications API."
+    "2":"Supports notifications via the [Push API](https://caniuse.com/#feat=push-api) but not the Web Notifications API.",
+    "3":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)"
   },
   "usage_perc_y":37.43,
   "usage_perc_a":1.9,
