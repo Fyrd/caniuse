@@ -13,5 +13,3 @@ Thanks,
 Alexis Deveria
 <br>https://caniuse.com/
 <br>http://a.deveria.com/
-
-n
