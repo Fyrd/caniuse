@@ -1,7 +1,7 @@
 {
-  "title":"WebVR API",
-  "description":"API for accessing virtual reality (VR) devices, including sensors and head-mounted displays.",
-  "spec":"https://w3c.github.io/webvr/",
+  "title":"WebXR API",
+  "description":"API for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays.",
+  "spec":"https://immersive-web.github.io/webxr/",
   "status":"unoff",
   "links":[
     {
@@ -14,7 +14,7 @@
     },
     {
       "url":"http://aframe.io",
-      "title":"WebVR framework"
+      "title":"AFrame, WebVR framework"
     },
     {
       "url":"https://webvr.info/",
@@ -23,11 +23,15 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API",
       "title":"MDN Web Docs - WebVR API"
+    },
+    {
+      "url":"https://www.chromestatus.com/feature/5680169905815552",
+      "title":"Chrome Platform Status for WebXR Device API"
     }
   ],
   "bugs":[
     {
-      "description":"WebVR is in development and is still changing. Because of this there could be bugs inside the standard of the W3C."
+      "description":"WebXR is in development and is still changing. WebXR was formally developed as WebVR. Because of this there could be bugs inside the standard of the W3C."
     }
   ],
   "categories":[
@@ -333,7 +337,7 @@
   },
   "notes":"Not every computer or smartphone could run WebVR appication. For smartphones, you need a gyroscope and for computers must be VR-ready also the needed sotfware (Oculus client or (Steam VR and VivePort)) and drivers must been installed on the computer. In this situations, you've the best experiance to use WebVR applications.",
   "notes_by_num":{
-    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS.",
+    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS. Work in progress for GNU/Linux.",
     "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
     "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supports only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
     "4":"Supports only Samsung Galaxy devices with the Samgung Gear VR",
