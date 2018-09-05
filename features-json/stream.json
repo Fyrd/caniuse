@@ -278,8 +278,7 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"y #3",
-      "11.3":"y",
-      "11.4":"y #3",
+      "11.3-11.4":"y #3",
       "12":"y"
     },
     "op_mini":{
@@ -340,7 +339,7 @@
   "notes_by_num":{
     "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740).",
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one.",
-    "3":"Does not work in installed PWAs, getUserMedia is only available directly in Safari but neither in a UIWebView nor WKWebView."
+    "3":"Does not work in installed PWAs, getUserMedia is only available directly in Safari but neither in a UIWebView nor WKWebView. Note: 11.3 seems to work fine."
   },
   "usage_perc_y":84.42,
   "usage_perc_a":2.74,
