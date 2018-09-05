@@ -269,8 +269,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.2":"y",
-      "11.3-11.4":"y",
+      "11.0-11.2":"y #4",
+      "11.3":"y",
+      "11.4":"y #4",
       "12":"y"
     },
     "op_mini":{
@@ -331,7 +332,8 @@
   "notes_by_num":{
     "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed.",
     "2":"Can be enabled via the \"Enable WebRTC 1.0\" flag",
-    "3":"Edge does not support RTCDataChannel. See [API Catalogue](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?q=specName%3Awebrtc)"
+    "3":"Edge does not support RTCDataChannel. See [API Catalogue](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?q=specName%3Awebrtc)",
+    "4":"Does not work in installed PWAs, getUserMedia is only available directly in Safari but neither in a UIWebView nor WKWebView."
   },
   "usage_perc_y":78.86,
   "usage_perc_a":1.74,
