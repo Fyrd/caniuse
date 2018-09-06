@@ -110,7 +110,8 @@
       "60":"n d #1",
       "61":"n d #1",
       "62":"n d #1",
-      "63":"n d #1"
+      "63":"n d #1",
+      "64":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -178,9 +179,10 @@
       "66":"n",
       "67":"n d #2",
       "68":"n d #2",
-      "69":"y",
+      "69":"n d #2",
       "70":"y",
-      "71":"y"
+      "71":"y",
+      "72":"y"
     },
     "safari":{
       "3.1":"n",
@@ -332,7 +334,7 @@
     "1":"Can be enabled in Firefox Nightly only, via the `media.av1.enabled` flag in `about:config`",
     "2":"Can be enabled in Chrome via the #enable-av1-decoder flag in `chrome://flags`"
   },
-  "usage_perc_y":0.11,
+  "usage_perc_y":0.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
