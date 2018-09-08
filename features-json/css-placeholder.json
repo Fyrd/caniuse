@@ -42,8 +42,8 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"a x",
-      "11":"a x"
+      "10":"n",
+      "11":"n"
     },
     "edge":{
       "12":"a x",
@@ -337,7 +337,7 @@
       "7.12":"y"
     }
   },
-  "notes":"Partial support refers to using alternate names:\r\n`::-webkit-input-placeholder` for Chrome/Safari/Opera ([Chrome issue #623345](https://bugs.chromium.org/p/chromium/issues/detail?id=623345))\r\n`:-ms-input-placeholder` for IE. \r\n`::-ms-input-placeholder` for Edge (also supports webkit prefix)",
+  "notes":"Partial support refers to using alternate names:\r\n`::-webkit-input-placeholder` for Chrome/Safari/Opera ([Chrome issue #623345](https://bugs.chromium.org/p/chromium/issues/detail?id=623345)) \r\n`::-ms-input-placeholder` for Edge (also supports webkit prefix)",
   "notes_by_num":{
     "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
