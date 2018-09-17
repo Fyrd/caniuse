@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Partial support in Edge refers to [broken nonce suport](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/13246371/) which will lead to breakages since sourced script tags with a valid nonce will get blocked."
+    }
   ],
   "categories":[
     "Security"
@@ -33,10 +35,10 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "15":"a #9",
+      "16":"a #9",
+      "17":"a #9",
+      "18":"a #9"
     },
     "firefox":{
       "2":"n",
@@ -329,7 +331,8 @@
     "4":"Chrome 36-38 & Opera 23-25 are missing the plugin-types, child-src, frame-ancestors, base-uri, and form-action directives.",
     "5":"Chrome 39 and Opera 26 are missing the plugin-types, child-src, base-uri, and form-action directives.",
     "6":"Firefox 38 on Android is missing the child-src directive.",
-    "7":"Firefox 45+ is missing the plugin-types directive."
+    "7":"Firefox 45+ is missing the plugin-types directive.",
+    "9":"Edge has broken nonce support as it ignores nonces on sourced scripts."
   },
   "usage_perc_y":76.49,
   "usage_perc_a":4.88,
