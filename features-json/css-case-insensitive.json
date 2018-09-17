@@ -1,8 +1,8 @@
 {
   "title":"Case-insensitive CSS attribute selectors",
   "description":"Including an `i` before the `]` in a CSS attribute selector causes the attribute value to be matched in an ASCII-case-insensitive manner. For example, `[b=\"xyz\" i]` would match both `<a b=\"xyz\">` and `<a b=\"XYZ\">`.",
-  "spec":"https://drafts.csswg.org/selectors-4/#attribute-case",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/selectors-4/#attribute-case",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors#case-insensitive",
