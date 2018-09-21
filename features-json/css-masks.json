@@ -13,8 +13,8 @@
       "title":"HTML5 Rocks article"
     },
     {
-      "url":"https://web.archive.org/web/20160505054016/http://thenittygritty.co/css-masking",
-      "title":"Detailed blog post (via The Internet Archive)"
+      "url":"http://thenittygritty.co/css-masking",
+      "title":"Detailed blog post"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1224422",
@@ -23,6 +23,10 @@
     {
       "url":"http://lab.iamvdo.me/css-svg-masks",
       "title":"Visual test cases"
+    },
+    {
+      "url":"https://web.archive.org/web/20160505054016/http://thenittygritty.co/css-masking",
+      "title":"Detailed blog post (via The Internet Archive)"
     }
   ],
   "bugs":[
@@ -308,10 +312,10 @@
       "46":"a x #1"
     },
     "and_chr":{
-      "67":"a x #1"
+      "69":"a x #1"
     },
     "and_ff":{
-      "60":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",

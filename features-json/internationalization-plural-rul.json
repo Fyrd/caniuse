@@ -193,7 +193,7 @@
       "10.1":"n",
       "11":"n",
       "11.1":"n",
-      "12":"u",
+      "12":"n",
       "TP":"u"
     },
     "opera":{
@@ -296,10 +296,10 @@
       "46":"n"
     },
     "and_chr":{
-      "67":"y"
+      "69":"y"
     },
     "and_ff":{
-      "60":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -325,7 +325,7 @@
   "notes_by_num":{
     "1":"Intl.PluralRules exists, but methods are not implemented."
   },
-  "usage_perc_y":85.5,
+  "usage_perc_y":63.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"internationalization",
@@ -334,5 +334,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }

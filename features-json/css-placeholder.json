@@ -312,10 +312,10 @@
       "46":"y"
     },
     "and_chr":{
-      "67":"y"
+      "69":"y"
     },
     "and_ff":{
-      "60":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"a x",
@@ -339,10 +339,10 @@
   },
   "notes":"Partial support refers to using alternate names:\r\n`::-webkit-input-placeholder` for Chrome/Safari/Opera ([Chrome issue #623345](https://bugs.chromium.org/p/chromium/issues/detail?id=623345)) \r\n`::-ms-input-placeholder` for Edge (also supports webkit prefix)",
   "notes_by_num":{
-    
+    "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
   "usage_perc_y":82.8,
-  "usage_perc_a":10.35,
+  "usage_perc_a":7.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

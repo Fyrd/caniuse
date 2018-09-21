@@ -195,8 +195,8 @@
       "10.1":"a #2 #5",
       "11":"a #2 #5",
       "11.1":"a #2 #5",
-      "12":"a #2 #5",
-      "TP":"a #2 #5"
+      "12":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -267,7 +267,7 @@
       "10.3":"a #2 #3 #5",
       "11.0-11.2":"a #2 #3 #5",
       "11.3-11.4":"a #2 #3 #5",
-      "12":"a #2 #3 #5"
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -298,10 +298,10 @@
       "46":"a #4 #5"
     },
     "and_chr":{
-      "67":"a #5"
+      "69":"a #5"
     },
     "and_ff":{
-      "60":"a #4"
+      "62":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -333,8 +333,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":0,
-  "usage_perc_a":86.8,
+  "usage_perc_y":0.11,
+  "usage_perc_a":86.7,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",
