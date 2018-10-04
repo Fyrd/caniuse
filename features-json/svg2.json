@@ -339,8 +339,8 @@
   "notes":"",
   "notes_by_num":{
   },
-  "usage_perc_y":0.0,
-  "usage_perc_a":0.0,
+  "usage_perc_y":0,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset",
@@ -348,5 +348,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }
