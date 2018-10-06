@@ -1,8 +1,8 @@
 {
   "title":"selector list argument of :nth-child and :nth-last-child CSS pseudo-classes",
   "description":"The newest versions of `:nth-child()` and `:nth-last-child()` accept an optional `of S` clause which filters the children to only those which match the selector list `S`. For example, `:nth-child(1 of .foo)` selects the first child among the children that have the `foo` class (ignoring any non-`foo` children which precede that child). Similar to `:nth-of-type`, but for arbitrary selectors instead of only type selectors.",
-  "spec":"https://drafts.csswg.org/selectors/#the-nth-child-pseudo",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/selectors-4/#the-nth-child-pseudo",
+  "status":"wd",
   "links":[
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=854148",
@@ -15,10 +15,14 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/15944476",
       "title":"MS Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/status/cssselectorslevel4/",
+      "title":"MS Edge Platform Status: Under Consideration"
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "CSS"
@@ -327,7 +331,7 @@
   },
   "notes":"For support information for just `:nth-child()` see [CSS3 selector support](#feat=css-sel3)",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":12.8,
   "usage_perc_a":0,
