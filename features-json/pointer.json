@@ -31,10 +31,6 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=822898",
       "title":"Bugzilla@Mozilla: Bug 822898 - Implement pointer events"
-    },
-    {
-      "url":"https://webkit.org/status/#?search=pointer%20events",
-      "title":"Safari has this feature under development"
     }
   ],
   "bugs":[
@@ -360,6 +356,6 @@
   "ie_id":"pointerevents",
   "chrome_id":"4504699138998272",
   "firefox_id":"pointer-events",
-  "webkit_id":"",
+  "webkit_id":"specification-pointer-events-level-2",
   "shown":true
 }
