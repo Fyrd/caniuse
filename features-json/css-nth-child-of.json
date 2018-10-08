@@ -1,8 +1,8 @@
 {
   "title":"selector list argument of :nth-child and :nth-last-child CSS pseudo-classes",
   "description":"The newest versions of `:nth-child()` and `:nth-last-child()` accept an optional `of S` clause which filters the children to only those which match the selector list `S`. For example, `:nth-child(1 of .foo)` selects the first child among the children that have the `foo` class (ignoring any non-`foo` children which precede that child). Similar to `:nth-of-type`, but for arbitrary selectors instead of only type selectors.",
-  "spec":"https://www.w3.org/TR/selectors-4/#the-nth-child-pseudo",
-  "status":"wd",
+  "spec":"https://drafts.csswg.org/selectors/#the-nth-child-pseudo",
+  "status":"unoff",
   "links":[
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=854148",
@@ -338,7 +338,7 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"nth-child,nth-last-child,nth,child,an,b,of,s,sel,selector,list",
-  "ie_id":"",
+  "ie_id":"cssselectorslevel4",
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"feature-css-selector-:nth-child(an+b-of-selector-list)-and-:nth-last-child(an+b-of-selector-list)",
