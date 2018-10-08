@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Fyrd/caniuse.git"
+  },
+  "scripts": {
+    "validate": "node validator/validate-jsons.js"
   }
 }
