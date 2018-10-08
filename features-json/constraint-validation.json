@@ -5,20 +5,20 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://github.com/jelmerdemaat/report-validity",
-      "title":"`reportValidity()` ponyfill"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation",
       "title":"MDN article on constraint validation"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/14744163-support-htmlformelement-reportvalidity",
       "title":"MS Edge UserVoice request for reportValidity"
+    },
+    {
+      "url":"https://github.com/jelmerdemaat/report-validity",
+      "title":"`reportValidity()` ponyfill"
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "JS API"
