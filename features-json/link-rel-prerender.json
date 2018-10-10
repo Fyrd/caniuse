@@ -14,9 +14,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"Chrome intends to [deprecate and remove](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/0nSxuuv9bBw/EMfaclV-AwAJ) support for prerender in the future."
-    }
+
   ],
   "categories":[
     "DOM"
@@ -323,7 +321,7 @@
       "7.12":"y"
     }
   },
-  "notes":"",
+  "notes":"Chrome treats the prerender hint as a [NoState Prefetch](https://developers.google.com/web/updates/2018/07/nostate-prefetch) instead, and unlike a full prerender it wont execute JavaScript or render any part of the page in advance.",
   "notes_by_num":{
     
   },
