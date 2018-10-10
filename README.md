@@ -1,4 +1,5 @@
-![](https://travis-ci.org/Fyrd/caniuse.svg?branch=master)
+# caniuse
+[![Build Status](https://travis-ci.org/Fyrd/caniuse.svg?branch=master)](https://travis-ci.org/Fyrd/caniuse)
 
 This repo contains raw data from the caniuse.com support tables. It serves two purposes:
 
