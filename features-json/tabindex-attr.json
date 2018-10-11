@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description": "[Edge Bug 4355703](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/4365703/) - tabIndex attribute getter returns 0 instead of -1 for elements without explicit tabindex"
+    }
   ],
   "categories":[
     "HTML5"
