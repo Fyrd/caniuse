@@ -62,10 +62,10 @@ Currently the following feature information can be modified:
 * **ucprefix** — Prefix should start with an uppercase letter
 * **parent** — ID of parent feature
 * **keywords** — Comma separated words that will match the feature in a search
-* **ie_id** — Comma separated IDs used by [status.modern.ie](http://status.modern.ie) - Each ID is the string in the feature's URL
-* **chrome_id** — Comma separated IDs used by [chromestatus.com](http://chromestatus.com) - Each ID is the number in the feature's URL
+* **ie_id** — Comma separated IDs used by [developer.microsoft.com](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/) - Each ID is the string in the feature's URL
+* **chrome_id** — Comma separated IDs used by [chromestatus.com](https://www.chromestatus.com/) - Each ID is the number in the feature's URL
 * **firefox_id** - Comma separated IDs used by [platform-status.mozilla.org](https://platform-status.mozilla.org/) - Each ID is the filename (minus the `.md` extension suffix) of the relevant file in [the `/features/` directory of Mozilla's Platform Status project on GitHub](https://github.com/mozilla/platform-status/tree/master/features)
-* **webkit_id** - Comma separated IDs used by [webkit.org/status.html](http://www.webkit.org/status.html) - Each ID is the title of the feature's box on the status webpage
+* **webkit_id** - Comma separated IDs used by [webkit.org/status/](https://webkit.org/status/) - Each ID is the title of the feature's box on the status webpage
 * **shown** — Whether or not feature is ready to be shown on the site. This can be left as false if the support data or information for other fields is still being collected
 
 ### Adding a feature
