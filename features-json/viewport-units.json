@@ -57,7 +57,7 @@
       "description":"In IE9 inside an iframe, viewport units will be calculated in the context of the parent window and not the iframe."
     },
     {
-      "description":"`vh` on iOS is reported to include the height of the bottom toolbar in the height calculation, and the width of the sidebar (bookmarks) in the `vw` width calculation."
+      "description":"On iOS Safari and Chrome for Android, [`100vw` `100vh` are sized to the 'largest possible viewport' where they may be larger than `<html> 100%` being the 'smallest possible viewport'](https://developers.google.com/web/updates/2016/12/url-bar-resizing), all during the user's scrolling. On Safari for iPad with the sidebar on, the 'largest possible viewport' may be when the content is scrolled until it fills all the area beneath the blurred sidebar."
     },
     {
       "description":"IE and Edge truncate all units to 2 decimals places. Lengths coming from fractions may not be rendered with the expected value."
