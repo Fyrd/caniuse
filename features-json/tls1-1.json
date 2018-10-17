@@ -7,6 +7,22 @@
     {
       "url":"https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.1",
       "title":"Wikipedia article on TLS"
+    },
+    {
+      "url":"https://security.googleblog.com/2018/10/modernizing-transport-security.html",
+      "title":"Modernizing Transport Security - Google Security Blog"
+    },
+    {
+      "url":"https://blogs.windows.com/msedgedev/2018/10/15/modernizing-tls-edge-ie11/",
+      "title":"Modernizing TLS connections in Microsoft Edge and Internet Explorer 11 - Microsoft Windows Blog"
+    },
+    {
+      "url":"https://blog.mozilla.org/security/2018/10/15/removing-old-versions-of-tls/",
+      "title":"Removing Old Versions of TLS - Mozilla Security Blog"
+    },
+    {
+      "url":"https://webkit.org/blog/8462/deprecation-of-legacy-tls-1-0-and-1-1-versions/",
+      "title":"Deprecation of Legacy TLS 1.0 and 1.1 Versions - WebKit Blog"
     }
   ],
   "bugs":[
@@ -317,7 +333,7 @@
       "7.12":"y"
     }
   },
-  "notes":"",
+  "notes":"TLS 1.0 & 1.2 are deprecated in Chrome, Edge, Firefox, Internet Explorer 11, & Safari. Support will be removed in March 2020.",
   "notes_by_num":{
     
   },
