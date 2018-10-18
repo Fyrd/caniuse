@@ -10,6 +10,7 @@
     }
   ],
   "bugs":[
+    
   ],
   "categories":[
     "CSS"
@@ -321,13 +322,13 @@
     "1":"Does not support `clamp()`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":10.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"calc,min,max,clamp",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"1452609",
-  "webkit_id":"167000"
+  "webkit_id":"167000",
+  "shown":false
 }
