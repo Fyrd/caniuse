@@ -193,12 +193,12 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"n",
-      "10.1":"n",
-      "11":"n",
-      "11.1":"n",
-      "12":"n",
-      "TP":"n"
+      "10":"n d #1",
+      "10.1":"n d #1",
+      "11":"n d #1",
+      "11.1":"n d #1",
+      "12":"n d #1",
+      "TP":"n d #1"
     },
     "opera":{
       "9":"n",
@@ -327,6 +327,7 @@
   },
   "notes":"",
   "notes_by_num":{
+    "1":"Apple provides an equivalent proprietary API for Picture-in-Picture.",
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
@@ -337,5 +338,5 @@
   "chrome_id":"5729206566649856",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }
