@@ -1,6 +1,6 @@
 {
   "title":"display: flow-root",
-  "description":"The element generates a block container box, and lays out its contents using flow layout. It always establishes a new block formatting context for its contents. The result is the same as the \"clearfix\" hack.",
+  "description":"The element generates a block container box, and lays out its contents using flow layout. It always establishes a new block formatting context for its contents. It provides a better solution to the most use cases of the \"clearfix\" hack.",
   "spec":"https://www.w3.org/TR/css-display-3/#valdef-display-flow-root",
   "status":"wd",
   "links":[
@@ -14,7 +14,7 @@
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=165603",
-      "title":"Webkit bug report"
+      "title":"WebKit bug report"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854/suggestions/17420707",
@@ -47,7 +47,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -109,7 +111,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -173,7 +180,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"n",
@@ -191,6 +206,8 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -240,7 +257,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -255,7 +278,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -270,7 +295,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -283,24 +308,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -313,7 +340,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":58.68,
+  "usage_perc_y":65.3,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

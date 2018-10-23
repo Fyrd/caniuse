@@ -1,6 +1,6 @@
 {
   "title":"JavaScript modules via script tag",
-  "description":"Loading JavaScript modules using `<script type=\"module\">`",
+  "description":"Loading JavaScript module scripts using `<script type=\"module\">` Includes support for the `nomodule` attribute.",
   "spec":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-type",
   "status":"ls",
   "links":[
@@ -27,6 +27,14 @@
     {
       "url":"https://tc39.github.io/ecma262/#sec-modules",
       "title":"Counterpart ECMAScript specification for import/export syntax"
+    },
+    {
+      "url":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-nomodule",
+      "title":"Specification for nomodule attribute"
+    },
+    {
+      "url":"https://hospodarets.com/native-ecmascript-modules-nomodule",
+      "title":"Blog post on using nomodule"
     }
   ],
   "bugs":[
@@ -50,7 +58,9 @@
       "13":"n",
       "14":"n",
       "15":"n d #1",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -112,7 +122,12 @@
       "56":"n d #2",
       "57":"n d #2",
       "58":"n d #2",
-      "59":"n d #2"
+      "59":"n d #2",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +191,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"n",
@@ -192,8 +215,10 @@
       "9":"n",
       "9.1":"n",
       "10":"n",
-      "10.1":"y",
+      "10.1":"a #4 #5",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -241,9 +266,15 @@
       "45":"n",
       "46":"n",
       "47":"n d #1",
-      "48":"n d #1",
-      "49":"n d #1",
-      "50":"n d #1"
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -257,8 +288,10 @@
       "9.0-9.2":"n",
       "9.3":"n",
       "10.0-10.2":"n",
-      "10.3":"y",
-      "11":"y"
+      "10.3":"a #4 #5",
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -273,7 +306,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -286,24 +319,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"n d #2"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -316,13 +351,15 @@
   "notes_by_num":{
     "1":"Support can be enabled via `about:flags`",
     "2":"Support can be enabled via `about:config`",
-    "3":"Support can be enabled via the `experimental-web-platform-features` flag"
+    "3":"Support can be enabled via the `experimental-web-platform-features` flag",
+    "4":"Does not support the `nomodule` attribute",
+    "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3"
   },
-  "usage_perc_y":44.7,
-  "usage_perc_a":0,
+  "usage_perc_y":77.78,
+  "usage_perc_a":0.71,
   "ucprefix":false,
   "parent":"",
-  "keywords":"es6,javascript,module,import,export",
+  "keywords":"es6,javascript,module,import,export,nomodule",
   "ie_id":"moduleses6",
   "chrome_id":"5365692190687232",
   "firefox_id":"",

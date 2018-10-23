@@ -1,7 +1,7 @@
 {
   "title":"Geolocation",
   "description":"Method of informing a website of the user's geographical location",
-  "spec":"http://www.w3.org/TR/geolocation-API/",
+  "spec":"https://www.w3.org/TR/geolocation-API/",
   "status":"rec",
   "links":[
     {
@@ -25,10 +25,10 @@
       "description":"iOS6 has problems with returning [high accuracy data](https://discussions.apple.com/thread/4313850?start=0&tstart=0)."
     },
     {
-      "description":"Safari 5 & 6 seem to not provide geolocation data [when using a wired connection](http://stackoverflow.com/questions/3791442/geolocation-in-safari-5)."
+      "description":"Safari 5 & 6 seem to not provide geolocation data [when using a wired connection](https://stackoverflow.com/questions/3791442/geolocation-in-safari-5)."
     },
     {
-      "description":"Firefox sometimes fails to call the success or error callbacks [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=675533)"
+      "description":"Firefox 52 and below had a permission dialog with an additional \"not now\" option. This option postponed the permission decision until later and therefore deliberately did not call any callbacks, [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=675533)"
     }
   ],
   "categories":[
@@ -49,7 +49,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"p",
@@ -111,7 +113,12 @@
       "56":"y #1",
       "57":"y #1",
       "58":"y #1",
-      "59":"y #1"
+      "59":"y #1",
+      "60":"y #1",
+      "61":"y #1",
+      "62":"y #1",
+      "63":"y #1",
+      "64":"y #1"
     },
     "chrome":{
       "4":"a",
@@ -175,7 +182,15 @@
       "62":"y #1",
       "63":"y #1",
       "64":"y #1",
-      "65":"y #1"
+      "65":"y #1",
+      "66":"y #1",
+      "67":"y #1",
+      "68":"y #1",
+      "69":"y #1",
+      "70":"y #1",
+      "71":"y #1",
+      "72":"y #1",
+      "73":"y #1"
     },
     "safari":{
       "3.1":"p",
@@ -193,6 +208,8 @@
       "10":"y #1",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -242,7 +259,13 @@
       "47":"y #1",
       "48":"y #1",
       "49":"y #1",
-      "50":"y #1"
+      "50":"y #1",
+      "51":"y #1",
+      "52":"y #1",
+      "53":"y #1",
+      "54":"y #1",
+      "55":"y #1",
+      "56":"y #1"
     },
     "ios_saf":{
       "3.2":"y",
@@ -257,7 +280,9 @@
       "9.3":"y",
       "10.0-10.2":"y #1",
       "10.3":"y #1",
-      "11":"y #1"
+      "11.0-11.2":"y #1",
+      "11.3-11.4":"y #1",
+      "12":"y #1"
     },
     "op_mini":{
       "all":"n"
@@ -272,7 +297,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y #1"
+      "67":"y #1"
     },
     "bb":{
       "7":"y",
@@ -285,24 +310,26 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y #1"
+      "69":"y #1"
     },
     "and_ff":{
-      "56":"y #1"
+      "62":"y #1"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y #1"
+      "5":"y #1",
+      "6.2":"y #1",
+      "7.2":"y #1"
     },
     "and_qq":{
       "1.2":"y #1"
@@ -315,7 +342,7 @@
   "notes_by_num":{
     "1":"Only works on secure (https) servers"
   },
-  "usage_perc_y":95.07,
+  "usage_perc_y":93.61,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

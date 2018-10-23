@@ -15,6 +15,10 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/10311075-hevc-support",
       "title":"UserVoice support request for Edge"
+    },
+    {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=684382",
+      "title":"Chrome support bug (WontFix)"
     }
   ],
   "bugs":[
@@ -38,7 +42,9 @@
       "13":"a #1",
       "14":"a #1",
       "15":"a #1",
-      "16":"a #1"
+      "16":"a #1",
+      "17":"a #1",
+      "18":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -100,7 +106,12 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n"
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n"
     },
     "chrome":{
       "4":"n",
@@ -164,7 +175,15 @@
       "62":"n",
       "63":"n",
       "64":"n",
-      "65":"n"
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n"
     },
     "safari":{
       "3.1":"n",
@@ -181,8 +200,10 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"y #3",
-      "TP":"y #3"
+      "11":"a #3",
+      "11.1":"a #3",
+      "12":"a #3",
+      "TP":"a #3"
     },
     "opera":{
       "9":"n",
@@ -231,7 +252,13 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"n"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -246,7 +273,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -261,7 +290,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n #2"
+      "67":"n #2"
     },
     "bb":{
       "7":"n",
@@ -274,24 +303,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n #2"
+      "69":"n #2"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n #2"
+      "5":"n #2",
+      "6.2":"n #2",
+      "7.2":"n #2"
     },
     "and_qq":{
       "1.2":"n"
@@ -304,13 +335,13 @@
   "notes_by_num":{
     "1":"Supported only for devices with [hardware support](https://answers.microsoft.com/en-us/insider/forum/insider_apps-insider_wmp/windows-10-hevc-playback-yes-or-no/3c1ab780-a6b2-4b77-ac0f-9faeefd4680d)",
     "2":"Reported to work in certain Android devices with hardware support",
-    "3":"Supported only on macOS High Sierra"
+    "3":"Supported only on macOS High Sierra or later"
   },
-  "usage_perc_y":1.99,
-  "usage_perc_a":5.14,
+  "usage_perc_y":9.28,
+  "usage_perc_a":6.39,
   "ucprefix":false,
   "parent":"video",
-  "keywords":"",
+  "keywords":"h265",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

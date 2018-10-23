@@ -1,11 +1,11 @@
 {
   "title":"Filesystem & FileWriter API",
   "description":"Method of reading and writing files to a sandboxed file system.",
-  "spec":"http://www.w3.org/TR/file-system-api/",
+  "spec":"https://www.w3.org/TR/file-system-api/",
   "status":"unoff",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/file/filesystem/",
+      "url":"https://www.html5rocks.com/en/tutorials/file/filesystem/",
       "title":"HTML5 Rocks tutorial"
     },
     {
@@ -38,7 +38,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -100,7 +102,12 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n"
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n"
     },
     "chrome":{
       "4":"n",
@@ -164,7 +171,15 @@
       "62":"y x",
       "63":"y x",
       "64":"y x",
-      "65":"y x"
+      "65":"y x",
+      "66":"y x",
+      "67":"y x",
+      "68":"y x",
+      "69":"y x",
+      "70":"y x",
+      "71":"y x",
+      "72":"y x",
+      "73":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -182,6 +197,8 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -231,7 +248,13 @@
       "47":"y x",
       "48":"y x",
       "49":"y x",
-      "50":"y x"
+      "50":"y x",
+      "51":"y x",
+      "52":"y x",
+      "53":"y x",
+      "54":"y x",
+      "55":"y x",
+      "56":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -246,7 +269,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -261,7 +286,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -274,24 +299,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y x"
+      "46":"y x"
     },
     "and_chr":{
-      "61":"y x"
+      "69":"y x"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"y x"
+      "5":"y x",
+      "6.2":"y x",
+      "7.2":"y x"
     },
     "and_qq":{
       "1.2":"n"
@@ -304,8 +331,8 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":60.07,
-  "usage_perc_a":0.04,
+  "usage_perc_y":63.41,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"filewriter,requestFileSystem",

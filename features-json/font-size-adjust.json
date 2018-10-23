@@ -1,7 +1,7 @@
 {
   "title":"CSS font-size-adjust",
   "description":"Method of adjusting the font size in a matter that relates to the height of lowercase vs. uppercase letters. This makes it easier to set the size of fallback fonts.",
-  "spec":"http://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop",
+  "spec":"https://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop",
   "status":"cr",
   "links":[
     {
@@ -38,7 +38,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -100,7 +102,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -164,7 +171,15 @@
       "62":"n d #1",
       "63":"n d #1",
       "64":"n d #1",
-      "65":"n d #1"
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1",
+      "69":"n d #1",
+      "70":"n d #1",
+      "71":"n d #1",
+      "72":"n d #1",
+      "73":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -182,6 +197,8 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -231,7 +248,13 @@
       "47":"n d #1",
       "48":"n d #1",
       "49":"n d #1",
-      "50":"n d #1"
+      "50":"n d #1",
+      "51":"n d #1",
+      "52":"n d #1",
+      "53":"n d #1",
+      "54":"n d #1",
+      "55":"n d #1",
+      "56":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -246,7 +269,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -261,7 +286,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -274,24 +299,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "69":"n"
     },
     "and_ff":{
-      "56":"n #2"
+      "62":"n #2"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n d #1"
@@ -305,7 +332,7 @@
     "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
-  "usage_perc_y":5.87,
+  "usage_perc_y":4.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

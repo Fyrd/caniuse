@@ -61,6 +61,9 @@
     },
     {
       "description":"In Firefox, the dragging near the edge of scrollable regions does not cause [scrolling](https://bugzilla.mozilla.org/show_bug.cgi?id=41708)"
+    },
+    {
+      "description":"In Firefox, an element won't drag unless the `dragstart` handler sets `dataTransfer` data (even if it doesn't get retrieved). [Test case](https://codepen.io/michai/pen/NwORqO)"
     }
   ],
   "categories":[
@@ -81,7 +84,9 @@
       "13":"a #2",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"a #2",
+      "17":"a #2",
+      "18":"y"
     },
     "firefox":{
       "2":"p",
@@ -143,7 +148,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"y",
@@ -207,7 +217,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"y",
@@ -225,6 +243,8 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -274,7 +294,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -289,7 +315,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"n"
@@ -304,7 +332,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -317,24 +345,26 @@
       "11.5":"p",
       "12":"p",
       "12.1":"y",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "69":"n"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -349,8 +379,8 @@
     "2":"Partial support refers to not supporting `.setDragImage`",
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`."
   },
-  "usage_perc_y":38.19,
-  "usage_perc_a":5.75,
+  "usage_perc_y":47.19,
+  "usage_perc_a":4.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

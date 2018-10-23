@@ -1,8 +1,8 @@
 {
   "title":"CSS Logical Properties",
   "description":"Use start/end properties that depend on LTR or RTL writing direction instead of left/right",
-  "spec":"http://dev.w3.org/csswg/css-logical-props/",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/css-logical-1/",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-margin-start",
@@ -39,7 +39,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -101,7 +103,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"a x #2",
@@ -165,7 +172,15 @@
       "62":"a x #2",
       "63":"a x #2",
       "64":"a x #2",
-      "65":"a x #2"
+      "65":"a x #2",
+      "66":"a x #2",
+      "67":"a x #2",
+      "68":"a x #2",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"a x #2",
@@ -183,7 +198,9 @@
       "10":"a x #2",
       "10.1":"a x #2",
       "11":"a x #2",
-      "TP":"a x #2"
+      "11.1":"a x #2",
+      "12":"a x #2",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -232,7 +249,13 @@
       "47":"a x #2",
       "48":"a x #2",
       "49":"a x #2",
-      "50":"a x #2"
+      "50":"a x #2",
+      "51":"a x #2",
+      "52":"a x #2",
+      "53":"a x #2",
+      "54":"a x #2",
+      "55":"a x #2",
+      "56":"a x #2"
     },
     "ios_saf":{
       "3.2":"a x #2",
@@ -247,7 +270,9 @@
       "9.3":"a x #2",
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
-      "11":"a x #2"
+      "11.0-11.2":"a x #2",
+      "11.3-11.4":"a x #2",
+      "12":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -262,7 +287,7 @@
       "4.2-4.3":"a x #2",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "56":"a x #2"
+      "67":"y"
     },
     "bb":{
       "7":"a x #2",
@@ -275,24 +300,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a x #2"
+      "46":"a x #2"
     },
     "and_chr":{
-      "61":"a x #2"
+      "69":"y"
     },
     "and_ff":{
-      "56":"a x #1"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x #2"
+      "11.8":"a x #2"
     },
     "samsung":{
       "4":"a x #2",
-      "5":"a x #2"
+      "5":"a x #2",
+      "6.2":"a x #2",
+      "7.2":"a x #2"
     },
     "and_qq":{
       "1.2":"a x #2"
@@ -306,8 +333,8 @@
     "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
     "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
   },
-  "usage_perc_y":5.51,
-  "usage_perc_a":83.71,
+  "usage_perc_y":48.29,
+  "usage_perc_a":40.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"margin-start,margin-end,padding-start,padding-end,border-start,border-end,inline-start,inline-end,block-start,block-end,block-size,inline-size",

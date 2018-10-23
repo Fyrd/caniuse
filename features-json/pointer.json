@@ -1,7 +1,7 @@
 {
   "title":"Pointer events",
   "description":"This specification integrates various inputs from mice, touchscreens, and pens, making separate implementations no longer necessary and authoring for cross-device pointers easier. Not to be mistaken with the unrelated \"pointer-events\" CSS property.",
-  "spec":"http://www.w3.org/TR/pointerevents/",
+  "spec":"https://www.w3.org/TR/pointerevents/",
   "status":"rec",
   "links":[
     {
@@ -55,7 +55,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -117,7 +119,12 @@
       "56":"p d #2",
       "57":"p d #2",
       "58":"p d #2",
-      "59":"p d #2"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -181,7 +188,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"n",
@@ -199,7 +214,9 @@
       "10":"p",
       "10.1":"p",
       "11":"p",
-      "TP":"p"
+      "11.1":"p",
+      "12":"p",
+      "TP":"p d #4"
     },
     "opera":{
       "9":"n",
@@ -248,7 +265,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -263,7 +286,9 @@
       "9.3":"p",
       "10.0-10.2":"p",
       "10.3":"p",
-      "11":"p"
+      "11.0-11.2":"p",
+      "11.3-11.4":"p",
+      "12":"p"
     },
     "op_mini":{
       "all":"n"
@@ -278,7 +303,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"p",
@@ -291,24 +316,26 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "37":"p"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"p d #2"
+      "62":"p d #2"
     },
     "ie_mob":{
       "10":"a x",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"p"
+      "11.8":"p"
     },
     "samsung":{
       "4":"p",
-      "5":"n"
+      "5":"n",
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"p d #3"
@@ -321,16 +348,17 @@
   "notes_by_num":{
     "1":"Partial support in IE10 refers the lack of pointerenter and pointerleave events.",
     "2":"Firefox support is disabled by default and [only supports mouse input](https://hacks.mozilla.org/2015/08/pointer-events-now-in-firefox-nightly/). On Windows only, touch can be enabled with the `layers.async-pan-zoom.enabled` and `dom.w3c_touch_events.enabled` flags",
-    "3":"Can be enabled with the `#enable-pointer-events` flag."
+    "3":"Can be enabled with the `#enable-pointer-events` flag.",
+    "4":"Can be enabled under the `Experimental Features` menu."
   },
-  "usage_perc_y":60.42,
-  "usage_perc_a":0.21,
+  "usage_perc_y":69.9,
+  "usage_perc_a":0.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",
   "ie_id":"pointerevents",
   "chrome_id":"4504699138998272",
   "firefox_id":"pointer-events",
-  "webkit_id":"",
+  "webkit_id":"specification-pointer-events-level-2",
   "shown":true
 }

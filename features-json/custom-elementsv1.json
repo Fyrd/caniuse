@@ -47,7 +47,9 @@
       "13":"p",
       "14":"p",
       "15":"p",
-      "16":"p"
+      "16":"p",
+      "17":"p",
+      "18":"p"
     },
     "firefox":{
       "2":"n",
@@ -100,16 +102,21 @@
       "47":"p",
       "48":"p",
       "49":"p",
-      "50":"p",
-      "51":"p",
-      "52":"p",
-      "53":"p",
-      "54":"p",
-      "55":"p",
-      "56":"p",
-      "57":"p",
-      "58":"p",
-      "59":"p"
+      "50":"p d #2 #1",
+      "51":"p d #2 #1",
+      "52":"p d #2 #1",
+      "53":"p d #2 #1",
+      "54":"p d #2 #1",
+      "55":"p d #2 #1",
+      "56":"p d #2 #1",
+      "57":"p d #2 #1",
+      "58":"p d #2 #1",
+      "59":"p d #3 #1",
+      "60":"p d #3 #1",
+      "61":"p d #3 #1",
+      "62":"p d #3 #1",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -173,7 +180,15 @@
       "62":"a #1",
       "63":"a #1",
       "64":"a #1",
-      "65":"a #1"
+      "65":"a #1",
+      "66":"a #1",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"n",
@@ -191,6 +206,8 @@
       "10":"p",
       "10.1":"a #1",
       "11":"a #1",
+      "11.1":"a #1",
+      "12":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -240,7 +257,13 @@
       "47":"a #1",
       "48":"a #1",
       "49":"a #1",
-      "50":"a #1"
+      "50":"a #1",
+      "51":"a #1",
+      "52":"a #1",
+      "53":"a #1",
+      "54":"a #1",
+      "55":"a #1",
+      "56":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -255,7 +278,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"a #1",
-      "11":"a #1"
+      "11.0-11.2":"a #1",
+      "11.3-11.4":"a #1",
+      "12":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -270,7 +295,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"a #1"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -283,24 +308,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"a #1"
     },
     "and_chr":{
-      "61":"a #1"
+      "69":"y"
     },
     "and_ff":{
-      "56":"p"
+      "62":"p"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"y"
     },
     "samsung":{
       "4":"n",
-      "5":"a #1"
+      "5":"a #1",
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"p"
@@ -311,15 +338,17 @@
   },
   "notes":"Chrome 36+/Opera 20+ implemented a previous version of Custom Elements (v0) that used `.registerElement()`. Other browsers are implementing v1, `window.customElements.define()`.",
   "notes_by_num":{
-    "1":"Supports \"Autonomous custom elements\" but not \"Customized built-in elements\""
+    "1":"Supports \"Autonomous custom elements\" but not \"Customized built-in elements\"",
+    "2":"Enabled through the \"dom.webcomponents.enabled\" or \"dom.webcomponents.customelements.enabled\" preference in about:config",
+    "3":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":67.57,
+  "usage_perc_y":64.15,
+  "usage_perc_a":15.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components,custom elements",
   "ie_id":"customelements",
-  "chrome_id":"4696261944934400",
+  "chrome_id":"4696261944934400,4670146924773376",
   "firefox_id":"custom-elements",
   "webkit_id":"feature-custom-elements",
   "shown":true

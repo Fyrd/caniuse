@@ -1,7 +1,7 @@
 {
   "title":"DOM Parsing and Serialization",
   "description":"Various DOM parsing and serializing functions, specifically `DOMParser`, `XMLSerializer`, `innerHTML`, `outerHTML` and `insertAdjacentHTML`.",
-  "spec":"http://www.w3.org/TR/DOM-Parsing/",
+  "spec":"https://www.w3.org/TR/DOM-Parsing/",
   "status":"cr",
   "links":[
     {
@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"In IE10 and IE11, when using `innerText`, `innerHTML` or `outerHTML` on a `textarea` which has a `placeholder` attribute, the returned HTML/text also uses the `placeholder`'s value as the actual `textarea`'s value. [See bug](https://connect.microsoft.com/IE/feedback/details/811408)."
+      "description":"In IE10 and IE11, when using `innerText`, `innerHTML` or `outerHTML` on a `textarea` which has a `placeholder` attribute, the returned HTML/text also uses the `placeholder`'s value as the actual `textarea`'s value. [See bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/)."
     },
     {
       "description":"innerHTML, insertAdjacentHTML, etc aren't supported or are read-only on the following elements in IE9 and below: col, colgroup, frameset, html, head, style, table, tbody, tfoot, thead, title, and tr."
@@ -31,7 +31,7 @@
       "6":"a #2",
       "7":"a #2",
       "8":"a #2",
-      "9":"a #1",
+      "9":"a #2",
       "10":"y",
       "11":"y"
     },
@@ -40,7 +40,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"a #2",
@@ -102,7 +104,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -131,7 +138,7 @@
       "27":"a #1",
       "28":"a #1",
       "29":"a #1",
-      "30":"y",
+      "30":"a #1",
       "31":"y",
       "32":"y",
       "33":"y",
@@ -166,7 +173,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -184,6 +199,8 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -200,7 +217,7 @@
       "12.1":"a #1",
       "15":"a #1",
       "16":"a #1",
-      "17":"y",
+      "17":"a #1",
       "18":"y",
       "19":"y",
       "20":"y",
@@ -233,7 +250,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -248,7 +271,9 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -263,7 +288,7 @@
       "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"a #1",
@@ -276,24 +301,26 @@
       "11.5":"a #1",
       "12":"a #1",
       "12.1":"a #1",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5":"y",
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -308,8 +335,8 @@
     "2":"Partial support refers to supporting only `innerHTML`.",
     "3":"Partial support refers to supporting only `innerHTML` and `insertAdjacentHTML`."
   },
-  "usage_perc_y":93.72,
-  "usage_perc_a":4.51,
+  "usage_perc_y":92.37,
+  "usage_perc_a":3.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"parseFromString",

@@ -10,7 +10,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"[Edge Bug 4355703](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/4365703/) - tabIndex attribute getter returns 0 instead of -1 for elements without explicit tabindex"
+    }
   ],
   "categories":[
     "HTML5"
@@ -30,7 +32,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"u",
@@ -92,7 +96,12 @@
       "56":"y #1",
       "57":"y #1",
       "58":"y #1",
-      "59":"y #1"
+      "59":"y #1",
+      "60":"y #1",
+      "61":"y #1",
+      "62":"y #1",
+      "63":"y #1",
+      "64":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -156,7 +165,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"u",
@@ -174,6 +191,8 @@
       "10":"y #2",
       "10.1":"y #2",
       "11":"y #2",
+      "11.1":"y #2",
+      "12":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -223,7 +242,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"y #2 #3",
@@ -238,7 +263,9 @@
       "9.3":"y #2 #3",
       "10.0-10.2":"y #2 #3",
       "10.3":"y #2 #3",
-      "11":"y #2 #3"
+      "11.0-11.2":"y #2 #3",
+      "11.3-11.4":"y #2 #3",
+      "12":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -253,7 +280,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "56":"u"
+      "67":"u"
     },
     "bb":{
       "7":"u",
@@ -266,24 +293,26 @@
       "11.5":"u",
       "12":"u",
       "12.1":"u",
-      "37":"u"
+      "46":"u"
     },
     "and_chr":{
-      "61":"u"
+      "69":"y"
     },
     "and_ff":{
-      "56":"u"
+      "62":"y"
     },
     "ie_mob":{
       "10":"u",
       "11":"u"
     },
     "and_uc":{
-      "11.4":"u"
+      "11.8":"u"
     },
     "samsung":{
       "4":"u",
-      "5":"u"
+      "5":"u",
+      "6.2":"u",
+      "7.2":"u"
     },
     "and_qq":{
       "1.2":"n"
@@ -298,7 +327,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":51.86,
+  "usage_perc_y":86.06,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

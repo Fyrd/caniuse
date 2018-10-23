@@ -9,7 +9,7 @@
       "title":"Firefox support bug"
     },
     {
-      "url":"http://stackoverflow.com/questions/9251354/css-customized-scroll-bar-in-div/14150577#14150577",
+      "url":"https://stackoverflow.com/questions/9251354/css-customized-scroll-bar-in-div/14150577#14150577",
       "title":"Stackoverflow article discussiong cross-browser support"
     },
     {
@@ -17,7 +17,7 @@
       "title":"Tutorial for IE & WebKit/Blink browsers"
     },
     {
-      "url":"https://noraesae.github.io/perfect-scrollbar/",
+      "url":"http://utatti.github.io/perfect-scrollbar/",
       "title":"\"perfect-scrollbar\" - Minimal custom scrollbar plugin"
     },
     {
@@ -46,7 +46,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -108,7 +110,12 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n"
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n"
     },
     "chrome":{
       "4":"y x #2",
@@ -172,7 +179,15 @@
       "62":"y x #2",
       "63":"y x #2",
       "64":"y x #2",
-      "65":"y x #2"
+      "65":"y x #2",
+      "66":"y x #2",
+      "67":"y x #2",
+      "68":"y x #2",
+      "69":"y x #2",
+      "70":"y x #2",
+      "71":"y x #2",
+      "72":"y x #2",
+      "73":"y x #2"
     },
     "safari":{
       "3.1":"u",
@@ -190,6 +205,8 @@
       "10":"y x #2",
       "10.1":"y x #2",
       "11":"y x #2",
+      "11.1":"y x #2",
+      "12":"y x #2",
       "TP":"y x #2"
     },
     "opera":{
@@ -239,7 +256,13 @@
       "47":"y x #2",
       "48":"y x #2",
       "49":"y x #2",
-      "50":"y x #2"
+      "50":"y x #2",
+      "51":"y x #2",
+      "52":"y x #2",
+      "53":"y x #2",
+      "54":"y x #2",
+      "55":"y x #2",
+      "56":"y x #2"
     },
     "ios_saf":{
       "3.2":"u",
@@ -254,7 +277,9 @@
       "9.3":"y x #2",
       "10.0-10.2":"y x #2",
       "10.3":"y x #2",
-      "11":"y x #2"
+      "11.0-11.2":"y x #2",
+      "11.3-11.4":"y x #2",
+      "12":"y x #2"
     },
     "op_mini":{
       "all":"n"
@@ -269,7 +294,7 @@
       "4.2-4.3":"y x #2",
       "4.4":"y x #2",
       "4.4.3-4.4.4":"y x #2",
-      "56":"y x #2"
+      "67":"y x #2"
     },
     "bb":{
       "7":"y x #2",
@@ -282,24 +307,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y x #2"
+      "46":"y x #2"
     },
     "and_chr":{
-      "61":"y x #2"
+      "69":"y x #2"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y x #2"
+      "11.8":"y x #2"
     },
     "samsung":{
       "4":"y x #2",
-      "5":"y x #2"
+      "5":"y x #2",
+      "6.2":"y x #2",
+      "7.2":"y x #2"
     },
     "and_qq":{
       "1.2":"y x #2"
@@ -313,8 +340,8 @@
     "1":"Only supports styling [scrollbar colors](https://msdn.microsoft.com/en-us/library/ms531155%28v=vs.85%29.aspx), no other properties to define the scrollbar's appearance.",
     "2":"Supports scrollbar styling via CSS [pseudo-properties](https://webkit.org/blog/363/styling-scrollbars/)."
   },
-  "usage_perc_y":83.23,
-  "usage_perc_a":3.65,
+  "usage_perc_y":83.63,
+  "usage_perc_a":2.92,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color",

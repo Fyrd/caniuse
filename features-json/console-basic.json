@@ -13,10 +13,6 @@
       "title":"Chrome console reference"
     },
     {
-      "url":"https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Console/Console.html",
-      "title":"Safari console reference"
-    },
-    {
       "url":"https://msdn.microsoft.com/en-us/library/hh772169",
       "title":"Edge/Internet Explorer console reference"
     }
@@ -42,7 +38,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +102,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"y",
@@ -168,7 +171,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"y",
@@ -186,6 +197,8 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -235,7 +248,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -250,7 +269,9 @@
       "9.3":"y #3",
       "10.0-10.2":"y #3",
       "10.3":"y #3",
-      "11":"y #3"
+      "11.0-11.2":"y #3",
+      "11.3-11.4":"y #3",
+      "12":"y #3"
     },
     "op_mini":{
       "all":"y #6"
@@ -265,7 +286,7 @@
       "4.2-4.3":"y #4",
       "4.4":"y #4",
       "4.4.3-4.4.4":"y #4",
-      "56":"y #4"
+      "67":"y #4"
     },
     "bb":{
       "7":"n #2",
@@ -278,24 +299,26 @@
       "11.5":"n #2",
       "12":"n #2",
       "12.1":"n #2",
-      "37":"n #2"
+      "46":"n #2"
     },
     "and_chr":{
-      "61":"y #4"
+      "69":"y #4"
     },
     "and_ff":{
-      "56":"y #5"
+      "62":"y #5"
     },
     "ie_mob":{
       "10":"n #2",
       "11":"n #2"
     },
     "and_uc":{
-      "11.4":"n #2"
+      "11.8":"n #2"
     },
     "samsung":{
       "4":"y #4",
-      "5":"y #4"
+      "5":"y #4",
+      "6.2":"y #4",
+      "7.2":"y #4"
     },
     "and_qq":{
       "1.2":"y"
@@ -313,8 +336,8 @@
     "5":"Log output on Firefox for Android can be [accessed using WebIDE](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)",
     "6":"See [this article](https://dev.opera.com/articles/opera-mini-and-javascript/) for details on how to see console logging in Opera Mini"
   },
-  "usage_perc_y":89.64,
-  "usage_perc_a":0.4,
+  "usage_perc_y":90.19,
+  "usage_perc_a":0.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"console.log,console.info,console.warn,console.error,window.console",

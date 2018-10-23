@@ -1,7 +1,7 @@
 {
   "title":"CSS3 3D Transforms",
   "description":"Method of transforming an element in the third dimension using the `transform` property. Includes support for the `perspective` property to set the perspective in z-space and the `backface-visibility` property to toggle display of the reverse side of a 3D-transformed element.",
-  "spec":"http://www.w3.org/TR/css3-3d-transforms/",
+  "spec":"https://www.w3.org/TR/css3-3d-transforms/",
   "status":"wd",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"Multi-browser demo"
     },
     {
-      "url":"http://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
+      "url":"https://hacks.mozilla.org/2011/10/css-3d-transformations-in-firefox-nightly/",
       "title":"Mozilla hacks article"
     },
     {
@@ -64,7 +64,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -126,7 +128,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -190,7 +197,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"n",
@@ -208,6 +223,8 @@
       "10":"y #2",
       "10.1":"y #2",
       "11":"y #2",
+      "11.1":"y #2",
+      "12":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -257,7 +274,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -272,7 +295,9 @@
       "9.3":"y #2",
       "10.0-10.2":"y #2",
       "10.3":"y #2",
-      "11":"y #2"
+      "11.0-11.2":"y #2",
+      "11.3-11.4":"y #2",
+      "12":"y #2"
     },
     "op_mini":{
       "all":"n"
@@ -287,7 +312,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"y x",
@@ -300,24 +325,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"a #1",
       "11":"a #1"
     },
     "and_uc":{
-      "11.4":"y x"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5":"y",
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -331,8 +358,8 @@
     "1":"Partial support in IE refers to not supporting [the transform-style: preserve-3d property](http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property). This prevents nesting 3D transformed elements.",
     "2":"Safari 9, 10 & 11 are reported to still require a prefix for the related `backface-visibility` property."
   },
-  "usage_perc_y":91.18,
-  "usage_perc_a":3.54,
+  "usage_perc_y":90.54,
+  "usage_perc_a":2.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"css 3d,3dtransforms,translate3d,backface visibility,perspective,transform-origin,transform-style",

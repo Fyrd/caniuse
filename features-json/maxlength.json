@@ -34,7 +34,9 @@
       "13":"y #4",
       "14":"y #4",
       "15":"y #4",
-      "16":"y #4"
+      "16":"y #4",
+      "17":"y #4",
+      "18":"y #4"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -96,7 +98,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"y",
@@ -160,7 +167,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"u",
@@ -178,6 +193,8 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -227,7 +244,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -242,7 +265,9 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -257,7 +282,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y #6"
     },
     "bb":{
       "7":"y",
@@ -270,24 +295,26 @@
       "11.5":"a #1",
       "12":"a #1",
       "12.1":"a #1",
-      "37":"a #6"
+      "46":"a #6"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y #6"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y #6"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"a #6"
+      "11.8":"y"
     },
     "samsung":{
-      "4":"y",
-      "5":"y"
+      "4":"y #6",
+      "5":"y #6",
+      "6.2":"y #6",
+      "7.2":"y #6"
     },
     "and_qq":{
       "1.2":"y"
@@ -305,8 +332,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":87.1,
-  "usage_perc_a":11.11,
+  "usage_perc_y":93.3,
+  "usage_perc_a":2.87,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",

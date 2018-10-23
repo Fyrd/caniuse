@@ -1,7 +1,7 @@
 {
   "title":"CSS3 Multiple column layout",
   "description":"Method of flowing information in multiple columns",
-  "spec":"http://www.w3.org/TR/css3-multicol/",
+  "spec":"https://www.w3.org/TR/css3-multicol/",
   "status":"cr",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"Dev.Opera article"
     },
     {
-      "url":"http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/an-introduction-to-the-css3-multiple-column-layout-module/",
+      "url":"https://webdesign.tutsplus.com/articles/an-introduction-to-the-css3-multiple-column-layout-module--webdesign-4934",
       "title":"Introduction page"
     },
     {
@@ -51,7 +51,7 @@
       "description":"Firefox and Chrome do not support columns on the <fieldset> element [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=727164)"
     },
     {
-      "description":"Safari 5-8 is known to render columns [less evenly](http://stackoverflow.com/questions/14148078/safari-column-count-differs-from-firefox-and-chrome) than other browsers"
+      "description":"Safari 5-8 is known to render columns [less evenly](https://stackoverflow.com/questions/14148078/safari-column-count-differs-from-firefox-and-chrome) than other browsers"
     },
     {
       "description":"Safari 5.1-10+ does not work as expected with `min-height` [see testcase](https://codepen.io/herrschuessler/pen/LNVWJE) [see bug](https://bugs.webkit.org/show_bug.cgi?id=65691)"
@@ -75,7 +75,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"a x #1",
@@ -137,7 +139,12 @@
       "56":"a #1",
       "57":"a #1",
       "58":"a #1",
-      "59":"a #1"
+      "59":"a #1",
+      "60":"a #1",
+      "61":"a #1",
+      "62":"a #1",
+      "63":"a #1",
+      "64":"a #1"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -201,7 +208,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"a x #1 #2",
@@ -219,6 +234,8 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -268,7 +285,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"a x #1 #2",
@@ -283,7 +306,9 @@
       "9.3":"a #1",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"y"
@@ -298,7 +323,7 @@
       "4.2-4.3":"a x #1 #2",
       "4.4":"a x #1 #2",
       "4.4.3-4.4.4":"a x #1 #2",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"a x #1 #2",
@@ -311,24 +336,26 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"a #1"
+      "46":"a #1"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"a #1"
+      "62":"a #1"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"a x #1 #2"
+      "11.8":"y"
     },
     "samsung":{
       "4":"a x #1 #2",
-      "5":"y"
+      "5":"y",
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -339,11 +366,11 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to not supporting the `break-before`, `break-after`, `break-inside` properties. WebKit- and Blink-based browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*`.",
+    "1":"Partial support refers to not supporting the `break-before`, `break-after`, `break-inside` properties. WebKit- and Blink-based browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*` but does support the `page-break-*` properties to accomplish the same result.",
     "2":"Partial support refers to not supporting the `column-fill` property."
   },
-  "usage_perc_y":77.65,
-  "usage_perc_a":20.11,
+  "usage_perc_y":86.68,
+  "usage_perc_a":9.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-span,column-fill,break-before,break-after,break-inside",

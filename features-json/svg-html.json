@@ -1,7 +1,7 @@
 {
   "title":"SVG effects for HTML",
   "description":"Method of using SVG transforms, filters, etc on HTML elements using either CSS or the foreignObject element",
-  "spec":"http://www.w3.org/TR/SVG11/extend.html#ForeignObjectElement",
+  "spec":"https://www.w3.org/TR/SVG11/extend.html#ForeignObjectElement",
   "status":"rec",
   "links":[
     {
@@ -13,7 +13,7 @@
       "title":"MDN Web Docs - Applying SVG effects"
     },
     {
-      "url":"http://www.w3.org/TR/filter-effects/",
+      "url":"https://www.w3.org/TR/filter-effects/",
       "title":"Filter Effects draft"
     }
   ],
@@ -40,7 +40,9 @@
       "13":"a #2",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"a #2",
+      "17":"a #2",
+      "18":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -102,7 +104,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"a",
@@ -166,7 +173,15 @@
       "62":"a",
       "63":"a",
       "64":"a",
-      "65":"a"
+      "65":"a",
+      "66":"a",
+      "67":"a",
+      "68":"a",
+      "69":"a",
+      "70":"a",
+      "71":"a",
+      "72":"a",
+      "73":"a"
     },
     "safari":{
       "3.1":"n",
@@ -184,6 +199,8 @@
       "10":"a",
       "10.1":"a",
       "11":"a",
+      "11.1":"a",
+      "12":"a",
       "TP":"a"
     },
     "opera":{
@@ -233,7 +250,13 @@
       "47":"a",
       "48":"a",
       "49":"a",
-      "50":"a"
+      "50":"a",
+      "51":"a",
+      "52":"a",
+      "53":"a",
+      "54":"a",
+      "55":"a",
+      "56":"a"
     },
     "ios_saf":{
       "3.2":"a",
@@ -248,7 +271,9 @@
       "9.3":"a",
       "10.0-10.2":"a",
       "10.3":"a",
-      "11":"a"
+      "11.0-11.2":"a",
+      "11.3-11.4":"a",
+      "12":"a"
     },
     "op_mini":{
       "all":"n"
@@ -263,7 +288,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "56":"a"
+      "67":"a"
     },
     "bb":{
       "7":"n",
@@ -276,24 +301,26 @@
       "11.5":"a",
       "12":"a",
       "12.1":"a",
-      "37":"a"
+      "46":"a"
     },
     "and_chr":{
-      "61":"a"
+      "69":"a"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"a",
-      "5":"a"
+      "5":"a",
+      "6.2":"a",
+      "7.2":"a"
     },
     "and_qq":{
       "1.2":"a"
@@ -302,13 +329,13 @@
       "7.12":"a"
     }
   },
-  "notes":"Partial support refers to lack of filter support or buggy result from effects. A [CSS Filter Effects](http://www.w3.org/TR/filter-effects/) specification is in the works that would replace this method.",
+  "notes":"Partial support refers to lack of filter support or buggy result from effects. A [CSS Filter Effects](https://www.w3.org/TR/filter-effects/) specification is in the works that would replace this method.",
   "notes_by_num":{
     "1":"IE11 and below do not support `<foreignObject>`.",
     "2":"IE and Edge do not support applying SVG filter effects to HTML elements using CSS. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6618695/)"
   },
-  "usage_perc_y":6.04,
-  "usage_perc_a":80.66,
+  "usage_perc_y":5.09,
+  "usage_perc_a":82.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

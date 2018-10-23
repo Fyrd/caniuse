@@ -5,12 +5,16 @@
   "status":"ls",
   "links":[
     {
-      "url":"http://crbug.com/294179",
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=294179",
       "title":"Chrome bug"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6509196-svg-favicons",
       "title":"Microsoft Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/18357657/",
+      "title":"Microsoft EdgeHTML issue tracker: Issue #18357657: Support SVG favicons"
     }
   ],
   "bugs":[
@@ -35,7 +39,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -97,7 +103,12 @@
       "56":"y #4",
       "57":"y #4",
       "58":"y #4",
-      "59":"y #4"
+      "59":"y #4",
+      "60":"y #4",
+      "61":"y #4",
+      "62":"y #4",
+      "63":"y #4",
+      "64":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -159,9 +170,17 @@
       "60":"n",
       "61":"n",
       "62":"n",
-      "63":"u",
-      "64":"u",
-      "65":"u"
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"u",
+      "72":"u",
+      "73":"u"
     },
     "safari":{
       "3.1":"n",
@@ -179,6 +198,8 @@
       "10":"a #3",
       "10.1":"a #3",
       "11":"a #3",
+      "11.1":"a #3",
+      "12":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -228,7 +249,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -243,7 +270,9 @@
       "9.3":"a #3",
       "10.0-10.2":"a #3",
       "10.3":"a #3",
-      "11":"a #3"
+      "11.0-11.2":"a #3",
+      "11.3-11.4":"a #3",
+      "12":"a #3"
     },
     "op_mini":{
       "all":"n #1"
@@ -258,7 +287,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -271,24 +300,26 @@
       "11.5":"n #1",
       "12":"n #1",
       "12.1":"n #1",
-      "37":"n #1"
+      "46":"n #1"
     },
     "and_chr":{
-      "61":"n"
+      "69":"n"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"n #1",
       "11":"n #1"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -304,8 +335,8 @@
     "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":6.27,
-  "usage_perc_a":12.39,
+  "usage_perc_y":5.48,
+  "usage_perc_a":13.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -1,7 +1,7 @@
 {
   "title":"CSS Device Adaptation",
   "description":"A standard way to override the size of viewport in web page using the `@viewport` rule, standardizing and replacing Apple's own popular `<meta>` viewport implementation.",
-  "spec":"http://www.w3.org/TR/css-device-adapt/",
+  "spec":"https://www.w3.org/TR/css-device-adapt/",
   "status":"wd",
   "links":[
     {
@@ -50,7 +50,9 @@
       "13":"a x #1",
       "14":"a x #1",
       "15":"a x #1",
-      "16":"a x #1"
+      "16":"a x #1",
+      "17":"a x #1",
+      "18":"a x #1"
     },
     "firefox":{
       "2":"n",
@@ -112,7 +114,12 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n"
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +183,15 @@
       "62":"n d",
       "63":"n d",
       "64":"n d",
-      "65":"n d"
+      "65":"n d",
+      "66":"n d",
+      "67":"n d",
+      "68":"n d",
+      "69":"n d",
+      "70":"n d",
+      "71":"n d",
+      "72":"n d",
+      "73":"n d"
     },
     "safari":{
       "3.1":"n",
@@ -194,6 +209,8 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -243,7 +260,13 @@
       "47":"n d",
       "48":"n d",
       "49":"n d",
-      "50":"n d"
+      "50":"n d",
+      "51":"n d",
+      "52":"n d",
+      "53":"n d",
+      "54":"n d",
+      "55":"n d",
+      "56":"n d"
     },
     "ios_saf":{
       "3.2":"n",
@@ -258,7 +281,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"a x #2"
@@ -273,7 +298,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -286,24 +311,26 @@
       "11.5":"a x #2",
       "12":"a x #2",
       "12.1":"a x #2",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "69":"n"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"a x #1",
       "11":"a x #1"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n",
+      "7.2":"n"
     },
     "and_qq":{
       "1.2":"n d"
@@ -318,7 +345,7 @@
     "2":"Opera Mobile and Opera Mini only support the 'orientation' property."
   },
   "usage_perc_y":0,
-  "usage_perc_a":8.44,
+  "usage_perc_a":7.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"viewport",

@@ -10,14 +10,14 @@
     },
     {
       "url":"https://compat.spec.whatwg.org/#webkitcssmatrix-interface",
-      "title":"WebkitCSSMatrix in Compatibility Standard"
+      "title":"WebKitCSSMatrix in Compatibility Standard"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
       "title":"MDN Web Docs - DOMMatrix"
     },
     {
-      "url":"https://crbug.com/581955",
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=581955",
       "title":"Chrome implementation bug"
     }
   ],
@@ -42,7 +42,9 @@
       "13":"a #1",
       "14":"a #1",
       "15":"a #1",
-      "16":"a #1"
+      "16":"a #1",
+      "17":"a #1",
+      "18":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -78,33 +80,38 @@
       "30":"n",
       "31":"n",
       "32":"n",
-      "33":"a #3",
-      "34":"a #3",
-      "35":"a #3",
-      "36":"a #3",
-      "37":"a #3",
-      "38":"a #3",
-      "39":"a #3",
-      "40":"a #3",
-      "41":"a #3",
-      "42":"a #3",
-      "43":"a #3",
-      "44":"a #3",
-      "45":"a #3",
-      "46":"a #3",
-      "47":"a #3",
-      "48":"a #3",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y",
-      "57":"y",
-      "58":"y",
-      "59":"y"
+      "33":"a #3 #5",
+      "34":"a #3 #5",
+      "35":"a #3 #5",
+      "36":"a #3 #5",
+      "37":"a #3 #5",
+      "38":"a #3 #5",
+      "39":"a #3 #5",
+      "40":"a #3 #5",
+      "41":"a #3 #5",
+      "42":"a #3 #5",
+      "43":"a #3 #5",
+      "44":"a #3 #5",
+      "45":"a #3 #5",
+      "46":"a #3 #5",
+      "47":"a #3 #5",
+      "48":"a #3 #5",
+      "49":"a #4 #5",
+      "50":"a #4 #5",
+      "51":"a #4 #5",
+      "52":"a #4 #5",
+      "53":"a #4 #5",
+      "54":"a #4 #5",
+      "55":"a #4 #5",
+      "56":"a #4 #5",
+      "57":"a #4 #5",
+      "58":"a #4 #5",
+      "59":"a #4 #5",
+      "60":"a #4 #5",
+      "61":"a #4 #5",
+      "62":"a #4 #5",
+      "63":"a #4 #5",
+      "64":"a #4 #5"
     },
     "chrome":{
       "4":"u",
@@ -164,11 +171,19 @@
       "58":"a #1",
       "59":"a #1",
       "60":"a #1",
-      "61":"a #1",
-      "62":"a #1",
-      "63":"a #1",
-      "64":"a #1",
-      "65":"a #1"
+      "61":"a #4",
+      "62":"a #4",
+      "63":"a #4",
+      "64":"a #4",
+      "65":"a #4",
+      "66":"a #4",
+      "67":"a #4",
+      "68":"a #4",
+      "69":"a #4",
+      "70":"a #4",
+      "71":"a #4",
+      "72":"a #4",
+      "73":"a #4"
     },
     "safari":{
       "3.1":"u",
@@ -185,8 +200,10 @@
       "9.1":"a #1",
       "10":"a #1",
       "10.1":"a #1",
-      "11":"y",
-      "TP":"y"
+      "11":"a #4",
+      "11.1":"a #4",
+      "12":"a #4",
+      "TP":"a #4"
     },
     "opera":{
       "9":"n",
@@ -233,9 +250,15 @@
       "45":"a #1",
       "46":"a #1",
       "47":"a #1",
-      "48":"a #1",
-      "49":"a #1",
-      "50":"a #1"
+      "48":"a #4",
+      "49":"a #4",
+      "50":"a #4",
+      "51":"a #4",
+      "52":"a #4",
+      "53":"a #4",
+      "54":"a #4",
+      "55":"a #4",
+      "56":"a #4"
     },
     "ios_saf":{
       "3.2":"u",
@@ -250,7 +273,9 @@
       "9.3":"a #1",
       "10.0-10.2":"a #1",
       "10.3":"a #1",
-      "11":"a #1"
+      "11.0-11.2":"a #1",
+      "11.3-11.4":"a #1",
+      "12":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -265,7 +290,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "56":"a #1"
+      "67":"y"
     },
     "bb":{
       "7":"u",
@@ -278,24 +303,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a #1"
+      "46":"a #1"
     },
     "and_chr":{
-      "61":"a #1"
+      "69":"y"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"a #1",
       "11":"a #1"
     },
     "and_uc":{
-      "11.4":"a #1"
+      "11.8":"a #1"
     },
     "samsung":{
       "4":"a #1",
-      "5":"a #1"
+      "5":"a #1",
+      "6.2":"a #1",
+      "7.2":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -308,10 +335,12 @@
   "notes_by_num":{
     "1":"Only supports the `WebKitCSSMatrix` version of the interface, not `DOMMatrix`",
     "2":"`WebKitCSSMatrix#skewX`, `WebKitCSSMatrix#skewY` are not supported",
-    "3":"Only supports the `DOMMatrix` version of the interface, not `WebKitCSSMatrix` (support required by spec for legacy reasons)"
+    "3":"Only supports the `DOMMatrix` version of the interface, not `WebKitCSSMatrix` (support required by spec for legacy reasons)",
+    "4":"Only replaces `WebkitCSSMatrix` and not `SVGMatrix`",
+    "5":"Does not support `fromMatrix()`, `fromFloat32Array()`, `fromFloat64Array()`, and `toJSON()` methods"
   },
-  "usage_perc_y":5.47,
-  "usage_perc_a":89.1,
+  "usage_perc_y":32.93,
+  "usage_perc_a":60.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",

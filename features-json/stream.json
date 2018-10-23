@@ -1,7 +1,7 @@
 {
   "title":"getUserMedia/Stream API",
   "description":"Method of accessing external device data (such as a webcam video stream). Formerly this was envisioned as the <device> element.",
-  "spec":"http://www.w3.org/TR/mediacapture-streams/",
+  "spec":"https://www.w3.org/TR/mediacapture-streams/",
   "status":"cr",
   "links":[
     {
@@ -13,13 +13,23 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://blogs.windows.com/msedgedev/2015/05/13/announcing-media-capture-functionality-in-microsoft-edge/",
+      "url":"https://blogs.windows.com/msedgedev/2015/05/13/announcing-media-capture-functionality-in-microsoft-edge/",
       "title":"Media Capture functionality in Microsoft Edge"
+    },
+    {
+      "url":"https://stackoverflow.com/questions/50800696/getusermedia-in-pwa-with-manifest-on-ios-11",
+      "title":"getUserMedia in PWA with manifest on iOS 11"
     }
   ],
   "bugs":[
     {
       "description":"Until version 12.16, Opera supported [video context only](http://my.opera.com/community/forums/topic.dml?id=1528992)."
+    },
+    {
+      "description":"getUserMedia() is not supported by default in Android webviews, such as Facebook or Snapchat in-app browsers."
+    },
+    {
+      "description":"getUserMedia() is not supported in iOS PWAs."
     }
   ],
   "categories":[
@@ -40,7 +50,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -102,7 +114,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -166,7 +183,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"n",
@@ -184,6 +209,8 @@
       "10":"n",
       "10.1":"n",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -233,7 +260,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -248,7 +281,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"y"
+      "11.0-11.2":"y #3",
+      "11.3-11.4":"y #3",
+      "12":"y #3"
     },
     "op_mini":{
       "all":"n"
@@ -263,7 +298,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -276,24 +311,26 @@
       "11.5":"n",
       "12":"a x #1 #2",
       "12.1":"a x #1 #2",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x #1 #2"
+      "11.8":"y"
     },
     "samsung":{
       "4":"a x #1 #2",
-      "5":"a x #1 #2"
+      "5":"a x #1 #2",
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"a x #1 #2"
@@ -305,10 +342,11 @@
   "notes":"As of Chrome 47, the getUserMedia API cannot be called from insecure origins.",
   "notes_by_num":{
     "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740).",
-    "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one."
+    "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one.",
+    "3":"Does not work in standalone running (\"installed\") PWAs, `getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari."
   },
-  "usage_perc_y":65.01,
-  "usage_perc_a":14.12,
+  "usage_perc_y":85.05,
+  "usage_perc_a":2.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",

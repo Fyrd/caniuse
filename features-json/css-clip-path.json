@@ -1,15 +1,15 @@
 {
   "title":"CSS clip-path property (for HTML)",
   "description":"Method of defining the visible region of an HTML element using SVG or a shape definition.",
-  "spec":"http://www.w3.org/TR/css-masking-1/#the-clip-path",
+  "spec":"https://www.w3.org/TR/css-masking-1/#the-clip-path",
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/almanac/properties/c/clip/",
+      "url":"https://css-tricks.com/almanac/properties/c/clip/",
       "title":"CSS Tricks article"
     },
     {
-      "url":"http://codepen.io/dubrod/details/myNNyW/",
+      "url":"https://codepen.io/dubrod/details/myNNyW/",
       "title":"Codepen Example Clipping an Image with a Polygon"
     },
     {
@@ -38,7 +38,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -100,7 +102,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"n",
@@ -164,7 +171,15 @@
       "62":"a #2",
       "63":"a #2",
       "64":"a #2",
-      "65":"a #2"
+      "65":"a #2",
+      "66":"a #2",
+      "67":"a #2",
+      "68":"a #2",
+      "69":"a #2",
+      "70":"a #2",
+      "71":"a #2",
+      "72":"a #2",
+      "73":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -182,6 +197,8 @@
       "10":"a x #2",
       "10.1":"a x #2",
       "11":"a x #2",
+      "11.1":"a x #2",
+      "12":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -231,7 +248,13 @@
       "47":"a #2",
       "48":"a #2",
       "49":"a #2",
-      "50":"a #2"
+      "50":"a #2",
+      "51":"a #2",
+      "52":"a #2",
+      "53":"a #2",
+      "54":"a #2",
+      "55":"a #2",
+      "56":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -246,7 +269,9 @@
       "9.3":"a x #2",
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
-      "11":"a x #2"
+      "11.0-11.2":"a x #2",
+      "11.3-11.4":"a x #2",
+      "12":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -261,7 +286,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "56":"a #2"
+      "67":"a #2"
     },
     "bb":{
       "7":"n",
@@ -274,24 +299,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a x #2"
+      "46":"a x #2"
     },
     "and_chr":{
-      "61":"a #2"
+      "69":"a #2"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x #2"
+      "11.8":"a x #2"
     },
     "samsung":{
       "4":"a x #2",
-      "5":"a x #2"
+      "5":"a x #2",
+      "6.2":"a x #2",
+      "7.2":"a x #2"
     },
     "and_qq":{
       "1.2":"a x #2"
@@ -306,8 +333,8 @@
     "2":"Partial support refers to supporting shapes and the `url(#foo)` syntax for inline SVG, but not shapes in external SVGs.",
     "3":"Supports shapes behind the `layout.css.clip-path-shapes.enabled` flag"
   },
-  "usage_perc_y":4.36,
-  "usage_perc_a":84.01,
+  "usage_perc_y":4.12,
+  "usage_perc_a":83.97,
   "ucprefix":false,
   "parent":"css-masks",
   "keywords":"clippath",

@@ -1,7 +1,7 @@
 {
-  "title":"WebVR API",
-  "description":"API for accessing virtual reality (VR) devices, including sensors and head-mounted displays.",
-  "spec":"https://w3c.github.io/webvr/",
+  "title":"WebXR API",
+  "description":"API for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays.",
+  "spec":"https://immersive-web.github.io/webxr/",
   "status":"unoff",
   "links":[
     {
@@ -14,7 +14,7 @@
     },
     {
       "url":"http://aframe.io",
-      "title":"WebVR framework"
+      "title":"AFrame, WebVR framework"
     },
     {
       "url":"https://webvr.info/",
@@ -23,11 +23,15 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API",
       "title":"MDN Web Docs - WebVR API"
+    },
+    {
+      "url":"https://www.chromestatus.com/feature/5680169905815552",
+      "title":"Chrome Platform Status for WebXR Device API"
     }
   ],
   "bugs":[
     {
-      "description":"WebVR is in development and is still changing. Because of this there could be bugs inside the standard of the W3C."
+      "description":"WebXR is in development and is still changing. WebXR was formally developed as WebVR. Because of this there could be bugs inside the standard of the W3C."
     }
   ],
   "categories":[
@@ -48,7 +52,9 @@
       "13":"n",
       "14":"n",
       "15":"y #3",
-      "16":"y #3"
+      "16":"y #3",
+      "17":"y #3",
+      "18":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -110,7 +116,12 @@
       "56":"y #1",
       "57":"y #1",
       "58":"y #1",
-      "59":"y #1"
+      "59":"y #1",
+      "60":"y #1",
+      "61":"y #1",
+      "62":"y #1",
+      "63":"y #1",
+      "64":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -174,7 +185,15 @@
       "62":"n d #2",
       "63":"n d #2",
       "64":"n d #2",
-      "65":"n d #2"
+      "65":"n d #2",
+      "66":"n d #2",
+      "67":"n d #2",
+      "68":"n d #2",
+      "69":"n d #2",
+      "70":"n d #2",
+      "71":"n d #2",
+      "72":"n d #2",
+      "73":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -192,6 +211,8 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -241,7 +262,13 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"n"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -256,7 +283,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -271,7 +300,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -284,24 +313,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"y #5"
+      "69":"y #5"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"y #4",
-      "5":"a #4"
+      "5":"a #4",
+      "6.2":"a #4",
+      "7.2":"a #4"
     },
     "and_qq":{
       "1.2":"n"
@@ -312,14 +343,14 @@
   },
   "notes":"Not every computer or smartphone could run WebVR appication. For smartphones, you need a gyroscope and for computers must be VR-ready also the needed sotfware (Oculus client or (Steam VR and VivePort)) and drivers must been installed on the computer. In this situations, you've the best experiance to use WebVR applications.",
   "notes_by_num":{
-    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS.",
+    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS. Work in progress for GNU/Linux.",
     "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
     "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supports only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
     "4":"Supports only Samsung Galaxy devices with the Samgung Gear VR",
     "5":"Supports only Google Daydream on [daydream-ready devices](https://vr.google.com/daydream/smartphonevr/phones/) and Google Cardboards"
   },
-  "usage_perc_y":36.9,
-  "usage_perc_a":2.24,
+  "usage_perc_y":39.32,
+  "usage_perc_a":0.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"getvrdevices,getvrdisplays,getdisplays,navigator.vr",

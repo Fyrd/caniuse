@@ -9,7 +9,7 @@
       "title":"GitHub repository"
     },
     {
-      "url":"https://developer.mozilla.org/de/docs/Web/API/ReadableStream",
+      "url":"https://developer.mozilla.org/en/docs/Web/API/ReadableStream",
       "title":"ReadableStream on Mozilla Developer Network"
     },
     {
@@ -38,7 +38,9 @@
       "13":"u",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #4 #6"
+      "16":"a #4 #6",
+      "17":"a #4 #6",
+      "18":"a #4 #6"
     },
     "firefox":{
       "2":"n",
@@ -100,7 +102,12 @@
       "56":"n",
       "57":"n d #3 #5",
       "58":"n d #3 #5",
-      "59":"n d #3 #5"
+      "59":"n d #3 #5",
+      "60":"n d #3 #5",
+      "61":"n d #3 #5",
+      "62":"n d #3 #5",
+      "63":"n d #3 #5",
+      "64":"n d #3 #5"
     },
     "chrome":{
       "4":"n",
@@ -164,7 +171,15 @@
       "62":"a #4",
       "63":"a #4",
       "64":"a #4",
-      "65":"a #4"
+      "65":"a #4",
+      "66":"a #4",
+      "67":"a #4",
+      "68":"a #4",
+      "69":"a #4",
+      "70":"a #4",
+      "71":"a #4",
+      "72":"a #4",
+      "73":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -182,6 +197,8 @@
       "10":"a #4 #5",
       "10.1":"a #4 #5",
       "11":"a #4 #5",
+      "11.1":"a #4 #5",
+      "12":"a #4 #5",
       "TP":"a #4 #5"
     },
     "opera":{
@@ -231,7 +248,13 @@
       "47":"a #4",
       "48":"a #4",
       "49":"a #4",
-      "50":"a #4"
+      "50":"a #4",
+      "51":"a #4",
+      "52":"a #4",
+      "53":"a #4",
+      "54":"a #4",
+      "55":"a #4",
+      "56":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -246,7 +269,9 @@
       "9.3":"n",
       "10.0-10.2":"u",
       "10.3":"a #4",
-      "11":"a #4"
+      "11.0-11.2":"a #4",
+      "11.3-11.4":"a #4",
+      "12":"a #4"
     },
     "op_mini":{
       "all":"n"
@@ -261,7 +286,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"a #2"
+      "67":"a #2"
     },
     "bb":{
       "7":"n",
@@ -274,24 +299,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a #4"
+      "46":"a #4"
     },
     "and_chr":{
-      "61":"a #4"
+      "69":"a #4"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n d #3 #5"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5":"n",
+      "6.2":"n",
+      "7.2":"a #4"
     },
     "and_qq":{
       "1.2":"n"
@@ -310,11 +337,11 @@
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
   "usage_perc_y":0,
-  "usage_perc_a":67.64,
+  "usage_perc_a":75.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",
-  "ie_id":"streamsapi",
+  "ie_id":"streamsapireadablestream,streamsapiwritablestream",
   "chrome_id":"6605041225957376",
   "firefox_id":"streams",
   "webkit_id":"specification-streams",

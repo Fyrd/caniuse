@@ -1,7 +1,7 @@
 {
   "title":"Speech Recognition API",
   "description":"Method to provide speech input in a web browser.",
-  "spec":"https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html#speechreco-section",
+  "spec":"https://w3c.github.io/speech-api/speechapi.html#speechreco-section",
   "status":"unoff",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"HTML5Rocks article"
     },
     {
-      "url":"http://www.sitepoint.com/introducing-web-speech-api/",
+      "url":"https://www.sitepoint.com/introducing-web-speech-api/",
       "title":"SitePoint article"
     },
     {
@@ -42,7 +42,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +106,12 @@
       "56":"n d #2",
       "57":"n d #2",
       "58":"n d #2",
-      "59":"n d #2"
+      "59":"n d #2",
+      "60":"n d #2",
+      "61":"n d #2",
+      "62":"n d #2",
+      "63":"n d #2",
+      "64":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -168,7 +175,15 @@
       "62":"a x #1",
       "63":"a x #1",
       "64":"a x #1",
-      "65":"a x #1"
+      "65":"a x #1",
+      "66":"a x #1",
+      "67":"a x #1",
+      "68":"a x #1",
+      "69":"a x #1",
+      "70":"a x #1",
+      "71":"a x #1",
+      "72":"a x #1",
+      "73":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -186,6 +201,8 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
       "TP":"n"
     },
     "opera":{
@@ -235,7 +252,13 @@
       "47":"a x #1",
       "48":"a x #1",
       "49":"a x #1",
-      "50":"a x #1"
+      "50":"a x #1",
+      "51":"a x #1",
+      "52":"a x #1",
+      "53":"a x #1",
+      "54":"a x #1",
+      "55":"a x #1",
+      "56":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -250,7 +273,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12":"n"
     },
     "op_mini":{
       "all":"n"
@@ -265,7 +290,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -278,24 +303,26 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"a x #1"
+      "69":"a x #1"
     },
     "and_ff":{
-      "56":"n"
+      "62":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"a x #1",
-      "5":"a x #1"
+      "5":"a x #1",
+      "6.2":"a x #1",
+      "7.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -311,7 +338,7 @@
     "3":"Reported to be in development for Samsung Internet for GearVR, due Q1/2017"
   },
   "usage_perc_y":0,
-  "usage_perc_a":61.27,
+  "usage_perc_a":64.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"#web-speech,speechrecognition,ASR",

@@ -5,7 +5,7 @@
   "status":"ls",
   "links":[
     {
-      "url":"http://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
+      "url":"https://hacks.mozilla.org/2010/01/classlist-in-firefox-3-6/",
       "title":"Mozilla Hacks article"
     },
     {
@@ -17,7 +17,7 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.sitepoint.com/exploring-classlist-api/",
+      "url":"https://www.sitepoint.com/exploring-classlist-api/",
       "title":"SitePoint article"
     },
     {
@@ -46,14 +46,16 @@
       "8":"p",
       "9":"p",
       "10":"a #1 #2 #3",
-      "11":"a #1 #2 #3"
+      "11":"a #1 #2 #3 #4"
     },
     "edge":{
       "12":"y",
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"p",
@@ -115,7 +117,12 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y"
     },
     "chrome":{
       "4":"p",
@@ -179,7 +186,15 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y"
     },
     "safari":{
       "3.1":"p",
@@ -197,6 +212,8 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
       "TP":"y"
     },
     "opera":{
@@ -246,7 +263,13 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -261,7 +284,9 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12":"y"
     },
     "op_mini":{
       "all":"a #1 #2 #3"
@@ -276,7 +301,7 @@
       "4.2-4.3":"a #1 #2 #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"a #1 #2 #3",
@@ -289,24 +314,26 @@
       "11.5":"a #1 #2 #3",
       "12":"a #1 #2 #3",
       "12.1":"a #1 #2 #3",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "69":"y"
     },
     "and_ff":{
-      "56":"y"
+      "62":"y"
     },
     "ie_mob":{
       "10":"a #1 #2 #3",
       "11":"a #1 #2 #3"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5":"y",
+      "6.2":"y",
+      "7.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -319,10 +346,11 @@
   "notes_by_num":{
     "1":"Does not have support for `classList` on SVG or MathML elements.",
     "2":"Does not support the second parameter for the `toggle` method",
-    "3":"Does not support multiple parameters for the `add()` & `remove()` methods"
+    "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
+    "4":"Does not support assign to `classList`"
   },
-  "usage_perc_y":90.36,
-  "usage_perc_a":7.32,
+  "usage_perc_y":89.86,
+  "usage_perc_a":5.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
