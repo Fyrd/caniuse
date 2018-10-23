@@ -15,10 +15,14 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/15944476",
       "title":"MS Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/status/cssselectorslevel4/",
+      "title":"MS Edge Platform Status: Under Consideration"
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "CSS"
@@ -327,14 +331,14 @@
   },
   "notes":"For support information for just `:nth-child()` see [CSS3 selector support](#feat=css-sel3)",
   "notes_by_num":{
-    
+
   },
   "usage_perc_y":12.8,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"nth-child,nth-last-child,nth,child,an,b,of,s,sel,selector,list",
-  "ie_id":"",
+  "ie_id":"cssselectorslevel4",
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"feature-css-selector-:nth-child(an+b-of-selector-list)-and-:nth-last-child(an+b-of-selector-list)",
