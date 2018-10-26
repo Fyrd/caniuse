@@ -33,6 +33,9 @@
     },
     {
       "description":"iOS 9 has a bug in WebViews (not Safari) with the [CSS sibling selector](https://forums.developer.apple.com/thread/16449)"
+    },
+    {
+      "description":"IE11 has issues with [last-of-type with custom elements](https://stackoverflow.com/questions/38666233/last-of-type-doesnt-work-with-custom-elements-in-ie11-and-edge#38669965)"
     }
   ],
   "categories":[
