@@ -25,6 +25,9 @@
       "description":"Moving the scrollbar on an object with `pointer-events: none;` works in Firefox, but doesn't work in either Chrome or IE."
     },
     {
+      "description":"The SVG 2.0 specification also defines a bounding-box value. When the value of pointer-events is bounding-box, the rectangular area around the element can also receive pointer events. Only Chrome 65+ supports the bounding-box value."
+    },
+    {
       "description":"IE 9 and 10 return true on `'pointerEvents'` in `document.documentElement.style` due to support on SVG elements, but they don't support it on HTML elements."
     },
     {
