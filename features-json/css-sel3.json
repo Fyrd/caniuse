@@ -36,6 +36,9 @@
     },
     {
       "description":"IE11 has issues with [last-of-type with custom elements](https://stackoverflow.com/questions/38666233/last-of-type-doesnt-work-with-custom-elements-in-ie11-and-edge#38669965)"
+    },
+    {
+      "description":"IE does not recognize the `:disabled` pseudo-class selector for `<fieldset disabled>`"
     }
   ],
   "categories":[
