@@ -97,14 +97,14 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"n",
-      "59":"n",
-      "60":"n",
-      "61":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n"
+      "58":"a #4",
+      "59":"a #4",
+      "60":"a #4",
+      "61":"a #4",
+      "62":"a #4",
+      "63":"a #4",
+      "64":"a #4",
+      "65":"a #4"
     },
     "chrome":{
       "4":"n",
@@ -328,13 +328,14 @@
   "notes_by_num":{
     "1":"On Windows, Chrome will read the manifest to generate a desktop icon when selecting the \"Add to desktop...\" option.",
     "2":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported.",
-    "3":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported on all platforms"
+    "3":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported on all platforms",
+    "4":"Currently only supported on Android for FireFox."
   },
   "usage_perc_y":47.78,
   "usage_perc_a":30.44,
   "ucprefix":false,
   "parent":"",
-  "keywords":"manifest,pwa",
+  "keywords":"manifest,pwa,webmanifest,webapp,appmanifest,webappmanifest",
   "ie_id":"webapplicationmanifest",
   "chrome_id":"6488656873259008",
   "firefox_id":"app-manifest",
