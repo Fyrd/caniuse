@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"WebP images displays as a broken image icon in [Microsoft Edge in Application Guard mode](https://www.ctrl.blog/entry/windows-webp-appguard) even when an alternative image source format is available."
+    }
   ],
   "categories":[
     "Other"
@@ -311,10 +313,10 @@
       "46":"y"
     },
     "and_chr":{
-      "69":"y"
+      "70":"y"
     },
     "and_ff":{
-      "62":"p"
+      "63":"p"
     },
     "ie_mob":{
       "10":"n",

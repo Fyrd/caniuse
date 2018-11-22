@@ -315,10 +315,10 @@
       "46":"n"
     },
     "and_chr":{
-      "69":"a #5"
+      "70":"a #5"
     },
     "and_ff":{
-      "62":"n"
+      "63":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -349,7 +349,7 @@
     "5":"Unlike Desktop Chrome, support has been in Chrome for Android since version 53.",
     "6":"Can be enabled via the `dom.payments.request.enabled` flag in \"about:config\" flag since 55.",
     "7":"Missing support for PaymentResponse.prototype.retry() method",
-    "8":"Enabled by default in Nightly, but \"browser.search.region\" flag in \"about:config\" must be set to 'US'"
+    "8":"Enabled by default in Nightly, but \"dom.payments.request.supportedRegions\" pref in \"about:config\" must be set to \"US,CA\"."
   },
   "usage_perc_y":0,
   "usage_perc_a":74.74,
