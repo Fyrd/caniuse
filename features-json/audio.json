@@ -39,6 +39,9 @@
   ],
   "bugs":[
     {
+      "description":"The default [media playback controls are not displayed](https://www.ctrl.blog/entry/safari-csp-media-controls) with a strict Content-Security-Policy in Safari 11 and 12 unless you allow loading images from data URIs. (`img-src data:`, like `unsafe-inline`)."
+    },
+    {
       "description":"Volume is read-only on iOS."
     },
     {
