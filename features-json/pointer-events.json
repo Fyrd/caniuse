@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Does not work on links in IE11 and Edge unless display is set to `block` or `inline-block`, or position is set to `absolute` or `fixed`."
+      "description":"Does not work on links in IE11 and Edge 17 and below unless display is set to `block` or `inline-block`, or position is set to `absolute` or `fixed`."
     },
     {
       "description":"Moving the scrollbar on an object with `pointer-events: none;` works in Firefox, but doesn't work in either Chrome or IE."
