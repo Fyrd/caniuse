@@ -26,7 +26,6 @@
     }
   ],
   "bugs":[
-    
   ],
   "categories":[
     "JS API"
@@ -243,26 +242,26 @@
       "34":"n",
       "35":"n",
       "36":"n",
-      "37":"a d #3",
-      "38":"a #3",
-      "39":"a #3",
-      "40":"a #3",
-      "41":"a #3",
-      "42":"a #3",
-      "43":"a #3",
-      "44":"a #3",
-      "45":"a #3",
-      "46":"a #3",
-      "47":"a #3",
-      "48":"a #3",
-      "49":"a #3",
-      "50":"a #3",
-      "51":"a #3",
-      "52":"a #3",
-      "53":"a #3",
-      "54":"a #3",
-      "55":"a #3",
-      "56":"a #3"
+      "37":"a d #2",
+      "38":"a #2",
+      "39":"a #2",
+      "40":"a #2",
+      "41":"a #2",
+      "42":"a #2",
+      "43":"a #2",
+      "44":"a #2",
+      "45":"a #2",
+      "46":"a #2",
+      "47":"a #2",
+      "48":"a #2",
+      "49":"a #2",
+      "50":"a #2",
+      "51":"a #2",
+      "52":"a #2",
+      "53":"a #2",
+      "54":"a #2",
+      "55":"a #2",
+      "56":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -294,7 +293,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"a #4"
+      "67":"a #3"
     },
     "bb":{
       "7":"n",
@@ -337,9 +336,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Apple provides an equivalent proprietary API for Picture-in-Picture."
-	"3":"Opera allows user to use PiP mod for all the played video (JS API not available)",
-	"4":"Chrome for Android allows user to use PiP mod for all the played video (Android >= Oreo required)"
+    "1":"Apple provides an equivalent proprietary API for Picture-in-Picture.",
+	  "2":"Opera allows user to use Picture-in-Picture for all the played video (JS API not available)",
+	  "3":"Chrome for Android plays automatically video in Picture-in-Picture when user hits Home Screen button and video is fullscreen (Android >= Oreo required)"
   },
   "usage_perc_y":0.08,
   "usage_perc_a":0,
