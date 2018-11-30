@@ -208,9 +208,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
-      "11.1":"a #2",
-      "12":"a #2",
-      "TP":"a #2"
+      "11.1":"a #2 #3",
+      "12":"a #2 #3",
+      "TP":"a #2 #3"
     },
     "opera":{
       "9":"n",
@@ -341,7 +341,8 @@
   "notes":"Standard support includes the HTTP header (`Feature-Policy`), `allow` attribute on iframes, and corresponding JS API.",
   "notes_by_num":{
     "1":"Supported through the `Feature-Policy` header and `allow` attribute on iframes. JS API support is available in Chrome 64+ by enabling the \"Experimental Web Platform features\" feature flag in under about:flags.",
-    "2":"Only supports the `allow` attribute on iframes"
+    "2":"Only supports the `allow` attribute on iframes",
+    "3": "Doesn't support [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816)."
   },
   "usage_perc_y":0,
   "usage_perc_a":64.1,
