@@ -259,7 +259,8 @@
       "53":"n d #1",
       "54":"n d #1",
       "55":"n d #1",
-      "56":"n d #1"
+      "56":"y d #2",
+      "57":"y d #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -334,7 +335,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the \"Experimental Web Platform Features\" flag"
+    "1":"Can be enabled via the \"Experimental Web Platform Features\" flag",
+    "2":"Does not support multi-possition color stops"
   },
   "usage_perc_y":58.6,
   "usage_perc_a":0,
