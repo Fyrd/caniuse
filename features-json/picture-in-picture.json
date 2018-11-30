@@ -2,7 +2,7 @@
   "title":"Picture-in-Picture",
   "description":"Allows websites to create a floating video window that is always on top of other windows so that users may continue consuming media while they interact with other sites or applications on their device.",
   "spec":"https://wicg.github.io/picture-in-picture/",
-  "status":"ls",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture",
@@ -15,10 +15,17 @@
     {
       "url":"https://github.com/WICG/picture-in-picture/blob/master/implementation-status.md",
       "title":"Implementation Status"
+    },
+    {
+      "url":"https://developer.apple.com/documentation/webkitjs/adding_picture_in_picture_to_your_safari_media_controls",
+      "title":"Safari equivalent API"
+    },
+    {
+      "url":"https://www.trishtech.com/2017/12/pop-out-videos-on-any-website-in-opera-browser/",
+      "title":"Pop-Out Opera feature"
     }
   ],
   "bugs":[
-    
   ],
   "categories":[
     "JS API"
@@ -176,7 +183,7 @@
       "66":"n",
       "67":"n",
       "68":"n",
-      "69":"n",
+      "69":"n d",
       "70":"y",
       "71":"y",
       "72":"y",
@@ -195,12 +202,12 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"n d #1",
-      "10.1":"n d #1",
-      "11":"n d #1",
-      "11.1":"n d #1",
-      "12":"n d #1",
-      "TP":"n d #1"
+      "10":"a d #1",
+      "10.1":"a d #1",
+      "11":"a d #1",
+      "11.1":"a d #1",
+      "12":"a d #1",
+      "TP":"a d #1"
     },
     "opera":{
       "9":"n",
@@ -236,26 +243,26 @@
       "34":"n",
       "35":"n",
       "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
-      "56":"n"
+      "37":"a d #2",
+      "38":"a #2",
+      "39":"a #2",
+      "40":"a #2",
+      "41":"a #2",
+      "42":"a #2",
+      "43":"a #2",
+      "44":"a #2",
+      "45":"a #2",
+      "46":"a #2",
+      "47":"a #2",
+      "48":"a #2",
+      "49":"a #2",
+      "50":"a #2",
+      "51":"a #2",
+      "52":"a #2",
+      "53":"a #2",
+      "54":"a #2",
+      "55":"a #2",
+      "56":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -287,7 +294,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"n"
+      "67":"a #3"
     },
     "bb":{
       "7":"n",
@@ -330,16 +337,18 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Apple provides an equivalent proprietary API for Picture-in-Picture."
+    "1":"Apple provides an equivalent proprietary API for Picture-in-Picture.",
+	  "2":"Opera allows user to use Picture-in-Picture for all the played video (JS API not available)",
+	  "3":"Chrome for Android plays automatically video in Picture-in-Picture when user hits Home Screen button and video is fullscreen (Android >= Oreo required)"
   },
   "usage_perc_y":4.17,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"Picture-in-Picture,pip",
+  "keywords":"Picture-in-Picture,pip,pop-out",
   "ie_id":"pictureinpicture",
   "chrome_id":"5729206566649856",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
