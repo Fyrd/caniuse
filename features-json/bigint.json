@@ -9,20 +9,20 @@
       "title":"GitHub repository"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt",
-      "title":"MDN Web Docs"
-    },
-    {
-      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1366287",
-      "title": "Firefox implementation bug"
-    },
-    {
       "url":"https://developers.google.com/web/updates/2018/05/bigint",
       "title":"Blog article from Google Developer"
     },
     {
       "url":"http://2ality.com/2017/03/es-integer.html",
       "title":"Blog article from Dr. Axel Rauschmayer"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt",
+      "title":"MDN Web Docs"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1366287",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
@@ -349,5 +349,5 @@
   "chrome_id":"5371603852460032",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
