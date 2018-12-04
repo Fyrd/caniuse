@@ -292,7 +292,7 @@
       "10.3":"y #3",
       "11.0-11.2":"y #3",
       "11.3-11.4":"y #3",
-      "12":"y #3"
+      "12-12.1":"y #3"
     },
     "op_mini":{
       "all":"n"
@@ -355,8 +355,8 @@
     "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379",
     "4":"Does not support CORS for resources which redirect: https://bugzilla.mozilla.org/show_bug.cgi?id=1346749"
   },
-  "usage_perc_y":93.02,
-  "usage_perc_a":0.85,
+  "usage_perc_y":92.85,
+  "usage_perc_a":0.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

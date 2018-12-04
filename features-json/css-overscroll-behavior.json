@@ -280,7 +280,7 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12":"n"
+      "12-12.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -342,8 +342,8 @@
     "2":"Does not support `overscroll-behavior: none;` on the body element to prevent the overscroll glow and rubberbanding effects.",
     "3":"Incorrectly treats `none` as `contain` see [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior#Browser_compatibility) and [Edge 18 changelog](https://aka.ms/devguide_edgehtml_18)"
   },
-  "usage_perc_y":64.96,
-  "usage_perc_a":5.55,
+  "usage_perc_y":65.26,
+  "usage_perc_a":5.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",

@@ -284,7 +284,7 @@
       "10.3":"a x #1",
       "11.0-11.2":"a x #1",
       "11.3-11.4":"a x #1",
-      "12":"a x #1"
+      "12-12.1":"a x #1"
     },
     "op_mini":{
       "all":"n"
@@ -349,8 +349,8 @@
     "5":"Partial support refers to supporting mask-image and mask-size",
     "6":"Partial support refers to supporting mask-image, mask-size, mask-position, and the mask shorthand"
   },
-  "usage_perc_y":4.2,
-  "usage_perc_a":84.6,
+  "usage_perc_y":4.16,
+  "usage_perc_a":84.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type,css masking",

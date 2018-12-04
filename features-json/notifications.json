@@ -296,7 +296,7 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12":"n"
+      "12-12.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -358,8 +358,8 @@
     "2":"Supports notifications via the [Push API](https://caniuse.com/#feat=push-api) but not the Web Notifications API.",
     "3":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)"
   },
-  "usage_perc_y":73.47,
-  "usage_perc_a":1.33,
+  "usage_perc_y":73.53,
+  "usage_perc_a":1.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

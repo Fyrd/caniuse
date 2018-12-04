@@ -280,7 +280,7 @@
       "10.3":"y x #2 #3",
       "11.0-11.2":"y x #2 #3",
       "11.3-11.4":"y x #2 #3",
-      "12":"y x #2 #3"
+      "12-12.1":"y x #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -342,8 +342,8 @@
     "2":"Supports scrollbar styling via CSS [pseudo-properties](https://webkit.org/blog/363/styling-scrollbars/).",
     "3":"Scrollbar styling doesn\u2019t work in [WKWebView](https://issues.apache.org/jira/browse/CB-10123)"
   },
-  "usage_perc_y":83.72,
-  "usage_perc_a":2.94,
+  "usage_perc_y":83.68,
+  "usage_perc_a":2.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color",

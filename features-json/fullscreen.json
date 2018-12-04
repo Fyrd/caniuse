@@ -293,7 +293,7 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12":"n"
+      "12-12.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -356,8 +356,8 @@
     "3":"Partial support refers to not returning a Promise, as specified in the latest version of the spec.",
     "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag"
   },
-  "usage_perc_y":0.09,
-  "usage_perc_a":81.73,
+  "usage_perc_y":0.22,
+  "usage_perc_a":81.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",

@@ -273,7 +273,7 @@
       "10.3":"y #1",
       "11.0-11.2":"y #1",
       "11.3-11.4":"y #1",
-      "12":"y #1"
+      "12-12.1":"y #1"
     },
     "op_mini":{
       "all":"a x #2 #3 #4"
@@ -336,8 +336,8 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":22.16,
-  "usage_perc_a":73.51,
+  "usage_perc_y":22.04,
+  "usage_perc_a":73.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-image-source,border-image-slice,border-image-repeat,border-image-width,,border-image-outset",
