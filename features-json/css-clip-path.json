@@ -40,7 +40,7 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"a #4"
+      "18":"n d #4 #5"
     },
     "firefox":{
       "2":"n",
@@ -333,7 +333,8 @@
     "1":"Partial support refers to only supporting the `url()` syntax.",
     "2":"Partial support refers to supporting shapes and the `url(#foo)` syntax for inline SVG, but not shapes in external SVGs.",
     "3":"Supports shapes behind the `layout.css.clip-path-shapes.enabled` flag",
-    "4":"While Edge doesn't seem to recognize any `<basic-shape>` function, it does allow you to use `polygon()` in HTML and SVG"
+    "4":"Partial support can be enabled on MS Edge with the Enable CSS Clip-Path Flag",
+    "5":"While Edge doesn't seem to recognize any `<basic-shape>` function, it does allow you to use `polygon()` in HTML and SVG"
   },
   "usage_perc_y":4.19,
   "usage_perc_a":84,
