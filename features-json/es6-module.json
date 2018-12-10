@@ -35,10 +35,19 @@
     {
       "url":"https://hospodarets.com/native-ecmascript-modules-nomodule",
       "title":"Blog post on using nomodule"
+    },
+    {
+      "url":"https://gist.github.com/jakub-g/5fc11af85a061ca29cc84892f1059fec",
+      "title":"Will it double-fetch? Browser behavior with `module` / `nomodule` scripts"
     }
   ],
   "bugs":[
-    
+    {
+      "description": "`nomodule` scripts are not executed in Edge, but they're still fetched"
+    },
+    {
+      "description": "Edge 17+ fetches HTML-declared <script type='module'> twice"
+    }
   ],
   "categories":[
     "JS"
@@ -57,10 +66,10 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n d #1",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "15":"n d #1 #6",
+      "16":"y #6",
+      "17":"y #6",
+      "18":"y #6"
     },
     "firefox":{
       "2":"n",
@@ -355,7 +364,8 @@
     "2":"Support can be enabled via `about:config`",
     "3":"Support can be enabled via the `experimental-web-platform-features` flag",
     "4":"Does not support the `nomodule` attribute",
-    "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3"
+    "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
+    "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
   "usage_perc_y":79.71,
   "usage_perc_a":0.59,
