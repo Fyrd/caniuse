@@ -9,10 +9,6 @@
       "title":"Firefox support bug"
     },
     {
-        "url":"https://webkit.org/blog/363/styling-scrollbars/",
-        "title":"Webkit blog post describing their non-standard support"
-    },
-    {
       "url":"https://stackoverflow.com/questions/9251354/css-customized-scroll-bar-in-div/14150577#14150577",
       "title":"Stackoverflow article discussiong cross-browser support"
     },
@@ -27,6 +23,10 @@
     {
       "url":"http://manos.malihu.gr/jquery-custom-content-scroller/",
       "title":"jQuery custom content scroller"
+    },
+    {
+      "url":"https://webkit.org/blog/363/styling-scrollbars/",
+      "title":"Webkit blog post describing their non-standard support"
     }
   ],
   "bugs":[
@@ -349,8 +349,8 @@
     "4":"Can be enabled by setting the layout.css.scrollbar-colors.enabled and layout.css.scrollbar-width.enabled flags to true.",
     "5":"Firefox 63 supported scrollbar-face-color and scrollbar-track-color seperate properties (now dropped from the spec) instead of unified scrollbar-color property."
   },
-  "usage_perc_y":83.68,
-  "usage_perc_a":2.89,
+  "usage_perc_y":0.09,
+  "usage_perc_a":86.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",
