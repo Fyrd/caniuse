@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Clear-Site-Data",
-      "title": "MDN Clear-Site-Data"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Clear-Site-Data",
+      "title":"MDN Clear-Site-Data"
     },
     {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=607897",
@@ -17,10 +17,12 @@
       "title":"Bugzilla #1268889 Implement Clear-Site-Data response header to reset origin storage"
     }
   ],
-  "bugs": [],
+  "bugs":[
+    
+  ],
   "categories":[
-    "Security",
-    "Other"
+    "Other",
+    "Security"
   ],
   "stats":{
     "ie":{
@@ -272,7 +274,7 @@
       "10.3":"u",
       "11.0-11.2":"u",
       "11.3-11.4":"u",
-      "12-12.1":"u"
+      "12.0-12.1":"u"
     },
     "op_mini":{
       "all":"u"
@@ -330,15 +332,16 @@
   },
   "notes":"",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":65.73,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"clear, site, data, header, clear-site-data, clear-site, header, webappsec",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"4713262029471744",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }

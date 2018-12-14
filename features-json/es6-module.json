@@ -43,10 +43,10 @@
   ],
   "bugs":[
     {
-      "description": "`nomodule` scripts are not executed in Edge, but they're still fetched"
+      "description":"`nomodule` scripts are not executed in Edge, but they're still fetched"
     },
     {
-      "description": "Edge 17+ fetches HTML-declared <script type='module'> twice"
+      "description":"Edge 17+ fetches HTML-declared <script type='module'> twice"
     }
   ],
   "categories":[
