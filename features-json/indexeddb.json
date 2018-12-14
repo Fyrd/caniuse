@@ -26,7 +26,7 @@
       "description":"Firefox (prior to version 37) and [Safari](https://bugs.webkit.org/show_bug.cgi?id=149953) do not support IndexedDB inside web workers."
     },
     {
-      "description":"Firefox does not support IndexedDB in private browsing mode. [See issue](https://bugzilla.mozilla.org/show_bug.cgi?id=781982)"
+      "description":"[Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=781982) and [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/9968399/) do not support IndexedDB in private browsing mode."
     },
     {
       "description":"Not supported in Chrome 47 for iOS & below or other older iOS WebViews using UIWebView instead of WKWebView [see details](https://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)\r\n\r\nChrome 36 and below did not support Blob objects as indexedDB values."
@@ -291,7 +291,7 @@
       "10.3":"y",
       "11.0-11.2":"y",
       "11.3-11.4":"y",
-      "12-12.1":"y"
+      "12.0-12.1":"y"
     },
     "op_mini":{
       "all":"n"

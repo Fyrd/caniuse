@@ -1,7 +1,7 @@
 {
-  "title":"CSS Scroll snap points",
+  "title":"CSS Scroll snap",
   "description":"CSS technique that allows customizable scrolling experiences like pagination of carousels by setting defined snap points.",
-  "spec":"https://www.w3.org/TR/css-snappoints-1/",
+  "spec":"https://www.w3.org/TR/css-scroll-snap-1/",
   "status":"cr",
   "links":[
     {
@@ -277,7 +277,7 @@
       "10.3":"a x #4 #5",
       "11.0-11.2":"y",
       "11.3-11.4":"y",
-      "12-12.1":"y"
+      "12.0-12.1":"y"
     },
     "op_mini":{
       "all":"n"
