@@ -13,10 +13,6 @@
       "title":"Stackoverflow article discussiong cross-browser support"
     },
     {
-      "url":"http://codemug.com/html/custom-scrollbars-using-css/",
-      "title":"Tutorial for IE & WebKit/Blink browsers"
-    },
-    {
       "url":"http://utatti.github.io/perfect-scrollbar/",
       "title":"\"perfect-scrollbar\" - Minimal custom scrollbar plugin"
     },
@@ -343,7 +339,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only supports styling [scrollbar colors](https://msdn.microsoft.com/en-us/library/ms531155%28v=vs.85%29.aspx), no other properties to define the scrollbar's appearance. (not on standards track)",
+    "1":"Only supports styling scrollbar colors through proprietary prefixed properties, no other properties to define the scrollbar's appearance. (not on standards track)",
     "2":"Supports scrollbar styling via CSS [pseudo-properties](https://webkit.org/blog/363/styling-scrollbars/). (not on standards track)",
     "3":"Scrollbar styling doesn\u2019t work in [WKWebView](https://issues.apache.org/jira/browse/CB-10123)",
     "4":"Can be enabled by setting the layout.css.scrollbar-colors.enabled and layout.css.scrollbar-width.enabled flags to true.",
