@@ -1,7 +1,7 @@
 {
   "title":"readonly attribute of input and textarea elements",
   "description":"Makes the form control non-editable. Unlike the `disabled` attribute, `readonly` form controls are still included in form submissions and the user can still select (but not edit) their value text.",
-  "spec":"https://html.spec.whatwg.org/multipage/forms.html#attr-input-readonly",
+  "spec":"https://html.spec.whatwg.org/multipage/input.html#the-readonly-attribute",
   "status":"ls",
   "links":[
     {
