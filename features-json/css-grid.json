@@ -43,6 +43,9 @@
     },
     {
       "description":"Safari does not yet support intrinsic and extrinsic sizing with grid properties such as `grid-template-rows`"
+    },
+    {
+      "description":"Edge has various problems supporting `calc()` within grid properties ([18676405](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/18676405/), [18675657](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/18675657/))"
     }
   ],
   "categories":[
