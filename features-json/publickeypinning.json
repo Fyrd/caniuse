@@ -323,7 +323,7 @@
       "7.12":"y"
     }
   },
-  "notes":"The HTTP header syntax is 'Public-Key-Pins: pin-sha256=\"base64==\"; max-age=expireTime [; includeSubdomains][; report-uri=\"reportURI\"]'.\r\n\r\nSupport in Chrome was [deprecated and removed](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/he9tr7p3rZ8/eNMwKPmUBAAJ).",
+  "notes":"The HTTP header syntax is 'Public-Key-Pins: pin-sha256=\"base64==\"; max-age=expireTime [; includeSubdomains][; report-uri=\"reportURI\"]'.\r\n\r\nSupport in Chrome was [deprecated](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/he9tr7p3rZ8/eNMwKPmUBAAJ) and [removed](https://blog.chromium.org/2018/12/chrome-72-beta-public-class-fields-user.html?m=1).",
   "notes_by_num":{
     
   },
