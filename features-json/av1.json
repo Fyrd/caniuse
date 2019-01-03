@@ -10,7 +10,7 @@
     },
     {
       "url":"https://bitmovin.com/demos/av1",
-      "title":"Sample video (Firefox Nightly only)"
+      "title":"Sample video from Bitmovin"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/34544281-support-aomedia-video-1-av1",
@@ -44,7 +44,7 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n d #3"
+      "18":"n d #4"
     },
     "firefox":{
       "2":"n",
@@ -110,10 +110,10 @@
       "60":"n d #1",
       "61":"n d #1",
       "62":"n d #1",
-      "63":"n d #1",
-      "64":"n d #1",
-      "65":"n d #1",
-      "66":"n d #1"
+      "63":"n d #2",
+      "64":"n d #2",
+      "65":"n d #2",
+      "66":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -179,9 +179,9 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n d #2",
-      "68":"n d #2",
-      "69":"n d #2",
+      "67":"n d #3",
+      "68":"n d #3",
+      "69":"n d #3",
       "70":"y",
       "71":"y",
       "72":"y",
@@ -262,7 +262,7 @@
       "54":"n",
       "55":"n",
       "56":"n",
-      "57":"n"
+      "57":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -338,8 +338,9 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled in Firefox Nightly only, via the `media.av1.enabled` flag in `about:config`",
-    "2":"Can be enabled in Chrome via the #enable-av1-decoder flag in `chrome://flags`",
-    "3":"Supported in Edge when the AV1 Video Extension (Beta) is installed from the Microsoft Store"
+    "2":"Can be enabled in Firefox (Nightly, Beta/Developer Edition, and Release), via the `media.av1.enabled` flag in `about:config`",
+    "3":"Can be enabled in Chrome via the #enable-av1-decoder flag in `chrome://flags`",
+    "4":"Supported in Edge when the AV1 Video Extension (Beta) is installed from the Microsoft Store"
   },
   "usage_perc_y":25.51,
   "usage_perc_a":0,
