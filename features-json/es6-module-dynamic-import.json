@@ -1,8 +1,8 @@
 {
   "title":"JavaScript modules: dynamic import()",
   "description":"Loading JavaScript modules dynamically using the import() syntax",
-  "spec":"https://github.com/tc39/proposal-dynamic-import/blob/master/HTML%20Integration.md",
-  "status":"unoff",
+  "spec":"https://github.com/tc39/proposal-dynamic-import",
+  "status":"other",
   "links":[
     {
       "url":"https://tc39.github.io/proposal-dynamic-import/",
@@ -15,6 +15,10 @@
     {
       "url":"https://developers.google.com/web/updates/2017/11/dynamic-import",
       "title":"Dynamic import()"
+    },
+    {
+      "url":"https://html.spec.whatwg.org/multipage/webappapis.html#integration-with-the-javascript-module-system",
+      "title":"Integration with the HTML specification"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1342012",
@@ -113,7 +117,7 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n"
+      "66":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -337,7 +341,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1": "Support can be enabled via `javascript.options.dynamicImport` flag. See [bug 1517546](https://bugzil.la/1517546)."
   },
   "usage_perc_y":72.82,
   "usage_perc_a":0,
