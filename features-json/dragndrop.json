@@ -64,6 +64,9 @@
     },
     {
       "description":"In Firefox, an element won't drag unless the `dragstart` handler sets `dataTransfer` data (even if it doesn't get retrieved). [Test case](https://codepen.io/michai/pen/NwORqO)"
+    },
+    {
+      "description":"In Firefox, drag and drop does not work when the page is served as `application/xhtml+xml` [Mozilla Bug #751778](https://bugzilla.mozilla.org/show_bug.cgi?id=751778), [Mozilla Bug #1106160](https://bugzilla.mozilla.org/show_bug.cgi?id=1106160)"
     }
   ],
   "categories":[
