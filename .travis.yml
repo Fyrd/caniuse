@@ -5,6 +5,4 @@ node_js:
   - "10"
   - "8"
   - "6"
-  - "4"
-  - "0.12"
 script: node validator/validate-jsons.js
