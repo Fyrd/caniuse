@@ -29,9 +29,11 @@
       "title":"Webkit blog post describing their non-standard support"
     }
   ],
-  "bugs":[
-    
-  ],
+  "bugs": [
+    {
+    "description":"In Firefox 64, `scrollbar-color:auto` resolves to two colors rather than auto itself"
+    }
+ ],
   "categories":[
     "CSS"
   ],
@@ -305,8 +307,7 @@
       "67":"a x #2"
     },
     "bb":{
-      "7":"a x #2",
-      "10":"a x #2"
+      "7":"a x #2",      "10":"a x #2"
     },
     "op_mob":{
       "10":"n",
@@ -352,11 +353,7 @@
     "5":"Firefox 63 supported scrollbar-face-color and scrollbar-track-color seperate properties (now dropped from the spec) instead of unified scrollbar-color property."
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<legnth>` values of scrollbar width"
   },
-  "bugs": [
-    {
-    "description":"In Firefox 64, `scrollbar-color:auto` resolves to two colors rather than auto itself"
-    }
- ],
+
   "usage_perc_y":1.72,
   "usage_perc_a":86.42,
   "ucprefix":false,
