@@ -29,7 +29,7 @@
       "title":"Webkit blog post describing their non-standard support"
     }
   ],
-  "bugs": [
+  "bugs":[
     {
     "description":"In Firefox 64, `scrollbar-color:auto` resolves to two colors rather than auto itself"
     }
@@ -307,7 +307,8 @@
       "67":"a x #2"
     },
     "bb":{
-      "7":"a x #2",      "10":"a x #2"
+      "7":"a x #2",      
+      "10":"a x #2"
     },
     "op_mob":{
       "10":"n",
