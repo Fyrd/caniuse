@@ -327,10 +327,10 @@
       "46":"a x #2 #3"
     },
     "and_chr":{
-      "70":"a x #2 #3"
+      "71":"a x #2 #3"
     },
     "and_ff":{
-      "63":"a x #1 #3 #4"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -359,8 +359,8 @@
     "3":"Partial support refers to not returning a Promise, as specified in the latest version of the spec.",
     "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag"
   },
-  "usage_perc_y":13.79,
-  "usage_perc_a":67.68,
+  "usage_perc_y":13.97,
+  "usage_perc_a":67.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",
