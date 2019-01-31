@@ -105,7 +105,8 @@
       "63":"y #3",
       "64":"y #3",
       "65":"y #3",
-      "66":"y #3"
+      "66":"y #3",
+      "67":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +179,8 @@
       "71":"y #3",
       "72":"y #3",
       "73":"y #3",
-      "74":"y #3"
+      "74":"y #3",
+      "75":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -331,7 +333,8 @@
   "notes_by_num":{
     "1":"Partial support in IE11 refers to being limited to Windows 10.",
     "2":"Partial support in Safari refers to being limited to OSX 10.11+",
-    "3":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
+    "3":"Only supports HTTP2 if servers support protocol negotiation via ALPN",
+    "4":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
   },
   "usage_perc_y":84.17,
   "usage_perc_a":2.51,

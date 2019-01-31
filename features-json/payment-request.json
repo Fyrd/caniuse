@@ -120,8 +120,9 @@
       "62":"n d #6",
       "63":"n d #6",
       "64":"n d #6",
-      "65":"a d #8",
-      "66":"a d #8"
+      "65":"n d #6",
+      "66":"a d #8",
+      "67":"a d #8"
     },
     "chrome":{
       "4":"n",
@@ -194,7 +195,8 @@
       "71":"a #7",
       "72":"a #7",
       "73":"a #7",
-      "74":"a #7"
+      "74":"a #7",
+      "75":"a #7"
     },
     "safari":{
       "3.1":"n",
@@ -355,7 +357,7 @@
     "8":"Enabled by default in Nightly, but \"dom.payments.request.supportedRegions\" pref in \"about:config\" must be set to \"US,CA\"."
   },
   "usage_perc_y":0,
-  "usage_perc_a":74.64,
+  "usage_perc_a":74.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",
