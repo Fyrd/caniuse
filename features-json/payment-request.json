@@ -196,7 +196,7 @@
       "72":"a #7",
       "73":"a #7",
       "74":"a #7",
-      "75":"a #7"
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -216,7 +216,7 @@
       "11":"n #3",
       "11.1":"a #7",
       "12":"a #7",
-      "TP":"a #7"
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -354,7 +354,7 @@
     "5":"Unlike Desktop Chrome, support has been in Chrome for Android since version 53.",
     "6":"Can be enabled via the `dom.payments.request.enabled` flag in \"about:config\" flag since 55.",
     "7":"Missing support for PaymentResponse.prototype.retry() method",
-    "8":"Enabled by default in Nightly, but \"dom.payments.request.supportedRegions\" pref in \"about:config\" must be set to \"US,CA\"."
+    "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
   "usage_perc_y":0,
   "usage_perc_a":74.59,
