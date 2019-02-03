@@ -327,9 +327,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -343,8 +344,8 @@
     "1":"Partial support refers to only supporting EOT fonts.",
     "2":"Partial support refers to only supporting SVG fonts."
   },
-  "usage_perc_y":93.36,
-  "usage_perc_a":0.2,
+  "usage_perc_y":92.77,
+  "usage_perc_a":0.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face",

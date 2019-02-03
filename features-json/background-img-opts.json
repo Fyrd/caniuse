@@ -333,9 +333,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -350,8 +351,8 @@
     "2":"Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
     "3":"Does not support `background-size` values in the `background` shorthand"
   },
-  "usage_perc_y":92.81,
-  "usage_perc_a":2.59,
+  "usage_perc_y":92.22,
+  "usage_perc_a":2.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

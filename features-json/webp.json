@@ -332,9 +332,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -347,8 +348,8 @@
   "notes_by_num":{
     "1":"Partial support in older Chrome, Opera and Android refers to browsers not supporting lossless and alpha versions of WebP."
   },
-  "usage_perc_y":72.59,
-  "usage_perc_a":0.32,
+  "usage_perc_y":71.52,
+  "usage_perc_a":0.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

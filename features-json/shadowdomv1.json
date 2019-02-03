@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"a",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"a",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -339,8 +340,8 @@
     "2":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
     "3":"Enabled through the \"dom.webcomponents.shadowdom.enabled\" preference in about:config"
   },
-  "usage_perc_y":71.17,
-  "usage_perc_a":12.35,
+  "usage_perc_y":70.49,
+  "usage_perc_a":12.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"web components,shadow dom,attachShadow",

@@ -327,9 +327,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -342,7 +343,7 @@
   "notes_by_num":{
     "1":"Using script.async = false; to maintain execution order for dynamically-added scripts isn't supported in Safari 5.0"
   },
-  "usage_perc_y":93.06,
+  "usage_perc_y":92.47,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",

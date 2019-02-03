@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -338,8 +339,8 @@
     "1":"Can be enabled in Firefox using the dom.enable_resource_timing flag",
     "2":"Partial support in Safari refers to being limited to OSX 10.12+"
   },
-  "usage_perc_y":90.83,
-  "usage_perc_a":0.1,
+  "usage_perc_y":90.1,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,testing,resource",

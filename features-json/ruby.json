@@ -332,9 +332,10 @@
     },
     "samsung":{
       "4":"a",
-      "5":"a",
-      "6.2":"a",
-      "7.2":"a"
+      "5.0-5.4":"a",
+      "6.2-6.4":"a",
+      "7.2-7.4":"a",
+      "8.2":"a"
     },
     "and_qq":{
       "1.2":"a"
@@ -347,8 +348,8 @@
   "notes_by_num":{
     "1":"IE9+ supports [properties](https://msdn.microsoft.com/en-us/library/hh772055%28v=vs.85%29.aspx) of an older version of the CSS Ruby specification."
   },
-  "usage_perc_y":4.75,
-  "usage_perc_a":88.44,
+  "usage_perc_y":4.48,
+  "usage_perc_a":88.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",

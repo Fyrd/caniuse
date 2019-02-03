@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"y #1",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -339,8 +340,8 @@
     "2":"Only works on ChromeOS",
     "3":"Supported only on macOS High Sierra or later"
   },
-  "usage_perc_y":84.11,
-  "usage_perc_a":2.92,
+  "usage_perc_y":83.51,
+  "usage_perc_a":2.78,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"flac,lossless,audio",

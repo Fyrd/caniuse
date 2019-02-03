@@ -320,9 +320,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -342,8 +343,8 @@
     "7":"Firefox 45+ is missing the plugin-types directive.",
     "9":"Edge has broken nonce support as it ignores nonces on sourced scripts."
   },
-  "usage_perc_y":77.52,
-  "usage_perc_a":6.68,
+  "usage_perc_y":77.3,
+  "usage_perc_a":6.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,header,nonce,hash",

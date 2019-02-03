@@ -328,9 +328,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -344,7 +345,7 @@
     "1":"Safari implementation is incomplete. Does not allow applying web fonts to the initial letter."
   },
   "usage_perc_y":0,
-  "usage_perc_a":12.62,
+  "usage_perc_a":12.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"initial-letter,initial letter,letter,drop cap,dropcap",

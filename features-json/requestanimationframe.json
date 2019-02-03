@@ -328,9 +328,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -344,8 +345,8 @@
     "1":"Partial support refers to lacking `cancelAnimationFrame` support.",
     "2":"Supports `webkitCancelRequestAnimationFrame` rather than `webkitCancelAnimationFrame`."
   },
-  "usage_perc_y":92.48,
-  "usage_perc_a":0.14,
+  "usage_perc_y":91.88,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

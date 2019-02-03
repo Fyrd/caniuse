@@ -328,9 +328,10 @@
     },
     "samsung":{
       "4":"u",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -344,8 +345,8 @@
     "1":"IE and Edge only support `pinch-zoom`.",
     "2":"Chromium 55 derived browsers implement direction-specific panning but do not support `pinch-zoom`."
   },
-  "usage_perc_y":63.28,
-  "usage_perc_a":4.4,
+  "usage_perc_y":63.01,
+  "usage_perc_a":4.55,
   "ucprefix":false,
   "parent":"css-touch-action",
   "keywords":"touch action,level 2",

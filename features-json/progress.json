@@ -326,9 +326,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -341,8 +342,8 @@
   "notes_by_num":{
     "1":"iOS Safari does not support \"indeterminate\" <progress> elements."
   },
-  "usage_perc_y":84.11,
-  "usage_perc_a":10.59,
+  "usage_perc_y":82.87,
+  "usage_perc_a":11.01,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"#progressmeter,<progress>",

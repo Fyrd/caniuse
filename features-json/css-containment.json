@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"n",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -334,7 +335,7 @@
     "1":"Enabled via the \"Experimental Web Platform features\" flag",
     "2":"Partially supported in Firefox by enabling \"layout.css.contain.enabled\" in about:config"
   },
-  "usage_perc_y":67.66,
+  "usage_perc_y":66.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

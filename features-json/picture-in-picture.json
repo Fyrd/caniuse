@@ -330,9 +330,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -347,8 +348,8 @@
     "2":"Opera allows users to use Picture-in-Picture for all playing videos (JS API not available)",
     "3":"Automatically plays video in Picture-in-Picture when user hits Home Screen button and video is fullscreen (Android >= Oreo required)"
   },
-  "usage_perc_y":24.93,
-  "usage_perc_a":47.21,
+  "usage_perc_y":25.62,
+  "usage_perc_a":47.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"Picture-in-Picture,pip,pop-out",

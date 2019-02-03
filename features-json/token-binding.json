@@ -314,9 +314,10 @@
     },
     "samsung":{
       "4":"u",
-      "5":"u",
-      "6.2":"u",
-      "7.2":"u"
+      "5.0-5.4":"u",
+      "6.2-6.4":"u",
+      "7.2-7.4":"u",
+      "8.2":"u"
     },
     "and_qq":{
       "1.2":"u"
@@ -330,7 +331,7 @@
     "1":"Enabled in Chrome through the \"Token Binding\" flag in chrome://flags",
     "2":"Token binding in Edge is enabled on Windows 10, version 1703 and newer"
   },
-  "usage_perc_y":1.79,
+  "usage_perc_y":1.84,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

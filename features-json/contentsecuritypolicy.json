@@ -330,9 +330,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -346,8 +347,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-WebKit-CSP` header"
   },
-  "usage_perc_y":90.17,
-  "usage_perc_a":2.45,
+  "usage_perc_y":89.41,
+  "usage_perc_a":2.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

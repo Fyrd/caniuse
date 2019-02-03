@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -337,8 +338,8 @@
   "notes_by_num":{
     "1":"Requires strict mode. Non-strict mode support is behind the flag 'Enable Experimental JavaScript', disabled by default."
   },
-  "usage_perc_y":87.62,
-  "usage_perc_a":0.21,
+  "usage_perc_y":86.91,
+  "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,JavaScript,class",

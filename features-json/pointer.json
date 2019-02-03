@@ -339,9 +339,10 @@
     },
     "samsung":{
       "4":"p",
-      "5":"n",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"n",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"p d #3"
@@ -357,8 +358,8 @@
     "3":"Can be enabled with the `#enable-pointer-events` flag.",
     "4":"Can be enabled under the `Experimental Features` menu."
   },
-  "usage_perc_y":71.21,
-  "usage_perc_a":0.08,
+  "usage_perc_y":71.04,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"pointerdown,pointermove,pointerup,pointercancel,pointerover,pointerout,pointerenter,pointerleave",

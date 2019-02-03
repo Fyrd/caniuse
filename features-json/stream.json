@@ -334,9 +334,10 @@
     },
     "samsung":{
       "4":"a x #1 #2",
-      "5":"a x #1 #2",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"a x #1 #2",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"a x #1 #2"
@@ -351,8 +352,8 @@
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one.",
     "3":"Does not work in standalone running (\"installed\") PWAs, `getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari."
   },
-  "usage_perc_y":85.86,
-  "usage_perc_a":2.4,
+  "usage_perc_y":85.23,
+  "usage_perc_a":2.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",

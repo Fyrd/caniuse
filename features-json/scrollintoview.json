@@ -319,9 +319,10 @@
     },
     "samsung":{
       "4":"a #1",
-      "5":"a #1",
-      "6.2":"a #1",
-      "7.2":"a #1"
+      "5.0-5.4":"a #1",
+      "6.2-6.4":"a #1",
+      "7.2-7.4":"a #1",
+      "8.2":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -334,8 +335,8 @@
   "notes_by_num":{
     "1":"Supports scrollIntoView with boolean parameter, but not `smooth` behavior option"
   },
-  "usage_perc_y":66.39,
-  "usage_perc_a":27.08,
+  "usage_perc_y":66.96,
+  "usage_perc_a":25.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

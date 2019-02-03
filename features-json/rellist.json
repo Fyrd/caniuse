@@ -319,9 +319,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"a #1",
-      "6.2":"a #1",
-      "7.2":"a #1"
+      "5.0-5.4":"a #1",
+      "6.2-6.4":"a #1",
+      "7.2-7.4":"a #1",
+      "8.2":"a #1"
     },
     "and_qq":{
       "1.2":"n"
@@ -334,8 +335,8 @@
   "notes_by_num":{
     "1":"Support for relList on link but not anchor elements"
   },
-  "usage_perc_y":78.23,
-  "usage_perc_a":8.6,
+  "usage_perc_y":78.86,
+  "usage_perc_a":7.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

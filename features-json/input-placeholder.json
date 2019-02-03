@@ -338,9 +338,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -353,7 +354,7 @@
   "notes_by_num":{
     "1":"Partial support refers to lacking placeholder support on textarea elements."
   },
-  "usage_perc_y":94.98,
+  "usage_perc_y":94.21,
   "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"forms",

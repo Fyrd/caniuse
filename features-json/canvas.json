@@ -356,9 +356,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -372,8 +373,8 @@
     "1":"Does not support `toDataURL()`",
     "2":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications."
   },
-  "usage_perc_y":93.36,
-  "usage_perc_a":2.08,
+  "usage_perc_y":92.79,
+  "usage_perc_a":1.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"toDataURL()",

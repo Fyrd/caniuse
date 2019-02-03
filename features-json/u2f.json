@@ -319,9 +319,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -335,7 +336,7 @@
     "1":"Requires the \"FIDO U2F (Universal 2nd Factor)\" Chrome extension",
     "2":"Support can be enabled with the \"security.webauth.u2f\" flag"
   },
-  "usage_perc_y":30.44,
+  "usage_perc_y":29.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

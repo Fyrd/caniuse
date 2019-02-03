@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -333,7 +334,7 @@
   "notes_by_num":{
     "1":"Intl.PluralRules exists, but methods are not implemented."
   },
-  "usage_perc_y":65.21,
+  "usage_perc_y":65.84,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"internationalization",

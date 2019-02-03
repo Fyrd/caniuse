@@ -330,9 +330,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -345,8 +346,8 @@
   "notes_by_num":{
     "1":"Supports selector only for input and textarea fields, but not for contenteditable"
   },
-  "usage_perc_y":89.08,
-  "usage_perc_a":1.59,
+  "usage_perc_y":88.27,
+  "usage_perc_a":1.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,selector,read-only,read-write",

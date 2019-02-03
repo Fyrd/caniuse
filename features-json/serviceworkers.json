@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"a"
@@ -340,7 +341,7 @@
     "3":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` flag",
     "4":"Can be enabled via the \"Experimental Features\" developer menu"
   },
-  "usage_perc_y":86.61,
+  "usage_perc_y":85.89,
   "usage_perc_a":0.16,
   "ucprefix":false,
   "parent":"",

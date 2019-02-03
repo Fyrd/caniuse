@@ -326,9 +326,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"n",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n d #1 #3"
@@ -344,7 +345,7 @@
     "3":"Available in [Origin Trials](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials) for Chrome OS, Android M, and Mac",
     "4":"Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)"
   },
-  "usage_perc_y":63.22,
+  "usage_perc_y":62.95,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

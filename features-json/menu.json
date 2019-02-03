@@ -330,9 +330,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n d #5"
@@ -350,7 +351,7 @@
     "5":"Context menus supported in Chromium with the \"enable-blink-features=ContextMenu\" command line flag"
   },
   "usage_perc_y":0,
-  "usage_perc_a":4.92,
+  "usage_perc_a":4.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"contextmenu,<menuitem>,command",

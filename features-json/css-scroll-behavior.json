@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n d #1 #2"
@@ -338,7 +339,7 @@
     "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
   },
-  "usage_perc_y":66.39,
+  "usage_perc_y":66.96,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

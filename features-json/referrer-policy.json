@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -334,8 +335,8 @@
     "1":"Supports an [older draft](https://wiki.whatwg.org/wiki/Meta_referrer) of the specification with `never`, `always`, `origin` & `default` values.\r\n",
     "2":"Chrome does not support `same-origin`, `strict-origin`, or `strict-origin-when-cross-origin` values ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))"
   },
-  "usage_perc_y":68.68,
-  "usage_perc_a":22.2,
+  "usage_perc_y":69.29,
+  "usage_perc_a":21.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",

@@ -337,9 +337,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -355,8 +356,8 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList`"
   },
-  "usage_perc_y":89.89,
-  "usage_perc_a":5.23,
+  "usage_perc_y":89.14,
+  "usage_perc_a":5.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

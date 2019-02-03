@@ -334,9 +334,10 @@
     },
     "samsung":{
       "4":"a x #1",
-      "5":"a x #1",
-      "6.2":"a x #1",
-      "7.2":"a x #1"
+      "5.0-5.4":"a x #1",
+      "6.2-6.4":"a x #1",
+      "7.2-7.4":"a x #1",
+      "8.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -355,8 +356,8 @@
     "6":"Partial support refers to supporting mask-image, mask-size, mask-position, mask-repeat and mask-composite",
     "7":"Edge also recognizes and supports all the `-webkit-` prefixed equivalents of the unprefixed properties for site compatibility"
   },
-  "usage_perc_y":4.21,
-  "usage_perc_a":84.6,
+  "usage_perc_y":3.99,
+  "usage_perc_a":84.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type,css masking",

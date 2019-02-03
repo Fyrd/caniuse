@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -333,7 +334,7 @@
   "notes_by_num":{
     "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag. Reported to not work in web workers before version 41."
   },
-  "usage_perc_y":92.51,
+  "usage_perc_y":91.94,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"x-doc-messaging",

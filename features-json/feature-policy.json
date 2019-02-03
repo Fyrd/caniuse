@@ -332,9 +332,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"a #1"
     },
     "and_qq":{
       "1.2":"n"
@@ -350,7 +351,7 @@
     "3":"Doesn't support [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":63.57,
+  "usage_perc_a":64.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow",

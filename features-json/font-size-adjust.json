@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n d #1"
@@ -338,7 +339,7 @@
     "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
-  "usage_perc_y":4.81,
+  "usage_perc_y":4.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

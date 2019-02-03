@@ -316,9 +316,10 @@
     },
     "samsung":{
       "4":"y #3",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y #1"
@@ -334,7 +335,7 @@
     "3":"If multiple formats are available, will use the last one loaded, regardless of sizes (effectively picks at random).",
     "4":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
   },
-  "usage_perc_y":82.4,
+  "usage_perc_y":81.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

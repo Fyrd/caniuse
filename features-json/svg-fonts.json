@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"n #1",
-      "6.2":"n #1",
-      "7.2":"n #1"
+      "5.0-5.4":"n #1",
+      "6.2-6.4":"n #1",
+      "7.2-7.4":"n #1",
+      "8.2":"n #1"
     },
     "and_qq":{
       "1.2":"y"
@@ -334,7 +335,7 @@
     "1":"Chrome 38 and newer support SVG fonts only on Windows Vista and XP.",
     "2":"Supported in Opera Mini in SVG images only, not in HTML."
   },
-  "usage_perc_y":15.14,
+  "usage_perc_y":15.48,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n d #1",
-      "6.2":"n d #1",
-      "7.2":"n d #1"
+      "5.0-5.4":"n d #1",
+      "6.2-6.4":"n d #1",
+      "7.2-7.4":"n d #1",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n d #1"
@@ -333,7 +334,7 @@
   "notes_by_num":{
     "1":"Can be enabled via the \"Experimental web platform features\" flag."
   },
-  "usage_perc_y":78.2,
+  "usage_perc_y":78.92,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

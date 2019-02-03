@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y #3",
-      "6.2":"y #3",
-      "7.2":"y #3"
+      "5.0-5.4":"y #3",
+      "6.2-6.4":"y #3",
+      "7.2-7.4":"y #3",
+      "8.2":"y #3"
     },
     "and_qq":{
       "1.2":"y #3"
@@ -336,8 +337,8 @@
     "3":"Only supports HTTP2 if servers support protocol negotiation via ALPN",
     "4":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
   },
-  "usage_perc_y":84.17,
-  "usage_perc_a":2.51,
+  "usage_perc_y":83.77,
+  "usage_perc_a":2.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

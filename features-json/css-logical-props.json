@@ -323,9 +323,10 @@
     },
     "samsung":{
       "4":"a x #2",
-      "5":"a x #2",
-      "6.2":"a x #2",
-      "7.2":"a x #2"
+      "5.0-5.4":"a x #2",
+      "6.2-6.4":"a x #2",
+      "7.2-7.4":"a x #2",
+      "8.2":"a x #2"
     },
     "and_qq":{
       "1.2":"a x #2"
@@ -339,8 +340,8 @@
     "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
     "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
   },
-  "usage_perc_y":63.75,
-  "usage_perc_a":25.08,
+  "usage_perc_y":64.13,
+  "usage_perc_a":23.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"margin-start,margin-end,padding-start,padding-end,border-start,border-end,inline-start,inline-end,block-start,block-end,block-size,inline-size",

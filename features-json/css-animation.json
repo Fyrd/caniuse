@@ -338,9 +338,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y x"
@@ -354,8 +355,8 @@
     "1":"Partial support in Android browser refers to buggy behavior in different scenarios.",
     "2":"Does not support the `steps()`, `step-start` & `step-end` timing functions"
   },
-  "usage_perc_y":93.06,
-  "usage_perc_a":0.05,
+  "usage_perc_y":92.49,
+  "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"animations,css-animations,animation-name,animation-duration,animation-delay,animation-timing-function,@keyframes,animationstart,animationend,animationiteration,css3 animation,steps,step-start,step-end,cubic-bezier",

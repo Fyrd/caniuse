@@ -314,9 +314,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -329,8 +330,8 @@
   "notes_by_num":{
     "1":"Partial support in Firefox refers to only supporting AAC in an MP4 container and only when the operating system already has the codecs installed."
   },
-  "usage_perc_y":88.11,
-  "usage_perc_a":4.85,
+  "usage_perc_y":87.83,
+  "usage_perc_a":4.58,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"audio/aac",

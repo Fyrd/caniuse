@@ -336,9 +336,10 @@
     },
     "samsung":{
       "4":"a x #2",
-      "5":"a x #2",
-      "6.2":"a x #2",
-      "7.2":"a x #2"
+      "5.0-5.4":"a x #2",
+      "6.2-6.4":"a x #2",
+      "7.2-7.4":"a x #2",
+      "8.2":"a x #2"
     },
     "and_qq":{
       "1.2":"a x #2"
@@ -357,7 +358,7 @@
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<legnth>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":88.14,
+  "usage_perc_a":89.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

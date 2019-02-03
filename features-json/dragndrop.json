@@ -371,9 +371,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -388,8 +389,8 @@
     "2":"Partial support refers to not supporting `.setDragImage`",
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`."
   },
-  "usage_perc_y":48.04,
-  "usage_perc_a":4.51,
+  "usage_perc_y":47.51,
+  "usage_perc_a":4.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

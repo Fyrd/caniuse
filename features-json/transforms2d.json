@@ -346,9 +346,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -361,7 +362,7 @@
   "notes_by_num":{
     "1":"Does not support CSS transforms on SVG elements (transform attribute can be used instead)"
   },
-  "usage_perc_y":93.38,
+  "usage_perc_y":92.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

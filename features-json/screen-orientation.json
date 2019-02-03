@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"u",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -337,8 +338,8 @@
   "notes_by_num":{
     "1":"Not supported on Windows 7."
   },
-  "usage_perc_y":73.47,
-  "usage_perc_a":4.41,
+  "usage_perc_y":72.4,
+  "usage_perc_a":4.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"lockorientation,unlockorientation",

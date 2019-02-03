@@ -331,9 +331,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -346,8 +347,8 @@
   "notes_by_num":{
     "1":"Partial support in Presto-based Opera browsers refers to using an older API (`window.supportsCSS`)"
   },
-  "usage_perc_y":89.61,
-  "usage_perc_a":2.04,
+  "usage_perc_y":88.74,
+  "usage_perc_a":1.84,
   "ucprefix":false,
   "parent":"",
   "keywords":"conditional",

@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n d #2",
-      "6.2":"n d #2",
-      "7.2":"n d #2"
+      "5.0-5.4":"n d #2",
+      "6.2-6.4":"n d #2",
+      "7.2-7.4":"n d #2",
+      "8.2":"n d #2"
     },
     "and_qq":{
       "1.2":"n d #2"
@@ -340,8 +341,8 @@
     "3":"Behind the \"layout.css.text-justify.enabled\" flag",
     "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
   },
-  "usage_perc_y":3.99,
-  "usage_perc_a":4.62,
+  "usage_perc_y":3.96,
+  "usage_perc_a":4.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

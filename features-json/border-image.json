@@ -323,9 +323,10 @@
     },
     "samsung":{
       "4":"a #1 #2",
-      "5":"a #2",
-      "6.2":"a #2",
-      "7.2":"y"
+      "5.0-5.4":"a #2",
+      "6.2-6.4":"a #2",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"a #2"
@@ -341,8 +342,8 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":84.39,
-  "usage_perc_a":10.76,
+  "usage_perc_y":84.34,
+  "usage_perc_a":10.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-image-source,border-image-slice,border-image-repeat,border-image-width,,border-image-outset",

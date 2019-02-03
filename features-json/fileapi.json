@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -338,8 +339,8 @@
     "1":"Does not have `FileReader` support. ",
     "2":"Does not support the `File` constructor"
   },
-  "usage_perc_y":87.05,
-  "usage_perc_a":6.04,
+  "usage_perc_y":86.14,
+  "usage_perc_a":6.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

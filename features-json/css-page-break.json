@@ -318,9 +318,10 @@
     },
     "samsung":{
       "4":"a #1 #2 #3",
-      "5":"a #1 #2 #3",
-      "6.2":"a #1 #2 #3",
-      "7.2":"a #1 #2 #3"
+      "5.0-5.4":"a #1 #2 #3",
+      "6.2-6.4":"a #1 #2 #3",
+      "7.2-7.4":"a #1 #2 #3",
+      "8.2":"a #1 #2 #3"
     },
     "and_qq":{
       "1.2":"a #1 #2 #3"
@@ -335,8 +336,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":2.1,
-  "usage_perc_a":93.49,
+  "usage_perc_y":1.89,
+  "usage_perc_a":92.95,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

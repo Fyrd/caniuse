@@ -328,9 +328,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -343,8 +344,8 @@
   "notes_by_num":{
     "1":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property."
   },
-  "usage_perc_y":4.82,
-  "usage_perc_a":10.61,
+  "usage_perc_y":4.55,
+  "usage_perc_a":11.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"image-orientation,from-image,flip",

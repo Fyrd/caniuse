@@ -322,9 +322,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -337,8 +338,8 @@
   "notes_by_num":{
     "1":"Does not match non-required `<select>`s"
   },
-  "usage_perc_y":93.04,
-  "usage_perc_a":2.1,
+  "usage_perc_y":92.44,
+  "usage_perc_a":1.89,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":":optional,optional,:required,required",

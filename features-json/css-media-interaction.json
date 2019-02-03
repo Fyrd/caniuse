@@ -327,9 +327,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -342,7 +343,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":85.08,
+  "usage_perc_y":86.15,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"css-mediaqueries",

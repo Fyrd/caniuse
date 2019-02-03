@@ -315,9 +315,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -330,7 +331,7 @@
   "notes_by_num":{
     "1":"Support can be enabled via the `dom.forms.inputmode` flag"
   },
-  "usage_perc_y":60.6,
+  "usage_perc_y":61.16,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

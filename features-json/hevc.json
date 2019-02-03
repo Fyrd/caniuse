@@ -326,9 +326,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n #2",
-      "6.2":"n #2",
-      "7.2":"n #2"
+      "5.0-5.4":"n #2",
+      "6.2-6.4":"n #2",
+      "7.2-7.4":"n #2",
+      "8.2":"n #2"
     },
     "and_qq":{
       "1.2":"n"
@@ -343,8 +344,8 @@
     "2":"Reported to work in certain Android devices with hardware support",
     "3":"Supported only on macOS High Sierra or later"
   },
-  "usage_perc_y":9.6,
-  "usage_perc_a":6.09,
+  "usage_perc_y":9.86,
+  "usage_perc_a":6.3,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

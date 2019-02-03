@@ -328,9 +328,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -344,8 +345,8 @@
     "1":"Partial support refers to requiring the second parameter to be included.",
     "2":"Partial support refers to not supporting getComputedStyle on pseudo-elements."
   },
-  "usage_perc_y":93.27,
-  "usage_perc_a":2.16,
+  "usage_perc_y":92.7,
+  "usage_perc_a":1.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
