@@ -1,16 +1,12 @@
 {
   "title":"CSS Logical Properties",
-  "description":"Use start/end properties that depend on LTR or RTL writing direction instead of left/right",
+  "description":"Logical properties and values provide control of layout through logical, rather than physical, direction and dimension mappings. These properties are `writing-mode` relative equivalents of their corresponding physical properties.",
   "spec":"https://www.w3.org/TR/css-logical-1/",
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-margin-start",
-      "title":"MDN Web Docs - CSS -moz-margin-start"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-padding-start",
-      "title":"MDN Web Docs - CSS -moz-padding-start"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties/Basic_concepts",
+      "title":"MDN - Basic concepts of Logical Properties and Values"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/7438435-css-logical-properties",
@@ -344,7 +340,7 @@
   "usage_perc_a":23.96,
   "ucprefix":false,
   "parent":"",
-  "keywords":"margin-start,margin-end,padding-start,padding-end,border-start,border-end,inline-start,inline-end,block-start,block-end,block-size,inline-size",
+  "keywords":"block-size,border-block,border-block-color,border-block-end,border-block-end-color,border-block-end-style,border-block-end-width,border-block-start,border-block-start-color,border-block-start-style,border-block-start-width,border-block-style,border-block-width,border-end-end-radius,border-end-start-radius,border-inline,border-inline-color,border-inline-end,border-inline-end-color,border-inline-end-style,border-inline-end-width,border-inline-start,border-inline-start-color,border-inline-start-style,border-inline-start-width,border-inline-style,border-inline-width,border-start-end-radius,border-start-start-radius,inline-size,inset,inset-block,inset-block-end,inset-block-start,inset-inline,inset-inline-end,inset-inline-start,margin-block,margin-block-end,margin-block-start,margin-inline,margin-inline-end,margin-inline-start,max-block-size,max-inline-size,min-block-size,min-inline-size,padding-block,padding-block-end,padding-block-start,padding-inline,padding-inline-end,padding-inline-start,recto,verso",
   "ie_id":"csslogicalpropertieslevel1",
   "chrome_id":"",
   "firefox_id":"",
