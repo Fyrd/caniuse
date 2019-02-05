@@ -101,7 +101,8 @@
       "63":"a #1",
       "64":"a #1",
       "65":"a #1",
-      "66":"a #1"
+      "66":"a #1",
+      "67":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -174,7 +175,8 @@
       "71":"a #1",
       "72":"a #1",
       "73":"a #1",
-      "74":"a #1"
+      "74":"a #1",
+      "75":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -312,9 +314,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"a #1",
-      "7.2":"a #1"
+      "5.0-5.4":"n",
+      "6.2-6.4":"a #1",
+      "7.2-7.4":"a #1",
+      "8.2":"a #1"
     },
     "and_qq":{
       "1.2":"n"
@@ -328,7 +331,7 @@
     "1":"Only appears to support the `#t=n,n` control for selecting a range of video, and possibly `track=(name)` & `id=(name)` (not yet tested)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":83.08,
+  "usage_perc_a":82.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

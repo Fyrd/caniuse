@@ -103,7 +103,8 @@
       "63":"y #1",
       "64":"y #1",
       "65":"y #1",
-      "66":"y #1"
+      "66":"y #1",
+      "67":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -176,7 +177,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"u",
@@ -314,9 +316,10 @@
     },
     "samsung":{
       "4":"u",
-      "5":"u",
-      "6.2":"u",
-      "7.2":"u"
+      "5.0-5.4":"u",
+      "6.2-6.4":"u",
+      "7.2-7.4":"u",
+      "8.2":"u"
     },
     "and_qq":{
       "1.2":"n"
@@ -331,7 +334,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":87.27,
+  "usage_perc_y":87.18,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

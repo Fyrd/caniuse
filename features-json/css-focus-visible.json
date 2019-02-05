@@ -125,7 +125,8 @@
       "63":"y x #1",
       "64":"y x #1",
       "65":"y x #1",
-      "66":"y x #1"
+      "66":"y x #1",
+      "67":"y x #1"
     },
     "chrome":{
       "4":"n",
@@ -198,7 +199,8 @@
       "71":"p d #2",
       "72":"p d #2",
       "73":"p d #2",
-      "74":"p d #2"
+      "74":"p d #2",
+      "75":"p d #2"
     },
     "safari":{
       "3.1":"n",
@@ -336,9 +338,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -352,7 +355,7 @@
     "1":"As `:-moz-focusring`",
     "2":"Enabled through the \"Experimental Web Platform features\" flag in chrome://flags"
   },
-  "usage_perc_y":4.97,
+  "usage_perc_y":4.69,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

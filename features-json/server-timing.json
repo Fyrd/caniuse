@@ -105,7 +105,8 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n"
+      "66":"n",
+      "67":"n"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +179,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -316,9 +318,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -332,8 +335,8 @@
     "1":"Chrome v60-63: An older version of the API is behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag.",
     "2":"Chrome v64: The current API is behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag."
   },
-  "usage_perc_y":27.08,
-  "usage_perc_a":0.86,
+  "usage_perc_y":27.63,
+  "usage_perc_a":1.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,performance.timing,testing,resource,performancenavigation",

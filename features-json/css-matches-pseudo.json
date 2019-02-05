@@ -121,7 +121,8 @@
       "63":"a x #3",
       "64":"a x #3",
       "65":"a x #3",
-      "66":"a x #3"
+      "66":"a x #3",
+      "67":"a x #3"
     },
     "chrome":{
       "4":"u",
@@ -194,7 +195,8 @@
       "71":"a d #2 #4",
       "72":"a d #2 #4",
       "73":"a d #2 #4",
-      "74":"a d #2 #4"
+      "74":"a d #2 #4",
+      "75":"a d #2 #4"
     },
     "safari":{
       "3.1":"n",
@@ -332,9 +334,10 @@
     },
     "samsung":{
       "4":"a x #1",
-      "5":"a x #1",
-      "6.2":"a x #1",
-      "7.2":"a x #1"
+      "5.0-5.4":"a x #1",
+      "6.2-6.4":"a x #1",
+      "7.2-7.4":"a x #1",
+      "8.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -350,8 +353,8 @@
     "3":"Only supports the `:-moz-any()` pseudo-class.",
     "4":"Support for ':matches()' is available behind the \"Experimental Web Platform features\" flag"
   },
-  "usage_perc_y":12.62,
-  "usage_perc_a":76.05,
+  "usage_perc_y":12.93,
+  "usage_perc_a":74.97,
   "ucprefix":false,
   "parent":"",
   "keywords":":matches,matches,:any,any",

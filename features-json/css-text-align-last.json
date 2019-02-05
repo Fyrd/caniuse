@@ -105,7 +105,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +179,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -316,9 +318,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -333,8 +336,8 @@
     "2":"Enabled through the \"Enable Experimental Web Platform Features\" flag in chrome://flags",
     "3":"Enabled through the \"Enable Experimental Web Platform Features\" flag in opera://flags"
   },
-  "usage_perc_y":73.41,
-  "usage_perc_a":4.65,
+  "usage_perc_y":72.35,
+  "usage_perc_a":4.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"text align last",

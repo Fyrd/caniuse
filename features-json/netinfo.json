@@ -102,7 +102,8 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n"
+      "66":"n",
+      "67":"n"
     },
     "chrome":{
       "4":"n",
@@ -175,7 +176,8 @@
       "71":"a #4",
       "72":"a #4",
       "73":"a #4",
-      "74":"a #4"
+      "74":"a #4",
+      "75":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -313,9 +315,10 @@
     },
     "samsung":{
       "4":"a #1",
-      "5":"a #3",
-      "6.2":"a #3",
-      "7.2":"a #3"
+      "5.0-5.4":"a #3",
+      "6.2-6.4":"a #3",
+      "7.2-7.4":"a #3",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -331,8 +334,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":33.9,
-  "usage_perc_a":29.27,
+  "usage_perc_y":33.94,
+  "usage_perc_a":30.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

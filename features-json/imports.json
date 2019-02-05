@@ -118,7 +118,8 @@
       "63":"p",
       "64":"p",
       "65":"p",
-      "66":"p"
+      "66":"p",
+      "67":"p"
     },
     "chrome":{
       "4":"n",
@@ -191,7 +192,8 @@
       "71":"y",
       "72":"y",
       "73":"n",
-      "74":"n"
+      "74":"n",
+      "75":"n"
     },
     "safari":{
       "3.1":"n",
@@ -329,9 +331,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -348,7 +351,7 @@
     "4":"Enabled through the \"Enable HTML Imports\" flag in opera://flags",
     "5":"Enabled through the \"Experimental Web Platform features\" flag in opera://flags"
   },
-  "usage_perc_y":69.55,
+  "usage_perc_y":68.68,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

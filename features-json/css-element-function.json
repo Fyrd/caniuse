@@ -106,7 +106,8 @@
       "63":"y x",
       "64":"y x",
       "65":"y x",
-      "66":"y x"
+      "66":"y x",
+      "67":"y x"
     },
     "chrome":{
       "4":"n",
@@ -179,7 +180,8 @@
       "71":"n",
       "72":"n",
       "73":"n",
-      "74":"n"
+      "74":"n",
+      "75":"n"
     },
     "safari":{
       "3.1":"n",
@@ -317,9 +319,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -332,8 +335,8 @@
   "notes_by_num":{
     "1":"In Firefox < 4, usage limited to the background and background-image CSS properties"
   },
-  "usage_perc_y":4.97,
-  "usage_perc_a":0.04,
+  "usage_perc_y":4.69,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"element, function",

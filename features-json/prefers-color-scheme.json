@@ -1,19 +1,23 @@
 {
-  "title":"Promise.prototype.finally",
-  "description":"When the promise is settled, whether fulfilled or rejected, the specified callback function is executed.",
-  "spec":"https://tc39.github.io/ecma262/#sec-promise.prototype.finally",
-  "status":"other",
+  "title":"prefers-color-scheme media query",
+  "description":"Media query to detect if the user has set their system to use a light or dark color theme.",
+  "spec":"https://drafts.csswg.org/mediaqueries-5/#prefers-color-scheme",
+  "status":"unoff",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally",
-      "title":"MDN Web Docs"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+      "title":"MDN article"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1494034",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -32,7 +36,7 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"y"
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -93,16 +97,16 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"y",
-      "59":"y",
-      "60":"y",
-      "61":"y",
-      "62":"y",
-      "63":"y",
-      "64":"y",
-      "65":"y",
-      "66":"y",
-      "67":"y"
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n"
     },
     "chrome":{
       "4":"n",
@@ -164,19 +168,19 @@
       "60":"n",
       "61":"n",
       "62":"n",
-      "63":"y",
-      "64":"y",
-      "65":"y",
-      "66":"y",
-      "67":"y",
-      "68":"y",
-      "69":"y",
-      "70":"y",
-      "71":"y",
-      "72":"y",
-      "73":"y",
-      "74":"y",
-      "75":"y"
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n"
     },
     "safari":{
       "3.1":"n",
@@ -194,8 +198,8 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
-      "11.1":"y",
-      "12":"y",
+      "11.1":"n",
+      "12":"n",
       "TP":"y"
     },
     "opera":{
@@ -245,14 +249,14 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y",
-      "57":"y"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -267,9 +271,9 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.2":"y",
-      "11.3-11.4":"y",
-      "12.0-12.1":"y"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -284,7 +288,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -297,27 +301,27 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y"
+      "46":"n"
     },
     "and_chr":{
-      "71":"y"
+      "71":"n"
     },
     "and_ff":{
-      "64":"y"
+      "64":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"y"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"y"
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -326,17 +330,17 @@
       "7.12":"n"
     }
   },
-  "notes":"",
+  "notes":"Support will also depend on whether or not the OS has support for a light/dark theme preference.\r\n\r\nBriefly known as `prefers-dark-interface` in earlier builds of Safari TP.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":81.5,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"promise.finally",
-  "ie_id":"promiseprototypefinally",
-  "chrome_id":"5704570235781120",
+  "keywords":"prefers-dark-interface",
+  "ie_id":"",
+  "chrome_id":"5109758977638400",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true

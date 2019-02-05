@@ -109,7 +109,8 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n"
+      "66":"n",
+      "67":"n"
     },
     "chrome":{
       "4":"n",
@@ -182,7 +183,8 @@
       "71":"y x",
       "72":"y x",
       "73":"y x",
-      "74":"y x"
+      "74":"y x",
+      "75":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -320,9 +322,10 @@
     },
     "samsung":{
       "4":"y x",
-      "5":"y x",
-      "6.2":"y x",
-      "7.2":"y x"
+      "5.0-5.4":"y x",
+      "6.2-6.4":"y x",
+      "7.2-7.4":"y x",
+      "8.2":"y x"
     },
     "and_qq":{
       "1.2":"y x"
@@ -335,7 +338,7 @@
   "notes_by_num":{
     "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See https://bugs.webkit.org/show_bug.cgi?id=160934."
   },
-  "usage_perc_y":83.26,
+  "usage_perc_y":82.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

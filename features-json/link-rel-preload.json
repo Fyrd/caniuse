@@ -109,7 +109,8 @@
       "63":"n d #3",
       "64":"n d #3",
       "65":"n d #3",
-      "66":"n d #3"
+      "66":"n d #3",
+      "67":"n d #3"
     },
     "chrome":{
       "4":"n",
@@ -182,7 +183,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -320,9 +322,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -338,8 +341,8 @@
     "3":"Disabled by default behind the `network.preload` flag.",
     "4":"Partial support in Edge 17+ refers to support for only the HTML `<link rel>` format, not the HTTP header format."
   },
-  "usage_perc_y":74.54,
-  "usage_perc_a":1.68,
+  "usage_perc_y":74.56,
+  "usage_perc_a":1.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

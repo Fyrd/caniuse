@@ -105,7 +105,8 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n"
+      "66":"n",
+      "67":"n"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +179,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -316,9 +318,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -331,7 +334,7 @@
   "notes_by_num":{
     "1":"Available by enabling the \"Generic Sensor\" experimental flag in `about:flags`"
   },
-  "usage_perc_y":60.48,
+  "usage_perc_y":61.05,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

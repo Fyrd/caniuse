@@ -113,7 +113,8 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n"
+      "66":"n",
+      "67":"n"
     },
     "chrome":{
       "4":"n",
@@ -186,7 +187,8 @@
       "71":"n",
       "72":"n",
       "73":"n",
-      "74":"n"
+      "74":"n",
+      "75":"n"
     },
     "safari":{
       "3.1":"n",
@@ -324,9 +326,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n #3",
-      "6.2":"n #3",
-      "7.2":"n #3"
+      "5.0-5.4":"n #3",
+      "6.2-6.4":"n #3",
+      "7.2-7.4":"n #3",
+      "8.2":"n #3"
     },
     "and_qq":{
       "1.2":"n"
@@ -341,7 +344,7 @@
     "2":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
     "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead."
   },
-  "usage_perc_y":33.72,
+  "usage_perc_y":33.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

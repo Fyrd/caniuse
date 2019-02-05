@@ -118,7 +118,8 @@
       "63":"a",
       "64":"a",
       "65":"a",
-      "66":"a"
+      "66":"a",
+      "67":"a"
     },
     "chrome":{
       "4":"n",
@@ -191,7 +192,8 @@
       "71":"a",
       "72":"a",
       "73":"a",
-      "74":"a"
+      "74":"a",
+      "75":"a"
     },
     "safari":{
       "3.1":"n",
@@ -329,9 +331,10 @@
     },
     "samsung":{
       "4":"a",
-      "5":"a",
-      "6.2":"a",
-      "7.2":"a"
+      "5.0-5.4":"a",
+      "6.2-6.4":"a",
+      "7.2-7.4":"a",
+      "8.2":"a"
     },
     "and_qq":{
       "1.2":"a"
@@ -344,8 +347,8 @@
   "notes_by_num":{
     "1":"`compassneedscalibration` supported in IE11 only for compatible devices with Windows 8.1+."
   },
-  "usage_perc_y":2.02,
-  "usage_perc_a":88.58,
+  "usage_perc_y":2.03,
+  "usage_perc_a":87.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"ondeviceorientation,ondevicemotion",

@@ -146,7 +146,8 @@
       "63":"a #1",
       "64":"a #1",
       "65":"a #3",
-      "66":"a #3"
+      "66":"a #3",
+      "67":"a #3"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -219,7 +220,8 @@
       "71":"a #3",
       "72":"a #3",
       "73":"a #3",
-      "74":"a #3"
+      "74":"a #3",
+      "75":"a #3"
     },
     "safari":{
       "3.1":"a x #1 #2",
@@ -357,9 +359,10 @@
     },
     "samsung":{
       "4":"a x #1 #2",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -374,8 +377,8 @@
     "2":"Partial support refers to not supporting the `column-fill` property.",
     "3":"Partial support refers to not supporting the `avoid-column`, `column`, and `avoid` (in the column context) values for the properties `break-before`, `break-after`, and `break-inside`."
   },
-  "usage_perc_y":86.43,
-  "usage_perc_a":8.79,
+  "usage_perc_y":85.98,
+  "usage_perc_a":8.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-span,column-fill,break-before,break-after,break-inside",

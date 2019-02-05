@@ -109,7 +109,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"y",
@@ -182,7 +183,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -320,9 +322,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"a #4",
-      "6.2":"a #4",
-      "7.2":"a #4"
+      "5.0-5.4":"a #4",
+      "6.2-6.4":"a #4",
+      "7.2-7.4":"a #4",
+      "8.2":"a #4"
     },
     "and_qq":{
       "1.2":"y"
@@ -338,8 +341,8 @@
     "3":"Only supports `local` when `-webkit-overflow-scrolling: touch` is _not_ used",
     "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element."
   },
-  "usage_perc_y":80.81,
-  "usage_perc_a":11.43,
+  "usage_perc_y":79.91,
+  "usage_perc_a":11.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

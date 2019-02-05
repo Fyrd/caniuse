@@ -102,7 +102,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"n",
@@ -175,7 +176,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -313,9 +315,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -329,8 +332,8 @@
     "1":"Text inputs that are descendants of a disabled fieldset appear disabled but the user can still interact with them. [See IE bug #962368.](https://connect.microsoft.com/IE/feedbackdetail/view/962368/can-still-edit-input-type-text-within-fieldset-disabled)",
     "2":"File inputs that are descendants of a disabled fieldset appear disabled but the user can still interact with them. [See IE bug #817488.](https://connect.microsoft.com/IE/feedbackdetail/view/817488)"
   },
-  "usage_perc_y":90.22,
-  "usage_perc_a":4.76,
+  "usage_perc_y":89.46,
+  "usage_perc_a":4.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"HTMLFieldSetElement,fieldset,disabled",

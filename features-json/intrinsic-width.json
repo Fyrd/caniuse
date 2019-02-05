@@ -103,7 +103,8 @@
       "63":"a x #1 #2 #3",
       "64":"a x #1 #2 #3",
       "65":"a x #1 #2 #3",
-      "66":"a x #1 #2 #3"
+      "66":"a x #1 #2 #3",
+      "67":"a x #1 #2 #3"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +177,8 @@
       "71":"y #3 #4",
       "72":"y #3 #4",
       "73":"y #3 #4",
-      "74":"y #3 #4"
+      "74":"y #3 #4",
+      "75":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -314,9 +316,10 @@
     },
     "samsung":{
       "4":"y x #3",
-      "5":"y #3 #4",
-      "6.2":"y #3 #4",
-      "7.2":"y #3 #4"
+      "5.0-5.4":"y #3 #4",
+      "6.2-6.4":"y #3 #4",
+      "7.2-7.4":"y #3 #4",
+      "8.2":"y #3 #4"
     },
     "and_qq":{
       "1.2":"y x #3"
@@ -332,8 +335,8 @@
     "3":"Does not support the `flex-basis` property. See [specs](https://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property), [Blink bug](https://codereview.chromium.org/1304853002/), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887).",
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2)"
   },
-  "usage_perc_y":70.33,
-  "usage_perc_a":17.91,
+  "usage_perc_y":69.39,
+  "usage_perc_a":18.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",
