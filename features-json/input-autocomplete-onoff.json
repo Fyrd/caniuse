@@ -101,7 +101,8 @@
       "63":"a #3",
       "64":"a #3",
       "65":"a #3",
-      "66":"a #3"
+      "66":"a #3",
+      "67":"a #3"
     },
     "chrome":{
       "4":"n",
@@ -174,7 +175,8 @@
       "71":"a #2",
       "72":"a #2",
       "73":"a #2",
-      "74":"a #2"
+      "74":"a #2",
+      "75":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -194,6 +196,7 @@
       "11":"a #5",
       "11.1":"a #5",
       "12":"a #5",
+      "12.1":"a #5",
       "TP":"a #5"
     },
     "opera":{
@@ -267,7 +270,8 @@
       "10.3":"y #4",
       "11.0-11.2":"y #4",
       "11.3-11.4":"y #4",
-      "12.0-12.1":"y #4"
+      "12.0-12.1":"y #4",
+      "12.2":"y #4"
     },
     "op_mini":{
       "all":"y #4"
@@ -312,9 +316,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"a #2"
@@ -331,8 +336,8 @@
     "4":"Browser does not display previously submitted values as options with `on` value.",
     "5":"Safari ignores the `off` value for [username, email and password fields](https://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
-  "usage_perc_y":54.58,
-  "usage_perc_a":40.92,
+  "usage_perc_y":54.41,
+  "usage_perc_a":40.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

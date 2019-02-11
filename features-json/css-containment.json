@@ -105,7 +105,8 @@
       "63":"u d #2",
       "64":"u d #2",
       "65":"u d #2",
-      "66":"u d #2"
+      "66":"u d #2",
+      "67":"u d #2"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +179,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -198,6 +200,7 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -271,7 +274,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n"
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -316,9 +320,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"n",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -332,7 +337,7 @@
     "1":"Enabled via the \"Experimental Web Platform features\" flag",
     "2":"Partially supported in Firefox by enabling \"layout.css.contain.enabled\" in about:config"
   },
-  "usage_perc_y":67.66,
+  "usage_perc_y":66.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

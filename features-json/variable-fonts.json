@@ -111,7 +111,8 @@
       "63":"y #3 #6",
       "64":"y #3 #6",
       "65":"y #3 #6",
-      "66":"y #3 #6"
+      "66":"y #3 #6",
+      "67":"y #3 #6"
     },
     "chrome":{
       "4":"n",
@@ -184,7 +185,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -204,6 +206,7 @@
       "11":"y #3 #6",
       "11.1":"y #3 #6",
       "12":"y #3 #6",
+      "12.1":"y #3 #6",
       "TP":"y #3 #6"
     },
     "opera":{
@@ -277,7 +280,8 @@
       "10.3":"n",
       "11.0-11.2":"y #6",
       "11.3-11.4":"y #6",
-      "12.0-12.1":"y #6"
+      "12.0-12.1":"y #6",
+      "12.2":"y #6"
     },
     "op_mini":{
       "all":"n"
@@ -322,9 +326,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"y #6"
     },
     "and_qq":{
       "1.2":"n"
@@ -342,8 +347,8 @@
     "5":"Does not support `format('truetype-variations')`, `format('woff-variations')`, `format('woff2-variations')`",
     "6":"Does not support OpenType-CFF2 fonts"
   },
-  "usage_perc_y":77.4,
-  "usage_perc_a":0.84,
+  "usage_perc_y":78.26,
+  "usage_perc_a":0.97,
   "ucprefix":false,
   "parent":"",
   "keywords":"variable fonts, variation fonts, font variations",

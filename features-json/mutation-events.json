@@ -101,7 +101,8 @@
       "63":"a #2",
       "64":"a #2",
       "65":"a #2",
-      "66":"a #2"
+      "66":"a #2",
+      "67":"a #2"
     },
     "chrome":{
       "4":"u",
@@ -174,7 +175,8 @@
       "71":"a #1",
       "72":"a #1",
       "73":"a #1",
-      "74":"a #1"
+      "74":"a #1",
+      "75":"a #1"
     },
     "safari":{
       "3.1":"u",
@@ -194,6 +196,7 @@
       "11":"a #1",
       "11.1":"a #1",
       "12":"a #1",
+      "12.1":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -267,7 +270,8 @@
       "10.3":"a #1",
       "11.0-11.2":"a #1",
       "11.3-11.4":"a #1",
-      "12.0-12.1":"a #1"
+      "12.0-12.1":"a #1",
+      "12.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -312,9 +316,10 @@
     },
     "samsung":{
       "4":"a #1",
-      "5":"a #1",
-      "6.2":"a #1",
-      "7.2":"a #1"
+      "5.0-5.4":"a #1",
+      "6.2-6.4":"a #1",
+      "7.2-7.4":"a #1",
+      "8.2":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -328,8 +333,8 @@
     "1":"Does not support `DOMAttrModified`",
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
-  "usage_perc_y":0.03,
-  "usage_perc_a":93.19,
+  "usage_perc_y":0.04,
+  "usage_perc_a":92.6,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

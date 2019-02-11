@@ -109,7 +109,8 @@
       "63":"y #4",
       "64":"y #4",
       "65":"y #4",
-      "66":"y #4"
+      "66":"y #4",
+      "67":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -182,7 +183,8 @@
       "71":"n d #2",
       "72":"n d #2",
       "73":"n d #2",
-      "74":"n d #2"
+      "74":"n d #2",
+      "75":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -202,6 +204,7 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -275,7 +278,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n"
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -320,9 +324,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n d #2",
-      "6.2":"n d #2",
-      "7.2":"n d #2"
+      "5.0-5.4":"n d #2",
+      "6.2-6.4":"n d #2",
+      "7.2-7.4":"n d #2",
+      "8.2":"n d #2"
     },
     "and_qq":{
       "1.2":"n d #2"
@@ -338,8 +343,8 @@
     "3":"Behind the \"layout.css.text-justify.enabled\" flag",
     "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
   },
-  "usage_perc_y":3.99,
-  "usage_perc_a":4.62,
+  "usage_perc_y":3.96,
+  "usage_perc_a":4.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

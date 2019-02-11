@@ -105,7 +105,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +179,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -198,6 +200,7 @@
       "11":"y",
       "11.1":"y",
       "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -271,7 +274,8 @@
       "10.3":"y",
       "11.0-11.2":"y",
       "11.3-11.4":"y",
-      "12.0-12.1":"y"
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -316,9 +320,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -332,8 +337,8 @@
     "1":"Partial support refers to not displaying a message for invalid patterns",
     "2":"Safari browsers support the `pattern` attribute but will still allow forms to be submitted if the pattern is incorrect. See the [form validation data](https://caniuse.com/#feat=form-validation) for details."
   },
-  "usage_perc_y":91.72,
-  "usage_perc_a":1.02,
+  "usage_perc_y":90.95,
+  "usage_perc_a":1.2,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"",

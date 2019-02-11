@@ -23,6 +23,22 @@
     {
       "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
       "title":"Official website FAQ - Which web browsers natively support WebP?"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1294490",
+      "title":"Firefox implementation bug"
+    },
+    {
+      "url":"https://libwebpjs.appspot.com/",
+      "title":"Decoder in JS"
+    },
+    {
+      "url":"https://webpjs.appspot.com/",
+      "title":"Polyfill for browsers with or without WebM support"
+    },
+    {
+      "url":"http://antimatter15.com/weppy/demo.html",
+      "title":"Polyfill for browsers with WebM support"
     }
   ],
   "bugs":[
@@ -119,7 +135,8 @@
       "63":"p",
       "64":"p",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"n",
@@ -141,15 +158,15 @@
       "20":"a #1",
       "21":"a #1",
       "22":"a #1",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
+      "23":"a #2",
+      "24":"a #2",
+      "25":"a #2",
+      "26":"a #2",
+      "27":"a #2",
+      "28":"a #2",
+      "29":"a #2",
+      "30":"a #2",
+      "31":"a #2",
       "32":"y",
       "33":"y",
       "34":"y",
@@ -192,7 +209,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -212,6 +230,7 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -224,12 +243,12 @@
       "11.1":"a #1",
       "11.5":"a #1",
       "11.6":"a #1",
-      "12":"y",
-      "12.1":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
+      "12":"a #2",
+      "12.1":"a #2",
+      "15":"a #2",
+      "16":"a #2",
+      "17":"a #2",
+      "18":"a #2",
       "19":"y",
       "20":"y",
       "21":"y",
@@ -285,7 +304,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n"
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"y"
@@ -330,9 +350,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -341,12 +362,13 @@
       "7.12":"y"
     }
   },
-  "notes":"Both [Safari](https://www.cnet.com/news/apple-ios-macos-tests-googles-webp-graphics-to-speed-up-web/) & [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1294490) are experimenting with supporting WebP images.\r\n\r\nAnimated WebP images are supported in Chrome 32+ and Opera 19+.",
+  "notes":"[Safari](https://www.cnet.com/news/apple-ios-macos-tests-googles-webp-graphics-to-speed-up-web) is experimenting with supporting WebP images.",
   "notes_by_num":{
-    "1":"Partial support in older Chrome, Opera and Android refers to browsers not supporting lossless and alpha versions of WebP."
+    "1":"Partial support refers to not supporting lossless, alpha and animated WebP images.",
+    "2":"Partial support refers to not supporting animated WebP images."
   },
-  "usage_perc_y":72.59,
-  "usage_perc_a":0.32,
+  "usage_perc_y":71.31,
+  "usage_perc_a":0.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

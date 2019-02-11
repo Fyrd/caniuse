@@ -111,7 +111,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"a",
@@ -184,7 +185,8 @@
       "71":"a",
       "72":"a",
       "73":"a",
-      "74":"a"
+      "74":"a",
+      "75":"a"
     },
     "safari":{
       "3.1":"n",
@@ -204,6 +206,7 @@
       "11":"a",
       "11.1":"a",
       "12":"a",
+      "12.1":"a",
       "TP":"a"
     },
     "opera":{
@@ -277,7 +280,8 @@
       "10.3":"a",
       "11.0-11.2":"a",
       "11.3-11.4":"a",
-      "12.0-12.1":"a"
+      "12.0-12.1":"a",
+      "12.2":"a"
     },
     "op_mini":{
       "all":"n"
@@ -322,9 +326,10 @@
     },
     "samsung":{
       "4":"a",
-      "5":"a",
-      "6.2":"a",
-      "7.2":"a"
+      "5.0-5.4":"a",
+      "6.2-6.4":"a",
+      "7.2-7.4":"a",
+      "8.2":"a"
     },
     "and_qq":{
       "1.2":"a"
@@ -338,8 +343,8 @@
     "1":"IE11 and below do not support `<foreignObject>`.",
     "2":"IE and Edge do not support applying SVG filter effects to HTML elements using CSS. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6618695/)"
   },
-  "usage_perc_y":5.01,
-  "usage_perc_a":83.61,
+  "usage_perc_y":4.73,
+  "usage_perc_a":83.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

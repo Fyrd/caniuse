@@ -125,7 +125,8 @@
       "63":"a #3",
       "64":"a #3",
       "65":"a #3",
-      "66":"a #3"
+      "66":"a #3",
+      "67":"a #3"
     },
     "chrome":{
       "4":"p",
@@ -198,7 +199,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"p",
@@ -218,6 +220,7 @@
       "11":"p",
       "11.1":"p",
       "12":"p",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -291,7 +294,8 @@
       "10.3":"p",
       "11.0-11.2":"p",
       "11.3-11.4":"p",
-      "12.0-12.1":"p"
+      "12.0-12.1":"p",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -336,9 +340,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -354,8 +359,8 @@
     "3":"Partial support refers to no support for datalists on non-text fields (e.g. number, [range](https://bugzilla.mozilla.org/show_bug.cgi?id=841942), [color](https://bugzilla.mozilla.org/show_bug.cgi?id=960984)).",
     "4":"Partial support in EDGE refers [to disappearing option elements on focusing the input element via tab](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/20066595/)."
   },
-  "usage_perc_y":60.5,
-  "usage_perc_a":14.84,
+  "usage_perc_y":61.04,
+  "usage_perc_a":13.62,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute",

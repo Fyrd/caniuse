@@ -105,7 +105,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +179,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -198,6 +200,7 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
+      "12.1":"n d #2",
       "TP":"n d #2"
     },
     "opera":{
@@ -271,7 +274,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n"
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -316,9 +320,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -332,7 +337,7 @@
     "1":"Can be enabled at `about:flags`\r\n\r\nEdge 13 used an earlier draft syntax. As of Edge 14 the implementation is prefixed and based on the FIDO 2.0 Web APIs.",
     "2":"Can be enabled using the Develop > Experimental Features menu. Currently supports USB-based CTAP & CTAP2 HID devices."
   },
-  "usage_perc_y":64.28,
+  "usage_perc_y":64.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

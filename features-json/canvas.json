@@ -143,7 +143,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"y",
@@ -216,7 +217,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -236,6 +238,7 @@
       "11":"y",
       "11.1":"y",
       "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -309,7 +312,8 @@
       "10.3":"y",
       "11.0-11.2":"y",
       "11.3-11.4":"y",
-      "12.0-12.1":"y"
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"a #2"
@@ -354,9 +358,10 @@
     },
     "samsung":{
       "4":"y",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -370,8 +375,8 @@
     "1":"Does not support `toDataURL()`",
     "2":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications."
   },
-  "usage_perc_y":93.36,
-  "usage_perc_a":2.08,
+  "usage_perc_y":92.79,
+  "usage_perc_a":1.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"toDataURL()",

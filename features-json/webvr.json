@@ -123,7 +123,8 @@
       "63":"y #1",
       "64":"y #1",
       "65":"y #1",
-      "66":"y #1"
+      "66":"y #1",
+      "67":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -196,7 +197,8 @@
       "71":"n d #2",
       "72":"n d #2",
       "73":"n d #2",
-      "74":"n d #2"
+      "74":"n d #2",
+      "75":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -216,6 +218,7 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -289,7 +292,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n"
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -334,9 +338,10 @@
     },
     "samsung":{
       "4":"y #4",
-      "5":"a #4",
-      "6.2":"a #4",
-      "7.2":"a #4"
+      "5.0-5.4":"a #4",
+      "6.2-6.4":"a #4",
+      "7.2-7.4":"a #4",
+      "8.2":"a #4"
     },
     "and_qq":{
       "1.2":"n"
@@ -353,7 +358,7 @@
     "4":"Supports only Samsung Galaxy devices with the Samgung Gear VR",
     "5":"Supports only Google Daydream on [daydream-ready devices](https://vr.google.com/daydream/smartphonevr/phones/) and Google Cardboards"
   },
-  "usage_perc_y":40.08,
+  "usage_perc_y":40.09,
   "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"",

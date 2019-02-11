@@ -123,7 +123,8 @@
       "63":"n #4 #5",
       "64":"a #6",
       "65":"a #6",
-      "66":"a #6"
+      "66":"a #6",
+      "67":"a #6"
     },
     "chrome":{
       "4":"a x #2",
@@ -196,7 +197,8 @@
       "71":"a x #2",
       "72":"a x #2",
       "73":"a x #2",
-      "74":"a x #2"
+      "74":"a x #2",
+      "75":"a x #2"
     },
     "safari":{
       "3.1":"u",
@@ -216,6 +218,7 @@
       "11":"a x #2",
       "11.1":"a x #2",
       "12":"a x #2",
+      "12.1":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -289,7 +292,8 @@
       "10.3":"a x #2 #3",
       "11.0-11.2":"a x #2 #3",
       "11.3-11.4":"a x #2 #3",
-      "12.0-12.1":"a x #2 #3"
+      "12.0-12.1":"a x #2 #3",
+      "12.2":"a x #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -334,9 +338,10 @@
     },
     "samsung":{
       "4":"a x #2",
-      "5":"a x #2",
-      "6.2":"a x #2",
-      "7.2":"a x #2"
+      "5.0-5.4":"a x #2",
+      "6.2-6.4":"a x #2",
+      "7.2-7.4":"a x #2",
+      "8.2":"a x #2"
     },
     "and_qq":{
       "1.2":"a x #2"
@@ -352,10 +357,10 @@
     "3":"Scrollbar styling doesn\u2019t work in [WKWebView](https://issues.apache.org/jira/browse/CB-10123)",
     "4":"Can be enabled by setting the layout.css.scrollbar-colors.enabled and layout.css.scrollbar-width.enabled flags to true.",
     "5":"Firefox 63 supported scrollbar-face-color and scrollbar-track-color seperate properties (now dropped from the spec) instead of unified scrollbar-color property.",
-    "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<legnth>` values of scrollbar width"
+    "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":88.14,
+  "usage_perc_a":89.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

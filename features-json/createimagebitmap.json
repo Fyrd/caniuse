@@ -101,7 +101,8 @@
       "63":"a #4 #5",
       "64":"a #4 #5",
       "65":"a #4 #5",
-      "66":"a #4 #5"
+      "66":"a #4 #5",
+      "67":"a #4 #5"
     },
     "chrome":{
       "4":"n",
@@ -174,7 +175,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -194,6 +196,7 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
+      "12.1":"u",
       "TP":"u"
     },
     "opera":{
@@ -267,7 +270,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n"
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -312,9 +316,10 @@
     },
     "samsung":{
       "4":"u",
-      "5":"u",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"u",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -331,8 +336,8 @@
     "4":"No support for resizeWidth, resizeHeight and resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)",
     "5":"No support for `createImageBitmap(source, options)` interface. see [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)"
   },
-  "usage_perc_y":66.08,
-  "usage_perc_a":6.35,
+  "usage_perc_y":66.56,
+  "usage_perc_a":4.92,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

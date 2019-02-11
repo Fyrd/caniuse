@@ -110,7 +110,8 @@
       "63":"y #4",
       "64":"y #4",
       "65":"y #4",
-      "66":"y #4"
+      "66":"y #4",
+      "67":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -181,9 +182,10 @@
       "69":"n",
       "70":"n",
       "71":"n",
-      "72":"u",
+      "72":"n",
       "73":"u",
-      "74":"u"
+      "74":"u",
+      "75":"u"
     },
     "safari":{
       "3.1":"n",
@@ -203,6 +205,7 @@
       "11":"a #3",
       "11.1":"a #3",
       "12":"a #3",
+      "12.1":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -276,7 +279,8 @@
       "10.3":"a #3",
       "11.0-11.2":"a #3",
       "11.3-11.4":"a #3",
-      "12.0-12.1":"a #3"
+      "12.0-12.1":"a #3",
+      "12.2":"a #3"
     },
     "op_mini":{
       "all":"n #1"
@@ -321,9 +325,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -339,8 +344,8 @@
     "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":5.53,
-  "usage_perc_a":12.87,
+  "usage_perc_y":5.26,
+  "usage_perc_a":13.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

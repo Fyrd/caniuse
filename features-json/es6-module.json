@@ -138,7 +138,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"n",
@@ -211,7 +212,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"n",
@@ -231,6 +233,7 @@
       "11":"y",
       "11.1":"y",
       "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -304,7 +307,8 @@
       "10.3":"a #4 #5",
       "11.0-11.2":"y",
       "11.3-11.4":"y",
-      "12.0-12.1":"y"
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -349,9 +353,10 @@
     },
     "samsung":{
       "4":"n",
-      "5":"n",
-      "6.2":"n",
-      "7.2":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -369,8 +374,8 @@
     "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
     "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":78.76,
-  "usage_perc_a":0.5,
+  "usage_perc_y":79.9,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"es6,javascript,module,import,export,nomodule",

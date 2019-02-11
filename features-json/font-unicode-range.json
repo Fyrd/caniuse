@@ -122,7 +122,8 @@
       "63":"y",
       "64":"y",
       "65":"y",
-      "66":"y"
+      "66":"y",
+      "67":"y"
     },
     "chrome":{
       "4":"a",
@@ -195,7 +196,8 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y"
     },
     "safari":{
       "3.1":"a",
@@ -215,6 +217,7 @@
       "11":"y",
       "11.1":"y",
       "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -288,7 +291,8 @@
       "10.3":"y",
       "11.0-11.2":"y",
       "11.3-11.4":"y",
-      "12.0-12.1":"y"
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -333,9 +337,10 @@
     },
     "samsung":{
       "4":"a",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -348,8 +353,8 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox using the `layout.css.unicode-range.enabled` flag"
   },
-  "usage_perc_y":87.4,
-  "usage_perc_a":5.61,
+  "usage_perc_y":86.63,
+  "usage_perc_a":5.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face,unicode,unicode-range",

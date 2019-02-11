@@ -117,7 +117,8 @@
       "63":"n d #2",
       "64":"n d #2",
       "65":"n d #2",
-      "66":"n d #2"
+      "66":"n d #2",
+      "67":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -190,7 +191,8 @@
       "71":"y",
       "72":"y",
       "73":"n",
-      "74":"n"
+      "74":"n",
+      "75":"n"
     },
     "safari":{
       "3.1":"n",
@@ -210,6 +212,7 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -283,7 +286,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n"
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -328,9 +332,10 @@
     },
     "samsung":{
       "4":"y x",
-      "5":"y",
-      "6.2":"y",
-      "7.2":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -344,7 +349,7 @@
     "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag.",
     "2":"Supported in Firefox behind the `dom.webcomponents.shadowdom.enabled` flag."
   },
-  "usage_perc_y":70.25,
+  "usage_perc_y":69.3,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
