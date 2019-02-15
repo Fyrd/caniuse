@@ -275,7 +275,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2": "y #2"
+      "12.2":"y #2"
     },
     "op_mini":{
       "all":"n"
@@ -334,7 +334,7 @@
   },
   "notes":"See also support for [HTTP2](https://caniuse.com/#feat=http2), successor of SPDY.\r\n\r\nChrome will be removing support in 2016 (in favor of HTTP2), other browsers likely to follow.",
   "notes_by_num":{
- "1":"Deprecated as of macOS Mojave 10.4.4. To be completely removed in a future version of macOS.",
+    "1":"Deprecated as of macOS Mojave 10.4.4. To be completely removed in a future version of macOS.",
     "2":"Deprecated as of iOS 12.2. To be completely removed in a future version of iOS."
   },
   "usage_perc_y":19.02,
