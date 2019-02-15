@@ -1,8 +1,8 @@
 {
-  "title":"Shadow DOM v0",
-  "description":"Method of establishing and maintaining functional boundaries between DOM trees and how these trees interact with each other within a document, thus enabling better functional encapsulation within the DOM.",
+  "title":"Shadow DOM (deprecated V0 spec)",
+  "description":"Original V0 version of the Shadow DOM specification. See [Shadow DOM V1](#feat=shadow-domv1) for support for the latest version. ",
   "spec":"https://www.w3.org/TR/shadow-dom/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html",

@@ -1,13 +1,9 @@
 {
-  "title":"Custom Elements v0",
-  "description":"Method of defining new HTML tags.",
+  "title":"Custom Elements (deprecated V0 spec)",
+  "description":"Original V0 version of the custom elements specification. See [Custom Elements V1](#feat=custom-elementsv1) for support for the latest version. ",
   "spec":"https://www.w3.org/TR/custom-elements/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
-    {
-      "url":"http://w3c.github.io/webcomponents/spec/custom/",
-      "title":"W3C Editor's Draft spec (closer to current implementations)"
-    },
     {
       "url":"https://www.polymer-project.org/platform/custom-elements.html",
       "title":"Polymer project (polyfill & web components framework)"
@@ -17,28 +13,12 @@
       "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
     },
     {
-      "url":"https://code.google.com/p/chromium/issues/detail?id=234509",
-      "title":"Chromium tracking bug: Implement Custom Elements"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=889230",
-      "title":"Firefox tracking bug: Implement Custom Elements (from Web Components)"
-    },
-    {
-      "url":"http://status.modern.ie/customelements",
-      "title":"IE Web Platform Status and Roadmap: Custom Elements"
-    },
-    {
       "url":"https://github.com/WebReflection/document-register-element",
       "title":"document.registerElement polyfill in 3KB minified & gzipped"
     },
     {
       "url":"https://developers.google.com/web/fundamentals/primers/customelements/",
       "title":"Google Developers - Custom elements v1: reusable web components"
-    },
-    {
-      "url":"https://github.com/webcomponents/webcomponentsjs/tree/v1/src/CustomElements/v1",
-      "title":"customElements.define polyfill (supersedes document.registerElement)"
     }
   ],
   "bugs":[
@@ -338,7 +318,7 @@
       "71":"y"
     },
     "and_ff":{
-      "64":"p d #1"
+      "64":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -361,7 +341,7 @@
       "7.12":"y"
     }
   },
-  "notes":"Will be deprecated as of Chrome 70 and intended to be removed in Chrome 73.",
+  "notes":"",
   "notes_by_num":{
     "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
     "2":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
@@ -371,9 +351,9 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"web components,registerElement",
-  "ie_id":"customelements",
-  "chrome_id":"4642138092470272",
-  "firefox_id":"custom-elements",
-  "webkit_id":"feature-custom-elements",
+  "ie_id":"",
+  "chrome_id":"",
+  "firefox_id":"",
+  "webkit_id":"",
   "shown":true
 }
