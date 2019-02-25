@@ -35,6 +35,9 @@
     },
     {
       "description":"A parent with overflow set to `auto` will prevent `position: sticky` from working in Safari"
+    },
+    {
+      "description":"One of the all of nearest element ancestor with a scrolling box children with overflow set to `hidden` will prevent `position: sticky` from working"
     }
   ],
   "categories":[
