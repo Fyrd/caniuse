@@ -271,7 +271,8 @@
       "54":"y",
       "55":"y",
       "56":"y",
-      "57":"y"
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -351,8 +352,8 @@
     "1":"Partial support refers to missing the default styling, as technically the elements are considered \"[unknown](https://developer.mozilla.org/en-US/docs/Web/API/HTMLUnknownElement)\". This is easily taken care of by manually setting the default `display` value for each tag.",
     "2":"Partial support refers to only the `<main>` element (added later to the spec) being \"unknown\", though it can still be used and styled."
   },
-  "usage_perc_y":89.19,
-  "usage_perc_a":5.47,
+  "usage_perc_y":89.65,
+  "usage_perc_a":5.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

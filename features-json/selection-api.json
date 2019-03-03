@@ -253,7 +253,8 @@
       "54":"y",
       "55":"y",
       "56":"y",
-      "57":"y"
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -336,8 +337,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":80.9,
-  "usage_perc_a":11.81,
+  "usage_perc_y":81.38,
+  "usage_perc_a":11.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

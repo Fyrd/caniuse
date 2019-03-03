@@ -257,7 +257,8 @@
       "54":"n",
       "55":"n",
       "56":"n",
-      "57":"n"
+      "57":"n",
+      "58":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -338,8 +339,8 @@
     "2":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported on all platforms.",
     "3":"The manifest may be used to list apps in the Microsoft Store, which will use Edge as a back-end. However, Edge does not directly implement the Manifest spec."
   },
-  "usage_perc_y":33.76,
-  "usage_perc_a":43.37,
+  "usage_perc_y":33.46,
+  "usage_perc_a":44.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa",

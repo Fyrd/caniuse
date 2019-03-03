@@ -269,7 +269,8 @@
       "54":"y",
       "55":"y",
       "56":"y",
-      "57":"y"
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -350,8 +351,8 @@
     "2":"Does not support `overscroll-behavior: none;` on the body element to prevent the overscroll glow and rubberbanding effects.",
     "3":"Incorrectly treats `none` as `contain` see [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior#Browser_compatibility) and [Edge 18 changelog](https://aka.ms/devguide_edgehtml_18)"
   },
-  "usage_perc_y":65.02,
-  "usage_perc_a":5.09,
+  "usage_perc_y":65.97,
+  "usage_perc_a":4.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",

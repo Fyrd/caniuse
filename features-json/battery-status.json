@@ -257,7 +257,8 @@
       "54":"y",
       "55":"y",
       "56":"y",
-      "57":"y"
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -336,8 +337,8 @@
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":69.08,
-  "usage_perc_a":0.19,
+  "usage_perc_y":69.59,
+  "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.battery,navigator.getbattery,batterymanager",
