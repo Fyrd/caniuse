@@ -1,8 +1,8 @@
 {
   "title":"Web Authentication API",
   "description":"The Web Authentication API is an extension of the Credential Management API that enables strong authentication with public key cryptography, enabling password-less authentication and / or secure second-factor authentication without SMS texts.",
-  "spec":"https://w3c.github.io/webauthn/",
-  "status":"cr",
+  "spec":"https://www.w3.org/TR/webauthn/",
+  "status":"rec",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API",
