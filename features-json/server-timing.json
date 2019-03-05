@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Firefox supports Server-Timing in [secure contexts only](secure-contexts-everywhere)."
+    }
   ],
   "categories":[
     "JS API"
