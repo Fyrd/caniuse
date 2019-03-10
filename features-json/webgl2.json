@@ -338,7 +338,7 @@
     "1":"Can be enabled in Firefox by setting the about:config preference webgl.enable-prototype-webgl2 to true",
     "2":"WebGL2 context is accessed from \"experimental-webgl2\" rather than \"webgl2\"",
     "3":"Can be enabled in Chrome by passing the \"--enable-unsafe-es3-apis\" flag when starting the browser through the command line",
-    "4":"Can be enabled via the \"Experimental Features\" developer menu",
+    "4":"Has an option to enable via the \"Experimental Features\" developer menu but fails 77% of the WebGL2 conformance tests make it nearly unusable and has not seen any development activity in over 3 years",
     "5":"Enabled by default for Nightly and Dev Edition"
   },
   "usage_perc_y":67.76,
