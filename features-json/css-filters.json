@@ -1,6 +1,6 @@
 {
   "title":"CSS Filter Effects",
-  "description":"Method of applying filter effects (like blur, grayscale, brightness, contrast and hue) to elements, previously only possible by using SVG.",
+  "description":"Method of applying filter effects using the `filter` property to elements, matching filters available in SVG. Filter functions include blur, brightness, contrast, drop-shadow, grayscale, hue-rotate, invert, opacity, sepia and saturate.",
   "spec":"https://www.w3.org/TR/filter-effects-1/",
   "status":"wd",
   "links":[
@@ -355,7 +355,7 @@
   "usage_perc_a":1.96,
   "ucprefix":false,
   "parent":"",
-  "keywords":"sepia,hue-rotate,invert,saturate,filter:blur",
+  "keywords":"filter:",
   "ie_id":"filters",
   "chrome_id":"5822463824887808",
   "firefox_id":"",
