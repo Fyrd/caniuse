@@ -1,7 +1,7 @@
 {
-  "title":"CSS Grid Layout",
+  "title":"CSS Grid Layout (level 1)",
   "description":"Method of using a grid concept to lay out content, providing a mechanism for authors to divide available space for layout into columns and rows using a set of predictable sizing behaviors. Includes support for all `grid-*` properties and the `fr` unit.",
-  "spec":"https://www.w3.org/TR/css3-grid-layout/",
+  "spec":"https://www.w3.org/TR/css-grid-1/",
   "status":"cr",
   "links":[
     {
@@ -365,7 +365,7 @@
       "7.12":"n"
     }
   },
-  "notes":"",
+  "notes":"See also support for [subgrids](#feat=css-subgrid)",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial support in IE refers to supporting an [older version](https://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
@@ -377,7 +377,7 @@
   "usage_perc_a":2.58,
   "ucprefix":false,
   "parent":"",
-  "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid,fr unit,fractional unit",
+  "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid,fr unit,fractional unit,cssgrid",
   "ie_id":"cssgridlayout",
   "chrome_id":"4589636412243968",
   "firefox_id":"css-grid-layout",
