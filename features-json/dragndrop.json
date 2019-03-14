@@ -60,9 +60,6 @@
       "description":"Reportedly, using \"text/plain\" as the format for `event.dataTransfer.setData` and `event.dataTransfer.getData` does not work in IE9-11 and causes a JS error. The format needs to be \"text\", which seems to work in all the mainstream browsers (Chrome, Safari, Firefox, IE9-11, Edge)."
     },
     {
-      "description":"In Firefox, the dragging near the edge of scrollable regions does not cause [scrolling](https://bugzilla.mozilla.org/show_bug.cgi?id=41708)"
-    },
-    {
       "description":"In Firefox, an element won't drag unless the `dragstart` handler sets `dataTransfer` data (even if it doesn't get retrieved). [Test case](https://codepen.io/michai/pen/NwORqO)"
     },
     {
