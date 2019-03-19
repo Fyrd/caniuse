@@ -106,19 +106,19 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n d #4",
-      "56":"n d #4",
-      "57":"n d #4",
-      "58":"n d #4",
-      "59":"n d #4",
-      "60":"n d #4",
-      "61":"n d #3 #4",
-      "62":"n d #3 #4",
-      "63":"n d #3",
-      "64":"n d #3",
-      "65":"a #2 #3",
-      "66":"a #2 #3",
-      "67":"a #2 #3"
+      "55":"n d #5",
+      "56":"n d #5",
+      "57":"n d #5",
+      "58":"n d #5",
+      "59":"n d #5",
+      "60":"n d #5",
+      "61":"n d #4 #5",
+      "62":"n d #4 #5",
+      "63":"n d #4",
+      "64":"n d #4",
+      "65":"a #2 #4",
+      "66":"a #3 #4",
+      "67":"a #3 #4"
     },
     "chrome":{
       "4":"n",
@@ -184,9 +184,9 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n d #5",
-      "68":"n d #5",
-      "69":"n d #5",
+      "67":"n d #6",
+      "68":"n d #6",
+      "69":"n d #6",
       "70":"y",
       "71":"y",
       "72":"y",
@@ -322,7 +322,7 @@
       "71":"n"
     },
     "and_ff":{
-      "64":"n d #3"
+      "64":"n d #4"
     },
     "ie_mob":{
       "10":"n",
@@ -348,11 +348,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"Supported in Edge when the AV1 Video Extension (Beta) is installed from the Microsoft Store",
-    "2":"Partial support in Firefox refers to being enabled by default only for Windows users",
-    "3":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
-    "4":"Only available in Firefox Nightly (applies to older versions of Firefox)",
-    "5":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
-  },
+    "2":"Partial support in Firefox refers to being enabled by default only for Windows 64-bit users",
+    "3":"Partial support in Firefox refers to being enabled by default only for Windows and macOS users",
+    "4":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
+    "5":"Only available in Firefox Nightly (applies to older versions of Firefox)",
+    "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"  },
   "usage_perc_y":28.11,
   "usage_perc_a":2.67,
   "ucprefix":false,
