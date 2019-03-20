@@ -118,7 +118,8 @@
       "64":"n d #4",
       "65":"a #2 #4",
       "66":"a #3 #4",
-      "67":"a #3 #4"
+      "67":"a #3 #4",
+      "68":"a #3 #4"
     },
     "chrome":{
       "4":"n",
@@ -192,7 +193,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -352,7 +354,8 @@
     "3":"Partial support in Firefox refers to being enabled by default only for Windows and macOS users",
     "4":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
     "5":"Only available in Firefox Nightly (applies to older versions of Firefox)",
-    "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"  },
+    "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
+  },
   "usage_perc_y":28.11,
   "usage_perc_a":2.67,
   "ucprefix":false,
