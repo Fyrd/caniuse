@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"AV1 decoding was not available in Firefox on Windows 32-bit starting from Firefox Nightly 63 and through Firefox 65. (It was then re-enabled in Firefox 66.) See [Bug 1445683 - Update aom](https://bugzilla.mozilla.org/show_bug.cgi?id=1445683) and [Bug 1475564 - Build libaom on win32](https://bugzilla.mozilla.org/show_bug.cgi?id=1475564)"
+    }
   ],
   "categories":[
     "Other"
@@ -350,8 +352,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Supported in Edge when the AV1 Video Extension (Beta) is installed from the Microsoft Store",
-    "2":"Partial support in Firefox refers to being enabled by default only for Windows 64-bit users",
-    "3":"Partial support in Firefox refers to being enabled by default only for Windows and macOS users",
+    "2":"Partial support in Firefox 65 refers to being enabled by default only for Windows 64-bit users (see \"Known Issues\" for lack of 32-bit support.)",
+    "3":"Partial support in Firefox 66 refers to being enabled by default only for Windows and macOS users",
     "4":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
     "5":"Only available in Firefox Nightly (applies to older versions of Firefox)",
     "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
