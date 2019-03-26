@@ -1,12 +1,36 @@
 {
   "title":"CSS math functions min(), max() and clamp()",
-  "description":"More advanced mathematical expressions in addition to calc()",
+  "description":"More advanced mathematical expressions in addition to `calc()`",
   "spec":"https://www.w3.org/TR/css-values-4/#math-function",
   "status":"wd",
   "links":[
     {
       "url":"https://jsfiddle.net/as9t4jek/",
       "title":"Test case on JSFiddle"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1452609",
+      "title":"Firefox support bug"
+    },
+    {
+      "url":"https://crbug.com/825895",
+      "title":"Chrome support bug"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/min",
+      "title":"MDN Web Docs article for min()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/max",
+      "title":"MDN Web Docs article for max()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/clamp",
+      "title":"MDN Web Docs article for clamp()"
+    },
+    {
+      "url":"https://webdesign.tutsplus.com/tutorials/mathematical-expressions-calc-min-and-max--cms-29735",
+      "title":"Getting Started With CSS Math Functions Level 4"
     }
   ],
   "bugs":[
@@ -102,8 +126,8 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"u",
-      "68":"u"
+      "67":"n",
+      "68":"n"
     },
     "chrome":{
       "4":"n",
@@ -292,8 +316,8 @@
       "67":"n"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -325,10 +349,10 @@
       "8.2":"n"
     },
     "and_qq":{
-      "1.2":"u"
+      "1.2":"n"
     },
     "baidu":{
-      "7.12":"u"
+      "7.12":"n"
     }
   },
   "notes":"",
@@ -339,10 +363,10 @@
   "usage_perc_a":11.61,
   "ucprefix":false,
   "parent":"",
-  "keywords":"calc,min,max,clamp",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"",
-  "firefox_id":"1452609",
-  "webkit_id":"167000",
-  "shown":false
+  "firefox_id":"",
+  "webkit_id":"",
+  "shown":true
 }
