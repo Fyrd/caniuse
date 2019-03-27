@@ -1,6 +1,6 @@
 {
   "title":"Network Information API",
-  "description":"The Network Information API enables web applications to access information about the network connection in use by the device.",
+  "description":"The Network Information API enables web applications to access information about the network connection in use by the device. Accessed via `navigator.connection`",
   "spec":"http://wicg.github.io/netinfo/",
   "status":"unoff",
   "links":[
