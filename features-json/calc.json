@@ -46,6 +46,9 @@
       "description":"IE & Edge are reported to not support calc inside a 'flex'. (Not tested on older versions)\r\nThis example does not work: `flex: 1 1 calc(50% - 20px);`"
     },
     {
+      "description":"IE does not support `calc()` on color functions. Example: `color: hsl(calc(60 * 2), 100%, 50%)`."
+    },
+    {
       "description":"Firefox <48 does not support `calc()` inside the `line-height`, `stroke-width`, `stroke-dashoffset`, and `stroke-dasharray` properties. [Bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=594933)"
     },
     {
