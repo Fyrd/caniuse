@@ -59,13 +59,13 @@
       "11":"a x #1"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "12":"y #4",
+      "13":"y #4",
+      "14":"y #4",
+      "15":"y #4",
+      "16":"y #4",
+      "17":"y #4",
+      "18":"y #4"
     },
     "firefox":{
       "2":"p",
@@ -368,7 +368,8 @@
   "notes_by_num":{
     "1":"Support in IE11 is based an older version of the specification.",
     "2":"Supported in Firefox behind the `dom.webcrypto.enabled` flag.",
-    "3":"Supported in Safari using the `crypto.webkitSubtle` prefix."
+    "3":"Supported in Safari using the `crypto.webkitSubtle` prefix.",
+    "4":"In Edge, Web Crypto is not supported in Web Workers or Service Workers."
   },
   "usage_perc_y":92.2,
   "usage_perc_a":2.37,
