@@ -362,6 +362,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Many browsers support the `[crypto.getRandomValues()](#feat=getrandomvalues)` method, but not actual cryptography functionality under `crypto.subtle`. \r\n\r\nFirefox also has support for [unofficial features](https://developer.mozilla.org/en-US/docs/JavaScript_crypto). \r\n\r\nIn Chrome the API is only usable over secure connections. ([corresponding bug](https://code.google.com/p/chromium/issues/detail?id=373032))",
@@ -370,7 +373,7 @@
     "2":"Supported in Firefox behind the `dom.webcrypto.enabled` flag.",
     "3":"Supported in Safari using the `crypto.webkitSubtle` prefix."
   },
-  "usage_perc_y":92.2,
+  "usage_perc_y":92.43,
   "usage_perc_a":2.37,
   "ucprefix":false,
   "parent":"",

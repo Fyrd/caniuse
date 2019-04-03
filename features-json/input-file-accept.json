@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"a #2"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Not supported means any file can be picked as if the `accept` attribute was not set, unless otherwise noted.\r\n\r\nOn Windows, files that do not apply are hidden. On OSX they are grayed out and disabled.",
@@ -342,8 +345,8 @@
     "3":"Does not allow any files to be picked at all",
     "4":"Supports the type format but does not allow any file to be picked when using the extension format"
   },
-  "usage_perc_y":40.2,
-  "usage_perc_a":49.27,
+  "usage_perc_y":41.94,
+  "usage_perc_a":48.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

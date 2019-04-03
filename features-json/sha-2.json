@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Intent to implement by Mozilla",
@@ -340,8 +343,8 @@
     "1":"Support dependent on operating system",
     "2":"Some users may encounter issues with validating certificates that use cross certificates"
   },
-  "usage_perc_y":91.63,
-  "usage_perc_a":0.38,
+  "usage_perc_y":92.33,
+  "usage_perc_a":0.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"ssl, tls, sha-2, certificate",

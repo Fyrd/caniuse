@@ -337,14 +337,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.\r\n\r\nFor Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
   "notes_by_num":{
     "1":"Supported only when packaged in a CAF file and on macOS High Sierra/iOS 11 or later."
   },
-  "usage_perc_y":74.27,
-  "usage_perc_a":12.1,
+  "usage_perc_y":74.93,
+  "usage_perc_a":12.27,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"",

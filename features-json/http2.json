@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"HTTP2 is only supported over TLS(https). See also the precursor of HTTP2, [the SPDY protocol](https://caniuse.com/#feat=spdy), which has been deprecated or removed from most browsers, in favor of HTTP2.",
@@ -342,8 +345,8 @@
     "3":"Only supports HTTP2 if servers support protocol negotiation via ALPN",
     "4":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
   },
-  "usage_perc_y":87.58,
-  "usage_perc_a":2.58,
+  "usage_perc_y":88.29,
+  "usage_perc_a":2.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"https/2",

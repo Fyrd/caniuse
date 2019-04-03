@@ -341,6 +341,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -348,8 +351,8 @@
     "1":"Partial support in Safari refers to support for `object-fit` but not `object-position`.",
     "2":"Partial support in Edge refers to `object-fit` only supporting `<img>` ([see this comment](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/13603873/#comment-0))"
   },
-  "usage_perc_y":91.55,
-  "usage_perc_a":2.8,
+  "usage_perc_y":91.74,
+  "usage_perc_a":2.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"objectfit,objectposition",

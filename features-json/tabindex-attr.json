@@ -331,6 +331,9 @@
     },
     "baidu":{
       "7.12":"u"
+    },
+    "kaios":{
+      "2.5":"y #1"
     }
   },
   "notes":"Mac OS X \"Full Keyboard Access\" refers to setting Keyboard\u2192Shortcuts\u2192Full Keyboard Access to \"All controls\" in the System Preferences.\r\n\r\n\"Unknown\" support for mobile browsers is due to lacking a method of tabbing through fields.",
@@ -339,7 +342,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":88.16,
+  "usage_perc_y":89.2,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -347,13 +347,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y #1"
     }
   },
   "notes":"WebGL support is dependent on GPU support and may not be available on older devices. This is due to the additional requirement for users to have [up to date video drivers](http://www.khronos.org/webgl/wiki/BlacklistsAndWhitelists).\r\n\r\nNote that WebGL is part of the [Khronos Group](http://www.khronos.org/webgl/), not the W3C.",
   "notes_by_num":{
     "1":"WebGL context is accessed from \"experimental-webgl\" rather than \"webgl\""
   },
-  "usage_perc_y":95.35,
+  "usage_perc_y":95.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

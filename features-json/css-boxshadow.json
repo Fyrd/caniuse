@@ -349,13 +349,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Can be partially emulated in older IE versions using the non-standard \"shadow\" filter.",
   "notes_by_num":{
     "1":"Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\", blur radius value, and multiple shadow support."
   },
-  "usage_perc_y":96.49,
+  "usage_perc_y":96.83,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

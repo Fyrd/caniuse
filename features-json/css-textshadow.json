@@ -345,6 +345,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Opera Mini ignores the blur-radius set, so no blur effect is visible. Text-shadow behavior can be somewhat emulated in older IE versions using the non-standard \"dropshadow\" or \"glow\" filters.",
@@ -352,8 +355,8 @@
     "1":"IE 10+ supports a fourth length value for the shadow's \"spread\". This is not (yet) part of the specification.",
     "2":"Partial support in Safari 3.* refers to not supporting multiple shadows."
   },
-  "usage_perc_y":96.32,
-  "usage_perc_a":1.74,
+  "usage_perc_y":96.67,
+  "usage_perc_a":1.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"text shadow",

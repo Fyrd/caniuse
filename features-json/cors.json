@@ -357,6 +357,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -366,8 +369,8 @@
     "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379",
     "4":"Does not support CORS for resources which redirect: https://bugzilla.mozilla.org/show_bug.cgi?id=1346749"
   },
-  "usage_perc_y":95.64,
-  "usage_perc_a":0.96,
+  "usage_perc_y":95.77,
+  "usage_perc_a":1.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

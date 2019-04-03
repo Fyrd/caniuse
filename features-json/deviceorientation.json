@@ -346,14 +346,17 @@
     },
     "baidu":{
       "7.12":"a"
+    },
+    "kaios":{
+      "2.5":"a"
     }
   },
   "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of devicemotion event support for Chrome 30- and Opera. Opera Mobile 14 lost the ondevicemotion event support. Firefox 3.6, 4 and 5 support the non-standard [MozOrientation](https://developer.mozilla.org/en/DOM/MozOrientation) event.",
   "notes_by_num":{
     "1":"`compassneedscalibration` supported in IE11 only for compatible devices with Windows 8.1+."
   },
-  "usage_perc_y":2.24,
-  "usage_perc_a":91.1,
+  "usage_perc_y":2.28,
+  "usage_perc_a":91.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"ondeviceorientation,ondevicemotion",

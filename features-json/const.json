@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"a #4"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -342,8 +345,8 @@
     "3":"Only recognized when NOT in strict mode",
     "4":"Supported correctly in strict mode, otherwise supported without block scope"
   },
-  "usage_perc_y":92.72,
-  "usage_perc_a":5.27,
+  "usage_perc_y":93.16,
+  "usage_perc_a":5.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,constant,block,scope",

@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
   "notes":"",
@@ -340,8 +343,8 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":83.05,
-  "usage_perc_a":1.21,
+  "usage_perc_y":83.27,
+  "usage_perc_a":1.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",

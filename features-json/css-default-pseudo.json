@@ -345,6 +345,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Whether `<option selected>` matches `:default` (per the spec) was not tested since `<select>`s and `<option>`s are generally not styleable, which makes it hard to formulate a test for this.",
@@ -352,8 +355,8 @@
     "1":"Does not match `<input type=\"checkbox\" checked>` or `<input type=\"radio\" checked>`",
     "2":"Does not match the default submit button of a form"
   },
-  "usage_perc_y":84.07,
-  "usage_perc_a":9.22,
+  "usage_perc_y":84.79,
+  "usage_perc_a":8.7,
   "ucprefix":false,
   "parent":"",
   "keywords":":default,default",

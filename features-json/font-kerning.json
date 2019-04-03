@@ -329,13 +329,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Browsers with support for [font feature settings](https://caniuse.com/#feat=font-feature) can also set kerning value.",
   "notes_by_num":{
     "1":"Disabled by default, can be enabled using preference layout.css.font-features.enabled - defaulting to true on Nightly and Aurora only."
   },
-  "usage_perc_y":90.74,
+  "usage_perc_y":90.83,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

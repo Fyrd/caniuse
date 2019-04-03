@@ -346,6 +346,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"The timestamp is not actually high-resolution. To mitigate security threats such as Spectre, browsers currently round the result to varying degrees.",
@@ -353,7 +356,7 @@
     "1":"In Firefox, the \"privacy.reduceTimerPrecision\" preference is enabled by default and defaults to 20us in Firefox 59; in 60 it will be 2ms.",
     "2":"In Firefox, the \"privacy.resistFingerprinting\" preference changes the precision to 100ms or the value of \"privacy.resistFingerprinting.reduceTimerPrecision.microseconds\", whichever is larger."
   },
-  "usage_perc_y":95.43,
+  "usage_perc_y":95.57,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

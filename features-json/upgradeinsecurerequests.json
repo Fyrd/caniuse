@@ -337,13 +337,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"The HTTP header is `Content-Security-Policy: upgrade-insecure-requests`. Alternatively, the HTML tag is `<meta http-equiv=\"Content-Security-Policy\" content=\"upgrade-insecure-requests\">`.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":87,
+  "usage_perc_y":87.79,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

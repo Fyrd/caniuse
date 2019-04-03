@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Firefox also supports the non-standard `-moz-outline-radius` property that acts similar to `border-radius`.",
@@ -340,8 +343,8 @@
     "1":"Also supports the value of `invert` for `outline-color`. (support of this value is optional for browsers)",
     "2":"Does not support `outline-offset`."
   },
-  "usage_perc_y":93.78,
-  "usage_perc_a":2.91,
+  "usage_perc_y":94.13,
+  "usage_perc_a":2.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"-moz-outline,outline-width,outline-style,outline-color,outline-radius",

@@ -340,14 +340,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Includes support for ArrayBuffer objects.",
   "notes_by_num":{
     "1":"IE10 (and IE 10&11 mobile) does not support `Uint8ClampedArray`"
   },
-  "usage_perc_y":97.63,
-  "usage_perc_a":0.3,
+  "usage_perc_y":97.68,
+  "usage_perc_a":0.48,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,JavaScript,dataview,arraybuffer",

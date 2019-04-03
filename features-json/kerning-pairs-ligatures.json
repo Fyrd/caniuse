@@ -333,14 +333,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"The `text-rendering` property is specified in SVG, though behavior there is not related to kerning pairs & ligatures.",
   "notes_by_num":{
     "1":"Partial support in Android browser versions is due to a serious bug where `text-rendering: optimizeLegibility` causes custom web fonts to not render."
   },
-  "usage_perc_y":91.67,
-  "usage_perc_a":0.33,
+  "usage_perc_y":92.21,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"optimizeLegibility,optimizeSpeed,geometricPrecision",

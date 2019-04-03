@@ -371,6 +371,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"For screen readers, IE, Chrome & Firefox support the [accessible canvas element sub-DOM](http://www.paciellogroup.com/blog/2012/06/html5-canvas-accessibility-in-firefox-13/).\r\nFirefox & Chrome also support the drawfocus ring.",
@@ -378,8 +381,8 @@
     "1":"Does not support `toDataURL()`",
     "2":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications."
   },
-  "usage_perc_y":96.5,
-  "usage_perc_a":1.78,
+  "usage_perc_y":96.84,
+  "usage_perc_a":1.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"toDataURL()",

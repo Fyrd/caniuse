@@ -358,6 +358,9 @@
     },
     "baidu":{
       "7.12":"a x #2 #3"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -367,8 +370,8 @@
     "3":"Partial support refers to not returning a Promise, as specified in the latest version of the spec.",
     "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag"
   },
-  "usage_perc_y":30.13,
-  "usage_perc_a":54.16,
+  "usage_perc_y":31.96,
+  "usage_perc_a":52.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",

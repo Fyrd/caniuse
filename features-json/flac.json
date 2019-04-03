@@ -337,6 +337,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
@@ -345,8 +348,8 @@
     "2":"Only works on ChromeOS",
     "3":"Supported only on macOS High Sierra or later"
   },
-  "usage_perc_y":87.03,
-  "usage_perc_a":2.94,
+  "usage_perc_y":86.97,
+  "usage_perc_a":3.03,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"flac,lossless,audio",

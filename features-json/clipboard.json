@@ -335,6 +335,9 @@
     },
     "baidu":{
       "7.12":"a #5"
+    },
+    "kaios":{
+      "2.5":"a #6"
     }
   },
   "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+, Opera 29+ and Firefox 41+ support clipboard reading/writing only when part of a user action (click, keydown, etc).\r\n\r\nFirefox 40- users [can enable support](https://developer.mozilla.org/en-US/docs/Midas/Security_preferences) with a security preference setting.",
@@ -347,8 +350,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":10.33,
-  "usage_perc_a":81.87,
+  "usage_perc_y":10.75,
+  "usage_perc_a":82.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

@@ -337,6 +337,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a x #1"
     }
   },
   "notes":"For support of styling the actual placeholder text itself, see [CSS ::placeholder](https://caniuse.com/#feat=css-placeholder)",
@@ -344,8 +347,8 @@
     "1":"Partial support in Firefox refers to using the non-standard `:-moz-placeholder` name rather than `:placeholder-shown`.",
     "2":"Partial support in IE refers to using the non-standard `:-ms-input-placeholder` name rather than `:placeholder-shown`."
   },
-  "usage_perc_y":88.57,
-  "usage_perc_a":2.75,
+  "usage_perc_y":88.47,
+  "usage_perc_a":3.21,
   "ucprefix":false,
   "parent":"",
   "keywords":":placeholder-shown,placeholder-shown,placeholder",

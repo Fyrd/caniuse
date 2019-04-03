@@ -345,14 +345,17 @@
     },
     "baidu":{
       "7.12":"a"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Partial support refers to not supporting the `ALLOW-FROM` option.\r\nThe `X-Frame-Options` header has been obsoleted by [the `frame-ancestors` directive](https://www.w3.org/TR/CSP2/#directive-frame-ancestors) from Content Security Policy Level 2.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":9.28,
-  "usage_perc_a":87.1,
+  "usage_perc_y":10.04,
+  "usage_perc_a":86.68,
   "ucprefix":false,
   "parent":"",
   "keywords":"x-frame-options,frame,options,header,clickjacking",

@@ -362,14 +362,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Currently all Android browsers with partial support hide the slider input field by default. However, the element [can be styled](http://tiffanybbrown.com/2012/02/07/input-typerange-and-androids-stock-browser/) to be made visible and usable.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":96.03,
-  "usage_perc_a":0.17,
+  "usage_perc_y":96.37,
+  "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"input type=\"range\"",

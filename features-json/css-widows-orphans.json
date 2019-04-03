@@ -341,13 +341,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Some older WebKit-based browsers recognize the properties, but do not appear to have actual support",
   "notes_by_num":{
     "1":"Supports widows & orphans properties, but due to not supporting CSS multi-columns the support is only for page breaks (for print)"
   },
-  "usage_perc_y":93.22,
+  "usage_perc_y":92.47,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

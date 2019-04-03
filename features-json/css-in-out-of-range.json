@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #3"
     }
   },
   "notes":"Note that `<input type=\"range\">` can never match `:out-of-range` because the user cannot input such a value, and if the initial value is outside the range, the browser immediately clamps it to the minimum or maximum (as appropriate) bound of the range.",
@@ -341,8 +344,8 @@
     "2":"`:in-range` also incorrectly matches temporal and `number` inputs which don't have `min` or `max` attributes. See [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7200501/), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=603268), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156558).",
     "3":"`:in-range` and `:out-of-range` incorrectly match inputs which are disabled or readonly. See [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7190958/), [Mozilla bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1264157), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156530), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=602568)."
   },
-  "usage_perc_y":87.39,
-  "usage_perc_a":7.93,
+  "usage_perc_y":87.33,
+  "usage_perc_a":8.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"in,out,of,range,:in-range,:out-of-range",

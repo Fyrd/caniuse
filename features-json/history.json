@@ -354,14 +354,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Older iOS versions and Android 4.0.4 claim support, but implementation is too buggy to be useful.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":95.97,
-  "usage_perc_a":0.13,
+  "usage_perc_y":96.13,
+  "usage_perc_a":0.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"onpushstate,onreplacestate",

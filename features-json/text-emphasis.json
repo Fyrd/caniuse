@@ -339,6 +339,9 @@
     },
     "baidu":{
       "7.12":"a x #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Some old WebKit browsers (like Chrome 24) support `-webkit-text-emphasis`, but does not support CJK languages and is therefore considered unsupported.",
@@ -346,8 +349,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":17.77,
-  "usage_perc_a":72.95,
+  "usage_perc_y":18.4,
+  "usage_perc_a":72.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

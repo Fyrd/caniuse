@@ -361,6 +361,9 @@
     },
     "baidu":{
       "7.12":"n #2"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -369,8 +372,8 @@
     "2":"Supports notifications via the [Push API](https://caniuse.com/#feat=push-api) but not the Web Notifications API.",
     "3":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)"
   },
-  "usage_perc_y":74.05,
-  "usage_perc_a":1.12,
+  "usage_perc_y":75.06,
+  "usage_perc_a":1.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -341,6 +341,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Firefox supports H.264 on Windows 7 and later since version 21. Firefox supports H.264 on Linux since version 26 if the appropriate gstreamer plug-ins are installed.\r\n\r\nPartial support for older Firefox versions refers to the lack of support in OS X & some non-Android Linux platforms.",
@@ -348,8 +351,8 @@
     "1":"The Android 2.3 browser requires [specific handling](https://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to play videos.",
     "2":"Partial supports refers to the lack of hardware acceleration."
   },
-  "usage_perc_y":91.89,
-  "usage_perc_a":4.38,
+  "usage_perc_y":92.48,
+  "usage_perc_a":4.12,
   "ucprefix":false,
   "parent":"video",
   "keywords":"avc,mp4,mpv,mov,aac,h264",

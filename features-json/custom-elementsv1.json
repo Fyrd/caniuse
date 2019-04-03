@@ -346,6 +346,9 @@
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"p"
     }
   },
   "notes":"",
@@ -354,11 +357,11 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":71.35,
-  "usage_perc_a":15.24,
+  "usage_perc_y":71.13,
+  "usage_perc_a":15.43,
   "ucprefix":false,
   "parent":"",
-  "keywords":"webcomponents,custom elements",
+  "keywords":"webcomponents,customelements",
   "ie_id":"customelements",
   "chrome_id":"4696261944934400,4670146924773376",
   "firefox_id":"custom-elements",

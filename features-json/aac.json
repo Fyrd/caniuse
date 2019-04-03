@@ -329,14 +329,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #1"
     }
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
   "notes_by_num":{
     "1":"Partial support in Firefox refers to only supporting AAC in an MP4 container and only when the operating system already has the codecs installed."
   },
-  "usage_perc_y":91.79,
-  "usage_perc_a":4.35,
+  "usage_perc_y":91.39,
+  "usage_perc_a":5.09,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"audio/aac",

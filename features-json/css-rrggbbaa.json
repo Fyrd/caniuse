@@ -333,13 +333,16 @@
     },
     "baidu":{
       "7.12":"n d #1"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Only supported in Android WebViews in apps that target Android Pie, due to [this issue](https://bugs.chromium.org/p/chromium/issues/detail?id=618472)",
   "notes_by_num":{
     "1":"Can be enabled via the \"Experimental web platform features\" flag."
   },
-  "usage_perc_y":82.36,
+  "usage_perc_y":82.54,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -343,6 +343,9 @@
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -350,8 +353,8 @@
     "1":"Chrome does not support Ahead-Of-Time compilation but performance doubled in Chrome 28: https://en.wikipedia.org/wiki/Asm.js#Implementations",
     "2":"Supported in MS Edge under the \"Enable experimental JavaScript features\" flag."
   },
-  "usage_perc_y":6.47,
-  "usage_perc_a":68.11,
+  "usage_perc_y":7.25,
+  "usage_perc_a":67.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",

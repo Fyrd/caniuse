@@ -349,6 +349,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #5"
     }
   },
   "notes":"There used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336).",
@@ -359,8 +362,8 @@
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
   },
-  "usage_perc_y":75.31,
-  "usage_perc_a":14.61,
+  "usage_perc_y":74.8,
+  "usage_perc_a":15.19,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\",input date,datetime-local",

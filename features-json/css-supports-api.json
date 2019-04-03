@@ -346,14 +346,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"See also [@supports in CSS](#feat=css-featurequeries)",
   "notes_by_num":{
     "1":"Partial support in Presto-based Opera browsers refers to using an older API (`window.supportsCSS`)"
   },
-  "usage_perc_y":92.5,
-  "usage_perc_a":1.74,
+  "usage_perc_y":92.82,
+  "usage_perc_a":1.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"conditional",

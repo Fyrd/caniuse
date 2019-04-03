@@ -329,14 +329,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Only supports `KeyboardEvent.keyLocation` from an older draft of the DOM Level 3 Events spec instead."
   },
-  "usage_perc_y":95.52,
-  "usage_perc_a":0.83,
+  "usage_perc_y":95.66,
+  "usage_perc_a":1.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,key,location,keyLocation,numpad",

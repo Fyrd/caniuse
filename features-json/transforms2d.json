@@ -361,13 +361,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"The scale transform can be emulated in IE < 9 using Microsoft's \"zoom\" extension, others are (not easily) possible using the MS Matrix filter",
   "notes_by_num":{
     "1":"Does not support CSS transforms on SVG elements (transform attribute can be used instead)"
   },
-  "usage_perc_y":96.52,
+  "usage_perc_y":96.87,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

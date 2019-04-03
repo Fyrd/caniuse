@@ -362,6 +362,9 @@
     },
     "baidu":{
       "7.12":"a #1 #2"
+    },
+    "kaios":{
+      "2.5":"y #3"
     }
   },
   "notes":"",
@@ -371,8 +374,8 @@
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
     "4":"Does not include increment/decrement buttons, but does supports increment/decrement via arrow up & down keys."
   },
-  "usage_perc_y":43.41,
-  "usage_perc_a":52.73,
+  "usage_perc_y":45.37,
+  "usage_perc_a":51.12,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"spinner,input type=\"number\"",

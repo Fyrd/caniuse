@@ -353,6 +353,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"While most commonly used on text fields, datalists can also be used on other input types. IE11 supports the element on `range` fields. Chrome and Opera also support datalists to suggest given values on `range`, `color` and date/time fields. ",
@@ -362,8 +365,8 @@
     "3":"Partial support refers to no support for datalists on non-text fields (e.g. number, [range](https://bugzilla.mozilla.org/show_bug.cgi?id=841942), [color](https://bugzilla.mozilla.org/show_bug.cgi?id=960984)).",
     "4":"Partial support in EDGE refers [to disappearing option elements on focusing the input element via tab](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/20066595/)."
   },
-  "usage_perc_y":65.12,
-  "usage_perc_a":13.13,
+  "usage_perc_y":64.99,
+  "usage_perc_a":13.49,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute,input",

@@ -349,6 +349,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Apple provides an equivalent proprietary API called [Apple Pay JS](https://developer.apple.com/reference/applepayjs/). Google provides a [PaymentRequest wrapper for Apple Pay JS](https://github.com/GoogleChrome/appr-wrapper).",
@@ -362,8 +365,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":0.05,
-  "usage_perc_a":80.12,
+  "usage_perc_y":0.21,
+  "usage_perc_a":80.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

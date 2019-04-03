@@ -338,6 +338,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y #4"
     }
   },
   "notes":"See also [PNG favicons](#feat=link-icon-png).",
@@ -347,8 +350,8 @@
     "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":5.11,
-  "usage_perc_a":13.36,
+  "usage_perc_y":5.85,
+  "usage_perc_a":13.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

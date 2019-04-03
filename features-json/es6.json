@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"a"
+    },
+    "kaios":{
+      "2.5":"a"
     }
   },
   "notes":"As ES6 refers to a huge specification and browsers have various levels of support, \"Supported\" means at least 95% of the spec is supported. \"Partial support\" refers to at least 10% of the spec being supported. For full details see the [Kangax ES6 support table](https://kangax.github.io/compat-table/es6/).",
@@ -341,8 +344,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":89.42,
-  "usage_perc_a":6.08,
+  "usage_perc_y":89.39,
+  "usage_perc_a":6.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

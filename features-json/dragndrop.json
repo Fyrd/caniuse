@@ -383,6 +383,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"`dataTransfer.items` only supported by Chrome.\r\n\r\nCurrently no browser supports the `dropzone` attribute.\r\n\r\nFirefox supports any kind of DOM elements for `.setDragImage`. Chrome must have either an `HTMLImageElement` or any kind of DOM elements attached to the DOM and within the viewport of the browser for `.setDragImage`.",
@@ -391,8 +394,8 @@
     "2":"Partial support refers to not supporting `.setDragImage`",
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`."
   },
-  "usage_perc_y":49.09,
-  "usage_perc_a":4.46,
+  "usage_perc_y":50.96,
+  "usage_perc_a":4.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

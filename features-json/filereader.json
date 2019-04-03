@@ -338,13 +338,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Does not support `readAsBinaryString`, but `readAsBinaryString` [can be polyfilled](https://stackoverflow.com/q/31391207)"
   },
-  "usage_perc_y":93.78,
+  "usage_perc_y":93.94,
   "usage_perc_a":2.32,
   "ucprefix":false,
   "parent":"fileapi",

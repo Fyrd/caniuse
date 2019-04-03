@@ -345,6 +345,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
@@ -353,8 +356,8 @@
     "2":"Does not support `overscroll-behavior: none;` on the body element to prevent the overscroll glow and rubberbanding effects.",
     "3":"Incorrectly treats `none` as `contain` see [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior#Browser_compatibility) and [Edge 18 changelog](https://aka.ms/devguide_edgehtml_18)"
   },
-  "usage_perc_y":68.49,
-  "usage_perc_a":5.05,
+  "usage_perc_y":68.59,
+  "usage_perc_a":5.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",

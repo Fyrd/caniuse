@@ -329,14 +329,17 @@
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"This property is legacy and deprecated, but its replacement(s) are not yet widely supported.",
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":58.84,
-  "usage_perc_a":37.06,
+  "usage_perc_y":60.37,
+  "usage_perc_a":35.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

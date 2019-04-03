@@ -343,6 +343,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -351,8 +354,8 @@
     "2":"Supports the subset of the syntax for resolution switching (using the `x` descriptor), but not the full syntax that can be used with `sizes` (using the `w` descriptor).",
     "3":"Intermittently displays distorted images due to bug present (see known issues)"
   },
-  "usage_perc_y":91.6,
-  "usage_perc_a":0.51,
+  "usage_perc_y":92.03,
+  "usage_perc_a":0.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"srcset attribute",

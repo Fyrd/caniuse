@@ -349,6 +349,9 @@
     },
     "baidu":{
       "7.12":"a x #1 #2"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"As of Chrome 47, the getUserMedia API cannot be called from insecure origins.",
@@ -357,8 +360,8 @@
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one.",
     "3":"Does not work in standalone running (\"installed\") PWAs, `getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari."
   },
-  "usage_perc_y":89.08,
-  "usage_perc_a":2.1,
+  "usage_perc_y":89.12,
+  "usage_perc_a":2.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",

@@ -339,6 +339,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -347,8 +350,8 @@
     "2":"Partial support refers to supporting only `innerHTML`.",
     "3":"Partial support refers to supporting only `innerHTML` and `insertAdjacentHTML`."
   },
-  "usage_perc_y":95.29,
-  "usage_perc_a":3.14,
+  "usage_perc_y":95.43,
+  "usage_perc_a":3.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"parseFromString",

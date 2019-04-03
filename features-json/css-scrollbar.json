@@ -351,6 +351,9 @@
     },
     "baidu":{
       "7.12":"a x #2"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"scrollbar-width property is at risk of being removed see [Issue 1958 on CSSWWG-Drafts](https://github.com/w3c/csswg-drafts/issues/1958)",
@@ -363,7 +366,7 @@
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":93.03,
+  "usage_perc_a":92.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

@@ -339,13 +339,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"When changing the `innerHTML` content of a node containing a single `CharacterData` node, resulting in a single-but-different `CharacterData` child node, WebKit browsers consider this a `characterData` mutation of the child `CharacterData` node, while other browsers consider it a `childList` mutation of the parent node.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":95.5,
+  "usage_perc_y":95.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

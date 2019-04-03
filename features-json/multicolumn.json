@@ -374,6 +374,9 @@
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"a x #1"
     }
   },
   "notes":"",
@@ -382,8 +385,8 @@
     "2":"Partial support refers to not supporting the `column-fill` property.",
     "3":"Partial support refers to not supporting the `avoid-column`, `column`, and `avoid` (in the column context) values for the properties `break-before`, `break-after`, and `break-inside`."
   },
-  "usage_perc_y":25.88,
-  "usage_perc_a":72.16,
+  "usage_perc_y":25.29,
+  "usage_perc_a":72.97,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-span,column-fill,break-before,break-after,break-inside",

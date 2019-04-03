@@ -345,14 +345,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all. MS Edge supports VP9 from MSE sources, also progressive sources are not supported by Edge.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":76.2,
-  "usage_perc_a":3.82,
+  "usage_perc_y":76.49,
+  "usage_perc_a":3.77,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

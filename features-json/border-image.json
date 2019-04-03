@@ -338,6 +338,9 @@
     },
     "baidu":{
       "7.12":"a #2"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
   "notes":"Note that both the `border-style` and `border-width` must be specified (not set to `none` or 0) for border-images to work.",
@@ -347,8 +350,8 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":88.19,
-  "usage_perc_a":9.8,
+  "usage_perc_y":88.42,
+  "usage_perc_a":9.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-image-source,border-image-slice,border-image-repeat,border-image-width,,border-image-outset",

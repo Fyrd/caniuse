@@ -333,13 +333,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Chrome treats the prerender hint as a [NoState Prefetch](https://developers.google.com/web/updates/2018/07/nostate-prefetch) instead, and unlike a full prerender it wont execute JavaScript or render any part of the page in advance.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":71.07,
+  "usage_perc_y":70.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

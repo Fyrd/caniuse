@@ -351,6 +351,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Reported to be supported in some Android 4.x browsers, including Sony Xperia S, Sony TX and HTC.",
@@ -358,8 +361,8 @@
     "1":"Partial support in older browsers refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol).",
     "2":"Partial support in older browsers refers to lacking support for binary data."
   },
-  "usage_perc_y":95.6,
-  "usage_perc_a":0.34,
+  "usage_perc_y":95.72,
+  "usage_perc_a":0.52,
   "ucprefix":true,
   "parent":"",
   "keywords":"",

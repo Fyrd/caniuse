@@ -337,6 +337,9 @@
     },
     "baidu":{
       "7.12":"y #4"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"The basic functions that this information refers to include `console.log`, `console.info`, `console.warn`, `console.error`.",
@@ -348,8 +351,8 @@
     "5":"Log output on Firefox for Android can be [accessed using WebIDE](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)",
     "6":"See [this article](https://dev.opera.com/articles/opera-mini-and-javascript/) for details on how to see console logging in Opera Mini"
   },
-  "usage_perc_y":94.11,
-  "usage_perc_a":0.33,
+  "usage_perc_y":94.63,
+  "usage_perc_a":0.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"console.log,console.info,console.warn,console.error,window.console",

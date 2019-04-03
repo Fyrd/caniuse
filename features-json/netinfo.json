@@ -330,6 +330,9 @@
     },
     "baidu":{
       "7.12":"a #3"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
   "notes":"In Chrome the API is enabled on Android only, support for other platforms [is coming](https://docs.google.com/a/chromium.org/document/d/1LTk9uVMGi4kurzcF5ellsAJReTF31fFJMHrQwSVtBjc/) . Support is also available on [Firefox OS](https://bugzilla.mozilla.org/show_bug.cgi?id=960426).",
@@ -339,8 +342,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":36.17,
-  "usage_perc_a":31.4,
+  "usage_perc_y":35.12,
+  "usage_perc_a":32.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

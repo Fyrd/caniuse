@@ -349,6 +349,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -356,8 +359,8 @@
     "1":"Partial support refers to only working in frames/iframes (not other tabs/windows). Also, objects cannot be sent using postMessage.",
     "2":"Partial support refers to [limitations in certain conditions](https://stackoverflow.com/questions/16226924/is-cross-origin-postmessage-broken-in-ie10)."
   },
-  "usage_perc_y":95.62,
-  "usage_perc_a":2.77,
+  "usage_perc_y":95.85,
+  "usage_perc_a":2.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

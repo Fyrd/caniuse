@@ -352,6 +352,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -360,8 +363,8 @@
     "2":"Partial support refers to not supporting `.timeout` and `.ontimeout`",
     "3":"Partial support refers to not supporting `blob` as `responseType`"
   },
-  "usage_perc_y":92.86,
-  "usage_perc_a":3.36,
+  "usage_perc_y":93.01,
+  "usage_perc_a":3.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"formdata,xhr level 2",

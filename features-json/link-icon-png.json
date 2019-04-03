@@ -331,6 +331,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Win8/IE10+ and iOS Safari support other types of icons for webpages too, using alternate tags.\r\n\r\nSee also [SVG favicons](#feat=link-icon-svg).",
@@ -340,7 +343,7 @@
     "3":"If multiple formats are available, will use the last one loaded, regardless of sizes (effectively picks at random).",
     "4":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
   },
-  "usage_perc_y":85.13,
+  "usage_perc_y":85.64,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

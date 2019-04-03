@@ -329,6 +329,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -336,8 +339,8 @@
     "1":"Only supported on `Element`s.",
     "2":"Only supported on `Element`s and `Comment`s."
   },
-  "usage_perc_y":89.11,
-  "usage_perc_a":2.7,
+  "usage_perc_y":89.8,
+  "usage_perc_a":2.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"Node,parentElement,parent,element,DOM",

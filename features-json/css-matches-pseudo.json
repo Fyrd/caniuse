@@ -349,6 +349,9 @@
     },
     "baidu":{
       "7.12":"a x #1"
+    },
+    "kaios":{
+      "2.5":"a x #3"
     }
   },
   "notes":"Most browsers support this spelled as a prefixed `:-vendor-any()` pseudo-class.",
@@ -358,8 +361,8 @@
     "3":"Only supports the `:-moz-any()` pseudo-class.",
     "4":"Support for ':matches()' is available behind the \"Experimental Web Platform features\" flag"
   },
-  "usage_perc_y":13.14,
-  "usage_perc_a":78.39,
+  "usage_perc_y":13.22,
+  "usage_perc_a":78.62,
   "ucprefix":false,
   "parent":"",
   "keywords":":matches,matches,:any,any",

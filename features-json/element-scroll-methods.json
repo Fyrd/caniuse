@@ -334,14 +334,17 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"See also the support for the [`scrollIntoView` method](/#feat=scrollintoview).",
   "notes_by_num":{
     "1":"Does not support the `smooth` behavior option."
   },
-  "usage_perc_y":73.97,
-  "usage_perc_a":12.76,
+  "usage_perc_y":74.25,
+  "usage_perc_a":12.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"element.prototype.scroll,element.prototype.scrollTo,element.prototype.scrollBy",

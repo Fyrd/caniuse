@@ -329,6 +329,9 @@
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
   "notes":"See also support for [Mutation Observer](https://caniuse.com/#feat=mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
@@ -337,7 +340,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.03,
-  "usage_perc_a":96.34,
+  "usage_perc_a":96.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

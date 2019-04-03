@@ -349,6 +349,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #4"
     }
   },
   "notes":"All browsers support the CSS2 version of `text-decoration`, which matches only the `text-decoration-line` values (`underline`, etc.)",
@@ -359,8 +362,8 @@
     "4":"Partial support refers to not supporting the `text-decoration-skip` property.",
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
-  "usage_perc_y":0.18,
-  "usage_perc_a":88.1,
+  "usage_perc_y":0.19,
+  "usage_perc_a":88.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",

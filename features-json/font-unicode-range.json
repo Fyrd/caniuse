@@ -350,14 +350,17 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Partial support indicates that unnecessary code-ranges are downloaded by the browser - see [browser test matrix](https://docs.google.com/a/chromium.org/spreadsheets/d/18h-1gaosu4-KYxH8JUNL6ZDuOsOKmWfauoai3CS3hPY/edit?pli=1#gid=0).",
   "notes_by_num":{
     "1":"Can be enabled in Firefox using the `layout.css.unicode-range.enabled` flag"
   },
-  "usage_perc_y":90.46,
-  "usage_perc_a":5.72,
+  "usage_perc_y":90.96,
+  "usage_perc_a":5.55,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face,unicode,unicode-range",

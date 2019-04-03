@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"u"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"See also support for [HTTP2](https://caniuse.com/#feat=http2), successor of SPDY.\r\n\r\nChrome will be removing support in 2016 (in favor of HTTP2), other browsers likely to follow.",
@@ -340,7 +343,7 @@
     "1":"Deprecated as of macOS Mojave 10.4.4. To be completely removed in a future version of macOS.",
     "2":"Deprecated as of iOS 12.2. To be completely removed in a future version of iOS."
   },
-  "usage_perc_y":18.9,
+  "usage_perc_y":19.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

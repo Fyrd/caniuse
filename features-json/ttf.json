@@ -331,14 +331,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in IE9+ refers to the fonts only working [when set to be \"installable\"](http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx). Support for this is tracked [here](https://status.modern.ie/crossdomainfontloading)."
   },
-  "usage_perc_y":93.88,
-  "usage_perc_a":2.64,
+  "usage_perc_y":94.23,
+  "usage_perc_a":2.63,
   "ucprefix":false,
   "parent":"fontface",
   "keywords":"",

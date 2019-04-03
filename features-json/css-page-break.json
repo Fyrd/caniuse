@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"a #1 #2 #3"
+    },
+    "kaios":{
+      "2.5":"a #1 #2 #3"
     }
   },
   "notes":"Not all mobile browsers offer print support; support listed for these is based on browser engine capability.",
@@ -341,8 +344,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":1.8,
-  "usage_perc_a":96.63,
+  "usage_perc_y":1.68,
+  "usage_perc_a":96.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

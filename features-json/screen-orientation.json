@@ -337,14 +337,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Partial support refers to an [older version](https://www.w3.org/TR/2014/WD-screen-orientation-20140220/) of the draft specification, and the spec has undergone significant changes since, for example renaming the `screen.lockOrientation` method to `screen.orientation.lock`.",
   "notes_by_num":{
     "1":"Not supported on Windows 7."
   },
-  "usage_perc_y":75.67,
-  "usage_perc_a":4.67,
+  "usage_perc_y":76,
+  "usage_perc_a":4.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"lockorientation,unlockorientation",

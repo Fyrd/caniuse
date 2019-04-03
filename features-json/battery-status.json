@@ -333,14 +333,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Firefox 52+ [removed access to this API due to privacy concerns.](https://bugzilla.mozilla.org/show_bug.cgi?id=1313580)",
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":72.46,
-  "usage_perc_a":0.18,
+  "usage_perc_y":72.48,
+  "usage_perc_a":0.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.battery,navigator.getbattery,batterymanager",

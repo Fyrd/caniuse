@@ -337,6 +337,9 @@
     },
     "baidu":{
       "7.12":"a #1 #2"
+    },
+    "kaios":{
+      "2.5":"a #1 #2"
     }
   },
   "notes":"Effectively all browsers support the CSS 2.1 definition for single-value `overflow` as well as `overflow-x` & `overflow-y` and values `visible`, `hidden`, `scroll` & `auto`",
@@ -345,7 +348,7 @@
     "2":"Does not support the `clip` value"
   },
   "usage_perc_y":0,
-  "usage_perc_a":98.44,
+  "usage_perc_a":98.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"overflow:hidden,overflow:scroll,overflow:clip",

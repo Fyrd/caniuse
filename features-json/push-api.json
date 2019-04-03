@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y #2"
     }
   },
   "notes":"",
@@ -342,8 +345,8 @@
     "3":"Safari supports a custom implementation https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ ",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags"
   },
-  "usage_perc_y":77.48,
-  "usage_perc_a":0.58,
+  "usage_perc_y":77.8,
+  "usage_perc_a":0.6,
   "ucprefix":false,
   "parent":"",
   "keywords":"push notifications",

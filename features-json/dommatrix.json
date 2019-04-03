@@ -341,6 +341,9 @@
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"a #3 #5"
     }
   },
   "notes":"",
@@ -351,8 +354,8 @@
     "4":"Only replaces `WebkitCSSMatrix` and not `SVGMatrix`",
     "5":"Does not support `fromMatrix()`, `fromFloat32Array()`, `fromFloat64Array()`, and `toJSON()` methods"
   },
-  "usage_perc_y":33.64,
-  "usage_perc_a":62.39,
+  "usage_perc_y":32.87,
+  "usage_perc_a":63.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",

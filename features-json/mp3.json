@@ -329,13 +329,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
   "notes_by_num":{
     "1":"Partial support in older Firefox refers to being limited to certain operating systems."
   },
-  "usage_perc_y":96.31,
+  "usage_perc_y":96.64,
   "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"audio",

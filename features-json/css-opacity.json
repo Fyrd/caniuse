@@ -329,14 +329,17 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Transparency for elements in IE8 and older can be achieved using the proprietary \"filter\" property and does not work well with PNG images using alpha transparency.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":98.28,
-  "usage_perc_a":0.16,
+  "usage_perc_y":98.5,
+  "usage_perc_a":0.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"transparent,transparency,alpha",

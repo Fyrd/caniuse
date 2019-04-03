@@ -343,6 +343,9 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -350,7 +353,7 @@
     "1":"Partial support refers to lacking `cancelAnimationFrame` support.",
     "2":"Supports `webkitCancelRequestAnimationFrame` rather than `webkitCancelAnimationFrame`."
   },
-  "usage_perc_y":95.57,
+  "usage_perc_y":95.69,
   "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",

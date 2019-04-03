@@ -333,6 +333,9 @@
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n d #1 #5"
     }
   },
   "notes":"",
@@ -343,7 +346,7 @@
     "4":"Has an option to enable via the \"Experimental Features\" developer menu but fails 77% of the WebGL2 conformance tests make it nearly unusable and has not seen any development activity in over 3 years",
     "5":"Enabled by default for Nightly and Dev Edition"
   },
-  "usage_perc_y":70.62,
+  "usage_perc_y":70.73,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

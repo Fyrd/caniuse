@@ -351,6 +351,9 @@
     },
     "baidu":{
       "7.12":"n d #2"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Not every computer or smartphone could run WebVR appication. For smartphones, you need a gyroscope and for computers must be VR-ready also the needed sotfware (Oculus client or (Steam VR and VivePort)) and drivers must been installed on the computer. In this situations, you've the best experiance to use WebVR applications.",
@@ -361,8 +364,8 @@
     "4":"Supports only Samsung Galaxy devices with the Samgung Gear VR",
     "5":"Supports only Google Daydream on [daydream-ready devices](https://vr.google.com/daydream/smartphonevr/phones/) and Google Cardboards"
   },
-  "usage_perc_y":39.73,
-  "usage_perc_a":3.01,
+  "usage_perc_y":39.24,
+  "usage_perc_a":2.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"getvrdevices,getvrdisplays,getdisplays,navigator.vr",

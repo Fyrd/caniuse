@@ -351,13 +351,16 @@
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content.",
   "notes_by_num":{
     "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
   },
-  "usage_perc_y":92.13,
+  "usage_perc_y":91.72,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
