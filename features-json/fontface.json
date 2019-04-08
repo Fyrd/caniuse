@@ -1,7 +1,7 @@
 {
   "title":"@font-face Web fonts",
   "description":"Method of displaying fonts downloaded from websites",
-  "spec":"http://www.w3.org/TR/css3-webfonts/",
+  "spec":"https://www.w3.org/TR/css3-webfonts/",
   "status":"cr",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"News and information site"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/Web_typography",
+      "url":"https://en.wikipedia.org/wiki/Web_typography",
       "title":"Wikipedia"
     },
     {
@@ -43,7 +43,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +106,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"y",
@@ -167,7 +179,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -185,6 +209,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -233,7 +260,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"a #2",
@@ -248,7 +284,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -263,7 +302,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"a",
@@ -276,30 +315,36 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Not supported by IE Mobile 9 and below.",
@@ -307,8 +352,8 @@
     "1":"Partial support refers to only supporting EOT fonts.",
     "2":"Partial support refers to only supporting SVG fonts."
   },
-  "usage_perc_y":94.07,
-  "usage_perc_a":0.37,
+  "usage_perc_y":96.83,
+  "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face",

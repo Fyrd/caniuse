@@ -9,7 +9,7 @@
       "title":"Vanishing boxes with display contents"
     },
     {
-      "url":"https://crbug.com/657748",
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=657748",
       "title":"Chrome support bug"
     },
     {
@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"iOS Safari 10 and 11, and Safari 11 renders `display:contents` as `display:inline`. @supports will also report as true."
+    }
   ],
   "categories":[
     "CSS"
@@ -42,7 +44,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -82,28 +86,38 @@
       "34":"n",
       "35":"n",
       "36":"n",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y",
-      "49":"y",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y",
-      "57":"y",
-      "58":"y"
+      "37":"a #2",
+      "38":"a #2",
+      "39":"a #2",
+      "40":"a #2",
+      "41":"a #2",
+      "42":"a #2",
+      "43":"a #2",
+      "44":"a #2",
+      "45":"a #2",
+      "46":"a #2",
+      "47":"a #2",
+      "48":"a #2",
+      "49":"a #2",
+      "50":"a #2",
+      "51":"a #2",
+      "52":"a #2",
+      "53":"a #2",
+      "54":"a #2",
+      "55":"a #2",
+      "56":"a #2",
+      "57":"a #2",
+      "58":"a #2",
+      "59":"a #2",
+      "60":"a #2",
+      "61":"a #2",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -166,7 +180,19 @@
       "61":"n d #1",
       "62":"n d #1",
       "63":"n d #1",
-      "64":"n d #1"
+      "64":"n d #1",
+      "65":"a #2",
+      "66":"a #2",
+      "67":"a #2",
+      "68":"a #2",
+      "69":"a #2",
+      "70":"a #2",
+      "71":"a #2",
+      "72":"a #2",
+      "73":"a #2",
+      "74":"a #2",
+      "75":"a #2",
+      "76":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -184,7 +210,10 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
-      "TP":"n"
+      "11.1":"a #2 #3",
+      "12":"a #2 #3",
+      "12.1":"a #2 #3",
+      "TP":"a #2 #3"
     },
     "opera":{
       "9":"n",
@@ -232,7 +261,16 @@
       "46":"n",
       "47":"n",
       "48":"n",
-      "49":"n"
+      "49":"n",
+      "50":"n",
+      "51":"n",
+      "52":"a #2",
+      "53":"a #2",
+      "54":"a #2",
+      "55":"a #2",
+      "56":"a #2",
+      "57":"a #2",
+      "58":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -247,7 +285,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"a #2",
+      "12.0-12.1":"a #2",
+      "12.2":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -262,7 +303,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"a #2"
     },
     "bb":{
       "7":"n",
@@ -275,38 +316,46 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "71":"a #2"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
+    "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
+    "2":"Partial support refers to [severe implementation bug](https://hiddedevries.nl/en/blog/2018-04-21-more-accessible-markup-with-display-contents) that renders the content inaccessible.",
+    "3":"Safari support is buggy, see [WebKit bug 188259](https://bugs.webkit.org/show_bug.cgi?id=188259) & [WebKit bug 193567](https://bugs.webkit.org/show_bug.cgi?id=193567)"
   },
-  "usage_perc_y":5.62,
-  "usage_perc_a":0,
+  "usage_perc_y":3.72,
+  "usage_perc_a":75.68,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

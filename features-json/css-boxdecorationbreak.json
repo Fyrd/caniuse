@@ -1,12 +1,12 @@
 {
   "title":"CSS box-decoration-break",
   "description":"Controls whether the box's margins, borders, padding, and other decorations wrap the broken edges of the box fragments (when the box is split by a break (page/column/region/line).",
-  "spec":"http://www.w3.org/TR/css3-break/#break-decoration",
+  "spec":"https://www.w3.org/TR/css3-break/#break-decoration",
   "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
-      "title":"Mozilla Developer Network (MDN) documentation - CSS box-decoration-break"
+      "title":"MDN Web Docs - CSS box-decoration-break"
     },
     {
       "url":"http://jsbin.com/xojoro/edit?css,output",
@@ -38,7 +38,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -99,7 +101,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -162,7 +174,19 @@
       "61":"a x #1",
       "62":"a x #1",
       "63":"a x #1",
-      "64":"a x #1"
+      "64":"a x #1",
+      "65":"a x #1",
+      "66":"a x #1",
+      "67":"a x #1",
+      "68":"a x #1",
+      "69":"a x #1",
+      "70":"a x #1",
+      "71":"a x #1",
+      "72":"a x #1",
+      "73":"a x #1",
+      "74":"a x #1",
+      "75":"a x #1",
+      "76":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -180,6 +204,9 @@
       "10":"a x #1",
       "10.1":"a x #1",
       "11":"a x #1",
+      "11.1":"a x #1",
+      "12":"a x #1",
+      "12.1":"a x #1",
       "TP":"a x #1"
     },
     "opera":{
@@ -228,7 +255,16 @@
       "46":"a x #1",
       "47":"a x #1",
       "48":"a x #1",
-      "49":"a x #1"
+      "49":"a x #1",
+      "50":"a x #1",
+      "51":"a x #1",
+      "52":"a x #1",
+      "53":"a x #1",
+      "54":"a x #1",
+      "55":"a x #1",
+      "56":"a x #1",
+      "57":"a x #1",
+      "58":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -243,7 +279,10 @@
       "9.3":"a x #1",
       "10.0-10.2":"a x #1",
       "10.3":"a x #1",
-      "11":"a x #1"
+      "11.0-11.2":"a x #1",
+      "11.3-11.4":"a x #1",
+      "12.0-12.1":"a x #1",
+      "12.2":"a x #1"
     },
     "op_mini":{
       "all":"a #1"
@@ -258,7 +297,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "56":"a x #1"
+      "67":"a x #1"
     },
     "bb":{
       "7":"n",
@@ -271,38 +310,44 @@
       "11.5":"y #1",
       "12":"y #1",
       "12.1":"y #1",
-      "37":"a x #1"
+      "46":"a x #1"
     },
     "and_chr":{
-      "61":"a x #1"
+      "71":"a x #1"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"a x #1",
-      "5":"a x #1"
+      "5.0-5.4":"a x #1",
+      "6.2-6.4":"a x #1",
+      "7.2-7.4":"a x #1",
+      "8.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
     },
     "baidu":{
       "7.12":"a x #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to working for inline elements but not across column or page breaks."
   },
-  "usage_perc_y":13.67,
-  "usage_perc_a":77.73,
+  "usage_perc_y":8.56,
+  "usage_perc_a":84.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"box-decoration,box decoration,break",

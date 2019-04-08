@@ -1,11 +1,11 @@
 {
   "title":"CSS3 selectors",
-  "description":"Advanced element selection using selectors including: `[foo^=\"bar\"]`, `[foo$=\"bar\"]`, `[foo*=\"bar\"]`, `:root`, `:nth-child()`,  `:nth-last-child()`, `nth-of-type`, `nth-last-of-type()`, `:last-child`, `:first-of-type`, `:last-of-type`, `:only-child`, `:only-of-type`, `:empty`, `:target`, `:enabled`, `:disabled`, `:checked`, `:not()`, `~` (general sibling)",
-  "spec":"http://www.w3.org/TR/css3-selectors/",
+  "description":"Advanced element selection using selectors including: `[foo^=\"bar\"]`, `[foo$=\"bar\"]`, `[foo*=\"bar\"]`, `:root`, `:nth-child()`,  `:nth-last-child()`, `:nth-of-type()`, `:nth-last-of-type()`, `:last-child`, `:first-of-type`, `:last-of-type`, `:only-child`, `:only-of-type`, `:empty`, `:target`, `:enabled`, `:disabled`, `:checked`, `:not()`, `~` (general sibling)",
+  "spec":"https://www.w3.org/TR/css3-selectors/",
   "status":"rec",
   "links":[
     {
-      "url":"http://www.quirksmode.org/css/selectors/",
+      "url":"https://www.quirksmode.org/css/selectors/",
       "title":"Detailed support information"
     },
     {
@@ -23,16 +23,22 @@
   ],
   "bugs":[
     {
-      "description":"Android 4.3 and lower (together with older WebKit browsers) [have issues](http://css-tricks.com/webkit-sibling-bug/) when combining pseudo classes with adjacent or general sibling selectors."
+      "description":"Android 4.3 and lower (together with older WebKit browsers) [have issues](https://css-tricks.com/webkit-sibling-bug/) when combining pseudo classes with adjacent or general sibling selectors."
     },
     {
-      "description":"iOS 8 Safari has [issues with nth-child](http://stackoverflow.com/questions/26032513/ios8-safari-after-a-pushstate-the-nth-child-selectors-not-works).\r\n"
+      "description":"iOS 8 Safari has [issues with nth-child](https://stackoverflow.com/questions/26032513/ios8-safari-after-a-pushstate-the-nth-child-selectors-not-works).\r\n"
     },
     {
       "description":"IE9-IE11 supports `:empty` but will not repaint/relayout the page if content is added/removed from an `:empty` selected element"
     },
     {
       "description":"iOS 9 has a bug in WebViews (not Safari) with the [CSS sibling selector](https://forums.developer.apple.com/thread/16449)"
+    },
+    {
+      "description":"IE11 has issues with [last-of-type with custom elements](https://stackoverflow.com/questions/38666233/last-of-type-doesnt-work-with-custom-elements-in-ie11-and-edge#38669965)"
+    },
+    {
+      "description":"IE does not recognize the `:disabled` pseudo-class selector for `<fieldset disabled>`"
     }
   ],
   "categories":[
@@ -53,7 +59,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -114,7 +122,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"y",
@@ -177,7 +195,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -195,6 +225,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -243,7 +276,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -258,7 +300,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -273,7 +318,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"y",
@@ -286,38 +331,44 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"IE7 and IE8 support only these CSS3 selectors: General siblings (`element1~element2`) and Attribute selectors `[attr^=val]`, `[attr$=val]`, and `[attr*=val]`"
   },
-  "usage_perc_y":96.83,
-  "usage_perc_a":0.31,
+  "usage_perc_y":98.48,
+  "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

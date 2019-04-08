@@ -1,24 +1,24 @@
 {
-  "title":"Ambient Light API",
-  "description":"Defines events that provide information about the ambient light level, as measured by a device's light sensor.",
-  "spec":"http://www.w3.org/TR/ambient-light/",
+  "title":"Ambient Light Sensor",
+  "description":"Defines a concrete sensor interface to monitor the ambient light level or illuminance of the device\u2019s environment.",
+  "spec":"https://www.w3.org/TR/ambient-light/",
   "status":"cr",
   "links":[
     {
-      "url":"http://aurelio.audero.it/demo/ambient-light-api-demo.html",
+      "url":"https://intel.github.io/generic-sensor-demos/ambient-map/build/bundled/",
       "title":"Demo"
     },
     {
-      "url":"http://modernweb.com/2014/05/27/introduction-to-the-ambient-light-api/",
+      "url":"https://developers.google.com/web/updates/2017/09/sensors-for-the-web",
       "title":"Article"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Sensor_API",
-      "title":"Mozilla Developer Network (MDN) documentation - Ambient Light Sensor"
+      "title":"MDN Web Docs - Ambient Light Sensor"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Ambient_Light_Events",
-      "title":"Mozilla Developer Network (MDN) documentation - Ambient Light Events"
+      "title":"MDN Web Docs - Ambient Light Events"
     }
   ],
   "bugs":[
@@ -40,9 +40,11 @@
     "edge":{
       "12":"n",
       "13":"n",
-      "14":"y",
-      "15":"y",
-      "16":"y"
+      "14":"a #1",
+      "15":"a #1",
+      "16":"a #1",
+      "17":"a #1",
+      "18":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -103,7 +105,17 @@
       "55":"a #1",
       "56":"a #1",
       "57":"a #1",
-      "58":"a #1"
+      "58":"a #1",
+      "59":"a #1",
+      "60":"n d #1",
+      "61":"n d #1",
+      "62":"n d #1",
+      "63":"n d #1",
+      "64":"n d #1",
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -166,7 +178,19 @@
       "61":"n d #2",
       "62":"n d #2",
       "63":"n d #2",
-      "64":"n d #2"
+      "64":"n d #2",
+      "65":"n d #2",
+      "66":"n d #2",
+      "67":"n d #2",
+      "68":"n d #2",
+      "69":"n d #2",
+      "70":"n d #2",
+      "71":"n d #2",
+      "72":"n d #2",
+      "73":"n d #2",
+      "74":"n d #2",
+      "75":"n d #2",
+      "76":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -184,6 +208,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -232,7 +259,16 @@
       "46":"n",
       "47":"n",
       "48":"n",
-      "49":"n"
+      "49":"n",
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -247,7 +283,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -262,7 +301,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -275,39 +314,45 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "71":"n"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"a #1"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support in desktop Firefox refers to support being limited to Mac OS X. [Support for Windows 7 is in progress](https://bugzilla.mozilla.org/show_bug.cgi?id=754199)",
-    "2":"Available by enabling the \"Experimental Web Platform Features\" experimental flag in `about:flags`"
+    "1":"Implements an [outdated version of the spec](https://www.w3.org/TR/2015/WD-ambient-light-20150903/).",
+    "2":"Available by enabling the \"Generic Sensor Extra Classes\" experimental flag in `about:flags`"
   },
-  "usage_perc_y":0.63,
-  "usage_perc_a":5.7,
+  "usage_perc_y":0.19,
+  "usage_perc_a":3.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

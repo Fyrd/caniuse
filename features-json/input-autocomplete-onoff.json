@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-autocomplete",
-      "title":"Mozilla Developer Network (MDN) documentation - autocomplete attribute"
+      "title":"MDN Web Docs - autocomplete attribute"
     }
   ],
   "bugs":[
@@ -30,7 +30,9 @@
       "13":"a #1",
       "14":"a #1",
       "15":"a #1",
-      "16":"a #1"
+      "16":"a #1",
+      "17":"a #1",
+      "18":"a #1"
     },
     "firefox":{
       "2":"y",
@@ -91,7 +93,17 @@
       "55":"a #3",
       "56":"a #3",
       "57":"a #3",
-      "58":"a #3"
+      "58":"a #3",
+      "59":"a #3",
+      "60":"a #3",
+      "61":"a #3",
+      "62":"a #3",
+      "63":"a #3",
+      "64":"a #3",
+      "65":"a #3",
+      "66":"a #3",
+      "67":"a #3",
+      "68":"a #3"
     },
     "chrome":{
       "4":"n",
@@ -154,7 +166,19 @@
       "61":"a #2",
       "62":"a #2",
       "63":"a #2",
-      "64":"a #2"
+      "64":"a #2",
+      "65":"a #2",
+      "66":"a #2",
+      "67":"a #2",
+      "68":"a #2",
+      "69":"a #2",
+      "70":"a #2",
+      "71":"a #2",
+      "72":"a #2",
+      "73":"a #2",
+      "74":"a #2",
+      "75":"a #2",
+      "76":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -172,6 +196,9 @@
       "10":"a #5",
       "10.1":"a #5",
       "11":"a #5",
+      "11.1":"a #5",
+      "12":"a #5",
+      "12.1":"a #5",
       "TP":"a #5"
     },
     "opera":{
@@ -220,7 +247,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -235,7 +271,10 @@
       "9.3":"y #4",
       "10.0-10.2":"y #4",
       "10.3":"y #4",
-      "11":"y #4"
+      "11.0-11.2":"y #4",
+      "11.3-11.4":"y #4",
+      "12.0-12.1":"y #4",
+      "12.2":"y #4"
     },
     "op_mini":{
       "all":"y #4"
@@ -250,7 +289,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"y",
@@ -263,30 +302,36 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"a #5",
       "11":"a #5"
     },
     "and_uc":{
-      "11.4":"y #4"
+      "11.8":"y #4"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"a #2"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #3"
     }
   },
   "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields. One example is the use of password managers.",
@@ -295,10 +340,10 @@
     "2":"Partial support in Chrome refers to the browser intentionally ignoring `autocomplete=\"off\"` when the user uses the browser's autofill functionality. [see bug](https://code.google.com/p/chromium/issues/detail?id=468153#c29)",
     "3":"Partial support in Firefox refers to ignoring `autocomplete=\"off\"` for login forms. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=956906)",
     "4":"Browser does not display previously submitted values as options with `on` value.",
-    "5":"Safari ignores the `off` value for [username, email and password fields](http://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
+    "5":"Safari ignores the `off` value for [username, email and password fields](https://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
-  "usage_perc_y":58.81,
-  "usage_perc_a":38.28,
+  "usage_perc_y":55.14,
+  "usage_perc_a":43.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

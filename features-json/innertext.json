@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Node/innerText",
-      "title":"Mozilla Developer Network (MDN) documentation - innerText"
+      "title":"MDN Web Docs - innerText"
     },
     {
       "url":"https://github.com/whatwg/compat/issues/5",
@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In IE10 and IE11, when using `innerText` (and also `innerHTML` or `outerHTML`) on a `textarea` which has a `placeholder` attribute, the returned HTML/text also uses the `placeholder`'s value as the actual `textarea`'s value. [See bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/)."
+    }
   ],
   "categories":[
     "DOM"
@@ -46,7 +48,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -107,7 +111,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"y",
@@ -170,7 +184,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"u",
@@ -188,6 +214,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -236,7 +265,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -251,7 +289,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -266,7 +307,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"y",
@@ -279,37 +320,43 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
-  "notes":"This test only checks that the property exists and works correctly in a very simple case.\r\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\r\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](http://caniuse.com/#feat=textcontent) property.",
+  "notes":"This test only checks that the property exists and works correctly in a very simple case.\r\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\r\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](https://caniuse.com/#feat=textcontent) property.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":96.69,
+  "usage_perc_y":98.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

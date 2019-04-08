@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals",
-      "title":"Mozilla Developer Network (MDN) documentation - Template literals"
+      "title":"MDN Web Docs - Template literals"
     },
     {
       "url":"https://ponyfoo.com/articles/es6-template-strings-in-depth",
@@ -17,7 +17,6 @@
     
   ],
   "categories":[
-    "JS",
     "JS"
   ],
   "stats":{
@@ -35,7 +34,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -96,7 +97,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -159,7 +170,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -177,6 +200,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y #1",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -225,7 +251,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -240,7 +275,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y #1",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -255,7 +293,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -268,41 +306,47 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Safari 12 [sometimes garbage collects](https://bugs.webkit.org/show_bug.cgi?id=190756) the cached TemplateStrings used by Tagged Template Literals"
   },
-  "usage_perc_y":78.98,
+  "usage_perc_y":91.89,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"",
-  "keywords":"",
+  "parent":"es6",
+  "keywords":"``,multiline",
   "ie_id":"templatestringses6",
   "chrome_id":"4743002513735680",
   "firefox_id":"",

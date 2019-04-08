@@ -1,7 +1,7 @@
 {
   "title":"Intrinsic & Extrinsic Sizing",
   "description":"Allows for the heights and widths to be specified in intrinsic values using the `max-content`, `min-content`, `fit-content` and `stretch` (formerly `fill`) properties.",
-  "spec":"http://www.w3.org/TR/css3-sizing/",
+  "spec":"https://www.w3.org/TR/css3-sizing/",
   "status":"wd",
   "links":[
     {
@@ -32,7 +32,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -93,7 +95,17 @@
       "55":"a x #1 #2 #3",
       "56":"a x #1 #2 #3",
       "57":"a x #1 #2 #3",
-      "58":"a x #1 #2 #3"
+      "58":"a x #1 #2 #3",
+      "59":"a x #1 #2 #3",
+      "60":"a x #1 #2 #3",
+      "61":"a x #1 #2 #3",
+      "62":"a x #1 #2 #3",
+      "63":"a x #1 #2 #3",
+      "64":"a x #1 #2 #3",
+      "65":"a x #1 #2 #3",
+      "66":"y #2",
+      "67":"y #2",
+      "68":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -156,7 +168,19 @@
       "61":"y #3 #4",
       "62":"y #3 #4",
       "63":"y #3 #4",
-      "64":"y #3 #4"
+      "64":"y #3 #4",
+      "65":"y #3 #4",
+      "66":"y #3 #4",
+      "67":"y #3 #4",
+      "68":"y #3 #4",
+      "69":"y #3 #4",
+      "70":"y #3 #4",
+      "71":"y #3 #4",
+      "72":"y #3 #4",
+      "73":"y #3 #4",
+      "74":"y #3 #4",
+      "75":"y #3 #4",
+      "76":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -174,6 +198,9 @@
       "10":"a x #3",
       "10.1":"a x #3",
       "11":"a #3",
+      "11.1":"a #3",
+      "12":"a #3",
+      "12.1":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -222,7 +249,16 @@
       "46":"y #3 #4",
       "47":"y #3 #4",
       "48":"y #3 #4",
-      "49":"y #3 #4"
+      "49":"y #3 #4",
+      "50":"y #3 #4",
+      "51":"y #3 #4",
+      "52":"y #3 #4",
+      "53":"y #3 #4",
+      "54":"y #3 #4",
+      "55":"y #3 #4",
+      "56":"y #3 #4",
+      "57":"y #3 #4",
+      "58":"y #3 #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -237,7 +273,10 @@
       "9.3":"a x #3",
       "10.0-10.2":"a x #3",
       "10.3":"a x #3",
-      "11":"a x #3"
+      "11.0-11.2":"a x #3",
+      "11.3-11.4":"a x #3",
+      "12.0-12.1":"a x #3",
+      "12.2":"a x #3"
     },
     "op_mini":{
       "all":"n"
@@ -252,7 +291,7 @@
       "4.2-4.3":"n",
       "4.4":"y x #3",
       "4.4.3-4.4.4":"y x #3",
-      "56":"y #3 #4"
+      "67":"y #3 #4"
     },
     "bb":{
       "7":"n",
@@ -265,41 +304,47 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y #3 #4"
+      "46":"y #3 #4"
     },
     "and_chr":{
-      "61":"y #3 #4"
+      "71":"y #3 #4"
     },
     "and_ff":{
-      "55":"a x #1 #2 #3"
+      "64":"a x #1 #2 #3"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y x #3"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y x #3",
-      "5":"y #3 #4"
+      "5.0-5.4":"y #3 #4",
+      "6.2-6.4":"y #3 #4",
+      "7.2-7.4":"y #3 #4",
+      "8.2":"y #3 #4"
     },
     "and_qq":{
       "1.2":"y x #3"
     },
     "baidu":{
       "7.12":"y #3 #4"
+    },
+    "kaios":{
+      "2.5":"a x #1 #2 #3"
     }
   },
   "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content)\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",
   "notes_by_num":{
-    "1":"Firefox does not support the `height`/`min-height`/`max-height` properties, only `width`. See [test case](http://codepen.io/shshaw/pen/Kiwaz), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=567039).",
-    "2":"Firefox currently supports the `-moz-available` property rather than `-moz-stretch`.",
-    "3":"Does not support the `flex-basis` property. See [specs](http://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property), [Blink bug](https://codereview.chromium.org/1304853002/), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887).",
+    "1":"Firefox does not support the `height`/`min-height`/`max-height` properties, only `width`. See [test case](https://codepen.io/shshaw/pen/Kiwaz), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=567039).",
+    "2":"Firefox supports the `-moz-available` keyword rather than `stretch`. [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1495868)",
+    "3":"Does not support the `flex-basis` property. See [specs](https://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property), [Blink bug](https://codereview.chromium.org/1304853002/), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887).",
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2)"
   },
-  "usage_perc_y":70.06,
-  "usage_perc_a":18.74,
+  "usage_perc_y":73.21,
+  "usage_perc_a":17.94,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

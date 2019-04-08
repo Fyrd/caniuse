@@ -1,15 +1,15 @@
 {
   "title":"CSS Hyphenation",
   "description":"Method of controlling when words at the end of lines should be hyphenated using the \"hyphens\" property.",
-  "spec":"http://www.w3.org/TR/css3-text/#hyphenation",
+  "spec":"https://www.w3.org/TR/css3-text/#hyphenation",
   "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en/CSS/hyphens",
-      "title":"Mozilla Developer Network (MDN) documentation - CSS hyphens"
+      "title":"MDN Web Docs - CSS hyphens"
     },
     {
-      "url":"http://blog.fontdeck.com/post/9037028497/hyphens",
+      "url":"http://clagnut.com/blog/2394",
       "title":"Blog post"
     },
     {
@@ -17,7 +17,7 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"https://crbug.com/605840",
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=605840",
       "title":"Chrome bug for implementing hyphenation"
     }
   ],
@@ -42,7 +42,9 @@
       "13":"y x",
       "14":"y x",
       "15":"y x",
-      "16":"y x"
+      "16":"y x",
+      "17":"y x",
+      "18":"y x"
     },
     "firefox":{
       "2":"n",
@@ -103,7 +105,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -166,7 +178,19 @@
       "61":"a #1",
       "62":"a #1",
       "63":"a #1",
-      "64":"a #1"
+      "64":"a #1",
+      "65":"a #1",
+      "66":"a #1",
+      "67":"a #1",
+      "68":"a #1",
+      "69":"a #1",
+      "70":"a #1",
+      "71":"a #1",
+      "72":"a #1",
+      "73":"a #1",
+      "74":"a #1",
+      "75":"a #1",
+      "76":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -184,6 +208,9 @@
       "10":"y x",
       "10.1":"y x",
       "11":"y x",
+      "11.1":"y x",
+      "12":"y x",
+      "12.1":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -232,7 +259,16 @@
       "46":"a #1",
       "47":"a #1",
       "48":"a #1",
-      "49":"a #1"
+      "49":"a #1",
+      "50":"a #1",
+      "51":"a #1",
+      "52":"a #1",
+      "53":"a #1",
+      "54":"a #1",
+      "55":"a #1",
+      "56":"a #1",
+      "57":"a #1",
+      "58":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -247,7 +283,10 @@
       "9.3":"y x",
       "10.0-10.2":"y x",
       "10.3":"y x",
-      "11":"y x"
+      "11.0-11.2":"y x",
+      "11.3-11.4":"y x",
+      "12.0-12.1":"y x",
+      "12.2":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -262,7 +301,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"a #1"
+      "67":"a #1"
     },
     "bb":{
       "7":"n",
@@ -275,38 +314,44 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"a #1"
+      "71":"a #1"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x"
+      "11.8":"a"
     },
     "samsung":{
       "4":"n",
-      "5":"a #1"
+      "5.0-5.4":"a #1",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Chrome < 55 and Android 4.0 Browser support \"-webkit-hyphens: none\", but not the \"auto\" property. It is [advisable to set the @lang attribute](http://blog.adrianroselli.com/2015/01/on-use-of-lang-attribute.html) on the HTML element to enable hyphenation support and improve accessibility.",
   "notes_by_num":{
-    "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [see commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://crbug.com/652964)."
+    "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964)."
   },
-  "usage_perc_y":22.8,
-  "usage_perc_a":64.13,
+  "usage_perc_y":26.16,
+  "usage_perc_a":67.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"hyphen,shy",

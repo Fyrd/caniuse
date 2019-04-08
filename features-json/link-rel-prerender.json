@@ -1,18 +1,20 @@
 {
   "title":"Resource Hints: prerender",
   "description":"Gives a hint to the browser to render the specified page in the background, speeding up page load if the user navigates to it. This is indicated using `<link rel=\"prerender\" href=\"(url)\">`",
-  "spec":"http://www.w3.org/TR/resource-hints/#prerender",
+  "spec":"https://www.w3.org/TR/resource-hints/#prerender",
   "status":"wd",
   "links":[
     {
       "url":"https://msdn.microsoft.com/en-us/library/dn265039(v=vs.85).aspx",
       "title":"Prerender and prefetch support"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=730101",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
-    {
-      "description":"Bug to [implement in Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=730101)"
-    }
+    
   ],
   "categories":[
     "DOM"
@@ -32,7 +34,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -93,7 +97,17 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"n"
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n"
     },
     "chrome":{
       "4":"n",
@@ -150,13 +164,25 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"n",
-      "59":"n",
-      "60":"n",
-      "61":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -174,6 +200,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -222,7 +251,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -237,7 +275,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -252,7 +293,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -265,37 +306,43 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"n"
+      "64":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
-  "notes":"",
+  "notes":"Chrome treats the prerender hint as a [NoState Prefetch](https://developers.google.com/web/updates/2018/07/nostate-prefetch) instead, and unlike a full prerender it wont execute JavaScript or render any part of the page in advance.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":41.2,
+  "usage_perc_y":70.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

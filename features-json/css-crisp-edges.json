@@ -1,12 +1,12 @@
 {
   "title":"Crisp edges/pixelated images",
   "description":"Scales images with an algorithm that preserves edges and contrast, without smoothing colors or introducing blur. This is intended for images such as pixel art. Official values that accomplish this for the `image-rendering` property are `crisp-edges` and `pixelated`.",
-  "spec":"http://dev.w3.org/csswg/css-images-3/#valdef-image-rendering-crisp-edges",
+  "spec":"https://drafts.csswg.org/css-images-3/#valdef-image-rendering-crisp-edges",
   "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering",
-      "title":"Mozilla Developer Network (MDN) documentation - CSS Image rendering"
+      "title":"MDN Web Docs - CSS Image rendering"
     },
     {
       "url":"http://updates.html5rocks.com/2015/01/pixelated",
@@ -45,7 +45,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -106,7 +108,17 @@
       "55":"y x #3",
       "56":"y x #3",
       "57":"y x #3",
-      "58":"y x #3"
+      "58":"y x #3",
+      "59":"y x #3",
+      "60":"y x #3",
+      "61":"y x #3",
+      "62":"y x #3",
+      "63":"y x #3",
+      "64":"y x #3",
+      "65":"y #3",
+      "66":"y #3",
+      "67":"y #3",
+      "68":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -169,7 +181,19 @@
       "61":"y #4",
       "62":"y #4",
       "63":"y #4",
-      "64":"y #4"
+      "64":"y #4",
+      "65":"y #4",
+      "66":"y #4",
+      "67":"y #4",
+      "68":"y #4",
+      "69":"y #4",
+      "70":"y #4",
+      "71":"y #4",
+      "72":"y #4",
+      "73":"y #4",
+      "74":"y #4",
+      "75":"y #4",
+      "76":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -187,6 +211,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -235,7 +262,16 @@
       "46":"y #4",
       "47":"y #4",
       "48":"y #4",
-      "49":"y #4"
+      "49":"y #4",
+      "50":"y #4",
+      "51":"y #4",
+      "52":"y #4",
+      "53":"y #4",
+      "54":"y #4",
+      "55":"y #4",
+      "56":"y #4",
+      "57":"y #4",
+      "58":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -250,7 +286,10 @@
       "9.3":"a x #3 #6",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -265,7 +304,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y #4"
+      "67":"y #4"
     },
     "bb":{
       "7":"n",
@@ -278,30 +317,36 @@
       "11.5":"n",
       "12":"y x #3",
       "12.1":"y x #3",
-      "37":"y #4"
+      "46":"y #4"
     },
     "and_chr":{
-      "61":"y #4"
+      "71":"y #4"
     },
     "and_ff":{
-      "55":"y x #3"
+      "64":"y x #3"
     },
     "ie_mob":{
       "10":"a x #2 #5",
       "11":"a x #2 #5"
     },
     "and_uc":{
-      "11.4":"a x #1 #6"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y #4",
-      "5":"y #4"
+      "5.0-5.4":"y #4",
+      "6.2-6.4":"y #4",
+      "7.2-7.4":"y #4",
+      "8.2":"y #4"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"y #4"
+    },
+    "kaios":{
+      "2.5":"y #6"
     }
   },
   "notes":"Note that prefixes apply to the value (e.g. `-moz-crisp-edges`), not the `image-rendering` property.",
@@ -313,8 +358,8 @@
     "5":"Only works on `<img>`, not CSS backgrounds or `<canvas>`.",
     "6":"Only works on `<img>` and CSS backgrounds, _not_ `<canvas>`. "
   },
-  "usage_perc_y":77.51,
-  "usage_perc_a":13.5,
+  "usage_perc_y":89.66,
+  "usage_perc_a":3.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"image-rendering,crisp-edges",

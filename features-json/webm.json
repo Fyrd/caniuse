@@ -1,7 +1,7 @@
 {
   "title":"WebM video format",
   "description":"Multimedia format designed to provide a royalty-free, high-quality open video compression format for use with HTML5 video. WebM supports the video codec VP8 and VP9.",
-  "spec":"http://www.webmproject.org/",
+  "spec":"https://www.webmproject.org",
   "status":"other",
   "links":[
     {
@@ -9,11 +9,11 @@
       "title":"Codec for IE9 support"
     },
     {
-      "url":"http://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
+      "url":"https://www.broken-links.com/2010/09/01/playing-webm-in-safari-with-plugins/",
       "title":"Info on supporting WebM in Safari"
     },
     {
-      "url":"http://webmproject.org",
+      "url":"https://www.webmproject.org",
       "title":"Official website"
     },
     {
@@ -21,7 +21,7 @@
       "title":"has.js test"
     },
     {
-      "url":"http://perian.org/",
+      "url":"https://www.perian.org",
       "title":"Perian :Mac OSX Webm Codec install"
     }
   ],
@@ -46,7 +46,9 @@
       "13":"p",
       "14":"a",
       "15":"a",
-      "16":"a"
+      "16":"a",
+      "17":"a",
+      "18":"a"
     },
     "firefox":{
       "2":"n",
@@ -107,7 +109,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -170,7 +182,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -188,6 +212,9 @@
       "10":"p",
       "10.1":"p",
       "11":"p",
+      "11.1":"p",
+      "12":"p",
+      "12.1":"p",
       "TP":"p"
     },
     "opera":{
@@ -236,7 +263,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -251,7 +287,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -266,7 +305,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -279,38 +318,44 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a"
+      "46":"a"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"p",
       "11":"p"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"a",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all. MS Edge supports VP9 from MSE sources, also progressive sources are not supported by Edge.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":72.67,
-  "usage_perc_a":4.36,
+  "usage_perc_y":76.49,
+  "usage_perc_a":3.77,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

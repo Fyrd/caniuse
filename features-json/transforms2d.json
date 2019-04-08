@@ -1,7 +1,7 @@
 {
   "title":"CSS3 2D Transforms",
   "description":"Method of transforming an element including rotating, scaling, etc. Includes support for `transform` as well as `transform-origin` properties.",
-  "spec":"http://www.w3.org/TR/css3-2d-transforms/",
+  "spec":"https://www.w3.org/TR/css3-2d-transforms/",
   "status":"wd",
   "links":[
     {
@@ -10,7 +10,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/transform",
-      "title":"Mozilla Developer Network (MDN) documentation - CSS transform"
+      "title":"MDN Web Docs - CSS transform"
     },
     {
       "url":"http://www.webresourcesdepot.com/cross-browser-css-transforms-csssandpaper/",
@@ -62,7 +62,9 @@
       "13":"y #1",
       "14":"y #1",
       "15":"y #1",
-      "16":"y #1"
+      "16":"y #1",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -123,7 +125,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"y x",
@@ -186,7 +198,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -204,6 +228,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -252,7 +279,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -267,7 +303,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -282,7 +321,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"y x",
@@ -295,37 +334,43 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y x"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"The scale transform can be emulated in IE < 9 using Microsoft's \"zoom\" extension, others are (not easily) possible using the MS Matrix filter",
   "notes_by_num":{
     "1":"Does not support CSS transforms on SVG elements (transform attribute can be used instead)"
   },
-  "usage_perc_y":94.1,
+  "usage_perc_y":96.87,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

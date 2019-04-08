@@ -1,12 +1,12 @@
 {
   "title":":in-range and :out-of-range CSS pseudo-classes",
   "description":"If a temporal or number `<input>` has `max` and/or `min` attributes, then `:in-range` matches when the value is within the specified range and `:out-of-range` matches when the value is outside the specified range. If there are no range constraints, then neither pseudo-class matches.",
-  "spec":"http://www.w3.org/TR/selectors4/#range-pseudos",
+  "spec":"https://www.w3.org/TR/selectors4/#range-pseudos",
   "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:out-of-range",
-      "title":"Mozilla Developer Network (MDN) documentation - CSS :out-of-range"
+      "title":"MDN Web Docs - CSS :out-of-range"
     },
     {
       "url":"https://html.spec.whatwg.org/multipage/scripting.html#selector-in-range",
@@ -34,7 +34,9 @@
       "13":"a #2",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"a #2",
+      "17":"a #2",
+      "18":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -95,7 +97,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -158,7 +170,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -176,6 +200,9 @@
       "10":"a #2 #3",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -224,7 +251,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -239,7 +275,10 @@
       "9.3":"a #2 #3",
       "10.0-10.2":"a #2 #3",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -254,7 +293,7 @@
       "4.2-4.3":"a #2",
       "4.4":"a #2",
       "4.4.3-4.4.4":"a #2",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -267,30 +306,36 @@
       "11.5":"a #2",
       "12":"a #2",
       "12.1":"a #2",
-      "37":"a #2"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a #2"
+      "11.8":"y"
     },
     "samsung":{
       "4":"a #2",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #3"
     }
   },
   "notes":"Note that `<input type=\"range\">` can never match `:out-of-range` because the user cannot input such a value, and if the initial value is outside the range, the browser immediately clamps it to the minimum or maximum (as appropriate) bound of the range.",
@@ -299,8 +344,8 @@
     "2":"`:in-range` also incorrectly matches temporal and `number` inputs which don't have `min` or `max` attributes. See [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7200501/), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=603268), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156558).",
     "3":"`:in-range` and `:out-of-range` incorrectly match inputs which are disabled or readonly. See [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7190958/), [Mozilla bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1264157), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156530), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=602568)."
   },
-  "usage_perc_y":71.34,
-  "usage_perc_a":21.34,
+  "usage_perc_y":87.33,
+  "usage_perc_a":8.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"in,out,of,range,:in-range,:out-of-range",

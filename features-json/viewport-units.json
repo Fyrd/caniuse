@@ -1,11 +1,11 @@
 {
   "title":"Viewport units: vw, vh, vmin, vmax",
   "description":"Length units representing a percentage of the current viewport dimensions: width (vw), height (vh), the smaller of the two (vmin), or the larger of the two (vmax).",
-  "spec":"http://www.w3.org/TR/css3-values/#viewport-relative-lengths",
+  "spec":"https://www.w3.org/TR/css3-values/#viewport-relative-lengths",
   "status":"cr",
   "links":[
     {
-      "url":"http://css-tricks.com/viewport-sized-typography/",
+      "url":"https://css-tricks.com/viewport-sized-typography/",
       "title":"Blog post"
     },
     {
@@ -17,7 +17,7 @@
       "title":"Buggyfill - Polyfill that fixes buggy support"
     },
     {
-      "url":"http://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
+      "url":"https://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
       "title":"Back-Forward issue blog post"
     },
     {
@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"In Firefox there is a [documented bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1221721) where `100vh` has no effect on any element with it's `display` property set to `table`."
+      "description":"In Firefox there is a [documented bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1221721) where `100vh` has no effect on any element with its `display` property set to `table`."
     },
     {
       "description":"Chrome does not support viewport units for border widths, column gaps, transform values, box shadows or in `calc()` until version 34."
@@ -48,7 +48,7 @@
       "description":"In IE 10 and 11, using `vw` units with 3D transforms causes unexpected behavior"
     },
     {
-      "description":"Currently all browsers but Firefox incorrectly consider 100vw to be the entire page width, including vertical scroll bar, which can [cause a horizontal scroll bar](http://codepen.io/anon/pen/ZGYNWZ) when `overflow: auto` is set."
+      "description":"Currently all browsers but Firefox incorrectly consider 100vw to be the entire page width, including vertical scroll bar, which can [cause a horizontal scroll bar](https://codepen.io/anon/pen/ZGYNWZ) when `overflow: auto` is set."
     },
     {
       "description":"IE9 does not calculate viewport units correctly when the browser or OS is zoomed."
@@ -57,7 +57,10 @@
       "description":"In IE9 inside an iframe, viewport units will be calculated in the context of the parent window and not the iframe."
     },
     {
-      "description":"`vh` on iOS is reported to include the height of the bottom toolbar in the height calculation, and the width of the sidebar (bookmarks) in the `vw` width calculation."
+      "description":"On iOS Safari and Chrome for Android, [`100vw` `100vh` are sized to the 'largest possible viewport' where they may be larger than `<html> 100%` being the 'smallest possible viewport'](https://developers.google.com/web/updates/2016/12/url-bar-resizing), all during the user's scrolling. On Safari for iPad with the sidebar on, the 'largest possible viewport' may be when the content is scrolled until it fills all the area beneath the blurred sidebar."
+    },
+    {
+      "description":"IE and Edge truncate all units to 2 decimals places. Lengths coming from fractions may not be rendered with the expected value."
     }
   ],
   "categories":[
@@ -78,7 +81,9 @@
       "13":"a #2",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -139,7 +144,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -202,7 +217,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -220,6 +247,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -268,7 +298,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -283,7 +322,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -298,7 +340,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -311,30 +353,36 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"a #2",
       "11":"a #2"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -343,8 +391,8 @@
     "2":"Partial support refers to not supporting the \"vmax\" unit. ",
     "3":"Partial support in iOS7 is due to buggy behavior of the \"vh\" unit (see workarounds: [1](https://gist.github.com/pburtchaell/e702f441ba9b3f76f587), [2](https://gist.github.com/BenMorel/e9e34c08360ebbbd0634))."
   },
-  "usage_perc_y":88.55,
-  "usage_perc_a":4.64,
+  "usage_perc_y":93.02,
+  "usage_perc_a":2.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage",

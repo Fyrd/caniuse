@@ -1,11 +1,11 @@
 {
   "title":"Date and time input types",
-  "description":"Form field widget to easily allow users to enter a date, time or both, generally by using a calendar/time input widget.",
+  "description":"Form field widgets to easily allow users to enter a date, time or both, generally by using a calendar/time input widget. Refers to supporting the following input types: `date`, `time`, `datetime-local`, `month` & `week`.",
   "spec":"https://html.spec.whatwg.org/multipage/forms.html#date-state-(type=date)",
   "status":"ls",
   "links":[
     {
-      "url":"http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-cross-browser-datepickers-within-minutes/",
+      "url":"https://code.tutsplus.com/tutorials/quick-tip-create-cross-browser-datepickers-in-minutes--net-20236",
       "title":"Datepicker tutorial w/polyfill"
     },
     {
@@ -23,12 +23,14 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=888320",
       "title":"Bug on Firefox support"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=119175",
+      "title":"Bug for WebKit/Safari"
     }
   ],
   "bugs":[
-    {
-      "description":"Chrome for Android grays out dates that are out of range (using `min` and `max` attributes), but does not prevent the user from selecting these dates."
-    }
+    
   ],
   "categories":[
     "HTML5"
@@ -48,7 +50,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -108,8 +112,18 @@
       "54":"n d #4",
       "55":"n d #4",
       "56":"n d #4",
-      "57":"y",
-      "58":"y"
+      "57":"a #5",
+      "58":"a #5",
+      "59":"a #5",
+      "60":"a #5",
+      "61":"a #5",
+      "62":"a #5",
+      "63":"a #5",
+      "64":"a #5",
+      "65":"a #5",
+      "66":"a #5",
+      "67":"a #5",
+      "68":"a #5"
     },
     "chrome":{
       "4":"n",
@@ -128,11 +142,11 @@
       "17":"n",
       "18":"n",
       "19":"n",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
+      "20":"a #5",
+      "21":"a #5",
+      "22":"a #5",
+      "23":"a #5",
+      "24":"a #5",
       "25":"y",
       "26":"y",
       "27":"y",
@@ -172,7 +186,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -190,6 +216,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -238,7 +267,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -253,7 +291,10 @@
       "9.3":"a #2",
       "10.0-10.2":"a #2",
       "10.3":"a #2",
-      "11":"a #2"
+      "11.0-11.2":"a #2",
+      "11.3-11.4":"a #2",
+      "12.0-12.1":"a #2",
+      "12.2":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -268,7 +309,7 @@
       "4.2-4.3":"n #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -281,41 +322,48 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #5"
     }
   },
-  "notes":"Older versions of Safari provide date-formatted text fields, but no real calendar widget.\r\n\r\nChrome, Opera, and Microsoft Edge also support the `datetime-local` type for both date and time.\r\n\r\nThere used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336) since only Presto ever fully supported it.",
+  "notes":"There used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336).",
   "notes_by_num":{
     "1":"Partial support in Microsoft Edge refers to supporting `date`, `week`, and `month` input types, and not `time` and `datetime-local`.",
-    "2":"Partial support in iOS Safari refers to not supporting `min`, `max` or `step` attributes",
+    "2":"Partial support in iOS Safari refers to not supporting the `week` input type, nor the `min`, `max` or `step` attributes",
     "3":"Some modified versions of the Android 4.x browser do have support for date/time fields.",
-    "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag."
+    "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
+    "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
   },
-  "usage_perc_y":70.93,
-  "usage_perc_a":10.71,
+  "usage_perc_y":74.8,
+  "usage_perc_a":15.19,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\",input date,datetime-local",

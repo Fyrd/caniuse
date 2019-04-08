@@ -1,6 +1,6 @@
 {
   "title":"Web Animations API",
-  "description":"Lets you create animations that are run in the browser and as well as inspect and manipulate animations created through declarative means like CSS.",
+  "description":"Lets you create animations that are run in the browser, as well as inspect and manipulate animations created through declarative means like CSS.",
   "spec":"http://w3c.github.io/web-animations/",
   "status":"wd",
   "links":[
@@ -43,7 +43,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +106,17 @@
       "55":"a #3",
       "56":"a #3",
       "57":"a #3",
-      "58":"a #3"
+      "58":"a #3",
+      "59":"a #2",
+      "60":"a #2",
+      "61":"a #2",
+      "62":"a #2",
+      "63":"a #2",
+      "64":"a #2",
+      "65":"a #2",
+      "66":"a #2",
+      "67":"a #2",
+      "68":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -167,7 +179,19 @@
       "61":"a #2",
       "62":"a #2",
       "63":"a #2",
-      "64":"a #2"
+      "64":"a #2",
+      "65":"a #2",
+      "66":"a #2",
+      "67":"a #2",
+      "68":"a #2",
+      "69":"a #2",
+      "70":"a #2",
+      "71":"a #2",
+      "72":"a #2",
+      "73":"a #2",
+      "74":"a #2",
+      "75":"a #2",
+      "76":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -184,8 +208,11 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"n",
-      "TP":"n d #4"
+      "11":"n d #4",
+      "11.1":"n d #4",
+      "12":"n d #4",
+      "12.1":"a",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -233,7 +260,16 @@
       "46":"a #2",
       "47":"a #2",
       "48":"a #2",
-      "49":"a #2"
+      "49":"a #2",
+      "50":"a #2",
+      "51":"a #2",
+      "52":"a #2",
+      "53":"a #2",
+      "54":"a #2",
+      "55":"a #2",
+      "56":"a #2",
+      "57":"a #2",
+      "58":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -248,7 +284,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n d #4"
+      "11.0-11.2":"n d #4",
+      "11.3-11.4":"n d #4",
+      "12.0-12.1":"n d #4",
+      "12.2":"a"
     },
     "op_mini":{
       "all":"n"
@@ -263,7 +302,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"a #2"
+      "67":"a #2"
     },
     "bb":{
       "7":"n",
@@ -276,30 +315,36 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a #2"
+      "46":"a #2"
     },
     "and_chr":{
-      "61":"a #2"
+      "71":"a #2"
     },
     "and_ff":{
-      "55":"a #3"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a #2"
+      "11.8":"a #2"
     },
     "samsung":{
       "4":"a #2",
-      "5":"a #2"
+      "5.0-5.4":"a #2",
+      "6.2-6.4":"a #2",
+      "7.2-7.4":"a #2",
+      "8.2":"a #2"
     },
     "and_qq":{
       "1.2":"a #2"
     },
     "baidu":{
       "7.12":"a #2"
+    },
+    "kaios":{
+      "2.5":"a #3"
     }
   },
   "notes":"",
@@ -309,8 +354,8 @@
     "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)",
     "4":"Can be enabled via the \"Experimental Features\" developer menu"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":73.87,
+  "usage_perc_y":0.19,
+  "usage_perc_a":76.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

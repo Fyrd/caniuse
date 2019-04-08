@@ -1,15 +1,15 @@
 {
-  "title":"Shadow DOM v0",
-  "description":"Method of establishing and maintaining functional boundaries between DOM trees and how these trees interact with each other within a document, thus enabling better functional encapsulation within the DOM.",
-  "spec":"http://www.w3.org/TR/shadow-dom/",
-  "status":"wd",
+  "title":"Shadow DOM (deprecated V0 spec)",
+  "description":"Original V0 version of the Shadow DOM specification. See [Shadow DOM V1](#feat=shadow-domv1) for support for the latest version. ",
+  "spec":"https://www.w3.org/TR/shadow-dom/",
+  "status":"unoff",
   "links":[
     {
       "url":"http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html",
       "title":"Shadow DOM Visualizer"
     },
     {
-      "url":"http://www.html5rocks.com/tutorials/webcomponents/shadowdom/",
+      "url":"https://www.html5rocks.com/tutorials/webcomponents/shadowdom/",
       "title":"HTML5Rocks - Shadow DOM 101 article"
     },
     {
@@ -46,7 +46,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -107,7 +109,17 @@
       "55":"n d #1",
       "56":"n d #1",
       "57":"n d #1",
-      "58":"n d #1"
+      "58":"n d #1",
+      "59":"n d #2",
+      "60":"n d #2",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n"
     },
     "chrome":{
       "4":"n",
@@ -170,7 +182,19 @@
       "61":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n"
     },
     "safari":{
       "3.1":"n",
@@ -188,6 +212,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -236,7 +263,16 @@
       "46":"y",
       "47":"y",
       "48":"y",
-      "49":"y"
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -251,7 +287,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -266,7 +305,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -279,44 +318,51 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "71":"y"
     },
     "and_ff":{
-      "55":"n"
+      "64":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y x",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag."
+    "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag.",
+    "2":"Supported in Firefox behind the `dom.webcomponents.shadowdom.enabled` flag."
   },
-  "usage_perc_y":69.92,
+  "usage_perc_y":66.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"web components",
-  "ie_id":"shadowdom",
+  "keywords":"",
+  "ie_id":"",
   "chrome_id":"4507242028072960",
-  "firefox_id":"shadow-dom",
-  "webkit_id":"feature-shadow-dom",
+  "firefox_id":"",
+  "webkit_id":"",
   "shown":true
 }

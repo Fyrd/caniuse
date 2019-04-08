@@ -1,11 +1,11 @@
 {
   "title":"WAI-ARIA Accessibility features",
   "description":"Method of providing ways for people with disabilities to use dynamic web content and web applications.",
-  "spec":"http://www.w3.org/TR/wai-aria/",
+  "spec":"https://www.w3.org/TR/wai-aria/",
   "status":"rec",
   "links":[
     {
-      "url":"http://www.w3.org/WAI/intro/aria",
+      "url":"https://www.w3.org/WAI/intro/aria",
       "title":"Information page"
     },
     {
@@ -13,7 +13,7 @@
       "title":"Links to various test results"
     },
     {
-      "url":"http://en.wikipedia.org/wiki/WAI-ARIA",
+      "url":"https://en.wikipedia.org/wiki/WAI-ARIA",
       "title":"Wikipedia"
     },
     {
@@ -46,7 +46,9 @@
       "13":"a",
       "14":"a",
       "15":"a",
-      "16":"a"
+      "16":"a",
+      "17":"a",
+      "18":"a"
     },
     "firefox":{
       "2":"a",
@@ -107,7 +109,17 @@
       "55":"a",
       "56":"a",
       "57":"a",
-      "58":"a"
+      "58":"a",
+      "59":"a",
+      "60":"a",
+      "61":"a",
+      "62":"a",
+      "63":"a",
+      "64":"a",
+      "65":"a",
+      "66":"a",
+      "67":"a",
+      "68":"a"
     },
     "chrome":{
       "4":"a",
@@ -170,7 +182,19 @@
       "61":"a",
       "62":"a",
       "63":"a",
-      "64":"a"
+      "64":"a",
+      "65":"a",
+      "66":"a",
+      "67":"a",
+      "68":"a",
+      "69":"a",
+      "70":"a",
+      "71":"a",
+      "72":"a",
+      "73":"a",
+      "74":"a",
+      "75":"a",
+      "76":"a"
     },
     "safari":{
       "3.1":"n",
@@ -188,6 +212,9 @@
       "10":"a",
       "10.1":"a",
       "11":"a",
+      "11.1":"a",
+      "12":"a",
+      "12.1":"a",
       "TP":"a"
     },
     "opera":{
@@ -236,7 +263,16 @@
       "46":"a",
       "47":"a",
       "48":"a",
-      "49":"a"
+      "49":"a",
+      "50":"a",
+      "51":"a",
+      "52":"a",
+      "53":"a",
+      "54":"a",
+      "55":"a",
+      "56":"a",
+      "57":"a",
+      "58":"a"
     },
     "ios_saf":{
       "3.2":"a",
@@ -251,7 +287,10 @@
       "9.3":"a",
       "10.0-10.2":"a",
       "10.3":"a",
-      "11":"a"
+      "11.0-11.2":"a",
+      "11.3-11.4":"a",
+      "12.0-12.1":"a",
+      "12.2":"a"
     },
     "op_mini":{
       "all":"a"
@@ -266,7 +305,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "56":"a"
+      "67":"a"
     },
     "bb":{
       "7":"n",
@@ -279,38 +318,44 @@
       "11.5":"a",
       "12":"a",
       "12.1":"a",
-      "37":"a"
+      "46":"a"
     },
     "and_chr":{
-      "61":"a"
+      "71":"a"
     },
     "and_ff":{
-      "55":"a"
+      "64":"a"
     },
     "ie_mob":{
       "10":"a",
       "11":"a"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"a",
-      "5":"a"
+      "5.0-5.4":"a",
+      "6.2-6.4":"a",
+      "7.2-7.4":"a",
+      "8.2":"a"
     },
     "and_qq":{
       "1.2":"a"
     },
     "baidu":{
       "7.12":"a"
+    },
+    "kaios":{
+      "2.5":"a"
     }
   },
-  "notes":"Support for ARIA is rather complex and currently is not fully supported in any browser. For detailed information on partial support see the [ARIA 1.0 Implementation Report](http://www.w3.org/WAI/ARIA/1.0/CR/implementation-report)\r\n",
+  "notes":"Support for ARIA is rather complex and currently is not fully supported in any browser. For detailed information on partial support see the [ARIA 1.0 Implementation Report](https://www.w3.org/WAI/ARIA/1.0/CR/implementation-report)\r\n",
   "notes_by_num":{
     
   },
   "usage_perc_y":0,
-  "usage_perc_a":88.72,
+  "usage_perc_a":94.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"wai,aria",

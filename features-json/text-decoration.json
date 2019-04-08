@@ -1,20 +1,20 @@
 {
   "title":"text-decoration styling",
   "description":"Method of defining the type, style and color of lines in the text-decoration property. These can be defined as shorthand (e.g. `text-decoration: line-through dashed blue`) or as single properties (e.g. `text-decoration-color: blue`)",
-  "spec":"http://www.w3.org/TR/css-text-decor-3/#line-decoration",
+  "spec":"https://www.w3.org/TR/css-text-decor-3/#line-decoration",
   "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style",
-      "title":"Mozilla Developer Network (MDN) documentation - text-decoration-style"
+      "title":"MDN Web Docs - text-decoration-style"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color",
-      "title":"Mozilla Developer Network (MDN) documentation - text-decoration-color"
+      "title":"MDN Web Docs - text-decoration-color"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line",
-      "title":"Mozilla Developer Network (MDN) documentation - text-decoration-line"
+      "title":"MDN Web Docs - text-decoration-line"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6514536-text-decoration-styling",
@@ -22,7 +22,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip",
-      "title":"MDN Documentation for text-decoration-skip"
+      "title":"MDN Web Docs - text-decoration-skip"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=812990",
@@ -50,7 +50,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -111,7 +113,17 @@
       "55":"a #4",
       "56":"a #4",
       "57":"a #4",
-      "58":"a #4"
+      "58":"a #4",
+      "59":"a #4",
+      "60":"a #4",
+      "61":"a #4",
+      "62":"a #4",
+      "63":"a #4",
+      "64":"a #4",
+      "65":"a #4",
+      "66":"a #4",
+      "67":"a #4",
+      "68":"a #4"
     },
     "chrome":{
       "4":"n",
@@ -174,7 +186,19 @@
       "61":"a #5",
       "62":"a #5",
       "63":"a #5",
-      "64":"a #5"
+      "64":"a #5",
+      "65":"a #5",
+      "66":"a #5",
+      "67":"a #5",
+      "68":"a #5",
+      "69":"a #5",
+      "70":"a #5",
+      "71":"a #5",
+      "72":"a #5",
+      "73":"a #5",
+      "74":"a #5",
+      "75":"a #5",
+      "76":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -192,7 +216,10 @@
       "10":"a x #2 #3",
       "10.1":"a x #2 #3",
       "11":"a x #2 #3",
-      "TP":"a x #2 #3"
+      "11.1":"a x #2 #3",
+      "12":"a x #2 #3",
+      "12.1":"a #2 #3",
+      "TP":"a #2 #3"
     },
     "opera":{
       "9":"n",
@@ -240,7 +267,16 @@
       "46":"a #5",
       "47":"a #5",
       "48":"a #5",
-      "49":"a #5"
+      "49":"a #5",
+      "50":"a #5",
+      "51":"a #5",
+      "52":"a #5",
+      "53":"a #5",
+      "54":"a #5",
+      "55":"a #5",
+      "56":"a #5",
+      "57":"a #5",
+      "58":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -255,7 +291,10 @@
       "9.3":"a x #2",
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
-      "11":"a x #2"
+      "11.0-11.2":"a x #2",
+      "11.3-11.4":"a x #2",
+      "12.0-12.1":"a x #2",
+      "12.2":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -270,7 +309,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -283,30 +322,36 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"a #5"
     },
     "and_chr":{
-      "61":"a #5"
+      "71":"a #5"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"a #5"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"a #5",
+      "8.2":"a #5"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #4"
     }
   },
   "notes":"All browsers support the CSS2 version of `text-decoration`, which matches only the `text-decoration-line` values (`underline`, etc.)",
@@ -317,13 +362,13 @@
     "4":"Partial support refers to not supporting the `text-decoration-skip` property.",
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
-  "usage_perc_y":0.04,
-  "usage_perc_a":71.99,
+  "usage_perc_y":0.19,
+  "usage_perc_a":88.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",
   "ie_id":"",
-  "chrome_id":"4896897575682048,5766823203045376",
+  "chrome_id":"5766823203045376",
   "firefox_id":"",
   "webkit_id":"specification-css-text-decoration-level-4",
   "shown":true

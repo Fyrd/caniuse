@@ -6,7 +6,7 @@
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior",
-      "title":"Mozilla Developer Network (MDN) documentation - CSS scroll-behavior"
+      "title":"MDN Web Docs - CSS scroll-behavior"
     },
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=243871",
@@ -38,7 +38,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -99,7 +101,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -159,10 +171,22 @@
       "58":"n d #1 #2",
       "59":"n d #1 #2",
       "60":"n d #1 #2",
-      "61":"n d #1 #2",
-      "62":"n d #1 #2",
-      "63":"n d #1 #2",
-      "64":"n d #1 #2"
+      "61":"y #1",
+      "62":"y #1",
+      "63":"y #1",
+      "64":"y #1",
+      "65":"y #1",
+      "66":"y #1",
+      "67":"y #1",
+      "68":"y #1",
+      "69":"y #1",
+      "70":"y #1",
+      "71":"y #1",
+      "72":"y #1",
+      "73":"y #1",
+      "74":"y #1",
+      "75":"y #1",
+      "76":"y #1"
     },
     "safari":{
       "3.1":"n",
@@ -180,6 +204,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -227,8 +254,17 @@
       "45":"n d #1 #2",
       "46":"n d #1 #2",
       "47":"n d #1 #2",
-      "48":"n d #1 #2",
-      "49":"n d #1 #2"
+      "48":"y #1",
+      "49":"y #1",
+      "50":"y #1",
+      "51":"y #1",
+      "52":"y #1",
+      "53":"y #1",
+      "54":"y #1",
+      "55":"y #1",
+      "56":"y #1",
+      "57":"y #1",
+      "58":"y #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -243,7 +279,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -258,7 +297,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -271,30 +310,36 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "71":"y"
     },
     "and_ff":{
-      "55":"n"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"y"
     },
     "and_qq":{
       "1.2":"n d #1 #2"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
@@ -302,7 +347,7 @@
     "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
   },
-  "usage_perc_y":5.59,
+  "usage_perc_y":70.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

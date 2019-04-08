@@ -1,7 +1,7 @@
 {
   "title":"CSS Masks",
   "description":"Method of displaying part of an element, using a selected image as a mask",
-  "spec":"http://www.w3.org/TR/css-masking-1/",
+  "spec":"https://www.w3.org/TR/css-masking-1/",
   "status":"cr",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"WebPlatform Docs"
     },
     {
-      "url":"http://www.html5rocks.com/en/tutorials/masking/adobe/",
+      "url":"https://www.html5rocks.com/en/tutorials/masking/adobe/",
       "title":"HTML5 Rocks article"
     },
     {
@@ -23,6 +23,10 @@
     {
       "url":"http://lab.iamvdo.me/css-svg-masks",
       "title":"Visual test cases"
+    },
+    {
+      "url":"https://web.archive.org/web/20160505054016/http://thenittygritty.co/css-masking",
+      "title":"Detailed blog post (via The Internet Archive)"
     }
   ],
   "bugs":[
@@ -46,7 +50,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n d #4 #5",
+      "18":"a #6 #7"
     },
     "firefox":{
       "2":"n",
@@ -107,7 +113,17 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -170,7 +186,19 @@
       "61":"a x #1",
       "62":"a x #1",
       "63":"a x #1",
-      "64":"a x #1"
+      "64":"a x #1",
+      "65":"a x #1",
+      "66":"a x #1",
+      "67":"a x #1",
+      "68":"a x #1",
+      "69":"a x #1",
+      "70":"a x #1",
+      "71":"a x #1",
+      "72":"a x #1",
+      "73":"a x #1",
+      "74":"a x #1",
+      "75":"a x #1",
+      "76":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -188,6 +216,9 @@
       "10":"a x #1",
       "10.1":"a x #1",
       "11":"a x #1",
+      "11.1":"a x #1",
+      "12":"a x #1",
+      "12.1":"a x #1",
       "TP":"a x #1"
     },
     "opera":{
@@ -236,7 +267,16 @@
       "46":"a x #1",
       "47":"a x #1",
       "48":"a x #1",
-      "49":"a x #1"
+      "49":"a x #1",
+      "50":"a x #1",
+      "51":"a x #1",
+      "52":"a x #1",
+      "53":"a x #1",
+      "54":"a x #1",
+      "55":"a x #1",
+      "56":"a x #1",
+      "57":"a x #1",
+      "58":"a x #1"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -251,7 +291,10 @@
       "9.3":"a x #1",
       "10.0-10.2":"a x #1",
       "10.3":"a x #1",
-      "11":"a x #1"
+      "11.0-11.2":"a x #1",
+      "11.3-11.4":"a x #1",
+      "12.0-12.1":"a x #1",
+      "12.2":"a x #1"
     },
     "op_mini":{
       "all":"n"
@@ -266,7 +309,7 @@
       "4.2-4.3":"a x #1 #3",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "56":"a x #1"
+      "67":"a x #1"
     },
     "bb":{
       "7":"a x #1",
@@ -279,40 +322,50 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a x #1"
+      "46":"a x #1"
     },
     "and_chr":{
-      "61":"a x #1"
+      "71":"a x #1"
     },
     "and_ff":{
-      "55":"y"
+      "64":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x #1"
+      "11.8":"a x #1"
     },
     "samsung":{
       "4":"a x #1",
-      "5":"a x #1"
+      "5.0-5.4":"a x #1",
+      "6.2-6.4":"a x #1",
+      "7.2-7.4":"a x #1",
+      "8.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
     },
     "baidu":{
       "7.12":"a x #1"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Partial support in WebKit/Blink browsers refers to supporting the mask-image and mask-box-image properties, but lacking support for other parts of the spec.",
     "2":"Partial support in Firefox refers to only support for inline SVG mask elements i.e. mask: url(#foo).",
-    "3":"Partial support refers to supporting the mask-box-image shorthand but not the longhand properties"
+    "3":"Partial support refers to supporting the mask-box-image shorthand but not the longhand properties",
+    "4":"Can be enabled in MS edge behind the \"Enable CSS Masking\" flag.",
+    "5":"Partial support refers to supporting mask-image and mask-size",
+    "6":"Partial support refers to supporting mask-image, mask-size, mask-position, mask-repeat and mask-composite",
+    "7":"Edge also recognizes and supports all the `-webkit-` prefixed equivalents of the unprefixed properties for site compatibility"
   },
-  "usage_perc_y":4.33,
-  "usage_perc_a":85.13,
+  "usage_perc_y":4.09,
+  "usage_perc_a":88.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type,css masking",
