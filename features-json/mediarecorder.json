@@ -200,7 +200,7 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n d #2",
-      "TP":"n d #2"
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -274,8 +274,8 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n",
-      "12.2":"n"
+      "12.0-12.1":"n d #3",
+      "12.2":"n d #3"
     },
     "op_mini":{
       "all":"n"
@@ -338,7 +338,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled via the experimental Web Platform features flag. Does not support audio recording, only video.",
-    "2":"Can be enabled using the Develop > Experimental Features menu."
+    "2":"Can be enabled using the Develop > Experimental Features menu.",
+    "3":"Can be enabled using the Advanced > Experimental Features menu."
   },
   "usage_perc_y":72.14,
   "usage_perc_a":0,
