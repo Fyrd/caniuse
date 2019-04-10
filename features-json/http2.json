@@ -1,12 +1,12 @@
 {
   "title":"HTTP/2 protocol",
   "description":"Networking protocol for low-latency transport of content over the web. Originally started out from the SPDY protocol, now standardized as HTTP version 2.",
-  "spec":"http://http2.github.io/http2-spec/index.html",
+  "spec":"https://tools.ietf.org/html/rfc7540",
   "status":"other",
   "links":[
     {
       "url":"https://en.wikipedia.org/wiki/HTTP/2",
-      "title":"Wikipedia"
+      "title":"Wikipedia article about HTTP/2"
     },
     {
       "url":"https://http2.akamai.com/demo",
@@ -293,7 +293,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "67":"y #3"
     },
     "bb":{
       "7":"n",
@@ -312,7 +312,7 @@
       "71":"y #3"
     },
     "and_ff":{
-      "64":"y"
+      "64":"y #3"
     },
     "ie_mob":{
       "10":"n",
@@ -338,12 +338,11 @@
       "2.5":"y"
     }
   },
-  "notes":"HTTP2 is only supported over TLS(https). See also the precursor of HTTP2, [the SPDY protocol](https://caniuse.com/#feat=spdy), which has been deprecated or removed from most browsers, in favor of HTTP2.",
+  "notes":"HTTP/2 is only supported over TLS (HTTPS). See also the precursor of HTTP/2, [the SPDY protocol](https://caniuse.com/#feat=spdy), which has been deprecated and removed from most browsers, in favor of HTTP/2.",
   "notes_by_num":{
-    "1":"Partial support in IE11 refers to being limited to Windows 10.",
-    "2":"Partial support in Safari refers to being limited to OSX 10.11+",
-    "3":"Only supports HTTP2 if servers support protocol negotiation via ALPN",
-    "4":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
+    "1":"Partial support in Internet Explorer refers to being limited to Windows 10.",
+    "2":"Partial support in Safari refers to being limited to OS X 10.11 El Capitan and newer.",
+    "3":"Only supports HTTP/2 if the server supports protocol negotiation via ALPN."
   },
   "usage_perc_y":88.29,
   "usage_perc_a":2.57,
