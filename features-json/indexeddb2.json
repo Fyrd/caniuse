@@ -326,7 +326,8 @@
       "5.0-5.4":"a #2",
       "6.2-6.4":"a #2",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -343,7 +344,7 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":83.27,
+  "usage_perc_y":83.62,
   "usage_perc_a":1.73,
   "ucprefix":false,
   "parent":"",

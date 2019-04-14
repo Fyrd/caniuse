@@ -342,7 +342,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -362,7 +363,7 @@
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
   },
-  "usage_perc_y":74.8,
+  "usage_perc_y":75.15,
   "usage_perc_a":15.19,
   "ucprefix":false,
   "parent":"forms",

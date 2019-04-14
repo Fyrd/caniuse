@@ -355,7 +355,8 @@
       "5.0-5.4":"a #1 #2",
       "6.2-6.4":"a #1 #2",
       "7.2-7.4":"a #1 #2",
-      "8.2":"a #1 #2"
+      "8.2":"a #1 #2",
+      "9.2":"a #1 #2"
     },
     "and_qq":{
       "1.2":"y"
@@ -375,7 +376,7 @@
     "4":"Does not include increment/decrement buttons, but does supports increment/decrement via arrow up & down keys."
   },
   "usage_perc_y":45.37,
-  "usage_perc_a":51.12,
+  "usage_perc_a":51.47,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"spinner,input type=\"number\"",

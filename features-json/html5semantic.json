@@ -340,7 +340,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -357,7 +358,7 @@
     "1":"Partial support refers to missing the default styling, as technically the elements are considered \"[unknown](https://developer.mozilla.org/en-US/docs/Web/API/HTMLUnknownElement)\". This is easily taken care of by manually setting the default `display` value for each tag.",
     "2":"Partial support refers to only the `<main>` element (added later to the spec) being \"unknown\", though it can still be used and styled."
   },
-  "usage_perc_y":93.14,
+  "usage_perc_y":93.49,
   "usage_perc_a":5.36,
   "ucprefix":false,
   "parent":"",

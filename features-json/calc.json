@@ -368,7 +368,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -386,7 +387,7 @@
     "2":"Partial support in IE9 refers to the browser crashing when used as a `background-position` value.",
     "3":"Partial support in IE10/IE11 refers to calc not working properly with various use cases mentioned in known issues"
   },
-  "usage_perc_y":93.11,
+  "usage_perc_y":93.47,
   "usage_perc_a":2.84,
   "ucprefix":false,
   "parent":"",

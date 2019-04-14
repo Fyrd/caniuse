@@ -331,7 +331,8 @@
       "5.0-5.4":"a #2",
       "6.2-6.4":"a #2",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"a #2"
@@ -350,7 +351,7 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":88.42,
+  "usage_perc_y":88.78,
   "usage_perc_a":9.79,
   "ucprefix":false,
   "parent":"",

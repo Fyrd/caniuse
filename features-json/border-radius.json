@@ -349,7 +349,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -366,7 +367,7 @@
     "1":"Safari 6.1 and earlier did not apply `border-radius` correctly to image borders: https://stackoverflow.com/q/17202128",
     "2":"Dotted and dashed rounded border corners are rendered as solid in Firefox. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=382721)"
   },
-  "usage_perc_y":96.87,
+  "usage_perc_y":97.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

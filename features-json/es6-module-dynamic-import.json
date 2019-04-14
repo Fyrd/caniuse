@@ -338,7 +338,8 @@
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -354,7 +355,7 @@
   "notes_by_num":{
     "1":"Support can be enabled via `javascript.options.dynamicImport` flag. See [bug 1517546](https://bugzil.la/1517546)."
   },
-  "usage_perc_y":77.51,
+  "usage_perc_y":77.86,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es6-module",

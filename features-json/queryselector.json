@@ -336,7 +336,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -352,7 +353,7 @@
   "notes_by_num":{
     "1":"Partial support in IE8 is due to being limited to [CSS 2.1 selectors](/#feat=css-sel2) and a small subset of [CSS 3 selectors](/#feat=css-sel3) (see notes there). Additionally, it will have trouble with selectors including unrecognized tags (for example HTML5 ones)."
   },
-  "usage_perc_y":98.47,
+  "usage_perc_y":98.83,
   "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
