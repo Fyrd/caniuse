@@ -326,7 +326,8 @@
       "5.0-5.4":"y #6",
       "6.2-6.4":"y #6",
       "7.2-7.4":"y #6",
-      "8.2":"y #6"
+      "8.2":"y #6",
+      "9.2":"y #6"
     },
     "and_qq":{
       "1.2":"y"
@@ -347,7 +348,7 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":96.35,
+  "usage_perc_y":96.71,
   "usage_perc_a":2.26,
   "ucprefix":false,
   "parent":"form-validation",

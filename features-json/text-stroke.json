@@ -332,7 +332,8 @@
       "5.0-5.4":"y x",
       "6.2-6.4":"y x",
       "7.2-7.4":"y x",
-      "8.2":"y x"
+      "8.2":"y x",
+      "9.2":"y x"
     },
     "and_qq":{
       "1.2":"y x"
@@ -349,7 +350,7 @@
     "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":93.65,
+  "usage_perc_y":94,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -326,7 +326,8 @@
       "5.0-5.4":"y #2",
       "6.2-6.4":"y #2",
       "7.2-7.4":"y #2",
-      "8.2":"y #2"
+      "8.2":"y #2",
+      "9.2":"y #2"
     },
     "and_qq":{
       "1.2":"y #2"
@@ -344,7 +345,7 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":89.39,
+  "usage_perc_y":89.74,
   "usage_perc_a":6.24,
   "ucprefix":false,
   "parent":"",

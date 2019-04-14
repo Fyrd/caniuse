@@ -322,7 +322,8 @@
       "5.0-5.4":"a #1",
       "6.2-6.4":"a #1",
       "7.2-7.4":"a #1",
-      "8.2":"a #1"
+      "8.2":"a #1",
+      "9.2":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -340,7 +341,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.03,
-  "usage_perc_a":96.67,
+  "usage_perc_a":97.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

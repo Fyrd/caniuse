@@ -346,7 +346,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -365,7 +366,7 @@
     "3":"Partial support refers to no support for datalists on non-text fields (e.g. number, [range](https://bugzilla.mozilla.org/show_bug.cgi?id=841942), [color](https://bugzilla.mozilla.org/show_bug.cgi?id=960984)).",
     "4":"Partial support in EDGE refers [to disappearing option elements on focusing the input element via tab](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/20066595/)."
   },
-  "usage_perc_y":64.99,
+  "usage_perc_y":65.34,
   "usage_perc_a":13.49,
   "ucprefix":false,
   "parent":"forms",

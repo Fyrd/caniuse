@@ -332,7 +332,8 @@
       "5.0-5.4":"a x #1",
       "6.2-6.4":"a x #1",
       "7.2-7.4":"a x #1",
-      "8.2":"a x #1"
+      "8.2":"a x #1",
+      "9.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -350,7 +351,7 @@
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
   "usage_perc_y":18.4,
-  "usage_perc_a":72.4,
+  "usage_perc_a":72.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

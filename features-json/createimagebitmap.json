@@ -322,7 +322,8 @@
       "5.0-5.4":"u",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -342,7 +343,7 @@
     "4":"No support for resizeWidth, resizeHeight and resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)",
     "5":"No support for `createImageBitmap(source, options)` interface. see [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)"
   },
-  "usage_perc_y":69.83,
+  "usage_perc_y":70.19,
   "usage_perc_a":5.44,
   "ucprefix":false,
   "parent":"",

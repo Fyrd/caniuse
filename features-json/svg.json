@@ -353,7 +353,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -370,7 +371,7 @@
     "1":"Partial support in Android 3 & 4 refers to not supporting masking.",
     "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](https://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
   },
-  "usage_perc_y":98.1,
+  "usage_perc_y":98.46,
   "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",

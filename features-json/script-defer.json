@@ -340,7 +340,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -357,7 +358,7 @@
     "1":"Partial support in older IE refers to a buggy implementation (see issue).",
     "2":"Deferred scripts may run after DOMContentLoaded - https://bugzilla.mozilla.org/show_bug.cgi?id=688580"
   },
-  "usage_perc_y":96.55,
+  "usage_perc_y":96.9,
   "usage_perc_a":0.34,
   "ucprefix":false,
   "parent":"",

@@ -338,7 +338,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -355,7 +356,7 @@
     "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
     "2":"Partial support is due to bugs present (see known issues)"
   },
-  "usage_perc_y":91,
+  "usage_perc_y":91.35,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

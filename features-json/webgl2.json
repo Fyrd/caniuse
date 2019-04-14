@@ -326,7 +326,8 @@
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n d #3"
@@ -346,7 +347,7 @@
     "4":"Has an option to enable via the \"Experimental Features\" developer menu but fails 77% of the WebGL2 conformance tests make it nearly unusable and has not seen any development activity in over 3 years",
     "5":"Enabled by default for Nightly and Dev Edition"
   },
-  "usage_perc_y":70.73,
+  "usage_perc_y":71.09,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

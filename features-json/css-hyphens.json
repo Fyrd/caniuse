@@ -334,7 +334,8 @@
       "5.0-5.4":"a #1",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -350,7 +351,7 @@
   "notes_by_num":{
     "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964)."
   },
-  "usage_perc_y":26.16,
+  "usage_perc_y":26.52,
   "usage_perc_a":67.44,
   "ucprefix":false,
   "parent":"",

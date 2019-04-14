@@ -336,7 +336,8 @@
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -354,7 +355,7 @@
     "2":"Supports the subset of the syntax for resolution switching (using the `x` descriptor), but not the full syntax that can be used with `sizes` (using the `w` descriptor).",
     "3":"Intermittently displays distorted images due to bug present (see known issues)"
   },
-  "usage_perc_y":92.03,
+  "usage_perc_y":92.38,
   "usage_perc_a":0.32,
   "ucprefix":false,
   "parent":"",
