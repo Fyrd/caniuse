@@ -309,10 +309,10 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y #3"
+      "73":"y #3"
     },
     "and_ff":{
-      "64":"y #3"
+      "66":"y #3"
     },
     "ie_mob":{
       "10":"n",
@@ -343,7 +343,8 @@
   "notes_by_num":{
     "1":"Partial support in Internet Explorer refers to being limited to Windows 10.",
     "2":"Partial support in Safari refers to being limited to OS X 10.11 El Capitan and newer.",
-    "3":"Only supports HTTP/2 if the server supports protocol negotiation via ALPN."
+    "3":"Only supports HTTP/2 if the server supports protocol negotiation via ALPN.",
+    "4":"Only supports HTTP2 if servers support protocol negotiation via ALPN"
   },
   "usage_perc_y":88.65,
   "usage_perc_a":2.57,

@@ -305,7 +305,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "67":"y"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -321,10 +321,10 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "73":"n"
     },
     "and_ff":{
-      "64":"n"
+      "66":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -356,7 +356,7 @@
     "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag.",
     "2":"Supported in Firefox behind the `dom.webcomponents.shadowdom.enabled` flag."
   },
-  "usage_perc_y":66.59,
+  "usage_perc_y":33.9,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

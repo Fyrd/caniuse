@@ -5,24 +5,24 @@
   "status":"unoff",
   "links":[
     {
+      "url":"https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture",
+      "title":"Intro"
+    },
+    {
       "url":"https://googlechrome.github.io/samples/picture-in-picture/",
-      "title":"Sample video"
-    },
-    {
-      "url":"https://developer.apple.com/documentation/webkitjs/adding_picture_in_picture_to_your_safari_media_controls",
-      "title":"Safari equivalent API"
-    },
-    {
-      "url":"https://blogs.opera.com/desktop/2016/04/opera-beta-update-video-pop/",
-      "title":"Opera equivalent Video Pop Out feature"
+      "title":"Samples"
     },
     {
       "url":"https://github.com/WICG/picture-in-picture/blob/master/implementation-status.md",
       "title":"Implementation Status"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1519885",
-      "title":"Firefox implementation bug"
+      "url":"https://developer.apple.com/documentation/webkitjs/adding_picture_in_picture_to_your_safari_media_controls",
+      "title":"Safari equivalent API"
+    },
+    {
+      "url":"https://www.trishtech.com/2017/12/pop-out-videos-on-any-website-in-opera-browser/",
+      "title":"Pop-Out Opera feature"
     }
   ],
   "bugs":[
@@ -321,10 +321,10 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"a #5"
+      "73":"y"
     },
     "and_ff":{
-      "64":"a #5"
+      "66":"a #5"
     },
     "ie_mob":{
       "10":"n",
@@ -359,8 +359,8 @@
     "4":"Opera provides an equivalent proprietary feature named Video Pop Out, which allows users to use Picture-in-Picture mode for all playing videos.",
     "5":"Automatically plays fullscreen videos in Picture-in-Picture mode after user hits Home Screen button. Only Android 8.0 Oreo and newer provide appropriate API for Picture-in-Picture."
   },
-  "usage_perc_y":28.09,
-  "usage_perc_a":46.84,
+  "usage_perc_y":60.77,
+  "usage_perc_a":14.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"Picture-in-Picture,pip,pop-out",
