@@ -5,24 +5,24 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture",
-      "title":"Intro"
-    },
-    {
       "url":"https://googlechrome.github.io/samples/picture-in-picture/",
-      "title":"Samples"
-    },
-    {
-      "url":"https://github.com/WICG/picture-in-picture/blob/master/implementation-status.md",
-      "title":"Implementation Status"
+      "title":"Sample video"
     },
     {
       "url":"https://developer.apple.com/documentation/webkitjs/adding_picture_in_picture_to_your_safari_media_controls",
       "title":"Safari equivalent API"
     },
     {
-      "url":"https://www.trishtech.com/2017/12/pop-out-videos-on-any-website-in-opera-browser/",
-      "title":"Pop-Out Opera feature"
+      "url":"https://blogs.opera.com/desktop/2016/04/opera-beta-update-video-pop/",
+      "title":"Opera equivalent Video Pop Out feature"
+    },
+    {
+      "url":"https://github.com/WICG/picture-in-picture/blob/master/implementation-status.md",
+      "title":"Implementation Status"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1519885",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
@@ -321,7 +321,7 @@
       "46":"n"
     },
     "and_chr":{
-      "73":"y"
+      "73":"a #5"
     },
     "and_ff":{
       "66":"a #5"
