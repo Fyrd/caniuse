@@ -1,7 +1,7 @@
 {
   "title":"Blob URLs",
   "description":"Method of creating URL handles to the specified File or Blob object.",
-  "spec":"http://www.w3.org/TR/FileAPI/#url",
+  "spec":"https://www.w3.org/TR/FileAPI/#url",
   "status":"wd",
   "links":[
     {
@@ -11,10 +11,10 @@
   ],
   "bugs":[
     {
-      "description":"Safari has [a serious issue](http://jsfiddle.net/24FhL/) with blobs that are of the type `application/octet-stream`"
+      "description":"Safari has [a serious issue](https://jsfiddle.net/24FhL/) with blobs that are of the type `application/octet-stream`"
     },
     {
-      "description":"Chrome on iOS appears to have an issue when opening Blob URLs in another tab [see workaround](http://stackoverflow.com/questions/24485077/how-to-open-blob-url-on-chrome-ios)"
+      "description":"Chrome on iOS appears to have an issue when opening Blob URLs in another tab [see workaround](https://stackoverflow.com/questions/24485077/how-to-open-blob-url-on-chrome-ios). The same issue occurs for Samsung Internet."
     }
   ],
   "categories":[
@@ -27,15 +27,17 @@
       "7":"n",
       "8":"n",
       "9":"n",
-      "10":"y",
-      "11":"y"
+      "10":"y #1",
+      "11":"y #1"
     },
     "edge":{
       "12":"y #1",
       "13":"y #1",
       "14":"y #1",
-      "15":"y #1",
-      "16":"y #1"
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -97,7 +99,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -161,7 +172,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -179,6 +201,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -228,7 +253,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -243,7 +276,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -258,7 +294,7 @@
       "4.2-4.3":"y x",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -271,37 +307,44 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y x"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Created blob url can't be used in object or iframe (see [issue](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/5411066/))"
+    "1":"Created blob url can't be used in object or iframe"
   },
-  "usage_perc_y":94.47,
+  "usage_perc_y":96.54,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fileapi",

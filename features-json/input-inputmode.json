@@ -5,7 +5,7 @@
   "status":"ls",
   "links":[
     {
-      "url":"http://www.wufoo.com/html5/attributes/23-inputmode.html",
+      "url":"https://www.wufoo.com/html5/attributes/23-inputmode.html",
       "title":"Demo on Wufoo (old)"
     }
   ],
@@ -31,7 +31,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -93,7 +95,16 @@
       "56":"n d #1",
       "57":"n d #1",
       "58":"n d #1",
-      "59":"n d #1"
+      "59":"n d #1",
+      "60":"n d #1",
+      "61":"n d #1",
+      "62":"n d #1",
+      "63":"n d #1",
+      "64":"n d #1",
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -148,16 +159,27 @@
       "53":"n",
       "54":"n",
       "55":"n",
-      "56":"n",
-      "57":"n",
-      "58":"n",
-      "59":"n",
-      "60":"n",
-      "61":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n"
+      "56":"n d",
+      "57":"n d",
+      "58":"n d",
+      "59":"n d",
+      "60":"n d",
+      "61":"n d",
+      "62":"n d",
+      "63":"n d",
+      "64":"n d",
+      "65":"n d",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -175,6 +197,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -217,14 +242,22 @@
       "40":"n",
       "41":"n",
       "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n"
+      "43":"n d",
+      "44":"n d",
+      "45":"n d",
+      "46":"n d",
+      "47":"n d",
+      "48":"n d",
+      "49":"n d",
+      "50":"n d",
+      "51":"n d",
+      "52":"n d",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -239,7 +272,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -254,7 +290,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -267,37 +303,44 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "73":"y"
     },
     "and_ff":{
-      "56":"n d #1"
+      "66":"n d #1"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n d #1"
     }
   },
   "notes":"Firefox OS is reported to have partial support for this property as `x-inputmode`.\r\n\r\nBlink-based browsers appear to recognize the `inputMode` property on `input` & `textarea` fields though it is unclear what effect it currently has as the feature is still in development.",
   "notes_by_num":{
     "1":"Support can be enabled via the `dom.forms.inputmode` flag"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":62.91,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

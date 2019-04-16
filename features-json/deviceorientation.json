@@ -1,11 +1,11 @@
 {
   "title":"DeviceOrientation & DeviceMotion events",
   "description":"API for detecting orientation and motion events from the device running the browser.",
-  "spec":"http://www.w3.org/TR/orientation-event/",
+  "spec":"https://www.w3.org/TR/orientation-event/",
   "status":"cr",
   "links":[
     {
-      "url":"http://www.html5rocks.com/en/tutorials/device/orientation/",
+      "url":"https://www.html5rocks.com/en/tutorials/device/orientation/",
       "title":"HTML5 Rocks tutorial"
     },
     {
@@ -47,7 +47,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -109,7 +111,16 @@
       "56":"a",
       "57":"a",
       "58":"a",
-      "59":"a"
+      "59":"a",
+      "60":"a",
+      "61":"a",
+      "62":"a",
+      "63":"a",
+      "64":"a",
+      "65":"a",
+      "66":"a",
+      "67":"a",
+      "68":"a"
     },
     "chrome":{
       "4":"n",
@@ -173,7 +184,18 @@
       "62":"a",
       "63":"a",
       "64":"a",
-      "65":"a"
+      "65":"a",
+      "66":"a",
+      "67":"a",
+      "68":"a",
+      "69":"a",
+      "70":"a",
+      "71":"a",
+      "72":"a",
+      "73":"a",
+      "74":"a",
+      "75":"a",
+      "76":"a"
     },
     "safari":{
       "3.1":"n",
@@ -191,6 +213,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -240,7 +265,15 @@
       "47":"a",
       "48":"a",
       "49":"a",
-      "50":"a"
+      "50":"a",
+      "51":"a",
+      "52":"a",
+      "53":"a",
+      "54":"a",
+      "55":"a",
+      "56":"a",
+      "57":"a",
+      "58":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -255,7 +288,10 @@
       "9.3":"a",
       "10.0-10.2":"a",
       "10.3":"a",
-      "11":"a"
+      "11.0-11.2":"a",
+      "11.3-11.4":"a",
+      "12.0-12.1":"a",
+      "12.2":"a"
     },
     "op_mini":{
       "all":"n"
@@ -270,7 +306,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "56":"a"
+      "67":"a"
     },
     "bb":{
       "7":"n",
@@ -283,41 +319,48 @@
       "11.5":"n",
       "12":"y",
       "12.1":"y",
-      "37":"a"
+      "46":"a"
     },
     "and_chr":{
-      "61":"a"
+      "73":"a"
     },
     "and_ff":{
-      "56":"a"
+      "66":"a"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"a"
+      "11.8":"a"
     },
     "samsung":{
       "4":"a",
-      "5":"a"
+      "5.0-5.4":"a",
+      "6.2-6.4":"a",
+      "7.2-7.4":"a",
+      "8.2":"a",
+      "9.2":"a"
     },
     "and_qq":{
       "1.2":"a"
     },
     "baidu":{
       "7.12":"a"
+    },
+    "kaios":{
+      "2.5":"a"
     }
   },
   "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of devicemotion event support for Chrome 30- and Opera. Opera Mobile 14 lost the ondevicemotion event support. Firefox 3.6, 4 and 5 support the non-standard [MozOrientation](https://developer.mozilla.org/en/DOM/MozOrientation) event.",
   "notes_by_num":{
     "1":"`compassneedscalibration` supported in IE11 only for compatible devices with Windows 8.1+."
   },
-  "usage_perc_y":2.4,
-  "usage_perc_a":89.43,
+  "usage_perc_y":2.28,
+  "usage_perc_a":91.53,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"ondeviceorientation,ondevicemotion",
   "ie_id":"deviceorientation,devicemotion",
   "chrome_id":"5874690627207168,5556931766779904",
   "firefox_id":"device-orientation",

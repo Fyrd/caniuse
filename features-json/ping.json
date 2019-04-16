@@ -1,6 +1,6 @@
 {
   "title":"Ping attribute",
-  "description":"When used on an anchor, this attribute signifies that the browser should a ping request the resource the attribute points to.",
+  "description":"When used on an anchor, this attribute signifies that the browser should send a ping request the resource the attribute points to.",
   "spec":"https://html.spec.whatwg.org/multipage/semantics.html#ping",
   "status":"ls",
   "links":[
@@ -34,7 +34,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -96,7 +98,16 @@
       "56":"n d #1",
       "57":"n d #1",
       "58":"n d #1",
-      "59":"n d #1"
+      "59":"n d #1",
+      "60":"n d #1",
+      "61":"n d #1",
+      "62":"n d #1",
+      "63":"n d #1",
+      "64":"n d #1",
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1"
     },
     "chrome":{
       "4":"u",
@@ -160,7 +171,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -178,6 +200,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -227,7 +252,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -242,7 +275,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -257,7 +293,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -270,37 +306,44 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"n d #1"
+      "66":"n d #1"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n d #1"
     }
   },
   "notes":"While still in the WHATWG specification, this feature was removed from the W3C HTML5 specification in 2010.",
   "notes_by_num":{
     "1":"Disabled by default for [privacy reasons](http://kb.mozillazine.org/Browser.send_pings). Can be enabled via the `browser.send_pings` flag."
   },
-  "usage_perc_y":82.14,
+  "usage_perc_y":88.27,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -1,7 +1,7 @@
 {
   "title":"CSS Flexible Box Layout Module",
   "description":"Method of positioning elements in horizontal or vertical stacks. Support includes all properties prefixed with `flex`, as well as `display: flex`, `display: inline-flex`, `align-content`, `align-items`, `align-self`, `justify-content` and `order`.",
-  "spec":"http://www.w3.org/TR/css3-flexbox/",
+  "spec":"https://www.w3.org/TR/css3-flexbox/",
   "status":"cr",
   "links":[
     {
@@ -21,7 +21,7 @@
       "title":"Examples on how to solve common layout problems with flexbox"
     },
     {
-      "url":"http://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "url":"https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
       "title":"A Complete Guide to Flexbox"
     },
     {
@@ -53,7 +53,7 @@
       "description":"In IE10 the default value for `flex` is `0 0 auto` rather than `0 1 auto` as defined in the latest spec."
     },
     {
-      "description":"In Safari 10.1 and below, the height of (non flex) children are not recognized in percentages. However other browsers recognize and scale the children based on percentage heights. Fixed in all versions > 10.1 ([See bug](https://bugs.webkit.org/show_bug.cgi?id=137730)) The bug also appeared in Chrome but was fixed in [Chrome 51](http://crbug.com/341310)"
+      "description":"In Safari 10.1 and below, the height of (non flex) children are not recognized in percentages. However other browsers recognize and scale the children based on percentage heights. Fixed in all versions > 10.1 ([See bug](https://bugs.webkit.org/show_bug.cgi?id=137730)) The bug also appeared in Chrome but was fixed in [Chrome 51](https://bugs.chromium.org/p/chromium/issues/detail?id=341310)"
     },
     {
       "description":"Firefox 51 and below does not support [Flexbox in button elements](https://bugzilla.mozilla.org/show_bug.cgi?id=984869#c2). Fixed in version 52."
@@ -65,13 +65,13 @@
       "description":"In IE10 and IE11, containers with `display: flex` and `flex-direction: column` will not properly calculate their flexed childrens' sizes if the container has `min-height` but no explicit `height` property. [See bug](https://connect.microsoft.com/IE/feedback/details/802625/min-height-and-flexbox-flex-direction-column-dont-work-together-in-ie-10-11-preview)."
     },
     {
-      "description":"IE 11 requires a unit to be added to the third argument, the flex-basis property [see MSFT documentation](https://msdn.microsoft.com/en-us/library/dn254946%28v=vs.85%29.aspx)"
+      "description":"IE 11 requires a unit to be added to the third argument, the flex-basis property [see MSFT documentation](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/dev-guides/hh673531%28v%3dvs.85%29#setting-the-flexibility-of-a-child-element)"
     },
     {
       "description":"Safari 10 and below uses min/max width/height declarations for actually rendering the size of flex items, but it ignores those values when calculating how many items should be on a single line of a multi-line flex container. Instead, it simply uses the item's flex-basis value, or its width if the flex basis is set to auto. [see bug](https://bugs.webkit.org/show_bug.cgi?id=136041). Fixed in all versions > 10."
     },
     {
-      "description":"The space-evenly value of the justify-content property, as described in the [CSS Box Alignment Module Level 3](https://www.w3.org/TR/css-align-3/#distribution-values) is only supported by Firefox."
+      "description":"The space-evenly value of the justify-content property, as described in the [CSS Box Alignment Module Level 3](https://www.w3.org/TR/css-align-3/#distribution-values) is only supported by some browsers."
     }
   ],
   "categories":[
@@ -92,7 +92,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"a x #1",
@@ -154,7 +156,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -218,7 +229,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -236,6 +258,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -285,7 +310,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -300,7 +333,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -315,7 +351,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"a x #1",
@@ -328,44 +364,51 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"a x #2",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"a x #1"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
-  "notes":"Most partial support refers to supporting an [older version](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) of the specification or an [older syntax](http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/).",
+  "notes":"Most partial support refers to supporting an [older version](https://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) of the specification or an [older syntax](https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/).",
   "notes_by_num":{
-    "1":"Only supports the [old flexbox](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723) specification and does not support wrapping.",
-    "2":"Only supports the [2012 syntax](http://www.w3.org/TR/2012/WD-css3-flexbox-20120322/)",
+    "1":"Only supports the [old flexbox](https://www.w3.org/TR/2009/WD-css3-flexbox-20090723) specification and does not support wrapping.",
+    "2":"Only supports the [2012 syntax](https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/)",
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":85.09,
-  "usage_perc_a":12.31,
+  "usage_perc_y":95.25,
+  "usage_perc_a":3.34,
   "ucprefix":false,
   "parent":"",
-  "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-basis,display:flex,flex box",
+  "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around",
   "ie_id":"flexbox",
   "chrome_id":"4837301406400512",
   "firefox_id":"",

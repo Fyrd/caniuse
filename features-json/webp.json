@@ -23,10 +23,28 @@
     {
       "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
       "title":"Official website FAQ - Which web browsers natively support WebP?"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1294490",
+      "title":"Firefox implementation bug"
+    },
+    {
+      "url":"https://libwebpjs.appspot.com/",
+      "title":"Decoder in JS"
+    },
+    {
+      "url":"https://webpjs.appspot.com/",
+      "title":"Polyfill for browsers with or without WebM support"
+    },
+    {
+      "url":"http://antimatter15.com/weppy/demo.html",
+      "title":"Polyfill for browsers with WebM support"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"WebP images displays as a broken image icon in [Microsoft Edge in Application Guard mode](https://www.ctrl.blog/entry/windows-webp-appguard) even when an alternative image source format is available."
+    }
   ],
   "categories":[
     "Other"
@@ -46,7 +64,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -108,7 +128,16 @@
       "56":"p",
       "57":"p",
       "58":"p",
-      "59":"p"
+      "59":"p",
+      "60":"p",
+      "61":"p",
+      "62":"p",
+      "63":"p",
+      "64":"p",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -130,6 +159,102 @@
       "20":"a #1",
       "21":"a #1",
       "22":"a #1",
+      "23":"a #2",
+      "24":"a #2",
+      "25":"a #2",
+      "26":"a #2",
+      "27":"a #2",
+      "28":"a #2",
+      "29":"a #2",
+      "30":"a #2",
+      "31":"a #2",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
+    },
+    "safari":{
+      "3.1":"n",
+      "3.2":"n",
+      "4":"n",
+      "5":"n",
+      "5.1":"n",
+      "6":"n",
+      "6.1":"n",
+      "7":"n",
+      "7.1":"n",
+      "8":"n",
+      "9":"n",
+      "9.1":"n",
+      "10":"n",
+      "10.1":"n",
+      "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
+      "TP":"n"
+    },
+    "opera":{
+      "9":"n",
+      "9.5-9.6":"n",
+      "10.0-10.1":"n",
+      "10.5":"n",
+      "10.6":"p",
+      "11":"p",
+      "11.1":"a #1",
+      "11.5":"a #1",
+      "11.6":"a #1",
+      "12":"a #2",
+      "12.1":"a #2",
+      "15":"a #2",
+      "16":"a #2",
+      "17":"a #2",
+      "18":"a #2",
+      "19":"y",
+      "20":"y",
+      "21":"y",
+      "22":"y",
       "23":"y",
       "24":"y",
       "25":"y",
@@ -165,81 +290,7 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y",
-      "59":"y",
-      "60":"y",
-      "61":"y",
-      "62":"y",
-      "63":"y",
-      "64":"y",
-      "65":"y"
-    },
-    "safari":{
-      "3.1":"n",
-      "3.2":"n",
-      "4":"n",
-      "5":"n",
-      "5.1":"n",
-      "6":"n",
-      "6.1":"n",
-      "7":"n",
-      "7.1":"n",
-      "8":"n",
-      "9":"n",
-      "9.1":"n",
-      "10":"n",
-      "10.1":"n",
-      "11":"n",
-      "TP":"n"
-    },
-    "opera":{
-      "9":"n",
-      "9.5-9.6":"n",
-      "10.0-10.1":"n",
-      "10.5":"n",
-      "10.6":"p",
-      "11":"p",
-      "11.1":"a #1",
-      "11.5":"a #1",
-      "11.6":"a #1",
-      "12":"y",
-      "12.1":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y",
-      "19":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y",
-      "29":"y",
-      "30":"y",
-      "31":"y",
-      "32":"y",
-      "33":"y",
-      "34":"y",
-      "35":"y",
-      "36":"y",
-      "37":"y",
-      "38":"y",
-      "39":"y",
-      "40":"y",
-      "41":"y",
-      "42":"y",
-      "43":"y",
-      "44":"y",
-      "45":"y",
-      "46":"y",
-      "47":"y",
-      "48":"y",
-      "49":"y",
-      "50":"y"
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -254,7 +305,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"y"
@@ -269,7 +323,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -282,38 +336,46 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"p"
+      "66":"p"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"p"
     }
   },
-  "notes":"Both [Safari](https://www.cnet.com/news/apple-ios-macos-tests-googles-webp-graphics-to-speed-up-web/) & [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1294490) are experimenting with supporting WebP images.\r\n\r\nAnimated WebP images are supported in Chrome 32+ and Opera 19+.",
+  "notes":"[Safari](https://www.cnet.com/news/apple-ios-macos-tests-googles-webp-graphics-to-speed-up-web) is experimenting with supporting WebP images.",
   "notes_by_num":{
-    "1":"Partial support in older Chrome, Opera and Android refers to browsers not supporting lossless and alpha versions of WebP."
+    "1":"Partial support refers to not supporting lossless, alpha and animated WebP images.",
+    "2":"Partial support refers to not supporting animated WebP images."
   },
-  "usage_perc_y":72.42,
-  "usage_perc_a":0.24,
+  "usage_perc_y":78.37,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

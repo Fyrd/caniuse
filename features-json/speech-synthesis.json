@@ -1,7 +1,7 @@
 {
   "title":"Speech Synthesis API",
   "description":"A web API for controlling a text-to-speech output.",
-  "spec":"https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html#tts-section",
+  "spec":"https://w3c.github.io/speech-api/speechapi.html#tts-section",
   "status":"unoff",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"HTML5Rocks article"
     },
     {
-      "url":"http://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/",
+      "url":"https://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/",
       "title":"SitePoint article"
     },
     {
@@ -19,6 +19,10 @@
     {
       "url":"http://zenorocha.github.io/voice-elements/",
       "title":"Advanced demo and resource"
+    },
+    {
+      "url":"https://developer.mozilla.org//docs/Web/API/SpeechSynthesis",
+      "title":"MDN article"
     }
   ],
   "bugs":[
@@ -44,7 +48,9 @@
       "13":"n",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -106,7 +112,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -170,7 +185,18 @@
       "62":"y #2",
       "63":"y #2",
       "64":"y #2",
-      "65":"y #2"
+      "65":"y #2",
+      "66":"y #2",
+      "67":"y #2",
+      "68":"y #2",
+      "69":"y #2",
+      "70":"y #2",
+      "71":"y #2",
+      "72":"y #2",
+      "73":"y #2",
+      "74":"y #2",
+      "75":"y #2",
+      "76":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -188,6 +214,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -237,7 +266,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -252,7 +289,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -267,7 +307,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -280,30 +320,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"n"
+      "66":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Samsung Internet for GearVR: In Development, release based on Chromium m53 due Q1/2017",
@@ -311,7 +358,7 @@
     "1":"Can be enabled in Firefox using the `media.webspeech.synth.enabled` about:config flag.",
     "2":"Speech Synthesis in Chrome since version 55 stops playback after about 15 seconds on Windows 7 & 10, and Ubuntu 14.04, possibly other platforms"
   },
-  "usage_perc_y":78.36,
+  "usage_perc_y":88.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"web-speech",

@@ -1,6 +1,6 @@
 {
   "title":"HEIF/ISO Base Media File Format",
-  "description":"HEIF (High Efficiency Image File Format) is a standard developed by the Moving Picture Experts Group (MPEG) for storage and sharing of images and image sequences.",
+  "description":"HEIF (High Efficiency Image File Format) is a standard developed by the Moving Picture Experts Group (MPEG) for storage and sharing of images and image sequences. Can use `.heif` or `.heic` file extensions.",
   "spec":"http://nokiatech.github.io/heif/technical.html",
   "status":"other",
   "links":[
@@ -30,7 +30,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -92,7 +94,16 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n"
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n"
     },
     "chrome":{
       "4":"n",
@@ -156,7 +167,18 @@
       "62":"n",
       "63":"n",
       "64":"n",
-      "65":"n"
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n"
     },
     "safari":{
       "3.1":"n",
@@ -174,6 +196,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n #1",
+      "11.1":"n #1",
+      "12":"n #1",
+      "12.1":"n #1",
       "TP":"n #1"
     },
     "opera":{
@@ -223,7 +248,15 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"n"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -238,7 +271,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n #1"
+      "11.0-11.2":"n #1",
+      "11.3-11.4":"n #1",
+      "12.0-12.1":"n #1",
+      "12.2":"n #1"
     },
     "op_mini":{
       "all":"n"
@@ -253,7 +289,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -266,30 +302,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "73":"n"
     },
     "and_ff":{
-      "56":"n"
+      "66":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
@@ -300,7 +343,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"heic",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

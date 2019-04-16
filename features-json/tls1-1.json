@@ -6,7 +6,23 @@
   "links":[
     {
       "url":"https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.1",
-      "title":"Wikipedia article on TLS"
+      "title":"Wikipedia article about TLS 1.1"
+    },
+    {
+      "url":"https://security.googleblog.com/2018/10/modernizing-transport-security.html",
+      "title":"Modernizing Transport Security - Google Security Blog"
+    },
+    {
+      "url":"https://blogs.windows.com/msedgedev/2018/10/15/modernizing-tls-edge-ie11/",
+      "title":"Modernizing TLS connections in Microsoft Edge and Internet Explorer 11 - Microsoft Windows Blog"
+    },
+    {
+      "url":"https://blog.mozilla.org/security/2018/10/15/removing-old-versions-of-tls/",
+      "title":"Removing Old Versions of TLS - Mozilla Security Blog"
+    },
+    {
+      "url":"https://webkit.org/blog/8462/deprecation-of-legacy-tls-1-0-and-1-1-versions/",
+      "title":"Deprecation of Legacy TLS 1.0 and 1.1 Versions - WebKit Blog"
     }
   ],
   "bugs":[
@@ -30,7 +46,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -92,7 +110,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -156,7 +183,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -174,6 +212,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -223,7 +264,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -238,7 +287,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -253,7 +305,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -266,37 +318,44 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"n d",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
-  "notes":"",
+  "notes":"TLS 1.0 & 1.1 are deprecated in Chrome, Edge, Firefox, Internet Explorer 11, & Safari. Support will be removed in March 2020.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":95.26,
+  "usage_perc_y":97.2,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

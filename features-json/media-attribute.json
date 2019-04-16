@@ -9,7 +9,7 @@
       "title":"W3C bug report discussion - Remove media="
     },
     {
-      "url":"http://lists.w3.org/Archives/Public/public-html/2014Feb/0036.html",
+      "url":"https://lists.w3.org/Archives/Public/public-html/2014Feb/0036.html",
       "title":"W3C mailing list thread - Do not remove the media attribute from the source element"
     }
   ],
@@ -34,7 +34,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -96,7 +98,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"y",
@@ -158,9 +169,20 @@
       "60":"n",
       "61":"n",
       "62":"n",
-      "63":"u",
-      "64":"u",
-      "65":"u"
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"u",
+      "75":"u",
+      "76":"u"
     },
     "safari":{
       "3.1":"n",
@@ -178,6 +200,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -227,7 +252,15 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"n"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n"
     },
     "ios_saf":{
       "3.2":"u",
@@ -242,7 +275,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"u"
@@ -257,7 +293,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"u",
@@ -270,37 +306,44 @@
       "11.5":"u",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"u",
       "11":"u"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"The media attribute has recently been removed from the WHATWG HTML5 specification and Blink and therefore won't be supported by the latest Chrome.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":65.92,
+  "usage_perc_y":64.59,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

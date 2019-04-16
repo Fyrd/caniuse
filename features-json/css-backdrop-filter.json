@@ -1,7 +1,7 @@
 {
   "title":"CSS Backdrop Filter",
   "description":"Method of applying filter effects (like blur, grayscale or hue) to content/elements below the target element.",
-  "spec":"http://dev.w3.org/fxtf/filters-2/#BackdropFilterProperty",
+  "spec":"https://drafts.fxtf.org/filter-effects-2/#BackdropFilterProperty",
   "status":"unoff",
   "links":[
     {
@@ -44,7 +44,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"y #2",
+      "18":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -106,7 +108,16 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n"
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n"
     },
     "chrome":{
       "4":"n",
@@ -170,7 +181,18 @@
       "62":"n d #1",
       "63":"n d #1",
       "64":"n d #1",
-      "65":"n d #1"
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1",
+      "69":"n d #1",
+      "70":"n d #1",
+      "71":"n d #1",
+      "72":"n d #1",
+      "73":"n d #1",
+      "74":"n d #1",
+      "75":"n d #1",
+      "76":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -188,6 +210,9 @@
       "10":"y x",
       "10.1":"y x",
       "11":"y x",
+      "11.1":"y x",
+      "12":"y x",
+      "12.1":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -237,7 +262,15 @@
       "47":"n d #1",
       "48":"n d #1",
       "49":"n d #1",
-      "50":"n d #1"
+      "50":"n d #1",
+      "51":"n d #1",
+      "52":"n d #1",
+      "53":"n d #1",
+      "54":"n d #1",
+      "55":"n d #1",
+      "56":"n d #1",
+      "57":"n d #1",
+      "58":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -252,7 +285,10 @@
       "9.3":"y x",
       "10.0-10.2":"y x",
       "10.3":"y x",
-      "11":"y x"
+      "11.0-11.2":"y x",
+      "11.3-11.4":"y x",
+      "12.0-12.1":"y x",
+      "12.2":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -267,7 +303,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -280,37 +316,45 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n d #1"
+      "46":"n d #1"
     },
     "and_chr":{
-      "61":"n d #1"
+      "73":"n d #1"
     },
     "and_ff":{
-      "56":"n"
+      "66":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n d #1"
+      "5.0-5.4":"n d #1",
+      "6.2-6.4":"n d #1",
+      "7.2-7.4":"n d #1",
+      "8.2":"n d #1",
+      "9.2":"n d #1"
     },
     "and_qq":{
       "1.2":"n d #1"
     },
     "baidu":{
       "7.12":"n d #1"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the \"Experimental Web Platform Features\" flag"
+    "1":"Can be enabled via the \"Experimental Web Platform Features\" flag",
+    "2":"Currently only supported with the `-webkit-` prefix (not -ms-)"
   },
-  "usage_perc_y":12.39,
+  "usage_perc_y":15.17,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

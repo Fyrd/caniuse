@@ -1,6 +1,6 @@
 {
   "title":"asm.js",
-  "description":"an extraordinarily optimizable, low-level subset of JavaScript, intended to be a compile target from languages like C++.",
+  "description":"An extraordinarily optimizable, low-level subset of JavaScript, intended to be a compile target from languages like C++.",
   "spec":"http://asmjs.org/spec/latest/",
   "status":"other",
   "links":[
@@ -13,7 +13,7 @@
       "title":"Source for spec and tools"
     },
     {
-      "url":"http://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/",
+      "url":"https://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/",
       "title":"Bringing Asm.js to Chakra and Microsoft Edge"
     },
     {
@@ -44,7 +44,9 @@
       "13":"y",
       "14":"y",
       "15":"y",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -106,7 +108,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -170,7 +181,18 @@
       "62":"a #1",
       "63":"a #1",
       "64":"a #1",
-      "65":"a #1"
+      "65":"a #1",
+      "66":"a #1",
+      "67":"a #1",
+      "68":"a #1",
+      "69":"a #1",
+      "70":"a #1",
+      "71":"a #1",
+      "72":"a #1",
+      "73":"a #1",
+      "74":"a #1",
+      "75":"a #1",
+      "76":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -188,6 +210,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -237,7 +262,15 @@
       "47":"a #1",
       "48":"a #1",
       "49":"a #1",
-      "50":"a #1"
+      "50":"a #1",
+      "51":"a #1",
+      "52":"a #1",
+      "53":"a #1",
+      "54":"a #1",
+      "55":"a #1",
+      "56":"a #1",
+      "57":"a #1",
+      "58":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -252,7 +285,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -267,7 +303,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"a #1"
+      "67":"a #1"
     },
     "bb":{
       "7":"n",
@@ -280,39 +316,46 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a #1"
+      "46":"a #1"
     },
     "and_chr":{
-      "61":"a #1"
+      "73":"a #1"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"a #1"
+      "5.0-5.4":"a #1",
+      "6.2-6.4":"a #1",
+      "7.2-7.4":"a #1",
+      "8.2":"a #1",
+      "9.2":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Chrome does not support Ahead-Of-Time compilation but performance doubled in Chrome 28: https://en.wikipedia.org/wiki/Asm.js#Implementations",
-    "2":"Supported in MS Edge under the \"Enable experimental Javascript features\" flag."
+    "2":"Supported in MS Edge under the \"Enable experimental JavaScript features\" flag."
   },
-  "usage_perc_y":8.06,
-  "usage_perc_a":58.81,
+  "usage_perc_y":7.25,
+  "usage_perc_a":68.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",

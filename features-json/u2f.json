@@ -1,6 +1,6 @@
 {
   "title":"FIDO U2F API",
-  "description":"Javascript API to interact with Universal Second Factor (U2F) devices. This allows users to log into sites more securely using two-factor authentication with a USB dongle. ",
+  "description":"JavaScript API to interact with Universal Second Factor (U2F) devices. This allows users to log into sites more securely using two-factor authentication with a USB dongle.",
   "spec":"https://fidoalliance.org/specs/fido-u2f-v1.0-nfc-bt-amendment-20150514/fido-u2f-javascript-api.html",
   "status":"other",
   "links":[
@@ -35,7 +35,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -97,7 +99,16 @@
       "56":"n d #2",
       "57":"n d #2",
       "58":"n d #2",
-      "59":"n d #2"
+      "59":"n d #2",
+      "60":"n d #2",
+      "61":"n d #2",
+      "62":"n d #2",
+      "63":"n d #2",
+      "64":"n d #2",
+      "65":"n d #2",
+      "66":"n d #2",
+      "67":"n d #2",
+      "68":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -161,7 +172,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -179,6 +201,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -228,7 +253,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -243,7 +276,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -258,7 +294,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -271,30 +307,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "73":"n"
     },
     "and_ff":{
-      "56":"n"
+      "66":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n d #2"
     }
   },
   "notes":"",
@@ -302,7 +345,7 @@
     "1":"Requires the \"FIDO U2F (Universal 2nd Factor)\" Chrome extension",
     "2":"Support can be enabled with the \"security.webauth.u2f\" flag"
   },
-  "usage_perc_y":28.24,
+  "usage_perc_y":32.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

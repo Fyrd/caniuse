@@ -1,7 +1,7 @@
 {
   "title":"CSS Counter Styles",
   "description":"The @counter-style CSS at-rule allows custom counter styles to be defined. A @counter-style rule defines how to convert a counter value into a string representation.",
-  "spec":"http://dev.w3.org/csswg/css-counter-styles/",
+  "spec":"https://drafts.csswg.org/css-counter-styles/",
   "status":"cr",
   "links":[
     {
@@ -30,7 +30,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -92,7 +94,16 @@
       "56":"a #1",
       "57":"a #1",
       "58":"a #1",
-      "59":"a #1"
+      "59":"a #1",
+      "60":"a #1",
+      "61":"a #1",
+      "62":"a #1",
+      "63":"a #1",
+      "64":"a #1",
+      "65":"a #1",
+      "66":"a #1",
+      "67":"a #1",
+      "68":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -156,7 +167,18 @@
       "62":"n",
       "63":"n",
       "64":"n",
-      "65":"n"
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n"
     },
     "safari":{
       "3.1":"n",
@@ -174,6 +196,9 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -223,7 +248,15 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"n"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -238,7 +271,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"n"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -253,7 +289,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -266,30 +302,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "73":"n"
     },
     "and_ff":{
-      "56":"a #1"
+      "66":"a #1"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"a #1"
     }
   },
   "notes":"",
@@ -297,7 +340,7 @@
     "1":"Partial support in Firefox refers to lacking support for [image symbols](https://bugzilla.mozilla.org/show_bug.cgi?id=1024179)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":5.87,
+  "usage_perc_a":5.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"css @counter-style, list-style",

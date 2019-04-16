@@ -1,7 +1,7 @@
 {
   "title":"Element.getBoundingClientRect()",
   "description":"Method to get the size and position of an element's bounding box, relative to the viewport.",
-  "spec":"http://www.w3.org/TR/cssom-view/#dom-element-getboundingclientrect",
+  "spec":"https://www.w3.org/TR/cssom-view/#dom-element-getboundingclientrect",
   "status":"wd",
   "links":[
     {
@@ -32,17 +32,19 @@
       "5.5":"a #1 #3",
       "6":"a #1 #3",
       "7":"a #1 #3",
-      "8":"a #1 #3",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "8":"a #1 #3 #5",
+      "9":"y #5",
+      "10":"y #5",
+      "11":"y #5"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y"
+      "12":"y #5",
+      "13":"y #5",
+      "14":"y #5",
+      "15":"y #5",
+      "16":"y #5",
+      "17":"y #5",
+      "18":"y #5"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +106,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"y",
@@ -168,7 +179,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"u",
@@ -186,6 +208,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -235,7 +260,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -250,7 +283,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -265,7 +301,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"y",
@@ -278,30 +314,37 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
-      "10":"y",
-      "11":"y"
+      "10":"y #5",
+      "11":"y #5"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -309,10 +352,11 @@
     "1":"The returned object lacks `width` and `height` properties.",
     "2":"Returns incorrect values for elements which have had CSS `transform`s applied to them.",
     "3":"The returned object cannot have new properties added to it; it's not extensible.",
-    "4":"Existing properties of the returned object are immutable."
+    "4":"Existing properties of the returned object are immutable.",
+    "5":"The returned object lacks `x` & `y` values, though existing `top` & `left` values can be used instead."
   },
-  "usage_perc_y":97.51,
-  "usage_perc_a":0.39,
+  "usage_perc_y":98.71,
+  "usage_perc_a":0.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"getBoundingClientRect,bounding,client,rect,DOMRect,box,cssom",

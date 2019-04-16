@@ -60,7 +60,10 @@
       "description":"Reportedly, using \"text/plain\" as the format for `event.dataTransfer.setData` and `event.dataTransfer.getData` does not work in IE9-11 and causes a JS error. The format needs to be \"text\", which seems to work in all the mainstream browsers (Chrome, Safari, Firefox, IE9-11, Edge)."
     },
     {
-      "description":"In Firefox, the dragging near the edge of scrollable regions does not cause [scrolling](https://bugzilla.mozilla.org/show_bug.cgi?id=41708)"
+      "description":"In Firefox, an element won't drag unless the `dragstart` handler sets `dataTransfer` data (even if it doesn't get retrieved). [Test case](https://codepen.io/michai/pen/NwORqO)"
+    },
+    {
+      "description":"In Firefox, drag and drop does not work when the page is served as `application/xhtml+xml` [Mozilla Bug #751778](https://bugzilla.mozilla.org/show_bug.cgi?id=751778), [Mozilla Bug #1106160](https://bugzilla.mozilla.org/show_bug.cgi?id=1106160)"
     }
   ],
   "categories":[
@@ -81,7 +84,9 @@
       "13":"a #2",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"a #2",
+      "17":"a #2",
+      "18":"y"
     },
     "firefox":{
       "2":"p",
@@ -143,7 +148,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"y",
@@ -207,7 +221,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"y",
@@ -225,6 +250,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -274,7 +302,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -289,7 +325,10 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -304,7 +343,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -317,30 +356,37 @@
       "11.5":"p",
       "12":"p",
       "12.1":"y",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "73":"n"
     },
     "and_ff":{
-      "56":"n"
+      "66":"n"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"n",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"`dataTransfer.items` only supported by Chrome.\r\n\r\nCurrently no browser supports the `dropzone` attribute.\r\n\r\nFirefox supports any kind of DOM elements for `.setDragImage`. Chrome must have either an `HTMLImageElement` or any kind of DOM elements attached to the DOM and within the viewport of the browser for `.setDragImage`.",
@@ -349,8 +395,8 @@
     "2":"Partial support refers to not supporting `.setDragImage`",
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`."
   },
-  "usage_perc_y":42.97,
-  "usage_perc_a":5.98,
+  "usage_perc_y":50.96,
+  "usage_perc_a":4.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

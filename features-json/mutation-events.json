@@ -30,7 +30,9 @@
       "13":"a #2",
       "14":"a #2",
       "15":"a #2",
-      "16":"a #2"
+      "16":"a #2",
+      "17":"a #2",
+      "18":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -92,7 +94,16 @@
       "56":"a #2",
       "57":"a #2",
       "58":"a #2",
-      "59":"a #2"
+      "59":"a #2",
+      "60":"a #2",
+      "61":"a #2",
+      "62":"a #2",
+      "63":"a #2",
+      "64":"a #2",
+      "65":"a #2",
+      "66":"a #2",
+      "67":"a #2",
+      "68":"a #2"
     },
     "chrome":{
       "4":"u",
@@ -156,7 +167,18 @@
       "62":"a #1",
       "63":"a #1",
       "64":"a #1",
-      "65":"a #1"
+      "65":"a #1",
+      "66":"a #1",
+      "67":"a #1",
+      "68":"a #1",
+      "69":"a #1",
+      "70":"a #1",
+      "71":"a #1",
+      "72":"a #1",
+      "73":"a #1",
+      "74":"a #1",
+      "75":"a #1",
+      "76":"a #1"
     },
     "safari":{
       "3.1":"u",
@@ -174,6 +196,9 @@
       "10":"a #1",
       "10.1":"a #1",
       "11":"a #1",
+      "11.1":"a #1",
+      "12":"a #1",
+      "12.1":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -223,7 +248,15 @@
       "47":"a #1",
       "48":"a #1",
       "49":"a #1",
-      "50":"a #1"
+      "50":"a #1",
+      "51":"a #1",
+      "52":"a #1",
+      "53":"a #1",
+      "54":"a #1",
+      "55":"a #1",
+      "56":"a #1",
+      "57":"a #1",
+      "58":"a #1"
     },
     "ios_saf":{
       "3.2":"u",
@@ -238,7 +271,10 @@
       "9.3":"a #1",
       "10.0-10.2":"a #1",
       "10.3":"a #1",
-      "11":"a #1"
+      "11.0-11.2":"a #1",
+      "11.3-11.4":"a #1",
+      "12.0-12.1":"a #1",
+      "12.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -253,7 +289,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "56":"a #1"
+      "67":"a #1"
     },
     "bb":{
       "7":"a #1",
@@ -266,39 +302,46 @@
       "11.5":"u",
       "12":"y",
       "12.1":"y",
-      "37":"a #1"
+      "46":"a #1"
     },
     "and_chr":{
-      "61":"a #1"
+      "73":"a #1"
     },
     "and_ff":{
-      "56":"a #2"
+      "66":"a #2"
     },
     "ie_mob":{
       "10":"a #2",
       "11":"a #2"
     },
     "and_uc":{
-      "11.4":"a #1"
+      "11.8":"a #1"
     },
     "samsung":{
       "4":"a #1",
-      "5":"a #1"
+      "5.0-5.4":"a #1",
+      "6.2-6.4":"a #1",
+      "7.2-7.4":"a #1",
+      "8.2":"a #1",
+      "9.2":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
-  "notes":"See also support for [Mutation Observer](http://caniuse.com/#feat=mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
+  "notes":"See also support for [Mutation Observer](https://caniuse.com/#feat=mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
   "notes_by_num":{
     "1":"Does not support `DOMAttrModified`",
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
-  "usage_perc_y":0.07,
-  "usage_perc_a":94.76,
+  "usage_perc_y":0.03,
+  "usage_perc_a":97.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

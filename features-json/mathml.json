@@ -1,11 +1,11 @@
 {
   "title":"MathML",
   "description":"Special tags that allow mathematical formulas and notations to be written on web pages.",
-  "spec":"http://www.w3.org/TR/MathML/",
+  "spec":"https://www.w3.org/TR/MathML/",
   "status":"rec",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/MathML",
+      "url":"https://en.wikipedia.org/wiki/MathML",
       "title":"Wikipedia"
     },
     {
@@ -13,7 +13,7 @@
       "title":"MathML demos"
     },
     {
-      "url":"http://www.mathjax.org",
+      "url":"https://www.mathjax.org",
       "title":"Cross-browser support script"
     },
     {
@@ -46,7 +46,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"y #1",
@@ -108,7 +110,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"p",
@@ -172,7 +183,18 @@
       "62":"p",
       "63":"p",
       "64":"p",
-      "65":"p"
+      "65":"p",
+      "66":"p",
+      "67":"p",
+      "68":"p",
+      "69":"p",
+      "70":"p",
+      "71":"p",
+      "72":"p",
+      "73":"p",
+      "74":"p",
+      "75":"p",
+      "76":"p"
     },
     "safari":{
       "3.1":"a #2",
@@ -190,6 +212,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -239,7 +264,15 @@
       "47":"p",
       "48":"p",
       "49":"p",
-      "50":"p"
+      "50":"p",
+      "51":"p",
+      "52":"p",
+      "53":"p",
+      "54":"p",
+      "55":"p",
+      "56":"p",
+      "57":"p",
+      "58":"p"
     },
     "ios_saf":{
       "3.2":"p",
@@ -254,7 +287,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"p"
@@ -269,7 +305,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "56":"p"
+      "67":"p"
     },
     "bb":{
       "7":"p",
@@ -282,30 +318,37 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "37":"p"
+      "46":"p"
     },
     "and_chr":{
-      "61":"p"
+      "73":"p"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a"
+      "11.8":"a"
     },
     "samsung":{
       "4":"p",
-      "5":"p"
+      "5.0-5.4":"p",
+      "6.2-6.4":"p",
+      "7.2-7.4":"p",
+      "8.2":"p",
+      "9.2":"p"
     },
     "and_qq":{
       "1.2":"p"
     },
     "baidu":{
       "7.12":"p"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Opera's support is limited to a CSS profile of MathML. Support was added in Chrome 24, but removed afterwards due to instability.",
@@ -313,8 +356,8 @@
     "1":"Before version 4, Firefox only supports the XHTML notation",
     "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test"
   },
-  "usage_perc_y":18.35,
-  "usage_perc_a":8.77,
+  "usage_perc_y":18.6,
+  "usage_perc_a":4.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

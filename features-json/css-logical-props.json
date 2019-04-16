@@ -1,8 +1,8 @@
 {
   "title":"CSS Logical Properties",
-  "description":"Use start/end properties that depend on LTR or RTL writing direction instead of left/right",
-  "spec":"http://dev.w3.org/csswg/css-logical-props/",
-  "status":"unoff",
+  "description":"Logical properties and values provide control of layout through logical, rather than physical, direction and dimension mappings. These properties are `writing-mode` relative equivalents of their corresponding physical properties.",
+  "spec":"https://www.w3.org/TR/css-logical-1/",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-margin-start",
@@ -15,6 +15,10 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/7438435-css-logical-properties",
       "title":"Microsoft Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Logical_Properties/Basic_concepts",
+      "title":"MDN - Basic concepts of Logical Properties and Values"
     }
   ],
   "bugs":[
@@ -39,7 +43,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -101,7 +107,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"a x #2",
@@ -165,7 +180,18 @@
       "62":"a x #2",
       "63":"a x #2",
       "64":"a x #2",
-      "65":"a x #2"
+      "65":"a x #2",
+      "66":"a x #2",
+      "67":"a x #2",
+      "68":"a x #2",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"a x #2",
@@ -183,7 +209,10 @@
       "10":"a x #2",
       "10.1":"a x #2",
       "11":"a x #2",
-      "TP":"a x #2"
+      "11.1":"a x #2",
+      "12":"a x #2",
+      "12.1":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -232,7 +261,15 @@
       "47":"a x #2",
       "48":"a x #2",
       "49":"a x #2",
-      "50":"a x #2"
+      "50":"a x #2",
+      "51":"a x #2",
+      "52":"a x #2",
+      "53":"a x #2",
+      "54":"a x #2",
+      "55":"a x #2",
+      "56":"a x #2",
+      "57":"a x #2",
+      "58":"a x #2"
     },
     "ios_saf":{
       "3.2":"a x #2",
@@ -247,7 +284,10 @@
       "9.3":"a x #2",
       "10.0-10.2":"a x #2",
       "10.3":"a x #2",
-      "11":"a x #2"
+      "11.0-11.2":"a x #2",
+      "11.3-11.4":"a x #2",
+      "12.0-12.1":"a x #2",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -262,7 +302,7 @@
       "4.2-4.3":"a x #2",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "56":"a x #2"
+      "67":"y"
     },
     "bb":{
       "7":"a x #2",
@@ -275,30 +315,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a x #2"
+      "46":"a x #2"
     },
     "and_chr":{
-      "61":"a x #2"
+      "73":"y"
     },
     "and_ff":{
-      "56":"a x #1"
+      "66":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x #2"
+      "11.8":"a x #2"
     },
     "samsung":{
       "4":"a x #2",
-      "5":"a x #2"
+      "5.0-5.4":"a x #2",
+      "6.2-6.4":"a x #2",
+      "7.2-7.4":"a x #2",
+      "8.2":"a x #2",
+      "9.2":"a x #2"
     },
     "and_qq":{
       "1.2":"a x #2"
     },
     "baidu":{
       "7.12":"a x #2"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -306,11 +353,11 @@
     "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
     "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
   },
-  "usage_perc_y":5.5,
-  "usage_perc_a":83.39,
+  "usage_perc_y":66.14,
+  "usage_perc_a":26.21,
   "ucprefix":false,
   "parent":"",
-  "keywords":"margin-start,margin-end,padding-start,padding-end,border-start,border-end,inline-start,inline-end,block-start,block-end,block-size,inline-size",
+  "keywords":"block-size,border-block,border-block-color,border-block-end,border-block-end-color,border-block-end-style,border-block-end-width,border-block-start,border-block-start-color,border-block-start-style,border-block-start-width,border-block-style,border-block-width,border-end-end-radius,border-end-start-radius,border-inline,border-inline-color,border-inline-end,border-inline-end-color,border-inline-end-style,border-inline-end-width,border-inline-start,border-inline-start-color,border-inline-start-style,border-inline-start-width,border-inline-style,border-inline-width,border-start-end-radius,border-start-start-radius,inline-size,inset,inset-block,inset-block-end,inset-block-start,inset-inline,inset-inline-end,inset-inline-start,margin-block,margin-block-end,margin-block-start,margin-inline,margin-inline-end,margin-inline-start,max-block-size,max-inline-size,min-block-size,min-inline-size,padding-block,padding-block-end,padding-block-start,padding-inline,padding-inline-end,padding-inline-start,recto,verso",
   "ie_id":"csslogicalpropertieslevel1",
   "chrome_id":"",
   "firefox_id":"",

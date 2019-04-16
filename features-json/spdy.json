@@ -5,7 +5,7 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://en.wikipedia.org/wiki/HTTP/2",
+      "url":"https://en.wikipedia.org/wiki/HTTP/2",
       "title":"Wikipedia"
     },
     {
@@ -34,7 +34,9 @@
       "13":"n",
       "14":"n",
       "15":"n",
-      "16":"n"
+      "16":"n",
+      "17":"n",
+      "18":"n"
     },
     "firefox":{
       "2":"n",
@@ -96,7 +98,16 @@
       "56":"n",
       "57":"n",
       "58":"n",
-      "59":"n"
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n"
     },
     "chrome":{
       "4":"y",
@@ -160,7 +171,18 @@
       "62":"n",
       "63":"n",
       "64":"n",
-      "65":"n"
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n"
     },
     "safari":{
       "3.1":"n",
@@ -178,7 +200,10 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
-      "TP":"y"
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y #1",
+      "TP":"y #1"
     },
     "opera":{
       "9":"n",
@@ -227,7 +252,15 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"n"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -242,7 +275,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y #2"
     },
     "op_mini":{
       "all":"n"
@@ -257,7 +293,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -270,37 +306,45 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "37":"y"
+      "46":"n"
     },
     "and_chr":{
-      "61":"n"
+      "73":"n"
     },
     "and_ff":{
-      "56":"n"
+      "66":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"n"
     },
     "samsung":{
       "4":"y",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"u"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
-  "notes":"See also support for [HTTP2](http://caniuse.com/#feat=http2), successor of SPDY.\r\n\r\nChrome will be removing support in 2016 (in favor of HTTP2), other browsers likely to follow.",
+  "notes":"See also support for [HTTP2](https://caniuse.com/#feat=http2), successor of SPDY.\r\n\r\nChrome will be removing support in 2016 (in favor of HTTP2), other browsers likely to follow.",
   "notes_by_num":{
-    
+    "1":"Deprecated as of macOS Mojave 10.4.4. To be completely removed in a future version of macOS.",
+    "2":"Deprecated as of iOS 12.2. To be completely removed in a future version of iOS."
   },
-  "usage_perc_y":21.79,
+  "usage_perc_y":19.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

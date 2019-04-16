@@ -1,7 +1,7 @@
 {
   "title":"CSS3 Overflow-wrap",
   "description":"Allows lines to be broken within words if an otherwise unbreakable string is too long to fit. Currently mostly supported using the `word-wrap` property.",
-  "spec":"http://www.w3.org/TR/css3-text/#overflow-wrap",
+  "spec":"https://www.w3.org/TR/css3-text/#overflow-wrap",
   "status":"wd",
   "links":[
     {
@@ -19,6 +19,10 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6524680-update-word-wrap-to-overflow-wrap",
       "title":"Microsoft Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap",
+      "title":"MDN Web Docs - CSS overflow-wrap"
     }
   ],
   "bugs":[
@@ -42,7 +46,9 @@
       "13":"a",
       "14":"a",
       "15":"a",
-      "16":"a"
+      "16":"a",
+      "17":"a",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +110,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"a",
@@ -168,7 +183,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"a",
@@ -186,6 +212,9 @@
       "10":"y",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -235,7 +264,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -250,7 +287,10 @@
       "9.3":"y",
       "10.0-10.2":"y",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"a"
@@ -265,7 +305,7 @@
       "4.2-4.3":"a",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"a",
@@ -278,41 +318,48 @@
       "11.5":"a",
       "12":"a",
       "12.1":"a",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"a",
       "11":"a"
     },
     "and_uc":{
-      "11.4":"y"
+      "11.8":"y"
     },
     "samsung":{
       "4":"y",
-      "5":"y"
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a"
     }
   },
   "notes":"Partial support refers to requiring the legacy name \"word-wrap\" (rather than \"overflow-wrap\") to work.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":87.57,
-  "usage_perc_a":10.33,
+  "usage_perc_y":91.24,
+  "usage_perc_a":7.74,
   "ucprefix":false,
   "parent":"",
-  "keywords":"wordwrap,word-wrap",
+  "keywords":"wordwrap,word-wrap,break-word",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

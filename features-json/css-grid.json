@@ -1,7 +1,7 @@
 {
-  "title":"CSS Grid Layout",
+  "title":"CSS Grid Layout (level 1)",
   "description":"Method of using a grid concept to lay out content, providing a mechanism for authors to divide available space for layout into columns and rows using a set of predictable sizing behaviors. Includes support for all `grid-*` properties and the `fr` unit.",
-  "spec":"http://www.w3.org/TR/css3-grid-layout/",
+  "spec":"https://www.w3.org/TR/css-grid-1/",
   "status":"cr",
   "links":[
     {
@@ -10,7 +10,7 @@
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=60731",
-      "title":"Webkit (Chrome, Safari, etc.) feature request"
+      "title":"WebKit (Chrome, Safari, etc.) feature request"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=616605",
@@ -43,6 +43,9 @@
     },
     {
       "description":"Safari does not yet support intrinsic and extrinsic sizing with grid properties such as `grid-template-rows`"
+    },
+    {
+      "description":"Edge has various problems supporting `calc()` within grid properties ([18676405](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/18676405/), [18675657](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/18675657/))"
     }
   ],
   "categories":[
@@ -63,7 +66,9 @@
       "13":"a x #2",
       "14":"a x #2",
       "15":"a x #2",
-      "16":"y"
+      "16":"y",
+      "17":"y",
+      "18":"y"
     },
     "firefox":{
       "2":"n",
@@ -125,7 +130,16 @@
       "56":"y",
       "57":"y",
       "58":"y",
-      "59":"y"
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "chrome":{
       "4":"n",
@@ -189,7 +203,18 @@
       "62":"y",
       "63":"y",
       "64":"y",
-      "65":"y"
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y"
     },
     "safari":{
       "3.1":"n",
@@ -207,6 +232,9 @@
       "10":"p",
       "10.1":"y",
       "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -256,7 +284,15 @@
       "47":"y",
       "48":"y",
       "49":"y",
-      "50":"y"
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -271,7 +307,10 @@
       "9.3":"p",
       "10.0-10.2":"p",
       "10.3":"y",
-      "11":"y"
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -286,7 +325,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -299,45 +338,52 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"p"
+      "46":"y"
     },
     "and_chr":{
-      "61":"y"
+      "73":"y"
     },
     "and_ff":{
-      "56":"y"
+      "66":"y"
     },
     "ie_mob":{
       "10":"a x #2",
       "11":"a x #2"
     },
     "and_uc":{
-      "11.4":"n"
+      "11.8":"y"
     },
     "samsung":{
       "4":"p",
-      "5":"n"
+      "5.0-5.4":"n",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"p d #1"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
-  "notes":"",
+  "notes":"See also support for [subgrids](#feat=css-subgrid)",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
-    "2":"Partial support in IE refers to supporting an [older version](http://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
+    "2":"Partial support in IE refers to supporting an [older version](https://www.w3.org/TR/2011/WD-css3-grid-layout-20110407/) of the specification.",
     "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag",
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))",
     "5":"Enabled in Edge through the \"Enable Unprefixed CSS Grid Layout\" flag in about:flags"
   },
-  "usage_perc_y":69.57,
-  "usage_perc_a":5.77,
+  "usage_perc_y":89.78,
+  "usage_perc_a":2.56,
   "ucprefix":false,
   "parent":"",
-  "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid,fr unit,fractional unit",
+  "keywords":"grids,grid-row,grid-column,grid-template,display:grid,inline-grid,fr unit,fractional unit,cssgrid,,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around",
   "ie_id":"cssgridlayout",
   "chrome_id":"4589636412243968",
   "firefox_id":"css-grid-layout",
