@@ -43,13 +43,13 @@
       "11":"n"
     },
     "edge":{
-      "12":"y",
-      "13":"y",
-      "14":"y",
-      "15":"y",
-      "16":"y",
-      "17":"y",
-      "18":"y"
+      "12":"a #2",
+      "13":"a #2",
+      "14":"a #2",
+      "15":"a #2",
+      "16":"a #2",
+      "17":"a #2",
+      "18":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -354,7 +354,8 @@
   },
   "notes":"See also [@supports in CSS](#feat=css-featurequeries)",
   "notes_by_num":{
-    "1":"Partial support in Presto-based Opera browsers refers to using an older API (`window.supportsCSS`)"
+    "1":"Partial support in Presto-based Opera browsers refers to using an older API (`window.supportsCSS`)",
+    "2":"Partial support in Edgerefers to not supporting parentheses-less one-argument version."
   },
   "usage_perc_y":93.18,
   "usage_perc_a":1.62,
