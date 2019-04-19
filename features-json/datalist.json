@@ -34,7 +34,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In UIWebView Apps in iOS 12.2, using the datalist element may cause the input type to become incapable of being able to type in it despite not supporting it."
+    }
   ],
   "categories":[
     "HTML5"
@@ -298,7 +300,7 @@
       "11.0-11.2":"p",
       "11.3-11.4":"p",
       "12.0-12.1":"p",
-      "12.2":"y"
+      "12.2":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -364,7 +366,8 @@
     "1":"Partial support refers to [a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=773041) where long lists of items are unscrollable resulting in unselectable options.",
     "2":"Partial support in IE refers to [significantly buggy behavior](https://web.archive.org/web/20170121011936/http://playground.onereason.eu/2013/04/ie10s-lousy-support-for-datalists/) (IE11+ does send the input and change events upon selection). ",
     "3":"Partial support refers to no support for datalists on non-text fields (e.g. number, [range](https://bugzilla.mozilla.org/show_bug.cgi?id=841942), [color](https://bugzilla.mozilla.org/show_bug.cgi?id=960984)).",
-    "4":"Partial support in EDGE refers [to disappearing option elements on focusing the input element via tab](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/20066595/)."
+    "4":"Partial support in Edge refers [to disappearing option elements on focusing the input element via tab](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/20066595/).",
+    "5":"Supported through WKWebView and Safari but not through UIWebView"
   },
   "usage_perc_y":65.34,
   "usage_perc_a":13.49,
