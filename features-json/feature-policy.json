@@ -1,7 +1,7 @@
 {
   "title":"Feature Policy",
   "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs.",
-  "spec":"https://wicg.github.io/feature-policy/",
+  "spec":"https://w3c.github.io/webappsec-feature-policy/",
   "status":"unoff",
   "links":[
     {
@@ -23,6 +23,14 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/33507907-support-feature-policy",
       "title":"MS Edge feature suggestion"
+    },
+    {
+      "url":"https://featurepolicy.info/",
+      "title":"featurepolicy.info (Feature-Policy Playground)"
+    },
+    {
+      "url":"https://github.com/w3c/webappsec-feature-policy/blob/master/features.md",
+      "title":"List of known features"
     }
   ],
   "bugs":[
