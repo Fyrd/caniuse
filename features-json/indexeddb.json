@@ -365,7 +365,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support in IE 10 & 11 refers to a number of subfeatures [not being supported](https://codepen.io/cemerick/pen/Itymi). Edge does not support IndexedDB inside blob web workers. [See issue](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/5942817/)",
+    "1":"Partial support in IE 10 & 11 refers to a number of subfeatures [not being supported](https://indexdb-support-test.glitch.me/). Edge does not support IndexedDB inside blob web workers. [See issue](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/5942817/)",
     "2":"Partial support in Safari & iOS 8 & 9 refers to [seriously buggy behavior](http://www.raymondcamden.com/2014/09/25/IndexedDB-on-iOS-8-Broken-Bad/) as well as complete lack of support in WebViews."
   },
   "usage_perc_y":90.87,
