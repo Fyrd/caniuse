@@ -1,6 +1,6 @@
 {
   "title":"Resource Hints: Lazyload",
-  "description":"Gives a hint to the browser to lower the loading priority of a resource.",
+  "description":"Gives a hint to the browser to lower the loading priority of a resource. Please note that this is a legacy attribute, see the [`loading`](https://caniuse.com/#feat=loading-lazy-attr) attribute for the new standardized API.",
   "spec":"https://w3c.github.io/web-performance/specs/ResourcePriorities/Overview.html",
   "status":"unoff",
   "links":[
