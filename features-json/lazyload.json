@@ -7,10 +7,6 @@
     {
       "url":"https://msdn.microsoft.com/en-us/ie/dn369270(v=vs.94)",
       "title":"lazyload attribute | lazyload property"
-    },
-    {
-      "url":"https://github.com/whatwg/html/issues/2806",
-      "title":"Discussion on standardization"
     }
   ],
   "bugs":[
@@ -341,7 +337,7 @@
       "2.5":"n"
     }
   },
-  "notes":"",
+  "notes":"This is a legacy attribute, see the [`loading`](https://caniuse.com/#feat=loading-lazy-attr) attribute for the new standardized API.",
   "notes_by_num":{
     
   },
