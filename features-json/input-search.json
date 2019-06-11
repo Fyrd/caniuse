@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"[iOS Safari](https://stackoverflow.com/a/26287843/2074736): Does not show the \"search\" keyboard button unless input is inside a form with the action attribute set"
+    }
   ],
   "categories":[
     "HTML5"
