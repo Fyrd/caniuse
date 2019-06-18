@@ -1,5 +1,5 @@
 {
-  "title":"Flexbox `gap`",
+  "title":"gap property for Flexbox",
   "description":"`gap` for flexbox containers to create gaps/gutters between flex items",
   "spec":"https://www.w3.org/TR/css-align-3/#gaps",
   "status":"wd",
@@ -21,7 +21,9 @@
       "title":"Workaround using negative margins"
     }
   ],
-  "bugs":[],
+  "bugs":[
+    
+  ],
   "categories":[
     "CSS"
   ],
@@ -324,7 +326,7 @@
       "74":"n"
     },
     "and_ff":{
-      "66":"n"
+      "67":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -352,15 +354,17 @@
     }
   },
   "notes":"",
-  "notes_by_num":{},
-  "usage_perc_y":0,
+  "notes_by_num":{
+    
+  },
+  "usage_perc_y":4.06,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"",
-  "keywords":"flexbox,gaps,gutters",
-  "shown":false,
+  "parent":"flexbox",
+  "keywords":"flexbox,gaps,gutters,row-gap,column-gap",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":true
 }
