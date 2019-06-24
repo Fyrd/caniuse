@@ -14,7 +14,11 @@
     },
     {
       "url":"https://github.com/que-etc/resize-observer-polyfill",
-      "title":"Polyfill"
+      "title":"Polyfill based on initial specification"
+    },
+    {
+      "url":"https://github.com/juggle/resize-observer",
+      "title":"Polyfill based on latest specification which includes support for observer options"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1272409",
