@@ -17,16 +17,16 @@
       "title":"Polyfill based on initial specification"
     },
     {
-      "url":"https://github.com/juggle/resize-observer",
-      "title":"Polyfill based on latest specification which includes support for observer options"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1272409",
       "title":"Firefox implementation bug"
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=157743",
       "title":"WebKit implementation bug"
+    },
+    {
+      "url":"https://github.com/juggle/resize-observer",
+      "title":"Polyfill based on latest specification which includes support for observer options"
     }
   ],
   "bugs":[
@@ -332,7 +332,7 @@
       "46":"n"
     },
     "and_chr":{
-      "74":"y"
+      "75":"y"
     },
     "and_ff":{
       "67":"n"
