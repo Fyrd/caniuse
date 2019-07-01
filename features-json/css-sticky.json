@@ -366,7 +366,7 @@
       "2.5":"a #3"
     }
   },
-  "notes":"",
+  "notes":"Any ancestor between the sticky element and its user-scrollable container with overflow computed as anything but `visible`/`clip` will effectively prevent sticking behavior.",
   "notes_by_num":{
     "1":"Can be enabled in Firefox by setting the about:config preference layout.css.sticky.enabled to true",
     "2":"Enabled through the \"experimental Web Platform features\" flag",
