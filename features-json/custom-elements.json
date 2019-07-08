@@ -274,7 +274,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -292,7 +294,7 @@
       "11.0-11.2":"p",
       "11.3-11.4":"p",
       "12.0-12.1":"p",
-      "12.2":"p",
+      "12.2-12.3":"p",
       "13":"p"
     },
     "op_mini":{
@@ -359,7 +361,7 @@
     "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
     "2":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
   },
-  "usage_perc_y":37.54,
+  "usage_perc_y":38.48,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

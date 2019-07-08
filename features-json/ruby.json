@@ -279,7 +279,9 @@
       "55":"a",
       "56":"a",
       "57":"a",
-      "58":"a"
+      "58":"a",
+      "60":"a",
+      "62":"a"
     },
     "ios_saf":{
       "3.2":"p",
@@ -297,7 +299,7 @@
       "11.0-11.2":"a",
       "11.3-11.4":"a",
       "12.0-12.1":"a",
-      "12.2":"a",
+      "12.2-12.3":"a",
       "13":"a"
     },
     "op_mini":{
@@ -364,7 +366,7 @@
     "1":"IE9+ supports [properties](https://msdn.microsoft.com/en-us/library/hh772055%28v=vs.85%29.aspx) of an older version of the CSS Ruby specification."
   },
   "usage_perc_y":4.93,
-  "usage_perc_a":91.48,
+  "usage_perc_a":92.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",

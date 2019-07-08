@@ -265,7 +265,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -283,7 +285,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -354,7 +356,7 @@
     "5":"Appears to exist in Safari Technology Preview but does not work in current build. Should work in [next preview build](https://twitter.com/xeenon/status/715379838081576960)",
     "6":"Can be enabled in `about:flags`"
   },
-  "usage_perc_y":92.03,
+  "usage_perc_y":92.97,
   "usage_perc_a":0.11,
   "ucprefix":false,
   "parent":"",

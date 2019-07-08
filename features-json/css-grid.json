@@ -297,7 +297,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -315,7 +317,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -385,7 +387,7 @@
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))",
     "5":"Enabled in Edge through the \"Enable Unprefixed CSS Grid Layout\" flag in about:flags"
   },
-  "usage_perc_y":90.17,
+  "usage_perc_y":91.11,
   "usage_perc_a":2.15,
   "ucprefix":false,
   "parent":"",

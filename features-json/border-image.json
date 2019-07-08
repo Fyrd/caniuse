@@ -270,7 +270,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"a x #1 #2 #3 #4",
@@ -288,7 +290,7 @@
       "11.0-11.2":"y #1",
       "11.3-11.4":"y #1",
       "12.0-12.1":"y #1",
-      "12.2":"y #1",
+      "12.2-12.3":"y #1",
       "13":"y #1"
     },
     "op_mini":{
@@ -357,7 +359,7 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":88.8,
+  "usage_perc_y":89.74,
   "usage_perc_a":8.91,
   "ucprefix":false,
   "parent":"",

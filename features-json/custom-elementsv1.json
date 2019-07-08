@@ -278,7 +278,9 @@
       "55":"a #1",
       "56":"a #1",
       "57":"a #1",
-      "58":"a #1"
+      "58":"a #1",
+      "60":"a #1",
+      "62":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -296,7 +298,7 @@
       "11.0-11.2":"a #1",
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
-      "12.2":"a #1",
+      "12.2-12.3":"a #1",
       "13":"a #1"
     },
     "op_mini":{
@@ -365,7 +367,7 @@
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
   "usage_perc_y":73.3,
-  "usage_perc_a":14.1,
+  "usage_perc_a":15.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",

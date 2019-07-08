@@ -270,7 +270,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -288,7 +290,7 @@
       "11.0-11.2":"a #3",
       "11.3-11.4":"a #3",
       "12.0-12.1":"a #3",
-      "12.2":"a #3",
+      "12.2-12.3":"a #3",
       "13":"a #3"
     },
     "op_mini":{
@@ -357,7 +359,7 @@
     "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":4.83,
+  "usage_perc_y":5.78,
   "usage_perc_a":13.34,
   "ucprefix":false,
   "parent":"",

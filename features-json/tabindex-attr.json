@@ -263,7 +263,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"y #2 #3",
@@ -281,7 +283,7 @@
       "11.0-11.2":"y #2 #3",
       "11.3-11.4":"y #2 #3",
       "12.0-12.1":"y #2 #3",
-      "12.2":"y #2 #3",
+      "12.2-12.3":"y #2 #3",
       "13":"y #2 #3"
     },
     "op_mini":{
@@ -349,7 +351,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":88.56,
+  "usage_perc_y":89.51,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

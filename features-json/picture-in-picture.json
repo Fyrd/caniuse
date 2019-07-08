@@ -277,7 +277,9 @@
       "55":"a #4",
       "56":"a #4",
       "57":"a #4",
-      "58":"a #4"
+      "58":"a #4",
+      "60":"a #4",
+      "62":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -295,7 +297,7 @@
       "11.0-11.2":"a #3",
       "11.3-11.4":"a #3",
       "12.0-12.1":"a #3",
-      "12.2":"a #3",
+      "12.2-12.3":"a #3",
       "13":"a #3"
     },
     "op_mini":{
@@ -366,7 +368,7 @@
     "5":"Automatically plays fullscreen videos in Picture-in-Picture mode after user hits Home Screen button. Only Android 8.0 Oreo and newer provide appropriate API for Picture-in-Picture."
   },
   "usage_perc_y":27.41,
-  "usage_perc_a":48.63,
+  "usage_perc_a":49.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"Picture-in-Picture,pip,pop-out",

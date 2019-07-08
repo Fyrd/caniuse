@@ -276,7 +276,9 @@
       "55":"y #4",
       "56":"y #4",
       "57":"y #4",
-      "58":"y #4"
+      "58":"y #4",
+      "60":"y #4",
+      "62":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -294,7 +296,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -365,7 +367,7 @@
     "5":"Only works on `<img>`, not CSS backgrounds or `<canvas>`.",
     "6":"Only works on `<img>` and CSS backgrounds, _not_ `<canvas>`. "
   },
-  "usage_perc_y":90.2,
+  "usage_perc_y":91.15,
   "usage_perc_a":2.82,
   "ucprefix":false,
   "parent":"",

@@ -265,7 +265,9 @@
       "55":"a #1 #2 #3",
       "56":"a #1 #2 #3",
       "57":"a #1 #2 #3",
-      "58":"a #1 #2 #3"
+      "58":"a #1 #2 #3",
+      "60":"a #1 #2 #3",
+      "62":"a #1 #2 #3"
     },
     "ios_saf":{
       "3.2":"a #1 #2 #3",
@@ -283,7 +285,7 @@
       "11.0-11.2":"a #1 #2 #3",
       "11.3-11.4":"a #1 #2 #3",
       "12.0-12.1":"a #1 #2 #3",
-      "12.2":"a #1 #2 #3",
+      "12.2-12.3":"a #1 #2 #3",
       "13":"a #1 #2 #3"
     },
     "op_mini":{
@@ -352,7 +354,7 @@
     "3":"Treats the `left` and `right` values like `always`."
   },
   "usage_perc_y":1.49,
-  "usage_perc_a":96.7,
+  "usage_perc_a":97.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

@@ -281,7 +281,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -299,7 +301,7 @@
       "11.0-11.2":"y #3",
       "11.3-11.4":"y #3",
       "12.0-12.1":"y #3",
-      "12.2":"y #3",
+      "12.2-12.3":"y #3",
       "13":"y #3"
     },
     "op_mini":{
@@ -367,7 +369,7 @@
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one.",
     "3":"Does not work in standalone running (\"installed\") PWAs, `getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari."
   },
-  "usage_perc_y":89.89,
+  "usage_perc_y":90.83,
   "usage_perc_a":1.96,
   "ucprefix":false,
   "parent":"",

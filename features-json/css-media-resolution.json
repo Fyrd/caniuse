@@ -272,7 +272,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -290,7 +292,7 @@
       "11.0-11.2":"a x #3",
       "11.3-11.4":"a x #3",
       "12.0-12.1":"a x #3",
-      "12.2":"a x #3",
+      "12.2-12.3":"a x #3",
       "13":"a x #3"
     },
     "op_mini":{
@@ -358,7 +360,7 @@
     "2":"Firefox before 16 supports only `dpi` unit, but you can set `2dppx` per `min--moz-device-pixel-ratio: 2`",
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`"
   },
-  "usage_perc_y":80.06,
+  "usage_perc_y":81.01,
   "usage_perc_a":17.9,
   "ucprefix":false,
   "parent":"css-mediaqueries",

@@ -290,7 +290,9 @@
       "55":"a x #2 #3",
       "56":"a x #2 #3",
       "57":"a x #2 #3",
-      "58":"a x #2 #3"
+      "58":"a x #2 #3",
+      "60":"a x #2 #3",
+      "62":"a x #2 #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -308,7 +310,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"a #5",
-      "12.2":"a #5",
+      "12.2-12.3":"a #5",
       "13":"a #5"
     },
     "op_mini":{
@@ -379,7 +381,7 @@
     "5":"Partial support refers to supporting only iPad, not iPhone. Shows an overlay button which can not be disabled."
   },
   "usage_perc_y":31.4,
-  "usage_perc_a":62.7,
+  "usage_perc_a":63.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",

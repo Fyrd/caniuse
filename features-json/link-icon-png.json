@@ -263,7 +263,9 @@
       "55":"y #1",
       "56":"y #1",
       "57":"y #1",
-      "58":"y #1"
+      "58":"y #1",
+      "60":"y #1",
+      "62":"y #1"
     },
     "ios_saf":{
       "3.2":"n #4",
@@ -281,7 +283,7 @@
       "11.0-11.2":"n #4",
       "11.3-11.4":"n #4",
       "12.0-12.1":"n #4",
-      "12.2":"n #4",
+      "12.2-12.3":"n #4",
       "13":"n #4"
     },
     "op_mini":{
@@ -350,7 +352,7 @@
     "3":"If multiple formats are available, will use the last one loaded, regardless of sizes (effectively picks at random).",
     "4":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
   },
-  "usage_perc_y":85.26,
+  "usage_perc_y":86.21,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

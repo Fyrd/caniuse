@@ -277,7 +277,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -295,7 +297,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"a #1",
+      "12.2-12.3":"a #1",
       "13":"a #1"
     },
     "op_mini":{
@@ -361,7 +363,7 @@
   "notes_by_num":{
     "1":"Only supports [VP8 used in WebRTC.](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/)"
   },
-  "usage_perc_y":77.1,
+  "usage_perc_y":78.05,
   "usage_perc_a":13.41,
   "ucprefix":false,
   "parent":"video",

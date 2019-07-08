@@ -279,7 +279,9 @@
       "55":"n",
       "56":"n",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -297,7 +299,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n",
+      "12.2-12.3":"n",
       "13":"n"
     },
     "op_mini":{
@@ -368,7 +370,7 @@
     "5":"Only available in Firefox Nightly (applies to older versions of Firefox)",
     "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
   },
-  "usage_perc_y":30.72,
+  "usage_perc_y":31.66,
   "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",

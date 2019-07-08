@@ -277,7 +277,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -295,7 +297,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -362,7 +364,7 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-WebKit-CSP` header"
   },
-  "usage_perc_y":93.45,
+  "usage_perc_y":94.4,
   "usage_perc_a":2.32,
   "ucprefix":false,
   "parent":"",

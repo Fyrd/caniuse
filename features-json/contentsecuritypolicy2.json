@@ -267,7 +267,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -285,7 +287,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -358,7 +360,7 @@
     "7":"Firefox 45+ is missing the plugin-types directive.",
     "9":"Edge has broken nonce support as it ignores nonces on sourced scripts."
   },
-  "usage_perc_y":81.9,
+  "usage_perc_y":82.84,
   "usage_perc_a":7.1,
   "ucprefix":false,
   "parent":"",

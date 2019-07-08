@@ -281,7 +281,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -299,7 +301,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -366,7 +368,7 @@
     "1":"Not shipped with the inital release but later with the 2018 June security update (Patch Tuesday) to Windows 10 RS3 (2017 Fall Creators Update) and newer. [More info](https://github.com/MicrosoftEdge/Status/issues/616).",
     "2":"Partial support because only supported in IE 11 on Windows 10 RS3 (2017 Fall Creators Update) and newer, but not in IE 11 on other Windows versions (Windows 7, ...)"
   },
-  "usage_perc_y":84.97,
+  "usage_perc_y":85.91,
   "usage_perc_a":1.91,
   "ucprefix":false,
   "parent":"",

@@ -281,7 +281,9 @@
       "55":"a #5",
       "56":"a #5",
       "57":"a #5",
-      "58":"a #5"
+      "58":"a #5",
+      "60":"a #5",
+      "62":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -299,7 +301,7 @@
       "11.0-11.2":"a x #2",
       "11.3-11.4":"a x #2",
       "12.0-12.1":"a x #2",
-      "12.2":"a x #2",
+      "12.2-12.3":"a x #2",
       "13":"a x #2"
     },
     "op_mini":{
@@ -370,7 +372,7 @@
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
   "usage_perc_y":0.19,
-  "usage_perc_a":88.72,
+  "usage_perc_a":89.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",

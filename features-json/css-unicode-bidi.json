@@ -261,7 +261,9 @@
       "55":"a #1",
       "56":"a #1",
       "57":"a #1",
-      "58":"a #1"
+      "58":"a #1",
+      "60":"a #1",
+      "62":"a #1"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -279,7 +281,7 @@
       "11.0-11.2":"a x #3",
       "11.3-11.4":"a x #3",
       "12.0-12.1":"a x #3",
-      "12.2":"a x #3",
+      "12.2-12.3":"a x #3",
       "13":"a x #3"
     },
     "op_mini":{
@@ -348,7 +350,7 @@
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
   "usage_perc_y":72.98,
-  "usage_perc_a":19.05,
+  "usage_perc_a":20,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

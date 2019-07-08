@@ -275,7 +275,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -293,7 +295,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -361,7 +363,7 @@
     "2":"Supports the subset of the syntax for resolution switching (using the `x` descriptor), but not the full syntax that can be used with `sizes` (using the `w` descriptor).",
     "3":"Intermittently displays distorted images due to bug present (see known issues)"
   },
-  "usage_perc_y":92.5,
+  "usage_perc_y":93.44,
   "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",

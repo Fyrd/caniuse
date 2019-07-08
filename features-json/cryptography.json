@@ -294,7 +294,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -312,7 +314,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -381,7 +383,7 @@
     "3":"Supported in Safari using the `crypto.webkitSubtle` prefix.",
     "4":"In Edge, Web Crypto is not supported in Web Workers or Service Workers."
   },
-  "usage_perc_y":92.7,
+  "usage_perc_y":93.65,
   "usage_perc_a":1.99,
   "ucprefix":false,
   "parent":"",

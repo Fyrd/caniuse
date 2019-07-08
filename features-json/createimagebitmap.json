@@ -261,7 +261,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -279,7 +281,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n",
+      "12.2-12.3":"n",
       "13":"n"
     },
     "op_mini":{
@@ -349,7 +351,7 @@
     "4":"No support for resizeWidth, resizeHeight and resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)",
     "5":"No support for `createImageBitmap(source, options)` interface. see [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)"
   },
-  "usage_perc_y":70.74,
+  "usage_perc_y":71.68,
   "usage_perc_a":5.27,
   "ucprefix":false,
   "parent":"",

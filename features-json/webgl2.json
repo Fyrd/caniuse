@@ -265,7 +265,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -283,7 +285,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n d #4",
-      "12.2":"n d #4",
+      "12.2-12.3":"n d #4",
       "13":"n d #4"
     },
     "op_mini":{
@@ -353,7 +355,7 @@
     "4":"Has an option to enable via the \"Experimental Features\" developer menu but fails 77% of the WebGL2 conformance tests make it nearly unusable and has not seen any development activity in over 3 years",
     "5":"Enabled by default for Nightly and Dev Edition"
   },
-  "usage_perc_y":71.62,
+  "usage_perc_y":72.57,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"canvas",

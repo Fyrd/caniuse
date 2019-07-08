@@ -274,7 +274,9 @@
       "55":"a #2",
       "56":"a #2",
       "57":"a #2",
-      "58":"a #2"
+      "58":"a #2",
+      "60":"a #2",
+      "62":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -292,7 +294,7 @@
       "11.0-11.2":"n d #4",
       "11.3-11.4":"n d #4",
       "12.0-12.1":"n d #4",
-      "12.2":"a",
+      "12.2-12.3":"a",
       "13":"a"
     },
     "op_mini":{
@@ -362,7 +364,7 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu"
   },
   "usage_perc_y":0.2,
-  "usage_perc_a":87.06,
+  "usage_perc_a":88.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

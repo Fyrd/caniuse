@@ -271,7 +271,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -289,7 +291,7 @@
       "11.0-11.2":"y #6",
       "11.3-11.4":"y #6",
       "12.0-12.1":"y #6",
-      "12.2":"y #6",
+      "12.2-12.3":"y #6",
       "13":"y #6"
     },
     "op_mini":{
@@ -360,7 +362,7 @@
     "5":"Does not support `format('truetype-variations')`, `format('woff-variations')`, `format('woff2-variations')`",
     "6":"Does not support OpenType-CFF2 fonts"
   },
-  "usage_perc_y":84.17,
+  "usage_perc_y":85.12,
   "usage_perc_a":0.52,
   "ucprefix":false,
   "parent":"",

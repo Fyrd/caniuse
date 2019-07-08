@@ -265,7 +265,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -283,7 +285,7 @@
       "11.0-11.2":"a #1",
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
-      "12.2":"a #1",
+      "12.2-12.3":"a #1",
       "13":"a #1"
     },
     "op_mini":{
@@ -350,7 +352,7 @@
     "1":"Supports an [older draft](https://wiki.whatwg.org/wiki/Meta_referrer) of the specification with `never`, `always`, `origin` & `default` values.\r\n",
     "2":"Chrome does not support `same-origin`, `strict-origin`, or `strict-origin-when-cross-origin` values ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))"
   },
-  "usage_perc_y":74.46,
+  "usage_perc_y":75.4,
   "usage_perc_a":19.83,
   "ucprefix":false,
   "parent":"",

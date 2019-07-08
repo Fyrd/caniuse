@@ -267,7 +267,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -285,7 +287,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n",
+      "12.2-12.3":"n",
       "13":"n"
     },
     "op_mini":{
@@ -353,7 +355,7 @@
     "2":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
     "3":"Enabled through the \"Experimental Web Platform features\" flag in `opera://flags`"
   },
-  "usage_perc_y":72.46,
+  "usage_perc_y":73.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

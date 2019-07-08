@@ -269,7 +269,9 @@
       "55":"a #4",
       "56":"a #4",
       "57":"a #4",
-      "58":"a #4"
+      "58":"a #4",
+      "60":"a #4",
+      "62":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -287,7 +289,7 @@
       "11.0-11.2":"a #4",
       "11.3-11.4":"a #4",
       "12.0-12.1":"a #4",
-      "12.2":"a #4",
+      "12.2-12.3":"a #4",
       "13":"a #4"
     },
     "op_mini":{
@@ -359,7 +361,7 @@
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
   "usage_perc_y":0,
-  "usage_perc_a":85.83,
+  "usage_perc_a":86.77,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

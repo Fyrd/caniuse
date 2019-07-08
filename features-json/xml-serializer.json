@@ -271,7 +271,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -289,7 +291,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -357,7 +359,7 @@
     "2":"Partial support refers to supporting only `innerHTML`.",
     "3":"Partial support refers to supporting only `innerHTML` and `insertAdjacentHTML`."
   },
-  "usage_perc_y":95.23,
+  "usage_perc_y":96.17,
   "usage_perc_a":2.96,
   "ucprefix":false,
   "parent":"",

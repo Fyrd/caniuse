@@ -281,7 +281,9 @@
       "55":"a d #1 #4",
       "56":"a d #1 #4",
       "57":"a d #1 #4",
-      "58":"a d #1 #4"
+      "58":"a d #1 #4",
+      "60":"a d #1 #4",
+      "62":"a d #1 #4"
     },
     "ios_saf":{
       "3.2":"u",
@@ -299,7 +301,7 @@
       "11.0-11.2":"y #2",
       "11.3-11.4":"y #2",
       "12.0-12.1":"y #2",
-      "12.2":"y #2",
+      "12.2-12.3":"y #2",
       "13":"y #2"
     },
     "op_mini":{
@@ -369,7 +371,7 @@
     "4":"Support for ':matches()' is available behind the \"Experimental Web Platform features\" flag"
   },
   "usage_perc_y":13.11,
-  "usage_perc_a":78.86,
+  "usage_perc_a":79.8,
   "ucprefix":false,
   "parent":"",
   "keywords":":matches,matches,:any,any",

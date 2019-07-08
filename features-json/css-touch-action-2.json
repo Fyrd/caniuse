@@ -275,7 +275,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -293,7 +295,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n",
+      "12.2-12.3":"n",
       "13":"n"
     },
     "op_mini":{
@@ -360,7 +362,7 @@
     "1":"IE and Edge only support `pinch-zoom`.",
     "2":"Chromium 55 derived browsers implement direction-specific panning but do not support `pinch-zoom`."
   },
-  "usage_perc_y":67.41,
+  "usage_perc_y":68.36,
   "usage_perc_a":4.24,
   "ucprefix":false,
   "parent":"css-touch-action",

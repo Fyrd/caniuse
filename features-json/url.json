@@ -265,7 +265,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -283,7 +285,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -349,7 +351,7 @@
   "notes_by_num":{
     "1":"Allows objects to be created via `URL` constructor, but instances do not have the expected url properties."
   },
-  "usage_perc_y":93.07,
+  "usage_perc_y":94.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

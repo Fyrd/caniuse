@@ -281,7 +281,9 @@
       "55":"a #7",
       "56":"a #7",
       "57":"a #7",
-      "58":"a #7"
+      "58":"a #7",
+      "60":"a #7",
+      "62":"a #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -299,7 +301,7 @@
       "11.0-11.2":"n #3",
       "11.3-11.4":"a #7",
       "12.0-12.1":"a #7",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -373,7 +375,7 @@
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
   "usage_perc_y":9.81,
-  "usage_perc_a":74.92,
+  "usage_perc_a":75.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

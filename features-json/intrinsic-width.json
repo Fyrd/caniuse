@@ -263,7 +263,9 @@
       "55":"y #3 #4",
       "56":"y #3 #4",
       "57":"y #3 #4",
-      "58":"y #3 #4"
+      "58":"y #3 #4",
+      "60":"y #3 #4",
+      "62":"y #3 #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -281,7 +283,7 @@
       "11.0-11.2":"a x #3",
       "11.3-11.4":"a x #3",
       "12.0-12.1":"a x #3",
-      "12.2":"a x #3",
+      "12.2-12.3":"a x #3",
       "13":"a x #3"
     },
     "op_mini":{
@@ -351,7 +353,7 @@
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2).",
     "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":72.96,
+  "usage_perc_y":73.9,
   "usage_perc_a":18.35,
   "ucprefix":false,
   "parent":"",

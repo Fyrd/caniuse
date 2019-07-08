@@ -287,7 +287,9 @@
       "55":"a #1",
       "56":"a #1",
       "57":"a #1",
-      "58":"a #1"
+      "58":"a #1",
+      "60":"a #1",
+      "62":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -305,7 +307,7 @@
       "11.0-11.2":"n",
       "11.3-11.4":"u",
       "12.0-12.1":"u",
-      "12.2":"u",
+      "12.2-12.3":"u",
       "13":"u"
     },
     "op_mini":{
@@ -374,7 +376,7 @@
     "3":"Doesn't support [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":68.88,
+  "usage_perc_a":69.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow",

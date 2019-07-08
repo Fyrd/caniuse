@@ -312,7 +312,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -330,7 +332,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -398,7 +400,7 @@
     "2":"Partial support refers to not supporting the \"vmax\" unit. ",
     "3":"Partial support in iOS7 is due to buggy behavior of the \"vh\" unit (see workarounds: [1](https://gist.github.com/pburtchaell/e702f441ba9b3f76f587), [2](https://gist.github.com/BenMorel/e9e34c08360ebbbd0634))."
   },
-  "usage_perc_y":93.16,
+  "usage_perc_y":94.1,
   "usage_perc_a":2.45,
   "ucprefix":false,
   "parent":"",

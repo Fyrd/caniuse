@@ -271,7 +271,9 @@
       "55":"a x #1",
       "56":"a x #1",
       "57":"a x #1",
-      "58":"a x #1"
+      "58":"a x #1",
+      "60":"a x #1",
+      "62":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -289,7 +291,7 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -357,7 +359,7 @@
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
   "usage_perc_y":18.04,
-  "usage_perc_a":72.93,
+  "usage_perc_a":73.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

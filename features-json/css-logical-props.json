@@ -274,7 +274,9 @@
       "55":"a x #2",
       "56":"a x #2",
       "57":"a x #2",
-      "58":"a x #2"
+      "58":"a x #2",
+      "60":"a x #2",
+      "62":"a x #2"
     },
     "ios_saf":{
       "3.2":"a x #2",
@@ -292,7 +294,7 @@
       "11.0-11.2":"a x #2",
       "11.3-11.4":"a x #2",
       "12.0-12.1":"a x #2",
-      "12.2":"y",
+      "12.2-12.3":"y",
       "13":"y"
     },
     "op_mini":{
@@ -360,7 +362,7 @@
     "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
   },
   "usage_perc_y":77.51,
-  "usage_perc_a":14.62,
+  "usage_perc_a":15.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"block-size,border-block,border-block-color,border-block-end,border-block-end-color,border-block-end-style,border-block-end-width,border-block-start,border-block-start-color,border-block-start-style,border-block-start-width,border-block-style,border-block-width,border-end-end-radius,border-end-start-radius,border-inline,border-inline-color,border-inline-end,border-inline-end-color,border-inline-end-style,border-inline-end-width,border-inline-start,border-inline-start-color,border-inline-start-style,border-inline-start-width,border-inline-style,border-inline-width,border-start-end-radius,border-start-start-radius,inline-size,inset,inset-block,inset-block-end,inset-block-start,inset-inline,inset-inline-end,inset-inline-start,margin-block,margin-block-end,margin-block-start,margin-inline,margin-inline-end,margin-inline-start,max-block-size,max-inline-size,min-block-size,min-inline-size,padding-block,padding-block-end,padding-block-start,padding-inline,padding-inline-end,padding-inline-start,recto,verso",
