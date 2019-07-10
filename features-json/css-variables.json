@@ -5,10 +5,6 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://github.com/nuxodin/ie11CustomProperties",
-      "title":"Polyfill for IE11"
-    },
-    {
       "url":"https://hacks.mozilla.org/2013/12/css-variables-in-firefox-nightly/",
       "title":"Mozilla hacks article (older syntax)"
     },
@@ -19,6 +15,10 @@
     {
       "url":"https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/",
       "title":"Edge Dev Blog post"
+    },
+    {
+      "url":"https://github.com/nuxodin/ie11CustomProperties",
+      "title":"Polyfill for IE11"
     }
   ],
   "bugs":[
@@ -125,7 +125,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "chrome":{
       "4":"n",
