@@ -291,7 +291,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.3":"n",
-      "13":"n"
+      "13":"a #4"
     },
     "op_mini":{
       "all":"n"
@@ -356,7 +356,8 @@
   "notes_by_num":{
     "1":"Requires the `media.mediasource.enabled` flag to be enabled, support is limited to a whitelist including the YouTube, Netflix, and Dailymotion websites",
     "2":"Partial support in IE11 refers to only working in Windows 8+",
-    "3":"Due to compatibility issues, MediaSource Extensions are currently disabled by default in Samsung Internet."
+    "3":"Due to compatibility issues, MediaSource Extensions are currently disabled by default in Samsung Internet.",
+    "4":"Fully supported only in iPadOS 13 and later."
   },
   "usage_perc_y":79.26,
   "usage_perc_a":1.91,
