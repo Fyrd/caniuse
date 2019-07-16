@@ -203,7 +203,7 @@
       "9":"n",
       "9.1":"n",
       "10":"n",
-      "10.1":"y",
+      "10.1":"n #3",
       "11":"y",
       "11.1":"y",
       "12":"y",
@@ -282,7 +282,7 @@
       "9.0-9.2":"n",
       "9.3":"n",
       "10.0-10.2":"n",
-      "10.3":"y",
+      "10.3":"n #3",
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
@@ -351,7 +351,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Since build 14342 - disabled by default; can be enabled through about:flags",
-    "2":"Async functions are present in Firefox Nightly since 31th October 2016."
+    "2":"Async functions are present in Firefox Nightly since 31th October 2016.",
+    "3":"Async arrow functions are [unsupported](https://github.com/kangax/compat-table/pull/1420)."
   },
   "usage_perc_y":90.84,
   "usage_perc_a":0,
