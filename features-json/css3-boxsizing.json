@@ -43,6 +43,9 @@
     },
     {
       "description":"In IE8, the min-width property applies to `content-box` even if `box-sizing` is set to `border-box`."
+    },
+    {
+      "description":"The `inherit` value doesn't work for elements inside `details`, this could lead to unexpected behaviour when box sizing is used in an universal selector, see https://bugs.chromium.org/p/chromium/issues/detail?id=589475"
     }
   ],
   "categories":[
