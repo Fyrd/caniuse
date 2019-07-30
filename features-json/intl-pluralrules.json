@@ -1,7 +1,7 @@
 {
   "title":"Intl.PluralRules API",
   "description":"API for plural sensitive formatting and plural language rules.",
-  "spec":"https://rawgit.com/caridy/intl-plural-rules-spec/master/index.html",
+  "spec":"https://tc39.es/ecma402/#sec-intl-pluralrules-constructor",
   "status":"other",
   "links":[
     {
@@ -287,7 +287,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.3":"n",
-      "13":"n"
+      "13":"u"
     },
     "op_mini":{
       "all":"n"
@@ -315,7 +315,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "46":"y"
     },
     "and_chr":{
       "75":"y"
@@ -328,15 +328,15 @@
       "11":"n"
     },
     "and_uc":{
-      "12.12":"n"
+      "12.12":"y"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"n",
-      "9.2":"n"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -352,7 +352,7 @@
   "notes_by_num":{
     "1":"Intl.PluralRules exists, but methods are not implemented."
   },
-  "usage_perc_y":68.55,
+  "usage_perc_y":74.86,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"internationalization",
@@ -361,5 +361,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
