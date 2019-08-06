@@ -359,8 +359,8 @@
     "1":"While a `window.CustomEvent` object exists, it cannot be called as a constructor. Instead of `new CustomEvent(...)`, you must use `e = document.createEvent('CustomEvent')` and then `e.initCustomEvent(...)`",
     "2":"There is no `window.CustomEvent` object, but `document.createEvent('CustomEvent')` still works."
   },
-  "usage_perc_y":95.78,
-  "usage_perc_a":3.02,
+  "usage_perc_y":95.93,
+  "usage_perc_a":2.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"custom events,custom,event",
