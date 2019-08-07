@@ -1,7 +1,7 @@
 {
   "title":"CSS Filter Effects",
-  "description":"Method of applying filter effects (like blur, grayscale, brightness, contrast and hue) to elements, previously only possible by using SVG.",
-  "spec":"http://www.w3.org/TR/filter-effects-1/",
+  "description":"Method of applying filter effects using the `filter` property to elements, matching filters available in SVG. Filter functions include blur, brightness, contrast, drop-shadow, grayscale, hue-rotate, invert, opacity, sepia and saturate.",
+  "spec":"https://www.w3.org/TR/filter-effects-1/",
   "status":"wd",
   "links":[
     {
@@ -9,7 +9,7 @@
       "title":"Demo file for WebKit browsers"
     },
     {
-      "url":"http://www.html5rocks.com/en/tutorials/filters/understanding-css/",
+      "url":"https://www.html5rocks.com/en/tutorials/filters/understanding-css/",
       "title":"HTML5Rocks article"
     },
     {
@@ -22,7 +22,12 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In Edge filter won't apply if the element or it's parent has negative z-index. [See bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/9318580/)."
+    },
+    {
+      "description":"Currently there are no browsers with support for spread-radius in the drop-shadow filter. [See comment on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow#Parameters)."
+    }
   ],
   "categories":[
     "CSS",
@@ -42,7 +47,11 @@
       "12":"n d #2 #4",
       "13":"a #4",
       "14":"a #4",
-      "15":"a #4"
+      "15":"a #4",
+      "16":"a #4",
+      "17":"a #4",
+      "18":"a #4",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -101,7 +110,21 @@
       "53":"y",
       "54":"y",
       "55":"y",
-      "56":"y"
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "chrome":{
       "4":"n",
@@ -160,7 +183,26 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y"
     },
     "safari":{
       "3.1":"n",
@@ -177,6 +219,11 @@
       "9.1":"y",
       "10":"y",
       "10.1":"y",
+      "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -222,7 +269,21 @@
       "43":"y",
       "44":"y",
       "45":"y",
-      "46":"y"
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -236,7 +297,12 @@
       "9.0-9.2":"y x",
       "9.3":"y",
       "10.0-10.2":"y",
-      "10.3":"y"
+      "10.3":"y",
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -251,7 +317,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -264,26 +330,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y x"
+      "46":"y"
     },
     "and_chr":{
-      "57":"y"
+      "75":"y"
     },
     "and_ff":{
-      "52":"y"
+      "67":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y x"
+      "12.12":"y"
     },
     "samsung":{
-      "4":"y x"
+      "4":"y x",
+      "5.0-5.4":"y x",
+      "6.2-6.4":"y x",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y x"
+    },
+    "baidu":{
+      "7.12":"y x"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Note that this property is significantly different from and incompatible with Microsoft's [older \"filter\" property](http://msdn.microsoft.com/en-us/library/ie/ms530752%28v=vs.85%29.aspx).",
@@ -293,11 +370,11 @@
     "3":"Partial support in Firefox before version 34 [only implemented the url() function of the filter property](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility)",
     "4":"Partial support refers to supporting filter functions, but not the `url` function."
   },
-  "usage_perc_y":87.65,
-  "usage_perc_a":1.95,
+  "usage_perc_y":92.13,
+  "usage_perc_a":2.33,
   "ucprefix":false,
   "parent":"",
-  "keywords":"sepia,hue-rotate,invert,saturate,filter:blur",
+  "keywords":"filter:",
   "ie_id":"filters",
   "chrome_id":"5822463824887808",
   "firefox_id":"",

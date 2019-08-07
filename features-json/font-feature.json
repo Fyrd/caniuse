@@ -9,7 +9,7 @@
       "title":"Demo pages (IE/Firefox only)"
     },
     {
-      "url":"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
+      "url":"https://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
       "title":"Mozilla hacks article"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings",
-      "title":"Mozilla Developer Network (MDN) documentation - font-feature-settings"
+      "title":"MDN Web Docs - font-feature-settings"
     },
     {
       "url":"https://www.microsoft.com/typography/otspec/featuretags.htm",
@@ -38,7 +38,7 @@
       "description":"IE10 and 11 do not always appear to support the `ss01` value correctly."
     },
     {
-      "description":"IE10 and 11 on Windows 7 [can hide the text](http://stackoverflow.com/questions/22151835/msie-10-web-font-and-font-feature-settings-causes-invisible-text) under certain circumstances."
+      "description":"IE10 and 11 on Windows 7 [can hide the text](https://stackoverflow.com/questions/22151835/msie-10-web-font-and-font-feature-settings-causes-invisible-text) under certain circumstances."
     }
   ],
   "categories":[
@@ -58,7 +58,11 @@
       "12":"y",
       "13":"y",
       "14":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -117,7 +121,21 @@
       "53":"y",
       "54":"y",
       "55":"y",
-      "56":"y"
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +194,26 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y"
     },
     "safari":{
       "3.1":"n",
@@ -193,6 +230,11 @@
       "9.1":"y",
       "10":"y",
       "10.1":"y",
+      "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -238,7 +280,21 @@
       "43":"y",
       "44":"y",
       "45":"y",
-      "46":"y"
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -252,7 +308,12 @@
       "9.0-9.2":"n",
       "9.3":"y",
       "10.0-10.2":"y",
-      "10.3":"y"
+      "10.3":"y",
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -267,7 +328,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -280,35 +341,46 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "57":"y"
+      "75":"y"
     },
     "and_ff":{
-      "52":"y"
+      "67":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y x"
+      "12.12":"y"
     },
     "samsung":{
-      "4":"y x"
+      "4":"y x",
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
+    },
+    "baidu":{
+      "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Whenever possible, font-variant shorthand property or an associated longhand property, font-variant-ligatures, font-variant-caps, font-variant-east-asian, font-variant-alternates, font-variant-numeric or font-variant-position should be used. This property is a low-level feature designed to handle special cases where no other way to enable or access an OpenType font feature exists. In particular, this CSS property shouldn't be used to enable small caps.",
   "notes_by_num":{
-    "1":"From Gecko 2.0 (Firefox 4.0) to Gecko 14.0 (Firefox 14.0) included, Gecko supported an older syntax, slightly different from the modern one: http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
+    "1":"From Gecko 2.0 (Firefox 4.0) to Gecko 14.0 (Firefox 14.0) included, Gecko supported an older syntax, slightly different from the modern one: https://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
     "2":"Partial support in older Chrome versions refers to lacking support in Mac OS X."
   },
-  "usage_perc_y":92.6,
-  "usage_perc_a":0.22,
+  "usage_perc_y":96.17,
+  "usage_perc_a":0.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",

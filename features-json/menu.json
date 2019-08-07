@@ -1,8 +1,8 @@
 {
-  "title":"Toolbar/context menu",
-  "description":"Method of defining a toolbar menu, a context menu or a list of (interactive) options using the <menu> element.",
-  "spec":"https://html.spec.whatwg.org/multipage/forms.html#the-menu-element",
-  "status":"ls",
+  "title":"Context menu item (menuitem element)",
+  "description":"Method of defining a context menu item, now deprecated and [removed from the HTML specification](https://github.com/whatwg/html/issues/2730). ",
+  "spec":"https://www.w3.org/TR/2016/REC-html51-20161101/interactive-elements.html#context-menus",
+  "status":"unoff",
   "links":[
     {
       "url":"https://bug617528.bugzilla.mozilla.org/attachment.cgi?id=554309",
@@ -45,7 +45,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "76":"n d #5"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +108,21 @@
       "53":"a #1",
       "54":"a #1",
       "55":"a #1",
-      "56":"a #1"
+      "56":"a #1",
+      "57":"a #1",
+      "58":"a #1",
+      "59":"a #1",
+      "60":"a #1",
+      "61":"a #1",
+      "62":"a #1",
+      "63":"a #1",
+      "64":"a #1",
+      "65":"a #1",
+      "66":"a #1",
+      "67":"a #1",
+      "68":"a #1",
+      "69":"a #1",
+      "70":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +181,26 @@
       "57":"n d #5",
       "58":"n d #5",
       "59":"n d #5",
-      "60":"n d #5"
+      "60":"n d #5",
+      "61":"n d #5",
+      "62":"n d #5",
+      "63":"n d #5",
+      "64":"n d #5",
+      "65":"n d #5",
+      "66":"n d #5",
+      "67":"n d #5",
+      "68":"n d #5",
+      "69":"n d #5",
+      "70":"n d #5",
+      "71":"n d #5",
+      "72":"n d #5",
+      "73":"n d #5",
+      "74":"n d #5",
+      "75":"n d #5",
+      "76":"n d #5",
+      "77":"n d #5",
+      "78":"n d #5",
+      "79":"n d #5"
     },
     "safari":{
       "3.1":"n",
@@ -180,6 +217,11 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
+      "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -225,7 +267,21 @@
       "43":"n d #5",
       "44":"n d #5",
       "45":"n d #5",
-      "46":"n d #5"
+      "46":"n d #5",
+      "47":"n d #5",
+      "48":"n d #5",
+      "49":"n d #5",
+      "50":"n d #5",
+      "51":"n d #5",
+      "52":"n d #5",
+      "53":"n d #5",
+      "54":"n d #5",
+      "55":"n d #5",
+      "56":"n d #5",
+      "57":"n d #5",
+      "58":"n d #5",
+      "60":"n d #5",
+      "62":"n d #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -239,7 +295,12 @@
       "9.0-9.2":"n",
       "9.3":"n",
       "10.0-10.2":"n",
-      "10.3":"n"
+      "10.3":"n",
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2-12.3":"n",
+      "13":"n"
     },
     "op_mini":{
       "all":"n"
@@ -254,7 +315,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -267,26 +328,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "57":"n"
+      "75":"n"
     },
     "and_ff":{
-      "52":"a #1 #4"
+      "67":"a #1 #4"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "12.12":"n"
     },
     "samsung":{
-      "4":"n"
+      "4":"n",
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n d #5"
+    },
+    "baidu":{
+      "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
@@ -298,10 +370,10 @@
     "5":"Context menus supported in Chromium with the \"enable-blink-features=ContextMenu\" command line flag"
   },
   "usage_perc_y":0,
-  "usage_perc_a":6.59,
+  "usage_perc_a":4.51,
   "ucprefix":false,
   "parent":"",
-  "keywords":"contextmenu,menuitem,command",
+  "keywords":"contextmenu,<menuitem>,command",
   "ie_id":"menuelement",
   "chrome_id":"",
   "firefox_id":"",

@@ -1,8 +1,8 @@
 {
   "title":"SVG fragment identifiers",
   "description":"Method of displaying only a part of an SVG image by defining a view ID or view box dimensions as the file's fragment identifier.",
-  "spec":"http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers",
-  "status":"rec",
+  "spec":"https://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers",
+  "status":"cr",
   "links":[
     {
       "url":"http://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/",
@@ -33,15 +33,19 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"y",
-      "10":"y",
-      "11":"y"
+      "9":"a #2",
+      "10":"a #2",
+      "11":"a #2"
     },
     "edge":{
       "12":"y",
       "13":"y",
       "14":"y",
-      "15":"y"
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -100,7 +104,21 @@
       "53":"y",
       "54":"y",
       "55":"y",
-      "56":"y"
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "chrome":{
       "4":"n",
@@ -159,7 +177,26 @@
       "57":"y",
       "58":"y",
       "59":"y",
-      "60":"y"
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y"
     },
     "safari":{
       "3.1":"n",
@@ -176,7 +213,12 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "TP":"n"
+      "11":"n",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
+      "13":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"u",
@@ -221,7 +263,21 @@
       "43":"y",
       "44":"y",
       "45":"y",
-      "46":"y"
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -235,7 +291,12 @@
       "9.0-9.2":"n",
       "9.3":"n",
       "10.0-10.2":"n",
-      "10.3":"n"
+      "10.3":"n",
+      "11.0-11.2":"n",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"y"
@@ -250,7 +311,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"y"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -263,34 +324,46 @@
       "11.5":"a",
       "12":"a",
       "12.1":"y",
-      "37":"y"
+      "46":"y"
     },
     "and_chr":{
-      "57":"y"
+      "75":"y"
     },
     "and_ff":{
-      "52":"y"
+      "67":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.4":"a #1"
+      "12.12":"y"
     },
     "samsung":{
-      "4":"a #1"
+      "4":"a #1",
+      "5.0-5.4":"y",
+      "6.2-6.4":"y",
+      "7.2-7.4":"y",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"a #1"
+    },
+    "baidu":{
+      "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to support inside `<img>` but not as CSS `background-image`"
+    "1":"Partial support refers to support inside `<img>` but not as CSS `background-image`",
+    "2":"Partial support refers to lack of external fragments support"
   },
-  "usage_perc_y":67.18,
-  "usage_perc_a":15.66,
+  "usage_perc_y":92.91,
+  "usage_perc_a":3.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"fragments,sprite,svg,use",

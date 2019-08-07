@@ -5,12 +5,16 @@
   "status":"ls",
   "links":[
     {
-      "url":"http://crbug.com/294179",
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=294179",
       "title":"Chrome bug"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6509196-svg-favicons",
       "title":"Microsoft Edge feature request on UserVoice"
+    },
+    {
+      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/18357657/",
+      "title":"Microsoft EdgeHTML issue tracker: Issue #18357657: Support SVG favicons"
     }
   ],
   "bugs":[
@@ -34,7 +38,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "76":"u"
     },
     "firefox":{
       "2":"n",
@@ -93,7 +101,21 @@
       "53":"y #4",
       "54":"y #4",
       "55":"y #4",
-      "56":"y #4"
+      "56":"y #4",
+      "57":"y #4",
+      "58":"y #4",
+      "59":"y #4",
+      "60":"y #4",
+      "61":"y #4",
+      "62":"y #4",
+      "63":"y #4",
+      "64":"y #4",
+      "65":"y #4",
+      "66":"y #4",
+      "67":"y #4",
+      "68":"y #4",
+      "69":"y #4",
+      "70":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -150,9 +172,28 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"u",
-      "59":"u",
-      "60":"u"
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n",
+      "77":"u",
+      "78":"u",
+      "79":"u"
     },
     "safari":{
       "3.1":"n",
@@ -169,6 +210,11 @@
       "9.1":"a #3",
       "10":"a #3",
       "10.1":"a #3",
+      "11":"a #3",
+      "11.1":"a #3",
+      "12":"a #3",
+      "12.1":"a #3",
+      "13":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -212,9 +258,23 @@
       "41":"n",
       "42":"n",
       "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n"
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -228,7 +288,12 @@
       "9.0-9.2":"a #3",
       "9.3":"a #3",
       "10.0-10.2":"a #3",
-      "10.3":"a #3"
+      "10.3":"a #3",
+      "11.0-11.2":"a #3",
+      "11.3-11.4":"a #3",
+      "12.0-12.1":"a #3",
+      "12.2-12.3":"a #3",
+      "13":"a #3"
     },
     "op_mini":{
       "all":"n #1"
@@ -243,7 +308,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -256,26 +321,37 @@
       "11.5":"n #1",
       "12":"n #1",
       "12.1":"n #1",
-      "37":"n #1"
+      "46":"n #1"
     },
     "and_chr":{
-      "57":"n"
+      "75":"n"
     },
     "and_ff":{
-      "52":"n"
+      "67":"n"
     },
     "ie_mob":{
       "10":"n #1",
       "11":"n #1"
     },
     "and_uc":{
-      "11.4":"n"
+      "12.12":"n"
     },
     "samsung":{
-      "4":"n"
+      "4":"n",
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y #4"
     }
   },
   "notes":"See also [PNG favicons](#feat=link-icon-png).",
@@ -285,8 +361,8 @@
     "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":6.09,
-  "usage_perc_a":12.35,
+  "usage_perc_y":5.6,
+  "usage_perc_a":13.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

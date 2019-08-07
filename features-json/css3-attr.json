@@ -1,12 +1,12 @@
 {
-  "title":"CSS3 attr() function",
-  "description":"CSS Values and Units Level 3 adds the ability to use `attr()` on any CSS property, not just `content`, and to use it for non-string values (e.g. numbers, colors).",
+  "title":"CSS3 attr() function for all properties",
+  "description":"While `attr()` is supported for effectively all browsers for the `content` property, CSS Values and Units Level 3 adds the ability to use `attr()` on **any** CSS property, and to use it for non-string values (e.g. numbers, colors).",
   "spec":"https://www.w3.org/TR/css-values/#attr-notation",
   "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/attr",
-      "title":"Mozilla Developer Network (MDN) documentation - CSS attr"
+      "title":"MDN Web Docs - CSS attr"
     },
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/7671960-css-attr-as-defined-in-css-values-level-3",
@@ -45,7 +45,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "76":"n"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +108,21 @@
       "53":"n",
       "54":"n",
       "55":"n",
-      "56":"n"
+      "56":"n",
+      "57":"n",
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +181,26 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"n"
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n",
+      "77":"n",
+      "78":"n",
+      "79":"n"
     },
     "safari":{
       "3.1":"n",
@@ -180,6 +217,11 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
+      "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -225,7 +267,21 @@
       "43":"n",
       "44":"n",
       "45":"n",
-      "46":"n"
+      "46":"n",
+      "47":"n",
+      "48":"n",
+      "49":"n",
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n",
+      "60":"n",
+      "62":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -239,7 +295,12 @@
       "9.0-9.2":"n",
       "9.3":"n",
       "10.0-10.2":"n",
-      "10.3":"n"
+      "10.3":"n",
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2-12.3":"n",
+      "13":"n"
     },
     "op_mini":{
       "all":"n"
@@ -254,7 +315,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"n"
     },
     "bb":{
       "7":"n",
@@ -267,29 +328,40 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "57":"n"
+      "75":"n"
     },
     "and_ff":{
-      "52":"n"
+      "67":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "12.12":"n"
     },
     "samsung":{
-      "4":"n"
+      "4":"n",
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
-  "notes":"",
+  "notes":"See the [generated content](/#feat=css-gencontent) table for support for `attr()` for the `content` property.",
   "notes_by_num":{
     
   },

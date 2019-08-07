@@ -14,7 +14,7 @@
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis",
-      "title":"Mozilla Developer Network (MDN) documentation - text-emphasis"
+      "title":"MDN Web Docs - text-emphasis"
     }
   ],
   "bugs":[
@@ -39,7 +39,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "76":"a x #1"
     },
     "firefox":{
       "2":"n",
@@ -98,7 +102,21 @@
       "53":"y",
       "54":"y",
       "55":"y",
-      "56":"y"
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "chrome":{
       "4":"n",
@@ -157,7 +175,26 @@
       "57":"a x #1",
       "58":"a x #1",
       "59":"a x #1",
-      "60":"a x #1"
+      "60":"a x #1",
+      "61":"a x #1",
+      "62":"a x #1",
+      "63":"a x #1",
+      "64":"a x #1",
+      "65":"a x #1",
+      "66":"a x #1",
+      "67":"a x #1",
+      "68":"a x #1",
+      "69":"a x #1",
+      "70":"a x #1",
+      "71":"a x #1",
+      "72":"a x #1",
+      "73":"a x #1",
+      "74":"a x #1",
+      "75":"a x #1",
+      "76":"a x #1",
+      "77":"a x #1",
+      "78":"a x #1",
+      "79":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -174,6 +211,11 @@
       "9.1":"y",
       "10":"y",
       "10.1":"y",
+      "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -219,7 +261,21 @@
       "43":"a x #1",
       "44":"a x #1",
       "45":"a x #1",
-      "46":"a x #1"
+      "46":"a x #1",
+      "47":"a x #1",
+      "48":"a x #1",
+      "49":"a x #1",
+      "50":"a x #1",
+      "51":"a x #1",
+      "52":"a x #1",
+      "53":"a x #1",
+      "54":"a x #1",
+      "55":"a x #1",
+      "56":"a x #1",
+      "57":"a x #1",
+      "58":"a x #1",
+      "60":"a x #1",
+      "62":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -233,7 +289,12 @@
       "9.0-9.2":"y",
       "9.3":"y",
       "10.0-10.2":"y",
-      "10.3":"y"
+      "10.3":"y",
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -248,7 +309,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "56":"a x #1"
+      "67":"a x #1"
     },
     "bb":{
       "7":"n",
@@ -261,26 +322,37 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"a x #1"
+      "46":"a x #1"
     },
     "and_chr":{
-      "57":"a x #1"
+      "75":"a x #1"
     },
     "and_ff":{
-      "52":"n"
+      "67":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"a x #1"
+      "12.12":"a x #1"
     },
     "samsung":{
-      "4":"a x #1"
+      "4":"a x #1",
+      "5.0-5.4":"a x #1",
+      "6.2-6.4":"a x #1",
+      "7.2-7.4":"a x #1",
+      "8.2":"a x #1",
+      "9.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
+    },
+    "baidu":{
+      "7.12":"a x #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Some old WebKit browsers (like Chrome 24) support `-webkit-text-emphasis`, but does not support CJK languages and is therefore considered unsupported.",
@@ -288,8 +360,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":17.89,
-  "usage_perc_a":69.09,
+  "usage_perc_y":17.9,
+  "usage_perc_a":74.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

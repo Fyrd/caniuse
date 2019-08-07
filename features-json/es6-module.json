@@ -1,7 +1,7 @@
 {
-  "title":"ES6 module",
-  "description":"Import/export modules in JavaScript in ES6",
-  "spec":"http://www.ecma-international.org/ecma-262/6.0/#sec-exports",
+  "title":"JavaScript modules via script tag",
+  "description":"Loading JavaScript module scripts using `<script type=\"module\">` Includes support for the `nomodule` attribute.",
+  "spec":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-type",
   "status":"ls",
   "links":[
     {
@@ -10,7 +10,7 @@
     },
     {
       "url":"https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/",
-      "title":"MS Edge blog post on ES6 modules support"
+      "title":"MS Edge blog post"
     },
     {
       "url":"https://hacks.mozilla.org/2015/08/es6-in-depth-modules/",
@@ -23,13 +23,34 @@
     {
       "url":"https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview",
       "title":"Blog post: Native ECMAScript modules - the first overview"
+    },
+    {
+      "url":"https://tc39.github.io/ecma262/#sec-modules",
+      "title":"Counterpart ECMAScript specification for import/export syntax"
+    },
+    {
+      "url":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-nomodule",
+      "title":"Specification for nomodule attribute"
+    },
+    {
+      "url":"https://hospodarets.com/native-ecmascript-modules-nomodule",
+      "title":"Blog post on using nomodule"
+    },
+    {
+      "url":"https://gist.github.com/jakub-g/5fc11af85a061ca29cc84892f1059fec",
+      "title":"Will it double-fetch? Browser behavior with `module` / `nomodule` scripts"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"`nomodule` scripts are not executed in Edge, but they're still fetched"
+    },
+    {
+      "description":"Edge 17+ fetches HTML-declared <script type='module'> twice"
+    }
   ],
   "categories":[
-    "JS API"
+    "JS"
   ],
   "stats":{
     "ie":{
@@ -45,7 +66,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n d #1"
+      "15":"n d #1 #6",
+      "16":"y #6",
+      "17":"y #6",
+      "18":"y #6",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +129,21 @@
       "53":"n",
       "54":"n d #2",
       "55":"n d #2",
-      "56":"n d #2"
+      "56":"n d #2",
+      "57":"n d #2",
+      "58":"n d #2",
+      "59":"n d #2",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y"
     },
     "chrome":{
       "4":"n",
@@ -163,7 +202,26 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"n"
+      "60":"n d #1",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y",
+      "73":"y",
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y"
     },
     "safari":{
       "3.1":"n",
@@ -179,7 +237,12 @@
       "9":"n",
       "9.1":"n",
       "10":"n",
-      "10.1":"y",
+      "10.1":"a #4 #5",
+      "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -225,7 +288,21 @@
       "43":"n",
       "44":"n",
       "45":"n",
-      "46":"n"
+      "46":"n",
+      "47":"n d #1",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -239,7 +316,12 @@
       "9.0-9.2":"n",
       "9.3":"n",
       "10.0-10.2":"n",
-      "10.3":"y"
+      "10.3":"a #4 #5",
+      "11.0-11.2":"y",
+      "11.3-11.4":"y",
+      "12.0-12.1":"y",
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -254,7 +336,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "56":"n"
+      "67":"y"
     },
     "bb":{
       "7":"n",
@@ -267,38 +349,53 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"n"
+      "46":"n"
     },
     "and_chr":{
-      "57":"n"
+      "75":"y"
     },
     "and_ff":{
-      "52":"n"
+      "67":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"n"
+      "12.12":"n"
     },
     "samsung":{
-      "4":"n"
+      "4":"n",
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
+    },
+    "baidu":{
+      "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Support can be enabled via `about:flags`",
-    "2":"Support can be enabled via `about:config`"
+    "2":"Support can be enabled via `about:config`",
+    "3":"Support can be enabled via the `experimental-web-platform-features` flag",
+    "4":"Does not support the `nomodule` attribute",
+    "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
+    "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":0.3,
-  "usage_perc_a":0,
+  "usage_perc_y":86.05,
+  "usage_perc_a":0.32,
   "ucprefix":false,
   "parent":"",
-  "keywords":"es6,module,import,export",
+  "keywords":"es6,javascript,module,import,export,nomodule",
   "ie_id":"moduleses6",
   "chrome_id":"5365692190687232",
   "firefox_id":"",

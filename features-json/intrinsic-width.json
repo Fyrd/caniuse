@@ -1,16 +1,18 @@
 {
   "title":"Intrinsic & Extrinsic Sizing",
-  "description":"Allows for the heights and widths to be specified in intrinsic values using the `fill`, `max-content`, `min-content`, and `fit-content` properties.",
-  "spec":"http://www.w3.org/TR/css3-sizing/",
+  "description":"Allows for the heights and widths to be specified in intrinsic values using the `max-content`, `min-content`, `fit-content` and `stretch` (formerly `fill`) properties.",
+  "spec":"https://www.w3.org/TR/css3-sizing/",
   "status":"wd",
   "links":[
     {
-      "url":"http://demosthenes.info/blog/662/Design-From-the-Inside-Out-With-CSS-MinContent",
+      "url":"http://thenewcode.com/662/Design-From-the-Inside-Out-With-CSS-Min-Content",
       "title":"Min-Content tutorial"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari does not yet support usage with CSS Grid Layout properties such as `grid-template-rows`."
+    }
   ],
   "categories":[
     "CSS3"
@@ -29,7 +31,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"n"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "76":"y #3 #4"
     },
     "firefox":{
       "2":"n",
@@ -88,7 +94,21 @@
       "53":"a x #1 #2 #3",
       "54":"a x #1 #2 #3",
       "55":"a x #1 #2 #3",
-      "56":"a x #1 #2 #3"
+      "56":"a x #1 #2 #3",
+      "57":"a x #1 #2 #3",
+      "58":"a x #1 #2 #3",
+      "59":"a x #1 #2 #3",
+      "60":"a x #1 #2 #3",
+      "61":"a x #1 #2 #3",
+      "62":"a x #1 #2 #3",
+      "63":"a x #1 #2 #3",
+      "64":"a x #1 #2 #3",
+      "65":"a x #1 #2 #3",
+      "66":"a #2 #5",
+      "67":"a #2 #5",
+      "68":"a #2 #5",
+      "69":"a #2 #5",
+      "70":"a #2 #5"
     },
     "chrome":{
       "4":"n",
@@ -147,7 +167,26 @@
       "57":"y #3 #4",
       "58":"y #3 #4",
       "59":"y #3 #4",
-      "60":"y #3 #4"
+      "60":"y #3 #4",
+      "61":"y #3 #4",
+      "62":"y #3 #4",
+      "63":"y #3 #4",
+      "64":"y #3 #4",
+      "65":"y #3 #4",
+      "66":"y #3 #4",
+      "67":"y #3 #4",
+      "68":"y #3 #4",
+      "69":"y #3 #4",
+      "70":"y #3 #4",
+      "71":"y #3 #4",
+      "72":"y #3 #4",
+      "73":"y #3 #4",
+      "74":"y #3 #4",
+      "75":"y #3 #4",
+      "76":"y #3 #4",
+      "77":"y #3 #4",
+      "78":"y #3 #4",
+      "79":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -164,6 +203,11 @@
       "9.1":"a x #3",
       "10":"a x #3",
       "10.1":"a x #3",
+      "11":"a #3",
+      "11.1":"a #3",
+      "12":"a #3",
+      "12.1":"a #3",
+      "13":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -209,7 +253,21 @@
       "43":"y #3 #4",
       "44":"y #3 #4",
       "45":"y #3 #4",
-      "46":"y #3 #4"
+      "46":"y #3 #4",
+      "47":"y #3 #4",
+      "48":"y #3 #4",
+      "49":"y #3 #4",
+      "50":"y #3 #4",
+      "51":"y #3 #4",
+      "52":"y #3 #4",
+      "53":"y #3 #4",
+      "54":"y #3 #4",
+      "55":"y #3 #4",
+      "56":"y #3 #4",
+      "57":"y #3 #4",
+      "58":"y #3 #4",
+      "60":"y #3 #4",
+      "62":"y #3 #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -223,7 +281,12 @@
       "9.0-9.2":"a x #3",
       "9.3":"a x #3",
       "10.0-10.2":"a x #3",
-      "10.3":"a x #3"
+      "10.3":"a x #3",
+      "11.0-11.2":"a x #3",
+      "11.3-11.4":"a x #3",
+      "12.0-12.1":"a x #3",
+      "12.2-12.3":"a x #3",
+      "13":"a x #3"
     },
     "op_mini":{
       "all":"n"
@@ -238,7 +301,7 @@
       "4.2-4.3":"n",
       "4.4":"y x #3",
       "4.4.3-4.4.4":"y x #3",
-      "56":"y #3 #4"
+      "67":"y #3 #4"
     },
     "bb":{
       "7":"n",
@@ -251,37 +314,49 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "37":"y #3 #4"
+      "46":"y #3 #4"
     },
     "and_chr":{
-      "57":"y #3 #4"
+      "75":"y #3 #4"
     },
     "and_ff":{
-      "52":"a x #1 #2 #3"
+      "67":"a x #2 #5"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.4":"y x #3"
+      "12.12":"y"
     },
     "samsung":{
-      "4":"y x #3"
+      "4":"y x #3",
+      "5.0-5.4":"y #3 #4",
+      "6.2-6.4":"y #3 #4",
+      "7.2-7.4":"y #3 #4",
+      "8.2":"y #3 #4",
+      "9.2":"y #3 #4"
     },
     "and_qq":{
       "1.2":"y x #3"
+    },
+    "baidu":{
+      "7.12":"y #3 #4"
+    },
+    "kaios":{
+      "2.5":"a x #1 #2 #3"
     }
   },
   "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content)\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",
   "notes_by_num":{
-    "1":"Does not support for height/min-height/max-height property, only width. [see test case](http://codepen.io/shshaw/pen/Kiwaz) [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=567039)",
-    "2":"Firefox currently supports the \"-moz-available\" property rather than \"-moz-fill\".",
-    "3":"Does not support for \"flex-basis\" property. [see specs](http://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property).\r\n[Blink bug](https://codereview.chromium.org/1304853002/),[Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887)",
-    "4":"This does not yet unprefix fill-available (aka fill)[See bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet."
+    "1":"Firefox does not support the `height`/`min-height`/`max-height` properties, only `width`. See [test case](https://codepen.io/shshaw/pen/Kiwaz), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=567039).",
+    "2":"Firefox supports the `-moz-available` keyword rather than `stretch`. [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1495868).",
+    "3":"Does not support the `flex-basis` property. See [specs](https://www.w3.org/TR/2015/WD-css-flexbox-1-20150514/#flex-basis-property), [Blink bug](https://codereview.chromium.org/1304853002/), [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1055887).",
+    "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2).",
+    "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":69.15,
-  "usage_perc_a":18.85,
+  "usage_perc_y":74.08,
+  "usage_perc_a":18.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",
