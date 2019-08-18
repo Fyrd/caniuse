@@ -349,7 +349,7 @@
       "2.5":"n"
     }
   },
-  "notes":"As there is no specification and the property is dependent on an outdated implementation of flexbox (hence `display: -webkit-box`) it is unlikely that other browsers will support the property as-is, although an alternative solution may at some point replace it.\r\n\r\nOlder (presto-based) versions of the Opera browser have also supported the same effect using the proprietary `-o-ellipsis-lastline;` value for `text-overflow`.",
+  "notes":"As there is no specification and the property is dependent on an outdated implementation of flexbox (hence `display: -webkit-box`), an alternative solution may at some point replace it.\r\n\r\nOlder (presto-based) versions of the Opera browser have also supported the same effect using the proprietary `-o-ellipsis-lastline;` value for `text-overflow`.",
   "notes_by_num":{
     "1":"Supported in MS Edge with `-webkit-` prefix only (not with `-ms-`)"
   },
