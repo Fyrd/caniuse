@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"MediaQueryList.addEventListener [doesn't work in Safari and IE](https://developer.mozilla.org/en-US/docs/Web/API/MediaQueryList#Browser_compatibility)"
+    }
   ],
   "categories":[
     "DOM"
