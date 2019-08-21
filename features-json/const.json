@@ -27,7 +27,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"y"
+      "11":"a #5"
     },
     "edge":{
       "12":"y",
@@ -354,7 +354,8 @@
     "1":"const is recognized, but treated like var (no block scope, can be overwritten)",
     "2":"const does not have block scope",
     "3":"Only recognized when NOT in strict mode",
-    "4":"Supported correctly in strict mode, otherwise supported without block scope"
+    "4":"Supported correctly in strict mode, otherwise supported without block scope",
+    "5":"Not supported in for-in and for-of loops"
   },
   "usage_perc_y":94.24,
   "usage_perc_a":4.37,
