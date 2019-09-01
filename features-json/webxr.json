@@ -1,33 +1,17 @@
 {
-  "title":"WebVR API",
-  "description":"API for accessing virtual reality (VR) devices, including sensors and head-mounted displays.",
-  "spec":"https://w3c.github.io/webvr/",
-  "status":"unoff",
+  "title":"WebXR Device API",
+  "description":"API for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays.",
+  "spec":"https://immersive-web.github.io/webxr/",
+  "status":"other",
   "links":[
     {
-      "url":"https://webvr.rocks/",
-      "title":"Detailed device support information"
-    },
-    {
-      "url":"https://github.com/googlevr/webvr-polyfill",
-      "title":"WebVR polyfill"
-    },
-    {
-      "url":"http://aframe.io",
-      "title":"WebVR framework"
-    },
-    {
-      "url":"https://webvr.info/",
-      "title":"WebVR info"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API",
-      "title":"MDN Web Docs - WebVR API"
+      "url":"https://developer.mozilla.org/docs/Web/API/WebXR_Device_API",
+      "title":"MDN Web Docs - WebXR Device API"
     }
   ],
   "bugs":[
     {
-      "description":"WebVR is in development and is still changing. Because of this there could be bugs inside the standard of the W3C."
+      "description":"WebXR is in development and is still changing. WebXR was formally developed as WebVR. Because of this there could be bugs inside the standard of the W3C."
     }
   ],
   "categories":[
@@ -47,11 +31,11 @@
       "12":"n",
       "13":"n",
       "14":"n",
-      "15":"y #3",
-      "16":"y #3",
-      "17":"y #3",
-      "18":"y #3",
-      "76":"n d #2"
+      "15":"n",
+      "16":"n",
+      "17":"n",
+      "18":"n",
+      "76":"n"
     },
     "firefox":{
       "2":"n",
@@ -108,23 +92,23 @@
       "51":"n",
       "52":"n",
       "53":"n",
-      "54":"n d #1",
-      "55":"y #1",
-      "56":"y #1",
-      "57":"y #1",
-      "58":"y #1",
-      "59":"y #1",
-      "60":"y #1",
-      "61":"y #1",
-      "62":"y #1",
-      "63":"y #1",
-      "64":"y #1",
-      "65":"y #1",
-      "66":"y #1",
-      "67":"y #1",
-      "68":"y #1",
-      "69":"y #1",
-      "70":"y #1"
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n"
     },
     "chrome":{
       "4":"n",
@@ -180,29 +164,29 @@
       "54":"n",
       "55":"n",
       "56":"n",
-      "57":"n d #2",
-      "58":"n d #2",
-      "59":"n d #2",
-      "60":"n d #2",
-      "61":"n d #2",
-      "62":"n d #2",
-      "63":"n d #2",
-      "64":"n d #2",
-      "65":"n d #2",
-      "66":"n d #2",
-      "67":"n d #2",
-      "68":"n d #2",
-      "69":"n d #2",
-      "70":"n d #2",
-      "71":"n d #2",
-      "72":"n d #2",
-      "73":"n d #2",
-      "74":"n d #2",
-      "75":"n d #2",
-      "76":"n d #2",
-      "77":"n d #2",
-      "78":"n d #2",
-      "79":"n"
+      "57":"n",
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y"
     },
     "safari":{
       "3.1":"n",
@@ -333,7 +317,7 @@
       "46":"n"
     },
     "and_chr":{
-      "75":"y #5"
+      "75":"n"
     },
     "and_ff":{
       "67":"n"
@@ -346,26 +330,26 @@
       "12.12":"n"
     },
     "samsung":{
-      "4":"y #4",
-      "5.0-5.4":"a #4",
-      "6.2-6.4":"a #4",
-      "7.2-7.4":"a #4",
-      "8.2":"a #4",
-      "9.2":"a #4"
+      "4":"n",
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
-      "7.12":"n d #2"
+      "7.12":"n"
     },
     "kaios":{
       "2.5":"n"
     }
   },
-  "notes":"For a WebVR experience a head mounted display (VR HMD) is required.",
+  "notes":"For a WebXR experience a head mounted display (VR HMD) is required.",
   "notes_by_num":{
-    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS.",
+    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS. Work in progress for GNU/Linux.",
     "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
     "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supports only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
     "4":"Supports only Samsung Galaxy devices with the Samsung Gear VR",
@@ -375,9 +359,9 @@
   "usage_perc_a":3.51,
   "ucprefix":false,
   "parent":"",
-  "keywords":"getvrdevices,getvrdisplays,getdisplays,navigator.vr",
-  "ie_id":"webvr",
-  "chrome_id":"4532810371039232",
+  "keywords":"navigator.xr",
+  "ie_id":"webxr",
+  "chrome_id":"5680169905815552",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
