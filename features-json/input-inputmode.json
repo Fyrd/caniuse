@@ -5,6 +5,10 @@
   "status":"ls",
   "links":[
     {
+      "url":"https://www.wufoo.com/html5/attributes/23-inputmode.html",
+      "title":"Demo on Wufoo (old)"
+    },
+    {
       "url":"https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/",
       "title":"Everything You Ever Wanted to Know About inputmode (CSS Tricks)"
     }
@@ -348,9 +352,9 @@
   },
   "notes":"",
   "notes_by_num":{
-
+    "1":"Support can be enabled via the `dom.forms.inputmode` flag"
   },
-  "usage_perc_y":75.52,
+  "usage_perc_y":75.53,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

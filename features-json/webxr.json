@@ -10,9 +10,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"WebXR is in development and is still changing. WebXR was formally developed as WebVR. Because of this there could be bugs inside the standard of the W3C."
-    }
+    
   ],
   "categories":[
     "JS API"
@@ -183,9 +181,9 @@
       "73":"n",
       "74":"n",
       "75":"n",
-      "76":"y",
-      "77":"y",
-      "78":"y",
+      "76":"n d #1",
+      "77":"n d #1",
+      "78":"n d #1",
       "79":"y"
     },
     "safari":{
@@ -347,22 +345,18 @@
       "2.5":"n"
     }
   },
-  "notes":"For a WebXR experience a head mounted display (VR HMD) is required.",
+  "notes":"",
   "notes_by_num":{
-    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS. Work in progress for GNU/Linux.",
-    "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
-    "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supports only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
-    "4":"Supports only Samsung Galaxy devices with the Samsung Gear VR",
-    "5":"Supports only Google Daydream on [daydream-ready devices](https://vr.google.com/daydream/smartphonevr/phones/) and Google Cardboards"
+    "1":"Only available when registering an [origin trial](https://developers.chrome.com/origintrials/#/view_trial/-5670031930859454463)."
   },
-  "usage_perc_y":41.91,
-  "usage_perc_a":3.51,
+  "usage_perc_y":0,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.xr",
   "ie_id":"webxr",
   "chrome_id":"5680169905815552",
-  "firefox_id":"",
+  "firefox_id":"webxr",
   "webkit_id":"",
   "shown":true
 }

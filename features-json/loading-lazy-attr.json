@@ -5,10 +5,6 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://web.dev/native-lazy-loading",
-      "title":"Native lazy-loading for the web"
-    },
-    {
       "url":"https://addyosmani.com/blog/lazy-loading/",
       "title":"Blog post"
     },
@@ -27,6 +23,10 @@
     {
       "url":"https://github.com/mfranzke/loading-attribute-polyfill",
       "title":"Polyfill"
+    },
+    {
+      "url":"https://web.dev/native-lazy-loading",
+      "title":"Native lazy-loading for the web"
     }
   ],
   "bugs":[
@@ -369,7 +369,7 @@
   "notes_by_num":{
     "1":"Can be enabled via the `#enable-lazy-image-loading` and `#enable-lazy-frame-loading` feature flags"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.15,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
