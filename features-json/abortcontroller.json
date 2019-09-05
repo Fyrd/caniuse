@@ -114,7 +114,8 @@
       "67":"y",
       "68":"y",
       "69":"y",
-      "70":"y"
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -357,7 +358,7 @@
   "notes_by_num":{
     "1":"Safari has window.AbortController defined in the DOM but it's just a stub, it does not abort requests at all. The same issue also affects Chrome on IOS and Firefox on IOS because they use the same WebKit rendering engine as Safari."
   },
-  "usage_perc_y":84.26,
+  "usage_perc_y":85.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fetch",

@@ -115,7 +115,8 @@
       "67":"y",
       "68":"y",
       "69":"y",
-      "70":"y"
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -359,8 +360,8 @@
     "1":"While a `window.CustomEvent` object exists, it cannot be called as a constructor. Instead of `new CustomEvent(...)`, you must use `e = document.createEvent('CustomEvent')` and then `e.initCustomEvent(...)`",
     "2":"There is no `window.CustomEvent` object, but `document.createEvent('CustomEvent')` still works."
   },
-  "usage_perc_y":95.93,
-  "usage_perc_a":2.87,
+  "usage_perc_y":96.21,
+  "usage_perc_a":2.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"custom events,custom,event",
