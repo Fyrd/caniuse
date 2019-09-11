@@ -23,10 +23,6 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1366287",
       "title":"Firefox implementation bug"
-    },
-    {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=179001",
-      "title":"Safari implementation bug"
     }
   ],
   "bugs":[
@@ -340,7 +336,7 @@
       "76":"y"
     },
     "and_ff":{
-      "68":"n"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -371,7 +367,7 @@
   "notes_by_num":{
     "1":"Can be enabled by setting `javascript.options.bigint` to \"True\" in `about:config`"
   },
-  "usage_perc_y":70.35,
+  "usage_perc_y":70.54,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
