@@ -48,7 +48,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"a"
     },
     "firefox":{
       "2":"u",
@@ -118,7 +119,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"u",
@@ -192,7 +197,12 @@
       "72":"a",
       "73":"a",
       "74":"a",
-      "75":"a"
+      "75":"a",
+      "76":"a",
+      "77":"a",
+      "78":"a",
+      "79":"a",
+      "80":"a"
     },
     "safari":{
       "3.1":"u",
@@ -213,6 +223,7 @@
       "11.1":"a",
       "12":"a",
       "12.1":"a",
+      "13":"a",
       "TP":"a"
     },
     "opera":{
@@ -270,7 +281,9 @@
       "55":"a",
       "56":"a",
       "57":"a",
-      "58":"a"
+      "58":"a",
+      "60":"a",
+      "62":"a"
     },
     "ios_saf":{
       "3.2":"u",
@@ -288,7 +301,8 @@
       "11.0-11.2":"a",
       "11.3-11.4":"a",
       "12.0-12.1":"a",
-      "12.2":"a"
+      "12.2-12.3":"a",
+      "13":"a"
     },
     "op_mini":{
       "all":"n"
@@ -303,7 +317,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "67":"a"
+      "76":"a"
     },
     "bb":{
       "7":"a",
@@ -319,38 +333,42 @@
       "46":"a"
     },
     "and_chr":{
-      "71":"a"
+      "76":"a"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.8":"a"
+      "12.12":"a"
     },
     "samsung":{
       "4":"a",
       "5.0-5.4":"a",
       "6.2-6.4":"a",
       "7.2-7.4":"a",
-      "8.2":"a"
+      "8.2":"a",
+      "9.2":"a"
     },
     "and_qq":{
       "1.2":"a"
     },
     "baidu":{
       "7.12":"a"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Partial support refers to not supporting the `ALLOW-FROM` option.\r\nThe `X-Frame-Options` header has been obsoleted by [the `frame-ancestors` directive](https://www.w3.org/TR/CSP2/#directive-frame-ancestors) from Content Security Policy Level 2.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":8.92,
-  "usage_perc_a":84.1,
+  "usage_perc_y":8.99,
+  "usage_perc_a":88.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"x-frame-options,frame,options,header,clickjacking",

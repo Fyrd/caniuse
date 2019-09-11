@@ -38,7 +38,8 @@
       "15":"a #1 #2 #5",
       "16":"a #1 #2 #5",
       "17":"a #2",
-      "18":"a #2"
+      "18":"a #2",
+      "76":"a #5 #7"
     },
     "firefox":{
       "2":"n",
@@ -108,7 +109,11 @@
       "64":"a #6",
       "65":"a #6",
       "66":"a #6",
-      "67":"a #6"
+      "67":"a #6",
+      "68":"a #6",
+      "69":"a #6",
+      "70":"a #6",
+      "71":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -182,7 +187,12 @@
       "72":"a #5 #7",
       "73":"a #5 #7",
       "74":"a #5 #7",
-      "75":"a #5 #7"
+      "75":"a #5 #7",
+      "76":"a #5 #7",
+      "77":"a #5 #7",
+      "78":"a #5 #7",
+      "79":"a #5 #7",
+      "80":"a #5 #7"
     },
     "safari":{
       "3.1":"u",
@@ -203,6 +213,7 @@
       "11.1":"a #2 #5",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -260,7 +271,9 @@
       "55":"a #5 #7",
       "56":"a #5 #7",
       "57":"a #5 #7",
-      "58":"a #5 #7"
+      "58":"a #5 #7",
+      "60":"a #5 #7",
+      "62":"a #5 #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -278,7 +291,8 @@
       "11.0-11.2":"a #2 #3 #5",
       "11.3-11.4":"a #2 #3 #5",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -293,7 +307,7 @@
       "4.2-4.3":"n",
       "4.4":"a #2 #5",
       "4.4.3-4.4.4":"a #2 #5",
-      "67":"a #2 #5"
+      "76":"a #2 #5"
     },
     "bb":{
       "7":"n",
@@ -309,30 +323,34 @@
       "46":"a #4 #5"
     },
     "and_chr":{
-      "71":"a #5"
+      "76":"a #5"
     },
     "and_ff":{
-      "64":"a #4"
+      "68":"a #4"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"a #2 #5",
       "5.0-5.4":"a #5",
       "6.2-6.4":"a #5",
       "7.2-7.4":"a #5",
-      "8.2":"a #5"
+      "8.2":"a #5",
+      "9.2":"a #5"
     },
     "and_qq":{
       "1.2":"a #5 #7"
     },
     "baidu":{
       "7.12":"a #5"
+    },
+    "kaios":{
+      "2.5":"a #6"
     }
   },
   "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+, Opera 29+ and Firefox 41+ support clipboard reading/writing only when part of a user action (click, keydown, etc).\r\n\r\nFirefox 40- users [can enable support](https://developer.mozilla.org/en-US/docs/Midas/Security_preferences) with a security preference setting.",
@@ -345,8 +363,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":10.33,
-  "usage_perc_a":78.52,
+  "usage_perc_y":11.9,
+  "usage_perc_a":81.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

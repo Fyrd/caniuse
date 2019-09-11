@@ -52,7 +52,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -122,7 +123,11 @@
       "64":"a #5",
       "65":"a #5",
       "66":"a #5",
-      "67":"a #5"
+      "67":"a #5",
+      "68":"a #5",
+      "69":"a #5",
+      "70":"a #5",
+      "71":"a #5"
     },
     "chrome":{
       "4":"n",
@@ -196,7 +201,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -217,6 +227,7 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -274,7 +285,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -292,7 +305,8 @@
       "11.0-11.2":"a #2",
       "11.3-11.4":"a #2",
       "12.0-12.1":"a #2",
-      "12.2":"a #2"
+      "12.2-12.3":"a #2",
+      "13":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -307,7 +321,7 @@
       "4.2-4.3":"n #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -323,30 +337,34 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"y"
+      "12.12":"y"
     },
     "samsung":{
       "4":"y",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #5"
     }
   },
   "notes":"There used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336).",
@@ -357,8 +375,8 @@
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
   },
-  "usage_perc_y":71.96,
-  "usage_perc_a":14.61,
+  "usage_perc_y":76.57,
+  "usage_perc_a":15.26,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\",input date,datetime-local",

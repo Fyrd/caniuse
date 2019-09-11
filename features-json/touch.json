@@ -58,7 +58,8 @@
       "15":"n d #3",
       "16":"n d #3",
       "17":"n d #3",
-      "18":"n d #3"
+      "18":"n d #3",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -128,7 +129,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -202,7 +207,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -223,6 +233,7 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -280,7 +291,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -298,7 +311,8 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -313,7 +327,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"y",
@@ -329,30 +343,34 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"p",
       "11":"a #2"
     },
     "and_uc":{
-      "11.8":"y"
+      "12.12":"y"
     },
     "samsung":{
       "4":"y",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Internet Explorer implements Pointer Events specification which supports more input devices than Touch Events one.\r\n\r\nThere is a library on GitHub that is working toward bringing W3C touch events to IE 10 and 11: https://github.com/CamHenlin/TouchPolyfill \r\n\r\nRemoved support in Firefox refers to desktop Firefox only.",
@@ -361,8 +379,8 @@
     "2":"Supported on IE11 Mobile for phones with \"[Windows Phone 8.1 Update](http://blogs.msdn.com/b/ie/archive/2014/07/31/the-mobile-web-should-just-work-for-everyone.aspx)\"",
     "3":"Can be enabled in Edge using the \"Enable touch events\" flag under `about:flags`"
   },
-  "usage_perc_y":85.4,
-  "usage_perc_a":0.2,
+  "usage_perc_y":89.84,
+  "usage_perc_a":0.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

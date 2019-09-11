@@ -32,7 +32,8 @@
       "15":"a #2",
       "16":"a #2",
       "17":"a #2",
-      "18":"a #2"
+      "18":"a #2",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -102,7 +103,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +181,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -197,6 +207,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -254,7 +265,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -272,7 +285,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -287,7 +301,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -303,30 +317,34 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"u"
+      "68":"u"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"u"
+      "12.12":"u"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -334,8 +352,8 @@
     "1":"Firefox 39 did not support 'crossorigin' attribute and preconnects were not processed by the preload parser. Both of these features were enabled in Firefox 41.",
     "2":"Partial support in Edge 15+ refers to support for only the HTTP header format, not the `<link rel>` format."
   },
-  "usage_perc_y":80.33,
-  "usage_perc_a":1.7,
+  "usage_perc_y":86.43,
+  "usage_perc_a":2.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"preconnect, resource hints",

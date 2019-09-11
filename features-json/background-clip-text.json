@@ -50,7 +50,8 @@
       "15":"y #2",
       "16":"y #2",
       "17":"y #2",
-      "18":"y #2"
+      "18":"y #2",
+      "76":"a x"
     },
     "firefox":{
       "2":"u",
@@ -120,7 +121,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"a x",
@@ -194,7 +199,12 @@
       "72":"a x",
       "73":"a x",
       "74":"a x",
-      "75":"a x"
+      "75":"a x",
+      "76":"a x",
+      "77":"a x",
+      "78":"a x",
+      "79":"a x",
+      "80":"a x"
     },
     "safari":{
       "3.1":"u",
@@ -215,6 +225,7 @@
       "11.1":"a x",
       "12":"a x",
       "12.1":"a x",
+      "13":"a x",
       "TP":"a x"
     },
     "opera":{
@@ -272,7 +283,9 @@
       "55":"u",
       "56":"u",
       "57":"u",
-      "58":"u"
+      "58":"u",
+      "60":"u",
+      "62":"u"
     },
     "ios_saf":{
       "3.2":"u",
@@ -290,7 +303,8 @@
       "11.0-11.2":"u",
       "11.3-11.4":"u",
       "12.0-12.1":"u",
-      "12.2":"u"
+      "12.2-12.3":"u",
+      "13":"u"
     },
     "op_mini":{
       "all":"u"
@@ -305,7 +319,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "67":"u"
+      "76":"u"
     },
     "bb":{
       "7":"u",
@@ -321,30 +335,34 @@
       "46":"u"
     },
     "and_chr":{
-      "71":"u"
+      "76":"u"
     },
     "and_ff":{
-      "64":"u"
+      "68":"u"
     },
     "ie_mob":{
       "10":"u",
       "11":"u"
     },
     "and_uc":{
-      "11.8":"u"
+      "12.12":"u"
     },
     "samsung":{
       "4":"u",
       "5.0-5.4":"u",
       "6.2-6.4":"u",
       "7.2-7.4":"u",
-      "8.2":"u"
+      "8.2":"u",
+      "9.2":"u"
     },
     "and_qq":{
       "1.2":"u"
     },
     "baidu":{
       "7.12":"u"
+    },
+    "kaios":{
+      "2.5":"n #1"
     }
   },
   "notes":"Chrome, Opera, Safari work only by using the prefix: -webkit-background-clip: text; Firefox 49+ as background-clip: text;",
@@ -353,8 +371,8 @@
     "2":"Natively supported on Edge 15+ See Browser Compatibility chart: https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip",
     "3":"Microsoft Edge supports this feature using the -webkit- instead of -ms- prefix See: https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/10945389-background-clip-text"
   },
-  "usage_perc_y":5.58,
-  "usage_perc_a":33.25,
+  "usage_perc_y":6.03,
+  "usage_perc_a":32.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"background-clip,text,clip",

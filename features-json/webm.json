@@ -48,7 +48,8 @@
       "15":"a",
       "16":"a",
       "17":"a",
-      "18":"a"
+      "18":"a",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -118,7 +119,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -192,7 +197,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -212,8 +222,9 @@
       "11":"p",
       "11.1":"p",
       "12":"p",
-      "12.1":"p",
-      "TP":"p"
+      "12.1":"a #1",
+      "13":"a #1",
+      "TP":"a #1"
     },
     "opera":{
       "9":"n",
@@ -270,7 +281,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -288,7 +301,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n"
+      "12.2-12.3":"a #1",
+      "13":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -303,7 +317,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -319,38 +333,42 @@
       "46":"a"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"p",
       "11":"p"
     },
     "and_uc":{
-      "11.8":"y"
+      "12.12":"y"
     },
     "samsung":{
       "4":"a",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Will work in IE9+ and Safari/MacOSX provided the user has the WebM codecs installed. Partial support indicates that at least one codec is supported but not all. MS Edge supports VP9 from MSE sources, also progressive sources are not supported by Edge.",
   "notes_by_num":{
-    
+    "1":"Only supports [VP8 used in WebRTC.](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/)"
   },
-  "usage_perc_y":73.2,
-  "usage_perc_a":3.46,
+  "usage_perc_y":78.19,
+  "usage_perc_a":14.33,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

@@ -34,7 +34,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"u",
@@ -104,7 +105,11 @@
       "64":"y #1",
       "65":"y #1",
       "66":"y #1",
-      "67":"y #1"
+      "67":"y #1",
+      "68":"y #1",
+      "69":"y #1",
+      "70":"y #1",
+      "71":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -178,7 +183,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"u",
@@ -199,6 +209,7 @@
       "11.1":"y #2",
       "12":"y #2",
       "12.1":"y #2",
+      "13":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -256,7 +267,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"y #2 #3",
@@ -274,7 +287,8 @@
       "11.0-11.2":"y #2 #3",
       "11.3-11.4":"y #2 #3",
       "12.0-12.1":"y #2 #3",
-      "12.2":"y #2 #3"
+      "12.2-12.3":"y #2 #3",
+      "13":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -289,7 +303,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "67":"u"
+      "76":"u"
     },
     "bb":{
       "7":"u",
@@ -305,30 +319,34 @@
       "46":"u"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"u",
       "11":"u"
     },
     "and_uc":{
-      "11.8":"u"
+      "12.12":"u"
     },
     "samsung":{
       "4":"u",
       "5.0-5.4":"u",
       "6.2-6.4":"u",
       "7.2-7.4":"u",
-      "8.2":"u"
+      "8.2":"u",
+      "9.2":"u"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"u"
+    },
+    "kaios":{
+      "2.5":"y #1"
     }
   },
   "notes":"Mac OS X \"Full Keyboard Access\" refers to setting Keyboard\u2192Shortcuts\u2192Full Keyboard Access to \"All controls\" in the System Preferences.\r\n\r\n\"Unknown\" support for mobile browsers is due to lacking a method of tabbing through fields.",
@@ -337,7 +355,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":87.81,
+  "usage_perc_y":89.47,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

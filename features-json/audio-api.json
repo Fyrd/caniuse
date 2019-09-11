@@ -48,7 +48,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -118,7 +119,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -192,7 +197,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -213,6 +223,7 @@
       "11.1":"y x",
       "12":"y x",
       "12.1":"y x",
+      "13":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -270,7 +281,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -288,7 +301,8 @@
       "11.0-11.2":"y x",
       "11.3-11.4":"y x",
       "12.0-12.1":"y x",
-      "12.2":"y x"
+      "12.2-12.3":"y x",
+      "13":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -303,7 +317,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -319,37 +333,41 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"y"
+      "12.12":"y"
     },
     "samsung":{
       "4":"y",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Not all browsers with support for the Audio API also support media streams (e.g. microphone input). See the [getUserMedia/Streams API](/#feat=stream) data for support for that feature.\r\n\r\nFirefox versions < 25 support an alternative, deprecated audio API.\r\n\r\nChrome support [went through some changes](http://updates.html5rocks.com/2014/07/Web-Audio-Changes-in-m36) as of version 36.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":89.37,
+  "usage_perc_y":94.43,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

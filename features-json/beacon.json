@@ -12,6 +12,15 @@
   "bugs":[
     {
       "description":"Chrome [has a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=490015) with sendBeacon and arbitrary content-type."
+    },
+    {
+      "description":"Safari 11.1 \u2013 12.2 on macOS and iOS [have a bug](https://bugs.webkit.org/show_bug.cgi?id=188329) with sendBeacon in a pagehide event listener. Fixed in iOS 12.3."
+    },
+    {
+      "description":"Safari 11.1 \u2013 12 on iOS [can\u2019t sendBeacons to unvisited origins](https://bugs.webkit.org/show_bug.cgi?id=193508). Fixed in iOS 13."
+    },
+    {
+      "description":"Safari on iOS [won\u2019t sendBeacons from pages that quickly redirect to another location](https://www.ctrl.blog/entry/safari-beacon-issues.html)."
     }
   ],
   "categories":[
@@ -34,7 +43,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -104,7 +114,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +192,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -199,6 +218,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -256,7 +276,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -274,7 +296,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -289,7 +312,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -305,37 +328,41 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"y"
+      "12.12":"y"
     },
     "samsung":{
       "4":"y",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
     
   },
-  "usage_perc_y":86.83,
+  "usage_perc_y":93.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

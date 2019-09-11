@@ -7,6 +7,10 @@
     {
       "url":"https://www.wufoo.com/html5/attributes/23-inputmode.html",
       "title":"Demo on Wufoo (old)"
+    },
+    {
+      "url":"https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/",
+      "title":"Everything You Ever Wanted to Know About inputmode (CSS Tricks)"
     }
   ],
   "bugs":[
@@ -33,7 +37,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -103,7 +108,11 @@
       "64":"n d #1",
       "65":"n d #1",
       "66":"n d #1",
-      "67":"n d #1"
+      "67":"n d #1",
+      "68":"n d #1",
+      "69":"n d #1",
+      "70":"n d #1",
+      "71":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -177,7 +186,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -198,6 +212,7 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -255,7 +270,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -273,7 +290,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -288,7 +306,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -301,40 +319,44 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"n d #1"
+      "68":"n d #1"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"n"
+      "8.2":"n",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n d #1"
     }
   },
-  "notes":"Firefox OS is reported to have partial support for this property as `x-inputmode`.\r\n\r\nBlink-based browsers appear to recognize the `inputMode` property on `input` & `textarea` fields though it is unclear what effect it currently has as the feature is still in development.",
+  "notes":"",
   "notes_by_num":{
     "1":"Support can be enabled via the `dom.forms.inputmode` flag"
   },
-  "usage_perc_y":62.37,
+  "usage_perc_y":76.68,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

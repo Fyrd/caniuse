@@ -46,7 +46,8 @@
       "15":"a #1",
       "16":"a #1",
       "17":"a #1",
-      "18":"a #1"
+      "18":"a #1",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -116,7 +117,11 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n"
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n"
     },
     "chrome":{
       "4":"n",
@@ -190,7 +195,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -211,6 +221,7 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -268,7 +279,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -286,7 +299,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n"
+      "12.2-12.3":"n",
+      "13":"n"
     },
     "op_mini":{
       "all":"n"
@@ -301,7 +315,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -317,30 +331,34 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"n"
+      "68":"n"
     },
     "ie_mob":{
       "10":"a x #1",
       "11":"a #1"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"u",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Due to scoping issues of the W3C Pointer Events Working Group, `pinch-zoom` appears in the WHATWG Compatibility Standard instead of W3C Pointer Events Level 2.",
@@ -348,8 +366,8 @@
     "1":"IE and Edge only support `pinch-zoom`.",
     "2":"Chromium 55 derived browsers implement direction-specific panning but do not support `pinch-zoom`."
   },
-  "usage_perc_y":63.86,
-  "usage_perc_a":4.28,
+  "usage_perc_y":68.65,
+  "usage_perc_a":4.06,
   "ucprefix":false,
   "parent":"css-touch-action",
   "keywords":"touch action,level 2",

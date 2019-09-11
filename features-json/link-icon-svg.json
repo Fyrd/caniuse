@@ -41,7 +41,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "76":"u"
     },
     "firefox":{
       "2":"n",
@@ -111,7 +112,11 @@
       "64":"y #4",
       "65":"y #4",
       "66":"y #4",
-      "67":"y #4"
+      "67":"y #4",
+      "68":"y #4",
+      "69":"y #4",
+      "70":"y #4",
+      "71":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -183,9 +188,14 @@
       "70":"n",
       "71":"n",
       "72":"n",
-      "73":"u",
-      "74":"u",
-      "75":"u"
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n",
+      "77":"n",
+      "78":"u",
+      "79":"u",
+      "80":"u"
     },
     "safari":{
       "3.1":"n",
@@ -206,6 +216,7 @@
       "11.1":"a #3",
       "12":"a #3",
       "12.1":"a #3",
+      "13":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -263,7 +274,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -281,7 +294,8 @@
       "11.0-11.2":"a #3",
       "11.3-11.4":"a #3",
       "12.0-12.1":"a #3",
-      "12.2":"a #3"
+      "12.2-12.3":"a #3",
+      "13":"a #3"
     },
     "op_mini":{
       "all":"n #1"
@@ -296,7 +310,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"n"
+      "76":"n"
     },
     "bb":{
       "7":"n",
@@ -312,30 +326,34 @@
       "46":"n #1"
     },
     "and_chr":{
-      "71":"n"
+      "76":"n"
     },
     "and_ff":{
-      "64":"n"
+      "68":"n"
     },
     "ie_mob":{
       "10":"n #1",
       "11":"n #1"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"n"
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"y #4"
     }
   },
   "notes":"See also [PNG favicons](#feat=link-icon-png).",
@@ -345,8 +363,8 @@
     "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Firefox [requires](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50) the served mime-type to be 'image/svg+xml'."
   },
-  "usage_perc_y":5.11,
-  "usage_perc_a":13.36,
+  "usage_perc_y":5.43,
+  "usage_perc_a":13.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -61,7 +61,8 @@
       "15":"a #3",
       "16":"a #3",
       "17":"a #3",
-      "18":"a #3"
+      "18":"a #3",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -131,7 +132,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -205,7 +210,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -226,6 +236,7 @@
       "11.1":"a x #2 #3",
       "12":"a x #2 #3",
       "12.1":"a x #2 #3",
+      "13":"a x #2 #3",
       "TP":"a x #2 #3"
     },
     "opera":{
@@ -283,7 +294,9 @@
       "55":"a x #2 #3",
       "56":"a x #2 #3",
       "57":"a x #2 #3",
-      "58":"a x #2 #3"
+      "58":"a x #2 #3",
+      "60":"a x #2 #3",
+      "62":"a x #2 #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -300,8 +313,9 @@
       "10.3":"n",
       "11.0-11.2":"n",
       "11.3-11.4":"n",
-      "12.0-12.1":"n",
-      "12.2":"n"
+      "12.0-12.1":"a #5",
+      "12.2-12.3":"a #5",
+      "13":"a #5"
     },
     "op_mini":{
       "all":"n"
@@ -316,7 +330,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"n"
+      "76":"n"
     },
     "bb":{
       "7":"n",
@@ -332,30 +346,34 @@
       "46":"a x #2 #3"
     },
     "and_chr":{
-      "71":"a x #2 #3"
+      "76":"a x #2 #3"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"a x #3"
     },
     "and_uc":{
-      "11.8":"a x #2 #3"
+      "12.12":"a x #2 #3"
     },
     "samsung":{
       "4":"a x #2 #3",
       "5.0-5.4":"a x #2 #3",
       "6.2-6.4":"a x #2 #3",
       "7.2-7.4":"a x #2 #3",
-      "8.2":"a x #2 #3"
+      "8.2":"a x #2 #3",
+      "9.2":"a x #2 #3"
     },
     "and_qq":{
       "1.2":"a x #2 #3"
     },
     "baidu":{
       "7.12":"a x #2 #3"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -363,10 +381,11 @@
     "1":"Partial support refers to supporting an earlier draft of the spec.",
     "2":"Partial support refers to not supporting `::backdrop`, and supporting the old `:full-screen` syntax rather than the standard `:fullscreen`.",
     "3":"Partial support refers to not returning a Promise, as specified in the latest version of the spec.",
-    "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag"
+    "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag",
+    "5":"Partial support refers to supporting only iPad, not iPhone. Shows an overlay button which can not be disabled."
   },
-  "usage_perc_y":30.13,
-  "usage_perc_a":50.82,
+  "usage_perc_y":30.76,
+  "usage_perc_a":64.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",

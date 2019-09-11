@@ -34,7 +34,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"y",
@@ -104,7 +105,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -178,7 +183,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -199,6 +209,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -256,7 +267,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -274,7 +287,8 @@
       "11.0-11.2":"a",
       "11.3-11.4":"a",
       "12.0-12.1":"a",
-      "12.2":"a"
+      "12.2-12.3":"a",
+      "13":"a"
     },
     "op_mini":{
       "all":"a"
@@ -289,7 +303,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "67":"a"
+      "76":"a"
     },
     "bb":{
       "7":"a",
@@ -305,38 +319,42 @@
       "46":"a"
     },
     "and_chr":{
-      "71":"a"
+      "76":"a"
     },
     "and_ff":{
-      "64":"a"
+      "68":"a"
     },
     "ie_mob":{
       "10":"a",
       "11":"a"
     },
     "and_uc":{
-      "11.8":"a"
+      "12.12":"a"
     },
     "samsung":{
       "4":"a",
       "5.0-5.4":"a",
       "6.2-6.4":"a",
       "7.2-7.4":"a",
-      "8.2":"a"
+      "8.2":"a",
+      "9.2":"a"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"a"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"The partial support in mobile browsers results from their OS generally having built-in spell checking instead of using the wavy underline to indicate misspelled words. `spellcheck=\"false\"` does not seem to have any effect in these browsers.\r\n\r\nBrowsers have different behavior in how they deal with spellchecking in combination with the the `lang` attribute. Generally spelling is based on the browser's language, not the language of the document.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":42.89,
-  "usage_perc_a":51.79,
+  "usage_perc_y":41.72,
+  "usage_perc_a":56.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"spelling",

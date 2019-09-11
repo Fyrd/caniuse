@@ -52,7 +52,8 @@
       "15":"a #7",
       "16":"a #7",
       "17":"a #7",
-      "18":"a #7"
+      "18":"a #7",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -122,7 +123,11 @@
       "64":"n d #6",
       "65":"n d #6",
       "66":"a d #8",
-      "67":"a d #8"
+      "67":"a d #8",
+      "68":"a d #8",
+      "69":"a d #8",
+      "70":"a d #8",
+      "71":"a d #8"
     },
     "chrome":{
       "4":"n",
@@ -196,7 +201,12 @@
       "72":"a #7",
       "73":"a #7",
       "74":"a #7",
-      "75":"y"
+      "75":"a #7",
+      "76":"a #7",
+      "77":"a #7",
+      "78":"a #7",
+      "79":"a #7",
+      "80":"a #7"
     },
     "safari":{
       "3.1":"n",
@@ -217,6 +227,7 @@
       "11.1":"a #7",
       "12":"a #7",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -274,7 +285,9 @@
       "55":"a #7",
       "56":"a #7",
       "57":"a #7",
-      "58":"a #7"
+      "58":"a #7",
+      "60":"a #7",
+      "62":"a #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -292,7 +305,8 @@
       "11.0-11.2":"n #3",
       "11.3-11.4":"a #7",
       "12.0-12.1":"a #7",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -307,7 +321,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"n"
+      "76":"n"
     },
     "bb":{
       "7":"n",
@@ -323,30 +337,34 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"a #5"
+      "76":"a #5"
     },
     "and_ff":{
-      "64":"n"
+      "68":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"a #7",
       "6.2-6.4":"a #7",
       "7.2-7.4":"a #7",
-      "8.2":"a #7"
+      "8.2":"a #7",
+      "9.2":"a #7"
     },
     "and_qq":{
       "1.2":"n d #1"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Apple provides an equivalent proprietary API called [Apple Pay JS](https://developer.apple.com/reference/applepayjs/). Google provides a [PaymentRequest wrapper for Apple Pay JS](https://github.com/GoogleChrome/appr-wrapper).",
@@ -360,8 +378,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":0.05,
-  "usage_perc_a":76.9,
+  "usage_perc_y":10.95,
+  "usage_perc_a":75.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

@@ -40,7 +40,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"a",
@@ -110,7 +111,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"a",
@@ -184,7 +189,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"a",
@@ -205,6 +215,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -262,7 +273,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -280,7 +293,8 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -295,7 +309,7 @@
       "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"a",
@@ -311,41 +325,45 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"y",
       "11":"y"
     },
     "and_uc":{
-      "11.8":"y"
+      "12.12":"y"
     },
     "samsung":{
       "4":"y",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
-  "notes":"As the specification includes many JavaScript features, un-numbered partial support varies widely and is shown in detail on the [ECMAScript 5 compatibilty tables](http://kangax.github.io/compat-table/es5/) by Kangax.",
+  "notes":"As the specification includes many JavaScript features, un-numbered partial support varies widely and is shown in detail on the [ECMAScript 5 compatibility tables](http://kangax.github.io/compat-table/es5/) by Kangax.",
   "notes_by_num":{
     "1":"Does not support `parseInt()` ignoring leading zeros. ",
     "2":"Does not support Strict mode",
     "3":"Does not support zero-width chars in identifiers & Immutable `undefined`",
     "4":"IE8 has virtually no ES5 support, but does support `Object.defineProperty`, `Object.getOwnPropertyDescriptor`, JSON parsing & Property access on strings"
   },
-  "usage_perc_y":92.15,
-  "usage_perc_a":2.77,
+  "usage_perc_y":96.41,
+  "usage_perc_a":2.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"es5,javascript,js,function.bind,array.foreach,array.indexof,array.map,object.keys,date.now,defineproperties,getprototypeof,keys,seal,freeze,preventextensions,issealed,isfrozen,isextensible,getownpropertydescriptorgetownpropertynames,toisostringc,isarray,lastindexof,every,some,reduce,reduceright,getter,setter",

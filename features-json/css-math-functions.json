@@ -1,12 +1,36 @@
 {
   "title":"CSS math functions min(), max() and clamp()",
-  "description":"More advanced mathematical expressions in addition to calc()",
+  "description":"More advanced mathematical expressions in addition to `calc()`",
   "spec":"https://www.w3.org/TR/css-values-4/#math-function",
   "status":"wd",
   "links":[
     {
       "url":"https://jsfiddle.net/as9t4jek/",
       "title":"Test case on JSFiddle"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1452609",
+      "title":"Firefox support bug"
+    },
+    {
+      "url":"https://crbug.com/825895",
+      "title":"Chrome support bug"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/min",
+      "title":"MDN Web Docs article for min()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/max",
+      "title":"MDN Web Docs article for max()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/clamp",
+      "title":"MDN Web Docs article for clamp()"
+    },
+    {
+      "url":"https://webdesign.tutsplus.com/tutorials/mathematical-expressions-calc-min-and-max--cms-29735",
+      "title":"Getting Started With CSS Math Functions Level 4"
     }
   ],
   "bugs":[
@@ -32,7 +56,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "76":"n"
     },
     "firefox":{
       "2":"n",
@@ -101,8 +126,12 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"u",
-      "67":"u"
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +205,12 @@
       "72":"n",
       "73":"n",
       "74":"n",
-      "75":"n"
+      "75":"n",
+      "76":"n",
+      "77":"n",
+      "78":"n",
+      "79":"n",
+      "80":"n"
     },
     "safari":{
       "3.1":"n",
@@ -197,6 +231,7 @@
       "11.1":"a #1",
       "12":"a #1",
       "12.1":"a #1",
+      "13":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -254,7 +289,9 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"n"
+      "58":"n",
+      "60":"n",
+      "62":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -272,7 +309,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
-      "12.2":"a #1"
+      "12.2-12.3":"a #1",
+      "13":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -287,11 +325,11 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"n"
+      "76":"n"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -303,30 +341,34 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"n"
+      "76":"n"
     },
     "and_ff":{
-      "64":"n"
+      "68":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"n"
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
-      "1.2":"u"
+      "1.2":"n"
     },
     "baidu":{
-      "7.12":"u"
+      "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
@@ -334,13 +376,13 @@
     "1":"Does not support `clamp()`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":11.61,
+  "usage_perc_a":12.48,
   "ucprefix":false,
   "parent":"",
-  "keywords":"calc,min,max,clamp",
+  "keywords":"",
   "ie_id":"",
   "chrome_id":"",
-  "firefox_id":"1452609",
-  "webkit_id":"167000",
-  "shown":false
+  "firefox_id":"",
+  "webkit_id":"",
+  "shown":true
 }

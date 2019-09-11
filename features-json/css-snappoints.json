@@ -44,7 +44,8 @@
       "15":"a x #2 #5 #6",
       "16":"a x #2 #5 #6",
       "17":"a x #2 #5 #6",
-      "18":"a x #2 #5 #6"
+      "18":"a x #2 #5 #6",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -114,7 +115,11 @@
       "64":"a #5",
       "65":"a #5",
       "66":"a #5",
-      "67":"a #5"
+      "67":"a #5",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -188,7 +193,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -209,6 +219,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -266,7 +277,9 @@
       "55":"n d #7",
       "56":"n d #7",
       "57":"n d #7",
-      "58":"n d #7"
+      "58":"n d #7",
+      "60":"n d #7",
+      "62":"n d #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -284,7 +297,8 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -299,7 +313,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -315,30 +329,34 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"a #5"
+      "68":"a #5"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"n"
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"a #5"
     }
   },
   "notes":"Works in the iOS WKWebView, but not UIWebView.",
@@ -350,8 +368,8 @@
     "6":"Partial support in IE & Edge refers to not supporting `scroll-snap-coordinate` and `scroll-snap-destination`.",
     "7":"Available behind the \"Experimental Web Platform features\" feature flag"
   },
-  "usage_perc_y":72.91,
-  "usage_perc_a":9.39,
+  "usage_perc_y":79.12,
+  "usage_perc_a":6,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-snap-points-x,scroll-snap-points-y,scroll-snap-type,scroll-snap-destination,scroll-snap-coordinate,scroll-snap-margin,scroll-snap-align",

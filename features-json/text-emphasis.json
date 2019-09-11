@@ -42,7 +42,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "76":"a x #1"
     },
     "firefox":{
       "2":"n",
@@ -112,7 +113,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -186,7 +191,12 @@
       "72":"a x #1",
       "73":"a x #1",
       "74":"a x #1",
-      "75":"a x #1"
+      "75":"a x #1",
+      "76":"a x #1",
+      "77":"a x #1",
+      "78":"a x #1",
+      "79":"a x #1",
+      "80":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -207,6 +217,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -264,7 +275,9 @@
       "55":"a x #1",
       "56":"a x #1",
       "57":"a x #1",
-      "58":"a x #1"
+      "58":"a x #1",
+      "60":"a x #1",
+      "62":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -282,7 +295,8 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -297,7 +311,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "67":"a x #1"
+      "76":"a x #1"
     },
     "bb":{
       "7":"n",
@@ -313,30 +327,34 @@
       "46":"a x #1"
     },
     "and_chr":{
-      "71":"a x #1"
+      "76":"a x #1"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"a x #1"
+      "12.12":"a x #1"
     },
     "samsung":{
       "4":"a x #1",
       "5.0-5.4":"a x #1",
       "6.2-6.4":"a x #1",
       "7.2-7.4":"a x #1",
-      "8.2":"a x #1"
+      "8.2":"a x #1",
+      "9.2":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
     },
     "baidu":{
       "7.12":"a x #1"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"Some old WebKit browsers (like Chrome 24) support `-webkit-text-emphasis`, but does not support CJK languages and is therefore considered unsupported.",
@@ -344,8 +362,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":17.77,
-  "usage_perc_a":69.95,
+  "usage_perc_y":18,
+  "usage_perc_a":74.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

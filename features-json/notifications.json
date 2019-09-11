@@ -64,7 +64,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -134,7 +135,11 @@
       "64":"y",
       "65":"y",
       "66":"y",
-      "67":"y"
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -208,7 +213,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -229,6 +239,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -286,7 +297,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -304,7 +317,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n"
+      "12.2-12.3":"n",
+      "13":"n"
     },
     "op_mini":{
       "all":"n"
@@ -319,7 +333,7 @@
       "4.2-4.3":"n",
       "4.4":"a x",
       "4.4.3-4.4.4":"a x",
-      "67":"a x"
+      "76":"a x"
     },
     "bb":{
       "7":"n",
@@ -335,30 +349,34 @@
       "46":"a x"
     },
     "and_chr":{
-      "71":"y #3"
+      "76":"y #3"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"a x",
       "5.0-5.4":"n #2",
       "6.2-6.4":"n #2",
       "7.2-7.4":"n #2",
-      "8.2":"n #2"
+      "8.2":"n #2",
+      "9.2":"n #2"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n #2"
+    },
+    "kaios":{
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -367,8 +385,8 @@
     "2":"Supports notifications via the [Push API](https://caniuse.com/#feat=push-api) but not the Web Notifications API.",
     "3":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)"
   },
-  "usage_perc_y":73.69,
-  "usage_perc_a":1.12,
+  "usage_perc_y":75.63,
+  "usage_perc_a":0.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

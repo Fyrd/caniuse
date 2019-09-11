@@ -1,6 +1,6 @@
 {
   "title":"Network Information API",
-  "description":"The Network Information API enables web applications to access information about the network connection in use by the device.",
+  "description":"The Network Information API enables web applications to access information about the network connection in use by the device. Accessed via `navigator.connection`",
   "spec":"http://wicg.github.io/netinfo/",
   "status":"unoff",
   "links":[
@@ -33,7 +33,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "76":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -103,7 +104,11 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n"
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n"
     },
     "chrome":{
       "4":"n",
@@ -177,7 +182,12 @@
       "72":"a #4",
       "73":"a #4",
       "74":"a #4",
-      "75":"a #4"
+      "75":"a #4",
+      "76":"a #4",
+      "77":"a #4",
+      "78":"a #4",
+      "79":"a #4",
+      "80":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -198,6 +208,7 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -255,7 +266,9 @@
       "55":"a #4",
       "56":"a #4",
       "57":"a #4",
-      "58":"a #4"
+      "58":"a #4",
+      "60":"a #4",
+      "62":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -273,7 +286,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n"
+      "12.2-12.3":"n",
+      "13":"n"
     },
     "op_mini":{
       "all":"n"
@@ -288,7 +302,7 @@
       "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -304,41 +318,45 @@
       "46":"a #3"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"a #1",
       "5.0-5.4":"a #3",
       "6.2-6.4":"a #3",
       "7.2-7.4":"a #3",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"a #3"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
-  "notes":"In Chrome the API is enabled on Android only, support for other platforms [is coming](https://docs.google.com/a/chromium.org/document/d/1LTk9uVMGi4kurzcF5ellsAJReTF31fFJMHrQwSVtBjc/) . Support is also available on [Firefox OS](https://bugzilla.mozilla.org/show_bug.cgi?id=960426).",
+  "notes":"",
   "notes_by_num":{
     "1":"Supports only the `navigator.connection.type` value which doesn't match the latest spec. [see details](https://www.davidbcalhoun.com/2010/optimizing-based-on-connection-speed-using-navigator.connection-on-android-2.2-/)",
     "2":"Only supports the `type` value.",
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":33.64,
-  "usage_perc_a":31.06,
+  "usage_perc_y":39.19,
+  "usage_perc_a":30.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

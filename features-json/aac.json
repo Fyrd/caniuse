@@ -32,7 +32,8 @@
       "15":"y",
       "16":"y",
       "17":"y",
-      "18":"y"
+      "18":"y",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -102,7 +103,11 @@
       "64":"a #1",
       "65":"a #1",
       "66":"a #1",
-      "67":"a #1"
+      "67":"a #1",
+      "68":"a #1",
+      "69":"a #1",
+      "70":"a #1",
+      "71":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +181,12 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -197,6 +207,7 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
+      "13":"y",
       "TP":"y"
     },
     "opera":{
@@ -254,7 +265,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -272,7 +285,8 @@
       "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
-      "12.2":"y"
+      "12.2-12.3":"y",
+      "13":"y"
     },
     "op_mini":{
       "all":"n"
@@ -287,7 +301,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"n",
@@ -303,38 +317,42 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"a #1"
+      "68":"a #1"
     },
     "ie_mob":{
       "10":"y",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"y"
+      "12.12":"y"
     },
     "samsung":{
       "4":"y",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"y"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #1"
     }
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
   "notes_by_num":{
     "1":"Partial support in Firefox refers to only supporting AAC in an MP4 container and only when the operating system already has the codecs installed."
   },
-  "usage_perc_y":88.44,
-  "usage_perc_a":4.35,
+  "usage_perc_y":92.33,
+  "usage_perc_a":4.74,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"audio/aac",

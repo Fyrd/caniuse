@@ -32,7 +32,8 @@
       "15":"a #1",
       "16":"a #1",
       "17":"a #1",
-      "18":"a #1"
+      "18":"a #1",
+      "76":"a #2"
     },
     "firefox":{
       "2":"y",
@@ -102,7 +103,11 @@
       "64":"a #3",
       "65":"a #3",
       "66":"a #3",
-      "67":"a #3"
+      "67":"a #3",
+      "68":"a #3",
+      "69":"a #3",
+      "70":"a #3",
+      "71":"a #3"
     },
     "chrome":{
       "4":"n",
@@ -176,7 +181,12 @@
       "72":"a #2",
       "73":"a #2",
       "74":"a #2",
-      "75":"a #2"
+      "75":"a #2",
+      "76":"a #2",
+      "77":"a #2",
+      "78":"a #2",
+      "79":"a #2",
+      "80":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -197,6 +207,7 @@
       "11.1":"a #5",
       "12":"a #5",
       "12.1":"a #5",
+      "13":"a #5",
       "TP":"a #5"
     },
     "opera":{
@@ -254,7 +265,9 @@
       "55":"y",
       "56":"y",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -272,7 +285,8 @@
       "11.0-11.2":"y #4",
       "11.3-11.4":"y #4",
       "12.0-12.1":"y #4",
-      "12.2":"y #4"
+      "12.2-12.3":"y #4",
+      "13":"y #4"
     },
     "op_mini":{
       "all":"y #4"
@@ -287,7 +301,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "67":"y"
+      "76":"y"
     },
     "bb":{
       "7":"y",
@@ -303,30 +317,34 @@
       "46":"y"
     },
     "and_chr":{
-      "71":"y"
+      "76":"y"
     },
     "and_ff":{
-      "64":"y"
+      "68":"y"
     },
     "ie_mob":{
       "10":"a #5",
       "11":"a #5"
     },
     "and_uc":{
-      "11.8":"y #4"
+      "12.12":"y #4"
     },
     "samsung":{
       "4":"y",
       "5.0-5.4":"y",
       "6.2-6.4":"y",
       "7.2-7.4":"y",
-      "8.2":"y"
+      "8.2":"y",
+      "9.2":"y"
     },
     "and_qq":{
       "1.2":"a #2"
     },
     "baidu":{
       "7.12":"y"
+    },
+    "kaios":{
+      "2.5":"a #3"
     }
   },
   "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields. One example is the use of password managers.",
@@ -337,8 +355,8 @@
     "4":"Browser does not display previously submitted values as options with `on` value.",
     "5":"Safari ignores the `off` value for [username, email and password fields](https://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
-  "usage_perc_y":53.84,
-  "usage_perc_a":41.14,
+  "usage_perc_y":58.85,
+  "usage_perc_a":40.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

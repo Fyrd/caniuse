@@ -1,7 +1,7 @@
 {
   "title":"Feature Policy",
   "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs.",
-  "spec":"https://wicg.github.io/feature-policy/",
+  "spec":"https://w3c.github.io/webappsec-feature-policy/",
   "status":"unoff",
   "links":[
     {
@@ -23,6 +23,14 @@
     {
       "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/33507907-support-feature-policy",
       "title":"MS Edge feature suggestion"
+    },
+    {
+      "url":"https://featurepolicy.info/",
+      "title":"featurepolicy.info (Feature-Policy Playground)"
+    },
+    {
+      "url":"https://github.com/w3c/webappsec-feature-policy/blob/master/features.md",
+      "title":"List of known features"
     }
   ],
   "bugs":[
@@ -50,7 +58,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "76":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -120,7 +129,11 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n"
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n"
     },
     "chrome":{
       "4":"n",
@@ -194,7 +207,12 @@
       "72":"a #1",
       "73":"a #1",
       "74":"a #1",
-      "75":"a #1"
+      "75":"a #1",
+      "76":"a #1",
+      "77":"a #1",
+      "78":"a #1",
+      "79":"a #1",
+      "80":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -215,6 +233,7 @@
       "11.1":"a #2 #3",
       "12":"a #2 #3",
       "12.1":"a #2 #3",
+      "13":"a #2 #3",
       "TP":"a #2 #3"
     },
     "opera":{
@@ -272,7 +291,9 @@
       "55":"a #1",
       "56":"a #1",
       "57":"a #1",
-      "58":"a #1"
+      "58":"a #1",
+      "60":"a #1",
+      "62":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -290,7 +311,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"u",
       "12.0-12.1":"u",
-      "12.2":"u"
+      "12.2-12.3":"u",
+      "13":"u"
     },
     "op_mini":{
       "all":"n"
@@ -305,7 +327,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"a #1"
+      "76":"a #1"
     },
     "bb":{
       "7":"n",
@@ -321,30 +343,34 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"a #1"
+      "76":"a #1"
     },
     "and_ff":{
-      "64":"n"
+      "68":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"a #1"
+      "8.2":"a #1",
+      "9.2":"a #1"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"Standard support includes the HTTP header (`Feature-Policy`), `allow` attribute on iframes, and corresponding JS API.",
@@ -354,7 +380,7 @@
     "3":"Doesn't support [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":65.6,
+  "usage_perc_a":70.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow",

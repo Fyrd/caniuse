@@ -32,7 +32,8 @@
       "15":"a #2",
       "16":"a #2",
       "17":"a #2",
-      "18":"a #2"
+      "18":"a #2",
+      "76":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -102,7 +103,11 @@
       "64":"a #2",
       "65":"a #2",
       "66":"a #2",
-      "67":"a #2"
+      "67":"a #2",
+      "68":"a #2",
+      "69":"a #2",
+      "70":"a #2",
+      "71":"a #2"
     },
     "chrome":{
       "4":"u",
@@ -176,7 +181,12 @@
       "72":"a #1",
       "73":"a #1",
       "74":"a #1",
-      "75":"a #1"
+      "75":"a #1",
+      "76":"a #1",
+      "77":"a #1",
+      "78":"a #1",
+      "79":"a #1",
+      "80":"a #1"
     },
     "safari":{
       "3.1":"u",
@@ -197,6 +207,7 @@
       "11.1":"a #1",
       "12":"a #1",
       "12.1":"a #1",
+      "13":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -254,7 +265,9 @@
       "55":"a #1",
       "56":"a #1",
       "57":"a #1",
-      "58":"a #1"
+      "58":"a #1",
+      "60":"a #1",
+      "62":"a #1"
     },
     "ios_saf":{
       "3.2":"u",
@@ -272,7 +285,8 @@
       "11.0-11.2":"a #1",
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
-      "12.2":"a #1"
+      "12.2-12.3":"a #1",
+      "13":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -287,7 +301,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "67":"a #1"
+      "76":"a #1"
     },
     "bb":{
       "7":"a #1",
@@ -303,30 +317,34 @@
       "46":"a #1"
     },
     "and_chr":{
-      "71":"a #1"
+      "76":"a #1"
     },
     "and_ff":{
-      "64":"a #2"
+      "68":"a #2"
     },
     "ie_mob":{
       "10":"a #2",
       "11":"a #2"
     },
     "and_uc":{
-      "11.8":"a #1"
+      "12.12":"a #1"
     },
     "samsung":{
       "4":"a #1",
       "5.0-5.4":"a #1",
       "6.2-6.4":"a #1",
       "7.2-7.4":"a #1",
-      "8.2":"a #1"
+      "8.2":"a #1",
+      "9.2":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
     },
     "baidu":{
       "7.12":"a #1"
+    },
+    "kaios":{
+      "2.5":"a #2"
     }
   },
   "notes":"See also support for [Mutation Observer](https://caniuse.com/#feat=mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
@@ -335,7 +353,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.03,
-  "usage_perc_a":92.99,
+  "usage_perc_a":97.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

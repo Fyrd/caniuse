@@ -5,24 +5,24 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture",
-      "title":"Intro"
-    },
-    {
       "url":"https://googlechrome.github.io/samples/picture-in-picture/",
-      "title":"Samples"
-    },
-    {
-      "url":"https://github.com/WICG/picture-in-picture/blob/master/implementation-status.md",
-      "title":"Implementation Status"
+      "title":"Sample video"
     },
     {
       "url":"https://developer.apple.com/documentation/webkitjs/adding_picture_in_picture_to_your_safari_media_controls",
       "title":"Safari equivalent API"
     },
     {
-      "url":"https://www.trishtech.com/2017/12/pop-out-videos-on-any-website-in-opera-browser/",
-      "title":"Pop-Out Opera feature"
+      "url":"https://blogs.opera.com/desktop/2016/04/opera-beta-update-video-pop/",
+      "title":"Opera equivalent Video Pop Out feature"
+    },
+    {
+      "url":"https://github.com/WICG/picture-in-picture/blob/master/implementation-status.md",
+      "title":"Implementation Status"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1519885",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
@@ -48,7 +48,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n"
+      "18":"n",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -118,7 +119,11 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n"
+      "67":"n",
+      "68":"n d #1",
+      "69":"n d #1",
+      "70":"n d #1",
+      "71":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -186,13 +191,18 @@
       "66":"n",
       "67":"n",
       "68":"n",
-      "69":"n d",
+      "69":"n d #2",
       "70":"y",
       "71":"y",
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -207,13 +217,14 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"a d #1",
-      "10.1":"a d #1",
-      "11":"a d #1",
-      "11.1":"a d #1",
-      "12":"a d #1",
-      "12.1":"a d #1",
-      "TP":"a d #1"
+      "10":"a #3",
+      "10.1":"a #3",
+      "11":"a #3",
+      "11.1":"a #3",
+      "12":"a #3",
+      "12.1":"a #3",
+      "13":"a #3",
+      "TP":"a #3"
     },
     "opera":{
       "9":"n",
@@ -249,28 +260,30 @@
       "34":"n",
       "35":"n",
       "36":"n",
-      "37":"a d #2",
-      "38":"a #2",
-      "39":"a #2",
-      "40":"a #2",
-      "41":"a #2",
-      "42":"a #2",
-      "43":"a #2",
-      "44":"a #2",
-      "45":"a #2",
-      "46":"a #2",
-      "47":"a #2",
-      "48":"a #2",
-      "49":"a #2",
-      "50":"a #2",
-      "51":"a #2",
-      "52":"a #2",
-      "53":"a #2",
-      "54":"a #2",
-      "55":"a #2",
-      "56":"a #2",
-      "57":"a #2",
-      "58":"a #2"
+      "37":"a #4",
+      "38":"a #4",
+      "39":"a #4",
+      "40":"a #4",
+      "41":"a #4",
+      "42":"a #4",
+      "43":"a #4",
+      "44":"a #4",
+      "45":"a #4",
+      "46":"a #4",
+      "47":"a #4",
+      "48":"a #4",
+      "49":"a #4",
+      "50":"a #4",
+      "51":"a #4",
+      "52":"a #4",
+      "53":"a #4",
+      "54":"a #4",
+      "55":"a #4",
+      "56":"a #4",
+      "57":"a #4",
+      "58":"a #4",
+      "60":"a #4",
+      "62":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -281,14 +294,15 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9.0-9.2":"n",
-      "9.3":"n",
-      "10.0-10.2":"a d #1",
-      "10.3":"a d #1",
-      "11.0-11.2":"a d #1",
-      "11.3-11.4":"a d #1",
-      "12.0-12.1":"a d #1",
-      "12.2":"a d #1"
+      "9.0-9.2":"a #3",
+      "9.3":"a #3",
+      "10.0-10.2":"a #3",
+      "10.3":"a #3",
+      "11.0-11.2":"a #3",
+      "11.3-11.4":"a #3",
+      "12.0-12.1":"a #3",
+      "12.2-12.3":"a #3",
+      "13":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -303,7 +317,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"n"
+      "76":"n"
     },
     "bb":{
       "7":"n",
@@ -319,43 +333,49 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"a #3"
+      "76":"a #5"
     },
     "and_ff":{
-      "64":"a #3"
+      "68":"a #5"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"n"
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Apple provides an equivalent proprietary API for Picture-in-Picture.",
-    "2":"Opera allows users to use Picture-in-Picture for all playing videos (JS API not available)",
-    "3":"Automatically plays video in Picture-in-Picture when user hits Home Screen button and video is fullscreen (Android >= Oreo required)"
+    "1":"Can be enabled in Firefox Nightly only via the `media.videocontrols.picture-in-picture.enabled` pref in `about:config`.",
+    "2":"Can be enabled in Chrome via the `#enable-picture-in-picture` & `#enable-surfaces-for-videos` flags in `chrome://flags`.",
+    "3":"Apple provides an equivalent proprietary API for Picture-in-Picture. Only macOS 10.12 Sierra & iOS 9 and newer support this API.",
+    "4":"Opera provides an equivalent proprietary feature named Video Pop Out, which allows users to use Picture-in-Picture mode for all playing videos.",
+    "5":"Automatically plays fullscreen videos in Picture-in-Picture mode after user hits Home Screen button. Only Android 8.0 Oreo and newer provide appropriate API for Picture-in-Picture."
   },
-  "usage_perc_y":27.13,
-  "usage_perc_a":47.51,
+  "usage_perc_y":27,
+  "usage_perc_a":50.6,
   "ucprefix":false,
   "parent":"",
-  "keywords":"Picture-in-Picture,pip,pop-out",
+  "keywords":"Picture-in-Picture,PictureInPicture,pip,pop-out,autoPictureInPicture,disablePictureInPicture,auto,disable,picture in picture,pseudo",
   "ie_id":"pictureinpicture",
   "chrome_id":"5729206566649856",
   "firefox_id":"",

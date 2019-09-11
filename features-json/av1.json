@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"AV1 decoding was not available in Firefox on Windows 32-bit starting from Firefox Nightly 63 and through Firefox 65. (It was then re-enabled in Firefox 66.) See [Bug 1445683 - Update aom](https://bugzilla.mozilla.org/show_bug.cgi?id=1445683) and [Bug 1475564 - Build libaom on win32](https://bugzilla.mozilla.org/show_bug.cgi?id=1475564)"
+    }
   ],
   "categories":[
     "Other"
@@ -48,7 +50,8 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n d #1"
+      "18":"n d #1",
+      "76":"y"
     },
     "firefox":{
       "2":"n",
@@ -106,19 +109,23 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n d #4",
-      "56":"n d #4",
-      "57":"n d #4",
-      "58":"n d #4",
-      "59":"n d #4",
-      "60":"n d #4",
-      "61":"n d #3 #4",
-      "62":"n d #3 #4",
-      "63":"n d #3",
-      "64":"n d #3",
-      "65":"a #2 #3",
-      "66":"a #2 #3",
-      "67":"a #2 #3"
+      "55":"n d #5",
+      "56":"n d #5",
+      "57":"n d #5",
+      "58":"n d #5",
+      "59":"n d #5",
+      "60":"n d #5",
+      "61":"n d #4 #5",
+      "62":"n d #4 #5",
+      "63":"n d #4",
+      "64":"n d #4",
+      "65":"a #2 #4",
+      "66":"a #3 #4",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "chrome":{
       "4":"n",
@@ -184,15 +191,20 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n d #5",
-      "68":"n d #5",
-      "69":"n d #5",
+      "67":"n d #6",
+      "68":"n d #6",
+      "69":"n d #6",
       "70":"y",
       "71":"y",
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y"
     },
     "safari":{
       "3.1":"n",
@@ -213,6 +225,7 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
+      "13":"n",
       "TP":"n"
     },
     "opera":{
@@ -270,7 +283,9 @@
       "55":"n",
       "56":"n",
       "57":"y",
-      "58":"y"
+      "58":"y",
+      "60":"y",
+      "62":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -288,7 +303,8 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2":"n"
+      "12.2-12.3":"n",
+      "13":"n"
     },
     "op_mini":{
       "all":"n"
@@ -303,7 +319,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "67":"n"
+      "76":"n"
     },
     "bb":{
       "7":"n",
@@ -319,42 +335,47 @@
       "46":"n"
     },
     "and_chr":{
-      "71":"n"
+      "76":"n"
     },
     "and_ff":{
-      "64":"n d #3"
+      "68":"n d #4"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "11.8":"n"
+      "12.12":"n"
     },
     "samsung":{
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"n"
+      "8.2":"n",
+      "9.2":"n"
     },
     "and_qq":{
       "1.2":"n"
     },
     "baidu":{
       "7.12":"n"
+    },
+    "kaios":{
+      "2.5":"n"
     }
   },
   "notes":"",
   "notes_by_num":{
     "1":"Supported in Edge when the AV1 Video Extension (Beta) is installed from the Microsoft Store",
-    "2":"Partial support in Firefox refers to being enabled by default only for Windows users",
-    "3":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
-    "4":"Only available in Firefox Nightly (applies to older versions of Firefox)",
-    "5":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
+    "2":"Partial support in Firefox 65 refers to being enabled by default only for Windows 64-bit users (see \"Known Issues\" for lack of 32-bit support.)",
+    "3":"Partial support in Firefox 66 refers to being enabled by default only for Windows and macOS users",
+    "4":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
+    "5":"Only available in Firefox Nightly (applies to older versions of Firefox)",
+    "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
   },
-  "usage_perc_y":28.11,
-  "usage_perc_a":2.67,
+  "usage_perc_y":31.17,
+  "usage_perc_a":0.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
