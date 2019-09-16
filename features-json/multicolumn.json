@@ -394,7 +394,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to not supporting the `break-before`, `break-after`, and `break-inside` properties. WebKit- and Blink-based browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*` but does support the now-obsolute `page-break-*` properties in the paging (printing) context.",
+    "1":"Partial support refers to not supporting the `break-before`, `break-after`, and `break-inside` properties. WebKit- and Blink-based browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*` but does support the now-obsolete `page-break-*` properties in the paging (printing) context.",
     "2":"Partial support refers to not supporting the `column-fill` property.",
     "3":"Partial support refers to not supporting the `avoid-column`, `column`, and `avoid` (in the column context) values for the properties `break-before`, `break-after`, and `break-inside`."
   },
