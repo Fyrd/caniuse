@@ -120,8 +120,8 @@
       "67":"n",
       "68":"n",
       "69":"n",
-      "70":"n",
-      "71":"n"
+      "70":"n d #3",
+      "71":"n d #3"
     },
     "chrome":{
       "4":"n",
@@ -364,7 +364,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled via the \"Experimental Web Platform Features\" flag",
-    "2":"Currently only supported with the `-webkit-` prefix (not -ms-)"
+    "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
+    "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` preference to `true` in about:config."
   },
   "usage_perc_y":33.47,
   "usage_perc_a":0,
