@@ -1,41 +1,44 @@
 {
-  "title":"Web Share API",
-  "description":"A way to allow websites to invoke the native sharing capabilities of the host platform",
-  "spec":"https://wicg.github.io/web-share/",
-  "status":"unoff",
-  "links":[
-    {
-      "url":"https://developers.google.com/web/updates/2016/10/navigator-share",
-      "title":"Chrome post"
+  "title": "Web Share API",
+  "description": "A way to allow websites to invoke the native sharing capabilities of the host platform",
+  "spec": "https://wicg.github.io/web-share/",
+  "status": "unoff",
+  "links": [ {
+      "url": "https://developers.google.com/web/updates/2016/10/navigator-share",
+      "title": "Chrome post"
     },
     {
-      "url":"https://blog.hospodarets.com/web-share-api",
-      "title":"Web Share API brings the native sharing capabilities to the browser"
+      "url": "https://love2dev.com/blog/webshare-api/",
+      "title": "How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
     },
     {
-      "url":"https://philna.sh/blog/2017/03/14/the-web-share-api/",
-      "title":"Web Share API"
+      "url": "https://blog.hospodarets.com/web-share-api",
+      "title": "Web Share API brings the native sharing capabilities to the browser"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1312422",
-      "title":"Mozilla bug #1312422: Consider experimental support for Web Share API"
+      "url": "https://philna.sh/blog/2017/03/14/the-web-share-api/",
+      "title": "Web Share API"
+    },
+    {
+      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1312422",
+      "title": "Mozilla bug #1312422: Consider experimental support for Web Share API"
     }
   ],
-  "bugs":[
-    
+  "bugs": [
+
   ],
-  "categories":[
+  "categories": [
     "JS API"
   ],
-  "stats":{
-    "ie":{
-      "5.5":"n",
-      "6":"n",
-      "7":"n",
-      "8":"n",
-      "9":"n",
-      "10":"n",
-      "11":"n"
+  "stats": {
+    "ie": {
+      "5.5": "n",
+      "6": "n",
+      "7": "n",
+      "8": "n",
+      "9": "n",
+      "10": "n",
+      "11": "n"
     },
     "edge":{
       "12":"n",
@@ -300,8 +303,8 @@
       "12.2-12.3":"y",
       "13":"y"
     },
-    "op_mini":{
-      "all":"n"
+    "op_mini": {
+      "all": "n"
     },
     "android":{
       "2.1":"n",
@@ -315,18 +318,18 @@
       "4.4.3-4.4.4":"n #3",
       "76":"n #3"
     },
-    "bb":{
-      "7":"n",
-      "10":"n"
+    "bb": {
+      "7": "n",
+      "10": "n"
     },
-    "op_mob":{
-      "10":"n",
-      "11":"n",
-      "11.1":"n",
-      "11.5":"n",
-      "12":"n",
-      "12.1":"n",
-      "46":"n"
+    "op_mob": {
+      "10": "n",
+      "11": "n",
+      "11.1": "n",
+      "11.5": "n",
+      "12": "n",
+      "12.1": "n",
+      "46": "n"
     },
     "and_chr":{
       "76":"y"
@@ -334,9 +337,9 @@
     "and_ff":{
       "68":"n #3"
     },
-    "ie_mob":{
-      "10":"n",
-      "11":"n"
+    "ie_mob": {
+      "10": "n",
+      "11": "n"
     },
     "and_uc":{
       "12.12":"n"
@@ -349,8 +352,8 @@
       "8.2":"n #3",
       "9.2":"n #3"
     },
-    "and_qq":{
-      "1.2":"n"
+    "and_qq": {
+      "1.2": "n"
     },
     "baidu":{
       "7.12":"u"
@@ -359,11 +362,11 @@
       "2.5":"n"
     }
   },
-  "notes":"",
-  "notes_by_num":{
-    "1":"Partial support refers to feature only being available for sites opting into the [origin trial](https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md)",
-    "2":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
-    "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead."
+  "notes": "",
+  "notes_by_num": {
+    "1": "Partial support refers to feature only being available for sites opting into the [origin trial](https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md)",
+    "2": "Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
+    "3": "Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead."
   },
   "usage_perc_y":47.01,
   "usage_perc_a":0,
