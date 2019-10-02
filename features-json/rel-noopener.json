@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Chromium 49 and newer [ignores other window.open API features](https://www.ctrl.blog/entry/tabnabbing-window-size-position.html) (like setting dimensions and position) when called with `noopener` or `noreferrer`."
+    }
   ],
   "categories":[
     "DOM",
