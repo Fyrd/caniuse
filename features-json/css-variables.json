@@ -307,8 +307,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -357,7 +356,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -374,7 +374,7 @@
     "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
     "2":"Partial support is due to bugs present (see known issues)"
   },
-  "usage_perc_y":92.82,
+  "usage_perc_y":91.8,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

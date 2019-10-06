@@ -287,8 +287,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -337,7 +336,8 @@
       "6.2-6.4":"n #1",
       "7.2-7.4":"n #1",
       "8.2":"n #1",
-      "9.2":"n #1"
+      "9.2":"n #1",
+      "10.1":"n #1"
     },
     "and_qq":{
       "1.2":"n #1"
@@ -354,7 +354,7 @@
     "1":"Low-level syntax available in [font-feature-settings](https://caniuse.com/#feat=font-feature) property equivalent to OpenType features: salt, ss01 through ss20, cv01 through cv99, swsh, cswh, ornm, nalt",
     "2":"Experimental support available by enabling the layout.css.font-features.enabled flag"
   },
-  "usage_perc_y":18.01,
+  "usage_perc_y":18.34,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -313,8 +313,7 @@
       "11.3-11.4":"p",
       "12.0-12.1":"p",
       "12.2-12.3":"y #5",
-      "13":"y #5",
-      "13.1":"y #5"
+      "13.0-13.1":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -363,7 +362,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -383,8 +383,8 @@
     "4":"Partial support in Edge refers [to disappearing option elements on focusing the input element via tab](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/20066595/).",
     "5":"Supported through WKWebView and Safari but not through UIWebView"
   },
-  "usage_perc_y":78.36,
-  "usage_perc_a":11.8,
+  "usage_perc_y":78.75,
+  "usage_perc_a":11.2,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute,input",

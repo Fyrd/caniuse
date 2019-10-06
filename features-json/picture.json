@@ -314,8 +314,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -364,7 +363,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -382,7 +382,7 @@
     "2":"Enabled in Opera through the \"experimental Web Platform features\" flag in opera://flags",
     "3":"Enabled in Firefox by setting the about:config preference dom.image.picture.enable to true"
   },
-  "usage_perc_y":93.89,
+  "usage_perc_y":92.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

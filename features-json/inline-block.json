@@ -297,8 +297,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -347,7 +346,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -363,7 +363,7 @@
   "notes_by_num":{
     "1":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. [Alternative properties](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/) are available to provide complete cross-browser support."
   },
-  "usage_perc_y":99.11,
+  "usage_perc_y":98.41,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

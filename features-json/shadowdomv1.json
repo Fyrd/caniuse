@@ -295,8 +295,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -345,7 +344,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -363,8 +363,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.shadowdom.enabled` preference in `about:config`."
   },
-  "usage_perc_y":76.09,
-  "usage_perc_a":13.16,
+  "usage_perc_y":74.87,
+  "usage_perc_a":13.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,shadow dom,attachShadow",

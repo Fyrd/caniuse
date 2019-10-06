@@ -303,8 +303,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"p"
@@ -353,7 +352,8 @@
       "6.2-6.4":"p",
       "7.2-7.4":"p",
       "8.2":"p",
-      "9.2":"p"
+      "9.2":"p",
+      "10.1":"p"
     },
     "and_qq":{
       "1.2":"p"
@@ -370,8 +370,8 @@
     "1":"Before version 4, Firefox only supports the XHTML notation",
     "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test"
   },
-  "usage_perc_y":18.25,
-  "usage_perc_a":4.02,
+  "usage_perc_y":18.58,
+  "usage_perc_a":4.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

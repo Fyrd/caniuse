@@ -301,8 +301,7 @@
       "11.3-11.4":"y x",
       "12.0-12.1":"y x",
       "12.2-12.3":"y x",
-      "13":"y x",
-      "13.1":"y x"
+      "13.0-13.1":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -351,7 +350,8 @@
       "6.2-6.4":"n d #1",
       "7.2-7.4":"n d #1",
       "8.2":"n d #1",
-      "9.2":"n d #1"
+      "9.2":"n d #1",
+      "10.1":"n d #1"
     },
     "and_qq":{
       "1.2":"n d #1"
@@ -369,7 +369,7 @@
     "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
     "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` preference to `true` in about:config."
   },
-  "usage_perc_y":33.47,
+  "usage_perc_y":41.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

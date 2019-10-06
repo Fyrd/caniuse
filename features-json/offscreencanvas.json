@@ -291,8 +291,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.3":"n",
-      "13":"n",
-      "13.1":"n"
+      "13.0-13.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -341,7 +340,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -358,7 +358,7 @@
     "1":"Can be enabled via the `gfx.offscreencanvas.enabled` flag. Currently only supports WebGL contexts, not 2D.",
     "2":"Can be enabled via the `Experimental canvas features` flag"
   },
-  "usage_perc_y":63.22,
+  "usage_perc_y":64.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

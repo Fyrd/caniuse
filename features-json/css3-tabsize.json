@@ -293,8 +293,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"a x #1"
@@ -343,7 +342,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -359,8 +359,8 @@
   "notes_by_num":{
     "1":"Partial refers to supporting `<integer>` but not `<length>` values."
   },
-  "usage_perc_y":77.59,
-  "usage_perc_a":16.54,
+  "usage_perc_y":76.25,
+  "usage_perc_a":16.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"tab-size,tab-width",

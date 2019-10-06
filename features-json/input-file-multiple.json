@@ -291,8 +291,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n #1"
@@ -341,7 +340,8 @@
       "6.2-6.4":"a #1",
       "7.2-7.4":"a #1",
       "8.2":"a #1",
-      "9.2":"a #1"
+      "9.2":"a #1",
+      "10.1":"a #1"
     },
     "and_qq":{
       "1.2":"y"
@@ -357,8 +357,8 @@
   "notes_by_num":{
     "1":"Not supported on Android 4.x and below, presumably an OS limitation. Only seems to work in Android 5.x for the Chrome browser."
   },
-  "usage_perc_y":52.9,
-  "usage_perc_a":39.27,
+  "usage_perc_y":53.49,
+  "usage_perc_a":38.75,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

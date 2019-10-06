@@ -308,8 +308,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -358,7 +357,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -374,8 +374,8 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox using the `layout.css.unicode-range.enabled` flag"
   },
-  "usage_perc_y":93,
-  "usage_perc_a":4.05,
+  "usage_perc_y":91.98,
+  "usage_perc_a":4.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face,unicode,unicode-range",

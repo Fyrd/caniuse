@@ -287,8 +287,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -337,7 +336,8 @@
       "6.2-6.4":"a #1",
       "7.2-7.4":"a #1",
       "8.2":"a #1",
-      "9.2":"a #1"
+      "9.2":"a #1",
+      "10.1":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -354,8 +354,8 @@
     "1":"Does not support `DOMAttrModified`",
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
-  "usage_perc_y":0.03,
-  "usage_perc_a":97.22,
+  "usage_perc_y":0.02,
+  "usage_perc_a":96.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

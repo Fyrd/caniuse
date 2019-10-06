@@ -318,8 +318,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -368,7 +367,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -385,8 +385,8 @@
     "1":"Partial support in Android 3 & 4 refers to not supporting masking.",
     "2":"IE9-11 desktop & mobile don't properly scale SVG files.  [Adding height, width, viewBox, and CSS rules](https://codepen.io/tomByrer/pen/qEBbzw?editors=110) seem to be the best workaround."
   },
-  "usage_perc_y":98.7,
-  "usage_perc_a":0.27,
+  "usage_perc_y":98.04,
+  "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset",

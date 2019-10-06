@@ -299,8 +299,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -349,7 +348,8 @@
       "6.2-6.4":"y x",
       "7.2-7.4":"y x",
       "8.2":"y x",
-      "9.2":"y x"
+      "9.2":"y x",
+      "10.1":"y x"
     },
     "and_qq":{
       "1.2":"y x"
@@ -367,8 +367,8 @@
     "2":"Can be enabled via the \"Enable WebRTC 1.0\" flag",
     "3":"Edge does not support RTCDataChannel. See [API Catalogue](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?q=specName%3Awebrtc)"
   },
-  "usage_perc_y":88,
-  "usage_perc_a":2.07,
+  "usage_perc_y":87.2,
+  "usage_perc_a":2.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

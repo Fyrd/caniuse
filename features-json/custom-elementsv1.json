@@ -304,8 +304,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -354,7 +353,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"p"
@@ -372,8 +372,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":73.69,
-  "usage_perc_a":15.24,
+  "usage_perc_y":73.23,
+  "usage_perc_a":14.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",

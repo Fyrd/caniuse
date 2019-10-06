@@ -287,8 +287,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -337,7 +336,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -353,8 +353,8 @@
   "notes_by_num":{
     "1":"Claims \"probably\" support, actual playback is untested"
   },
-  "usage_perc_y":2.12,
-  "usage_perc_a":14.69,
+  "usage_perc_y":2.11,
+  "usage_perc_a":14.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"Dolby,AC-3,EC-3,E-AC-3,DD+,Digital Plus,A/52,multi-channel,codec,audio",

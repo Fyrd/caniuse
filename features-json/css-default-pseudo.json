@@ -303,8 +303,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"a #2"
@@ -353,7 +352,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -370,8 +370,8 @@
     "1":"Does not match `<input type=\"checkbox\" checked>` or `<input type=\"radio\" checked>`",
     "2":"Does not match the default submit button of a form"
   },
-  "usage_perc_y":86.93,
-  "usage_perc_a":7.78,
+  "usage_perc_y":86.27,
+  "usage_perc_a":7.5,
   "ucprefix":false,
   "parent":"",
   "keywords":":default,default",

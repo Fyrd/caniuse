@@ -295,8 +295,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -345,7 +344,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -361,8 +361,8 @@
   "notes_by_num":{
     "1":"Supported only when packaged in a CAF file and on macOS High Sierra/iOS 11 or later."
   },
-  "usage_perc_y":76.53,
-  "usage_perc_a":12.74,
+  "usage_perc_y":75.31,
+  "usage_perc_a":13.22,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"",

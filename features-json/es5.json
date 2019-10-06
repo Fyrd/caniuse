@@ -295,8 +295,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -345,7 +344,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -364,8 +364,8 @@
     "3":"Does not support zero-width chars in identifiers & Immutable `undefined`",
     "4":"IE8 has virtually no ES5 support, but does support `Object.defineProperty`, `Object.getOwnPropertyDescriptor`, JSON parsing & Property access on strings"
   },
-  "usage_perc_y":96.41,
-  "usage_perc_a":2.57,
+  "usage_perc_y":95.46,
+  "usage_perc_a":2.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"es5,javascript,js,function.bind,array.foreach,array.indexof,array.map,object.keys,date.now,defineproperties,getprototypeof,keys,seal,freeze,preventextensions,issealed,isfrozen,isextensible,getownpropertydescriptorgetownpropertynames,toisostringc,isarray,lastindexof,every,some,reduce,reduceright,getter,setter",

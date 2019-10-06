@@ -295,8 +295,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -345,7 +344,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -361,7 +361,7 @@
   "notes_by_num":{
     "1":"Enabled in Firefox through the `layout.css.text-underline-offset.enabled` flag"
   },
-  "usage_perc_y":11.67,
+  "usage_perc_y":12.29,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
