@@ -295,8 +295,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -345,7 +344,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -365,8 +365,8 @@
     "4":"Can be enabled in Chrome and Opera via the `#tls13-variant` flag in `chrome://flags` or `opera://flags`.",
     "5":"Partial support in Safari refers to being limited to macOS 10.14 Mojave and later."
   },
-  "usage_perc_y":76.98,
-  "usage_perc_a":1.75,
+  "usage_perc_y":76.63,
+  "usage_perc_a":1.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -287,8 +287,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.3":"n",
-      "13":"n",
-      "13.1":"n"
+      "13.0-13.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -337,7 +336,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -353,8 +353,8 @@
   "notes_by_num":{
     "1":"Partial support in Firefox refers to needing to enable the layout.css.font-features.enabled flag in about:config"
   },
-  "usage_perc_y":33.28,
-  "usage_perc_a":0.25,
+  "usage_perc_y":32.67,
+  "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,font-variant",

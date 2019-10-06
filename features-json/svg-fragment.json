@@ -299,8 +299,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -349,7 +348,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -366,8 +366,8 @@
     "1":"Partial support refers to support inside `<img>` but not as CSS `background-image`",
     "2":"Partial support refers to lack of external fragments support"
   },
-  "usage_perc_y":93.4,
-  "usage_perc_a":3.48,
+  "usage_perc_y":92.28,
+  "usage_perc_a":3.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"fragments,sprite,svg,use",

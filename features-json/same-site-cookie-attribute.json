@@ -307,8 +307,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -357,7 +356,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -374,8 +374,8 @@
     "1":"Not shipped with the inital release but later with the 2018 June security update (Patch Tuesday) to Windows 10 RS3 (2017 Fall Creators Update) and newer. [More info](https://github.com/MicrosoftEdge/Status/issues/616).",
     "2":"Partial support because only supported in IE 11 on Windows 10 RS3 (2017 Fall Creators Update) and newer, but not in IE 11 on other Windows versions (Windows 7, ...)"
   },
-  "usage_perc_y":86.58,
-  "usage_perc_a":1.74,
+  "usage_perc_y":86.16,
+  "usage_perc_a":2.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"security,cookies,cookie,csrf",

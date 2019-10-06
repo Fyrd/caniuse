@@ -299,8 +299,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -349,7 +348,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -366,7 +366,7 @@
     "1":"Can be enabled via the \"Experimental Web Platform Features\" flag",
     "2":"Does not support multi-position color stops"
   },
-  "usage_perc_y":74.17,
+  "usage_perc_y":75.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"css-gradients",

@@ -299,8 +299,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -349,7 +348,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -365,8 +365,8 @@
   "notes_by_num":{
     "1":"Supported as `constant()` instead of `env()`"
   },
-  "usage_perc_y":80.18,
-  "usage_perc_a":0.27,
+  "usage_perc_y":81.05,
+  "usage_perc_a":0.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"css env(),css constant(),css variables,safe-area-inset-top,safe-area-inset-right,safe-area-inset-bottom,safe-area-inset-left",

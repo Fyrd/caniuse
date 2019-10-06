@@ -310,8 +310,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"a #1 #2 #3"
@@ -360,7 +359,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -379,8 +379,8 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList` or the `replace()` method"
   },
-  "usage_perc_y":94.45,
-  "usage_perc_a":4.32,
+  "usage_perc_y":93.23,
+  "usage_perc_a":4.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -291,8 +291,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -341,7 +340,8 @@
       "6.2-6.4":"y #2",
       "7.2-7.4":"y #2",
       "8.2":"y #2",
-      "9.2":"y #2"
+      "9.2":"y #2",
+      "10.1":"y #2"
     },
     "and_qq":{
       "1.2":"y #2"
@@ -359,8 +359,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":91.69,
-  "usage_perc_a":4.74,
+  "usage_perc_y":90.86,
+  "usage_perc_a":4.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

@@ -292,8 +292,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -342,7 +341,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -359,8 +359,8 @@
     "1":"Readonly inputs of type `datetime-local`, `date`, `month`, and `week` can still be edited by pressing the Up or Down arrow keys on the keyboard while the input is focused.",
     "2":"Text cannot be selected directly, but is possible by first selecting any text around the field. "
   },
-  "usage_perc_y":98.86,
-  "usage_perc_a":0.07,
+  "usage_perc_y":98.17,
+  "usage_perc_a":0.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"readonly,read,attribute,edit,editable",

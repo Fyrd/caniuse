@@ -300,8 +300,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -350,7 +349,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -366,8 +366,8 @@
   "notes_by_num":{
     "1":"Using script.async = false; to maintain execution order for dynamically-added scripts isn't supported in Safari 5.0"
   },
-  "usage_perc_y":97.18,
-  "usage_perc_a":0.01,
+  "usage_perc_y":96.65,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -299,8 +299,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"a #1"
@@ -349,7 +348,8 @@
       "6.2-6.4":"a #1 #2",
       "7.2-7.4":"a #1 #2",
       "8.2":"a #1 #2",
-      "9.2":"a #1 #2"
+      "9.2":"a #1 #2",
+      "10.1":"a #1 #2"
     },
     "and_qq":{
       "1.2":"a #1 #2"
@@ -367,7 +367,7 @@
     "2":"Support for `each-line` & `hanging` is available behind the Experimental Web Platform features flag"
   },
   "usage_perc_y":0,
-  "usage_perc_a":99.15,
+  "usage_perc_a":98.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"each-line,hanging",

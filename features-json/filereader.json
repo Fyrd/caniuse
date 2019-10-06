@@ -296,8 +296,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -346,7 +345,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -362,8 +362,8 @@
   "notes_by_num":{
     "1":"Does not support `readAsBinaryString`, but `readAsBinaryString` [can be polyfilled](https://stackoverflow.com/q/31391207)"
   },
-  "usage_perc_y":95.14,
-  "usage_perc_a":1.79,
+  "usage_perc_y":93.83,
+  "usage_perc_a":2.08,
   "ucprefix":false,
   "parent":"fileapi",
   "keywords":"",

@@ -301,8 +301,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -351,7 +350,8 @@
       "6.2-6.4":"y",
       "7.2-7.4":"y",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -369,8 +369,8 @@
     "2":"Supports the subset of the syntax for resolution switching (using the `x` descriptor), but not the full syntax that can be used with `sizes` (using the `w` descriptor).",
     "3":"Intermittently displays distorted images due to bug present (see known issues)"
   },
-  "usage_perc_y":93.86,
-  "usage_perc_a":0.14,
+  "usage_perc_y":92.73,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"srcset attribute",

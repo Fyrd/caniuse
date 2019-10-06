@@ -287,8 +287,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -337,7 +336,8 @@
       "6.2-6.4":"a #1",
       "7.2-7.4":"a #1",
       "8.2":"a #1",
-      "9.2":"a #1"
+      "9.2":"a #1",
+      "10.1":"a #1"
     },
     "and_qq":{
       "1.2":"n"
@@ -354,7 +354,7 @@
     "1":"Only appears to support the `#t=n,n` control for selecting a range of video, and possibly `track=(name)` & `id=(name)` (not yet tested)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":88.13,
+  "usage_perc_a":87.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

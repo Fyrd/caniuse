@@ -307,8 +307,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -357,7 +356,8 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n"
+      "9.2":"n",
+      "10.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -373,7 +373,7 @@
   "notes_by_num":{
     "1":"Safari supports [the definition in the CSS Pseudo-Elements Module Level 4](https://www.w3.org/TR/css-pseudo-4/#marker-pseudo) instead of one in the List module due to the flux definition in it."
   },
-  "usage_perc_y":15.63,
+  "usage_perc_y":16.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

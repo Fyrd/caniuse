@@ -287,8 +287,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -337,7 +336,8 @@
       "6.2-6.4":"a #2",
       "7.2-7.4":"a #2",
       "8.2":"a #2",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"a #2"
@@ -355,8 +355,8 @@
     "2":"Does not support all locales correctly",
     "3":"Does not support the `timeZone` option "
   },
-  "usage_perc_y":84.61,
-  "usage_perc_a":14.43,
+  "usage_perc_y":84.42,
+  "usage_perc_a":13.92,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

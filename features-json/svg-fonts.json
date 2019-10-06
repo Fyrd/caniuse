@@ -291,8 +291,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n #2"
@@ -341,7 +340,8 @@
       "6.2-6.4":"n #1",
       "7.2-7.4":"n #1",
       "8.2":"n #1",
-      "9.2":"n #1"
+      "9.2":"n #1",
+      "10.1":"n #1"
     },
     "and_qq":{
       "1.2":"y"
@@ -358,7 +358,7 @@
     "1":"Chrome 38 and newer support SVG fonts only on Windows Vista and XP.",
     "2":"Supported in Opera Mini in SVG images only, not in HTML."
   },
-  "usage_perc_y":15.39,
+  "usage_perc_y":16.09,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

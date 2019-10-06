@@ -291,8 +291,7 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.3":"a #1",
-      "13":"a #1",
-      "13.1":"a #1"
+      "13.0-13.1":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -341,7 +340,8 @@
       "6.2-6.4":"a #1",
       "7.2-7.4":"a #1",
       "8.2":"a #1",
-      "9.2":"a #1"
+      "9.2":"a #1",
+      "10.1":"a #1"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -359,8 +359,8 @@
     "2":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported on all platforms.",
     "3":"The manifest may be used to list apps in the Microsoft Store, which will use Edge as a back-end. However, Edge does not directly implement the Manifest spec."
   },
-  "usage_perc_y":62.44,
-  "usage_perc_a":20.92,
+  "usage_perc_y":62.28,
+  "usage_perc_a":20.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa",

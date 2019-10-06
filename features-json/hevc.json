@@ -299,8 +299,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.3":"y",
-      "13":"y",
-      "13.1":"y"
+      "13.0-13.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -349,7 +348,8 @@
       "6.2-6.4":"n #2",
       "7.2-7.4":"n #2",
       "8.2":"n #2",
-      "9.2":"n #2"
+      "9.2":"n #2",
+      "10.1":"n #2"
     },
     "and_qq":{
       "1.2":"n"
@@ -367,8 +367,8 @@
     "2":"Reported to work in certain Android devices with hardware support",
     "3":"Supported only on macOS High Sierra or later"
   },
-  "usage_perc_y":10.72,
-  "usage_perc_a":5.88,
+  "usage_perc_y":10.95,
+  "usage_perc_a":6.42,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

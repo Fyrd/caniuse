@@ -305,8 +305,7 @@
       "11.3-11.4":"u",
       "12.0-12.1":"u",
       "12.2-12.3":"u",
-      "13":"u",
-      "13.1":"u"
+      "13.0-13.1":"u"
     },
     "op_mini":{
       "all":"u"
@@ -355,7 +354,8 @@
       "6.2-6.4":"u",
       "7.2-7.4":"u",
       "8.2":"u",
-      "9.2":"u"
+      "9.2":"u",
+      "10.1":"u"
     },
     "and_qq":{
       "1.2":"u"
@@ -373,8 +373,8 @@
     "2":"Natively supported on Edge 15+ See Browser Compatibility chart: https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip",
     "3":"Microsoft Edge supports this feature using the -webkit- instead of -ms- prefix See: https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/10945389-background-clip-text"
   },
-  "usage_perc_y":6.03,
-  "usage_perc_a":32.06,
+  "usage_perc_y":6.04,
+  "usage_perc_a":32.94,
   "ucprefix":false,
   "parent":"",
   "keywords":"background-clip,text,clip",

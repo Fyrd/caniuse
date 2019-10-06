@@ -296,8 +296,7 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.3":"n",
-      "13":"n",
-      "13.1":"n"
+      "13.0-13.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -346,7 +345,8 @@
       "6.2-6.4":"a #1",
       "7.2-7.4":"a #1",
       "8.2":"y",
-      "9.2":"y"
+      "9.2":"y",
+      "10.1":"y"
     },
     "and_qq":{
       "1.2":"a #1"
@@ -363,8 +363,8 @@
     "1":"Does not support capture from `<video>`/`<audio>`",
     "2":"Capture from `<video>`/`<audio>` can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":67.86,
-  "usage_perc_a":11.33,
+  "usage_perc_y":66.86,
+  "usage_perc_a":11.14,
   "ucprefix":false,
   "parent":"stream",
   "keywords":"canvas,mediastream,capturestream,canvas.capturestream",
