@@ -1,6 +1,6 @@
 {
   "title":"WebVR API",
-  "description":"API for accessing virtual reality (VR) devices, including sensors and head-mounted displays.",
+  "description":"API for accessing virtual reality (VR) devices, including sensors and head-mounted displays. Replaced by the WebXR Device API.",
   "spec":"https://w3c.github.io/webvr/",
   "status":"unoff",
   "links":[
@@ -207,7 +207,7 @@
       "76":"n d #2",
       "77":"n d #2",
       "78":"n d #2",
-      "79":"n",
+      "79":"n d #2",
       "80":"n"
     },
     "safari":{

@@ -1,8 +1,8 @@
 {
   "title":"WebXR Device API",
   "description":"API for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays.",
-  "spec":"https://immersive-web.github.io/webxr/",
-  "status":"other",
+  "spec":"https://www.w3.org/TR/webxr/",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/docs/Web/API/WebXR_Device_API",
@@ -172,21 +172,21 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n",
-      "67":"n",
-      "68":"n",
-      "69":"n",
-      "70":"n",
-      "71":"n",
-      "72":"n",
-      "73":"n",
-      "74":"n",
-      "75":"n",
-      "76":"n d #1",
-      "77":"n d #1",
-      "78":"n d #1",
-      "79":"y",
-      "80":"y"
+      "66":"n d #1 #3",
+      "67":"n d #1 #2 #3",
+      "68":"n d #1 #3",
+      "69":"n d #1 #3",
+      "70":"n d #1 #3",
+      "71":"n d #1 #3",
+      "72":"n d #1 #3",
+      "73":"n d #3",
+      "74":"n d #3",
+      "75":"n d #3",
+      "76":"n d #2 #3",
+      "77":"n d #2 #3",
+      "78":"n d #2 #3",
+      "79":"n d #3",
+      "80":"u"
     },
     "safari":{
       "3.1":"n",
@@ -318,7 +318,7 @@
       "46":"n"
     },
     "and_chr":{
-      "76":"n"
+      "76":"n d #2 #3"
     },
     "and_ff":{
       "68":"n"
@@ -351,7 +351,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only available when registering an [origin trial](https://developers.chrome.com/origintrials/#/view_trial/-5670031930859454463)."
+    "1":"Chrome 66-72 supported a very early version of the spec",
+    "2":"Part of an origin trial",
+    "3":"Part of the spec can be enabled with the [webxr](chrome://flags/#webxr) and [webxr-hit-test](chrome://flags/#webxr-hit-test) flags."
   },
   "usage_perc_y":0.01,
   "usage_perc_a":0,
