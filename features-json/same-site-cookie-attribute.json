@@ -229,10 +229,10 @@
       "10.1":"n",
       "11":"n",
       "11.1":"n",
-      "12":"y",
-      "12.1":"y",
-      "13":"y",
-      "13.1":"y",
+      "12":"a #4",
+      "12.1":"a #4",
+      "13":"a #4",
+      "13.1":"a #4",
       "TP":"y"
     },
     "opera":{
@@ -377,7 +377,8 @@
   "notes_by_num":{
     "1":"Not shipped with the inital release but later with the 2018 June security update (Patch Tuesday) to Windows 10 RS3 (2017 Fall Creators Update) and newer. [More info](https://github.com/MicrosoftEdge/Status/issues/616).",
     "2":"Partial support because only supported in IE 11 on Windows 10 RS3 (2017 Fall Creators Update) and newer, but not in IE 11 on other Windows versions (Windows 7, ...)",
-    "3":"Implemented [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00) by default: Cookies without `SameSite` are treated as `Lax`, `SameSite=None` cookies without `Secure` are rejected."
+    "3":"Implemented [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00) by default: Cookies without `SameSite` are treated as `Lax`, `SameSite=None` cookies without `Secure` are rejected.",
+    "4":"Partial due to the lack of support in macOS before 10.14 Mojave."
   },
   "usage_perc_y":86.16,
   "usage_perc_a":2.04,
