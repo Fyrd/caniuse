@@ -27,6 +27,10 @@
     {
       "url":"https://blogs.windows.com/msedgedev/2018/05/17/samesite-cookies-microsoft-edge-internet-explorer/",
       "title":"MS Edge dev blog: \"Previewing support for same-site cookies in Microsoft Edge\""
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1551798",
+      "title":"Mozilla Bug #1551798: Prototype SameSite=Lax by default"
     }
   ],
   "bugs":[
@@ -206,7 +210,7 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -372,7 +376,8 @@
   "notes":"This feature is backwards compatible. Browsers not supporting this feature will simply use the cookie as a regular cookie. There is no need to deliver different cookies to clients.",
   "notes_by_num":{
     "1":"Not shipped with the inital release but later with the 2018 June security update (Patch Tuesday) to Windows 10 RS3 (2017 Fall Creators Update) and newer. [More info](https://github.com/MicrosoftEdge/Status/issues/616).",
-    "2":"Partial support because only supported in IE 11 on Windows 10 RS3 (2017 Fall Creators Update) and newer, but not in IE 11 on other Windows versions (Windows 7, ...)"
+    "2":"Partial support because only supported in IE 11 on Windows 10 RS3 (2017 Fall Creators Update) and newer, but not in IE 11 on other Windows versions (Windows 7, ...)",
+    "3":"Implemented [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00) by default: Cookies without `SameSite` are treated as `Lax`, `SameSite=None` cookies without `Secure` are rejected."
   },
   "usage_perc_y":86.16,
   "usage_perc_a":2.04,
@@ -380,7 +385,7 @@
   "parent":"",
   "keywords":"security,cookies,cookie,csrf",
   "ie_id":"",
-  "chrome_id":"4672634709082112",
+  "chrome_id":"4672634709082112,5088147346030592,5633521622188032",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
