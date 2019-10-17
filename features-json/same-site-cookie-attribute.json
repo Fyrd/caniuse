@@ -34,7 +34,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"On [Safari in macOS before 10.14.4 and iOS before 12.2](https://bugs.webkit.org/show_bug.cgi?id=188165#c43), some authentication flows with a cross-site identity provider might fail when `SameSite=Lax` is used. See [the explanation and a workaround.](https://brockallen.com/2019/01/11/same-site-cookies-asp-net-core-and-external-authentication-providers/)"
+    }
   ],
   "categories":[
     "Security"
