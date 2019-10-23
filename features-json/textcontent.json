@@ -348,7 +348,7 @@
       "2.5":"y"
     }
   },
-  "notes":"`Node.textContent` is somewhat similar to, but has important differences from, [`Node.innerText`](https://caniuse.com/#feat=innertext).",
+  "notes":"`Node.textContent` is somewhat similar to, but has important differences from, [`HTMLElement.innerText`](https://caniuse.com/#feat=innertext).",
   "notes_by_num":{
     
   },
