@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Firefox may preload images inside `template` elements ([1441044](https://bugzilla.mozilla.org/show_bug.cgi?id=1441044))"
+    }
   ],
   "categories":[
     "DOM",
