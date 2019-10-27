@@ -7,6 +7,10 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes#Browser_compatibility",
       "title":"MDN Web Docs"
+    },
+    {
+      "url":"https://github.com/zloirock/core-js#ecmascript-array",
+      "title":"Polyfill for this feature is available in the core-js library"
     }
   ],
   "bugs":[
@@ -107,7 +111,8 @@
       "68":"y",
       "69":"y",
       "70":"y",
-      "71":"y"
+      "71":"y",
+      "72":"y"
     },
     "chrome":{
       "4":"n",
@@ -186,7 +191,8 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y"
     },
     "safari":{
       "3.1":"n",

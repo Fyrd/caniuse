@@ -11,6 +11,10 @@
     {
       "url":"http://exploringjs.com/es6/",
       "title":"Exploring ES6 (book)"
+    },
+    {
+      "url":"https://github.com/zloirock/core-js#ecmascript",
+      "title":"Polyfill for all possible ES2015 features is available in the core-js library"
     }
   ],
   "bugs":[
@@ -111,7 +115,8 @@
       "68":"y #2",
       "69":"y #2",
       "70":"y #2",
-      "71":"y #2"
+      "71":"y #2",
+      "72":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -190,7 +195,8 @@
       "77":"y #2",
       "78":"y #2",
       "79":"y #2",
-      "80":"y #2"
+      "80":"y #2",
+      "81":"y #2"
     },
     "safari":{
       "3.1":"n",

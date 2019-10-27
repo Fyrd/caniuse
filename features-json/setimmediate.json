@@ -23,6 +23,10 @@
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=146172",
       "title":"Chrome bug closed as WONTFIX"
+    },
+    {
+      "url":"https://github.com/zloirock/core-js#setimmediate",
+      "title":"Polyfill for this feature is available in the core-js library"
     }
   ],
   "bugs":[
@@ -123,7 +127,8 @@
       "68":"n",
       "69":"n",
       "70":"n",
-      "71":"n"
+      "71":"n",
+      "72":"n"
     },
     "chrome":{
       "4":"n",
@@ -202,7 +207,8 @@
       "77":"n",
       "78":"n",
       "79":"n",
-      "80":"n"
+      "80":"n",
+      "81":"n"
     },
     "safari":{
       "3.1":"n",

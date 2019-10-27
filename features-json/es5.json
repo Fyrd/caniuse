@@ -15,6 +15,10 @@
     {
       "url":"https://github.com/es-shims/es5-shim",
       "title":"ES5 polyfill"
+    },
+    {
+      "url":"https://github.com/zloirock/core-js#ecmascript",
+      "title":"Polyfill for all possible ES5 features is available in the core-js library"
     }
   ],
   "bugs":[
@@ -115,7 +119,8 @@
       "68":"y",
       "69":"y",
       "70":"y",
-      "71":"y"
+      "71":"y",
+      "72":"y"
     },
     "chrome":{
       "4":"a",
@@ -194,7 +199,8 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y"
     },
     "safari":{
       "3.1":"a",
