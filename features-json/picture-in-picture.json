@@ -370,7 +370,7 @@
   "notes_by_num":{
     "1":"Partial support in Firefox refers to the fact that Mozilla provides an equivalent proprietary feature, which allows users to use Picture-in-Picture mode for all playing videos.",
     "2":"Partial support in Firefox 71 refers to being enabled by default only for Windows users.",
-    "3":"Partial support in Firefox 68–70 refers to being enabled by default in Firefox pre-release channels for Windows users only.",
+    "3":"Partial support in Firefox 68\u201370 refers to being enabled by default in Firefox pre-release channels for Windows users only.",
     "4":"Can be enabled in Firefox via the `media.videocontrols.picture-in-picture.enabled` pref in `about:config`.",
     "5":"Can be enabled in Chrome via the `#enable-picture-in-picture` & `#enable-surfaces-for-videos` flags in `chrome://flags`.",
     "6":"Partial support in Safari refers to the fact that Apple provides an equivalent proprietary API for Picture-in-Picture, which is only supported by macOS 10.12 Sierra & iOS 9 and newer.",
@@ -378,7 +378,7 @@
     "8":"Automatically plays fullscreen videos in Picture-in-Picture mode after user hits Home Screen button. Only Android 8.0 Oreo and newer provide appropriate API for Picture-in-Picture."
   },
   "usage_perc_y":27.26,
-  "usage_perc_a":49.84,
+  "usage_perc_a":53.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"Picture-in-Picture,PictureInPicture,pip,pop-out,autoPictureInPicture,disablePictureInPicture,auto,disable,picture in picture,pseudo",

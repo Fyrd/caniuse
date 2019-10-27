@@ -13,10 +13,6 @@
       "title":"Script yielding with setImmediate"
     },
     {
-      "url":"https://github.com/zloirock/core-js#setimmediate",
-      "title":"Polyfill for this feature is available in the core-js library"
-    },
-    {
       "url":"https://github.com/YuzuJS/setImmediate",
       "title":"setImmediate polyfill"
     },
@@ -27,6 +23,10 @@
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=146172",
       "title":"Chrome bug closed as WONTFIX"
+    },
+    {
+      "url":"https://github.com/zloirock/core-js#setimmediate",
+      "title":"Polyfill for this feature is available in the core-js library"
     }
   ],
   "bugs":[
