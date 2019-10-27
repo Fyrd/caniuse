@@ -1,11 +1,11 @@
 {
-  "title":"Node.innerText",
+  "title":"HTMLElement.innerText",
   "description":"A property representing the text within a DOM element and its descendants. As a getter, it approximates the text the user would get if they highlighted the contents of the element with the cursor and then copied to the clipboard.",
   "spec":"https://html.spec.whatwg.org/multipage/dom.html#the-innertext-idl-attribute",
   "status":"ls",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Node/innerText",
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText",
       "title":"MDN Web Docs - innerText"
     },
     {
@@ -368,7 +368,7 @@
       "2.5":"y"
     }
   },
-  "notes":"This test only checks that the property exists and works correctly in a very simple case.\r\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\r\n`Node.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](https://caniuse.com/#feat=textcontent) property.",
+  "notes":"This test only checks that the property exists and works correctly in a very simple case.\r\n[This blog post by kangax](http://perfectionkills.com/the-poor-misunderstood-innerText/) explains the history of this property, gives much more detailed cross-browser compatibility information, and gives a detailed strawman specification for the property.\r\n`HTMLElement.innerText` is similar to, but has some important differences from, the standard [`Node.textContent`](https://caniuse.com/#feat=textcontent) property.",
   "notes_by_num":{
     
   },
