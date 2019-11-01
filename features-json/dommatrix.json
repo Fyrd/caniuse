@@ -281,7 +281,9 @@
       "57":"a #4",
       "58":"a #4",
       "60":"a #4",
-      "62":"a #4"
+      "62":"a #4",
+      "63":"a #4",
+      "64":"a #4"
     },
     "ios_saf":{
       "3.2":"u",
@@ -331,7 +333,7 @@
       "46":"a #1"
     },
     "and_chr":{
-      "76":"y"
+      "78":"a #4"
     },
     "and_ff":{
       "68":"y"
@@ -370,8 +372,8 @@
     "4":"Only replaces `WebkitCSSMatrix` and not `SVGMatrix`",
     "5":"Does not support `fromMatrix()`, `fromFloat32Array()`, `fromFloat64Array()`, and `toJSON()` methods"
   },
-  "usage_perc_y":35.83,
-  "usage_perc_a":60.65,
+  "usage_perc_y":0.19,
+  "usage_perc_a":96.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",
