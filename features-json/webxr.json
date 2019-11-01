@@ -173,22 +173,22 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n",
-      "67":"n",
-      "68":"n",
-      "69":"n",
-      "70":"n",
-      "71":"n",
-      "72":"n",
-      "73":"n",
-      "74":"n",
-      "75":"n",
-      "76":"n",
-      "77":"n",
-      "78":"n",
-      "79":"a #1",
-      "80":"a #1",
-      "81":"a #1"
+      "66":"n d",
+      "67":"n d",
+      "68":"n d",
+      "69":"n d",
+      "70":"n d",
+      "71":"n d",
+      "72":"n d",
+      "73":"n d",
+      "74":"n d",
+      "75":"n d",
+      "76":"n d",
+      "77":"n d",
+      "78":"n d #1 #2",
+      "79":"a #3",
+      "80":"a #3",
+      "81":"a #3"
     },
     "safari":{
       "3.1":"n",
@@ -319,7 +319,7 @@
       "46":"n"
     },
     "and_chr":{
-      "76":"n"
+      "76":"n d #1 #2"
     },
     "and_ff":{
       "68":"n"
@@ -352,7 +352,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"This API is very extensive. Many of its features are still in development and/or don't have finalised specs yet."
+    "1":"Part of an origin trial.",
+    "2":"Chrome 66-78 has had intermittent support behind the #webxr and other #webxr-* flags.",
+    "3":"This API is very extensive. Many of its features are still in development and/or don't have finalised specs yet."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
