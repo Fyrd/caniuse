@@ -296,7 +296,7 @@
       "11.3-11.4":"a #2 #3 #5",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -368,8 +368,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":12.44,
-  "usage_perc_a":80.83,
+  "usage_perc_y":12.57,
+  "usage_perc_a":81.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

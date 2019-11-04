@@ -294,7 +294,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -364,8 +364,8 @@
     "4":"`let` bindings in for loops are incorrectly treated as function-scoped instead of block scoped.",
     "5":"`let` variables are not bound separately to each iteration of `for` loops"
   },
-  "usage_perc_y":91.3,
-  "usage_perc_a":3.04,
+  "usage_perc_y":92.64,
+  "usage_perc_a":2.78,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,variable,block,scope",

@@ -294,7 +294,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -363,8 +363,8 @@
     "3":"Partial refers to supporting all new features except the `isSafeInteger` method.",
     "4":"Partial refers to only supporting the `isFinite` and `isNaN` methods."
   },
-  "usage_perc_y":92.93,
-  "usage_perc_a":0.53,
+  "usage_perc_y":94.2,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,JavaScript,number,built-in,EPSILON,MIN_SAFE_INTEGER,MAX_SAFE_INTEGER,isFinite,isInteger,isSafeInteger,isNaN",

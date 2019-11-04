@@ -344,7 +344,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -412,8 +412,8 @@
     "2":"Partial support refers to not supporting `.setDragImage`",
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`."
   },
-  "usage_perc_y":85.79,
-  "usage_perc_a":2.97,
+  "usage_perc_y":87.65,
+  "usage_perc_a":2.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

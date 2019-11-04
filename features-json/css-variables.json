@@ -310,7 +310,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -377,8 +377,8 @@
     "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
     "2":"Partial support is due to bugs present (see known issues)"
   },
-  "usage_perc_y":91.8,
-  "usage_perc_a":0.03,
+  "usage_perc_y":93.15,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"css variables,custom properties,var(),--var",

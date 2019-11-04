@@ -312,7 +312,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -379,8 +379,8 @@
     "1":"Partial support in older browsers refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol).",
     "2":"Partial support in older browsers refers to lacking support for binary data."
   },
-  "usage_perc_y":95.54,
-  "usage_perc_a":0.96,
+  "usage_perc_y":96.59,
+  "usage_perc_a":1,
   "ucprefix":true,
   "parent":"",
   "keywords":"",

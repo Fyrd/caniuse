@@ -327,7 +327,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -398,8 +398,8 @@
     "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
     "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":86.32,
-  "usage_perc_a":0.28,
+  "usage_perc_y":87.85,
+  "usage_perc_a":0.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"es6,javascript,module,import,export,nomodule",

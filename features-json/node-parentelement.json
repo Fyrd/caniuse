@@ -290,7 +290,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"u"
@@ -357,8 +357,8 @@
     "1":"Only supported on `Element`s.",
     "2":"Only supported on `Element`s and `Comment`s."
   },
-  "usage_perc_y":90.63,
-  "usage_perc_a":2.32,
+  "usage_perc_y":92.18,
+  "usage_perc_a":2.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"Node,parentElement,parent,element,DOM",

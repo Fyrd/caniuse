@@ -305,7 +305,7 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.1":"y"
+      "13.0-13.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -371,8 +371,8 @@
   "notes_by_num":{
     "1":"IE10 (and IE 10&11 mobile) does not support `Uint8ClampedArray`"
   },
-  "usage_perc_y":97.2,
-  "usage_perc_a":0.89,
+  "usage_perc_y":98.12,
+  "usage_perc_a":0.91,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,JavaScript,dataview,arraybuffer",
