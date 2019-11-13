@@ -294,7 +294,9 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.2":"y"
+      "13.0-13.1":"y",
+      "13.2":"y",
+      "13.3":"y"
     },
     "op_mini":{
       "all":"a #1 #3"
@@ -364,8 +366,8 @@
     "4":"Supported correctly in strict mode, otherwise supported without block scope",
     "5":"Not supported in for-in and for-of loops"
   },
-  "usage_perc_y":93.04,
-  "usage_perc_a":6.05,
+  "usage_perc_y":93.03,
+  "usage_perc_a":6.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,constant,block,scope",

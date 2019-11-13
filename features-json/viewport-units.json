@@ -341,7 +341,9 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.2":"y"
+      "13.0-13.1":"y",
+      "13.2":"y",
+      "13.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -409,8 +411,8 @@
     "2":"Partial support refers to not supporting the \"vmax\" unit. ",
     "3":"Partial support in iOS7 is due to buggy behavior of the \"vh\" unit (see workarounds: [1](https://gist.github.com/pburtchaell/e702f441ba9b3f76f587), [2](https://gist.github.com/BenMorel/e9e34c08360ebbbd0634))."
   },
-  "usage_perc_y":94.46,
-  "usage_perc_a":2.1,
+  "usage_perc_y":94.45,
+  "usage_perc_a":2.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage",

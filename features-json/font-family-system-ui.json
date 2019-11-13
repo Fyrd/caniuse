@@ -294,7 +294,9 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.2":"y"
+      "13.0-13.1":"y",
+      "13.2":"y",
+      "13.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -361,8 +363,8 @@
     "1":"Supported as the `-apple-system` value (only on macOS and iOS)",
     "2":"Supported as the `BlinkMacSystemFont` value (only on macOS)"
   },
-  "usage_perc_y":85.67,
-  "usage_perc_a":4.89,
+  "usage_perc_y":85.65,
+  "usage_perc_a":4.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

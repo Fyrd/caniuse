@@ -298,7 +298,9 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.4":"a #1",
-      "13.0-13.2":"a #1"
+      "13.0-13.1":"a #1",
+      "13.2":"a #1",
+      "13.3":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -367,7 +369,7 @@
     "3":"Enabled through the `dom.webcomponents.shadowdom.enabled` preference in `about:config`."
   },
   "usage_perc_y":76.19,
-  "usage_perc_a":13.67,
+  "usage_perc_a":13.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,shadow dom,attachShadow",
