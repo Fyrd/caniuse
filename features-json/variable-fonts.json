@@ -300,7 +300,9 @@
       "11.3-11.4":"y #6",
       "12.0-12.1":"y #6",
       "12.2-12.4":"y #6",
-      "13.0-13.2":"y #6"
+      "13.0-13.1":"y #6",
+      "13.2":"y #6",
+      "13.3":"y #6"
     },
     "op_mini":{
       "all":"n"
@@ -371,7 +373,7 @@
     "5":"Does not support `format('truetype-variations')`, `format('woff-variations')`, `format('woff2-variations')`",
     "6":"Does not support OpenType-CFF2 fonts"
   },
-  "usage_perc_y":87.1,
+  "usage_perc_y":87.08,
   "usage_perc_a":0.5,
   "ucprefix":false,
   "parent":"",

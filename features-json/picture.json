@@ -317,7 +317,9 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.2":"y"
+      "13.0-13.1":"y",
+      "13.2":"y",
+      "13.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -385,7 +387,7 @@
     "2":"Enabled in Opera through the \"experimental Web Platform features\" flag in opera://flags",
     "3":"Enabled in Firefox by setting the about:config preference dom.image.picture.enable to true"
   },
-  "usage_perc_y":94.05,
+  "usage_perc_y":94.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

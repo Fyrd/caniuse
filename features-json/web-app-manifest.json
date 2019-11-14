@@ -294,7 +294,9 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.4":"a #1",
-      "13.0-13.2":"a #1"
+      "13.0-13.1":"a #1",
+      "13.2":"a #1",
+      "13.3":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -363,7 +365,7 @@
     "3":"The manifest may be used to list apps in the Microsoft Store, which will use Edge as a back-end. However, Edge does not directly implement the Manifest spec."
   },
   "usage_perc_y":63.42,
-  "usage_perc_a":19.71,
+  "usage_perc_a":19.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa",

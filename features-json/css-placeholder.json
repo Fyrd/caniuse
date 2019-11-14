@@ -1,6 +1,6 @@
 {
   "title":"::placeholder CSS pseudo-element",
-  "description":"The ::placeholder pseudo-element represents placeholder text in an input field: text that represents the input and provides a hint to the user on how to fill out the form. For example, a date-input field might have the placeholder text `YYYY/MM/DD` to clarify that numeric dates are to be entered in year-month-day order.",
+  "description":"The ::placeholder pseudo-element represents placeholder text in an input field: text that represents the input and provides a hint to the user on how to fill out the form. For example, a date-input field might have the placeholder text `YYYY-MM-DD` to clarify that numeric dates are to be entered in year-month-day order.",
   "spec":"https://drafts.csswg.org/css-pseudo-4/#placeholder-pseudo",
   "status":"wd",
   "links":[
@@ -306,7 +306,9 @@
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
-      "13.0-13.2":"y"
+      "13.0-13.1":"y",
+      "13.2":"y",
+      "13.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -372,8 +374,8 @@
   "notes_by_num":{
     "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
-  "usage_perc_y":90.18,
-  "usage_perc_a":5.58,
+  "usage_perc_y":90.16,
+  "usage_perc_a":5.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

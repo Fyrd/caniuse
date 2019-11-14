@@ -294,7 +294,9 @@
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
       "12.2-12.4":"a #1",
-      "13.0-13.2":"a #1"
+      "13.0-13.1":"a #1",
+      "13.2":"a #1",
+      "13.3":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -362,7 +364,7 @@
     "2":"Chrome does not support `same-origin`, `strict-origin`, or `strict-origin-when-cross-origin` values ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))"
   },
   "usage_perc_y":79.62,
-  "usage_perc_a":16.15,
+  "usage_perc_a":16.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",
