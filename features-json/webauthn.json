@@ -299,7 +299,7 @@
       "12.0-12.1":"n",
       "12.2-12.4":"n",
       "13.0-13.1":"n",
-      "13.2":"n",
+      "13.2":"n d #3",
       "13.3":"y"
     },
     "op_mini":{
@@ -365,7 +365,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled at `about:flags`\r\n\r\nEdge 13 used an earlier draft syntax. As of Edge 14 the implementation is prefixed and based on the FIDO 2.0 Web APIs.",
-    "2":"Can be enabled using the Develop > Experimental Features menu. Currently supports USB-based CTAP & CTAP2 HID devices."
+    "2":"Can be enabled using the Develop > Experimental Features menu. Currently supports USB-based CTAP & CTAP2 HID devices.",
+    "3":"Can be enabled in Setings under the Safari > Advanced > Experimental Features menu."
   },
   "usage_perc_y":72.38,
   "usage_perc_a":0,
