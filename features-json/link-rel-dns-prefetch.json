@@ -9,12 +9,12 @@
       "title":"Prerender and prefetch support"
     },
     {
-      "url":"https://www.ctrl.blog/entry/dns-prefetch-preconnect.html",
-      "title":"What to \u003Clink rel=dns-prefetch\u003E and when to use `preconnect` instead"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Controlling_DNS_prefetching",
       "title":"Controlling DNS prefetching"
+    },
+    {
+      "url":"https://www.ctrl.blog/entry/dns-prefetch-preconnect.html",
+      "title":"What to <link rel=dns-prefetch> and when to use `preconnect` instead"
     }
   ],
   "bugs":[
@@ -369,8 +369,8 @@
     "1":"IE9 [supported `dns-prefetch` as `prefetch`](http://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
     "2":"Firefox only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
   },
-  "usage_perc_y":83.15,
-  "usage_perc_a":0.04,
+  "usage_perc_y":78.89,
+  "usage_perc_a":4.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
