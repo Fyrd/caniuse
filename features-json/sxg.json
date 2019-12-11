@@ -1,6 +1,6 @@
 {
   "title":"Signed HTTP Exchanges (SXG)",
-  "description":"Part of the Web Package spec, Signed HTTP Exchanges allow a different origin server to provide a resource, and this will be treated as if it came from the original server. This can be use with AMP CDNs, for example, to allow the original URL to be displayed in the URL bar.",
+  "description":"Part of the Web Packaging spec, Signed HTTP Exchanges allow a different origin server to provide a resource, and this will be treated as if it came from the original server. This can be use with AMP CDNs, for example, to allow the original URL to be displayed in the URL bar.",
   "spec":"https://tools.ietf.org/html/draft-yasskin-http-origin-signed-responses",
   "status":"other",
   "links":[
@@ -26,7 +26,7 @@
     },
     {
       "url":"https://github.com/WICG/webpackage",
-      "title":"GitHub home page for WebPackage"
+      "title":"GitHub home page for Web Packaging"
     }
   ],
   "bugs":[
