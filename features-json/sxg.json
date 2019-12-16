@@ -377,10 +377,10 @@
   },
   "notes":"Note this requires the page to be delivered signed by a certificate with the CanSignHttpExchanges extension.",
   "notes_by_num":{
-    "1": "Partial support behind a feature flag (chrome://flags/#enable-signed-http-exchange)"
+    "1":"Partial support behind a feature flag (chrome://flags/#enable-signed-http-exchange)"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_y":27.77,
+  "usage_perc_a":0.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"SXG, WebPackage, AMP",
@@ -388,5 +388,5 @@
   "chrome_id":"5745285984681984",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":true
+  "shown":false
 }

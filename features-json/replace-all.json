@@ -33,7 +33,9 @@
       "title":"developit polyfill"
     }
   ],
-  "bugs":[],
+  "bugs":[
+    
+  ],
   "categories":[
     "JS"
   ],
@@ -378,15 +380,17 @@
     }
   },
   "notes":"",
-  "notes_by_num":{},
+  "notes_by_num":{
+    
+  },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"string,js,replace,global",
-  "shown":true,
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }
