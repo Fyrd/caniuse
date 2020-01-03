@@ -1,6 +1,6 @@
 {
-  "title":"CSS Scroll snap",
-  "description":"CSS technique that allows customizable scrolling experiences like pagination of carousels by setting defined snap points.",
+  "title":"CSS Scroll Snap",
+  "description":"CSS technique that allows customizable scrolling experiences like pagination of carousels by setting defined snap positions.",
   "spec":"https://www.w3.org/TR/css-scroll-snap-1/",
   "status":"cr",
   "links":[
@@ -9,16 +9,16 @@
       "title":"Blog post"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap_Points",
-      "title":"MDN Web Docs - CSS Scroll snap points"
-    },
-    {
-      "url":"https://github.com/ckrack/scrollsnap-polyfill",
-      "title":"Polyfill - based on an [older version](https://www.w3.org/TR/2015/WD-css-snappoints-1-20150326/) of the spec"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap",
+      "title":"MDN Web Docs - CSS Scroll Snap"
     },
     {
       "url":"https://www.npmjs.com/package/css-scroll-snap-polyfill",
       "title":"Polyfill - based on the [current version](https://www.w3.org/TR/css-scroll-snap-1/) of the spec"
+    },
+    {
+      "url":"https://github.com/ckrack/scrollsnap-polyfill",
+      "title":"Polyfill - based on an [older version](https://www.w3.org/TR/2015/WD-css-snappoints-1-20150326/) of the spec"
     }
   ],
   "bugs":[
