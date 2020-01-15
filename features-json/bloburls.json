@@ -15,6 +15,9 @@
     },
     {
       "description":"Chrome on iOS appears to have an issue when opening Blob URLs in another tab [see workaround](https://stackoverflow.com/questions/24485077/how-to-open-blob-url-on-chrome-ios). The same issue occurs for Samsung Internet."
+    },
+    {
+      "description":"Internet Explorer intermittently fails to load images via this method. [PDF.js has used data URLs instead](https://github.com/mozilla/pdf.js/issues/3977)"
     }
   ],
   "categories":[
