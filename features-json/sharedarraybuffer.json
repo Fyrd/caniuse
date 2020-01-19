@@ -110,7 +110,7 @@
       "71":"n d #1",
       "72":"n d #1",
       "73":"n d #1",
-      "74":"n d #1"
+      "74":"n d #1 #2"
     },
     "chrome":{
       "4":"n",
@@ -359,7 +359,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Has support, but was disabled across browsers in January 2018 due to Spectre & Meltdown vulnerabilities."
+    "1":"Has support, but was disabled across browsers in January 2018 due to Spectre & Meltdown vulnerabilities.",
+    "2":"Enabled by default in Nightly, but not in Beta/Developer/Release yet."
   },
   "usage_perc_y":30.68,
   "usage_perc_a":0,
