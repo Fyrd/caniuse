@@ -37,6 +37,9 @@
     },
     {
       "description":"Dotted and dashed rounded border corners are rendered as solid in Firefox. Fixed since Firefox 50. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=382721)"
+    },
+    {
+      "description":"Border-radius does not work on iframe elements in Safari"
     }
   ],
   "categories":[
