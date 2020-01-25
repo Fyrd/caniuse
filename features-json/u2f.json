@@ -217,8 +217,8 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
-      "13":"n",
-      "TP":"n"
+      "13":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -300,7 +300,7 @@
       "12.2-12.4":"n",
       "13.0-13.1":"n",
       "13.2":"n",
-      "13.3":"n"
+      "13.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -368,7 +368,7 @@
     "2":"Support can be enabled with the \"security.webauth.u2f\" flag",
     "3":"Supported [via the internal CryptoTokenExtension.](https://github.com/google/u2f-ref-code/blob/master/u2f-gae-demo/war/js/u2f-api.js)"
   },
-  "usage_perc_y":33.07,
+  "usage_perc_y":38.25,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
