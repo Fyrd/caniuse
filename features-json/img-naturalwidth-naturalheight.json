@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description": "Firefox returns `0` for svg images without explicit dimensions. [See bug](https://bugzilla.mozilla.org/show_bug.cgi?id=700533)"
+    }
   ],
   "categories":[
     "DOM",
