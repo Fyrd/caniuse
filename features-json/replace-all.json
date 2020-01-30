@@ -132,9 +132,9 @@
       "69":"n",
       "70":"n",
       "71":"n",
-      "72":"y",
-      "73":"y",
-      "74":"y"
+      "72":"n #1",
+      "73":"n #1",
+      "74":"n #1"
     },
     "chrome":{
       "4":"n",
@@ -213,9 +213,9 @@
       "77":"n",
       "78":"n",
       "79":"n",
-      "80":"d #1",
-      "81":"d #1",
-      "82":"d #1"
+      "80":"d #2",
+      "81":"d #2",
+      "82":"d #2"
     },
     "safari":{
       "3.1":"n",
@@ -383,7 +383,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled in Chrome versions running V8 8.0 or later via the `--js-flags=\"--harmony-string-replaceall\"` flag."
+    "1":"Only supported in Nightly builds of Firefox due to the lack of tests, see [bug 1608168](https://bugzilla.mozilla.org/show_bug.cgi?id=1608168).",
+    "2":"Can be enabled in Chrome versions running V8 8.0 or later via the `--js-flags=\"--harmony-string-replaceall\"` flag."
   },
   "usage_perc_y":0.06,
   "usage_perc_a":0,
