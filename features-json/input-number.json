@@ -392,10 +392,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"UI widget does not include increment/decrement buttons.",
+    "1":"Does not support increment/decrement, either via buttons in UI or via arrow up & down keys.",
     "2":"UI widget does not take the \"step\", \"min\" or \"max\" attributes into account.",
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
-    "4":"Does not include increment/decrement buttons, but does supports increment/decrement via arrow up & down keys."
+    "4":"Does not include increment/decrement buttons, but does support increment/decrement via arrow up & down keys."
   },
   "usage_perc_y":43.6,
   "usage_perc_a":53.17,
