@@ -1,8 +1,8 @@
 {
   "title":"Lazy loading via attribute for images & iframes",
   "description":"The `loading` attributing on images & iframes gives authors control over when the browser should start loading the resource. ",
-  "spec":"https://github.com/whatwg/html/pull/3752",
-  "status":"unoff",
+  "spec":"https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes",
+  "status":"ls",
   "links":[
     {
       "url":"https://addyosmani.com/blog/lazy-loading/",
