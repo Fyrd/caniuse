@@ -1,6 +1,6 @@
 {
   "title":"theme-color Meta Tag",
-  "description":"Meta tag to define a suggested color that browsers should use to customize the display of the page or of the surrounding user interface.",
+  "description":"Meta tag to define a suggested color that browsers should use to customize the display of the page or of the surrounding user interface. The meta tag overrides any theme-color set in the web app manifest.",
   "spec":"https://html.spec.whatwg.org/multipage/semantics.html#meta-theme-color",
   "status":"ls",
   "links":[
