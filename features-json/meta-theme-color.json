@@ -368,7 +368,7 @@
   },
   "notes":"Also supported in the (now discontinued) Firefox OS, but not Firefox for other OSes. Vivaldi browser (Chromium based) supports this feature in both mobile and desktop version",
   "notes_by_num":{
-    "1":"Chrome Desktop does support the theme-color meta tag when the page is in PWA-standalone mode. According to this post: https://developers.google.com/web/progressive-web-apps/desktop, PWA on desktop in chrome has been present since version 73 on all platforms, assumingly theme-color as well.",
+    "1":"Desktop Chrome only uses the color on installed `progressive web apps`.",
     "2":"Desktop Chrome 39-72 claimed to have support, but did not actually use the color anywhere. Chrome for Android did use the color in the toolbar."
   },
   "usage_perc_y":37.46,
