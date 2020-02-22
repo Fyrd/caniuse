@@ -378,9 +378,9 @@
   "notes_by_num":{
     "1":"Does not use favicons at all",
     "2":"Partial support in Firefox before version 41 refers to only loading the SVG favicon the first time, but not [on subsequent loads](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c14).",
-    "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
+    "3":"Safari 9+ has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Requires the served mime-type to be 'image/svg+xml'.",
-    "5":"Chrome serves the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but does apply SMIL animations using the document start time (0)."
+    "5":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but does apply SMIL animations using the document start time (0)."
   },
   "usage_perc_y":4.61,
   "usage_perc_a":16.22,
