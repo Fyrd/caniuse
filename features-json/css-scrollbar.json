@@ -13,6 +13,14 @@
       "title":"Stackoverflow article discussiong cross-browser support"
     },
     {
+      "url":"http://codemug.com/html/custom-scrollbars-using-css/",
+      "title":"Tutorial for IE & WebKit/Blink browsers"
+    },
+    {
+      "url":"http://utatti.github.io/perfect-scrollbar/",
+      "title":"\"perfect-scrollbar\" - Minimal custom scrollbar plugin"
+    },
+    {
       "url":"http://manos.malihu.gr/jquery-custom-content-scroller/",
       "title":"jQuery custom content scroller"
     },
@@ -364,7 +372,8 @@
       "7.2-7.4":"a x #2",
       "8.2":"a x #2",
       "9.2":"a x #2",
-      "10.1":"a x #2"
+      "10.1":"a x #2",
+      "11.1":"a x #2"
     },
     "and_qq":{
       "1.2":"a x #2"
@@ -386,7 +395,7 @@
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":93.76,
+  "usage_perc_a":94.61,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

@@ -359,7 +359,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -375,8 +376,8 @@
   "notes_by_num":{
     "1":"Does not support `readAsBinaryString`, but `readAsBinaryString` [can be polyfilled](https://stackoverflow.com/q/31391207)"
   },
-  "usage_perc_y":94.97,
-  "usage_perc_a":1.59,
+  "usage_perc_y":96.05,
+  "usage_perc_a":1.43,
   "ucprefix":false,
   "parent":"fileapi",
   "keywords":"",

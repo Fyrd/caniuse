@@ -351,7 +351,8 @@
       "7.2-7.4":"a #3",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -370,8 +371,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":37.55,
-  "usage_perc_a":30.29,
+  "usage_perc_y":37.17,
+  "usage_perc_a":31.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

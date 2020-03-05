@@ -358,7 +358,8 @@
       "7.2-7.4":"y x",
       "8.2":"y x",
       "9.2":"y x",
-      "10.1":"y x"
+      "10.1":"y x",
+      "11.1":"y x"
     },
     "and_qq":{
       "1.2":"y x"
@@ -374,7 +375,7 @@
   "notes_by_num":{
     "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See https://bugs.webkit.org/show_bug.cgi?id=160934."
   },
-  "usage_perc_y":87.59,
+  "usage_perc_y":88.79,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

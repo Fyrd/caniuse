@@ -373,7 +373,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -391,8 +392,8 @@
     "2":"Partial support refers to not supporting `.timeout` and `.ontimeout`",
     "3":"Partial support refers to not supporting `blob` as `responseType`"
   },
-  "usage_perc_y":94.49,
-  "usage_perc_a":2.38,
+  "usage_perc_y":95.56,
+  "usage_perc_a":2.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"formdata,xhr level 2",

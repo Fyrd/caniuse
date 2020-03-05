@@ -358,7 +358,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -376,8 +377,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.shadowdom.enabled` preference in `about:config`."
   },
-  "usage_perc_y":74.29,
-  "usage_perc_a":15.79,
+  "usage_perc_y":74.85,
+  "usage_perc_a":16.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,shadow dom,attachShadow",

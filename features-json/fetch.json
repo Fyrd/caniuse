@@ -358,7 +358,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -379,8 +380,8 @@
     "5":"Appears to exist in Safari Technology Preview but does not work in current build. Should work in [next preview build](https://twitter.com/xeenon/status/715379838081576960)",
     "6":"Can be enabled in `about:flags`"
   },
-  "usage_perc_y":93.68,
-  "usage_perc_a":0.04,
+  "usage_perc_y":94.7,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"fetch,service,workers,xhr,xmlhttprequest",

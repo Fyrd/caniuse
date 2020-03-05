@@ -352,7 +352,8 @@
       "7.2-7.4":"y #3 #4",
       "8.2":"y #3 #4",
       "9.2":"y #3 #4",
-      "10.1":"y #3 #4"
+      "10.1":"y #3 #4",
+      "11.1":"y #3 #4"
     },
     "and_qq":{
       "1.2":"y x #3"
@@ -372,8 +373,8 @@
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2).",
     "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":71.52,
-  "usage_perc_a":20.99,
+  "usage_perc_y":72.14,
+  "usage_perc_a":21.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

@@ -382,7 +382,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -398,8 +399,8 @@
   "notes_by_num":{
     "1":"Does not support the `steps()`, `step-start` & `step-end` timing functions"
   },
-  "usage_perc_y":96.84,
-  "usage_perc_a":0.08,
+  "usage_perc_y":97.55,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"css transition,transitionend,transition-property,transition-duration,transition-timing-function,transition-delay,steps,step-start,step-end,cubic-bezier",

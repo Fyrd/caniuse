@@ -361,7 +361,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -380,8 +381,8 @@
     "3":"`isIntersecting` property of `IntersectionObserverEntry` was not implemented, returning `undefined`",
     "4":"IntersectionObserver does not trigger its callback in a Chrome background tab"
   },
-  "usage_perc_y":87.91,
-  "usage_perc_a":2.9,
+  "usage_perc_y":89.39,
+  "usage_perc_a":2.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

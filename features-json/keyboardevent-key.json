@@ -370,7 +370,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -387,8 +388,8 @@
     "1":"Partial support refers to these versions of Firefox returning `\"MozPrintableKey\"` for all character keys.",
     "2":"Has non-standard key identifiers and incorrect behaviour with AltGraph."
   },
-  "usage_perc_y":87.86,
-  "usage_perc_a":3.85,
+  "usage_perc_y":89.31,
+  "usage_perc_a":3.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,key",
