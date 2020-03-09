@@ -9,7 +9,7 @@
       "title":"Chrome platform status - Shipped"
     },
     {
-      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/status/originsignedhttpexchanges/",
+      "url":"https://developer.microsoft.com/en-us/microsoft-edge/status/originsignedhttpexchanges/",
       "title":"Microsoft Edge Platform Status - Supported"
     },
     {
@@ -297,9 +297,9 @@
       "60":"n",
       "62":"n",
       "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n"
+      "64":"y",
+      "65":"y",
+      "66":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -351,7 +351,7 @@
       "46":"n"
     },
     "and_chr":{
-      "80":"n"
+      "80":"y"
     },
     "and_ff":{
       "68":"n"
@@ -361,7 +361,7 @@
       "11":"n"
     },
     "and_uc":{
-      "12.12":"n"
+      "12.12":"u"
     },
     "samsung":{
       "4":"n",
@@ -371,16 +371,16 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1":"u"
     },
     "and_qq":{
-      "1.2":"n"
+      "1.2":"u"
     },
     "baidu":{
-      "7.12":"n"
+      "7.12":"u"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"u"
     }
   },
   "notes":"Note this requires the page to be delivered signed by a certificate with the CanSignHttpExchanges extension.",
