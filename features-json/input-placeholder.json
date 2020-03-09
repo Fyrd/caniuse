@@ -34,6 +34,9 @@
     },
     {
       "description":"Internet Explorer 10 and 11 accidentally [show placeholder attributes on textareas as their actual value](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/) when using `innerHTML`, etc.\r\n"
+    },
+    {
+      "description":"Safari does not support newlines for placeholder text in <textarea> elements"
     }
   ],
   "categories":[
@@ -391,7 +394,7 @@
   "notes_by_num":{
     "1":"Partial support refers to lacking placeholder support on textarea elements."
   },
-  "usage_perc_y":98.48,
+  "usage_perc_y":98.78,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"forms",

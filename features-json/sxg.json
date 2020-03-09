@@ -380,14 +380,14 @@
       "7.12":"u"
     },
     "kaios":{
-      "2.5":"u"
+      "2.5":"n"
     }
   },
   "notes":"Note this requires the page to be delivered signed by a certificate with the CanSignHttpExchanges extension.",
   "notes_by_num":{
     "1":"Partial support behind a feature flag (chrome://flags/#enable-signed-http-exchange)"
   },
-  "usage_perc_y":28.94,
+  "usage_perc_y":64.14,
   "usage_perc_a":0.27,
   "ucprefix":false,
   "parent":"",
@@ -396,5 +396,5 @@
   "chrome_id":"5745285984681984",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
