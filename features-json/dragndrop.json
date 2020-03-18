@@ -370,7 +370,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "80":"n"
+      "80":"y #4"
     },
     "bb":{
       "7":"n",
@@ -383,7 +383,7 @@
       "11.5":"p",
       "12":"p",
       "12.1":"y",
-      "46":"n"
+      "46":"y #4"
     },
     "and_chr":{
       "80":"y #4"
@@ -423,7 +423,7 @@
     "1":"Partial support refers to no support for the `dataTransfer.files` or `.types` objects",
     "2":"Partial support refers to not supporting `.setDragImage`",
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`.",
-    "4":"Not supported on Chrome for Android 6 or older."
+    "4":"Not supported in Chromium browsers on Android 6 or older."
   },
   "usage_perc_y":89.33,
   "usage_perc_a":1.91,
