@@ -349,13 +349,13 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.2":"y",
-      "11.3-11.4":"y",
-      "12.0-12.1":"y",
-      "12.2-12.4":"y",
-      "13.0-13.1":"y",
-      "13.2":"y",
-      "13.3":"y"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2-12.4":"n",
+      "13.0-13.1":"n",
+      "13.2":"n",
+      "13.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -370,7 +370,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "80":"n"
+      "80":"y #4"
     },
     "bb":{
       "7":"n",
@@ -383,10 +383,10 @@
       "11.5":"p",
       "12":"p",
       "12.1":"y",
-      "46":"n"
+      "46":"y #4"
     },
     "and_chr":{
-      "80":"y"
+      "80":"y #4"
     },
     "and_ff":{
       "68":"n"
@@ -422,7 +422,8 @@
   "notes_by_num":{
     "1":"Partial support refers to no support for the `dataTransfer.files` or `.types` objects",
     "2":"Partial support refers to not supporting `.setDragImage`",
-    "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`."
+    "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`.",
+    "4":"Not supported in Chromium browsers on Android 6 or older."
   },
   "usage_perc_y":89.33,
   "usage_perc_a":1.91,
