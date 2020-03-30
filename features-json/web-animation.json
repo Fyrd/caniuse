@@ -230,8 +230,8 @@
       "12":"n d #4",
       "12.1":"n d #4",
       "13":"n d #4",
-      "13.1":"a",
-      "TP":"a"
+      "13.1":"y #5",
+      "TP":"y #5"
     },
     "opera":{
       "9":"n",
@@ -312,11 +312,11 @@
       "11.0-11.2":"n d #4",
       "11.3-11.4":"n d #4",
       "12.0-12.1":"n d #4",
-      "12.2-12.4":"a",
-      "13.0-13.1":"a",
-      "13.2":"a",
-      "13.3":"a",
-      "13.4":"a"
+      "12.2-12.4":"n d #4",
+      "13.0-13.1":"n d #4",
+      "13.2":"n d #4",
+      "13.3":"n d #4",
+      "13.4":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -384,7 +384,8 @@
     "1":"Partial support refers to basic support of `element.animate()`",
     "2":"Partial support refers to basic support of `element.animate()` and [playback control of AnimationPlayer](https://www.chromestatus.com/features/5633748733263872)",
     "3":"Partial support in Firefox is detailed in [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)",
-    "4":"Can be enabled via the \"Experimental Features\" developer menu"
+    "4":"Can be enabled via the \"Experimental Features\" developer menu",
+    "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
   "usage_perc_y":0.22,
   "usage_perc_a":88.33,
