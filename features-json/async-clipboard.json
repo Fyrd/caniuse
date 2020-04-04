@@ -15,6 +15,10 @@
     {
       "url":"https://developers.google.com/web/updates/2018/03/clipboardapi",
       "title":"Google Chrome Updates - Unlocking Clipboard Access"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1619251",
+      "title":"Firefox implementation bug"
     }
   ],
   "bugs":[
@@ -225,8 +229,8 @@
       "12":"n",
       "12.1":"n",
       "13":"n",
-      "13.1":"n",
-      "TP":"n"
+      "13.1":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -311,7 +315,7 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
