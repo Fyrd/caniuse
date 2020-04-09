@@ -218,15 +218,15 @@
       "8":"n",
       "9":"n",
       "9.1":"n",
-      "10":"a #1",
-      "10.1":"a #1",
-      "11":"a #1",
-      "11.1":"a #1",
-      "12":"a #1",
-      "12.1":"a #1",
-      "13":"a #1",
-      "13.1":"a #1",
-      "TP":"a #1"
+      "10":"y",
+      "10.1":"y",
+      "11":"y",
+      "11.1":"y",
+      "12":"y",
+      "12.1":"y",
+      "13":"y",
+      "13.1":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -376,7 +376,6 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Certain CSS selectors do not work (`:host > .local-child`) and styling slotted content (`::slotted`) is buggy.",
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.shadowdom.enabled` preference in `about:config`."
   },
