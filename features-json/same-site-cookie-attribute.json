@@ -146,7 +146,8 @@
       "73":"y",
       "74":"y",
       "75":"y",
-      "76":"y"
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"n",
@@ -227,8 +228,9 @@
       "79":"y",
       "80":"y #3",
       "81":"y #3",
-      "82":"y #3",
-      "83":"y #3"
+      "83":"y #3",
+      "84":"y #3",
+      "85":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -407,7 +409,7 @@
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
     "5":"Partial due to [the bug](https://bugs.webkit.org/show_bug.cgi?id=198181) that treats `SameSite=None` and invalid values as `Strict` in macOS before 10.15 Catalina and in iOS before 13."
   },
-  "usage_perc_y":84.99,
+  "usage_perc_y":84.98,
   "usage_perc_a":6.72,
   "ucprefix":false,
   "parent":"",

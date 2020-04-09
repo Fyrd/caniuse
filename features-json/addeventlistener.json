@@ -121,7 +121,8 @@
       "73":"y",
       "74":"y",
       "75":"y",
-      "76":"y"
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"y",
@@ -202,8 +203,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"y",
@@ -379,7 +381,7 @@
     "1":"IE<=8 instead only supports the [proprietary `.attachEvent()` method](https://msdn.microsoft.com/en-us/library/ms536343%28VS.85%29.aspx). It also does not support the [capture phase](https://www.w3.org/TR/DOM-Level-3-Events/#event-flow) of DOM event dispatch; it only supports event bubbling.",
     "2":"The `useCapture` parameter is non-optional and must be provided. Future versions made it optional, with a default value of `false`."
   },
-  "usage_perc_y":99.03,
+  "usage_perc_y":99.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

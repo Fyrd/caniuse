@@ -147,7 +147,8 @@
       "73":"y",
       "74":"y",
       "75":"y",
-      "76":"y"
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"n",
@@ -228,8 +229,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"n",
@@ -405,7 +407,7 @@
     "1":"Partial support in IE refers to not supporting [the transform-style: preserve-3d property](http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property). This prevents nesting 3D transformed elements.",
     "2":"Safari 9, 10, 11, & 12 are reported to still require a prefix for the related `backface-visibility` property."
   },
-  "usage_perc_y":96.29,
+  "usage_perc_y":96.28,
   "usage_perc_a":1.49,
   "ucprefix":false,
   "parent":"",

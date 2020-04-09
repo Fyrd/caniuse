@@ -113,7 +113,8 @@
       "73":"y",
       "74":"y",
       "75":"y",
-      "76":"y"
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"u",
@@ -194,8 +195,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"u",
@@ -371,7 +373,7 @@
     "1":"The spec requires that comparisons of nodes in different documents, and comparisons where at least one node is not in any document, must arbitrarily (but consistently) set either the `DOCUMENT_POSITION_PRECEDING` or `DOCUMENT_POSITION_FOLLOWING` bit in the result. These browser versions don't set either bit in some such cases.",
     "2":"Sets neither the `DOCUMENT_POSITION_DISCONNECTED` bit nor the `DOCUMENT_POSITION_IMPLEMENTATION_SPECIFIC` bit in some cases when comparing nodes in different documents or when comparing a node which is not in any document."
   },
-  "usage_perc_y":98.2,
+  "usage_perc_y":98.18,
   "usage_perc_a":0.68,
   "ucprefix":false,
   "parent":"",
