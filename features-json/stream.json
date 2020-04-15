@@ -394,8 +394,8 @@
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one.",
     "3":"Does not work in standalone running (\"installed\") PWAs, `getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari."
   },
-  "usage_perc_y":93.47,
-  "usage_perc_a":1.59,
+  "usage_perc_y":92.81,
+  "usage_perc_a":1.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",
