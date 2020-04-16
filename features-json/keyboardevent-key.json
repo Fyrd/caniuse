@@ -388,7 +388,7 @@
       "2.5":"y"
     }
   },
-  "notes":"",
+  "notes":"On mobile (virtual keyboard), for every key Blink and WebKit based browsers report \"Unidentified\", Gecko reports \"Process\".",
   "notes_by_num":{
     "1":"Partial support refers to these versions of Firefox returning `\"MozPrintableKey\"` for all character keys.",
     "2":"Has non-standard key identifiers and incorrect behaviour with AltGraph."
