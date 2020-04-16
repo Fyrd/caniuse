@@ -368,7 +368,7 @@
       "2.5":"y"
     }
   },
-  "notes":"This property is legacy and deprecated.",
+  "notes":"This property is legacy and deprecated.\nOn mobile (virtual keyboard), all keys are reported as 229.",
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
