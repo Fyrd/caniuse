@@ -388,7 +388,7 @@
       "2.5":"y"
     }
   },
-  "notes":"On mobile (virtual keyboard), for every key Blink and WebKit based browsers report \"Unidentified\", Gecko reports \"Process\".",
+  "notes":"[\"Some key events, or their values, might be suppressed by the IME in use\"](https://www.w3.org/TR/2019/WD-uievents-20190530/#keys-IME). On mobile (virtual keyboard), for every key Blink and WebKit based browsers report \"Unidentified\", Gecko reports \"Process\".",
   "notes_by_num":{
     "1":"Partial support refers to these versions of Firefox returning `\"MozPrintableKey\"` for all character keys.",
     "2":"Has non-standard key identifiers and incorrect behaviour with AltGraph."

@@ -376,7 +376,7 @@
       "2.5":"y"
     }
   },
-  "notes":"On mobile (virtual keyboard), all keys are reported as empty (\"\").",
+  "notes":"[\"Some key events, or their values, might be suppressed by the IME in use\"](https://www.w3.org/TR/2019/WD-uievents-20190530/#keys-IME). On mobile (virtual keyboard), all keys are reported as empty (\"\").",
   "notes_by_num":{
     "1":"Enabled in Chrome & Opera through the \"experimental Web Platform features\" flag"
   },
