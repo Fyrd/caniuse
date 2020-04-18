@@ -212,8 +212,8 @@
       "80":"y",
       "81":"y",
       "83":"y",
-      "84":"y",
-      "85":"y"
+      "84":"n",
+      "85":"n"
     },
     "safari":{
       "3.1":"n",
@@ -384,7 +384,7 @@
       "2.5":"y"
     }
   },
-  "notes":"TLS 1.0 & 1.1 are deprecated in Chrome, Edge, Firefox, Internet Explorer 11, & Safari. Support will be removed in March 2020.",
+  "notes":"TLS 1.0 & 1.1 are deprecated in Chrome, Edge, Firefox, Internet Explorer 11, & Safari.",
   "notes_by_num":{
     
   },
