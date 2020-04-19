@@ -369,7 +369,7 @@
       "2.5":"y"
     }
   },
-  "notes":"This property is legacy and deprecated, but its replacement(s) are not yet widely supported.",
+  "notes":"This property is legacy and deprecated.\n[\"Some key events, or their values, might be suppressed by the IME in use\"](https://www.w3.org/TR/2019/WD-uievents-20190530/#keys-IME). On mobile (virtual keyboard), all keys are reported as 0.",
   "notes_by_num":{
     "1":"Does not appear to support the `keypress` event at all"
   },
