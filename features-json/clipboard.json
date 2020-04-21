@@ -385,8 +385,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":16.36,
-  "usage_perc_a":79.21,
+  "usage_perc_y":16.3599999999999994315658113919198513031005859375,
+  "usage_perc_a":79.2099999999999937472239253111183643341064453125,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

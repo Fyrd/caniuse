@@ -385,9 +385,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
-    "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
+    "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`",
+    "3":"Does not support the `margin-block`, `margin-inline`, `padding-inline`, or any of the `inset` shorthand properties. Supported in newer Chromium browsers behind the `#enable-experimental-web-platform-features` flag",
+    "4":"Does not support the `padding-block`, `padding-inline`, or any `inset` property. Supported in newer Chromium browsers behind the `#enable-experimental-web-platform-features` flag"
   },
-  "usage_perc_y":86.89,
+  "usage_perc_y":86.8900000000000005684341886080801486968994140625,
   "usage_perc_a":6.75,
   "ucprefix":false,
   "parent":"",
