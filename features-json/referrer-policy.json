@@ -1,8 +1,8 @@
 {
   "title":"Referrer Policy",
   "description":"A policy that controls how much information is shared through the HTTP referrer header. Helps to protect user privacy.",
-  "spec":"http://w3c.github.io/webappsec/specs/referrer-policy/",
-  "status":"wd",
+  "spec":"https://www.w3.org/TR/referrer-policy/",
+  "status":"cr",
   "links":[
     {
       "url":"https://blog.mozilla.org/security/2015/01/21/meta-referrer/",
