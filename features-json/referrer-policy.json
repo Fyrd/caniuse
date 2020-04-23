@@ -376,7 +376,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Browsers initially supported an [early draft](https://wiki.whatwg.org/wiki/Meta_referrer) of the specification which can only use a meta tag and is only compatible with the `origin` value from the new spec.",
-    "2":"Chrome does not support `same-origin`, `strict-origin`, or `strict-origin-when-cross-origin` values ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))"
+    "2":"Chrome 21-60 did not support the `same-origin`, `strict-origin` and `strict-origin-when-cross-origin` values. ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))"
   },
   "usage_perc_y":77.92,
   "usage_perc_a":18.2,
