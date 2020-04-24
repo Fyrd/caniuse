@@ -1,8 +1,8 @@
 {
   "title":"Printing Events",
   "description":"Window fires `beforeprint` and `afterprint` events so the printed document can be annotated.",
-  "spec":"https://www.w3.org/TR/html5/webappapis.html#printing",
-  "status":"rec",
+  "spec":"https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#printing",
+  "status":"ls",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Guide/Printing#Detecting_print_requests",
