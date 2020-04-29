@@ -1,7 +1,7 @@
 {
   "title":"KeyboardEvent.which",
   "description":"A legacy `KeyboardEvent` property that is equivalent to either `KeyboardEvent.keyCode` or `KeyboardEvent.charCode` depending on whether the key is alphanumeric.",
-  "spec":"https://w3c.github.io/uievents/#widl-KeyboardEvent-which",
+  "spec":"https://w3c.github.io/uievents/#dom-uievent-which",
   "status":"unoff",
   "links":[
     {
