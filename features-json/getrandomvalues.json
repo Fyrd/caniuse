@@ -1,8 +1,8 @@
 {
   "title":"crypto.getRandomValues()",
   "description":"Method of generating cryptographically random values.",
-  "spec":"https://www.w3.org/TR/WebCryptoAPI/#RandomSource-method-getRandomValues",
-  "status":"cr",
+  "spec":"https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues",
+  "status":"rec",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/window.crypto.getRandomValues",
