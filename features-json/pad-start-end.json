@@ -1,7 +1,7 @@
 {
   "title":"String.prototype.padStart(), String.prototype.padEnd()",
   "description":"The `padStart()` and `padEnd()` methods pad the current string with a given string (eventually repeated) so that the resulting string reaches a given length. The pad is applied from the start (left) of the current string for `padStart()`, and applied from the end (right) of the current string for `padEnd()`.",
-  "spec":"https://www.ecma-international.org/ecma-262/8.0/index.html#sec-string.prototype.padend",
+  "spec":"https://tc39.es/ecma262/#sec-string.prototype.padend",
   "status":"other",
   "links":[
     {

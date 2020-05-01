@@ -1,7 +1,7 @@
 {
   "title":"ES6 Generators",
   "description":"ES6 Generators are special functions that can be used to control the iteration behavior of a loop. Generators are defined using a `function*` declaration.",
-  "spec":"https://www.ecma-international.org/ecma-262/6.0/#sec-generator-function-definitions",
+  "spec":"https://tc39.es/ecma262/#sec-generator-function-definitions",
   "status":"other",
   "links":[
     {
@@ -17,7 +17,7 @@
     
   ],
   "categories":[
-    "Other"
+    "JS"
   ],
   "stats":{
     "ie":{

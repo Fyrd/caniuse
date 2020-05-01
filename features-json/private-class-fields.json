@@ -2,7 +2,7 @@
   "title":"Private class fields",
   "description":"<description>",
   "spec":"https://tc39.es/proposal-class-fields/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#Private_field_declarations",
@@ -11,14 +11,17 @@
     {
       "url":"https://v8.dev/featnres/class-fields#private-class-fields",
       "title":"V8 Feature Article"
+    },
+    {
+      "url":"https://github.com/tc39/proposal-class-fields",
+      "title":"TC39 Feature Draft"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS",
-    "JS API"
+    "JS"
   ],
   "stats":{
     "ie":{
