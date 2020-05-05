@@ -46,7 +46,9 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"u"
+      "79":"n",
+      "80":"y #4 #5",
+      "81":"y #4 #5"
     },
     "firefox":{
       "2":"n",
@@ -123,7 +125,10 @@
       "71":"y #4",
       "72":"y #4",
       "73":"y #4",
-      "74":"y #4"
+      "74":"y #4",
+      "75":"y #4",
+      "76":"y #4",
+      "77":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -204,7 +209,9 @@
       "79":"n",
       "80":"y #4 #5",
       "81":"y #4 #5",
-      "82":"y #4 #5"
+      "83":"y #4 #5",
+      "84":"y #4 #5",
+      "85":"y #4 #5"
     },
     "safari":{
       "3.1":"n",
@@ -226,6 +233,7 @@
       "12":"a #3",
       "12.1":"a #3",
       "13":"a #3",
+      "13.1":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -287,7 +295,11 @@
       "60":"n",
       "62":"n",
       "63":"n",
-      "64":"n"
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"y #4 #5",
+      "68":"y #4 #5"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -308,7 +320,8 @@
       "12.2-12.4":"a #3",
       "13.0-13.1":"a #3",
       "13.2":"a #3",
-      "13.3":"a #3"
+      "13.3":"a #3",
+      "13.4":"a #3"
     },
     "op_mini":{
       "all":"n #1"
@@ -323,7 +336,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "76":"n"
+      "81":"n"
     },
     "bb":{
       "7":"n",
@@ -339,7 +352,7 @@
       "46":"n #1"
     },
     "and_chr":{
-      "79":"n"
+      "81":"y #4 #5"
     },
     "and_ff":{
       "68":"n"
@@ -358,7 +371,8 @@
       "7.2-7.4":"n",
       "8.2":"n",
       "9.2":"n",
-      "10.1":"n"
+      "10.1":"n",
+      "11.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -374,12 +388,12 @@
   "notes_by_num":{
     "1":"Does not use favicons at all",
     "2":"Partial support in Firefox before version 41 refers to only loading the SVG favicon the first time, but not [on subsequent loads](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c14).",
-    "3":"Safari 9 has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
+    "3":"Safari 9+ has support for \"[pinned tab](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_0.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)\" SVG icons, but this requires an unofficial `rel=\"mask-icon\"` to be set and only works for all-black icons on Pinned Tabs.",
     "4":"Requires the served mime-type to be 'image/svg+xml'.",
-    "5":"Chrome serves the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but does apply SMIL animations using the document start time (0)."
+    "5":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but does apply SMIL animations using the document start time (0)."
   },
-  "usage_perc_y":4.35,
-  "usage_perc_a":16.26,
+  "usage_perc_y":64.74,
+  "usage_perc_a":17.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -43,7 +43,9 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"a x #1"
+      "79":"a x #1",
+      "80":"a x #1",
+      "81":"a x #1"
     },
     "firefox":{
       "2":"n",
@@ -120,7 +122,10 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"n",
@@ -201,7 +206,9 @@
       "79":"a x #1",
       "80":"a x #1",
       "81":"a x #1",
-      "82":"a x #1"
+      "83":"a x #1",
+      "84":"a x #1",
+      "85":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -223,6 +230,7 @@
       "12":"y",
       "12.1":"y",
       "13":"y",
+      "13.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -284,7 +292,11 @@
       "60":"a x #1",
       "62":"a x #1",
       "63":"a x #1",
-      "64":"a x #1"
+      "64":"a x #1",
+      "65":"a x #1",
+      "66":"a x #1",
+      "67":"a x #1",
+      "68":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -305,7 +317,8 @@
       "12.2-12.4":"y",
       "13.0-13.1":"y",
       "13.2":"y",
-      "13.3":"y"
+      "13.3":"y",
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -320,7 +333,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "76":"a x #1"
+      "81":"a x #1"
     },
     "bb":{
       "7":"n",
@@ -336,7 +349,7 @@
       "46":"a x #1"
     },
     "and_chr":{
-      "79":"a x #1"
+      "81":"a x #1"
     },
     "and_ff":{
       "68":"y"
@@ -355,7 +368,8 @@
       "7.2-7.4":"a x #1",
       "8.2":"a x #1",
       "9.2":"a x #1",
-      "10.1":"a x #1"
+      "10.1":"a x #1",
+      "11.1":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -372,8 +386,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":20.5,
-  "usage_perc_a":71.6,
+  "usage_perc_y":21.97,
+  "usage_perc_a":71.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

@@ -1,7 +1,7 @@
 {
   "title":"CSS Appearance",
   "description":"The `appearance` property defines how elements (particularly form controls) appear by default. By setting the value to `none` the default appearance can be entirely redefined using other CSS properties.",
-  "spec":"https://drafts.csswg.org/css-ui-4/#appearance-switching",
+  "spec":"https://www.w3.org/TR/css-ui-4/#appearance-switching",
   "status":"wd",
   "links":[
     {
@@ -33,7 +33,9 @@
       "16":"a #1 #2",
       "17":"a #1 #2",
       "18":"a #1 #2",
-      "79":"a x #1"
+      "79":"a x #1",
+      "80":"a x #1",
+      "81":"a x #1"
     },
     "firefox":{
       "2":"a x #1 #3",
@@ -110,7 +112,10 @@
       "71":"a x #1",
       "72":"a x #1",
       "73":"a x #1",
-      "74":"a x #1"
+      "74":"a x #1",
+      "75":"a x #1",
+      "76":"a x #1",
+      "77":"a x #1"
     },
     "chrome":{
       "4":"a x #1",
@@ -191,7 +196,9 @@
       "79":"a x #1",
       "80":"a x #1",
       "81":"a x #1",
-      "82":"a x #1"
+      "83":"a x #1",
+      "84":"a #1",
+      "85":"a #1"
     },
     "safari":{
       "3.1":"a x #1",
@@ -213,6 +220,7 @@
       "12":"a x #1",
       "12.1":"a x #1",
       "13":"a x #1",
+      "13.1":"a x #1",
       "TP":"a x #1"
     },
     "opera":{
@@ -274,7 +282,11 @@
       "60":"a x #1",
       "62":"a x #1",
       "63":"a x #1",
-      "64":"a x #1"
+      "64":"a x #1",
+      "65":"a x #1",
+      "66":"a x #1",
+      "67":"a x #1",
+      "68":"a x #1"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -295,7 +307,8 @@
       "12.2-12.4":"a x #1",
       "13.0-13.1":"a x #1",
       "13.2":"a x #1",
-      "13.3":"a x #1"
+      "13.3":"a x #1",
+      "13.4":"a x #1"
     },
     "op_mini":{
       "all":"n"
@@ -310,7 +323,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "76":"a x #1"
+      "81":"a x #1"
     },
     "bb":{
       "7":"a x #1",
@@ -326,7 +339,7 @@
       "46":"a x #1"
     },
     "and_chr":{
-      "79":"a x #1"
+      "81":"a x #1"
     },
     "and_ff":{
       "68":"a x #1"
@@ -345,7 +358,8 @@
       "7.2-7.4":"a x #1",
       "8.2":"a x #1",
       "9.2":"a x #1",
-      "10.1":"a x #1"
+      "10.1":"a x #1",
+      "11.1":"a x #1"
     },
     "and_qq":{
       "1.2":"a x #1"
@@ -364,7 +378,7 @@
     "3":"-moz-appearance:none doesn't remove the dropdown arrow in select tag"
   },
   "usage_perc_y":0,
-  "usage_perc_a":95.45,
+  "usage_perc_a":95.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

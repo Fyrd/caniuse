@@ -35,7 +35,9 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"y #3 #4"
+      "79":"y #3 #4",
+      "80":"y #3 #4",
+      "81":"y #3 #4"
     },
     "firefox":{
       "2":"n",
@@ -112,7 +114,10 @@
       "71":"a #2 #5",
       "72":"a #2 #5",
       "73":"a #2 #5",
-      "74":"a #2 #5"
+      "74":"a #2 #5",
+      "75":"a #2 #5",
+      "76":"a #2 #5",
+      "77":"a #2 #5"
     },
     "chrome":{
       "4":"n",
@@ -193,7 +198,9 @@
       "79":"y #3 #4",
       "80":"y #3 #4",
       "81":"y #3 #4",
-      "82":"y #3 #4"
+      "83":"y #3 #4",
+      "84":"y #3 #4",
+      "85":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -215,6 +222,7 @@
       "12":"a #3",
       "12.1":"a #3",
       "13":"a #3",
+      "13.1":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -276,7 +284,11 @@
       "60":"y #3 #4",
       "62":"y #3 #4",
       "63":"y #3 #4",
-      "64":"y #3 #4"
+      "64":"y #3 #4",
+      "65":"y #3 #4",
+      "66":"y #3 #4",
+      "67":"y #3 #4",
+      "68":"y #3 #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -297,7 +309,8 @@
       "12.2-12.4":"a x #3",
       "13.0-13.1":"a x #3",
       "13.2":"a x #3",
-      "13.3":"a x #3"
+      "13.3":"a x #3",
+      "13.4":"a x #3"
     },
     "op_mini":{
       "all":"n"
@@ -312,7 +325,7 @@
       "4.2-4.3":"n",
       "4.4":"y x #3",
       "4.4.3-4.4.4":"y x #3",
-      "76":"y #3 #4"
+      "81":"y #3 #4"
     },
     "bb":{
       "7":"n",
@@ -328,7 +341,7 @@
       "46":"y #3 #4"
     },
     "and_chr":{
-      "79":"y #3 #4"
+      "81":"y #3 #4"
     },
     "and_ff":{
       "68":"a x #2 #5"
@@ -347,7 +360,8 @@
       "7.2-7.4":"y #3 #4",
       "8.2":"y #3 #4",
       "9.2":"y #3 #4",
-      "10.1":"y #3 #4"
+      "10.1":"y #3 #4",
+      "11.1":"y #3 #4"
     },
     "and_qq":{
       "1.2":"y x #3"
@@ -367,8 +381,8 @@
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2).",
     "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":71.61,
-  "usage_perc_a":20.81,
+  "usage_perc_y":71.04,
+  "usage_perc_a":22.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

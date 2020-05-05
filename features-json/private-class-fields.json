@@ -2,7 +2,7 @@
   "title":"Private class fields",
   "description":"<description>",
   "spec":"https://tc39.es/proposal-class-fields/",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#Private_field_declarations",
@@ -11,14 +11,17 @@
     {
       "url":"https://v8.dev/featnres/class-fields#private-class-fields",
       "title":"V8 Feature Article"
+    },
+    {
+      "url":"https://github.com/tc39/proposal-class-fields",
+      "title":"TC39 Feature Draft"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS",
-    "JS API"
+    "JS"
   ],
   "stats":{
     "ie":{
@@ -38,7 +41,9 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"n"
+      "79":"n",
+      "80":"n",
+      "81":"n"
     },
     "firefox":{
       "2":"n",
@@ -115,7 +120,10 @@
       "71":"n",
       "72":"n",
       "73":"n",
-      "74":"n"
+      "74":"n",
+      "75":"n",
+      "76":"n",
+      "77":"n"
     },
     "chrome":{
       "4":"n",
@@ -196,7 +204,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"n",
@@ -218,6 +228,7 @@
       "12":"n",
       "12.1":"n",
       "13":"n",
+      "13.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -279,7 +290,11 @@
       "60":"n",
       "62":"n",
       "63":"n",
-      "64":"n"
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -300,7 +315,8 @@
       "12.2-12.4":"n",
       "13.0-13.1":"n",
       "13.2":"n",
-      "13.3":"n"
+      "13.3":"n",
+      "13.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -315,7 +331,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "76":"n"
+      "81":"n"
     },
     "bb":{
       "7":"n",
@@ -331,7 +347,7 @@
       "46":"n"
     },
     "and_chr":{
-      "79":"n"
+      "81":"n"
     },
     "and_ff":{
       "68":"n"
@@ -350,7 +366,8 @@
       "7.2-7.4":"n",
       "8.2":"n",
       "9.2":"n",
-      "10.1":"n"
+      "10.1":"n",
+      "11.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -366,7 +383,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":26.74,
+  "usage_perc_y":28.46,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

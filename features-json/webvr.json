@@ -55,7 +55,9 @@
       "16":"y #3",
       "17":"y #3",
       "18":"y #3",
-      "79":"n d #2"
+      "79":"n d #2",
+      "80":"n d #2",
+      "81":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -132,7 +134,10 @@
       "71":"y #1",
       "72":"y #1",
       "73":"y #1",
-      "74":"y #1"
+      "74":"y #1",
+      "75":"y #1",
+      "76":"y #1",
+      "77":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -213,7 +218,9 @@
       "79":"n d #2",
       "80":"n",
       "81":"n",
-      "82":"n"
+      "83":"n",
+      "84":"n",
+      "85":"n"
     },
     "safari":{
       "3.1":"n",
@@ -235,6 +242,7 @@
       "12":"n",
       "12.1":"n",
       "13":"n",
+      "13.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -296,7 +304,11 @@
       "60":"n",
       "62":"n",
       "63":"n",
-      "64":"n"
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -317,7 +329,8 @@
       "12.2-12.4":"n",
       "13.0-13.1":"n",
       "13.2":"n",
-      "13.3":"n"
+      "13.3":"n",
+      "13.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -332,7 +345,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "76":"n"
+      "81":"n"
     },
     "bb":{
       "7":"n",
@@ -348,7 +361,7 @@
       "46":"n"
     },
     "and_chr":{
-      "79":"y #5"
+      "81":"y #5"
     },
     "and_ff":{
       "68":"n"
@@ -367,7 +380,8 @@
       "7.2-7.4":"a #4",
       "8.2":"a #4",
       "9.2":"a #4",
-      "10.1":"a #4"
+      "10.1":"a #4",
+      "11.1":"a #4"
     },
     "and_qq":{
       "1.2":"n"
@@ -381,14 +395,14 @@
   },
   "notes":"For a WebVR experience a head mounted display (VR HMD) is required.",
   "notes_by_num":{
-    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS.",
+    "1":"Available and enabled by default only in Firefox Windows. Enabled in Nightly for iOS. Firefox 73+ [requires a secure context using HTTPS](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API#API_availability)",
     "2":"Enabled behind the WebVR & \"Gamepad Extensions\" flags under `chrome://flags`. Currently builds use an older version of the (still changing) specification and supports only the Oculus Rift and the HTC vive on Windows VR-ready computers.",
     "3":"[In development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supports only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
     "4":"Supports only Samsung Galaxy devices with the Samsung Gear VR",
     "5":"Supports only Google Daydream on [daydream-ready devices](https://vr.google.com/daydream/smartphonevr/phones/) and Google Cardboards"
   },
-  "usage_perc_y":41.24,
-  "usage_perc_a":3.26,
+  "usage_perc_y":40.39,
+  "usage_perc_a":3.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"getvrdevices,getvrdisplays,getdisplays,navigator.vr",

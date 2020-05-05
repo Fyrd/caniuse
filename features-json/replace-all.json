@@ -31,6 +31,10 @@
     {
       "url":"https://gist.github.com/developit/1a40a6fee65361d1182aaa22ab8c334c",
       "title":"developit polyfill"
+    },
+    {
+      "url":"https://github.com/tc39/proposal-string-replaceall/",
+      "title":"TC39 Feature Draft"
     }
   ],
   "bugs":[
@@ -244,7 +248,7 @@
       "12":"n",
       "12.1":"n",
       "13":"n",
-      "13.1":"u",
+      "13.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -330,9 +334,9 @@
       "12.0-12.1":"n",
       "12.2-12.4":"n",
       "13.0-13.1":"n",
-      "13.2":"u",
-      "13.3":"u",
-      "13.4":"u"
+      "13.2":"n",
+      "13.3":"n",
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -400,7 +404,7 @@
     "1":"Only supported in Nightly builds of Firefox due to the lack of tests, see [bug 1608168](https://bugzilla.mozilla.org/show_bug.cgi?id=1608168).",
     "2":"Can be enabled in browser versions running V8 8.0 or later via the `--js-flags=\"--harmony-string-replaceall\"` flag."
   },
-  "usage_perc_y":0.06,
+  "usage_perc_y":3.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

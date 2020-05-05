@@ -1,8 +1,8 @@
 {
   "title":"CSS font-variant-alternates",
   "description":"Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values for certain types of OpenType fonts.",
-  "spec":"https://www.w3.org/TR/css-fonts-3/#propdef-font-variant-alternates",
-  "status":"cr",
+  "spec":"https://drafts.csswg.org/css-fonts-4/#propdef-font-variant-alternates",
+  "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates",
@@ -33,7 +33,9 @@
       "16":"n #1",
       "17":"n #1",
       "18":"n #1",
-      "79":"n #1"
+      "79":"n #1",
+      "80":"n #1",
+      "81":"n #1"
     },
     "firefox":{
       "2":"n",
@@ -110,7 +112,10 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"n",
@@ -191,7 +196,9 @@
       "79":"n #1",
       "80":"n #1",
       "81":"n #1",
-      "82":"n #1"
+      "83":"n #1",
+      "84":"n #1",
+      "85":"n #1"
     },
     "safari":{
       "3.1":"n",
@@ -213,6 +220,7 @@
       "12":"y",
       "12.1":"y",
       "13":"y",
+      "13.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -274,7 +282,11 @@
       "60":"n #1",
       "62":"n #1",
       "63":"n #1",
-      "64":"n #1"
+      "64":"n #1",
+      "65":"n #1",
+      "66":"n #1",
+      "67":"n #1",
+      "68":"n #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -295,7 +307,8 @@
       "12.2-12.4":"y",
       "13.0-13.1":"y",
       "13.2":"y",
-      "13.3":"y"
+      "13.3":"y",
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -310,7 +323,7 @@
       "4.2-4.3":"n",
       "4.4":"n #1",
       "4.4.3-4.4.4":"n #1",
-      "76":"n #1"
+      "81":"n #1"
     },
     "bb":{
       "7":"n",
@@ -326,7 +339,7 @@
       "46":"n #1"
     },
     "and_chr":{
-      "79":"n #1"
+      "81":"n #1"
     },
     "and_ff":{
       "68":"y"
@@ -345,7 +358,8 @@
       "7.2-7.4":"n #1",
       "8.2":"n #1",
       "9.2":"n #1",
-      "10.1":"n #1"
+      "10.1":"n #1",
+      "11.1":"n #1"
     },
     "and_qq":{
       "1.2":"n #1"
@@ -362,7 +376,7 @@
     "1":"Low-level syntax available in [font-feature-settings](https://caniuse.com/#feat=font-feature) property equivalent to OpenType features: salt, ss01 through ss20, cv01 through cv99, swsh, cswh, ornm, nalt",
     "2":"Experimental support available by enabling the layout.css.font-features.enabled flag"
   },
-  "usage_perc_y":20.5,
+  "usage_perc_y":21.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

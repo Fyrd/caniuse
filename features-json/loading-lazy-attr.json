@@ -1,8 +1,8 @@
 {
   "title":"Lazy loading via attribute for images & iframes",
   "description":"The `loading` attributing on images & iframes gives authors control over when the browser should start loading the resource. ",
-  "spec":"https://github.com/whatwg/html/pull/3752",
-  "status":"unoff",
+  "spec":"https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes",
+  "status":"ls",
   "links":[
     {
       "url":"https://addyosmani.com/blog/lazy-loading/",
@@ -49,7 +49,9 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"y"
+      "79":"y",
+      "80":"y",
+      "81":"y"
     },
     "firefox":{
       "2":"n",
@@ -126,7 +128,10 @@
       "71":"n",
       "72":"n",
       "73":"n",
-      "74":"n"
+      "74":"n",
+      "75":"y",
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"n",
@@ -207,7 +212,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"n",
@@ -229,6 +236,7 @@
       "12":"n",
       "12.1":"n",
       "13":"n",
+      "13.1":"n",
       "TP":"n"
     },
     "opera":{
@@ -290,7 +298,11 @@
       "60":"n",
       "62":"n",
       "63":"n",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -311,7 +323,8 @@
       "12.2-12.4":"n",
       "13.0-13.1":"n",
       "13.2":"n",
-      "13.3":"n"
+      "13.3":"n",
+      "13.4":"n d #2"
     },
     "op_mini":{
       "all":"n"
@@ -326,7 +339,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "76":"y"
+      "81":"y"
     },
     "bb":{
       "7":"n",
@@ -342,7 +355,7 @@
       "46":"n"
     },
     "and_chr":{
-      "79":"y"
+      "81":"y"
     },
     "and_ff":{
       "68":"n"
@@ -361,7 +374,8 @@
       "7.2-7.4":"n",
       "8.2":"n",
       "9.2":"n",
-      "10.1":"n"
+      "10.1":"n",
+      "11.1":"n"
     },
     "and_qq":{
       "1.2":"n"
@@ -375,9 +389,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the `#enable-lazy-image-loading` and `#enable-lazy-frame-loading` feature flags"
+    "1":"Can be enabled via the `#enable-lazy-image-loading` and `#enable-lazy-frame-loading` feature flags",
+    "2":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu."
   },
-  "usage_perc_y":61.48,
+  "usage_perc_y":62.71,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

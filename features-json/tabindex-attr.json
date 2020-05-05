@@ -35,7 +35,9 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "79":"y"
+      "79":"y",
+      "80":"y",
+      "81":"y"
     },
     "firefox":{
       "2":"u",
@@ -112,7 +114,10 @@
       "71":"y #1",
       "72":"y #1",
       "73":"y #1",
-      "74":"y #1"
+      "74":"y #1",
+      "75":"y #1",
+      "76":"y #1",
+      "77":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -193,7 +198,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"u",
@@ -215,6 +222,7 @@
       "12":"y #2",
       "12.1":"y #2",
       "13":"y #2",
+      "13.1":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -276,7 +284,11 @@
       "60":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "ios_saf":{
       "3.2":"y #2 #3",
@@ -297,7 +309,8 @@
       "12.2-12.4":"y #2 #3",
       "13.0-13.1":"y #2 #3",
       "13.2":"y #2 #3",
-      "13.3":"y #2 #3"
+      "13.3":"y #2 #3",
+      "13.4":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -312,7 +325,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "76":"u"
+      "81":"u"
     },
     "bb":{
       "7":"u",
@@ -328,7 +341,7 @@
       "46":"u"
     },
     "and_chr":{
-      "79":"y"
+      "81":"y"
     },
     "and_ff":{
       "68":"y"
@@ -347,7 +360,8 @@
       "7.2-7.4":"u",
       "8.2":"u",
       "9.2":"u",
-      "10.1":"u"
+      "10.1":"u",
+      "11.1":"u"
     },
     "and_qq":{
       "1.2":"n"
@@ -365,7 +379,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":90.09,
+  "usage_perc_y":91.71,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

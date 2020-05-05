@@ -25,7 +25,7 @@
       "title":"Blog post: Native ECMAScript modules - the first overview"
     },
     {
-      "url":"https://tc39.github.io/ecma262/#sec-modules",
+      "url":"https://tc39.es/ecma262/#sec-modules",
       "title":"Counterpart ECMAScript specification for import/export syntax"
     },
     {
@@ -70,7 +70,9 @@
       "16":"y #6",
       "17":"y #6",
       "18":"y #6",
-      "79":"y"
+      "79":"y",
+      "80":"y",
+      "81":"y"
     },
     "firefox":{
       "2":"n",
@@ -147,7 +149,10 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"n",
@@ -228,7 +233,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"n",
@@ -250,6 +257,7 @@
       "12":"y",
       "12.1":"y",
       "13":"y",
+      "13.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -311,7 +319,11 @@
       "60":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -332,7 +344,8 @@
       "12.2-12.4":"y",
       "13.0-13.1":"y",
       "13.2":"y",
-      "13.3":"y"
+      "13.3":"y",
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -347,7 +360,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "76":"y"
+      "81":"y"
     },
     "bb":{
       "7":"n",
@@ -363,7 +376,7 @@
       "46":"n"
     },
     "and_chr":{
-      "79":"y"
+      "81":"y"
     },
     "and_ff":{
       "68":"y"
@@ -382,7 +395,8 @@
       "7.2-7.4":"n",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -403,8 +417,8 @@
     "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
     "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":88,
-  "usage_perc_a":0.28,
+  "usage_perc_y":90.1,
+  "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"es6,javascript,module,import,export,nomodule",

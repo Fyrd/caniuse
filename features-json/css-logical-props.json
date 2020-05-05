@@ -46,7 +46,9 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"y"
+      "79":"y",
+      "80":"y",
+      "81":"y"
     },
     "firefox":{
       "2":"n",
@@ -123,7 +125,10 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"a x #2",
@@ -204,7 +209,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"a x #2",
@@ -226,6 +233,7 @@
       "12":"a x #2",
       "12.1":"y",
       "13":"y",
+      "13.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -287,7 +295,11 @@
       "60":"a x #2",
       "62":"a x #2",
       "63":"a x #2",
-      "64":"a x #2"
+      "64":"a x #2",
+      "65":"a x #2",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "ios_saf":{
       "3.2":"a x #2",
@@ -308,7 +320,8 @@
       "12.2-12.4":"y",
       "13.0-13.1":"y",
       "13.2":"y",
-      "13.3":"y"
+      "13.3":"y",
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -323,7 +336,7 @@
       "4.2-4.3":"a x #2",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "76":"y"
+      "81":"y"
     },
     "bb":{
       "7":"a x #2",
@@ -339,7 +352,7 @@
       "46":"a x #2"
     },
     "and_chr":{
-      "79":"y"
+      "81":"y"
     },
     "and_ff":{
       "68":"y"
@@ -358,7 +371,8 @@
       "7.2-7.4":"a x #2",
       "8.2":"a x #2",
       "9.2":"a x #2",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"a x #2"
@@ -373,10 +387,12 @@
   "notes":"",
   "notes_by_num":{
     "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
-    "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`"
+    "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`",
+    "3":"Does not support the `margin-block`, `margin-inline`, `padding-inline`, or any of the `inset` shorthand properties. Supported in newer Chromium browsers behind the `#enable-experimental-web-platform-features` flag",
+    "4":"Does not support the `padding-block`, `padding-inline`, or any `inset` property. Supported in newer Chromium browsers behind the `#enable-experimental-web-platform-features` flag"
   },
-  "usage_perc_y":84.27,
-  "usage_perc_a":9.08,
+  "usage_perc_y":86.89,
+  "usage_perc_a":6.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"block-size,border-block,border-block-color,border-block-end,border-block-end-color,border-block-end-style,border-block-end-width,border-block-start,border-block-start-color,border-block-start-style,border-block-start-width,border-block-style,border-block-width,border-end-end-radius,border-end-start-radius,border-inline,border-inline-color,border-inline-end,border-inline-end-color,border-inline-end-style,border-inline-end-width,border-inline-start,border-inline-start-color,border-inline-start-style,border-inline-start-width,border-inline-style,border-inline-width,border-start-end-radius,border-start-start-radius,inline-size,inset,inset-block,inset-block-end,inset-block-start,inset-inline,inset-inline-end,inset-inline-start,margin-block,margin-block-end,margin-block-start,margin-inline,margin-inline-end,margin-inline-start,max-block-size,max-inline-size,min-block-size,min-inline-size,padding-block,padding-block-end,padding-block-start,padding-inline,padding-inline-end,padding-inline-start,recto,verso",

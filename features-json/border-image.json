@@ -42,7 +42,9 @@
       "16":"y",
       "17":"y",
       "18":"y",
-      "79":"y"
+      "79":"y",
+      "80":"y",
+      "81":"y"
     },
     "firefox":{
       "2":"n",
@@ -119,7 +121,10 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"a x #1 #2 #3 #4",
@@ -200,7 +205,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"a x #1 #2 #3 #4",
@@ -222,6 +229,7 @@
       "12":"y #1",
       "12.1":"y #1",
       "13":"y #1",
+      "13.1":"y #1",
       "TP":"y #1"
     },
     "opera":{
@@ -283,7 +291,11 @@
       "60":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "ios_saf":{
       "3.2":"a x #1 #2 #3 #4",
@@ -304,7 +316,8 @@
       "12.2-12.4":"y #1",
       "13.0-13.1":"y #1",
       "13.2":"y #1",
-      "13.3":"y #1"
+      "13.3":"y #1",
+      "13.4":"y #1"
     },
     "op_mini":{
       "all":"a x #2 #3 #4"
@@ -319,7 +332,7 @@
       "4.2-4.3":"a x #1 #2 #3 #4",
       "4.4":"a #1 #2",
       "4.4.3-4.4.4":"a #1 #2",
-      "76":"a #1 #2"
+      "81":"a #1 #2"
     },
     "bb":{
       "7":"a #1 #2 #3 #4",
@@ -335,7 +348,7 @@
       "46":"a #1 #2"
     },
     "and_chr":{
-      "79":"y"
+      "81":"y"
     },
     "and_ff":{
       "68":"y"
@@ -354,7 +367,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"a #2"
@@ -373,8 +387,8 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":90.67,
-  "usage_perc_a":7.43,
+  "usage_perc_y":92.61,
+  "usage_perc_a":5.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-image-source,border-image-slice,border-image-repeat,border-image-width,,border-image-outset",

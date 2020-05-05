@@ -37,7 +37,9 @@
       "16":"n",
       "17":"y",
       "18":"y",
-      "79":"y #2"
+      "79":"y #2",
+      "80":"y #2",
+      "81":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -114,7 +116,10 @@
       "71":"y #2",
       "72":"y #2",
       "73":"y #2",
-      "74":"y #2"
+      "74":"y #2",
+      "75":"y #2",
+      "76":"y #2",
+      "77":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -195,7 +200,9 @@
       "79":"y #2",
       "80":"y #2",
       "81":"y #2",
-      "82":"y #2"
+      "83":"y #2",
+      "84":"y #2",
+      "85":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -217,6 +224,7 @@
       "12":"n #3",
       "12.1":"n #3",
       "13":"n #3",
+      "13.1":"n #3",
       "TP":"n #3"
     },
     "opera":{
@@ -278,7 +286,11 @@
       "60":"y #2",
       "62":"y #2",
       "63":"y #2",
-      "64":"y #2"
+      "64":"y #2",
+      "65":"y #2",
+      "66":"y #2",
+      "67":"y #2",
+      "68":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -299,7 +311,8 @@
       "12.2-12.4":"n",
       "13.0-13.1":"n",
       "13.2":"n",
-      "13.3":"n"
+      "13.3":"n",
+      "13.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -314,7 +327,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "76":"n"
+      "81":"n"
     },
     "bb":{
       "7":"n",
@@ -330,7 +343,7 @@
       "46":"y"
     },
     "and_chr":{
-      "79":"y"
+      "81":"y"
     },
     "and_ff":{
       "68":"y"
@@ -349,7 +362,8 @@
       "7.2-7.4":"y",
       "8.2":"y",
       "9.2":"y",
-      "10.1":"y"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"y"
@@ -368,8 +382,8 @@
     "3":"Safari supports a custom implementation https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ ",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags"
   },
-  "usage_perc_y":76.99,
-  "usage_perc_a":0.57,
+  "usage_perc_y":76.5,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"push notifications",

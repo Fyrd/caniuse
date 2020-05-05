@@ -41,7 +41,9 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"y"
+      "79":"y",
+      "80":"y",
+      "81":"y"
     },
     "firefox":{
       "2":"n",
@@ -95,15 +97,15 @@
       "48":"n",
       "49":"n",
       "50":"n",
-      "51":"n d #2 #3",
-      "52":"n d #2 #3",
-      "53":"n d #2 #3",
-      "54":"n d #2 #3",
-      "55":"n d #2 #3",
-      "56":"n d #2 #3",
-      "57":"n d #2 #3",
-      "58":"n d #2 #3",
-      "59":"n d #2 #3",
+      "51":"n d #2 #1",
+      "52":"n d #2 #1",
+      "53":"n d #2 #1",
+      "54":"n d #2 #1",
+      "55":"n d #2 #1",
+      "56":"n d #2 #1",
+      "57":"n d #2 #1",
+      "58":"n d #2 #1",
+      "59":"n d #2 #1",
       "60":"a #1",
       "61":"a #1",
       "62":"a #1",
@@ -118,7 +120,10 @@
       "71":"y",
       "72":"y",
       "73":"y",
-      "74":"y"
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y"
     },
     "chrome":{
       "4":"n",
@@ -171,22 +176,22 @@
       "51":"n",
       "52":"n",
       "53":"n",
-      "54":"n d #4 #3",
-      "55":"n d #4 #3",
-      "56":"n d #4 #3",
-      "57":"n d #4 #3",
-      "58":"n d #4 #3",
-      "59":"n d #4 #3",
-      "60":"n d #4 #3",
-      "61":"n d #4 #3",
-      "62":"n d #4 #3",
-      "63":"n d #4 #3",
-      "64":"n d #4 #3",
-      "65":"n d #4 #3",
-      "66":"n d #4 #3",
-      "67":"n d #4 #3",
-      "68":"n d #4 #3",
-      "69":"n d #4 #3",
+      "54":"n d #3 #1",
+      "55":"n d #3 #1",
+      "56":"n d #3 #1",
+      "57":"n d #3 #1",
+      "58":"n d #3 #1",
+      "59":"n d #3 #1",
+      "60":"n d #3 #1",
+      "61":"n d #3 #1",
+      "62":"n d #3 #1",
+      "63":"n d #3 #1",
+      "64":"n d #3 #1",
+      "65":"n d #3 #1",
+      "66":"n d #3 #1",
+      "67":"n d #3 #1",
+      "68":"n d #3 #1",
+      "69":"n d #3 #1",
       "70":"y",
       "71":"y",
       "72":"y",
@@ -199,7 +204,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"n",
@@ -219,9 +226,10 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
-      "12.1":"a #5",
-      "13":"a #5",
-      "TP":"a #5"
+      "12.1":"a #4",
+      "13":"a #4",
+      "13.1":"a #4",
+      "TP":"a #4"
     },
     "opera":{
       "9":"n",
@@ -274,15 +282,19 @@
       "51":"n",
       "52":"n",
       "53":"n",
-      "54":"n d #4 #3",
-      "55":"n d #4 #3",
-      "56":"n d #4 #3",
+      "54":"n d #3 #1",
+      "55":"n d #3 #1",
+      "56":"n d #3 #1",
       "57":"y",
       "58":"y",
       "60":"y",
       "62":"y",
       "63":"y",
-      "64":"y"
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -303,7 +315,8 @@
       "12.2-12.4":"y",
       "13.0-13.1":"y",
       "13.2":"y",
-      "13.3":"y"
+      "13.3":"y",
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -318,7 +331,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "76":"n"
+      "81":"y"
     },
     "bb":{
       "7":"n",
@@ -334,7 +347,7 @@
       "46":"n"
     },
     "and_chr":{
-      "79":"y"
+      "81":"y"
     },
     "and_ff":{
       "68":"y"
@@ -353,7 +366,8 @@
       "7.2-7.4":"n",
       "8.2":"n",
       "9.2":"n",
-      "10.1":"n"
+      "10.1":"y",
+      "11.1":"y"
     },
     "and_qq":{
       "1.2":"n"
@@ -367,14 +381,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support in Firefox refers to supporting a draft of the TLS 1.3 specification, not the final version.",
+    "1":"Supports a draft of the TLS 1.3 specification, not the final version.",
     "2":"Can be enabled in Firefox by setting the `security.tls.version.max` pref to \"4\" in `about:config`.",
-    "3":"Supports a draft of the TLS 1.3 specification, not the final version.",
-    "4":"Can be enabled in Chrome and Opera via the `#tls13-variant` flag in `chrome://flags` or `opera://flags`.",
+    "3":"Can be enabled in Chrome and Opera via the `#tls13-variant` flag in `chrome://flags` or `opera://flags`.",
+    "4":"Partial support in Safari refers to being limited to macOS 10.14 Mojave and later.",
     "5":"Partial support in Safari refers to being limited to macOS 10.14 Mojave and later."
   },
-  "usage_perc_y":78.13,
-  "usage_perc_a":2.79,
+  "usage_perc_y":82.89,
+  "usage_perc_a":3.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
