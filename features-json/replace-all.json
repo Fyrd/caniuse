@@ -143,7 +143,8 @@
       "74":"n #1",
       "75":"n #1",
       "76":"n #1",
-      "77":"y"
+      "77":"y",
+      "78":"y"
     },
     "chrome":{
       "4":"n",
@@ -404,7 +405,7 @@
     "1":"Only supported in Nightly builds of Firefox due to the lack of tests, see [bug 1608168](https://bugzilla.mozilla.org/show_bug.cgi?id=1608168).",
     "2":"Can be enabled in browser versions running V8 8.0 or later via the `--js-flags=\"--harmony-string-replaceall\"` flag."
   },
-  "usage_perc_y":3.74,
+  "usage_perc_y":6.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

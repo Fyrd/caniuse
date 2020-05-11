@@ -7,6 +7,10 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Security/Public_Key_Pinning",
       "title":"MDN Web Docs - Public Key Pinning"
+    },
+    {
+      "url":"https://scotthelme.co.uk/im-giving-up-on-hpkp/",
+      "title":"Scott Helme article on the issues of HPKP"
     }
   ],
   "bugs":[
@@ -115,7 +119,8 @@
       "74":"n",
       "75":"n",
       "76":"n",
-      "77":"n"
+      "77":"n",
+      "78":"n"
     },
     "chrome":{
       "4":"n",
@@ -371,17 +376,17 @@
       "2.5":"y"
     }
   },
-  "notes":"The HTTP header syntax is 'Public-Key-Pins: pin-sha256=\"base64==\"; max-age=expireTime [; includeSubdomains][; report-uri=\"reportURI\"]'.\r\n\r\nSupport in Chrome was [deprecated](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/he9tr7p3rZ8/eNMwKPmUBAAJ) and [removed](https://blog.chromium.org/2018/12/chrome-72-beta-public-class-fields-user.html?m=1).",
+  "notes":"All browsers have removed support. The header was too complicated to use, and when incorrectly implemented, could completely block websites for longer periods of time.\r\n\r\n[Certificate transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency) is widely used and tries to provide the same security by very different means.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":6.1,
+  "usage_perc_y":5.36,
   "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"pkp,hpkp,security,header",
   "ie_id":"publickeypinningextensionforhttp",
-  "chrome_id":"",
+  "chrome_id":"5903385005916160",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
