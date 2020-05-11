@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "Security"
@@ -386,13 +386,13 @@
     "2":"Early versions of Chrome [experimented](https://www.imperialviolet.org/2011/06/16/dnssecchrome.html) with browser-level validation."
   },
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":99.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"DNS Security Extensions,Domain Name System Security Extensions,DNS based Authentication of Named Entities",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":false
 }
