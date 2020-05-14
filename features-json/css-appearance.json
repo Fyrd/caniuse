@@ -197,9 +197,9 @@
       "79":"a x #1",
       "80":"a x #1",
       "81":"a x #1",
-      "83":"a x #1",
-      "84":"a #1",
-      "85":"a #1"
+      "83":"y x",
+      "84":"y",
+      "85":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -372,9 +372,9 @@
       "2.5":"a x #1"
     }
   },
-  "notes":"",
+  "notes":"WebKit, Blink, and Gecko browsers also support additional vendor specific values.",
   "notes_by_num":{
-    "1":"The appearance property is supported with the `none` value, but not `auto`. WebKit, Blink, and Gecko browsers also support additional vendor specific values.",
+    "1":"The appearance property is supported with the `none` value, but not `auto`.",
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
     "3":"-moz-appearance:none doesn't remove the dropdown arrow in select tag"
   },
