@@ -409,7 +409,8 @@
   "notes_by_num":{
     "1":"Support in IE11 is based on an older version of the specification.",
     "2":"Support in Safari before version 11 was using the `crypto.webkitSubtle` prefix.",
-    "3":"In Edge 12-18, Web Crypto was not supported in Web Workers and Service Workers."
+    "3":"In Edge 12-18, Web Crypto was not supported in Web Workers and Service Workers.",
+    "4":"In Edge, Web Crypto is not supported in Web Workers or Service Workers."
   },
   "usage_perc_y":95.59,
   "usage_perc_a":1.45,
