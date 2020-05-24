@@ -13,16 +13,16 @@
       "title":"Chrome bug to track implementation"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=206767",
-      "title":"Webkit support bug"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/gap#Browser_compatibility",
       "title":"MDN browser compatibility"
     },
     {
       "url":"https://gist.github.com/OliverJAsh/7f29d0fa1d35216ec681d2949c3fe8b7",
       "title":"Workaround using negative margins"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=206767",
+      "title":"Webkit support bug"
     }
   ],
   "bugs":[
@@ -389,8 +389,10 @@
     }
   },
   "notes":"",
-  "notes_by_num":{},
-  "usage_perc_y":3.79,
+  "notes_by_num":{
+    "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
+  },
+  "usage_perc_y":3.81,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"flexbox",
