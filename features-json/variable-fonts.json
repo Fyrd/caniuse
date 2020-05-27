@@ -230,9 +230,9 @@
       "11.1":"y #3 #6",
       "12":"y #3 #6",
       "12.1":"y #3 #6",
-      "13":"y #6",
-      "13.1":"y #6",
-      "TP":"y #6"
+      "13":"y #7",
+      "13.1":"y #7",
+      "TP":"y #7"
     },
     "opera":{
       "9":"n",
@@ -316,10 +316,10 @@
       "11.3-11.4":"y #6",
       "12.0-12.1":"y #6",
       "12.2-12.4":"y #6",
-      "13.0-13.1":"y #6",
-      "13.2":"y #6",
-      "13.3":"y #6",
-      "13.4":"y #6"
+      "13.0-13.1":"y",
+      "13.2":"y",
+      "13.3":"y",
+      "13.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -389,7 +389,8 @@
     "3":"Requires MacOS 10.13+",
     "4":"Does not support the `font-weight` and `font-stretch` properties.",
     "5":"Does not support `format('truetype-variations')`, `format('woff-variations')`, `format('woff2-variations')`",
-    "6":"Does not support OpenType-CFF2 fonts"
+    "6":"Does not support OpenType-CFF2 fonts",
+    "7":"OpenType-CFF2 support requires MacOS 10.15+"
   },
   "usage_perc_y":91.03,
   "usage_perc_a":0.15,
