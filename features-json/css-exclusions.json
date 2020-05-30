@@ -15,6 +15,10 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=57311",
       "title":"WebKit tracking bug"
+    },
+    {
+      "url":"https://crbug.com/700838",
+      "title":"Chromium tracking bug"
     }
   ],
   "bugs":[
@@ -392,7 +396,7 @@
   "parent":"",
   "keywords":"floats,exclusions,wrap-flow,wrap-through",
   "ie_id":"exclusions",
-  "chrome_id":"6296903092273152",
+  "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
