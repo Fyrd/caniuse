@@ -382,7 +382,7 @@
       "2.5":"n"
     }
   },
-  "notes":"Firefox plans to enable this by default in a version after 78",
+  "notes":"Firefox has newly rewritten their implementation and plans to enable it by default in a version closely succeeding 78",
   "notes_by_num":{
     "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported).",
     "2":"Can be enabled via the \"Experimental Features\" developer menu",
