@@ -391,7 +391,7 @@
   "notes":"Opening the image in a new tab in Chrome results in the image shown in the orientation according to the EXIF data.",
   "notes_by_num":{
     "1":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property.",
-    "2":"Chrome/Edge has [a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1082669) where the browser is not maintaining the image’s aspect ratio when `object-fit: cover` and `image-orientation: from-image` are used together."
+    "2":"Chrome/Edge has [a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1082669) where the browser is not maintaining the image\u2019s aspect ratio when `object-fit: cover` and `image-orientation: from-image` are used together."
   },
   "usage_perc_y":47.85,
   "usage_perc_a":15.05,
