@@ -311,7 +311,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -379,8 +379,8 @@
     "1":"Firefox 39 did not support 'crossorigin' attribute and preconnects were not processed by the preload parser. Both of these features were enabled in Firefox 41.",
     "2":"Partial support in Edge 15+ refers to support for only the HTTP header format, not the `<link rel>` format."
   },
-  "usage_perc_y":89.92,
-  "usage_perc_a":2.14,
+  "usage_perc_y":89.77,
+  "usage_perc_a":2.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"preconnect, resource hints",

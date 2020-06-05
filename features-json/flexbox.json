@@ -373,7 +373,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.5":"y"
     },
     "op_mini":{
       "all":"y"
@@ -443,8 +443,8 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":96.72,
-  "usage_perc_a":1.96,
+  "usage_perc_y":96.52,
+  "usage_perc_a":2,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",

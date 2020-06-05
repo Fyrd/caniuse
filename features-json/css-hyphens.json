@@ -323,7 +323,7 @@
       "13.0-13.1":"y x",
       "13.2":"y x",
       "13.3":"y x",
-      "13.4":"y x"
+      "13.4-13.5":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -390,8 +390,8 @@
   "notes_by_num":{
     "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964)."
   },
-  "usage_perc_y":30.6,
-  "usage_perc_a":65.64,
+  "usage_perc_y":28.75,
+  "usage_perc_a":67.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"hyphen,shy",

@@ -311,7 +311,7 @@
       "13.0-13.1":"a #3",
       "13.2":"a #3",
       "13.3":"a #3",
-      "13.4":"a #3"
+      "13.4-13.5":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -382,8 +382,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":82.6,
-  "usage_perc_a":15.68,
+  "usage_perc_y":84.28,
+  "usage_perc_a":13.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

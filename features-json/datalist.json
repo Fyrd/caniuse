@@ -337,7 +337,7 @@
       "13.0-13.1":"y #5",
       "13.2":"y #5",
       "13.3":"y #5",
-      "13.4":"y #5"
+      "13.4-13.5":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -409,8 +409,8 @@
     "5":"Supported through WKWebView and Safari but not through UIWebView",
     "6":"In Firefox, autocomplete must be set to off to make dynamic datalist work due to [a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1474137)"
   },
-  "usage_perc_y":84.52,
-  "usage_perc_a":9.56,
+  "usage_perc_y":84.29,
+  "usage_perc_a":9.72,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute,input",

@@ -315,7 +315,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.5":"y"
     },
     "op_mini":{
       "all":"y"
@@ -382,8 +382,8 @@
   "notes_by_num":{
     "1":"Partial support in older Safari refers to strict mode still accepting a lot of JS that should be considered invalid."
   },
-  "usage_perc_y":98.5,
-  "usage_perc_a":0.1,
+  "usage_perc_y":98.28,
+  "usage_perc_a":0.16,
   "ucprefix":false,
   "parent":"es5",
   "keywords":"",

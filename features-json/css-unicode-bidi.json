@@ -311,7 +311,7 @@
       "13.0-13.1":"a x #3",
       "13.2":"a x #3",
       "13.3":"a x #3",
-      "13.4":"a x #3"
+      "13.4-13.5":"a x #3"
     },
     "op_mini":{
       "all":"u"
@@ -380,8 +380,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":70.7,
-  "usage_perc_a":24.99,
+  "usage_perc_y":72.1,
+  "usage_perc_a":23.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

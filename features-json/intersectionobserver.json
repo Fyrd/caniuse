@@ -322,7 +322,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -392,8 +392,8 @@
     "3":"`isIntersecting` property of `IntersectionObserverEntry` was not implemented, returning `undefined`",
     "4":"IntersectionObserver does not trigger its callback in a Chrome background tab"
   },
-  "usage_perc_y":90.63,
-  "usage_perc_a":2.18,
+  "usage_perc_y":90.5,
+  "usage_perc_a":2.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

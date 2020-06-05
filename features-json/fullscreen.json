@@ -340,7 +340,7 @@
       "13.0-13.1":"a #5",
       "13.2":"a #5",
       "13.3":"a #5",
-      "13.4":"a #5"
+      "13.4-13.5":"a #5"
     },
     "op_mini":{
       "all":"n"
@@ -411,8 +411,8 @@
     "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag",
     "5":"Partial support refers to supporting only iPad, not iPhone. Shows an overlay button which can not be disabled."
   },
-  "usage_perc_y":34.97,
-  "usage_perc_a":61.73,
+  "usage_perc_y":37.64,
+  "usage_perc_a":59.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",

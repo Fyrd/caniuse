@@ -331,7 +331,7 @@
       "13.0-13.1":"y #2",
       "13.2":"y #2",
       "13.3":"y #2",
-      "13.4":"y #2"
+      "13.4-13.5":"y #2"
     },
     "op_mini":{
       "all":"n"
@@ -401,8 +401,8 @@
     "3":"Only supports the `:-moz-any()` pseudo-class.",
     "4":"Support for ':matches()' is available behind the \"Experimental Web Platform features\" flag"
   },
-  "usage_perc_y":19.03,
-  "usage_perc_a":75.17,
+  "usage_perc_y":17.17,
+  "usage_perc_a":76.89,
   "ucprefix":false,
   "parent":"",
   "keywords":":matches,matches,:any,any",

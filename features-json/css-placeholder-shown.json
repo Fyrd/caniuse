@@ -319,7 +319,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -387,8 +387,8 @@
     "1":"Partial support in Firefox refers to using the non-standard `:-moz-placeholder` name rather than `:placeholder-shown`.",
     "2":"Partial support in IE refers to using the non-standard `:-ms-input-placeholder` name rather than `:placeholder-shown`."
   },
-  "usage_perc_y":92.72,
-  "usage_perc_a":1.88,
+  "usage_perc_y":92.37,
+  "usage_perc_a":1.91,
   "ucprefix":false,
   "parent":"",
   "keywords":":placeholder-shown,placeholder-shown,placeholder",

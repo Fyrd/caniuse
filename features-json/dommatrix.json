@@ -323,7 +323,7 @@
       "13.0-13.1":"a #1",
       "13.2":"a #1",
       "13.3":"a #1",
-      "13.4":"a #1"
+      "13.4-13.5":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -395,7 +395,7 @@
     "5":"Does not support `fromMatrix()`, `fromFloat32Array()`, `fromFloat64Array()`, and `toJSON()` methods"
   },
   "usage_perc_y":0.23,
-  "usage_perc_a":97.5,
+  "usage_perc_a":97.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",
