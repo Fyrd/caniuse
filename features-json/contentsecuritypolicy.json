@@ -1,6 +1,6 @@
 {
   "title":"Content Security Policy 1.0",
-  "description":"Mitigate cross-site scripting attacks by whitelisting allowed sources of script, style, and other resources.",
+  "description":"Mitigate cross-site scripting attacks by only allowing certain sources of script, style, and other resources.",
   "spec":"https://www.w3.org/TR/2012/CR-CSP-20121115/",
   "status":"cr",
   "links":[
