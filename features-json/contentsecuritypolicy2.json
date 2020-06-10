@@ -1,6 +1,6 @@
 {
   "title":"Content Security Policy Level 2",
-  "description":"Mitigate cross-site scripting attacks by whitelisting allowed sources of script, style, and other resources. CSP 2 adds hash-source, nonce-source, and five new directives",
+  "description":"Mitigate cross-site scripting attacks by only allowing certain sources of script, style, and other resources. CSP 2 adds hash-source, nonce-source, and five new directives",
   "spec":"https://www.w3.org/TR/CSP2/",
   "status":"rec",
   "links":[
