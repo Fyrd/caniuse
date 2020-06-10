@@ -375,9 +375,9 @@
       "5.0-5.4":"n #3",
       "6.2-6.4":"n #3",
       "7.2-7.4":"n #3",
-      "8.2":"n #3",
-      "9.2":"n #3",
-      "10.1":"n #3",
+      "8.2":"y",
+      "9.2":"y",
+      "10.1":"y",
       "11.1-11.2":"y"
     },
     "and_qq":{
@@ -396,7 +396,7 @@
     "2":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
     "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead."
   },
-  "usage_perc_y":52.23,
+  "usage_perc_y":52.67,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
