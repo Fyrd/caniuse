@@ -360,7 +360,7 @@
       "13.4-13.5":"y"
     },
     "op_mini":{
-      "all":"n"
+      "all":"a #4"
     },
     "android":{
       "2.1":"n",
@@ -424,7 +424,8 @@
   "notes_by_num":{
     "1":"Partial support in Android Browser 4.4 refers to the browser lacking the ability to multiply and divide values.",
     "2":"Partial support in IE9 refers to the browser crashing when used as a `background-position` value.",
-    "3":"Partial support in IE10/IE11 refers to calc not working properly with various use cases mentioned in known issues"
+    "3":"Partial support in IE10/IE11 refers to calc not working properly with various use cases mentioned in known issues.",
+    "4":"Partial support in Opera Mini refers to calc not working in Extreme data savings mode."
   },
   "usage_perc_y":95.78,
   "usage_perc_a":1.82,
