@@ -1,6 +1,6 @@
 {
   "title":"Add to home screen (A2HS)",
-  "description":"The ability for a user to \"install\" a website and use it as if it was a natively installed app. The website will have an icon on the home screen and will launch in it's own window.",
+  "description":"The ability for a user to \"install\" a website and use it as if it was a natively installed app. To enable this behaviour, a website must serve a valid Web App Manifest and load it's assets through a [Service Worker](https://caniuse.com/#feat=serviceworkers).",
   "spec":"https://www.w3.org/TR/appmanifest/",
   "status":"wd",
   "links":[
