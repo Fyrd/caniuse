@@ -384,7 +384,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supports `inter-word`, but not `inter-character` or  `none`. Also supports the following unofficial values: `distribute` , `distribute-all-lines`, `distribute-center-last`, `inter-cluster`, `inter-ideograph`, `newspaper`. See [MSDN](https://msdn.microsoft.com/en-us/library/ms531172%28v=vs.85%29.aspx) for details.",
+    "1":"Supports `inter-word`, but not `inter-character` or  `none`. Also supports the following unofficial values: `distribute` , `distribute-all-lines`, `distribute-center-last`, `inter-cluster`, `inter-ideograph`, `newspaper`. See [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-justify) for details.",
     "2":"`inter-word` and `distribute` values supported behind the \"Experimental platform features\" flag but `distribute` support [is buggy](https://bugs.chromium.org/p/chromium/issues/detail?id=467406)",
     "3":"Behind the \"layout.css.text-justify.enabled\" flag",
     "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
