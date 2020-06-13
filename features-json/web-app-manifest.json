@@ -5,6 +5,14 @@
   "status":"wd",
   "links":[
     {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/Manifest",
+      "title":"MDN Web Docs - Web App Manifest"
+    },
+    {
+      "url":"https://github.com/GoogleChromeLabs/pwacompat",
+      "title":"PWACompat (polyfill) - A library that brings the Web App Manifest to non-compliant browsers"
+    },
+    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1407202",
       "title":"Firefox implementation bug for desktop"
     },
@@ -15,14 +23,6 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen",
       "title":"MDN Web Docs - Add to Home screen"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/Manifest",
-      "title":"MDN Web Docs - Web App Manifest"
-    },
-    {
-      "url":"https://github.com/GoogleChromeLabs/pwacompat",
-      "title":"PWACompat (polyfill) - A library that brings the Web App Manifest to non-compliant browsers"
     }
   ],
   "bugs":[
@@ -397,8 +397,8 @@
     "2":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported on all platforms.",
     "3":"A manifest could be used to list apps in the Microsoft Store, which would use Edge as a back-end."
   },
-  "usage_perc_y":62.78,
-  "usage_perc_a":20.22,
+  "usage_perc_y":83,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa,progressive web app,web app,wam,web app manifest,install,appinstalled,beforeinstallprompt,onappinstalled,onbeforeinstallprompt",
