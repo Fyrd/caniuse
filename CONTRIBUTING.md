@@ -2,7 +2,7 @@
 
 ## Filing issues
 
-Issues can be filed on existing **caniuse support data**, **site functionality** or to make new **support data suggestions**. Support data suggestions can be voted on with `+1` comments and can be [viewed in order](https://caniuse.com/issue-list) of votes.
+Issues can be filed on existing **caniuse support data**, **site functionality** or to make new **support data suggestions**. Support data suggestions can be voted on with thumbs up (👍) reactions and can be [viewed in order](https://caniuse.com/issue-list) of votes.
 
 ## Caniuse data
 
