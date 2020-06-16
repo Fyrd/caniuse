@@ -1,35 +1,27 @@
 {
-  "title":"JavaScript modules: dynamic import()",
-  "description":"Loading JavaScript modules dynamically using the import() syntax",
-  "spec":"https://tc39.es/ecma262/#sec-import-calls",
-  "status":"other",
+  "title":"Screen Wake Lock API",
+  "description":"API to prevent devices from dimming, locking or turning off the screen when the application needs to keep running.",
+  "spec":"https://www.w3.org/TR/wake-lock/",
+  "status":"cr",
   "links":[
     {
-      "url":"https://tc39.es/ecma262/#sec-import-calls",
-      "title":"Counterpart ECMAScript specification for import() syntax"
+      "url":"https://web.dev/wakelock/",
+      "title":"Stay awake with the Screen Wake Lock API"
     },
     {
-      "url":"https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import",
-      "title":"Blog post: Native ECMAScript modules - dynamic import()"
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1589554",
+      "title":"Firefox support bug"
     },
     {
-      "url":"https://developers.google.com/web/updates/2017/11/dynamic-import",
-      "title":"Dynamic import()"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1342012",
-      "title":"Firefox implementation bug"
-    },
-    {
-      "url":"https://html.spec.whatwg.org/multipage/webappapis.html#integration-with-the-javascript-module-system",
-      "title":"Integration with the HTML specification"
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=205104",
+      "title":"WebKit support bug"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "JS"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -49,10 +41,10 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"y",
-      "80":"y",
-      "81":"y",
-      "83":"y"
+      "79":"n d #1",
+      "80":"n d #1",
+      "81":"n d #1",
+      "83":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -121,20 +113,20 @@
       "63":"n",
       "64":"n",
       "65":"n",
-      "66":"n d #1",
-      "67":"y",
-      "68":"y",
-      "69":"y",
-      "70":"y",
-      "71":"y",
-      "72":"y",
-      "73":"y",
-      "74":"y",
-      "75":"y",
-      "76":"y",
-      "77":"y",
-      "78":"y",
-      "79":"y"
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n",
+      "76":"n",
+      "77":"n",
+      "78":"n",
+      "79":"n"
     },
     "chrome":{
       "4":"n",
@@ -196,26 +188,26 @@
       "60":"n",
       "61":"n",
       "62":"n",
-      "63":"y",
-      "64":"y",
-      "65":"y",
-      "66":"y",
-      "67":"y",
-      "68":"y",
-      "69":"y",
-      "70":"y",
-      "71":"y",
-      "72":"y",
-      "73":"y",
-      "74":"y",
-      "75":"y",
-      "76":"y",
-      "77":"y",
-      "78":"y",
-      "79":"y",
-      "80":"y",
-      "81":"y",
-      "83":"y",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n d #1",
+      "72":"n d #1",
+      "73":"n d #1",
+      "74":"n d #1",
+      "75":"n d #1",
+      "76":"n d #1",
+      "77":"n d #1",
+      "78":"n d #1",
+      "79":"n d #1",
+      "80":"n d #1",
+      "81":"n d #1",
+      "83":"n d #1",
       "84":"y",
       "85":"y",
       "86":"y"
@@ -236,12 +228,12 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
-      "11.1":"y",
-      "12":"y",
-      "12.1":"y",
-      "13":"y",
-      "13.1":"y",
-      "TP":"y"
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
+      "13":"n",
+      "13.1":"n",
+      "TP":"n"
     },
     "opera":{
       "9":"n",
@@ -290,23 +282,23 @@
       "47":"n",
       "48":"n",
       "49":"n",
-      "50":"y",
-      "51":"y",
-      "52":"y",
-      "53":"y",
-      "54":"y",
-      "55":"y",
-      "56":"y",
-      "57":"y",
-      "58":"y",
-      "60":"y",
-      "62":"y",
-      "63":"y",
-      "64":"y",
-      "65":"y",
-      "66":"y",
-      "67":"y",
-      "68":"y"
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n d #1",
+      "60":"n d #1",
+      "62":"n d #1",
+      "63":"n d #1",
+      "64":"n d #1",
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -321,14 +313,14 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.2":"y",
-      "11.3-11.4":"y",
-      "12.0-12.1":"y",
-      "12.2-12.4":"y",
-      "13.0-13.1":"y",
-      "13.2":"y",
-      "13.3":"y",
-      "13.4-13.5":"y"
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2-12.4":"n",
+      "13.0-13.1":"n",
+      "13.2":"n",
+      "13.3":"n",
+      "13.4-13.5":"n"
     },
     "op_mini":{
       "all":"n"
@@ -343,7 +335,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "81":"y"
+      "81":"n"
     },
     "bb":{
       "7":"n",
@@ -356,13 +348,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y"
+      "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "81":"n d #1"
     },
     "and_ff":{
-      "68":"y"
+      "68":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -376,13 +368,13 @@
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"y",
-      "9.2":"y",
-      "10.1":"y",
-      "11.1-11.2":"y"
+      "8.2":"n",
+      "9.2":"n",
+      "10.1":"n",
+      "11.1-11.2":"n"
     },
     "and_qq":{
-      "10.4":"y"
+      "10.4":"n"
     },
     "baidu":{
       "7.12":"n"
@@ -391,17 +383,17 @@
       "2.5":"n"
     }
   },
-  "notes":"",
+  "notes":"Firefox OS previously supported a [similar API](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/API/Wake_Lock_API)",
   "notes_by_num":{
-    "1":"Support can be enabled via `javascript.options.dynamicImport` flag. See [bug 1517546](https://bugzil.la/1517546)."
+    "1":"Available behind the #experimental-web-platform-features feature flag"
   },
-  "usage_perc_y":88.77,
+  "usage_perc_y":0.04,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"es6-module",
-  "keywords":"es6,javascript,module,import,export",
+  "parent":"",
+  "keywords":"navigator.wakelock.request,wakelocksentinel,screen-wake-lock",
   "ie_id":"",
-  "chrome_id":"5684934484164608",
+  "chrome_id":"4636879949398016",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
