@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Non-base64-encoded SVG data URIs need to be uriencoded to work in IE, Edge and Firefox < 4 as according to the specification. For Edge 18 it is needed to encode '\\', '^', '`', '|', and '\\x7F'."
+      "description":"Non-base64-encoded SVG data URIs need to be uriencoded to work in IE, Edge and Firefox < 4 as according to the specification. For Edge 18 it is needed to encode '', '^', '`', '|', and 'x7F'."
     }
   ],
   "categories":[
