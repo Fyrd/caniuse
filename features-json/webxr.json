@@ -124,9 +124,9 @@
       "74":"n",
       "75":"n",
       "76":"n",
-      "77":"n",
-      "78":"n",
-      "79":"n"
+      "77":"n d #2",
+      "78":"n d #2",
+      "79":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -387,7 +387,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"This API is very extensive. Many of its features are still in development and/or don't have finalised specs yet."
+    "1":"This API is very extensive. Many of its features are still in development and/or don't have finalised specs yet.",
+    "2":"Can be enabled in Firefox behind the `dom.vr.webxr.enabled`flag."
   },
   "usage_perc_y":0,
   "usage_perc_a":63.02,
