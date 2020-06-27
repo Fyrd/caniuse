@@ -1,28 +1,12 @@
 {
-  "title":"Add to home screen (A2HS)",
-  "description":"The ability for a user to \"install\" a website and use it as if it was a natively installed app. To enable this behaviour, a website must serve a valid Web App Manifest and load it's assets through a [Service Worker](https://caniuse.com/#feat=serviceworkers).",
-  "spec":"https://www.w3.org/TR/appmanifest/",
-  "status":"wd",
+  "title":"Portals",
+  "description":"Portals enable seamless navigation between sites or pages. A new page can be loaded as an inset using the `<portal>` element (similar to an iframe) which can then seamlessly transition to the new navigated state when \"activated\".",
+  "spec":"https://wicg.github.io/portals/",
+  "status":"unoff",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/Manifest",
-      "title":"MDN Web Docs - Web App Manifest"
-    },
-    {
-      "url":"https://github.com/GoogleChromeLabs/pwacompat",
-      "title":"PWACompat (polyfill) - A library that brings the Web App Manifest to non-compliant browsers"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1407202",
-      "title":"Firefox implementation bug for desktop"
-    },
-    {
-      "url":"https://web.dev/install-criteria/",
-      "title":"Web.dev - What does it take to be installable?"
-    },
-    {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen",
-      "title":"MDN Web Docs - Add to Home screen"
+      "url":"https://web.dev/hands-on-portals/",
+      "title":"Hands-on with Portals: seamless navigation on the Web"
     }
   ],
   "bugs":[
@@ -30,7 +14,7 @@
   ],
   "categories":[
     "HTML5",
-    "Other"
+    "JS API"
   ],
   "stats":{
     "ie":{
@@ -48,12 +32,12 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n #3",
-      "18":"n #3",
-      "79":"y",
-      "80":"y",
-      "81":"y",
-      "83":"y"
+      "17":"n",
+      "18":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "83":"n"
     },
     "firefox":{
       "2":"n",
@@ -173,53 +157,53 @@
       "36":"n",
       "37":"n",
       "38":"n",
-      "39":"y #1",
-      "40":"y #1",
-      "41":"y #1",
-      "42":"y #1",
-      "43":"y #1",
-      "44":"y #1",
-      "45":"y #1",
-      "46":"y #1",
-      "47":"y #1",
-      "48":"y #1",
-      "49":"y #1",
-      "50":"y #1",
-      "51":"y #1",
-      "52":"y #1",
-      "53":"y #1",
-      "54":"y #1",
-      "55":"y #1",
-      "56":"y #1",
-      "57":"y #1",
-      "58":"y #1",
-      "59":"y #1",
-      "60":"y #1",
-      "61":"y #1",
-      "62":"y #1",
-      "63":"y #1",
-      "64":"y #1",
-      "65":"y #1",
-      "66":"y #1",
-      "67":"y #2",
-      "68":"y #2",
-      "69":"y #2",
-      "70":"y #2",
-      "71":"y #2",
-      "72":"y #2",
-      "73":"y",
-      "74":"y",
-      "75":"y",
-      "76":"y",
-      "77":"y",
-      "78":"y",
-      "79":"y",
-      "80":"y",
-      "81":"y",
-      "83":"y",
-      "84":"y",
-      "85":"y",
-      "86":"y"
+      "39":"n",
+      "40":"n",
+      "41":"n",
+      "42":"n",
+      "43":"n",
+      "44":"n",
+      "45":"n",
+      "46":"n",
+      "47":"n",
+      "48":"n",
+      "49":"n",
+      "50":"n",
+      "51":"n",
+      "52":"n",
+      "53":"n",
+      "54":"n",
+      "55":"n",
+      "56":"n",
+      "57":"n",
+      "58":"n",
+      "59":"n",
+      "60":"n",
+      "61":"n",
+      "62":"n",
+      "63":"n",
+      "64":"n",
+      "65":"n",
+      "66":"n",
+      "67":"n",
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n",
+      "73":"n",
+      "74":"n",
+      "75":"n d #1",
+      "76":"n d #1",
+      "77":"n d #1",
+      "78":"n d #1",
+      "79":"n d #1",
+      "80":"n d #1",
+      "81":"n d #1",
+      "83":"n d #1",
+      "84":"n d #1",
+      "85":"n d #1",
+      "86":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -302,13 +286,13 @@
       "57":"n",
       "58":"n",
       "60":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n",
-      "67":"n",
-      "68":"n"
+      "62":"n d #1",
+      "63":"n d #1",
+      "64":"n d #1",
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -324,14 +308,14 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3-11.4":"a #1 #4",
-      "12.0-12.1":"a #1 #4",
-      "12.2-12.4":"a #1 #4",
-      "13.0-13.1":"a #1 #4",
-      "13.2":"a #1 #4",
-      "13.3":"a #1 #4",
-      "13.4-13.5":"a #1 #4",
-      "14.0":"a #1 #4"
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2-12.4":"n",
+      "13.0-13.1":"n",
+      "13.2":"n",
+      "13.3":"n",
+      "13.4-13.5":"n",
+      "14.0":"n"
     },
     "op_mini":{
       "all":"n"
@@ -346,7 +330,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "81":"y"
+      "81":"n"
     },
     "bb":{
       "7":"n",
@@ -359,36 +343,36 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y #1"
+      "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "81":"n d #1"
     },
     "and_ff":{
-      "68":"y #1"
+      "68":"n"
     },
     "ie_mob":{
       "10":"n",
       "11":"n"
     },
     "and_uc":{
-      "12.12":"y #1"
+      "12.12":"n"
     },
     "samsung":{
-      "4":"y #1",
-      "5.0-5.4":"y #1",
-      "6.2-6.4":"y #1",
-      "7.2-7.4":"y #1",
-      "8.2":"y #1",
-      "9.2":"y #1",
-      "10.1":"y #1",
-      "11.1-11.2":"y"
+      "4":"n",
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n",
+      "10.1":"n",
+      "11.1-11.2":"n"
     },
     "and_qq":{
-      "10.4":"y #1"
+      "10.4":"n"
     },
     "baidu":{
-      "7.12":"y #1"
+      "7.12":"n"
     },
     "kaios":{
       "2.5":"n"
@@ -396,19 +380,16 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported.",
-    "2":"The installation events, `appinstalled` and `beforeinstallprompt`, are not supported on all platforms.",
-    "3":"A manifest could be used to list apps in the Microsoft Store, which would use Edge as a back-end.",
-    "4":"Safari on iOS does not support A2HS in WebViews like Chrome and Firefox"
+    
   },
-  "usage_perc_y":70.4,
-  "usage_perc_a":12.6,
+  "usage_perc_y":0,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"manifest,pwa,progressive web app,web app,wam,web app manifest,install,appinstalled,beforeinstallprompt,onappinstalled,onbeforeinstallprompt",
-  "ie_id":"webapplicationmanifest",
-  "chrome_id":"6488656873259008",
-  "firefox_id":"app-manifest",
-  "webkit_id":"specification-web-app-manifest",
+  "keywords":"portal api,portals api,portal element,htmlportalelement,portal.activate,onportalactivate",
+  "ie_id":"",
+  "chrome_id":"4828882419056640",
+  "firefox_id":"",
+  "webkit_id":"",
   "shown":true
 }
