@@ -5,12 +5,16 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:is",
-      "title":"MDN Web Docs - CSS :is()"
-    },
-    {
       "url":"https://webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/",
       "title":"WebKit blog post about adding `:matches()` and other Selectors Level 4 features"
+    },
+    {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=568705",
+      "title":"Chrome support bug for :is()"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:is",
+      "title":"MDN Web Docs - CSS :is()"
     },
     {
       "url":"https://codepen.io/atjn/full/MWKErBe",
@@ -19,10 +23,6 @@
     {
       "url":"http://output.jsbin.com/lehina",
       "title":"JS Bin - Legacy tests"
-    },
-    {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=568705",
-      "title":"Chrome support bug for :is()"
     }
   ],
   "bugs":[
@@ -403,8 +403,8 @@
     "6":"Also supports the deprecated `:-moz-any()` pseudo-class.",
     "7":"Support for `:is()` can be enabled with the `Experimental Web Platform features` flag"
   },
-  "usage_perc_y":17.17,
-  "usage_perc_a":76.89,
+  "usage_perc_y":0,
+  "usage_perc_a":94.06,
   "ucprefix":false,
   "parent":"",
   "keywords":":is,is,:matches,matches,:any,any,:-moz-any,-moz-any,:-webkit-any,-webkit-any",
