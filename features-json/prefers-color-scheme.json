@@ -9,12 +9,8 @@
       "title":"MDN article"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1494034",
-      "title":"Firefox implementation bug"
-    },
-    {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=889087",
-      "title":"Chromium implementation issue"
+      "url":"https://web.dev/prefers-color-scheme/",
+      "title":"Web.dev article"
     }
   ],
   "bugs":[
@@ -374,7 +370,7 @@
       "9.2":"n",
       "10.1":"n",
       "11.1-11.2":"n",
-      "12.0":"n"
+      "12.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -386,7 +382,7 @@
       "2.5":"n"
     }
   },
-  "notes":"Support will also depend on whether or not the OS has support for a light/dark theme preference.\r\n\r\nBriefly known as `prefers-dark-interface` in earlier builds of Safari TP.\r\n\r\nNeeds to be enabled with [this API](https://developer.android.com/reference/android/webkit/WebSettings#setForceDark(int)) to use in Android WebView 76.",
+  "notes":"Support will also depend on whether or not the OS has support for a light/dark theme preference.",
   "notes_by_num":{
     
   },
