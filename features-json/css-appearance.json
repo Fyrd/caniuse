@@ -7,6 +7,14 @@
     {
       "url":"https://css-tricks.com/almanac/properties/a/appearance/",
       "title":"CSS Tricks article"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1620467",
+      "title":"Firefox implementation bug for unprefixed `apperance`"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=143842",
+      "title":"Safari implementation bug for unprefixed `apperance`"
     }
   ],
   "bugs":[
@@ -384,7 +392,7 @@
   "notes_by_num":{
     "1":"The appearance property is supported with the `none` value, but not `auto`.",
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
-    "3":"-moz-appearance:none doesn't remove the dropdown arrow in select tag"
+    "3":"`-moz-appearance:none` did not remove the dropdown arrow in the select tag"
   },
   "usage_perc_y":27.43,
   "usage_perc_a":68.33,
