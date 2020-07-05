@@ -312,7 +312,8 @@
       "65":"a #7",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -410,8 +411,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":45.59,
-  "usage_perc_a":45.06,
+  "usage_perc_y":45.67,
+  "usage_perc_a":44.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

@@ -298,7 +298,8 @@
       "65":"a #5 #7",
       "66":"a #5 #7",
       "67":"a #5 #7",
-      "68":"a #5 #7"
+      "68":"a #5 #7",
+      "69":"a #5 #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -395,8 +396,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":16.29,
-  "usage_perc_a":79.45,
+  "usage_perc_y":15.04,
+  "usage_perc_a":80.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

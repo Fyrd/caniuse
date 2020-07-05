@@ -300,7 +300,8 @@
       "65":"y #2",
       "66":"y #2",
       "67":"y #2",
-      "68":"y #2"
+      "68":"y #2",
+      "69":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -393,8 +394,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":93.73,
-  "usage_perc_a":3.57,
+  "usage_perc_y":93.34,
+  "usage_perc_a":3.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",
