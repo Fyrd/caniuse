@@ -1,11 +1,11 @@
 {
   "title":"JPEG XR image format",
   "description":"The latest JPEG image format of Joint Photographic Experts Group which boasts better compression and supports lossless compression, alpha channel, and 48-bit deep color over normal jpg format.",
-  "spec":"http://www.itu.int/rec/T-REC-T.832",
+  "spec":"https://www.itu.int/rec/T-REC-T.832",
   "status":"other",
   "links":[
     {
-      "url":"http://msdn.microsoft.com/en-us/library/windows/desktop/hh707223(v=vs.85).aspx",
+      "url":"https://docs.microsoft.com/en-us/windows/win32/wic/jpeg-xr-codec",
       "title":"Microsoft JPEG XR Codec Overview"
     },
     {
