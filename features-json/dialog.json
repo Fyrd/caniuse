@@ -125,7 +125,7 @@
       "77":"n d #1",
       "78":"n d #1",
       "79":"n d #1",
-      "80":"y"
+      "80":"n d #1 #4"
     },
     "chrome":{
       "4":"n",
@@ -389,7 +389,8 @@
   "notes_by_num":{
     "1":"Supported in Firefox by enabling \"dom.dialog_element.enabled\" in about:config",
     "2":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
-    "3":"Enabled through the \"Experimental Web Platform features\" flag in `opera://flags`"
+    "3":"Enabled through the \"Experimental Web Platform features\" flag in `opera://flags`",
+    "4":"Enabled by default in Firefox Nightly only"
   },
   "usage_perc_y":71.48,
   "usage_perc_a":0,
