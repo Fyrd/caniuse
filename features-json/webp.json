@@ -1,6 +1,6 @@
 {
   "title":"WebP image format",
-  "description":"Image format that supports lossy and lossless compression, as well as animation and alpha transparency.",
+  "description":"Image format (based on the VP8 video format) that supports lossy and lossless compression, as well as animation and alpha transparency. WebP has better compression than JPEG, PNG and GIF and is designed to supersede them. [AVIF](#feat=avif) is designed to supersede WebP.",
   "spec":"https://developers.google.com/speed/webp/",
   "status":"unoff",
   "links":[
@@ -9,24 +9,16 @@
       "title":"Official website"
     },
     {
-      "url":"https://antimatter15.com/weppy/demo.html",
-      "title":"Polyfill for browsers with WebM support"
-    },
-    {
       "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
       "title":"Official website FAQ - Which web browsers natively support WebP?"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1294490",
-      "title":"Firefox implementation bug"
+      "url":"https://bitsofco.de/why-and-how-to-use-webp-images-today/",
+      "title":"Bitsofcode - Why and how to use WebP images today"
     },
     {
-      "url":"https://libwebpjs.appspot.com/",
-      "title":"Decoder in JS"
-    },
-    {
-      "url":"https://webpjs.appspot.com/",
-      "title":"Polyfill for browsers with or without WebM support"
+      "url":"https://github.com/webmproject/libwebp",
+      "title":"WebP decoder and encoder"
     }
   ],
   "bugs":[
@@ -411,10 +403,10 @@
   "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"vp8,vp8l,libwebp",
   "ie_id":"webpimageformat",
   "chrome_id":"6471725441089536,4785074604081152",
-  "firefox_id":"",
+  "firefox_id":"web-p",
   "webkit_id":"",
   "shown":true
 }
