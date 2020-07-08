@@ -388,7 +388,7 @@
   },
   "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+, Opera 29+ and Firefox 41+ support clipboard reading/writing only when part of a user action (click, keydown, etc).\r\n\r\nFirefox 40- users [can enable support](https://developer.mozilla.org/en-US/docs/Midas/Security_preferences) with a security preference setting.",
   "notes_by_num":{
-    "1":"Only supports `Text` and `URL` data types and uses [a non-standard method](http://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx) of interacting with the clipboard.",
+    "1":"Only supports `Text` and `URL` data types and uses [a non-standard method](https://msdn.microsoft.com/en-us/library/ie/ms535220%28v=vs.85%29.aspx) of interacting with the clipboard.",
     "2":"Only fires `copy` event on a valid selection and only `cut` and `paste` in focused editable fields.",
     "3":"Only supports OS clipboard reading/writing via shortcut keys, not through `document.execCommand()`.",
     "4":"Only supports `paste` event (on focused editable field).",

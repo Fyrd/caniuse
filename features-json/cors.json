@@ -9,7 +9,7 @@
       "title":"Mozilla Hacks blog post"
     },
     {
-      "url":"http://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
+      "url":"https://msdn.microsoft.com/en-us/library/cc288060(VS.85).aspx",
       "title":"Alternative implementation by IE8"
     },
     {
@@ -27,10 +27,10 @@
   ],
   "bugs":[
     {
-      "description":"IE10+ does not send cookies when withCredential=true ([IE Bug #759587](https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true)). A workaround is [to use a P3P policy](http://www.techrepublic.com/blog/software-engineer/craft-a-p3p-policy-to-make-ie-behave/)"
+      "description":"IE10+ does not send cookies when withCredential=true ([IE Bug #759587](https://connect.microsoft.com/IE/feedback/details/759587/ie10-doesnt-support-cookies-on-cross-origin-xmlhttprequest-withcredentials-true)). A workaround is [to use a P3P policy](https://www.techrepublic.com/blog/software-engineer/craft-a-p3p-policy-to-make-ie-behave/)"
     },
     {
-      "description":"IE10+ does not make a CORS request if port is the only difference ([IE Bug #781303](http://connect.microsoft.com/IE/feedback/details/781303))"
+      "description":"IE10+ does not make a CORS request if port is the only difference ([IE Bug #781303](https://connect.microsoft.com/IE/feedback/details/781303))"
     },
     {
       "description":"Android and some old versions of WebKit (that may be found in various webview implementations) do not support Access-Control-Expose-Headers: https://code.google.com/p/android/issues/detail?id=56726"
@@ -411,7 +411,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Does not support CORS for images in `<canvas>`",
-    "2":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has [limitations](http://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx))",
+    "2":"Supported somewhat in IE8 and IE9 using the XDomainRequest object (but has [limitations](https://blogs.msdn.com/b/ieinternals/archive/2010/05/13/xdomainrequest-restrictions-limitations-and-workarounds.aspx))",
     "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379",
     "4":"Does not support CORS for resources which redirect: https://bugzilla.mozilla.org/show_bug.cgi?id=1346749"
   },

@@ -393,7 +393,7 @@
     "1":"Only supports console functions when developer tools are open, otherwise the `console` object is undefined and any calls will throw errors.",
     "2":"Allows `console` functions to be used without throwing errors, but does not appear to output the data anywhere.",
     "3":"Log output on iOS 6+ Safari can only be seen by connecting to a Mac and using the [Safari debugger](https://developer.apple.com/safari/tools/).",
-    "4":"Log output on older Android browsers can be retrieved via Android's `logcat` command or using Chrome Developer Tools in Android 4.4+/Chrome for Android [see details](http://developer.android.com/guide/webapps/debugging.html)",
+    "4":"Log output on older Android browsers can be retrieved via Android's `logcat` command or using Chrome Developer Tools in Android 4.4+/Chrome for Android [see details](https://developer.android.com/guide/webapps/debugging.html)",
     "5":"Log output on Firefox for Android can be [accessed using WebIDE](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)",
     "6":"See [this article](https://dev.opera.com/articles/opera-mini-and-javascript/) for details on how to see console logging in Opera Mini"
   },
