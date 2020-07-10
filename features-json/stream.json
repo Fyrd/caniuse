@@ -19,6 +19,10 @@
     {
       "url":"https://stackoverflow.com/questions/50800696/getusermedia-in-pwa-with-manifest-on-ios-11",
       "title":"getUserMedia in PWA with manifest on iOS 11"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=185448#c84",
+      "title":"getUserMedia working again in PWA on iOS 13.4"
     }
   ],
   "bugs":[
@@ -27,9 +31,6 @@
     },
     {
       "description":"getUserMedia() is not supported by default in Android webviews, such as Facebook or Snapchat in-app browsers."
-    },
-    {
-      "description":"getUserMedia() is not supported in iOS PWAs."
     }
   ],
   "categories":[
@@ -328,13 +329,13 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.2":"y #3",
-      "11.3-11.4":"y #3",
-      "12.0-12.1":"y #3",
-      "12.2-12.4":"y #3",
-      "13.0-13.1":"y #3",
-      "13.2":"y #3",
-      "13.3":"y #3",
+      "11.0-11.2":"y #3 #4",
+      "11.3-11.4":"y #3 #4",
+      "12.0-12.1":"y #3 #4",
+      "12.2-12.4":"y #3 #4",
+      "13.0-13.1":"y #3 #4",
+      "13.2":"y #3 #4",
+      "13.3":"y #3 #4",
       "13.4-13.5":"y #3",
       "14.0":"y #3"
     },
@@ -404,7 +405,8 @@
   "notes_by_num":{
     "1":"Blink-based (and some other) browsers support an older version of the spec that does not use `srcObject`. [See Chromium issue 387740](https://code.google.com/p/chromium/issues/detail?id=387740).",
     "2":"Supports the older spec's `navigator.getUserMedia` API, not the newer `navigator.mediaDevices.getUserMedia` one.",
-    "3":"Does not work in standalone running (\"installed\") PWAs, `getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari."
+    "3":"`getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari.",
+    "4":"Does not work in standalone running (\"installed\") PWAs."
   },
   "usage_perc_y":93.29,
   "usage_perc_a":1.2,
