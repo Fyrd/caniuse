@@ -13,10 +13,6 @@
       "title":"Sample video from Bitmovin"
     },
     {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/34544281-support-aomedia-video-1-av1",
-      "title":"Microsoft Edge feature request on UserVoice"
-    },
-    {
       "url":"https://www.facebook.com/330716120785217/videos/330723190784510/",
       "title":"Sample video from Facebook"
     },
@@ -30,9 +26,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"AV1 decoding was not available in Firefox on Windows 32-bit starting from Firefox Nightly 63 and through Firefox 65. (It was then re-enabled in Firefox 66.) See [Bug 1445683 - Update aom](https://bugzilla.mozilla.org/show_bug.cgi?id=1445683) and [Bug 1475564 - Build libaom on win32](https://bugzilla.mozilla.org/show_bug.cgi?id=1475564)"
-    }
+    
   ],
   "categories":[
     "Other"
@@ -116,14 +110,14 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n d #5",
-      "56":"n d #5",
-      "57":"n d #5",
-      "58":"n d #5",
-      "59":"n d #5",
-      "60":"n d #5",
-      "61":"n d #4 #5",
-      "62":"n d #4 #5",
+      "55":"n d",
+      "56":"n d",
+      "57":"n d",
+      "58":"n d",
+      "59":"n d",
+      "60":"n d",
+      "61":"n d #4",
+      "62":"n d #4",
       "63":"n d #4",
       "64":"n d #4",
       "65":"a #2 #4",
@@ -207,9 +201,9 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n d #6",
-      "68":"n d #6",
-      "69":"n d #6",
+      "67":"n d",
+      "68":"n d",
+      "69":"n d",
       "70":"y",
       "71":"y",
       "72":"y",
@@ -404,12 +398,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Edge when the AV1 Video Extension (Beta) is installed from the Microsoft Store",
-    "2":"Partial support in Firefox 65 refers to being enabled by default only for Windows 64-bit users (see \"Known Issues\" for lack of 32-bit support.)",
-    "3":"Partial support in Firefox 66 refers to being enabled by default only for Windows and macOS users",
-    "4":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
-    "5":"Only available in Firefox Nightly (applies to older versions of Firefox)",
-    "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
+    "1":"Can be enabled in Edge 18 by installing the AV1 Video Extension from the Microsoft Store",
+    "2":"Firefox 65 only supported Windows 64-bit users by default",
+    "3":"Firefox 66 only supported Windows and macOS users by default",
+    "4":"Can be enabled in older Firefox versions via the `media.av1.enabled` flag in `about:config`"
   },
   "usage_perc_y":35.33,
   "usage_perc_a":0.05,
