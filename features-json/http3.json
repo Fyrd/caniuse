@@ -226,8 +226,8 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
-      "14":"y",
-      "TP":"y"
+      "14":"a #3",
+      "TP":"a #3"
     },
     "opera":{
       "9":"n",
@@ -383,7 +383,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled in Firefox via the `network.http.http3.enabled` pref in `about:config`.",
-    "2":"Can be enabled in Chrome pre-release channels via the `--enable-quic` & `--quic-version=h3-23` command line arguments."
+    "2":"Can be enabled in Chrome pre-release channels via the `--enable-quic` & `--quic-version=h3-23` command line arguments.",
+    "3":"Partial support in Safari refers to being limited to macOS 11 Big Sur and later."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
