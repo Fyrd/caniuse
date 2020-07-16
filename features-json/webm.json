@@ -230,8 +230,8 @@
       "12.1":"a #4",
       "13":"a #4",
       "13.1":"a #4",
-      "14":"a #4",
-      "TP":"a #4"
+      "14":"a #5",
+      "TP":"a #5"
     },
     "opera":{
       "9":"n",
@@ -389,7 +389,8 @@
     "1":"Older browser versions did not support all codecs.",
     "2":"Older Edge versions did not support progressive sources.",
     "3":"Can be enabled in Internet Explorer and Safari for MacOS by manually installing the codecs in the operating system.",
-    "4":"Safari only supports [VP8 used in WebRTC](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/)."
+    "4":"Safari only supports [VP8 used in WebRTC](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/).",
+    "5":"Safari only supports [VP8 used in WebRTC](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/) and [VP9 used in WebRTC](https://webkit.org/blog/10929/release-notes-for-safari-technology-preview-110/)."
   },
   "usage_perc_y":77,
   "usage_perc_a":17.17,
