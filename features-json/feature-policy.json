@@ -1,7 +1,7 @@
 {
   "title":"Feature Policy",
   "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs.",
-  "spec":"https://w3c.github.io/webappsec-feature-policy/",
+  "spec":"https://web.archive.org/web/20200521172301/https://w3c.github.io/webappsec-feature-policy/",
   "status":"unoff",
   "links":[
     {
@@ -13,16 +13,8 @@
       "title":"Introduction to Feature Policy"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1390801",
-      "title":"Firefox implemention ticket"
-    },
-    {
       "url":"https://chrome.google.com/webstore/detail/feature-policy-tester-dev/pchamnkhkeokbpahnocjaeednpbpacop",
       "title":"Feature Policy Tester (Chrome DevTools Extension)"
-    },
-    {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/33507907-support-feature-policy",
-      "title":"MS Edge feature suggestion"
     },
     {
       "url":"https://featurepolicy.info/",
@@ -59,10 +51,10 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"a #1",
-      "80":"a #1",
-      "81":"a #1",
-      "83":"a #1"
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "83":"y"
     },
     "firefox":{
       "2":"n",
@@ -218,18 +210,18 @@
       "71":"a #1",
       "72":"a #1",
       "73":"a #1",
-      "74":"a #1",
-      "75":"a #1",
-      "76":"a #1",
-      "77":"a #1",
-      "78":"a #1",
-      "79":"a #1",
-      "80":"a #1",
-      "81":"a #1",
-      "83":"a #1",
-      "84":"a #1",
-      "85":"a #1",
-      "86":"a #1"
+      "74":"y",
+      "75":"y",
+      "76":"y",
+      "77":"y",
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"u"
     },
     "safari":{
       "3.1":"n",
@@ -312,14 +304,14 @@
       "57":"a #1",
       "58":"a #1",
       "60":"a #1",
-      "62":"a #1",
-      "63":"a #1",
-      "64":"a #1",
-      "65":"a #1",
-      "66":"a #1",
-      "67":"a #1",
-      "68":"a #1",
-      "69":"a #1"
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -335,14 +327,14 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3-11.4":"u",
-      "12.0-12.1":"u",
-      "12.2-12.4":"u",
-      "13.0-13.1":"u",
-      "13.2":"u",
-      "13.3":"u",
-      "13.4-13.5":"u",
-      "14.0":"u"
+      "11.3-11.4":"a #2 #3",
+      "12.0-12.1":"a #2 #3",
+      "12.2-12.4":"a #2 #3",
+      "13.0-13.1":"a #2 #3",
+      "13.2":"a #2 #3",
+      "13.3":"a #2 #3",
+      "13.4-13.5":"a #2 #3",
+      "14.0":"a #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -357,7 +349,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "81":"a #1"
+      "81":"y"
     },
     "bb":{
       "7":"n",
@@ -373,7 +365,7 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"a #1"
+      "81":"y"
     },
     "and_ff":{
       "68":"n"
@@ -393,8 +385,8 @@
       "8.2":"a #1",
       "9.2":"a #1",
       "10.1":"a #1",
-      "11.1-11.2":"a #1",
-      "12.0":"a #1"
+      "11.1-11.2":"y",
+      "12.0":"y"
     },
     "and_qq":{
       "10.4":"a #1"
@@ -406,20 +398,20 @@
       "2.5":"n"
     }
   },
-  "notes":"Standard support includes the HTTP header (`Feature-Policy`), `allow` attribute on iframes, and corresponding JS API.",
+  "notes":"Standard support includes the HTTP `Feature-Policy` header, `allow` attribute on iframes, and corresponding JS API.",
   "notes_by_num":{
-    "1":"Supported through the `Feature-Policy` header and `allow` attribute on iframes. JS API support is available in Chrome 64+ by enabling the \"Experimental Web Platform features\" feature flag in under about:flags.",
-    "2":"Only supports the `allow` attribute on iframes",
-    "3":"Doesn't support [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816)."
+    "1":"Older Chromium browsers did not support the JS API.",
+    "2":"Safari and Firefox only supports the `allow` attribute on iframes.",
+    "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816)."
   },
   "usage_perc_y":0,
   "usage_perc_a":76.92,
   "ucprefix":false,
   "parent":"",
-  "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow",
+  "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",
   "ie_id":"",
   "chrome_id":"5694225681219584",
-  "firefox_id":"",
+  "firefox_id":"feature-policy",
   "webkit_id":"",
   "shown":true
 }
