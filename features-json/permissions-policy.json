@@ -1,32 +1,16 @@
 {
-  "title":"Feature Policy",
-  "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs. Feature Policy is deprecated and has been replaced with [Permissions Policy](#feat=permission-policy) and Document Policy.",
-  "spec":"https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
+  "title":"Permissions Policy",
+  "description":"A security mechanism that allows developers to explicitly enable or disable various powerfull browser features for a given site.",
+  "spec":"https://w3c.github.io/webappsec-feature-policy/",
   "status":"wd",
   "links":[
     {
-      "url":"https://feature-policy-demos.appspot.com/",
-      "title":"Feature Policy Kitchen Sink Demos"
-    },
-    {
-      "url":"https://developers.google.com/web/updates/2018/06/feature-policy",
-      "title":"Introduction to Feature Policy"
-    },
-    {
-      "url":"https://chrome.google.com/webstore/detail/feature-policy-tester-dev/pchamnkhkeokbpahnocjaeednpbpacop",
-      "title":"Feature Policy Tester (Chrome DevTools Extension)"
-    },
-    {
-      "url":"https://featurepolicy.info/",
-      "title":"featurepolicy.info (Feature-Policy Playground)"
-    },
-    {
-      "url":"https://github.com/w3c/webappsec-feature-policy/blob/master/features.md",
-      "title":"List of known features"
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1531012",
+      "title":"Firefox implementation tracker"
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "JS API",
@@ -51,10 +35,10 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"y",
-      "80":"y",
-      "81":"y",
-      "83":"y"
+      "79":"n #1",
+      "80":"n #1",
+      "81":"n #1",
+      "83":"n #1"
     },
     "firefox":{
       "2":"n",
@@ -131,13 +115,13 @@
       "71":"n",
       "72":"n",
       "73":"n",
-      "74":"a #2",
-      "75":"a #2",
-      "76":"a #2",
-      "77":"a #2",
-      "78":"a #2",
-      "79":"a #2",
-      "80":"a #2"
+      "74":"n #1",
+      "75":"n #1",
+      "76":"n #1",
+      "77":"n #1",
+      "78":"n #1",
+      "79":"n #1",
+      "80":"n #1"
     },
     "chrome":{
       "4":"n",
@@ -196,32 +180,32 @@
       "57":"n",
       "58":"n",
       "59":"n",
-      "60":"a #1",
-      "61":"a #1",
-      "62":"a #1",
-      "63":"a #1",
-      "64":"a #1",
-      "65":"a #1",
-      "66":"a #1",
-      "67":"a #1",
-      "68":"a #1",
-      "69":"a #1",
-      "70":"a #1",
-      "71":"a #1",
-      "72":"a #1",
-      "73":"a #1",
-      "74":"y",
-      "75":"y",
-      "76":"y",
-      "77":"y",
-      "78":"y",
-      "79":"y",
-      "80":"y",
-      "81":"y",
-      "83":"y",
-      "84":"y",
-      "85":"y",
-      "86":"u #4"
+      "60":"n #1",
+      "61":"n #1",
+      "62":"n #1",
+      "63":"n #1",
+      "64":"n #1",
+      "65":"n #1",
+      "66":"n #1",
+      "67":"n #1",
+      "68":"n #1",
+      "69":"n #1",
+      "70":"n #1",
+      "71":"n #1",
+      "72":"n #1",
+      "73":"n #1",
+      "74":"n #1",
+      "75":"n #1",
+      "76":"n #1",
+      "77":"n #1",
+      "78":"n #1",
+      "79":"n #1",
+      "80":"n #1",
+      "81":"n #1",
+      "83":"n #1",
+      "84":"n #1",
+      "85":"n #1",
+      "86":"y"
     },
     "safari":{
       "3.1":"n",
@@ -239,13 +223,13 @@
       "10":"n",
       "10.1":"n",
       "11":"n",
-      "11.1":"a #2 #3",
-      "12":"a #2 #3",
-      "12.1":"a #2 #3",
-      "13":"a #2 #3",
-      "13.1":"a #2 #3",
-      "14":"a #2 #3",
-      "TP":"a #2 #3"
+      "11.1":"n #1",
+      "12":"n #1",
+      "12.1":"n #1",
+      "13":"n #1",
+      "13.1":"n #1",
+      "14":"n #1",
+      "TP":"n #1"
     },
     "opera":{
       "9":"n",
@@ -291,27 +275,27 @@
       "44":"n",
       "45":"n",
       "46":"n",
-      "47":"a #1",
-      "48":"a #1",
-      "49":"a #1",
-      "50":"a #1",
-      "51":"a #1",
-      "52":"a #1",
-      "53":"a #1",
-      "54":"a #1",
-      "55":"a #1",
-      "56":"a #1",
-      "57":"a #1",
-      "58":"a #1",
-      "60":"a #1",
-      "62":"y",
-      "63":"y",
-      "64":"y",
-      "65":"y",
-      "66":"y",
-      "67":"y",
-      "68":"y",
-      "69":"y"
+      "47":"n #1",
+      "48":"n #1",
+      "49":"n #1",
+      "50":"n #1",
+      "51":"n #1",
+      "52":"n #1",
+      "53":"n #1",
+      "54":"n #1",
+      "55":"n #1",
+      "56":"n #1",
+      "57":"n #1",
+      "58":"n #1",
+      "60":"n #1",
+      "62":"n #1",
+      "63":"n #1",
+      "64":"n #1",
+      "65":"n #1",
+      "66":"n #1",
+      "67":"n #1",
+      "68":"n #1",
+      "69":"n #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -327,14 +311,14 @@
       "10.0-10.2":"n",
       "10.3":"n",
       "11.0-11.2":"n",
-      "11.3-11.4":"a #2 #3",
-      "12.0-12.1":"a #2 #3",
-      "12.2-12.4":"a #2 #3",
-      "13.0-13.1":"a #2 #3",
-      "13.2":"a #2 #3",
-      "13.3":"a #2 #3",
-      "13.4-13.5":"a #2 #3",
-      "14.0":"a #2 #3"
+      "11.3-11.4":"n #1",
+      "12.0-12.1":"n #1",
+      "12.2-12.4":"n #1",
+      "13.0-13.1":"n #1",
+      "13.2":"n #1",
+      "13.3":"n #1",
+      "13.4-13.5":"n #1",
+      "14.0":"n #1"
     },
     "op_mini":{
       "all":"n"
@@ -349,7 +333,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "81":"y"
+      "81":"n #1"
     },
     "bb":{
       "7":"n",
@@ -365,7 +349,7 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "81":"n #1"
     },
     "and_ff":{
       "68":"n"
@@ -382,14 +366,14 @@
       "5.0-5.4":"n",
       "6.2-6.4":"n",
       "7.2-7.4":"n",
-      "8.2":"a #1",
-      "9.2":"a #1",
-      "10.1":"a #1",
-      "11.1-11.2":"y",
-      "12.0":"y"
+      "8.2":"n #1",
+      "9.2":"n #1",
+      "10.1":"n #1",
+      "11.1-11.2":"n #1",
+      "12.0":"n #1"
     },
     "and_qq":{
-      "10.4":"a #1"
+      "10.4":"n #1"
     },
     "baidu":{
       "7.12":"n"
@@ -398,21 +382,18 @@
       "2.5":"n"
     }
   },
-  "notes":"Standard support includes the HTTP `Feature-Policy` header, `allow` attribute on iframes, and corresponding JS API.",
+  "notes":"Standard support includes the HTTP `Permissions-Policy` header, `allow` attribute on iframes, and corresponding JS API.",
   "notes_by_num":{
-    "1":"Older Chromium browsers did not support the JS API.",
-    "2":"Safari and Firefox only supports the `allow` attribute on iframes.",
-    "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
-    "4":"Supports [Permissions Policy](#feat=permissions-policy), the main replacement for this spec."
+    "1":"Supports [Feature Policy](#feat=feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
-  "usage_perc_a":76.92,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",
+  "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy,permissions-policy,document.permissionsPolicy",
+  "shown":false,
   "ie_id":"",
-  "chrome_id":"5694225681219584",
-  "firefox_id":"feature-policy",
-  "webkit_id":"",
-  "shown":true
+  "chrome_id":"5745992911552512",
+  "firefox_id":"",
+  "webkit_id":""
 }
