@@ -218,8 +218,8 @@
       "81":"y",
       "83":"y",
       "84":"y",
-      "85":"a #4 #5",
-      "86":"a #4 #5"
+      "85":"a #3 #4",
+      "86":"a #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -400,9 +400,8 @@
   "notes_by_num":{
     "1":"Firefox 68+ displays a small warning icon in the address bar when connecting over tls 1.1",
     "2":"Firefox 78+ displays a full page dismissable warning the first time it connects over tls 1.1",
-    "3":"Safari for MacOS 13.1+ displays `Not secure` in the address bar when connecting over tls 1.1",
-    "4":"Chrome 85+ displays `Not secure` in the address bar when connecting over tls 1.1",
-    "5":"Chrome 85+ displays a full page dismissable warning every time a new site connects over tls 1.1"
+    "3":"Chrome 85+ and Safari for MacOS 13.1+ displays `Not secure` in the address bar when connecting over tls 1.1",
+    "4":"Chrome 85+ displays a full page dismissable warning every time a new site connects over tls 1.1"
   },
   "usage_perc_y":97.14,
   "usage_perc_a":0,
