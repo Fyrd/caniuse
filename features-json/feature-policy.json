@@ -1,6 +1,6 @@
 {
   "title":"Feature Policy",
-  "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs. Feature Policy is deprecated and has been replaced with [Permissions Policy](#feat=permission-policy) and Document Policy.",
+  "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs. Feature Policy is deprecated and has been replaced with [Permissions Policy](#feat=permission-policy) and [Document Policy](#feat=document-policy).",
   "spec":"https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
   "status":"wd",
   "links":[
