@@ -221,7 +221,7 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"u #4"
+      "86":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -398,7 +398,7 @@
       "2.5":"n"
     }
   },
-  "notes":"Standard support includes the HTTP `Feature-Policy` header, `allow` attribute on iframes, and corresponding JS API.",
+  "notes":"Standard support includes the HTTP `Feature-Policy` header, `allow` attribute on iframes and the `document.featurePolicy` JS API.",
   "notes_by_num":{
     "1":"Older Chromium browsers did not support the JS API.",
     "2":"Safari and Firefox only supports the `allow` attribute on iframes.",
@@ -411,7 +411,7 @@
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",
   "ie_id":"",
-  "chrome_id":"5694225681219584",
+  "chrome_id":"5694225681219584,5190687460950016",
   "firefox_id":"feature-policy",
   "webkit_id":"",
   "shown":true
