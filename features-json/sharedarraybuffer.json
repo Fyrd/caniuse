@@ -7,6 +7,10 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer",
       "title":"MDN article"
+    },
+    {
+      "url":"https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/",
+      "title":"Mozilla Hacks article on safely reviving shared memory"
     }
   ],
   "bugs":[
@@ -118,8 +122,8 @@
       "76":"n d #1 #2",
       "77":"n d #1 #2",
       "78":"n d #1 #2",
-      "79":"y",
-      "80":"y"
+      "79":"y #3",
+      "80":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -383,7 +387,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Has support, but was disabled across browsers in January 2018 due to Spectre & Meltdown vulnerabilities.",
-    "2":"Enabled by default in Nightly, but not in Beta/Developer/Release yet."
+    "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
+    "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](#feat=mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](#feat=mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
   "usage_perc_y":33.69,
   "usage_perc_a":0,
