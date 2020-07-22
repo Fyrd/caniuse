@@ -13,8 +13,16 @@
       "title":"Introduction to Feature Policy"
     },
     {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1390801",
+      "title":"Firefox implemention ticket"
+    },
+    {
       "url":"https://chrome.google.com/webstore/detail/feature-policy-tester-dev/pchamnkhkeokbpahnocjaeednpbpacop",
       "title":"Feature Policy Tester (Chrome DevTools Extension)"
+    },
+    {
+      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/33507907-support-feature-policy",
+      "title":"MS Edge feature suggestion"
     },
     {
       "url":"https://featurepolicy.info/",
@@ -54,7 +62,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y"
     },
     "firefox":{
       "2":"n",
@@ -221,7 +230,8 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y #4"
+      "86":"y #4",
+      "87":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -365,7 +375,7 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "84":"y"
     },
     "and_ff":{
       "68":"n"
@@ -405,8 +415,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"Supports [Permissions Policy](#feat=permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":78.01,
+  "usage_perc_y":69.3,
+  "usage_perc_a":20.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",

@@ -1,6 +1,6 @@
 {
   "title":"Permissions Policy",
-  "description":"A security mechanism that allows developers to explicitly enable or disable various powerfull browser features for a given site. Similar to [Document Policy](#feat=document-policy).",
+  "description":"A security mechanism that allows developers to explicitly enable or disable various powerful browser features for a given site. Similar to [Document Policy](#feat=document-policy).",
   "spec":"https://w3c.github.io/webappsec-feature-policy/",
   "status":"wd",
   "links":[
@@ -14,7 +14,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "JS API",
@@ -42,7 +42,8 @@
       "79":"n #2",
       "80":"n #2",
       "81":"n #2",
-      "83":"n #2"
+      "83":"n #2",
+      "84":"n #2"
     },
     "firefox":{
       "2":"n",
@@ -209,7 +210,8 @@
       "83":"n #2",
       "84":"n #2",
       "85":"n #2",
-      "86":"n d #1 #2"
+      "86":"n d #1 #2",
+      "87":"n d #1 #2"
     },
     "safari":{
       "3.1":"n",
@@ -353,7 +355,7 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"n #2"
+      "84":"n #2"
     },
     "and_ff":{
       "68":"n"
@@ -396,9 +398,9 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature policy,feature-policy,document.featurePolicy,document.policy,permissions-policy,document.permissionsPolicy",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"5745992911552512",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":true
 }

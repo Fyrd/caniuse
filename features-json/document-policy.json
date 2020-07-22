@@ -9,12 +9,12 @@
       "title":"W3C - Document Policy Explainer"
     },
     {
-        "url":"https://mozilla.github.io/standards-positions/#document-policy",
-        "title":"Firefox position: non-harmful"
+      "url":"https://mozilla.github.io/standards-positions/#document-policy",
+      "title":"Firefox position: non-harmful"
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "Other",
@@ -41,7 +41,8 @@
       "79":"n",
       "80":"n",
       "81":"n",
-      "83":"n"
+      "83":"n",
+      "84":"n"
     },
     "firefox":{
       "2":"n",
@@ -208,7 +209,8 @@
       "83":"n",
       "84":"n",
       "85":"n",
-      "86":"n"
+      "86":"n",
+      "87":"n"
     },
     "safari":{
       "3.1":"n",
@@ -352,7 +354,7 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"n"
+      "84":"n"
     },
     "and_ff":{
       "68":"n"
@@ -387,15 +389,16 @@
   },
   "notes":"Standard support includes the HTTP `Document-Policy` header and `policy` attribute on iframes.",
   "notes_by_num":{
+    
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,policy,attribute,policy attribute,attribute policy,feature-policy,feature policy,document-policy",
-  "shown":false,
   "ie_id":"",
   "chrome_id":"5756689661820928",
   "firefox_id":"",
-  "webkit_id":""
+  "webkit_id":"",
+  "shown":true
 }
