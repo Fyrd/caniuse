@@ -1,12 +1,16 @@
 {
   "title":"Trusted Types for DOM manipulation",
-  "description":"An API that forces the developer to be very explicit about their use of powerful DOM-injection APIs. Can greatly improve security against XSS attacks.",
+  "description":"An API that forces developers to be very explicit about their use of powerful DOM-injection APIs. Can greatly improve security against XSS attacks.",
   "spec":"https://w3c.github.io/webappsec-trusted-types/dist/spec/",
   "status":"unoff",
   "links":[
     {
       "url":"https://web.dev/trusted-types/",
       "title":"Web.dev article on using trusted types"
+    },
+    {
+      "url":"https://mozilla.github.io/standards-positions/#trusted-types",
+      "title":"Firefox position: non-harmful"
     }
   ],
   "bugs":[
