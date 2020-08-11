@@ -13,7 +13,7 @@
       "title":"Chrome Platform Status - Prevent scrolling in HTMLElement.focus()"
     },
     {
-      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/14314565/",
+      "url":"https://web.archive.org/web/20190401133643/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/14314565/",
       "title":"Edge Bug 14314565 - Enable ability to prevent scrolling in Element.focus()"
     },
     {
@@ -43,8 +43,8 @@
       "14":"n",
       "15":"n",
       "16":"n",
-      "17":"n",
-      "18":"n",
+      "17":"a #1",
+      "18":"a #1",
       "79":"y",
       "80":"y",
       "81":"y",
@@ -397,7 +397,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in Edge refers to scrolling to text inputs or textareas, even when using preventScroll. Submit inputs and buttons work as expected."
   },
   "usage_perc_y":32.49,
   "usage_perc_a":0,
