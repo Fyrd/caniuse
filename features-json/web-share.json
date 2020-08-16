@@ -51,9 +51,9 @@
       "18":"n",
       "79":"n",
       "80":"n",
-      "81":"y",
-      "83":"y",
-      "84":"y"
+      "81":"a #4",
+      "83":"a #4",
+      "84":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -403,7 +403,8 @@
   "notes_by_num":{
     "1":"Partial support refers to feature only being available for sites opting into the [origin trial](https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md)",
     "2":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
-    "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead."
+    "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead.",
+    "4":"support is only for Windows."
   },
   "usage_perc_y":52.31,
   "usage_perc_a":0,
