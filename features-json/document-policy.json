@@ -1,7 +1,7 @@
 {
   "title":"Document Policy",
-  "description":"A mechanism that allows developers to set certain rules and policies for a given site. The rules can change default browser behaviour, limit the use of certain features or limit how many resources the website can use. Document Policy is useful both for security and performance, and is similar to [Permissions Policy](#feat=permissions-policy).",
-  "spec":"https://w3c.github.io/webappsec-feature-policy/document-policy.html",
+  "description":"A mechanism that allows developers to set certain rules and policies for a given site. The rules can change default browser behaviour, block certain features or set limits on resource usage. Document Policy is useful both for security and performance, and is similar to [Permissions Policy](#feat=permissions-policy).",
+  "spec":"https://w3c.github.io/webappsec-permissions-policy/document-policy.html",
   "status":"unoff",
   "links":[
     {
@@ -11,6 +11,10 @@
     {
       "url":"https://mozilla.github.io/standards-positions/#document-policy",
       "title":"Firefox position: non-harmful"
+    },
+    {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=993790",
+      "title":"Chromium tracking bug for new policies"
     }
   ],
   "bugs":[
@@ -209,9 +213,9 @@
       "81":"n",
       "83":"n",
       "84":"n",
-      "85":"n",
-      "86":"n",
-      "87":"n"
+      "85":"a #1",
+      "86":"a #1",
+      "87":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -390,15 +394,15 @@
   },
   "notes":"Standard support includes the HTTP `Document-Policy` header and `policy` attribute on iframes.",
   "notes_by_num":{
-    
+    "1":"Chromium browsers only support the HTTP header"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"feature,security,header,policy,attribute,policy attribute,attribute policy,feature-policy,feature policy,document-policy",
+  "keywords":"feature,security,header,policy,attribute,policy attribute,attribute policy,feature-policy,feature policy,document-policy,force-load-at-top",
   "ie_id":"",
-  "chrome_id":"5756689661820928",
+  "chrome_id":"5645593894453248,5756689661820928,5744681033924608",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
