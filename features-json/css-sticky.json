@@ -35,6 +35,9 @@
     },
     {
       "description":"A parent with overflow set to `auto` will prevent `position: sticky` from working in Safari"
+    },
+    {
+      "description":"Browsers implement the dynamic change in the height of a sticky element [differently](https://stackoverflow.com/q/62249752/2932484).
     }
   ],
   "categories":[
