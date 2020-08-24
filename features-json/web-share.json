@@ -47,9 +47,9 @@
       "18":"n",
       "79":"n",
       "80":"n",
-      "81":"n",
-      "83":"n",
-      "84":"n"
+      "81":"a #3",
+      "83":"a #3",
+      "84":"a #3"
     },
     "firefox":{
       "2":"n",
@@ -398,10 +398,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
-    "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead."
+    "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead.",
+    "3":"Only supported on Windows"
   },
   "usage_perc_y":52.31,
-  "usage_perc_a":0,
+  "usage_perc_a":1.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",
