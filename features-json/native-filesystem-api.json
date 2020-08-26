@@ -9,8 +9,12 @@
       "title":"Explainer"
     },
     {
-      "url":"https://developers.google.com/web/updates/2019/08/native-file-system",
-      "title":"Chrome blog post"
+      "url":"https://web.dev/native-file-system/",
+      "title":"Web.dev blog post"
+    },
+    {
+      "url":"https://mozilla.github.io/standards-positions/#native-file-system",
+      "title":"Firefox position: defer"
     }
   ],
   "bugs":[
@@ -391,14 +395,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled in desktop Chromium browsers with the \u00b4#native-file-system-api\u00b4 flag",
-    "2":"Part of an origin trial"
+    "1":"Can be enabled in desktop Chromium browsers with the `#native-file-system-api` flag"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"chooseFileSystemEntries,getFile",
+  "keywords":"File System,File System API,chooseFileSystemEntries,getFile",
   "ie_id":"",
   "chrome_id":"6284708426022912",
   "firefox_id":"",
