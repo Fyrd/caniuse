@@ -1,28 +1,24 @@
 {
   "title":"Web Share API",
   "description":"A way to allow websites to invoke the native sharing capabilities of the host platform",
-  "spec":"https://wicg.github.io/web-share/",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/web-share/",
+  "status":"wd",
   "links":[
     {
-      "url":"https://developers.google.com/web/updates/2016/10/navigator-share",
-      "title":"Chrome post"
+      "url":"https://web.dev/web-share/",
+      "title":"Web.dev - Share like a native app with the Web Share API"
     },
     {
       "url":"https://blog.hospodarets.com/web-share-api",
-      "title":"Web Share API brings the native sharing capabilities to the browser"
+      "title":"Hospodarets - Web Share API brings the native sharing capabilities to the browser"
     },
     {
       "url":"https://philna.sh/blog/2017/03/14/the-web-share-api/",
-      "title":"Web Share API"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1312422",
-      "title":"Mozilla bug #1312422: Consider experimental support for Web Share API"
+      "title":"Phil Nash - The Web Share API"
     },
     {
       "url":"https://love2dev.com/blog/webshare-api/",
-      "title":"How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
+      "title":"Love2Dev - How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
     }
   ],
   "bugs":[
@@ -51,9 +47,9 @@
       "18":"n",
       "79":"n",
       "80":"n",
-      "81":"a #4",
-      "83":"a #4",
-      "84":"a #4"
+      "81":"a #3",
+      "83":"a #3",
+      "84":"a #3"
     },
     "firefox":{
       "2":"n",
@@ -155,13 +151,13 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n #2",
-      "19":"n #2",
-      "20":"n #2",
-      "21":"n #2",
-      "22":"n #2",
-      "23":"n #2",
-      "24":"n #2",
+      "18":"n #1",
+      "19":"n #1",
+      "20":"n #1",
+      "21":"n #1",
+      "22":"n #1",
+      "23":"n #1",
+      "24":"n #1",
       "25":"n",
       "26":"n",
       "27":"n",
@@ -233,7 +229,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
+      "6.1":"n",
       "7":"n",
       "7.1":"n",
       "8":"n",
@@ -351,8 +347,8 @@
       "4.1":"n",
       "4.2-4.3":"n",
       "4.4":"n",
-      "4.4.3-4.4.4":"n #3",
-      "81":"n #3"
+      "4.4.3-4.4.4":"n #2",
+      "81":"n #2"
     },
     "bb":{
       "7":"n",
@@ -371,7 +367,7 @@
       "84":"y"
     },
     "and_ff":{
-      "68":"n #3"
+      "68":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -382,9 +378,9 @@
     },
     "samsung":{
       "4":"n",
-      "5.0-5.4":"n #3",
-      "6.2-6.4":"n #3",
-      "7.2-7.4":"n #3",
+      "5.0-5.4":"n #2",
+      "6.2-6.4":"n #2",
+      "7.2-7.4":"n #2",
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
@@ -403,17 +399,16 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to feature only being available for sites opting into the [origin trial](https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md)",
-    "2":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
-    "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead.",
-    "4":"support is only for Windows."
+    "1":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
+    "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead.",
+    "3":"Only supported on Windows"
   },
   "usage_perc_y":52.31,
   "usage_perc_a":1.89,
   "ucprefix":false,
   "parent":"",
-  "keywords":"web share,share, share api,intents api",
-  "ie_id":"",
+  "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",
+  "ie_id":"webshareapi",
   "chrome_id":"5668769141620736",
   "firefox_id":"",
   "webkit_id":"feature-web-share",
