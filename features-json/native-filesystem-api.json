@@ -9,16 +9,16 @@
       "title":"Explainer"
     },
     {
-      "url":"https://developers.google.com/web/updates/2019/08/native-file-system",
-      "title":"Chrome blog post"
-    },
-    {
       "url":"https://web.dev/native-file-system/",
       "title":"Web.dev blog post"
     },
     {
       "url":"https://mozilla.github.io/standards-positions/#native-file-system",
       "title":"Firefox position: defer"
+    },
+    {
+      "url":"https://developers.google.com/web/updates/2019/08/native-file-system",
+      "title":"Chrome blog post"
     }
   ],
   "bugs":[
@@ -367,7 +367,7 @@
       "84":"n"
     },
     "and_ff":{
-      "68":"n"
+      "79":"n"
     },
     "ie_mob":{
       "10":"n",

@@ -5,8 +5,8 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://web.dev/web-share/",
-      "title":"Web.dev - Share like a native app with the Web Share API"
+      "url":"https://developers.google.com/web/updates/2016/10/navigator-share",
+      "title":"Chrome post"
     },
     {
       "url":"https://blog.hospodarets.com/web-share-api",
@@ -17,8 +17,16 @@
       "title":"Phil Nash - The Web Share API"
     },
     {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1312422",
+      "title":"Mozilla bug #1312422: Consider experimental support for Web Share API"
+    },
+    {
       "url":"https://love2dev.com/blog/webshare-api/",
-      "title":"Love2Dev - How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
+      "title":"How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
+    },
+    {
+      "url":"https://web.dev/web-share/",
+      "title":"Web.dev - Share like a native app with the Web Share API"
     }
   ],
   "bugs":[
@@ -367,7 +375,7 @@
       "84":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -401,9 +409,10 @@
   "notes_by_num":{
     "1":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
     "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead.",
-    "3":"Only supported on Windows"
+    "3":"Only supported on Windows",
+    "4":"support is only for Windows."
   },
-  "usage_perc_y":52.31,
+  "usage_perc_y":52.56,
   "usage_perc_a":1.89,
   "ucprefix":false,
   "parent":"",
