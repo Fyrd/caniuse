@@ -83,6 +83,7 @@ Good/preferred pull requests for new features meet the following criteria:
 * PR includes a link to the test case(s) used to test support (can be codepen, jsfiddle, etc)
 * Support data was properly validated using either test cases or from information from reliable sources. If you don't know be sure to use `u` for unknown support, though it may be fine to make the more obvious extrapolations like really old browsers not supporting the latest APIs, etc.
 * The more actual support information, the better (rather than most data simply being `u`nknown). https://www.browserstack.com and https://saucelabs.com are excellent tools for good cross-browser support testing. In order to keep caniuse useful, features won't be included on the site until almost all included browsers have actual support information. This does not however apply to older and lesser used browser versions.
+	* Opera Mini can be [tested through an emulator](https://dev.opera.com/articles/installing-opera-mini-on-your-computer/).
 
 ### Unsupported changes
 
