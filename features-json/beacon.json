@@ -11,9 +11,6 @@
   ],
   "bugs":[
     {
-      "description":"Chrome [has a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=490015) with sendBeacon and arbitrary content-type."
-    },
-    {
       "description":"Safari 11.1 \u2013 12.2 on macOS and iOS [have a bug](https://bugs.webkit.org/show_bug.cgi?id=188329) with sendBeacon in a pagehide event listener. Fixed in iOS 12.3."
     },
     {
