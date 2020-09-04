@@ -318,7 +318,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -413,8 +414,8 @@
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
   },
-  "usage_perc_y":76.48,
-  "usage_perc_a":15.49,
+  "usage_perc_y":76.35,
+  "usage_perc_a":15.32,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\",input date,datetime-local",

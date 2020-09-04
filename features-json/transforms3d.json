@@ -332,7 +332,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -424,8 +425,8 @@
     "1":"Partial support in IE refers to not supporting [the transform-style: preserve-3d property](http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property). This prevents nesting 3D transformed elements.",
     "2":"Safari 9 - 13 still require a prefix for the related `backface-visibility` property. [WebKit Bug 170983](https://bugs.webkit.org/show_bug.cgi?id=170983) requests prefix removal."
   },
-  "usage_perc_y":96.33,
-  "usage_perc_a":1.36,
+  "usage_perc_y":95.93,
+  "usage_perc_a":1.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"css 3d,3dtransforms,translate3d,backface visibility,perspective,transform-origin,transform-style",
