@@ -5,11 +5,15 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://www.w3.org/WAI/intro/aria",
-      "title":"Information page"
+      "url":"https://a11ysupport.io/",
+      "title":"a11ysupport.io - Accessibility Support data for various HTML, ARIA, CSS, and SVG features"
     },
     {
-      "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
+      "url":"https://www.w3.org/WAI/standards-guidelines/aria/",
+      "title":"WAI-ARIA Overview"
+    },
+    {
+      "url":"https://developer.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
       "title":"Links to various test results"
     },
     {
@@ -17,8 +21,8 @@
       "title":"Wikipedia"
     },
     {
-      "url":"http://www.alistapart.com/articles/the-accessibility-of-wai-aria/",
-      "title":"ALA Article"
+      "url":"https://alistapart.com/article/the-accessibility-of-wai-aria/",
+      "title":"A List Apart - The Accessibility of WAI-ARIA"
     },
     {
       "url":"http://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
@@ -410,7 +414,7 @@
   "usage_perc_a":97.25,
   "ucprefix":false,
   "parent":"",
-  "keywords":"wai,aria",
+  "keywords":"wai,aria,wai-aria,web accessibility initiative,accessible rich internet applications,html,a11y,accessible,aria-hidden,aria-labelledby,aria-haspopup,aria-expanded,aria-controls,roles",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
