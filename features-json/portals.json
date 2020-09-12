@@ -206,10 +206,10 @@
       "81":"n d #1",
       "83":"n d #1",
       "84":"n d #1",
-      "85":"n d #1",
-      "86":"n d #1",
-      "87":"n d #1",
-      "88":"n d #1"
+      "85":"n d #1 #2",
+      "86":"n d #2",
+      "87":"n d #2",
+      "88":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -389,7 +389,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Available when registered for [origin trial](https://web.dev/hands-on-portals/#register-for-ot)",
+    "2":"Available by enabling the `#enable-portals` flag at `chrome://flags/`"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
