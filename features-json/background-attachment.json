@@ -330,7 +330,7 @@
       "13.0-13.1":"a #2 #3",
       "13.2":"a #2 #3",
       "13.3":"a #2 #3",
-      "13.4-13.5":"a #2 #3",
+      "13.4-13.7":"a #2 #3",
       "14.0":"a #2 #3"
     },
     "op_mini":{
@@ -402,7 +402,7 @@
     "3":"Only supports `local` when `-webkit-overflow-scrolling: touch` is _not_ used",
     "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element."
   },
-  "usage_perc_y":81.92,
+  "usage_perc_y":82.09,
   "usage_perc_a":15.42,
   "ucprefix":false,
   "parent":"",
