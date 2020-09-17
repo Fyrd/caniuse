@@ -44,7 +44,9 @@
       "79":"a #1",
       "80":"a #1",
       "81":"a #1",
-      "83":"a #1"
+      "83":"a #1",
+      "84":"a #1",
+      "85":"a #1"
     },
     "firefox":{
       "2":"a #1",
@@ -127,7 +129,9 @@
       "77":"a #1",
       "78":"a #1",
       "79":"a #1",
-      "80":"a #1"
+      "80":"a #1",
+      "81":"a #1",
+      "82":"a #1"
     },
     "chrome":{
       "4":"a #1",
@@ -211,7 +215,9 @@
       "83":"a #1",
       "84":"a #1",
       "85":"a #1",
-      "86":"a #1"
+      "86":"a #1",
+      "87":"a #1",
+      "88":"a #1"
     },
     "safari":{
       "3.1":"a #1",
@@ -301,7 +307,8 @@
       "66":"a #1",
       "67":"a #1",
       "68":"a #1",
-      "69":"a #1"
+      "69":"a #1",
+      "70":"a #1"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -323,7 +330,7 @@
       "13.0-13.1":"a #1",
       "13.2":"a #1",
       "13.3":"a #1",
-      "13.4-13.5":"a #1",
+      "13.4-13.7":"a #1",
       "14.0":"a #1"
     },
     "op_mini":{
@@ -355,10 +362,10 @@
       "46":"a #1"
     },
     "and_chr":{
-      "81":"a #1"
+      "85":"a #1"
     },
     "and_ff":{
-      "68":"a #1"
+      "79":"a #1"
     },
     "ie_mob":{
       "10":"a #1",
@@ -394,7 +401,7 @@
     "2":"Early versions of Chrome [experimented](https://www.imperialviolet.org/2011/06/16/dnssecchrome.html) with browser-level validation."
   },
   "usage_perc_y":0,
-  "usage_perc_a":98.37,
+  "usage_perc_a":98.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"DNS Security Extensions,Domain Name System Security Extensions,DNS based Authentication of Named Entities",

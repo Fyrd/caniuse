@@ -48,7 +48,9 @@
       "79":"a #4",
       "80":"a #4",
       "81":"a #4",
-      "83":"a #4"
+      "83":"a #4",
+      "84":"a #4",
+      "85":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -131,7 +133,9 @@
       "77":"a #4 #5",
       "78":"a #4 #5",
       "79":"a #4 #5",
-      "80":"a #4 #5"
+      "80":"a #4 #5",
+      "81":"a #4 #5",
+      "82":"a #4 #5"
     },
     "chrome":{
       "4":"u",
@@ -215,7 +219,9 @@
       "83":"a #4",
       "84":"a #4",
       "85":"a #4",
-      "86":"a #4"
+      "86":"a #4",
+      "87":"a #4",
+      "88":"a #4"
     },
     "safari":{
       "3.1":"u",
@@ -305,7 +311,8 @@
       "66":"a #4",
       "67":"a #4",
       "68":"a #4",
-      "69":"a #4"
+      "69":"a #4",
+      "70":"a #4"
     },
     "ios_saf":{
       "3.2":"u",
@@ -327,7 +334,7 @@
       "13.0-13.1":"a #1",
       "13.2":"a #1",
       "13.3":"a #1",
-      "13.4-13.5":"a #1",
+      "13.4-13.7":"a #1",
       "14.0":"a #1"
     },
     "op_mini":{
@@ -359,10 +366,10 @@
       "46":"a #1"
     },
     "and_chr":{
-      "81":"a #4"
+      "85":"a #4"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -400,8 +407,8 @@
     "4":"Only replaces `WebkitCSSMatrix` and not `SVGMatrix`",
     "5":"Does not support `fromMatrix()`, `fromFloat32Array()`, `fromFloat64Array()`, and `toJSON()` methods"
   },
-  "usage_perc_y":0.25,
-  "usage_perc_a":96.66,
+  "usage_perc_y":0.26,
+  "usage_perc_a":96.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",

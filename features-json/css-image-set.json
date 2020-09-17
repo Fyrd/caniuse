@@ -44,7 +44,9 @@
       "79":"y x",
       "80":"y x",
       "81":"y x",
-      "83":"y x"
+      "83":"y x",
+      "84":"y x",
+      "85":"y x"
     },
     "firefox":{
       "2":"n",
@@ -127,7 +129,9 @@
       "77":"n",
       "78":"n",
       "79":"n",
-      "80":"n"
+      "80":"n",
+      "81":"n",
+      "82":"n"
     },
     "chrome":{
       "4":"n",
@@ -211,7 +215,9 @@
       "83":"y x",
       "84":"y x",
       "85":"y x",
-      "86":"y x"
+      "86":"y x",
+      "87":"y x",
+      "88":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -301,7 +307,8 @@
       "66":"y x",
       "67":"y x",
       "68":"y x",
-      "69":"y x"
+      "69":"y x",
+      "70":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -323,7 +330,7 @@
       "13.0-13.1":"y #1",
       "13.2":"y #1",
       "13.3":"y #1",
-      "13.4-13.5":"y #1",
+      "13.4-13.7":"y #1",
       "14.0":"y #1"
     },
     "op_mini":{
@@ -355,10 +362,10 @@
       "46":"y x"
     },
     "and_chr":{
-      "81":"y x"
+      "85":"y x"
     },
     "and_ff":{
-      "68":"n"
+      "79":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -392,7 +399,7 @@
   "notes_by_num":{
     "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See https://bugs.webkit.org/show_bug.cgi?id=160934."
   },
-  "usage_perc_y":89.24,
+  "usage_perc_y":90.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

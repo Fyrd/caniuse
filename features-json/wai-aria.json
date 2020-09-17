@@ -5,24 +5,28 @@
   "status":"rec",
   "links":[
     {
-      "url":"https://www.w3.org/WAI/intro/aria",
-      "title":"Information page"
-    },
-    {
-      "url":"http://www.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
-      "title":"Links to various test results"
-    },
-    {
       "url":"https://en.wikipedia.org/wiki/WAI-ARIA",
       "title":"Wikipedia"
     },
     {
-      "url":"http://www.alistapart.com/articles/the-accessibility-of-wai-aria/",
-      "title":"ALA Article"
+      "url":"https://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
+      "title":"HTML5/WAI-ARIA information"
     },
     {
-      "url":"http://zufelt.ca/blog/are-you-confused-html5-and-wai-aria-yet",
-      "title":"HTML5/WAI-ARIA information"
+      "url":"https://a11ysupport.io/",
+      "title":"a11ysupport.io - Accessibility Support data for various HTML, ARIA, CSS, and SVG features"
+    },
+    {
+      "url":"https://www.w3.org/WAI/standards-guidelines/aria/",
+      "title":"WAI-ARIA Overview"
+    },
+    {
+      "url":"https://developer.paciellogroup.com/blog/2011/10/browser-assistive-technology-tests-redux/",
+      "title":"Links to various test results"
+    },
+    {
+      "url":"https://alistapart.com/article/the-accessibility-of-wai-aria/",
+      "title":"A List Apart - The Accessibility of WAI-ARIA"
     }
   ],
   "bugs":[
@@ -52,7 +56,9 @@
       "79":"a",
       "80":"a",
       "81":"a",
-      "83":"a"
+      "83":"a",
+      "84":"a",
+      "85":"a"
     },
     "firefox":{
       "2":"a",
@@ -135,7 +141,9 @@
       "77":"a",
       "78":"a",
       "79":"a",
-      "80":"a"
+      "80":"a",
+      "81":"a",
+      "82":"a"
     },
     "chrome":{
       "4":"a",
@@ -219,7 +227,9 @@
       "83":"a",
       "84":"a",
       "85":"a",
-      "86":"a"
+      "86":"a",
+      "87":"a",
+      "88":"a"
     },
     "safari":{
       "3.1":"n",
@@ -309,7 +319,8 @@
       "66":"a",
       "67":"a",
       "68":"a",
-      "69":"a"
+      "69":"a",
+      "70":"a"
     },
     "ios_saf":{
       "3.2":"a",
@@ -331,7 +342,7 @@
       "13.0-13.1":"a",
       "13.2":"a",
       "13.3":"a",
-      "13.4-13.5":"a",
+      "13.4-13.7":"a",
       "14.0":"a"
     },
     "op_mini":{
@@ -363,10 +374,10 @@
       "46":"a"
     },
     "and_chr":{
-      "81":"a"
+      "85":"a"
     },
     "and_ff":{
-      "68":"a"
+      "79":"a"
     },
     "ie_mob":{
       "10":"a",
@@ -401,10 +412,10 @@
     
   },
   "usage_perc_y":0,
-  "usage_perc_a":96.48,
+  "usage_perc_a":97.42,
   "ucprefix":false,
   "parent":"",
-  "keywords":"wai,aria",
+  "keywords":"wai,aria,wai-aria,web accessibility initiative,accessible rich internet applications,html,a11y,accessible,aria-hidden,aria-labelledby,aria-haspopup,aria-expanded,aria-controls,roles",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

@@ -54,7 +54,9 @@
       "79":"a",
       "80":"a",
       "81":"a",
-      "83":"a"
+      "83":"a",
+      "84":"a",
+      "85":"a"
     },
     "firefox":{
       "2":"p",
@@ -137,7 +139,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"p",
@@ -221,7 +225,9 @@
       "83":"a",
       "84":"a",
       "85":"a",
-      "86":"a"
+      "86":"a",
+      "87":"a",
+      "88":"a"
     },
     "safari":{
       "3.1":"p",
@@ -311,7 +317,8 @@
       "66":"a",
       "67":"a",
       "68":"a",
-      "69":"a"
+      "69":"a",
+      "70":"a"
     },
     "ios_saf":{
       "3.2":"p",
@@ -333,7 +340,7 @@
       "13.0-13.1":"a",
       "13.2":"a",
       "13.3":"a",
-      "13.4-13.5":"a",
+      "13.4-13.7":"a",
       "14.0":"a"
     },
     "op_mini":{
@@ -365,10 +372,10 @@
       "46":"a"
     },
     "and_chr":{
-      "81":"a"
+      "85":"a"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"a",
@@ -402,8 +409,8 @@
   "notes_by_num":{
     "1":"IE9+ supports [properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) of an older version of the CSS Ruby specification."
   },
-  "usage_perc_y":4.24,
-  "usage_perc_a":92.97,
+  "usage_perc_y":4.09,
+  "usage_perc_a":93.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",

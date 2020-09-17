@@ -49,7 +49,9 @@
       "79":"a #2",
       "80":"a #2",
       "81":"a #2",
-      "83":"a #2"
+      "83":"a #2",
+      "84":"a #2",
+      "85":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -132,7 +134,9 @@
       "77":"a #2",
       "78":"a #2",
       "79":"a #2",
-      "80":"a #2"
+      "80":"a #2",
+      "81":"a #2",
+      "82":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -216,7 +220,9 @@
       "83":"a #2",
       "84":"a #2",
       "85":"a #2",
-      "86":"a #2"
+      "86":"a #2",
+      "87":"a #2",
+      "88":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -306,7 +312,8 @@
       "66":"a #2",
       "67":"a #2",
       "68":"a #2",
-      "69":"a #2"
+      "69":"a #2",
+      "70":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -328,7 +335,7 @@
       "13.0-13.1":"n d #4",
       "13.2":"n d #4",
       "13.3":"n d #4",
-      "13.4-13.5":"y #5",
+      "13.4-13.7":"y #5",
       "14.0":"y #5"
     },
     "op_mini":{
@@ -360,10 +367,10 @@
       "46":"a #2"
     },
     "and_chr":{
-      "81":"a #2"
+      "85":"a #2"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -401,8 +408,8 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu",
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
-  "usage_perc_y":9.8,
-  "usage_perc_a":76.9,
+  "usage_perc_y":6.63,
+  "usage_perc_a":79.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

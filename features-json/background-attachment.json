@@ -44,7 +44,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -127,7 +129,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"y",
@@ -211,7 +215,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -301,7 +307,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -323,7 +330,7 @@
       "13.0-13.1":"a #2 #3",
       "13.2":"a #2 #3",
       "13.3":"a #2 #3",
-      "13.4-13.5":"a #2 #3",
+      "13.4-13.7":"a #2 #3",
       "14.0":"a #2 #3"
     },
     "op_mini":{
@@ -355,10 +362,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -395,8 +402,8 @@
     "3":"Only supports `local` when `-webkit-overflow-scrolling: touch` is _not_ used",
     "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element."
   },
-  "usage_perc_y":81.46,
-  "usage_perc_a":15.67,
+  "usage_perc_y":82.09,
+  "usage_perc_a":15.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

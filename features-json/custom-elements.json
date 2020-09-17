@@ -49,7 +49,9 @@
       "79":"y",
       "80":"n",
       "81":"n",
-      "83":"n"
+      "83":"n",
+      "84":"n",
+      "85":"n"
     },
     "firefox":{
       "2":"n",
@@ -132,7 +134,9 @@
       "77":"n",
       "78":"n",
       "79":"n",
-      "80":"n"
+      "80":"n",
+      "81":"n",
+      "82":"n"
     },
     "chrome":{
       "4":"n",
@@ -216,7 +220,9 @@
       "83":"n",
       "84":"n",
       "85":"n",
-      "86":"n"
+      "86":"n",
+      "87":"n",
+      "88":"n"
     },
     "safari":{
       "3.1":"n",
@@ -306,7 +312,8 @@
       "66":"y",
       "67":"n",
       "68":"n",
-      "69":"n"
+      "69":"n",
+      "70":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -328,7 +335,7 @@
       "13.0-13.1":"p",
       "13.2":"p",
       "13.3":"p",
-      "13.4-13.5":"p",
+      "13.4-13.7":"p",
       "14.0":"p"
     },
     "op_mini":{
@@ -360,10 +367,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"n"
+      "85":"n"
     },
     "and_ff":{
-      "68":"n"
+      "79":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -398,7 +405,7 @@
     "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
     "2":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
   },
-  "usage_perc_y":8.42,
+  "usage_perc_y":7.98,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

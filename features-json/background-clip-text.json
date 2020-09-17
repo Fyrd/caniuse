@@ -54,7 +54,9 @@
       "79":"a x",
       "80":"a x",
       "81":"a x",
-      "83":"a x"
+      "83":"a x",
+      "84":"a x",
+      "85":"a x"
     },
     "firefox":{
       "2":"u",
@@ -137,7 +139,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"a x",
@@ -221,7 +225,9 @@
       "83":"a x",
       "84":"a x",
       "85":"a x",
-      "86":"a x"
+      "86":"a x",
+      "87":"a x",
+      "88":"a x"
     },
     "safari":{
       "3.1":"u",
@@ -311,7 +317,8 @@
       "66":"u",
       "67":"u",
       "68":"u",
-      "69":"u"
+      "69":"u",
+      "70":"u"
     },
     "ios_saf":{
       "3.2":"u",
@@ -333,7 +340,7 @@
       "13.0-13.1":"u",
       "13.2":"u",
       "13.3":"u",
-      "13.4-13.5":"u",
+      "13.4-13.7":"u",
       "14.0":"u"
     },
     "op_mini":{
@@ -365,10 +372,10 @@
       "46":"u"
     },
     "and_chr":{
-      "81":"u"
+      "85":"u"
     },
     "and_ff":{
-      "68":"u"
+      "79":"u"
     },
     "ie_mob":{
       "10":"u",
@@ -404,8 +411,8 @@
     "2":"Natively supported on Edge 15+ See Browser Compatibility chart: https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip",
     "3":"Microsoft Edge supports this feature using the -webkit- instead of -ms- prefix See: https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/10945389-background-clip-text"
   },
-  "usage_perc_y":5.43,
-  "usage_perc_a":36.12,
+  "usage_perc_y":4.27,
+  "usage_perc_a":37.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"background-clip,text,clip",

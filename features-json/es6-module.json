@@ -73,7 +73,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -156,7 +158,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -240,7 +244,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"n",
@@ -330,7 +336,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -352,7 +359,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -384,10 +391,10 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -426,8 +433,8 @@
     "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
     "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":90.82,
-  "usage_perc_a":0.23,
+  "usage_perc_y":91.72,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"es6,javascript,module,import,export,nomodule",

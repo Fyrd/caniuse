@@ -52,7 +52,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -123,19 +125,21 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y",
-      "69":"y",
-      "70":"y",
-      "71":"y",
-      "72":"y",
-      "73":"y",
-      "74":"y",
-      "75":"y",
-      "76":"y",
-      "77":"y",
-      "78":"n",
-      "79":"n",
-      "80":"n"
+      "68":"y #1",
+      "69":"y #1",
+      "70":"y #1",
+      "71":"y #1",
+      "72":"y #1",
+      "73":"y #1",
+      "74":"y #1",
+      "75":"y #1",
+      "76":"y #1",
+      "77":"y #1",
+      "78":"a #1 #2",
+      "79":"a #1 #2",
+      "80":"a #1 #2",
+      "81":"a #1 #2",
+      "82":"a #1 #2"
     },
     "chrome":{
       "4":"n",
@@ -217,9 +221,11 @@
       "80":"y",
       "81":"y",
       "83":"y",
-      "84":"n",
-      "85":"n",
-      "86":"n"
+      "84":"y",
+      "85":"a #3 #4",
+      "86":"a #3 #4",
+      "87":"a #3 #4",
+      "88":"a #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -241,9 +247,9 @@
       "12":"y",
       "12.1":"y",
       "13":"y",
-      "13.1":"y",
-      "14":"y",
-      "TP":"y"
+      "13.1":"y #3",
+      "14":"y #3",
+      "TP":"y #3"
     },
     "opera":{
       "9":"n",
@@ -309,7 +315,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -331,7 +338,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -363,10 +370,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y #1"
     },
     "ie_mob":{
       "10":"n d",
@@ -398,10 +405,13 @@
   },
   "notes":"TLS 1.0 & 1.1 are deprecated in Chrome, Edge, Firefox, Internet Explorer 11, & Safari.",
   "notes_by_num":{
-    
+    "1":"Firefox 68+ displays a small warning icon in the address bar when connecting over tls 1.1",
+    "2":"Firefox 78+ displays a full page dismissable warning the first time it connects over tls 1.1",
+    "3":"Chrome 85+ and Safari for MacOS 13.1+ displays `Not secure` in the address bar when connecting over tls 1.1",
+    "4":"Chrome 85+ displays a full page dismissable warning every time a new site connects over tls 1.1"
   },
-  "usage_perc_y":97.14,
-  "usage_perc_a":0,
+  "usage_perc_y":93.98,
+  "usage_perc_a":3.92,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

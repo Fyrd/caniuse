@@ -38,7 +38,9 @@
       "79":"y #3 #4",
       "80":"y #3 #4",
       "81":"y #3 #4",
-      "83":"y #3 #4"
+      "83":"y #3 #4",
+      "84":"y #3 #4",
+      "85":"y #3 #4"
     },
     "firefox":{
       "2":"n",
@@ -121,7 +123,9 @@
       "77":"a #2 #5",
       "78":"a #2 #5",
       "79":"a #2 #5",
-      "80":"a #2 #5"
+      "80":"a #2 #5",
+      "81":"a #2 #5",
+      "82":"a #2 #5"
     },
     "chrome":{
       "4":"n",
@@ -205,7 +209,9 @@
       "83":"y #3 #4",
       "84":"y #3 #4",
       "85":"y #3 #4",
-      "86":"y #3 #4"
+      "86":"y #3 #4",
+      "87":"y #3 #4",
+      "88":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -295,7 +301,8 @@
       "66":"y #3 #4",
       "67":"y #3 #4",
       "68":"y #3 #4",
-      "69":"y #3 #4"
+      "69":"y #3 #4",
+      "70":"y #3 #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -317,7 +324,7 @@
       "13.0-13.1":"a x #3",
       "13.2":"a x #3",
       "13.3":"a x #3",
-      "13.4-13.5":"a x #3",
+      "13.4-13.7":"a x #3",
       "14.0":"a x #3"
     },
     "op_mini":{
@@ -349,10 +356,10 @@
       "46":"y #3 #4"
     },
     "and_chr":{
-      "81":"y #3 #4"
+      "85":"y #3 #4"
     },
     "and_ff":{
-      "68":"a x #2 #5"
+      "79":"a x #2 #5"
     },
     "ie_mob":{
       "10":"n",
@@ -390,8 +397,8 @@
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://chromium.googlesource.com/chromium/blink.git/+/bf119cdfece210e69c9a99af06f1b9981e2a1bc2).",
     "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":73.16,
-  "usage_perc_a":20.56,
+  "usage_perc_y":75.6,
+  "usage_perc_a":19.7,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

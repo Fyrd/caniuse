@@ -41,7 +41,9 @@
       "79":"y #3",
       "80":"y #3",
       "81":"y #3",
-      "83":"y #3"
+      "83":"y #3",
+      "84":"y #3",
+      "85":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -124,7 +126,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -208,7 +212,9 @@
       "83":"y #3",
       "84":"y #3",
       "85":"y #3",
-      "86":"y #3"
+      "86":"y #3",
+      "87":"y #3",
+      "88":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -298,7 +304,8 @@
       "66":"y #3",
       "67":"y #3",
       "68":"y #3",
-      "69":"y #3"
+      "69":"y #3",
+      "70":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -320,7 +327,7 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -352,10 +359,10 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"n"
+      "85":"n"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -391,7 +398,7 @@
     "2":"Support can be enabled with the \"security.webauth.u2f\" flag",
     "3":"Supported [via the internal CryptoTokenExtension.](https://github.com/google/u2f-ref-code/blob/master/u2f-gae-demo/war/js/u2f-api.js)"
   },
-  "usage_perc_y":49.06,
+  "usage_perc_y":46.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

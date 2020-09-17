@@ -44,7 +44,9 @@
       "79":"n d #1",
       "80":"n d #1",
       "81":"n d #1",
-      "83":"n d #1"
+      "83":"n d #1",
+      "84":"n d #1",
+      "85":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -127,7 +129,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -211,7 +215,9 @@
       "83":"n d #1",
       "84":"n d #1",
       "85":"n d #1",
-      "86":"n d #1"
+      "86":"n d #1",
+      "87":"n d #1",
+      "88":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -301,7 +307,8 @@
       "66":"n d #1",
       "67":"n d #1",
       "68":"n d #1",
-      "69":"n d #1"
+      "69":"n d #1",
+      "70":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -323,7 +330,7 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4-13.5":"n",
+      "13.4-13.7":"n",
       "14.0":"n"
     },
     "op_mini":{
@@ -355,10 +362,10 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"n"
+      "85":"n"
     },
     "and_ff":{
-      "68":"n #2"
+      "79":"n #2"
     },
     "ie_mob":{
       "10":"n",
@@ -393,7 +400,7 @@
     "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
-  "usage_perc_y":4.18,
+  "usage_perc_y":4.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

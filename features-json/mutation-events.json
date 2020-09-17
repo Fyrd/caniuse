@@ -36,7 +36,9 @@
       "79":"a #1",
       "80":"a #1",
       "81":"a #1",
-      "83":"a #1"
+      "83":"a #1",
+      "84":"a #1",
+      "85":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -119,7 +121,9 @@
       "77":"a #2",
       "78":"a #2",
       "79":"a #2",
-      "80":"a #2"
+      "80":"a #2",
+      "81":"a #2",
+      "82":"a #2"
     },
     "chrome":{
       "4":"u",
@@ -203,7 +207,9 @@
       "83":"a #1",
       "84":"a #1",
       "85":"a #1",
-      "86":"a #1"
+      "86":"a #1",
+      "87":"a #1",
+      "88":"a #1"
     },
     "safari":{
       "3.1":"u",
@@ -293,7 +299,8 @@
       "66":"a #1",
       "67":"a #1",
       "68":"a #1",
-      "69":"a #1"
+      "69":"a #1",
+      "70":"a #1"
     },
     "ios_saf":{
       "3.2":"u",
@@ -315,7 +322,7 @@
       "13.0-13.1":"a #1",
       "13.2":"a #1",
       "13.3":"a #1",
-      "13.4-13.5":"a #1",
+      "13.4-13.7":"a #1",
       "14.0":"a #1"
     },
     "op_mini":{
@@ -347,10 +354,10 @@
       "46":"a #1"
     },
     "and_chr":{
-      "81":"a #1"
+      "85":"a #1"
     },
     "and_ff":{
-      "68":"a #2"
+      "79":"a #2"
     },
     "ie_mob":{
       "10":"a #2",
@@ -386,7 +393,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.02,
-  "usage_perc_a":97.28,
+  "usage_perc_a":97.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

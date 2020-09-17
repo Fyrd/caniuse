@@ -56,7 +56,9 @@
       "79":"a x #1",
       "80":"a x #1",
       "81":"a x #1",
-      "83":"a x #1"
+      "83":"a x #1",
+      "84":"a x #1",
+      "85":"a x #1"
     },
     "firefox":{
       "2":"n",
@@ -139,7 +141,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -223,7 +227,9 @@
       "83":"a x #1",
       "84":"a x #1",
       "85":"a x #1",
-      "86":"a x #1"
+      "86":"a x #1",
+      "87":"a x #1",
+      "88":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -313,7 +319,8 @@
       "66":"a x #1",
       "67":"a x #1",
       "68":"a x #1",
-      "69":"a x #1"
+      "69":"a x #1",
+      "70":"a x #1"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -335,7 +342,7 @@
       "13.0-13.1":"a x #1",
       "13.2":"a x #1",
       "13.3":"a x #1",
-      "13.4-13.5":"a x #1",
+      "13.4-13.7":"a x #1",
       "14.0":"a x #1"
     },
     "op_mini":{
@@ -367,10 +374,10 @@
       "46":"a x #1"
     },
     "and_chr":{
-      "81":"a x #1"
+      "85":"a x #1"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -410,8 +417,8 @@
     "6":"Partial support refers to supporting mask-image, mask-size, mask-position, mask-repeat and mask-composite",
     "7":"Edge also recognizes and supports all the `-webkit-` prefixed equivalents of the unprefixed properties for site compatibility"
   },
-  "usage_perc_y":3.94,
-  "usage_perc_a":91.61,
+  "usage_perc_y":3.82,
+  "usage_perc_a":92.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type,css masking",

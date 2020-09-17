@@ -98,7 +98,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"a x #1",
@@ -181,7 +183,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -265,7 +269,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -355,7 +361,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -377,7 +384,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -409,10 +416,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"a x #2",
@@ -449,8 +456,8 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":96.02,
-  "usage_perc_a":1.95,
+  "usage_perc_y":96.73,
+  "usage_perc_a":1.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",

@@ -46,7 +46,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -129,7 +131,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -213,7 +217,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"n",
@@ -303,7 +309,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -325,7 +332,7 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4-13.5":"n",
+      "13.4-13.7":"n",
       "14.0":"n"
     },
     "op_mini":{
@@ -357,10 +364,10 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"n"
+      "79":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -396,8 +403,8 @@
     "2":"Chrome v64: The current API is behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag.",
     "3":"Safari v12.1+: Supports the Server Timing reporting in the Web Inspector Network tab, but not the JavaScript API"
   },
-  "usage_perc_y":70.24,
-  "usage_perc_a":3.71,
+  "usage_perc_y":72.91,
+  "usage_perc_a":3.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,performance.timing,resource,performancenavigation,PerformanceServerTiming",

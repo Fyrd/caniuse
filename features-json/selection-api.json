@@ -36,7 +36,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -119,7 +121,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"u",
@@ -203,7 +207,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"u",
@@ -293,7 +299,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -315,7 +322,7 @@
       "13.0-13.1":"a #3",
       "13.2":"a #3",
       "13.3":"a #3",
-      "13.4-13.5":"a #3",
+      "13.4-13.7":"a #3",
       "14.0":"a #3"
     },
     "op_mini":{
@@ -347,10 +354,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -388,8 +395,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":84.69,
-  "usage_perc_a":12.75,
+  "usage_perc_y":85.48,
+  "usage_perc_a":12.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

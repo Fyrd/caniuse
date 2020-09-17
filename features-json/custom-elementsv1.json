@@ -17,7 +17,7 @@
       "title":"Google Developers - Custom elements v1: reusable web components"
     },
     {
-      "url":"https://github.com/webcomponents/webcomponentsjs/tree/v1/src/CustomElements/v1",
+      "url":"https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements",
       "title":"customElements.define polyfill"
     },
     {
@@ -53,7 +53,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -136,7 +138,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -220,7 +224,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"n",
@@ -310,7 +316,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -332,7 +339,7 @@
       "13.0-13.1":"a #1",
       "13.2":"a #1",
       "13.3":"a #1",
-      "13.4-13.5":"a #1",
+      "13.4-13.7":"a #1",
       "14.0":"a #1"
     },
     "op_mini":{
@@ -364,10 +371,10 @@
       "46":"a #1"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -403,8 +410,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":75.09,
-  "usage_perc_a":16.43,
+  "usage_perc_y":77.52,
+  "usage_perc_a":15.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",

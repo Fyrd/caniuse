@@ -52,7 +52,9 @@
       "79":"a d #1 #7",
       "80":"a d #1 #7",
       "81":"a d #1 #7",
-      "83":"a d #1 #7"
+      "83":"a d #1 #7",
+      "84":"a d #1 #7",
+      "85":"a d #1 #7"
     },
     "firefox":{
       "2":"u",
@@ -135,7 +137,9 @@
       "77":"a x #3",
       "78":"y #6",
       "79":"y #6",
-      "80":"y #6"
+      "80":"y #6",
+      "81":"y #6",
+      "82":"y #6"
     },
     "chrome":{
       "4":"u",
@@ -219,7 +223,9 @@
       "83":"a d #1 #7",
       "84":"a d #1 #7",
       "85":"a d #1 #7",
-      "86":"a d #1 #7"
+      "86":"a d #1 #7",
+      "87":"a d #1 #7",
+      "88":"a d #1 #7"
     },
     "safari":{
       "3.1":"n",
@@ -309,7 +315,8 @@
       "66":"a d #1 #7",
       "67":"a d #1 #7",
       "68":"a d #1 #7",
-      "69":"a d #1 #7"
+      "69":"a d #1 #7",
+      "70":"a d #1 #7"
     },
     "ios_saf":{
       "3.2":"u",
@@ -331,7 +338,7 @@
       "13.0-13.1":"a #2",
       "13.2":"a #2",
       "13.3":"a #2",
-      "13.4-13.5":"a #2",
+      "13.4-13.7":"a #2",
       "14.0":"y #4 #5"
     },
     "op_mini":{
@@ -363,10 +370,10 @@
       "46":"a x #1"
     },
     "and_chr":{
-      "81":"a d #1 #7"
+      "85":"a d #1 #7"
     },
     "and_ff":{
-      "68":"a x #3"
+      "79":"y #6"
     },
     "ie_mob":{
       "10":"n",
@@ -406,8 +413,8 @@
     "6":"Also supports the deprecated `:-moz-any()` pseudo-class.",
     "7":"Support for `:is()` can be enabled with the `Experimental Web Platform features` flag"
   },
-  "usage_perc_y":0.05,
-  "usage_perc_a":93.91,
+  "usage_perc_y":3.33,
+  "usage_perc_a":92.16,
   "ucprefix":false,
   "parent":"",
   "keywords":":is,is,:matches,matches,:any,any,:-moz-any,-moz-any,:-webkit-any,-webkit-any",

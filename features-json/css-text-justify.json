@@ -44,7 +44,9 @@
       "79":"n d #2",
       "80":"n d #2",
       "81":"n d #2",
-      "83":"n d #2"
+      "83":"n d #2",
+      "84":"n d #2",
+      "85":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -127,7 +129,9 @@
       "77":"y #4",
       "78":"y #4",
       "79":"y #4",
-      "80":"y #4"
+      "80":"y #4",
+      "81":"y #4",
+      "82":"y #4"
     },
     "chrome":{
       "4":"n",
@@ -211,7 +215,9 @@
       "83":"n d #2",
       "84":"n d #2",
       "85":"n d #2",
-      "86":"n d #2"
+      "86":"n d #2",
+      "87":"n d #2",
+      "88":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -301,7 +307,8 @@
       "66":"n d #2",
       "67":"n d #2",
       "68":"n d #2",
-      "69":"n d #2"
+      "69":"n d #2",
+      "70":"n d #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -323,7 +330,7 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4-13.5":"n",
+      "13.4-13.7":"n",
       "14.0":"n"
     },
     "op_mini":{
@@ -355,10 +362,10 @@
       "46":"n d #2"
     },
     "and_chr":{
-      "81":"n d #2"
+      "85":"n d #2"
     },
     "and_ff":{
-      "68":"y #4"
+      "79":"y #4"
     },
     "ie_mob":{
       "10":"a #1",
@@ -395,8 +402,8 @@
     "3":"Behind the \"layout.css.text-justify.enabled\" flag",
     "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
   },
-  "usage_perc_y":3.93,
-  "usage_perc_a":3.39,
+  "usage_perc_y":3.81,
+  "usage_perc_a":2.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

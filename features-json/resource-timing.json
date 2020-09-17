@@ -44,7 +44,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -127,7 +129,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -211,7 +215,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"n",
@@ -301,7 +307,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -323,7 +330,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -355,10 +362,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -393,8 +400,8 @@
     "1":"Can be enabled in Firefox using the dom.enable_resource_timing flag",
     "2":"Partial support in Safari refers to being limited to OSX 10.12+"
   },
-  "usage_perc_y":95.95,
-  "usage_perc_a":0.02,
+  "usage_perc_y":96.11,
+  "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,testing,resource",

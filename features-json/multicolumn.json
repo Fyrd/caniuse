@@ -81,7 +81,9 @@
       "79":"a #3",
       "80":"a #3",
       "81":"a #3",
-      "83":"a #3"
+      "83":"a #3",
+      "84":"a #3",
+      "85":"a #3"
     },
     "firefox":{
       "2":"a x #1",
@@ -164,7 +166,9 @@
       "77":"a #3",
       "78":"a #3",
       "79":"a #3",
-      "80":"a #3"
+      "80":"a #3",
+      "81":"a #3",
+      "82":"a #3"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -248,7 +252,9 @@
       "83":"a #3",
       "84":"a #3",
       "85":"a #3",
-      "86":"a #3"
+      "86":"a #3",
+      "87":"a #3",
+      "88":"a #3"
     },
     "safari":{
       "3.1":"a x #1 #2",
@@ -338,7 +344,8 @@
       "66":"a #3",
       "67":"a #3",
       "68":"a #3",
-      "69":"a #3"
+      "69":"a #3",
+      "70":"a #3"
     },
     "ios_saf":{
       "3.2":"a x #1 #2",
@@ -360,7 +367,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -392,10 +399,10 @@
       "46":"a #1"
     },
     "and_chr":{
-      "81":"a #3"
+      "85":"a #3"
     },
     "and_ff":{
-      "68":"a #1"
+      "79":"a #1"
     },
     "ie_mob":{
       "10":"y",
@@ -431,8 +438,8 @@
     "2":"Partial support refers to not supporting the `column-fill` property.",
     "3":"Partial support refers to not supporting the `avoid-column`, `column`, and `avoid` (in the column context) values for the properties `break-before`, `break-after`, and `break-inside`."
   },
-  "usage_perc_y":24.68,
-  "usage_perc_a":73.31,
+  "usage_perc_y":22.6,
+  "usage_perc_a":75.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

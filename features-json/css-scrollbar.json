@@ -58,7 +58,9 @@
       "79":"a x #2",
       "80":"a x #2",
       "81":"a x #2",
-      "83":"a x #2"
+      "83":"a x #2",
+      "84":"a x #2",
+      "85":"a x #2"
     },
     "firefox":{
       "2":"n",
@@ -141,7 +143,9 @@
       "77":"a #6",
       "78":"a #6",
       "79":"a #6",
-      "80":"a #6"
+      "80":"a #6",
+      "81":"a #6",
+      "82":"a #6"
     },
     "chrome":{
       "4":"a x #2",
@@ -225,7 +229,9 @@
       "83":"a x #2",
       "84":"a x #2",
       "85":"a x #2",
-      "86":"a x #2"
+      "86":"a x #2",
+      "87":"a x #2",
+      "88":"a x #2"
     },
     "safari":{
       "3.1":"u",
@@ -315,7 +321,8 @@
       "66":"a x #2",
       "67":"a x #2",
       "68":"a x #2",
-      "69":"a x #2"
+      "69":"a x #2",
+      "70":"a x #2"
     },
     "ios_saf":{
       "3.2":"u",
@@ -337,7 +344,7 @@
       "13.0-13.1":"a x #2 #3",
       "13.2":"a x #2 #3",
       "13.3":"a x #2 #3",
-      "13.4-13.5":"a x #2 #3",
+      "13.4-13.7":"a x #2 #3",
       "14.0":"a x #2 #3"
     },
     "op_mini":{
@@ -369,10 +376,10 @@
       "46":"a x #2"
     },
     "and_chr":{
-      "81":"a x #2"
+      "85":"a x #2"
     },
     "and_ff":{
-      "68":"n"
+      "79":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -412,7 +419,7 @@
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":94.86,
+  "usage_perc_a":96.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

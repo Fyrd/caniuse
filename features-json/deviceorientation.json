@@ -53,7 +53,9 @@
       "79":"a",
       "80":"a",
       "81":"a",
-      "83":"a"
+      "83":"a",
+      "84":"a",
+      "85":"a"
     },
     "firefox":{
       "2":"n",
@@ -136,7 +138,9 @@
       "77":"a",
       "78":"a",
       "79":"a",
-      "80":"a"
+      "80":"a",
+      "81":"a",
+      "82":"a"
     },
     "chrome":{
       "4":"n",
@@ -220,7 +224,9 @@
       "83":"a",
       "84":"a",
       "85":"a",
-      "86":"a"
+      "86":"a",
+      "87":"a",
+      "88":"a"
     },
     "safari":{
       "3.1":"n",
@@ -310,7 +316,8 @@
       "66":"a",
       "67":"a",
       "68":"a",
-      "69":"a"
+      "69":"a",
+      "70":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -332,7 +339,7 @@
       "13.0-13.1":"a",
       "13.2":"a",
       "13.3":"a",
-      "13.4-13.5":"a",
+      "13.4-13.7":"a",
       "14.0":"a"
     },
     "op_mini":{
@@ -364,10 +371,10 @@
       "46":"a"
     },
     "and_chr":{
-      "81":"a"
+      "85":"a"
     },
     "and_ff":{
-      "68":"a"
+      "79":"a"
     },
     "ie_mob":{
       "10":"n",
@@ -401,8 +408,8 @@
   "notes_by_num":{
     "1":"`compassneedscalibration` supported in IE11 only for compatible devices with Windows 8.1+."
   },
-  "usage_perc_y":1.67,
-  "usage_perc_a":91.29,
+  "usage_perc_y":0.64,
+  "usage_perc_a":92.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"ondeviceorientation,ondevicemotion",

@@ -50,7 +50,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"p",
@@ -133,7 +135,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"y",
@@ -217,7 +221,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"y",
@@ -307,7 +313,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -329,7 +336,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -361,10 +368,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -398,7 +405,7 @@
   "notes_by_num":{
     "1":"Partial support in IE8 is due to being limited to [CSS 2.1 selectors](/#feat=css-sel2) and a small subset of [CSS 3 selectors](/#feat=css-sel3) (see notes there). Additionally, it will have trouble with selectors including unrecognized tags (for example HTML5 ones)."
   },
-  "usage_perc_y":98.25,
+  "usage_perc_y":98.75,
   "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",

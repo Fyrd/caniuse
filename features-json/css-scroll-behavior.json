@@ -15,6 +15,10 @@
     {
       "url":"https://blog.gospodarets.com/native_smooth_scrolling",
       "title":"Blog post with demo"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=188043",
+      "title":"iOS / WebKit bug report"
     }
   ],
   "bugs":[
@@ -44,7 +48,9 @@
       "79":"y #1",
       "80":"y #1",
       "81":"y #1",
-      "83":"y #1"
+      "83":"y #1",
+      "84":"y #1",
+      "85":"y #1"
     },
     "firefox":{
       "2":"n",
@@ -127,7 +133,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -211,7 +219,9 @@
       "83":"y #1",
       "84":"y #1",
       "85":"y #1",
-      "86":"y #1"
+      "86":"y #1",
+      "87":"y #1",
+      "88":"y #1"
     },
     "safari":{
       "3.1":"n",
@@ -301,7 +311,8 @@
       "66":"y #1",
       "67":"y #1",
       "68":"y #1",
-      "69":"y #1"
+      "69":"y #1",
+      "70":"y #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -323,7 +334,7 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4-13.5":"n",
+      "13.4-13.7":"n",
       "14.0":"n"
     },
     "op_mini":{
@@ -355,10 +366,10 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -393,7 +404,7 @@
     "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
   },
-  "usage_perc_y":75.81,
+  "usage_perc_y":78.25,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

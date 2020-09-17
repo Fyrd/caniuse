@@ -65,7 +65,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -148,7 +150,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -232,7 +236,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"n",
@@ -322,7 +328,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -344,7 +351,7 @@
       "13.0-13.1":"a #5",
       "13.2":"a #5",
       "13.3":"a #5",
-      "13.4-13.5":"a #5",
+      "13.4-13.7":"a #5",
       "14.0":"a #5"
     },
     "op_mini":{
@@ -376,10 +383,10 @@
       "46":"a x #2 #3"
     },
     "and_chr":{
-      "81":"a x #2 #3"
+      "85":"a x #2 #3"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -417,8 +424,8 @@
     "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag",
     "5":"Partial support refers to supporting only iPad, not iPhone. Shows an overlay button which can not be disabled."
   },
-  "usage_perc_y":38.4,
-  "usage_perc_a":57.64,
+  "usage_perc_y":39.74,
+  "usage_perc_a":56.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",

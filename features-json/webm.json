@@ -40,7 +40,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -123,7 +125,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -207,7 +211,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"n",
@@ -230,8 +236,8 @@
       "12.1":"a #4",
       "13":"a #4",
       "13.1":"a #4",
-      "14":"a #4",
-      "TP":"a #4"
+      "14":"a #5",
+      "TP":"a #5"
     },
     "opera":{
       "9":"n",
@@ -297,7 +303,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -319,7 +326,7 @@
       "13.0-13.1":"a #4",
       "13.2":"a #4",
       "13.3":"a #4",
-      "13.4-13.5":"a #4",
+      "13.4-13.7":"a #4",
       "14.0":"a #4"
     },
     "op_mini":{
@@ -351,10 +358,10 @@
       "46":"a #1"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"p",
@@ -389,10 +396,11 @@
     "1":"Older browser versions did not support all codecs.",
     "2":"Older Edge versions did not support progressive sources.",
     "3":"Can be enabled in Internet Explorer and Safari for MacOS by manually installing the codecs in the operating system.",
-    "4":"Safari only supports [VP8 used in WebRTC](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/)."
+    "4":"Safari only supports [VP8 used in WebRTC](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/).",
+    "5":"Safari only supports [VP8 used in WebRTC](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/) and [VP9 used in WebRTC](https://webkit.org/blog/10929/release-notes-for-safari-technology-preview-110/)."
   },
-  "usage_perc_y":77,
-  "usage_perc_a":17.17,
+  "usage_perc_y":79.33,
+  "usage_perc_a":14.62,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

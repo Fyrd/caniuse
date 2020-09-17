@@ -50,7 +50,9 @@
       "79":"a #1",
       "80":"a #1",
       "81":"a #1",
-      "83":"a #1"
+      "83":"a #1",
+      "84":"a #1",
+      "85":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -133,7 +135,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -217,7 +221,9 @@
       "83":"a #1",
       "84":"a #1",
       "85":"a #1",
-      "86":"a #1"
+      "86":"a #1",
+      "87":"a #1",
+      "88":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -307,7 +313,8 @@
       "66":"a #1",
       "67":"a #1",
       "68":"a #1",
-      "69":"a #1"
+      "69":"a #1",
+      "70":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -329,7 +336,7 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4-13.5":"n",
+      "13.4-13.7":"n",
       "14.0":"n"
     },
     "op_mini":{
@@ -361,10 +368,10 @@
       "46":"a #1"
     },
     "and_chr":{
-      "81":"a #1"
+      "85":"a #1"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -399,8 +406,8 @@
     "1":"Chrome does not support Ahead-Of-Time compilation but performance doubled in Chrome 28: https://en.wikipedia.org/wiki/Asm.js#Implementations",
     "2":"Supported in MS Edge under the \"Enable experimental JavaScript features\" flag."
   },
-  "usage_perc_y":5.99,
-  "usage_perc_a":70.9,
+  "usage_perc_y":4.82,
+  "usage_perc_a":73.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",

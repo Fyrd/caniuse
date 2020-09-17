@@ -50,7 +50,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"n",
@@ -133,7 +135,9 @@
       "77":"n d #3",
       "78":"n d #3",
       "79":"n d #3",
-      "80":"n d #3"
+      "80":"n d #3",
+      "81":"n d #3",
+      "82":"n d #3"
     },
     "chrome":{
       "4":"n",
@@ -217,7 +221,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"n",
@@ -307,7 +313,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -329,7 +336,7 @@
       "13.0-13.1":"y x",
       "13.2":"y x",
       "13.3":"y x",
-      "13.4-13.5":"y x",
+      "13.4-13.7":"y x",
       "14.0":"y x"
     },
     "op_mini":{
@@ -361,10 +368,10 @@
       "46":"n d #1"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"n"
+      "79":"n d #3"
     },
     "ie_mob":{
       "10":"n",
@@ -400,7 +407,7 @@
     "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
     "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` preference to `true` in about:config."
   },
-  "usage_perc_y":83.13,
+  "usage_perc_y":86.55,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

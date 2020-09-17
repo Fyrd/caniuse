@@ -36,7 +36,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -119,7 +121,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -203,7 +207,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -293,7 +299,8 @@
       "66":"a #1",
       "67":"a #1",
       "68":"a #1",
-      "69":"a #1"
+      "69":"a #1",
+      "70":"a #1"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -315,7 +322,7 @@
       "13.0-13.1":"a x #3",
       "13.2":"a x #3",
       "13.3":"a x #3",
-      "13.4-13.5":"a x #3",
+      "13.4-13.7":"a x #3",
       "14.0":"a x #3"
     },
     "op_mini":{
@@ -347,10 +354,10 @@
       "46":"u"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -386,8 +393,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":73.54,
-  "usage_perc_a":21.53,
+  "usage_perc_y":76.35,
+  "usage_perc_a":19.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

@@ -50,7 +50,9 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y"
     },
     "firefox":{
       "2":"y",
@@ -133,7 +135,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"y",
@@ -217,7 +221,9 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y"
     },
     "safari":{
       "3.1":"y",
@@ -307,7 +313,8 @@
       "66":"y",
       "67":"y",
       "68":"y",
-      "69":"y"
+      "69":"y",
+      "70":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -329,7 +336,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -361,10 +368,10 @@
       "46":"y"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"a #2",
@@ -400,8 +407,8 @@
     "2":"Support is limited to images and linked resources like CSS or JS, not HTML files. Maximum size limit is 4GB.",
     "3":"SVGs with XML declarations are not displayed when used in data-urls"
   },
-  "usage_perc_y":94.96,
-  "usage_perc_a":3.39,
+  "usage_perc_y":96.65,
+  "usage_perc_a":2.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"data url,datauris,data uri,dataurl,dataurls,base64",

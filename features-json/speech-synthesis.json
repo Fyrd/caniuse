@@ -54,7 +54,9 @@
       "79":"y #2",
       "80":"y #2",
       "81":"y #2",
-      "83":"y #2"
+      "83":"y #2",
+      "84":"y #2",
+      "85":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -137,7 +139,9 @@
       "77":"y",
       "78":"y",
       "79":"y",
-      "80":"y"
+      "80":"y",
+      "81":"y",
+      "82":"y"
     },
     "chrome":{
       "4":"n",
@@ -221,7 +225,9 @@
       "83":"y #2",
       "84":"y #2",
       "85":"y #2",
-      "86":"y #2"
+      "86":"y #2",
+      "87":"y #2",
+      "88":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -311,7 +317,8 @@
       "66":"y #2",
       "67":"y #2",
       "68":"y #2",
-      "69":"y #2"
+      "69":"y #2",
+      "70":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -333,7 +340,7 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4-13.5":"y",
+      "13.4-13.7":"y",
       "14.0":"y"
     },
     "op_mini":{
@@ -365,10 +372,10 @@
       "46":"n"
     },
     "and_chr":{
-      "81":"y"
+      "85":"y"
     },
     "and_ff":{
-      "68":"y"
+      "79":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -403,7 +410,7 @@
     "1":"Can be enabled in Firefox using the `media.webspeech.synth.enabled` about:config flag.",
     "2":"Speech Synthesis in Chrome since version 55 stops playback after about 15 seconds on Windows 7 & 10, and Ubuntu 14.04, possibly other platforms"
   },
-  "usage_perc_y":92.61,
+  "usage_perc_y":93.64,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"web-speech",
