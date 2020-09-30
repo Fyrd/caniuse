@@ -9,14 +9,6 @@
       "title":"Test case on JSFiddle"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=css-min-max",
-      "title":"Firefox support bug"
-    },
-    {
-      "url":"https://crbug.com/825895",
-      "title":"Chrome support bug"
-    },
-    {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/min",
       "title":"MDN Web Docs article for min()"
     },
@@ -377,7 +369,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "59":"n"
+      "59":"y"
     },
     "and_chr":{
       "85":"y"
@@ -421,10 +413,10 @@
   "usage_perc_a":7.91,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"min,min(),max,max(),clamp,clamp()",
   "ie_id":"",
-  "chrome_id":"",
-  "firefox_id":"",
+  "chrome_id":"5714277878988800",
+  "firefox_id":"css-min-max-clamp",
   "webkit_id":"",
   "shown":true
 }
