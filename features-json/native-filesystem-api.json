@@ -1,23 +1,23 @@
 {
-  "title":"Native Filesystem API",
-  "description":"API for manipulating files in the device's native file system (not in a sandbox).",
-  "spec":"https://wicg.github.io/native-file-system/",
+  "title":"File System Access API",
+  "description":"API for manipulating files in the device's local file system (not in a sandbox).",
+  "spec":"https://wicg.github.io/file-system-access/",
   "status":"unoff",
   "links":[
     {
-      "url":"https://github.com/WICG/native-file-system/blob/master/EXPLAINER.md",
+      "url":"https://github.com/WICG/file-system-access/blob/master/EXPLAINER.md",
       "title":"Explainer"
     },
     {
-      "url":"https://web.dev/native-file-system/",
+      "url":"https://web.dev/file-system-access/",
       "title":"Web.dev blog post"
     },
     {
-      "url":"https://mozilla.github.io/standards-positions/#native-file-system",
+      "url":"https://mozilla.github.io/standards-positions/#file-system-access",
       "title":"Firefox position: defer"
     },
     {
-      "url":"https://developers.google.com/web/updates/2019/08/native-file-system",
+      "url":"https://web.dev/file-system-access/",
       "title":"Chrome blog post"
     }
   ],
