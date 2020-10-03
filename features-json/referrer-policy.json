@@ -329,7 +329,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0":"y"
+      "14":"y"
     },
     "op_mini":{
       "all":"n"
@@ -399,8 +399,8 @@
     "2":"Chrome 21-60 did not support the `same-origin`, `strict-origin` and `strict-origin-when-cross-origin` values. ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))",
     "3":"Chrome is now defaulting to `strict-origin-when-cross-origin` which is the recommended setting for most use-cases."
   },
-  "usage_perc_y":92.54,
-  "usage_perc_a":3.96,
+  "usage_perc_y":93.81,
+  "usage_perc_a":3.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",
