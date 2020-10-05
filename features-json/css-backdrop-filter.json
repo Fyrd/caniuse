@@ -407,7 +407,7 @@
   "notes_by_num":{
     "1":"Can be enabled via the \"Experimental Web Platform Features\" flag",
     "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
-    "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` preference to `true` in about:config."
+    "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` and `gfx.webrender.all` preference to `true` in about:config."
   },
   "usage_perc_y":87.64,
   "usage_perc_a":0,
