@@ -18,7 +18,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari 14 and below [throw an error](https://bugs.webkit.org/show_bug.cgi?id=216841) when the base parameter is `undefined`"
+    }
   ],
   "categories":[
     "JS API"

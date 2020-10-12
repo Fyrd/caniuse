@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"`image-rendering:-webkit-optimize-contrast;` and `-ms-interpolation-mode:nearest-neighbor` do not affect CSS images."
+    },
+    {
+      "description":"Safari [has a bug](https://bugs.webkit.org/show_bug.cgi?id=193895) where `image-rendering: pixelated` is not supported for WebGL contexts."
     }
   ],
   "categories":[
