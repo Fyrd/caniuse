@@ -13,8 +13,8 @@
       "title":"W3C Async Clipboard Explainer"
     },
     {
-      "url":"https://developers.google.com/web/updates/2018/03/clipboardapi",
-      "title":"Google Chrome Updates - Unlocking Clipboard Access"
+      "url":"https://web.dev/async-clipboard/",
+      "title":"Unlocking Clipboard Access"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1619251",
@@ -117,27 +117,27 @@
       "60":"n",
       "61":"n",
       "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n",
-      "67":"n",
-      "68":"n",
-      "69":"n",
-      "70":"n",
-      "71":"n",
-      "72":"n",
-      "73":"n",
-      "74":"n",
-      "75":"n",
-      "76":"n",
-      "77":"n",
-      "78":"n",
-      "79":"n",
-      "80":"n",
-      "81":"n",
-      "82":"n",
-      "83":"n"
+      "63":"a #1",
+      "64":"a #1",
+      "65":"a #1",
+      "66":"a #1",
+      "67":"a #1",
+      "68":"a #1",
+      "69":"a #1",
+      "70":"a #1",
+      "71":"a #1",
+      "72":"a #1",
+      "73":"a #1",
+      "74":"a #1",
+      "75":"a #1",
+      "76":"a #1",
+      "77":"a #1",
+      "78":"a #1",
+      "79":"a #1",
+      "80":"a #1",
+      "81":"a #1",
+      "82":"a #1",
+      "83":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -295,31 +295,31 @@
       "45":"n",
       "46":"n",
       "47":"n",
-      "48":"u",
-      "49":"u",
-      "50":"u",
-      "51":"u",
-      "52":"u",
-      "53":"u",
-      "54":"u",
-      "55":"u",
-      "56":"u",
-      "57":"u",
-      "58":"u",
-      "60":"u",
-      "62":"u",
-      "63":"u",
-      "64":"u",
-      "65":"u",
-      "66":"u",
-      "67":"u",
-      "68":"u",
-      "69":"u",
-      "70":"u",
-      "71":"u"
+      "48":"n",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "60":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y"
     },
     "ios_saf":{
-      "3.2":"u",
+      "3.2":"n",
       "4.0-4.1":"n",
       "4.2-4.3":"n",
       "5.0-5.1":"n",
@@ -338,8 +338,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4-13.7":"y",
-      "14":"y"
+      "13.4-13.7":"n",
+      "14":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -354,7 +354,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "81":"n"
+      "81":"a #2"
     },
     "bb":{
       "7":"n",
@@ -367,13 +367,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "59":"n"
+      "59":"a #2"
     },
     "and_chr":{
-      "85":"n"
+      "85":"a #2"
     },
     "and_ff":{
-      "79":"n"
+      "79":"a #1"
     },
     "ie_mob":{
       "10":"n",
@@ -388,10 +388,10 @@
       "6.2-6.4":"n",
       "7.2-7.4":"n",
       "8.2":"n",
-      "9.2":"n",
-      "10.1":"n",
-      "11.1-11.2":"n",
-      "12.0":"n"
+      "9.2":"a #2",
+      "10.1":"a #2",
+      "11.1-11.2":"a #2",
+      "12.0":"a #2"
     },
     "and_qq":{
       "10.4":"n"
@@ -405,16 +405,17 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Partial support in Firefox refers to only supporting the \"clipboard-write\" permission and the \"writeText\" method.",
+    "2":"Supports writing to clipboard but not reading."
   },
-  "usage_perc_y":44.08,
-  "usage_perc_a":0,
+  "usage_perc_y":38.32,
+  "usage_perc_a":45.23,
   "ucprefix":false,
   "parent":"",
-  "keywords":"clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",
+  "keywords":"navigator.clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",
   "ie_id":"clipboardapi",
   "chrome_id":"5861289330999296",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
