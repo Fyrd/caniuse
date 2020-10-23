@@ -27,6 +27,10 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=119175",
       "title":"Bug for WebKit/Safari"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=214946",
+      "title":"Bug for WebKit/Safari"
     }
   ],
   "bugs":[
@@ -256,7 +260,7 @@
       "13":"n",
       "13.1":"n",
       "14":"n",
-      "TP":"n"
+      "TP":"a #6"
     },
     "opera":{
       "9":"y",
@@ -417,7 +421,8 @@
     "2":"Partial support in iOS Safari refers to not supporting the `week` input type, nor the `min`, `max` or `step` attributes",
     "3":"Some modified versions of the Android 4.x browser do have support for date/time fields.",
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
-    "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
+    "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
+    "6":"Partial support in macOS Safari refers to not supporting the `week` and `month` input type",
   },
   "usage_perc_y":76.59,
   "usage_perc_a":15.57,
