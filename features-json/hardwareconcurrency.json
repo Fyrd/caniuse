@@ -313,7 +313,8 @@
       "68":"y",
       "69":"y",
       "70":"y",
-      "71":"y"
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -404,7 +405,7 @@
   "notes_by_num":{
     "1":"WebKit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others. Disabled in Safari behind the ENABLE_NAVIGATOR_HWCONCURRENCY build option."
   },
-  "usage_perc_y":95.58,
+  "usage_perc_y":95.84,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

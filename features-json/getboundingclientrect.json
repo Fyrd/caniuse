@@ -317,7 +317,8 @@
       "68":"y",
       "69":"y",
       "70":"y",
-      "71":"y"
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -412,8 +413,8 @@
     "4":"Existing properties of the returned object are immutable.",
     "5":"The returned object lacks `x` & `y` values, though existing `top` & `left` values can be used instead."
   },
-  "usage_perc_y":99.33,
-  "usage_perc_a":0.2,
+  "usage_perc_y":99.47,
+  "usage_perc_a":0.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"getBoundingClientRect,bounding,client,rect,DOMRect,box,cssom",

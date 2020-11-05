@@ -331,7 +331,8 @@
       "68":"y",
       "69":"y",
       "70":"y",
-      "71":"y"
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -425,8 +426,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"Supports [Permissions Policy](#feat=permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":71.84,
-  "usage_perc_a":20.02,
+  "usage_perc_y":72.23,
+  "usage_perc_a":20.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",
