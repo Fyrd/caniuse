@@ -1,4 +1,7 @@
 sudo: false
+arch:
+ - amd64
+ - ppc64le
 language: node_js
 node_js:
   - stable
