@@ -43,7 +43,8 @@
       "83":"y",
       "84":"y #3",
       "85":"y #3",
-      "86":"y #3"
+      "86":"y #3",
+      "87":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -130,7 +131,8 @@
       "81":"y",
       "82":"y",
       "83":"y",
-      "84":"y"
+      "84":"y",
+      "85":"y"
     },
     "chrome":{
       "4":"n",
@@ -212,12 +214,13 @@
       "80":"y",
       "81":"y",
       "83":"y",
-      "84":"y #3",
+      "84":"y",
       "85":"y #3",
       "86":"y #3",
       "87":"y #3",
       "88":"y #3",
-      "89":"y #3"
+      "89":"y #3",
+      "90":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -238,10 +241,10 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
-      "13":"y",
-      "13.1":"y",
-      "14":"y",
-      "TP":"y"
+      "13":"y #4",
+      "13.1":"y #4",
+      "14":"y #4",
+      "TP":"y #4"
     },
     "opera":{
       "9":"n",
@@ -331,9 +334,9 @@
       "12.2-12.4":"y",
       "13.0-13.1":"y",
       "13.2":"y",
-      "13.3":"y",
-      "13.4-13.7":"y",
-      "14":"y"
+      "13.3":"y #4",
+      "13.4-13.7":"y #4",
+      "14":"y #4"
     },
     "op_mini":{
       "all":"n"
@@ -401,7 +404,8 @@
   "notes_by_num":{
     "1":"Browsers initially supported an [early draft](https://wiki.whatwg.org/wiki/Meta_referrer) of the specification which can only use a meta tag and is only compatible with the `origin` value from the new spec.",
     "2":"Chrome 21-60 did not support the `same-origin`, `strict-origin` and `strict-origin-when-cross-origin` values. ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))",
-    "3":"Chrome is now defaulting to `strict-origin-when-cross-origin` which is the recommended setting for most use-cases."
+    "3":"The default policy has been changed from `no-referrer-when-downgrade` to `strict-origin-when-cross-origin.` See [the revised spec.](https://github.com/w3c/webappsec-referrer-policy/pull/142)",
+    "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) referrer headers to the page's origin, ignoring the `unsafe-url` referrer policy."
   },
   "usage_perc_y":94.23,
   "usage_perc_a":3.21,
@@ -409,8 +413,8 @@
   "parent":"",
   "keywords":"meta,referrer,referer",
   "ie_id":"metareferrer",
-  "chrome_id":"5639972996513792",
+  "chrome_id":"5639972996513792,6251880185331712",
   "firefox_id":"",
-  "webkit_id":"",
+  "webkit_id":"201353",
   "shown":true
 }
