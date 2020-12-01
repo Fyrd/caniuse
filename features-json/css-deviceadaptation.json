@@ -1,6 +1,6 @@
 {
   "title":"CSS Device Adaptation",
-  "description":"A standard way to override the size of viewport in web page using the `@viewport` rule, standardizing and replacing Apple's own popular `<meta>` viewport implementation.",
+  "description":"Method of overriding the size of viewport in web page using the `@viewport` rule, replacing Apple's own popular `<meta>` viewport implementation. Includes the `extend-to-zoom` width value.",
   "spec":"https://www.w3.org/TR/css-device-adapt/",
   "status":"wd",
   "links":[
@@ -11,10 +11,6 @@
     {
       "url":"http://msdn.microsoft.com/en-us/library/ie/hh708740(v=vs.85).aspx",
       "title":"Device adaptation in Internet Explorer 10"
-    },
-    {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6777420-unprefix-and-support-all-viewport-properties",
-      "title":"Microsoft Edge feature request on UserVoice"
     },
     {
       "url":"https://code.google.com/p/chromium/issues/detail?id=155477",
@@ -416,7 +412,7 @@
       "2.5":"n"
     }
   },
-  "notes":"",
+  "notes":"Due to lack of implementation this specification [is slated to be retired](https://github.com/w3c/csswg-drafts/issues/4766).",
   "notes_by_num":{
     "1":"IE only supports the 'width' and 'height' properties.",
     "2":"Opera Mobile and Opera Mini only support the 'orientation' property."
@@ -425,7 +421,7 @@
   "usage_perc_a":2.41,
   "ucprefix":false,
   "parent":"",
-  "keywords":"viewport",
+  "keywords":"viewport,extend-to-zoom",
   "ie_id":"cssdeviceadaptation",
   "chrome_id":"4737164243894272",
   "firefox_id":"",
