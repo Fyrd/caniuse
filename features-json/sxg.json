@@ -356,7 +356,7 @@
       "13.2":"n",
       "13.3":"n",
       "13.4-13.7":"n",
-      "14":"n"
+      "14.0-14.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -408,7 +408,8 @@
       "9.2":"n",
       "10.1":"n",
       "11.1-11.2":"u",
-      "12.0":"u"
+      "12.0":"u",
+      "13.0":"u"
     },
     "and_qq":{
       "10.4":"u"
@@ -424,8 +425,8 @@
   "notes_by_num":{
     "1":"Partial support behind a feature flag (chrome://flags/#enable-signed-http-exchange)"
   },
-  "usage_perc_y":69.48,
-  "usage_perc_a":0.2,
+  "usage_perc_y":66.96,
+  "usage_perc_a":0.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"SXG, WebPackage, AMP",

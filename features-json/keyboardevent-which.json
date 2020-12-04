@@ -332,7 +332,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -384,7 +384,8 @@
       "9.2":"a #1",
       "10.1":"a #1",
       "11.1-11.2":"a #1",
-      "12.0":"a #1"
+      "12.0":"a #1",
+      "13.0":"a #1"
     },
     "and_qq":{
       "10.4":"y"
@@ -400,8 +401,8 @@
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":61.46,
-  "usage_perc_a":36.97,
+  "usage_perc_y":57.57,
+  "usage_perc_a":40.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

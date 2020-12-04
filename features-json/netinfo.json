@@ -333,7 +333,7 @@
       "13.2":"n",
       "13.3":"n",
       "13.4-13.7":"n",
-      "14":"n"
+      "14.0-14.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -385,7 +385,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -404,8 +405,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":37,
-  "usage_perc_a":37.06,
+  "usage_perc_y":40.58,
+  "usage_perc_a":31.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

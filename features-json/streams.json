@@ -340,7 +340,7 @@
       "13.2":"a #4",
       "13.3":"a #4",
       "13.4-13.7":"a #4",
-      "14":"a #4"
+      "14.0-14.2":"a #4"
     },
     "op_mini":{
       "all":"n"
@@ -392,7 +392,8 @@
       "9.2":"a #4",
       "10.1":"a #4",
       "11.1-11.2":"a #4",
-      "12.0":"a #4"
+      "12.0":"a #4",
+      "13.0":"a #4"
     },
     "and_qq":{
       "10.4":"a #4"
@@ -414,7 +415,7 @@
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
   "usage_perc_y":0,
-  "usage_perc_a":93.41,
+  "usage_perc_a":92.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

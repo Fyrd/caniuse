@@ -344,7 +344,7 @@
       "13.2":"n",
       "13.3":"n",
       "13.4-13.7":"n",
-      "14":"a #2"
+      "14.0-14.2":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -396,7 +396,8 @@
       "9.2":"a #2",
       "10.1":"a #2",
       "11.1-11.2":"a #2",
-      "12.0":"a #2"
+      "12.0":"a #2",
+      "13.0":"a #2"
     },
     "and_qq":{
       "10.4":"n"
@@ -413,8 +414,8 @@
     "1":"Partial support in Firefox refers to only supporting the \"clipboard-write\" permission and the \"writeText\" method.",
     "2":"Supports writing to clipboard but not reading."
   },
-  "usage_perc_y":73.63,
-  "usage_perc_a":12.04,
+  "usage_perc_y":71.19,
+  "usage_perc_a":16.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",

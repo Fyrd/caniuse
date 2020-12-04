@@ -334,7 +334,7 @@
       "13.2":"n #4",
       "13.3":"n #4",
       "13.4-13.7":"n #4",
-      "14":"n #4"
+      "14.0-14.2":"n #4"
     },
     "op_mini":{
       "all":"n #4"
@@ -386,7 +386,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y #1"
@@ -405,7 +406,7 @@
     "3":"If multiple formats are available, will use the last one loaded, regardless of sizes (effectively picks at random).",
     "4":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
   },
-  "usage_perc_y":86.11,
+  "usage_perc_y":83.9,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

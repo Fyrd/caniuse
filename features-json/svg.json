@@ -363,7 +363,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -415,7 +415,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -433,8 +434,8 @@
     "2":"Partial support in IE9-11 refers to not supporting animations.",
     "3":"IE9-11 & Edge don't properly scale SVG files. [Adding height, width, viewBox, and CSS rules](https://codepen.io/tomByrer/pen/qEBbzw?editors=110) seems to be the best workaround."
   },
-  "usage_perc_y":98.22,
-  "usage_perc_a":1.38,
+  "usage_perc_y":98.08,
+  "usage_perc_a":1.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset,stroke-opacity",

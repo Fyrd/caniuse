@@ -348,7 +348,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -400,7 +400,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -419,8 +420,8 @@
     "3":"Chrome 85+ and Safari for MacOS 13.1+ displays `Not secure` in the address bar when connecting over TLS 1.1",
     "4":"Chrome 85+ displays a full page dismissable warning every time a new site connects over TLS 1.1"
   },
-  "usage_perc_y":65.37,
-  "usage_perc_a":33.32,
+  "usage_perc_y":70.7,
+  "usage_perc_a":27.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

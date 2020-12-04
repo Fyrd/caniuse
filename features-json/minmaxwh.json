@@ -354,7 +354,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -406,7 +406,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -423,7 +424,7 @@
     "1":"IE7 does not support `inherit` as a value on any of these properties.",
     "2":"IE8 has some bugs with `max-width`/`height` combined with `overflow: auto`/`scroll`."
   },
-  "usage_perc_y":99.68,
+  "usage_perc_y":99.62,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

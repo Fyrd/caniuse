@@ -353,7 +353,7 @@
       "13.2":"y #3 #4",
       "13.3":"y #3 #4",
       "13.4-13.7":"y #3",
-      "14":"y #3"
+      "14.0-14.2":"y #3"
     },
     "op_mini":{
       "all":"n"
@@ -405,7 +405,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -424,7 +425,7 @@
     "3":"`getUserMedia` returns no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari.",
     "4":"Does not work in standalone running (\"installed\") PWAs."
   },
-  "usage_perc_y":94.87,
+  "usage_perc_y":94.64,
   "usage_perc_a":1.03,
   "ucprefix":false,
   "parent":"",

@@ -340,7 +340,7 @@
       "13.2":"a #1",
       "13.3":"a #1",
       "13.4-13.7":"a #1",
-      "14":"a #1"
+      "14.0-14.2":"a #1"
     },
     "op_mini":{
       "all":"a #1"
@@ -392,7 +392,8 @@
       "9.2":"a #1",
       "10.1":"a #1",
       "11.1-11.2":"a #1",
-      "12.0":"a #1"
+      "12.0":"a #1",
+      "13.0":"a #1"
     },
     "and_qq":{
       "10.4":"a #1"
@@ -410,7 +411,7 @@
     "2":"Early versions of Chrome [experimented](https://www.imperialviolet.org/2011/06/16/dnssecchrome.html) with browser-level validation."
   },
   "usage_perc_y":0,
-  "usage_perc_a":99.7,
+  "usage_perc_a":99.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"DNS Security Extensions,Domain Name System Security Extensions,DNS based Authentication of Named Entities",

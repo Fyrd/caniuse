@@ -356,7 +356,7 @@
       "13.2":"a #1",
       "13.3":"a #1",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -408,7 +408,8 @@
       "9.2":"n",
       "10.1":"n",
       "11.1-11.2":"n",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -424,8 +425,8 @@
   "notes_by_num":{
     "1":"Safari did not support `clamp()`"
   },
-  "usage_perc_y":87.04,
-  "usage_perc_a":3.58,
+  "usage_perc_y":87.59,
+  "usage_perc_a":2.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"min,min(),max,max(),clamp,clamp()",

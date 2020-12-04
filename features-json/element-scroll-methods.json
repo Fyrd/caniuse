@@ -337,7 +337,7 @@
       "13.2":"a #1",
       "13.3":"a #1",
       "13.4-13.7":"a #1",
-      "14":"a #1"
+      "14.0-14.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -389,7 +389,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -405,8 +406,8 @@
   "notes_by_num":{
     "1":"Does not support the `smooth` behavior option."
   },
-  "usage_perc_y":78.59,
-  "usage_perc_a":16.04,
+  "usage_perc_y":76.36,
+  "usage_perc_a":18.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"element.prototype.scroll,element.prototype.scrollTo,element.prototype.scrollBy",

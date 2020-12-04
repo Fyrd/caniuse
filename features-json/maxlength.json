@@ -336,7 +336,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -388,7 +388,8 @@
       "9.2":"y #6",
       "10.1":"y #6",
       "11.1-11.2":"y #6",
-      "12.0":"y #6"
+      "12.0":"y #6",
+      "13.0":"y #6"
     },
     "and_qq":{
       "10.4":"y"
@@ -409,8 +410,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":98.35,
-  "usage_perc_a":1.32,
+  "usage_perc_y":98.09,
+  "usage_perc_a":1.49,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",

@@ -336,7 +336,7 @@
       "13.2":"a #1",
       "13.3":"a #1",
       "13.4-13.7":"a #1",
-      "14":"a #1"
+      "14.0-14.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -388,7 +388,8 @@
       "9.2":"a #2",
       "10.1":"a #2",
       "11.1-11.2":"a #2",
-      "12.0":"a #2"
+      "12.0":"a #2",
+      "13.0":"a #2"
     },
     "and_qq":{
       "10.4":"a #2"
@@ -407,8 +408,8 @@
     "3":"Does not allow any files to be picked at all",
     "4":"Supports the type format but does not allow any file to be picked when using the extension format"
   },
-  "usage_perc_y":46.32,
-  "usage_perc_a":49.93,
+  "usage_perc_y":40.36,
+  "usage_perc_a":55.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

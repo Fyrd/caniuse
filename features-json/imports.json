@@ -349,7 +349,7 @@
       "13.2":"p",
       "13.3":"p",
       "13.4-13.7":"p",
-      "14":"p"
+      "14.0-14.2":"p"
     },
     "op_mini":{
       "all":"n"
@@ -401,7 +401,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"y"
@@ -421,7 +422,7 @@
     "4":"Enabled through the \"Enable HTML Imports\" flag in opera://flags",
     "5":"Enabled through the \"Experimental Web Platform features\" flag in opera://flags"
   },
-  "usage_perc_y":6.89,
+  "usage_perc_y":6.84,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

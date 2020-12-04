@@ -340,7 +340,7 @@
       "13.2":"y #1",
       "13.3":"y #1",
       "13.4-13.7":"y #1",
-      "14":"y #1"
+      "14.0-14.2":"y #1"
     },
     "op_mini":{
       "all":"n"
@@ -392,7 +392,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"u"
@@ -410,8 +411,8 @@
     "2":"Android 2.2-2.3 do not support the capture attribute",
     "3":"Supports a \"capture\" button for any `<input type=\"file\"> field, regardless of the whether the capture attribute is used."
   },
-  "usage_perc_y":49.37,
-  "usage_perc_a":1.21,
+  "usage_perc_y":54.87,
+  "usage_perc_a":1.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"htmlmediacapture, html media capture, media capture, mediacapture",

@@ -344,7 +344,7 @@
       "13.2":"n",
       "13.3":"n",
       "13.4-13.7":"n",
-      "14":"n"
+      "14.0-14.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -396,7 +396,8 @@
       "9.2":"n",
       "10.1":"n",
       "11.1-11.2":"n",
-      "12.0":"n"
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -412,8 +413,8 @@
   "notes_by_num":{
     "1":"Partial support in Edge refers to scrolling to text inputs or textareas, even when using preventScroll. Submit inputs and buttons work as expected."
   },
-  "usage_perc_y":36.51,
-  "usage_perc_a":0.34,
+  "usage_perc_y":30.74,
+  "usage_perc_a":0.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"focus,preventScroll",

@@ -340,7 +340,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -392,7 +392,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -411,8 +412,8 @@
     "3":"Disabled by default behind the `network.preload` flag.",
     "4":"Partial support in Edge 17+ refers to support for only the HTML `<link rel>` format, not the HTTP header format."
   },
-  "usage_perc_y":89.03,
-  "usage_perc_a":0.36,
+  "usage_perc_y":88.9,
+  "usage_perc_a":0.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

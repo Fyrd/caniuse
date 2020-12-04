@@ -342,7 +342,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -394,7 +394,8 @@
       "9.2":"y #6",
       "10.1":"y #6",
       "11.1-11.2":"y #6",
-      "12.0":"y #6"
+      "12.0":"y #6",
+      "13.0":"y #6"
     },
     "and_qq":{
       "10.4":"y #6"
@@ -416,7 +417,7 @@
     "6":"Does not support OpenType-CFF2 fonts",
     "7":"OpenType-CFF2 support requires MacOS 10.15+"
   },
-  "usage_perc_y":92.88,
+  "usage_perc_y":92.48,
   "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",

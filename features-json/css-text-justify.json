@@ -340,7 +340,7 @@
       "13.2":"n",
       "13.3":"n",
       "13.4-13.7":"n",
-      "14":"n"
+      "14.0-14.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -392,7 +392,8 @@
       "9.2":"n d #2",
       "10.1":"n d #2",
       "11.1-11.2":"n d #2",
-      "12.0":"n d #2"
+      "12.0":"n d #2",
+      "13.0":"n d #2"
     },
     "and_qq":{
       "10.4":"n d #2"
@@ -411,8 +412,8 @@
     "3":"Behind the \"layout.css.text-justify.enabled\" flag",
     "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
   },
-  "usage_perc_y":3.71,
-  "usage_perc_a":1.81,
+  "usage_perc_y":3.53,
+  "usage_perc_a":1.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

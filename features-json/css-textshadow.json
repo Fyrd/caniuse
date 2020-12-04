@@ -348,7 +348,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"a"
@@ -400,7 +400,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -417,8 +418,8 @@
     "1":"IE 10+ supports a fourth length value for the shadow's \"spread\". This is not (yet) part of the specification.",
     "2":"Partial support in Safari 3.* refers to not supporting multiple shadows."
   },
-  "usage_perc_y":98.5,
-  "usage_perc_a":0.88,
+  "usage_perc_y":98.25,
+  "usage_perc_a":1.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"text shadow",

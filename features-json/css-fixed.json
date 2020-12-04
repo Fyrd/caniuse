@@ -345,7 +345,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -397,7 +397,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -416,8 +417,8 @@
     "3":"Android 4.0-4.3 [ignore transforms and margin:auto on position:fixed elements](https://codepen.io/mattiacci/pen/mPRKZY).",
     "4":"in Safari 9.1, having a `position:fixed`-element inside an animated element, [may cause the `position:fixed`-element to not appear](https://jsbin.com/fuxipax)."
   },
-  "usage_perc_y":98.75,
-  "usage_perc_a":0.03,
+  "usage_perc_y":98.52,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

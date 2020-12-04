@@ -340,7 +340,7 @@
       "13.2":"a #1 #2",
       "13.3":"a #1 #2",
       "13.4-13.7":"a #2",
-      "14":"a #2"
+      "14.0-14.2":"a #2"
     },
     "op_mini":{
       "all":"a #1 #2"
@@ -392,7 +392,8 @@
       "9.2":"a #1 #2",
       "10.1":"a #1 #2",
       "11.1-11.2":"a #1 #2",
-      "12.0":"a #1 #2"
+      "12.0":"a #1 #2",
+      "13.0":"a #1 #2"
     },
     "and_qq":{
       "10.4":"a #1 #2"
@@ -410,7 +411,7 @@
     "2":"Does not support the `clip` value"
   },
   "usage_perc_y":0,
-  "usage_perc_a":99.7,
+  "usage_perc_a":99.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"overflow:hidden,overflow:scroll,overflow:clip",

@@ -336,7 +336,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14":"y"
+      "14.0-14.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -388,7 +388,8 @@
       "9.2":"y",
       "10.1":"y",
       "11.1-11.2":"y",
-      "12.0":"y"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -405,8 +406,8 @@
     "1":"Also supports the value of `invert` for `outline-color`. (support of this value is optional for browsers)",
     "2":"Does not support `outline-offset`."
   },
-  "usage_perc_y":97.3,
-  "usage_perc_a":1.5,
+  "usage_perc_y":97.03,
+  "usage_perc_a":1.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"-moz-outline,outline-width,outline-style,outline-color,outline-radius",

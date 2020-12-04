@@ -346,7 +346,7 @@
       "13.2":"a x #1",
       "13.3":"a x #1",
       "13.4-13.7":"a x #1",
-      "14":"a x #1"
+      "14.0-14.2":"a x #1"
     },
     "op_mini":{
       "all":"n"
@@ -398,7 +398,8 @@
       "9.2":"n",
       "10.1":"n",
       "11.1-11.2":"n",
-      "12.0":"n"
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -415,7 +416,7 @@
     "1":"Safari implementation is incomplete. Does not allow applying web fonts to the initial letter."
   },
   "usage_perc_y":0,
-  "usage_perc_a":16.41,
+  "usage_perc_a":18.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"initial-letter,initial letter,letter,drop cap,dropcap",
