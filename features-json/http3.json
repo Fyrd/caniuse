@@ -1,7 +1,7 @@
 {
   "title":"HTTP/3 protocol",
   "description":"Upcoming version of the HTTP networking protocol, which is currently a draft. Previously known as HTTP-over-QUIC. Uses QUIC as its transport layer protocol.",
-  "spec":"https://tools.ietf.org/html/draft-ietf-quic-http-23",
+  "spec":"https://tools.ietf.org/html/draft-ietf-quic-http-29",
   "status":"other",
   "links":[
     {
@@ -33,14 +33,14 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"n",
-      "80":"n",
-      "81":"n",
-      "83":"n",
-      "84":"n",
-      "85":"n",
-      "86":"n",
-      "87":"n"
+      "79":"n d #2",
+      "80":"n d #2",
+      "81":"n d #2",
+      "83":"n d #2",
+      "84":"n d #2",
+      "85":"n d #3",
+      "86":"n d #3",
+      "87":"n d #3"
     },
     "firefox":{
       "2":"n",
@@ -211,12 +211,12 @@
       "81":"n d #2",
       "83":"n d #2",
       "84":"n d #2",
-      "85":"n d #2",
-      "86":"n d #2",
-      "87":"n d #2",
-      "88":"n d #2",
-      "89":"n d #2",
-      "90":"n d #2"
+      "85":"n d #3",
+      "86":"n d #3",
+      "87":"n d #3",
+      "88":"n d #3",
+      "89":"n d #3",
+      "90":"n d #3"
     },
     "safari":{
       "3.1":"n",
@@ -239,8 +239,8 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
-      "14":"a #3",
-      "TP":"a #3"
+      "14":"a #4",
+      "TP":"a #4"
     },
     "opera":{
       "9":"n",
@@ -400,8 +400,9 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled in Firefox via the `network.http.http3.enabled` pref in `about:config`.",
-    "2":"Can be enabled in Chrome pre-release channels via the `--enable-quic` & `--quic-version=h3-23` command line arguments.",
-    "3":"Partial support in Safari refers to being limited to macOS 11 Big Sur and later."
+    "2":"Can be enabled in Chrome(Chromium) via the `--enable-quic` & `--quic-version=h3-23` command line arguments.",
+    "3":"Can be enabled in Chrome(Chromium) via the `--enable-quic` & `--quic-version=h3-29` command line arguments.",
+    "4":"Partial support in Safari refers to being limited to macOS 11 Big Sur and later."
   },
   "usage_perc_y":0,
   "usage_perc_a":2.3,
