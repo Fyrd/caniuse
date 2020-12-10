@@ -27,6 +27,9 @@
     },
     {
       "description":"Currently there are no browsers with support for spread-radius in the drop-shadow filter. [See comment on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow#Parameters)."
+    },
+    {
+      "description":"In Safari filter won't apply to child elements while they are animating. [WebKit Bug](https://bugs.webkit.org/show_bug.cgi?id=219729)."
     }
   ],
   "categories":[
