@@ -140,7 +140,8 @@
       "82":"y",
       "83":"y",
       "84":"y",
-      "85":"y"
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -251,8 +252,8 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
-      "14":"n",
-      "TP":"n"
+      "14":"n d #3",
+      "TP":"n d #3"
     },
     "opera":{
       "9":"n",
@@ -412,7 +413,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
-    "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag"
+    "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag",
+    "3":"Supported in Safari via the \"CSSOM View Smooth Scrolling\" Experimental Features flag."
   },
   "usage_perc_y":76.27,
   "usage_perc_a":0,
