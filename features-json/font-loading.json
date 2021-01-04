@@ -14,7 +14,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description": "If _none_ of the specified fonts exist, `FontFaceSet.check()` should [return `true`](https://drafts.csswg.org/css-font-loading/#font-face-set-check) due to [the privacy concern](https://github.com/w3c/csswg-drafts/issues/5744) regarding fingerprinting. Chrome/Blink-based browsers return `false`."
+    }
   ],
   "categories":[
     "CSS3",
