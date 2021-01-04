@@ -342,7 +342,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.2":"y"
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -411,8 +411,8 @@
   "notes_by_num":{
     "1":"Does not support `readAsBinaryString`, but `readAsBinaryString` [can be polyfilled](https://stackoverflow.com/q/31391207)"
   },
-  "usage_perc_y":96.8,
-  "usage_perc_a":1.13,
+  "usage_perc_y":96.51,
+  "usage_perc_a":1.12,
   "ucprefix":false,
   "parent":"fileapi",
   "keywords":"",

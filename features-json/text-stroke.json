@@ -343,7 +343,7 @@
       "13.2":"y x",
       "13.3":"y x",
       "13.4-13.7":"y x",
-      "14.0-14.2":"y x"
+      "14.0-14.3":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -413,8 +413,8 @@
     "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":96.61,
-  "usage_perc_a":0.04,
+  "usage_perc_y":96.28,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"textstroke,stroke-color,stroke-width,text-fill-color,text-outline",

@@ -333,7 +333,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.2":"y"
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"u"
@@ -406,8 +406,8 @@
     "4":"`Comment` nodes are treated as not being contained by any node.",
     "5":"The method throws an error when given a `Text` node as an argument."
   },
-  "usage_perc_y":94.83,
-  "usage_perc_a":1.72,
+  "usage_perc_y":94.37,
+  "usage_perc_a":1.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"Node,node,contains,contain,ancestor,descendant,DOM",

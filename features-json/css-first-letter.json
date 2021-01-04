@@ -338,7 +338,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.2":"y"
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -410,8 +410,8 @@
     "3":"Only recognizes the deprecated :first-letter pseudo-class, not the ::first-letter pseudo-element.",
     "4":"Only matches the very first character. The spec says that surrounding punctuation should also match."
   },
-  "usage_perc_y":99.36,
-  "usage_perc_a":0.16,
+  "usage_perc_y":99.14,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"first,letter,pseudo,element,class,selector",
