@@ -1,6 +1,6 @@
 {
   "title":"AVIF image format",
-  "description":"Image format based on the AV1 video format.",
+  "description":"A modern image format based on the AV1 video format. AVIF generally has better compression than [WebP](#feat=webp), JPEG, PNG and GIF and is designed to supersede them.",
   "spec":"https://aomediacodec.github.io/av1-avif/",
   "status":"other",
   "links":[
@@ -23,10 +23,6 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=207750",
       "title":"Safari support bug"
-    },
-    {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1625363",
-      "title":"Mozilla support bug"
     }
   ],
   "bugs":[
@@ -56,7 +52,11 @@
       "79":"n",
       "80":"n",
       "81":"n",
-      "83":"n"
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n",
+      "87":"n"
     },
     "firefox":{
       "2":"n",
@@ -137,7 +137,15 @@
       "75":"n",
       "76":"n",
       "77":"n d #1",
-      "78":"n d #1"
+      "78":"n d #1",
+      "79":"n d #1",
+      "80":"n d #1",
+      "81":"n d #1",
+      "82":"n d #1",
+      "83":"n d #1",
+      "84":"n d #1",
+      "85":"n d #1",
+      "86":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -220,8 +228,12 @@
       "81":"n",
       "83":"n",
       "84":"n",
-      "85":"n",
-      "86":"n"
+      "85":"y",
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -244,6 +256,7 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
+      "14":"n",
       "TP":"n"
     },
     "opera":{
@@ -309,7 +322,11 @@
       "65":"n",
       "66":"n",
       "67":"n",
-      "68":"n"
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -331,7 +348,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -359,13 +377,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n"
+      "87":"n"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -382,7 +400,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -398,13 +418,13 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox via the `image.avif.enabled` flag in `about:config`"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":24.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"4905307790639104",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true

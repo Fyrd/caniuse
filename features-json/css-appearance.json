@@ -7,6 +7,10 @@
     {
       "url":"https://css-tricks.com/almanac/properties/a/appearance/",
       "title":"CSS Tricks article"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=143842",
+      "title":"Safari implementation bug for unprefixed `appearance`"
     }
   ],
   "bugs":[
@@ -36,7 +40,11 @@
       "79":"a x #1",
       "80":"a x #1",
       "81":"a x #1",
-      "83":"y x"
+      "83":"y x",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"a x #1 #3",
@@ -117,7 +125,15 @@
       "75":"a x #1",
       "76":"a x #1",
       "77":"a x #1",
-      "78":"a x #1"
+      "78":"a x #1",
+      "79":"a x #1",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -201,7 +217,11 @@
       "83":"y x",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -224,6 +244,7 @@
       "12.1":"a x #1",
       "13":"a x #1",
       "13.1":"a x #1",
+      "14":"a x #1",
       "TP":"a x #1"
     },
     "opera":{
@@ -289,7 +310,11 @@
       "65":"a x #1",
       "66":"a x #1",
       "67":"a x #1",
-      "68":"a x #1"
+      "68":"a x #1",
+      "69":"a x #1",
+      "70":"y x",
+      "71":"y x",
+      "72":"y x"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -311,7 +336,8 @@
       "13.0-13.1":"a x #1",
       "13.2":"a x #1",
       "13.3":"a x #1",
-      "13.4":"a x #1"
+      "13.4-13.7":"a x #1",
+      "14.0-14.3":"a x #1"
     },
     "op_mini":{
       "all":"n"
@@ -339,13 +365,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"a x #1"
+      "59":"a x #1"
     },
     "and_chr":{
-      "81":"a x #1"
+      "87":"y"
     },
     "and_ff":{
-      "68":"a x #1"
+      "83":"a x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -362,7 +388,9 @@
       "8.2":"a x #1",
       "9.2":"a x #1",
       "10.1":"a x #1",
-      "11.1":"a x #1"
+      "11.1-11.2":"a x #1",
+      "12.0":"a x #1",
+      "13.0":"a x #1"
     },
     "and_qq":{
       "10.4":"a x #1"
@@ -378,10 +406,10 @@
   "notes_by_num":{
     "1":"The appearance property is supported with the `none` value, but not `auto`.",
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
-    "3":"-moz-appearance:none doesn't remove the dropdown arrow in select tag"
+    "3":"`-moz-appearance:none` did not remove the dropdown arrow in the select tag"
   },
-  "usage_perc_y":0.04,
-  "usage_perc_a":96.48,
+  "usage_perc_y":68.64,
+  "usage_perc_a":28.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

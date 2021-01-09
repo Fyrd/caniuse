@@ -9,7 +9,7 @@
       "title":"Mozilla bug"
     },
     {
-      "url":"http://googleonlinesecurity.blogspot.com/2014/10/strengthening-2-step-verification-with.html",
+      "url":"https://security.googleblog.com/2014/10/strengthening-2-step-verification-with.html",
       "title":"Google Security article"
     }
   ],
@@ -41,7 +41,11 @@
       "79":"y #3",
       "80":"y #3",
       "81":"y #3",
-      "83":"y #3"
+      "83":"y #3",
+      "84":"y #3",
+      "85":"y #3",
+      "86":"y #3",
+      "87":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -122,7 +126,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -206,7 +218,11 @@
       "83":"y #3",
       "84":"y #3",
       "85":"y #3",
-      "86":"y #3"
+      "86":"y #3",
+      "87":"y #3",
+      "88":"y #3",
+      "89":"y #3",
+      "90":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -229,6 +245,7 @@
       "12.1":"n",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -294,7 +311,11 @@
       "65":"y #3",
       "66":"y #3",
       "67":"y #3",
-      "68":"y #3"
+      "68":"y #3",
+      "69":"y #3",
+      "70":"y #3",
+      "71":"y #3",
+      "72":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -316,7 +337,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -344,13 +366,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n"
+      "87":"n"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -367,7 +389,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -385,7 +409,7 @@
     "2":"Support can be enabled with the \"security.webauth.u2f\" flag",
     "3":"Supported [via the internal CryptoTokenExtension.](https://github.com/google/u2f-ref-code/blob/master/u2f-gae-demo/war/js/u2f-api.js)"
   },
-  "usage_perc_y":48.07,
+  "usage_perc_y":49.71,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

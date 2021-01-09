@@ -1,7 +1,7 @@
 {
   "title":"JPEG 2000 image format",
   "description":"JPEG 2000 (JP2) was created by the Joint Photographic Experts Group committee in 2000 with the intention of superseding their original discrete cosine transform-based JPEG standard (created in 1992) with a newly designed, wavelet-based method. It offers some advantages in image fidelity over standard JPEG.",
-  "spec":"http://www.itu.int/rec/T-REC-T.800-200208-I",
+  "spec":"https://www.itu.int/rec/T-REC-T.800-200208-I",
   "status":"other",
   "links":[
     {
@@ -36,7 +36,11 @@
       "79":"n",
       "80":"n",
       "81":"n",
-      "83":"n"
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n",
+      "87":"n"
     },
     "firefox":{
       "2":"n",
@@ -117,7 +121,15 @@
       "75":"n",
       "76":"n",
       "77":"n",
-      "78":"n"
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n"
     },
     "chrome":{
       "4":"n",
@@ -201,7 +213,11 @@
       "83":"n",
       "84":"n",
       "85":"n",
-      "86":"n"
+      "86":"n",
+      "87":"n",
+      "88":"n",
+      "89":"n",
+      "90":"n"
     },
     "safari":{
       "3.1":"n",
@@ -224,6 +240,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -289,7 +306,11 @@
       "65":"n",
       "66":"n",
       "67":"n",
-      "68":"n"
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -311,7 +332,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -339,13 +361,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n"
+      "87":"n"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -362,7 +384,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -378,7 +402,7 @@
   "notes_by_num":{
     "1":"Not supported by Safari for Windows"
   },
-  "usage_perc_y":19.23,
+  "usage_perc_y":18.65,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

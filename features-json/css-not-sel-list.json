@@ -1,6 +1,6 @@
 {
   "title":"selector list argument of :not()",
-  "description":"Selectors Level 4 allows the `:not()` pseudo-class to accept a list of selectors, which the element must not match any of. Selectors Level 3 only allowed `:not()` to accept a single simple selector. Thus, `:not(a):not(.b):not([c])` can instead be written as `:not(a, .b, [c])`",
+  "description":"Selectors Level 3 only allowed `:not()` pseudo-class to accept a single simple selector, which the element must not match any of. Thus, `:not(a, .b, [c])` or `:not(a.b[c])` did not work. Selectors Level 4 allows `:not()` to accept a list of selectors. Thus, `:not(a):not(.b):not([c])` can instead be written as `:not(a, .b, [c])` and `:not(a.b[c])` works as intended.",
   "spec":"https://www.w3.org/TR/selectors4/#negation",
   "status":"wd",
   "links":[
@@ -44,7 +44,11 @@
       "79":"u",
       "80":"n",
       "81":"n",
-      "83":"n"
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n",
+      "87":"n"
     },
     "firefox":{
       "2":"n",
@@ -124,8 +128,16 @@
       "74":"n",
       "75":"n",
       "76":"n",
-      "77":"u",
-      "78":"u"
+      "77":"n",
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -207,9 +219,13 @@
       "80":"n",
       "81":"n",
       "83":"n",
-      "84":"u",
-      "85":"u",
-      "86":"u"
+      "84":"n",
+      "85":"n",
+      "86":"n",
+      "87":"n",
+      "88":"u",
+      "89":"u",
+      "90":"u"
     },
     "safari":{
       "3.1":"n",
@@ -232,6 +248,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -297,7 +314,11 @@
       "65":"n",
       "66":"n",
       "67":"n",
-      "68":"n"
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -319,7 +340,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -347,13 +369,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n"
+      "87":"n"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -370,7 +392,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -386,7 +410,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":19.03,
+  "usage_perc_y":19.39,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

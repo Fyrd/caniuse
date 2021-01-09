@@ -9,7 +9,7 @@
       "title":"MDN Web Docs - battery status"
     },
     {
-      "url":"http://pazguille.github.io/demo-battery-api/",
+      "url":"https://pazguille.github.io/demo-battery-api/",
       "title":"Simple demo"
     }
   ],
@@ -40,7 +40,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -121,7 +125,15 @@
       "75":"n",
       "76":"n",
       "77":"n",
-      "78":"n"
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n"
     },
     "chrome":{
       "4":"n",
@@ -205,7 +217,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -228,6 +244,7 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
+      "14":"n",
       "TP":"n"
     },
     "opera":{
@@ -293,7 +310,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -315,7 +336,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -343,13 +365,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y"
+      "59":"y"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -366,7 +388,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -382,8 +406,8 @@
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":70.49,
-  "usage_perc_a":0.22,
+  "usage_perc_y":73.74,
+  "usage_perc_a":0.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.battery,navigator.getbattery,batterymanager",

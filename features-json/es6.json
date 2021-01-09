@@ -9,7 +9,7 @@
       "title":"ES6 New features: overview and comparisons"
     },
     {
-      "url":"http://exploringjs.com/es6/",
+      "url":"https://exploringjs.com/es6/",
       "title":"Exploring ES6 (book)"
     },
     {
@@ -44,7 +44,11 @@
       "79":"y #2",
       "80":"y #2",
       "81":"y #2",
-      "83":"y #2"
+      "83":"y #2",
+      "84":"y #2",
+      "85":"y #2",
+      "86":"y #2",
+      "87":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -125,7 +129,15 @@
       "75":"y #2",
       "76":"y #2",
       "77":"y #2",
-      "78":"y #2"
+      "78":"y #2",
+      "79":"y #2",
+      "80":"y #2",
+      "81":"y #2",
+      "82":"y #2",
+      "83":"y #2",
+      "84":"y #2",
+      "85":"y #2",
+      "86":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -209,7 +221,11 @@
       "83":"y #2",
       "84":"y #2",
       "85":"y #2",
-      "86":"y #2"
+      "86":"y #2",
+      "87":"y #2",
+      "88":"y #2",
+      "89":"y #2",
+      "90":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -232,6 +248,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -297,7 +314,11 @@
       "65":"y #2",
       "66":"y #2",
       "67":"y #2",
-      "68":"y #2"
+      "68":"y #2",
+      "69":"y #2",
+      "70":"y #2",
+      "71":"y #2",
+      "72":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -319,7 +340,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -347,13 +369,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y #2"
+      "59":"y #2"
     },
     "and_chr":{
-      "81":"y #2"
+      "87":"y #2"
     },
     "and_ff":{
-      "68":"y #2"
+      "83":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -370,7 +392,9 @@
       "8.2":"y #2",
       "9.2":"y #2",
       "10.1":"y #2",
-      "11.1":"y #2"
+      "11.1-11.2":"y #2",
+      "12.0":"y #2",
+      "13.0":"y #2"
     },
     "and_qq":{
       "10.4":"y #2"
@@ -388,8 +412,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":94.03,
-  "usage_perc_a":3.57,
+  "usage_perc_y":94.37,
+  "usage_perc_a":2.94,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

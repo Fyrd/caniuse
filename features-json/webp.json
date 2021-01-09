@@ -1,6 +1,6 @@
 {
   "title":"WebP image format",
-  "description":"Image format that supports lossy and lossless compression, as well as animation and alpha transparency.",
+  "description":"Image format (based on the VP8 video format) that supports lossy and lossless compression, as well as animation and alpha transparency. WebP generally has better compression than JPEG, PNG and GIF and is designed to supersede them. [AVIF](#feat=avif) is designed to supersede WebP.",
   "spec":"https://developers.google.com/speed/webp/",
   "status":"unoff",
   "links":[
@@ -9,36 +9,16 @@
       "title":"Official website"
     },
     {
-      "url":"http://antimatter15.github.io/weppy/demo.html",
-      "title":"Polyfill for browsers with WebM support"
-    },
-    {
-      "url":"http://libwebpjs.appspot.com/",
-      "title":"Decoder in JS"
-    },
-    {
-      "url":"http://webpjs.appspot.com/",
-      "title":"Polyfill for browsers with or without WebM support (i.e. IE6-IE9, Safari/iOS version 6.1 and below; Firefox versions 24 and bel"
-    },
-    {
       "url":"https://developers.google.com/speed/webp/faq#which_web_browsers_natively_support_webp",
       "title":"Official website FAQ - Which web browsers natively support WebP?"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1294490",
-      "title":"Firefox implementation bug"
+      "url":"https://bitsofco.de/why-and-how-to-use-webp-images-today/",
+      "title":"Bitsofcode - Why and how to use WebP images today"
     },
     {
-      "url":"https://libwebpjs.appspot.com/",
-      "title":"Decoder in JS"
-    },
-    {
-      "url":"https://webpjs.appspot.com/",
-      "title":"Polyfill for browsers with or without WebM support"
-    },
-    {
-      "url":"http://antimatter15.com/weppy/demo.html",
-      "title":"Polyfill for browsers with WebM support"
+      "url":"https://github.com/webmproject/libwebp",
+      "title":"WebP decoder and encoder"
     }
   ],
   "bugs":[
@@ -70,7 +50,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -151,7 +135,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -235,7 +227,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -258,7 +254,8 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
-      "TP":"n"
+      "14":"a #3",
+      "TP":"a #3"
     },
     "opera":{
       "9":"n",
@@ -323,7 +320,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -345,7 +346,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -373,13 +375,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "46":"y"
+      "59":"y"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -396,7 +398,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -408,19 +412,20 @@
       "2.5":"p"
     }
   },
-  "notes":"[Safari](https://www.cnet.com/news/apple-ios-macos-tests-googles-webp-graphics-to-speed-up-web) is experimenting with supporting WebP images.",
+  "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to not supporting lossless, alpha and animated WebP images.",
-    "2":"Partial support refers to not supporting animated WebP images."
+    "2":"Partial support refers to not supporting animated WebP images.",
+    "3":"Partial support in Safari refers to being limited to macOS 11 Big Sur and later."
   },
-  "usage_perc_y":76.85,
-  "usage_perc_a":0.21,
+  "usage_perc_y":88.53,
+  "usage_perc_a":2.85,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"vp8,vp8l,libwebp",
   "ie_id":"webpimageformat",
   "chrome_id":"6471725441089536,4785074604081152",
-  "firefox_id":"",
+  "firefox_id":"web-p",
   "webkit_id":"",
   "shown":true
 }

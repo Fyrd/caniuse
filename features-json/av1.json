@@ -13,10 +13,6 @@
       "title":"Sample video from Bitmovin"
     },
     {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/34544281-support-aomedia-video-1-av1",
-      "title":"Microsoft Edge feature request on UserVoice"
-    },
-    {
       "url":"https://www.facebook.com/330716120785217/videos/330723190784510/",
       "title":"Sample video from Facebook"
     },
@@ -30,9 +26,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"AV1 decoding was not available in Firefox on Windows 32-bit starting from Firefox Nightly 63 and through Firefox 65. (It was then re-enabled in Firefox 66.) See [Bug 1445683 - Update aom](https://bugzilla.mozilla.org/show_bug.cgi?id=1445683) and [Bug 1475564 - Build libaom on win32](https://bugzilla.mozilla.org/show_bug.cgi?id=1475564)"
-    }
+    
   ],
   "categories":[
     "Other"
@@ -58,7 +52,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -116,14 +114,14 @@
       "52":"n",
       "53":"n",
       "54":"n",
-      "55":"n d #5",
-      "56":"n d #5",
-      "57":"n d #5",
-      "58":"n d #5",
-      "59":"n d #5",
-      "60":"n d #5",
-      "61":"n d #4 #5",
-      "62":"n d #4 #5",
+      "55":"n d",
+      "56":"n d",
+      "57":"n d",
+      "58":"n d",
+      "59":"n d",
+      "60":"n d",
+      "61":"n d #4",
+      "62":"n d #4",
       "63":"n d #4",
       "64":"n d #4",
       "65":"a #2 #4",
@@ -139,7 +137,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -205,9 +211,9 @@
       "64":"n",
       "65":"n",
       "66":"n",
-      "67":"n d #6",
-      "68":"n d #6",
-      "69":"n d #6",
+      "67":"n d",
+      "68":"n d",
+      "69":"n d",
       "70":"y",
       "71":"y",
       "72":"y",
@@ -223,7 +229,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -246,6 +256,7 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
+      "14":"n",
       "TP":"n"
     },
     "opera":{
@@ -311,7 +322,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -333,7 +348,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -361,13 +377,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n"
+      "87":"n"
     },
     "and_ff":{
-      "68":"n d #4"
+      "83":"n d #4"
     },
     "ie_mob":{
       "10":"n",
@@ -384,7 +400,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -398,15 +416,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Edge when the AV1 Video Extension (Beta) is installed from the Microsoft Store",
-    "2":"Partial support in Firefox 65 refers to being enabled by default only for Windows 64-bit users (see \"Known Issues\" for lack of 32-bit support.)",
-    "3":"Partial support in Firefox 66 refers to being enabled by default only for Windows and macOS users",
-    "4":"Can be enabled in Firefox via the `media.av1.enabled` flag in `about:config`",
-    "5":"Only available in Firefox Nightly (applies to older versions of Firefox)",
-    "6":"Can be enabled in Chrome via the `#enable-av1-decoder` flag in `chrome://flags`"
+    "1":"Can be enabled in Edge 18 by installing the AV1 Video Extension from the Microsoft Store",
+    "2":"Firefox 65 only supported Windows 64-bit users by default",
+    "3":"Firefox 66 only supported Windows and macOS users by default",
+    "4":"Can be enabled in older Firefox versions via the `media.av1.enabled` flag in `about:config`"
   },
-  "usage_perc_y":31.78,
-  "usage_perc_a":0.04,
+  "usage_perc_y":32.55,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -1,7 +1,7 @@
 {
   "title":"CSS zoom",
   "description":"Non-standard method of scaling content.",
-  "spec":"https://msdn.microsoft.com/en-us/library/ms531189(v=vs.85).aspx",
+  "spec":"https://developer.mozilla.org/en-US/docs/Web/CSS/zoom",
   "status":"unoff",
   "links":[
     {
@@ -11,10 +11,6 @@
     {
       "url":"https://docs.webplatform.org/wiki/css/properties/zoom",
       "title":"WebPlatform Docs"
-    },
-    {
-      "url":"https://msdn.microsoft.com/en-us/library/ms531189(v=vs.85).aspx",
-      "title":"MSDN Library"
     },
     {
       "url":"https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/doc/uid/TP30001266-SW1",
@@ -58,7 +54,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -139,7 +139,15 @@
       "75":"n",
       "76":"n",
       "77":"n",
-      "78":"n"
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n"
     },
     "chrome":{
       "4":"y",
@@ -223,7 +231,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -246,6 +258,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -311,7 +324,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -333,7 +350,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -361,13 +379,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y"
+      "59":"y"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"y #1",
@@ -384,7 +402,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -400,7 +420,7 @@
   "notes_by_num":{
     "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
   },
-  "usage_perc_y":93.84,
+  "usage_perc_y":94.04,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

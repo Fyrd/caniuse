@@ -5,8 +5,8 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://msdn.microsoft.com/en-US/library/hh772483%28v=vs.85%29.aspx",
-      "title":"MSDN article"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/audioTracks",
+      "title":"MDN Web Docs - HTMLMediaElement.audioTracks"
     }
   ],
   "bugs":[
@@ -36,7 +36,11 @@
       "79":"n d #2",
       "80":"n d #2",
       "81":"n d #2",
-      "83":"n d #2"
+      "83":"n d #2",
+      "84":"n d #2",
+      "85":"n d #2",
+      "86":"n d #2",
+      "87":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -117,7 +121,15 @@
       "75":"n d #1",
       "76":"n d #1",
       "77":"n d #1",
-      "78":"n d #1"
+      "78":"n d #1",
+      "79":"n d #1",
+      "80":"n d #1",
+      "81":"n d #1",
+      "82":"n d #1",
+      "83":"n d #1",
+      "84":"n d #1",
+      "85":"n d #1",
+      "86":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -201,7 +213,11 @@
       "83":"n d #2",
       "84":"n d #2",
       "85":"n d #2",
-      "86":"n d #2"
+      "86":"n d #2",
+      "87":"n d #2",
+      "88":"n d #2",
+      "89":"n d #2",
+      "90":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -224,6 +240,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -289,7 +306,11 @@
       "65":"n d #2",
       "66":"n d #2",
       "67":"n d #2",
-      "68":"n d #2"
+      "68":"n d #2",
+      "69":"n d #2",
+      "70":"n d #2",
+      "71":"n d #2",
+      "72":"n d #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -311,7 +332,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -339,13 +361,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n d #2"
+      "59":"n d #2"
     },
     "and_chr":{
-      "81":"n d #2"
+      "87":"n d #2"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"y",
@@ -362,7 +384,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -379,7 +403,7 @@
     "1":"Supported in Firefox by enabling \"media.track.enabled\" in about:config",
     "2":"Supported in Chrome and Opera by enabling \"enable-experimental-web-platform-features\" in chrome:flags"
   },
-  "usage_perc_y":22.76,
+  "usage_perc_y":19.8,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

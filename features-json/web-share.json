@@ -1,8 +1,8 @@
 {
   "title":"Web Share API",
   "description":"A way to allow websites to invoke the native sharing capabilities of the host platform",
-  "spec":"https://wicg.github.io/web-share/",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/web-share/",
+  "status":"wd",
   "links":[
     {
       "url":"https://developers.google.com/web/updates/2016/10/navigator-share",
@@ -10,11 +10,11 @@
     },
     {
       "url":"https://blog.hospodarets.com/web-share-api",
-      "title":"Web Share API brings the native sharing capabilities to the browser"
+      "title":"Hospodarets - Web Share API brings the native sharing capabilities to the browser"
     },
     {
       "url":"https://philna.sh/blog/2017/03/14/the-web-share-api/",
-      "title":"Web Share API"
+      "title":"Phil Nash - The Web Share API"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1312422",
@@ -23,6 +23,10 @@
     {
       "url":"https://love2dev.com/blog/webshare-api/",
       "title":"How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
+    },
+    {
+      "url":"https://web.dev/web-share/",
+      "title":"Web.dev - Share like a native app with the Web Share API"
     }
   ],
   "bugs":[
@@ -51,8 +55,12 @@
       "18":"n",
       "79":"n",
       "80":"n",
-      "81":"n",
-      "83":"n"
+      "81":"a #3",
+      "83":"a #3",
+      "84":"a #3",
+      "85":"a #3",
+      "86":"a #3",
+      "87":"a #3"
     },
     "firefox":{
       "2":"n",
@@ -133,7 +141,15 @@
       "75":"n",
       "76":"n",
       "77":"n",
-      "78":"n"
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n"
     },
     "chrome":{
       "4":"n",
@@ -150,13 +166,13 @@
       "15":"n",
       "16":"n",
       "17":"n",
-      "18":"n #2",
-      "19":"n #2",
-      "20":"n #2",
-      "21":"n #2",
-      "22":"n #2",
-      "23":"n #2",
-      "24":"n #2",
+      "18":"n #1",
+      "19":"n #1",
+      "20":"n #1",
+      "21":"n #1",
+      "22":"n #1",
+      "23":"n #1",
+      "24":"n #1",
       "25":"n",
       "26":"n",
       "27":"n",
@@ -217,7 +233,11 @@
       "83":"n",
       "84":"n",
       "85":"n",
-      "86":"n"
+      "86":"n",
+      "87":"n",
+      "88":"n",
+      "89":"n",
+      "90":"n"
     },
     "safari":{
       "3.1":"n",
@@ -226,7 +246,7 @@
       "5":"n",
       "5.1":"n",
       "6":"n",
-      "6.1":"u",
+      "6.1":"n",
       "7":"n",
       "7.1":"n",
       "8":"n",
@@ -237,9 +257,10 @@
       "11":"n",
       "11.1":"n",
       "12":"n",
-      "12.1":"y",
-      "13":"y",
-      "13.1":"y",
+      "12.1":"y #5",
+      "13":"y #5",
+      "13.1":"y #5",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -305,7 +326,11 @@
       "65":"n",
       "66":"n",
       "67":"n",
-      "68":"n"
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -323,11 +348,12 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2-12.4":"y",
-      "13.0-13.1":"y",
-      "13.2":"y",
-      "13.3":"y",
-      "13.4":"y"
+      "12.2-12.4":"y #5",
+      "13.0-13.1":"y #5",
+      "13.2":"y #5",
+      "13.3":"y #5",
+      "13.4-13.7":"y #5",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -341,8 +367,8 @@
       "4.1":"n",
       "4.2-4.3":"n",
       "4.4":"n",
-      "4.4.3-4.4.4":"n #3",
-      "81":"n #3"
+      "4.4.3-4.4.4":"n #2",
+      "81":"n #2"
     },
     "bb":{
       "7":"n",
@@ -355,13 +381,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"n #3"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -372,13 +398,15 @@
     },
     "samsung":{
       "4":"n",
-      "5.0-5.4":"n #3",
-      "6.2-6.4":"n #3",
-      "7.2-7.4":"n #3",
-      "8.2":"n #3",
-      "9.2":"n #3",
-      "10.1":"n #3",
-      "11.1":"n #3"
+      "5.0-5.4":"n #2",
+      "6.2-6.4":"n #2",
+      "7.2-7.4":"n #2",
+      "8.2":"y",
+      "9.2":"y",
+      "10.1":"y",
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -392,16 +420,18 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to feature only being available for sites opting into the [origin trial](https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md)",
-    "2":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
-    "3":"Android [intent://](https://developer.chrome.com/multidevice/android/intents) URLs can be used instead."
+    "1":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
+    "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead.",
+    "3":"Only supported on Windows",
+    "4":"support is only for Windows.",
+    "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)."
   },
-  "usage_perc_y":52.32,
-  "usage_perc_a":0,
+  "usage_perc_y":58.48,
+  "usage_perc_a":3.07,
   "ucprefix":false,
   "parent":"",
-  "keywords":"web share,share, share api,intents api",
-  "ie_id":"",
+  "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",
+  "ie_id":"webshareapi",
   "chrome_id":"5668769141620736",
   "firefox_id":"",
   "webkit_id":"feature-web-share",

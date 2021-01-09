@@ -27,6 +27,10 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=119175",
       "title":"Bug for WebKit/Safari"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=214946",
+      "title":"Bug for WebKit/Safari"
     }
   ],
   "bugs":[
@@ -56,7 +60,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -137,7 +145,15 @@
       "75":"a #5",
       "76":"a #5",
       "77":"a #5",
-      "78":"a #5"
+      "78":"a #5",
+      "79":"a #5",
+      "80":"a #5",
+      "81":"a #5",
+      "82":"a #5",
+      "83":"a #5",
+      "84":"a #5",
+      "85":"a #5",
+      "86":"a #5"
     },
     "chrome":{
       "4":"n",
@@ -221,7 +237,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -244,7 +264,8 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
-      "TP":"n"
+      "14":"n",
+      "TP":"a #6"
     },
     "opera":{
       "9":"y",
@@ -309,7 +330,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -331,7 +356,8 @@
       "13.0-13.1":"a #2",
       "13.2":"a #2",
       "13.3":"a #2",
-      "13.4":"a #2"
+      "13.4-13.7":"a #2",
+      "14.0-14.3":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -359,13 +385,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "46":"y"
+      "59":"y"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -382,7 +408,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -400,10 +428,11 @@
     "2":"Partial support in iOS Safari refers to not supporting the `week` input type, nor the `min`, `max` or `step` attributes",
     "3":"Some modified versions of the Android 4.x browser do have support for date/time fields.",
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
-    "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`."
+    "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
+    "6":"Partial support in macOS Safari refers to not supporting the `week` and `month` input type"
   },
-  "usage_perc_y":72.9,
-  "usage_perc_a":18.78,
+  "usage_perc_y":74.15,
+  "usage_perc_a":17.65,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\",input date,datetime-local",

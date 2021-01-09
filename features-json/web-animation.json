@@ -1,7 +1,7 @@
 {
   "title":"Web Animations API",
   "description":"Lets you create animations that are run in the browser, as well as inspect and manipulate animations created through declarative means like CSS.",
-  "spec":"http://w3c.github.io/web-animations/",
+  "spec":"https://drafts.csswg.org/web-animations/",
   "status":"wd",
   "links":[
     {
@@ -49,7 +49,11 @@
       "79":"a #2",
       "80":"a #2",
       "81":"a #2",
-      "83":"a #2"
+      "83":"a #2",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -127,10 +131,18 @@
       "72":"a #2",
       "73":"a #2",
       "74":"a #2",
-      "75":"a #2",
-      "76":"a #2",
-      "77":"a #2",
-      "78":"a #2"
+      "75":"y #5",
+      "76":"y #5",
+      "77":"y #5",
+      "78":"y #5",
+      "79":"y #5",
+      "80":"y #5",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -212,9 +224,13 @@
       "80":"a #2",
       "81":"a #2",
       "83":"a #2",
-      "84":"a #2",
-      "85":"a #2",
-      "86":"a #2"
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -237,6 +253,7 @@
       "12.1":"n d #4",
       "13":"n d #4",
       "13.1":"y #5",
+      "14":"y #5",
       "TP":"y #5"
     },
     "opera":{
@@ -302,7 +319,11 @@
       "65":"a #2",
       "66":"a #2",
       "67":"a #2",
-      "68":"a #2"
+      "68":"a #2",
+      "69":"a #2",
+      "70":"a #2",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -324,7 +345,8 @@
       "13.0-13.1":"n d #4",
       "13.2":"n d #4",
       "13.3":"n d #4",
-      "13.4":"y #5"
+      "13.4-13.7":"y #5",
+      "14.0-14.3":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -352,13 +374,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"a #2"
+      "59":"y"
     },
     "and_chr":{
-      "81":"a #2"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -375,7 +397,9 @@
       "8.2":"a #2",
       "9.2":"a #2",
       "10.1":"a #2",
-      "11.1":"a #2"
+      "11.1-11.2":"a #2",
+      "12.0":"a #2",
+      "13.0":"a #2"
     },
     "and_qq":{
       "10.4":"a #2"
@@ -395,8 +419,8 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu",
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
-  "usage_perc_y":3.3,
-  "usage_perc_a":74.16,
+  "usage_perc_y":84.54,
+  "usage_perc_a":8.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

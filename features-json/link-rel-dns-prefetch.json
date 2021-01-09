@@ -1,6 +1,6 @@
 {
   "title":"Resource Hints: dns-prefetch",
-  "description":"Gives a hint to the browser to perform a DNS lookup in the background to improve performance. This is indicated using `<link rel=\"dns-prefetch\" href=\"http://example-domain.com/\">`",
+  "description":"Gives a hint to the browser to perform a DNS lookup in the background to improve performance. This is indicated using `<link rel=\"dns-prefetch\" href=\"https://example.com/\">`",
   "spec":"https://www.w3.org/TR/resource-hints/#dns-prefetch",
   "status":"wd",
   "links":[
@@ -46,7 +46,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -127,7 +131,15 @@
       "75":"a #2",
       "76":"a #2",
       "77":"a #2",
-      "78":"a #2"
+      "78":"a #2",
+      "79":"a #2",
+      "80":"a #2",
+      "81":"a #2",
+      "82":"a #2",
+      "83":"a #2",
+      "84":"a #2",
+      "85":"a #2",
+      "86":"a #2"
     },
     "chrome":{
       "4":"y",
@@ -211,7 +223,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -234,6 +250,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -299,7 +316,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -321,7 +342,8 @@
       "13.0-13.1":"u",
       "13.2":"u",
       "13.3":"u",
-      "13.4":"u"
+      "13.4-13.7":"u",
+      "14.0-14.3":"u"
     },
     "op_mini":{
       "all":"n"
@@ -349,13 +371,13 @@
       "11.5":"u",
       "12":"u",
       "12.1":"u",
-      "46":"u"
+      "59":"u"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -372,7 +394,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -386,11 +410,11 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"IE9 [supported `dns-prefetch` as `prefetch`](http://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
+    "1":"IE9 [supported `dns-prefetch` as `prefetch`](https://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
     "2":"Firefox only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
   },
-  "usage_perc_y":76.26,
-  "usage_perc_a":4.38,
+  "usage_perc_y":77.86,
+  "usage_perc_a":3.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -46,7 +46,11 @@
       "79":"a x #1",
       "80":"a x #1",
       "81":"a x #1",
-      "83":"a x #1"
+      "83":"a x #1",
+      "84":"a x #1",
+      "85":"a x #1",
+      "86":"a x #1",
+      "87":"a x #1"
     },
     "firefox":{
       "2":"n",
@@ -127,7 +131,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -211,7 +223,11 @@
       "83":"a x #1",
       "84":"a x #1",
       "85":"a x #1",
-      "86":"a x #1"
+      "86":"a x #1",
+      "87":"a x #1",
+      "88":"a x #1",
+      "89":"a x #1",
+      "90":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -234,6 +250,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -299,7 +316,11 @@
       "65":"a x #1",
       "66":"a x #1",
       "67":"a x #1",
-      "68":"a x #1"
+      "68":"a x #1",
+      "69":"a x #1",
+      "70":"a x #1",
+      "71":"a x #1",
+      "72":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -321,7 +342,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -349,13 +371,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"a x #1"
+      "59":"a x #1"
     },
     "and_chr":{
-      "81":"a x #1"
+      "87":"a x #1"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -372,7 +394,9 @@
       "8.2":"a x #1",
       "9.2":"a x #1",
       "10.1":"a x #1",
-      "11.1":"a x #1"
+      "11.1-11.2":"a x #1",
+      "12.0":"a x #1",
+      "13.0":"a x #1"
     },
     "and_qq":{
       "10.4":"a x #1"
@@ -389,8 +413,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":23.23,
-  "usage_perc_a":70.45,
+  "usage_perc_y":22.09,
+  "usage_perc_a":73.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

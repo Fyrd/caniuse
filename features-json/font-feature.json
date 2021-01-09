@@ -1,7 +1,7 @@
 {
   "title":"CSS font-feature-settings",
   "description":"Method of applying advanced typographic and language-specific font features to supported OpenType fonts.",
-  "spec":"http://w3.org/TR/css3-fonts/#font-rend-props",
+  "spec":"https://w3.org/TR/css3-fonts/#font-rend-props",
   "status":"cr",
   "links":[
     {
@@ -65,7 +65,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -146,7 +150,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -230,7 +242,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -253,6 +269,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -318,7 +335,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -340,7 +361,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -368,13 +390,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y"
+      "59":"y"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -391,7 +413,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -408,8 +432,8 @@
     "1":"From Gecko 2.0 (Firefox 4.0) to Gecko 14.0 (Firefox 14.0) included, Gecko supported an older syntax, slightly different from the modern one: https://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
     "2":"Partial support in older Chrome versions refers to lacking support in Mac OS X."
   },
-  "usage_perc_y":97.46,
-  "usage_perc_a":0.24,
+  "usage_perc_y":97.15,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",

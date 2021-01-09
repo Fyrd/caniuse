@@ -44,7 +44,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -125,7 +129,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -209,7 +221,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -232,6 +248,7 @@
       "12.1":"n d #2",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -297,7 +314,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -318,8 +339,9 @@
       "12.2-12.4":"n",
       "13.0-13.1":"n",
       "13.2":"n d #3",
-      "13.3":"y",
-      "13.4":"y"
+      "13.3":"a #4 #5",
+      "13.4-13.7":"a #4 #5",
+      "14.0-14.3":"a #5"
     },
     "op_mini":{
       "all":"n"
@@ -347,13 +369,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -370,7 +392,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -386,10 +410,12 @@
   "notes_by_num":{
     "1":"Can be enabled at `about:flags`\r\n\r\nEdge 13 used an earlier draft syntax. As of Edge 14 the implementation is prefixed and based on the FIDO 2.0 Web APIs.",
     "2":"Can be enabled using the Develop > Experimental Features menu. Currently supports USB-based CTAP & CTAP2 HID devices.",
-    "3":"Can be enabled in Setings under the Safari > Advanced > Experimental Features menu."
+    "3":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu.",
+    "4":"Partial support refers to FIDO2 devices not working if a PIN is set.",
+    "5":"Experimental feature not yet enabled in WKWebView-based browsers including Chrome for iOS."
   },
-  "usage_perc_y":84.08,
-  "usage_perc_a":0,
+  "usage_perc_y":74.22,
+  "usage_perc_a":12.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

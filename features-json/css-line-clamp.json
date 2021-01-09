@@ -1,8 +1,8 @@
 {
   "title":"CSS line-clamp",
-  "description":"Proprietary and undocumented CSS property that will contain text to a given amount of lines when used in combination with `display: -webkit-box`. It will end with ellipsis when `text-overflow: ellipsis` is included.",
-  "spec":"https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/doc/uid/TP30001266-WebKit_SpecificUnsupportedProperties",
-  "status":"unoff",
+  "description":"CSS property that will contain text to a given amount of lines when used in combination with `display: -webkit-box`. It will end with ellipsis when `text-overflow: ellipsis` is included.",
+  "spec":"https://drafts.csswg.org/css-overflow-3/#propdef--webkit-line-clamp",
+  "status":"wd",
   "links":[
     {
       "url":"http://guerillalabs.co/blog/css-line-clamping.html",
@@ -40,7 +40,11 @@
       "79":"y x",
       "80":"y x",
       "81":"y x",
-      "83":"y x"
+      "83":"y x",
+      "84":"y x",
+      "85":"y x",
+      "86":"y x",
+      "87":"y x"
     },
     "firefox":{
       "2":"n",
@@ -121,7 +125,15 @@
       "75":"y x",
       "76":"y x",
       "77":"y x",
-      "78":"y x"
+      "78":"y x",
+      "79":"y x",
+      "80":"y x",
+      "81":"y x",
+      "82":"y x",
+      "83":"y x",
+      "84":"y x",
+      "85":"y x",
+      "86":"y x"
     },
     "chrome":{
       "4":"u",
@@ -205,7 +217,11 @@
       "83":"y x",
       "84":"y x",
       "85":"y x",
-      "86":"y x"
+      "86":"y x",
+      "87":"y x",
+      "88":"y x",
+      "89":"y x",
+      "90":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -228,6 +244,7 @@
       "12.1":"y x",
       "13":"y x",
       "13.1":"y x",
+      "14":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -293,7 +310,11 @@
       "65":"y x",
       "66":"y x",
       "67":"y x",
-      "68":"y x"
+      "68":"y x",
+      "69":"y x",
+      "70":"y x",
+      "71":"y x",
+      "72":"y x"
     },
     "ios_saf":{
       "3.2":"n",
@@ -315,7 +336,8 @@
       "13.0-13.1":"y x",
       "13.2":"y x",
       "13.3":"y x",
-      "13.4":"y x"
+      "13.4-13.7":"y x",
+      "14.0-14.3":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -343,13 +365,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y x"
+      "59":"y x"
     },
     "and_chr":{
-      "81":"y x"
+      "87":"y x"
     },
     "and_ff":{
-      "68":"y x"
+      "83":"y x"
     },
     "ie_mob":{
       "10":"n",
@@ -366,7 +388,9 @@
       "8.2":"y x",
       "9.2":"y x",
       "10.1":"y x",
-      "11.1":"y x"
+      "11.1-11.2":"y x",
+      "12.0":"y x",
+      "13.0":"y x"
     },
     "and_qq":{
       "10.4":"y x"
@@ -378,11 +402,11 @@
       "2.5":"n"
     }
   },
-  "notes":"As there is no specification and the property is dependent on an outdated implementation of flexbox (hence `display: -webkit-box`), an alternative solution may at some point replace it.\r\n\r\nOlder (presto-based) versions of the Opera browser have also supported the same effect using the proprietary `-o-ellipsis-lastline;` value for `text-overflow`.",
+  "notes":"Older (presto-based) versions of the Opera browser have also supported the same effect using the proprietary `-o-ellipsis-lastline;` value for `text-overflow`.",
   "notes_by_num":{
     "1":"Supported in MS Edge with `-webkit-` prefix only (not with `-ms-`)"
   },
-  "usage_perc_y":95.58,
+  "usage_perc_y":95.9,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

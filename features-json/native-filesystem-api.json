@@ -1,12 +1,20 @@
 {
-  "title":"Native Filesystem API",
-  "description":"API for manipulating files in the device's native file system (not in a sandbox).",
-  "spec":"https://wicg.github.io/native-file-system/",
+  "title":"File System Access API",
+  "description":"API for manipulating files in the device's local file system (not in a sandbox).",
+  "spec":"https://wicg.github.io/file-system-access/",
   "status":"unoff",
   "links":[
     {
-      "url":"https://github.com/WICG/native-file-system/blob/master/EXPLAINER.md",
+      "url":"https://github.com/WICG/file-system-access/blob/master/EXPLAINER.md",
       "title":"Explainer"
+    },
+    {
+      "url":"https://web.dev/file-system-access/",
+      "title":"Web.dev blog post"
+    },
+    {
+      "url":"https://mozilla.github.io/standards-positions/#file-system-access",
+      "title":"Firefox position: defer"
     },
     {
       "url":"https://developers.google.com/web/updates/2019/08/native-file-system",
@@ -37,10 +45,14 @@
       "16":"n",
       "17":"n",
       "18":"n",
-      "79":"n",
-      "80":"n",
-      "81":"n",
-      "83":"n"
+      "79":"n d #1",
+      "80":"n d #1",
+      "81":"n d #1",
+      "83":"n d #1",
+      "84":"n d #1",
+      "85":"n d #1",
+      "86":"a #2",
+      "87":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -121,7 +133,15 @@
       "75":"n",
       "76":"n",
       "77":"n",
-      "78":"n"
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n"
     },
     "chrome":{
       "4":"n",
@@ -194,18 +214,22 @@
       "71":"n",
       "72":"n",
       "73":"n",
-      "74":"n",
-      "75":"n",
+      "74":"n d #1",
+      "75":"n d #1",
       "76":"n d #1",
       "77":"n d #1",
-      "78":"n d #1 #2",
+      "78":"n d #1",
       "79":"n d #1",
       "80":"n d #1",
       "81":"n d #1",
       "83":"n d #1",
       "84":"n d #1",
       "85":"n d #1",
-      "86":"n d #1"
+      "86":"a #2",
+      "87":"a #2",
+      "88":"a #2",
+      "89":"a #2",
+      "90":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -228,6 +252,7 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
+      "14":"n",
       "TP":"n"
     },
     "opera":{
@@ -287,13 +312,17 @@
       "57":"n",
       "58":"n",
       "60":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n",
-      "67":"n",
-      "68":"n"
+      "62":"n d #1",
+      "63":"n d #1",
+      "64":"n d #1",
+      "65":"n d #1",
+      "66":"n d #1",
+      "67":"n d #1",
+      "68":"n d #1",
+      "69":"n d #1",
+      "70":"n d #1",
+      "71":"n d #1",
+      "72":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -315,7 +344,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -343,13 +373,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n d #1"
+      "87":"n"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -366,7 +396,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -380,14 +412,14 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled with the #native-file-system-api flag",
-    "2":"Part of an origin trial"
+    "1":"Can be enabled in desktop Chromium browsers with the `#native-file-system-api` flag.",
+    "2":"Desktop Chromium browsers currently support basic functionality and will be adding more of the API in the future."
   },
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":27.24,
   "ucprefix":false,
   "parent":"",
-  "keywords":"chooseFileSystemEntries,getFile",
+  "keywords":"File System,File System API,chooseFileSystemEntries,getFile",
   "ie_id":"",
   "chrome_id":"6284708426022912",
   "firefox_id":"",

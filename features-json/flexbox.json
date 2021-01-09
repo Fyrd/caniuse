@@ -5,11 +5,11 @@
   "status":"cr",
   "links":[
     {
-      "url":"http://bennettfeely.com/flexplorer/",
+      "url":"https://bennettfeely.com/flexplorer/",
       "title":"Flexbox CSS generator"
     },
     {
-      "url":"http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
+      "url":"https://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html",
       "title":"Article on using the latest spec"
     },
     {
@@ -17,7 +17,7 @@
       "title":"Tutorial on cross-browser support"
     },
     {
-      "url":"http://philipwalton.github.io/solved-by-flexbox/",
+      "url":"https://philipwalton.github.io/solved-by-flexbox/",
       "title":"Examples on how to solve common layout problems with flexbox"
     },
     {
@@ -25,7 +25,7 @@
       "title":"A Complete Guide to Flexbox"
     },
     {
-      "url":"http://the-echoplex.net/flexyboxes/",
+      "url":"https://the-echoplex.net/flexyboxes/",
       "title":"Flexbox playground and code generator"
     },
     {
@@ -41,7 +41,7 @@
       "title":"Ecligrid - Mobile first flexbox grid system"
     },
     {
-      "url":"http://gedd.ski/post/the-difference-between-width-and-flex-basis/",
+      "url":"https://mastery.games/post/the-difference-between-width-and-flex-basis/",
       "title":"The Difference Between Width and Flex-Basis"
     }
   ],
@@ -98,7 +98,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"a x #1",
@@ -179,7 +183,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -263,7 +275,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -286,6 +302,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -351,7 +368,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -373,7 +394,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -401,13 +423,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "46":"y"
+      "59":"y"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"a x #2",
@@ -424,7 +446,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -443,8 +467,8 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":96.72,
-  "usage_perc_a":1.96,
+  "usage_perc_y":97.24,
+  "usage_perc_a":1.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",

@@ -24,6 +24,9 @@
   "bugs":[
     {
       "description":"`image-rendering:-webkit-optimize-contrast;` and `-ms-interpolation-mode:nearest-neighbor` do not affect CSS images."
+    },
+    {
+      "description":"Safari [has a bug](https://bugs.webkit.org/show_bug.cgi?id=193895) where `image-rendering: pixelated` is not supported for WebGL contexts."
     }
   ],
   "categories":[
@@ -51,7 +54,11 @@
       "79":"y #4",
       "80":"y #4",
       "81":"y #4",
-      "83":"y #4"
+      "83":"y #4",
+      "84":"y #4",
+      "85":"y #4",
+      "86":"y #4",
+      "87":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -132,7 +139,15 @@
       "75":"y #3",
       "76":"y #3",
       "77":"y #3",
-      "78":"y #3"
+      "78":"y #3",
+      "79":"y #3",
+      "80":"y #3",
+      "81":"y #3",
+      "82":"y #3",
+      "83":"y #3",
+      "84":"y #3",
+      "85":"y #3",
+      "86":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -216,7 +231,11 @@
       "83":"y #4",
       "84":"y #4",
       "85":"y #4",
-      "86":"y #4"
+      "86":"y #4",
+      "87":"y #4",
+      "88":"y #4",
+      "89":"y #4",
+      "90":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -239,6 +258,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -304,7 +324,11 @@
       "65":"y #4",
       "66":"y #4",
       "67":"y #4",
-      "68":"y #4"
+      "68":"y #4",
+      "69":"y #4",
+      "70":"y #4",
+      "71":"y #4",
+      "72":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -326,7 +350,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -354,13 +379,13 @@
       "11.5":"n",
       "12":"y x #3",
       "12.1":"y x #3",
-      "46":"y #4"
+      "59":"y #4"
     },
     "and_chr":{
-      "81":"y #4"
+      "87":"y #4"
     },
     "and_ff":{
-      "68":"y x #3"
+      "83":"y x #3"
     },
     "ie_mob":{
       "10":"a x #2 #5",
@@ -377,7 +402,9 @@
       "8.2":"y #4",
       "9.2":"y #4",
       "10.1":"y #4",
-      "11.1":"y #4"
+      "11.1-11.2":"y #4",
+      "12.0":"y #4",
+      "13.0":"y #4"
     },
     "and_qq":{
       "10.4":"y #4"
@@ -398,8 +425,8 @@
     "5":"Only works on `<img>`, not CSS backgrounds or `<canvas>`.",
     "6":"Only works on `<img>` and CSS backgrounds, _not_ `<canvas>`. "
   },
-  "usage_perc_y":93.26,
-  "usage_perc_a":2.2,
+  "usage_perc_y":95.32,
+  "usage_perc_a":1.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"image-rendering,crisp-edges",

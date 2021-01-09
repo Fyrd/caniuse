@@ -5,24 +5,24 @@
   "status":"unoff",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2014/01/Web-apps-that-talk---Introduction-to-the-Speech-Synthesis-API",
-      "title":"HTML5Rocks article"
-    },
-    {
       "url":"https://www.sitepoint.com/talking-web-pages-and-the-speech-synthesis-api/",
       "title":"SitePoint article"
     },
     {
-      "url":"http://aurelio.audero.it/demo/speech-synthesis-api-demo.html",
+      "url":"https://www.audero.it/demo/speech-synthesis-api-demo.html",
       "title":"Demo"
     },
     {
-      "url":"http://zenorocha.github.io/voice-elements/",
+      "url":"https://zenorocha.github.io/voice-elements/",
       "title":"Advanced demo and resource"
     },
     {
       "url":"https://developer.mozilla.org//docs/Web/API/SpeechSynthesis",
       "title":"MDN article"
+    },
+    {
+      "url":"https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API",
+      "title":"Google Developers article"
     }
   ],
   "bugs":[
@@ -54,7 +54,11 @@
       "79":"y #2",
       "80":"y #2",
       "81":"y #2",
-      "83":"y #2"
+      "83":"y #2",
+      "84":"y #2",
+      "85":"y #2",
+      "86":"y #2",
+      "87":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -135,7 +139,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -219,7 +231,11 @@
       "83":"y #2",
       "84":"y #2",
       "85":"y #2",
-      "86":"y #2"
+      "86":"y #2",
+      "87":"y #2",
+      "88":"y #2",
+      "89":"y #2",
+      "90":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -242,6 +258,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -307,7 +324,11 @@
       "65":"y #2",
       "66":"y #2",
       "67":"y #2",
-      "68":"y #2"
+      "68":"y #2",
+      "69":"y #2",
+      "70":"y #2",
+      "71":"y #2",
+      "72":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -329,7 +350,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -357,13 +379,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -380,7 +402,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -397,7 +421,7 @@
     "1":"Can be enabled in Firefox using the `media.webspeech.synth.enabled` about:config flag.",
     "2":"Speech Synthesis in Chrome since version 55 stops playback after about 15 seconds on Windows 7 & 10, and Ubuntu 14.04, possibly other platforms"
   },
-  "usage_perc_y":93.22,
+  "usage_perc_y":93.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"web-speech",

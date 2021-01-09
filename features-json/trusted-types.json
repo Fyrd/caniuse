@@ -1,12 +1,16 @@
 {
   "title":"Trusted Types for DOM manipulation",
-  "description":"An API that forces the developer to be very explicit about their use of powerful DOM-injection APIs. Can greatly improve security against XSS attacks.",
+  "description":"An API that forces developers to be very explicit about their use of powerful DOM-injection APIs. Can greatly improve security against XSS attacks.",
   "spec":"https://w3c.github.io/webappsec-trusted-types/dist/spec/",
   "status":"unoff",
   "links":[
     {
       "url":"https://web.dev/trusted-types/",
       "title":"Web.dev article on using trusted types"
+    },
+    {
+      "url":"https://mozilla.github.io/standards-positions/#trusted-types",
+      "title":"Firefox position: non-harmful"
     }
   ],
   "bugs":[
@@ -39,7 +43,11 @@
       "79":"n",
       "80":"n",
       "81":"n",
-      "83":"n"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -120,7 +128,15 @@
       "75":"n",
       "76":"n",
       "77":"n",
-      "78":"n"
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n"
     },
     "chrome":{
       "4":"n",
@@ -204,7 +220,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -227,6 +247,7 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
+      "14":"n",
       "TP":"n"
     },
     "opera":{
@@ -292,7 +313,11 @@
       "65":"n",
       "66":"n",
       "67":"n",
-      "68":"n"
+      "68":"n",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -314,7 +339,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -329,7 +355,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "81":"n"
+      "81":"y"
     },
     "bb":{
       "7":"n",
@@ -342,13 +368,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n"
+      "87":"y"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -365,7 +391,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -381,7 +409,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":0.04,
+  "usage_perc_y":68.36,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

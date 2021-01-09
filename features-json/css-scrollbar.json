@@ -58,7 +58,11 @@
       "79":"a x #2",
       "80":"a x #2",
       "81":"a x #2",
-      "83":"a x #2"
+      "83":"a x #2",
+      "84":"a x #2",
+      "85":"a x #2",
+      "86":"a x #2",
+      "87":"a x #2"
     },
     "firefox":{
       "2":"n",
@@ -139,7 +143,15 @@
       "75":"a #6",
       "76":"a #6",
       "77":"a #6",
-      "78":"a #6"
+      "78":"a #6",
+      "79":"a #6",
+      "80":"a #6",
+      "81":"a #6",
+      "82":"a #6",
+      "83":"a #6",
+      "84":"a #6",
+      "85":"a #6",
+      "86":"a #6"
     },
     "chrome":{
       "4":"a x #2",
@@ -223,7 +235,11 @@
       "83":"a x #2",
       "84":"a x #2",
       "85":"a x #2",
-      "86":"a x #2"
+      "86":"a x #2",
+      "87":"a x #2",
+      "88":"a x #2",
+      "89":"a x #2",
+      "90":"a x #2"
     },
     "safari":{
       "3.1":"u",
@@ -246,6 +262,7 @@
       "12.1":"a x #2",
       "13":"a x #2",
       "13.1":"a x #2",
+      "14":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -311,7 +328,11 @@
       "65":"a x #2",
       "66":"a x #2",
       "67":"a x #2",
-      "68":"a x #2"
+      "68":"a x #2",
+      "69":"a x #2",
+      "70":"a x #2",
+      "71":"a x #2",
+      "72":"a x #2"
     },
     "ios_saf":{
       "3.2":"u",
@@ -333,7 +354,8 @@
       "13.0-13.1":"a x #2 #3",
       "13.2":"a x #2 #3",
       "13.3":"a x #2 #3",
-      "13.4":"a x #2 #3"
+      "13.4-13.7":"a x #2 #3",
+      "14.0-14.3":"a x #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -361,13 +383,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"a x #2"
+      "59":"a x #2"
     },
     "and_chr":{
-      "81":"a x #2"
+      "87":"a x #2"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -384,7 +406,9 @@
       "8.2":"a x #2",
       "9.2":"a x #2",
       "10.1":"a x #2",
-      "11.1":"a x #2"
+      "11.1-11.2":"a x #2",
+      "12.0":"a x #2",
+      "13.0":"a x #2"
     },
     "and_qq":{
       "10.4":"a x #2"
@@ -396,7 +420,7 @@
       "2.5":"n"
     }
   },
-  "notes":"scrollbar-width property is at risk of being removed see [Issue 1958 on CSSWWG-Drafts](https://github.com/w3c/csswg-drafts/issues/1958)",
+  "notes":"",
   "notes_by_num":{
     "1":"Only supports styling scrollbar colors through proprietary prefixed properties, no other properties to define the scrollbar's appearance. (not on standards track)",
     "2":"Supports scrollbar styling via CSS [pseudo-properties](https://webkit.org/blog/363/styling-scrollbars/). (not on standards track)",
@@ -406,7 +430,7 @@
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":95.15,
+  "usage_perc_a":96.77,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

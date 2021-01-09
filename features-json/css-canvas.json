@@ -1,11 +1,11 @@
 {
   "title":"CSS Canvas Drawings",
   "description":"Method of using HTML5 Canvas as a background image. Not currently part of any specification.",
-  "spec":"http://webkit.org/blog/176/css-canvas-drawing/",
+  "spec":"https://webkit.org/blog/176/css-canvas-drawing/",
   "status":"unoff",
   "links":[
     {
-      "url":"http://webkit.org/blog/176/css-canvas-drawing/",
+      "url":"https://webkit.org/blog/176/css-canvas-drawing/",
       "title":"WebKit blog post"
     }
   ],
@@ -36,7 +36,11 @@
       "79":"n",
       "80":"n",
       "81":"n",
-      "83":"n"
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n",
+      "87":"n"
     },
     "firefox":{
       "2":"n",
@@ -117,7 +121,15 @@
       "75":"u",
       "76":"u",
       "77":"u",
-      "78":"u"
+      "78":"u",
+      "79":"u",
+      "80":"u",
+      "81":"u",
+      "82":"u",
+      "83":"u",
+      "84":"u",
+      "85":"u",
+      "86":"u"
     },
     "chrome":{
       "4":"y x",
@@ -201,7 +213,11 @@
       "83":"n",
       "84":"n",
       "85":"n",
-      "86":"n"
+      "86":"n",
+      "87":"n",
+      "88":"n",
+      "89":"n",
+      "90":"n"
     },
     "safari":{
       "3.1":"n",
@@ -224,6 +240,7 @@
       "12.1":"y x",
       "13":"y x",
       "13.1":"y x",
+      "14":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -289,7 +306,11 @@
       "65":"n",
       "66":"n",
       "67":"n",
-      "68":"n"
+      "68":"n",
+      "69":"n",
+      "70":"n",
+      "71":"n",
+      "72":"n"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -311,7 +332,8 @@
       "13.0-13.1":"y x",
       "13.2":"y x",
       "13.3":"y x",
-      "13.4":"y x"
+      "13.4-13.7":"y x",
+      "14.0-14.3":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -339,13 +361,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n"
+      "87":"n"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -362,7 +384,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -378,7 +402,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":20.19,
+  "usage_perc_y":19.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

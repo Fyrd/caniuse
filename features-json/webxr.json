@@ -7,6 +7,14 @@
     {
       "url":"https://developer.mozilla.org/docs/Web/API/WebXR_Device_API",
       "title":"MDN Web Docs - WebXR Device API"
+    },
+    {
+      "url":"https://immersive-web.github.io/webxr-samples/",
+      "title":"Immersive Web - WebXR samples"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=208988",
+      "title":"Safari implementation bug"
     }
   ],
   "bugs":[
@@ -36,7 +44,11 @@
       "79":"a #1",
       "80":"a #1",
       "81":"a #1",
-      "83":"a #1"
+      "83":"a #1",
+      "84":"a #1",
+      "85":"a #1",
+      "86":"a #1",
+      "87":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -116,8 +128,16 @@
       "74":"n",
       "75":"n",
       "76":"n",
-      "77":"n",
-      "78":"n"
+      "77":"n d #2",
+      "78":"n d #2",
+      "79":"n d #2",
+      "80":"n d #2",
+      "81":"n d #2",
+      "82":"n d #2",
+      "83":"n d #2",
+      "84":"n d #2",
+      "85":"n d #2",
+      "86":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -181,7 +201,7 @@
       "62":"n",
       "63":"n",
       "64":"n",
-      "65":"n",
+      "65":"n d",
       "66":"n d",
       "67":"n d",
       "68":"n d",
@@ -201,7 +221,11 @@
       "83":"a #1",
       "84":"a #1",
       "85":"a #1",
-      "86":"a #1"
+      "86":"a #1",
+      "87":"a #1",
+      "88":"a #1",
+      "89":"a #1",
+      "90":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -224,6 +248,7 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
+      "14":"n",
       "TP":"n"
     },
     "opera":{
@@ -275,21 +300,25 @@
       "49":"n",
       "50":"n",
       "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
-      "56":"n",
-      "57":"n",
-      "58":"n",
-      "60":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n",
-      "67":"n",
-      "68":"n"
+      "52":"n d",
+      "53":"n d",
+      "54":"n d",
+      "55":"n d",
+      "56":"n d",
+      "57":"n d",
+      "58":"n d",
+      "60":"n d",
+      "62":"n d",
+      "63":"n d",
+      "64":"n d",
+      "65":"n d",
+      "66":"a #1",
+      "67":"a #1",
+      "68":"a #1",
+      "69":"a #1",
+      "70":"a #1",
+      "71":"a #1",
+      "72":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -311,7 +340,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -339,13 +369,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"a #1"
+      "87":"a #1"
     },
     "and_ff":{
-      "68":"n"
+      "83":"n d #2"
     },
     "ie_mob":{
       "10":"n",
@@ -362,7 +392,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"a #1",
+      "13.0":"a #1"
     },
     "and_qq":{
       "10.4":"n"
@@ -377,15 +409,14 @@
   "notes":"",
   "notes_by_num":{
     "1":"This API is very extensive. Many of its features are still in development and/or don't have finalised specs yet.",
-    "2":"Chrome 66-78 has had intermittent support behind the #webxr and other #webxr-* flags.",
-    "3":"This API is very extensive. Many of its features are still in development and/or don't have finalised specs yet."
+    "2":"Can be enabled in Firefox behind the `dom.vr.webxr.enabled` flag."
   },
   "usage_perc_y":0,
-  "usage_perc_a":60.84,
+  "usage_perc_a":69.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.xr",
-  "ie_id":"webxr",
+  "ie_id":"",
   "chrome_id":"5680169905815552",
   "firefox_id":"webxr",
   "webkit_id":"",

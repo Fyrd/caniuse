@@ -7,6 +7,10 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer",
       "title":"MDN article"
+    },
+    {
+      "url":"https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/",
+      "title":"Mozilla Hacks article on safely reviving shared memory"
     }
   ],
   "bugs":[
@@ -36,7 +40,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -117,7 +125,15 @@
       "75":"n d #1 #2",
       "76":"n d #1 #2",
       "77":"n d #1 #2",
-      "78":"n d #1 #2"
+      "78":"n d #1 #2",
+      "79":"y #3",
+      "80":"y #3",
+      "81":"y #3",
+      "82":"y #3",
+      "83":"y #3",
+      "84":"y #3",
+      "85":"y #3",
+      "86":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -201,7 +217,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -224,6 +244,7 @@
       "12.1":"n d #1",
       "13":"n d #1",
       "13.1":"n d #1",
+      "14":"n d #1",
       "TP":"n d #1"
     },
     "opera":{
@@ -289,7 +310,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -311,7 +336,8 @@
       "13.0-13.1":"n d #1",
       "13.2":"n d #1",
       "13.3":"n d #1",
-      "13.4":"n d #1"
+      "13.4-13.7":"n d #1",
+      "14.0-14.3":"n d #1"
     },
     "op_mini":{
       "all":"n"
@@ -339,13 +365,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"n"
+      "59":"n"
     },
     "and_chr":{
-      "81":"n d #1"
+      "87":"n d #1"
     },
     "and_ff":{
-      "68":"n d #1"
+      "83":"y #3"
     },
     "ie_mob":{
       "10":"n",
@@ -362,7 +388,9 @@
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
-      "11.1":"n"
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -377,9 +405,10 @@
   "notes":"",
   "notes_by_num":{
     "1":"Has support, but was disabled across browsers in January 2018 due to Spectre & Meltdown vulnerabilities.",
-    "2":"Enabled by default in Nightly, but not in Beta/Developer/Release yet."
+    "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
+    "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](#feat=mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](#feat=mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
-  "usage_perc_y":30.36,
+  "usage_perc_y":34.11,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

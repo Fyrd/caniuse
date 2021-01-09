@@ -1,7 +1,7 @@
 {
   "title":"Network Information API",
   "description":"The Network Information API enables web applications to access information about the network connection in use by the device. Accessed via `navigator.connection`",
-  "spec":"http://wicg.github.io/netinfo/",
+  "spec":"https://wicg.github.io/netinfo/",
   "status":"unoff",
   "links":[
     {
@@ -37,7 +37,11 @@
       "79":"a #4",
       "80":"a #4",
       "81":"a #4",
-      "83":"a #4"
+      "83":"a #4",
+      "84":"a #4",
+      "85":"a #4",
+      "86":"a #4",
+      "87":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -118,7 +122,15 @@
       "75":"n",
       "76":"n",
       "77":"n",
-      "78":"n"
+      "78":"n",
+      "79":"n",
+      "80":"n",
+      "81":"n",
+      "82":"n",
+      "83":"n",
+      "84":"n",
+      "85":"n",
+      "86":"n"
     },
     "chrome":{
       "4":"n",
@@ -202,7 +214,11 @@
       "83":"a #4",
       "84":"a #4",
       "85":"a #4",
-      "86":"a #4"
+      "86":"a #4",
+      "87":"a #4",
+      "88":"a #4",
+      "89":"a #4",
+      "90":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -225,6 +241,7 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
+      "14":"n",
       "TP":"n"
     },
     "opera":{
@@ -290,7 +307,11 @@
       "65":"a #4",
       "66":"a #4",
       "67":"a #4",
-      "68":"a #4"
+      "68":"a #4",
+      "69":"a #4",
+      "70":"a #4",
+      "71":"a #4",
+      "72":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -312,7 +333,8 @@
       "13.0-13.1":"n",
       "13.2":"n",
       "13.3":"n",
-      "13.4":"n"
+      "13.4-13.7":"n",
+      "14.0-14.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -340,13 +362,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"a #3"
+      "59":"a #3"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -363,7 +385,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -382,8 +406,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":38.44,
-  "usage_perc_a":29.21,
+  "usage_perc_y":41.3,
+  "usage_perc_a":30.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

@@ -44,7 +44,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -125,7 +129,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"y",
@@ -209,7 +221,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"y",
@@ -232,6 +248,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -297,7 +314,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -319,7 +340,8 @@
       "13.0-13.1":"y #3",
       "13.2":"y #3",
       "13.3":"y #3",
-      "13.4":"y #3"
+      "13.4-13.7":"y #3",
+      "14.0-14.3":"y #3"
     },
     "op_mini":{
       "all":"y #6"
@@ -347,13 +369,13 @@
       "11.5":"n #2",
       "12":"n #2",
       "12.1":"n #2",
-      "46":"n #2"
+      "59":"n #2"
     },
     "and_chr":{
-      "81":"y #4"
+      "87":"y #4"
     },
     "and_ff":{
-      "68":"y #5"
+      "83":"y #5"
     },
     "ie_mob":{
       "10":"n #2",
@@ -370,7 +392,9 @@
       "8.2":"y #4",
       "9.2":"y #4",
       "10.1":"y #4",
-      "11.1":"y #4"
+      "11.1-11.2":"y #4",
+      "12.0":"y #4",
+      "13.0":"y #4"
     },
     "and_qq":{
       "10.4":"y"
@@ -387,12 +411,12 @@
     "1":"Only supports console functions when developer tools are open, otherwise the `console` object is undefined and any calls will throw errors.",
     "2":"Allows `console` functions to be used without throwing errors, but does not appear to output the data anywhere.",
     "3":"Log output on iOS 6+ Safari can only be seen by connecting to a Mac and using the [Safari debugger](https://developer.apple.com/safari/tools/).",
-    "4":"Log output on older Android browsers can be retrieved via Android's `logcat` command or using Chrome Developer Tools in Android 4.4+/Chrome for Android [see details](http://developer.android.com/guide/webapps/debugging.html)",
+    "4":"Log output on older Android browsers can be retrieved via Android's `logcat` command or using Chrome Developer Tools in Android 4.4+/Chrome for Android [see details](https://developer.android.com/guide/webapps/debugging.html)",
     "5":"Log output on Firefox for Android can be [accessed using WebIDE](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)",
     "6":"See [this article](https://dev.opera.com/articles/opera-mini-and-javascript/) for details on how to see console logging in Opera Mini"
   },
-  "usage_perc_y":96.67,
-  "usage_perc_a":0.31,
+  "usage_perc_y":97.47,
+  "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"console.log,console.info,console.warn,console.error,window.console",

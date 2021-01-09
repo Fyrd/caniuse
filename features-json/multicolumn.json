@@ -81,7 +81,11 @@
       "79":"a #3",
       "80":"a #3",
       "81":"a #3",
-      "83":"a #3"
+      "83":"a #3",
+      "84":"a #3",
+      "85":"a #3",
+      "86":"a #3",
+      "87":"a #3"
     },
     "firefox":{
       "2":"a x #1",
@@ -162,7 +166,15 @@
       "75":"a #3",
       "76":"a #3",
       "77":"a #3",
-      "78":"a #3"
+      "78":"a #3",
+      "79":"a #3",
+      "80":"a #3",
+      "81":"a #3",
+      "82":"a #3",
+      "83":"a #3",
+      "84":"a #3",
+      "85":"a #3",
+      "86":"a #3"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -246,7 +258,11 @@
       "83":"a #3",
       "84":"a #3",
       "85":"a #3",
-      "86":"a #3"
+      "86":"a #3",
+      "87":"a #3",
+      "88":"a #3",
+      "89":"a #3",
+      "90":"a #3"
     },
     "safari":{
       "3.1":"a x #1 #2",
@@ -269,6 +285,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -334,7 +351,11 @@
       "65":"a #3",
       "66":"a #3",
       "67":"a #3",
-      "68":"a #3"
+      "68":"a #3",
+      "69":"a #3",
+      "70":"a #3",
+      "71":"a #3",
+      "72":"a #3"
     },
     "ios_saf":{
       "3.2":"a x #1 #2",
@@ -356,7 +377,8 @@
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y",
-      "13.4":"y"
+      "13.4-13.7":"y",
+      "14.0-14.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -384,13 +406,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "46":"a #1"
+      "59":"a #3"
     },
     "and_chr":{
-      "81":"a #3"
+      "87":"a #3"
     },
     "and_ff":{
-      "68":"a #1"
+      "83":"a #1"
     },
     "ie_mob":{
       "10":"y",
@@ -407,7 +429,9 @@
       "8.2":"y",
       "9.2":"y",
       "10.1":"y",
-      "11.1":"y"
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"a #1"
@@ -425,8 +449,8 @@
     "2":"Partial support refers to not supporting the `column-fill` property.",
     "3":"Partial support refers to not supporting the `avoid-column`, `column`, and `avoid` (in the column context) values for the properties `break-before`, `break-after`, and `break-inside`."
   },
-  "usage_perc_y":28.42,
-  "usage_perc_a":70.29,
+  "usage_perc_y":25.52,
+  "usage_perc_a":73.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

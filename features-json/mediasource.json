@@ -2,7 +2,7 @@
   "title":"Media Source Extensions",
   "description":"API allowing media data to be accessed from HTML `video` and `audio` elements.",
   "spec":"https://www.w3.org/TR/media-source/",
-  "status":"cr",
+  "status":"rec",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/MediaSource#Browser_compatibility",
@@ -32,7 +32,7 @@
       "8":"n",
       "9":"n",
       "10":"n",
-      "11":"a #2"
+      "11":"a #1"
     },
     "edge":{
       "12":"y",
@@ -45,7 +45,11 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "83":"y"
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y",
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -73,23 +77,23 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"n d #1",
-      "26":"n d #1",
-      "27":"n d #1",
-      "28":"n d #1",
-      "29":"n d #1",
-      "30":"n d #1",
-      "31":"n d #1",
-      "32":"n d #1",
-      "33":"n d #1",
-      "34":"n d #1",
-      "35":"n d #1",
-      "36":"n d #1",
-      "37":"n d #1",
-      "38":"n d #1",
-      "39":"n d #1",
-      "40":"n d #1",
-      "41":"n d #1",
+      "25":"n d",
+      "26":"n d",
+      "27":"n d",
+      "28":"n d",
+      "29":"n d",
+      "30":"n d",
+      "31":"n d",
+      "32":"n d",
+      "33":"n d",
+      "34":"n d",
+      "35":"n d",
+      "36":"n d",
+      "37":"n d",
+      "38":"n d",
+      "39":"n d",
+      "40":"n d",
+      "41":"n d",
       "42":"y",
       "43":"y",
       "44":"y",
@@ -126,7 +130,15 @@
       "75":"y",
       "76":"y",
       "77":"y",
-      "78":"y"
+      "78":"y",
+      "79":"y",
+      "80":"y",
+      "81":"y",
+      "82":"y",
+      "83":"y",
+      "84":"y",
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -210,7 +222,11 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y"
+      "86":"y",
+      "87":"y",
+      "88":"y",
+      "89":"y",
+      "90":"y"
     },
     "safari":{
       "3.1":"n",
@@ -233,6 +249,7 @@
       "12.1":"y",
       "13":"y",
       "13.1":"y",
+      "14":"y",
       "TP":"y"
     },
     "opera":{
@@ -298,7 +315,11 @@
       "65":"y",
       "66":"y",
       "67":"y",
-      "68":"y"
+      "68":"y",
+      "69":"y",
+      "70":"y",
+      "71":"y",
+      "72":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -317,10 +338,11 @@
       "11.3-11.4":"n",
       "12.0-12.1":"n",
       "12.2-12.4":"n",
-      "13.0-13.1":"a #4",
-      "13.2":"a #4",
-      "13.3":"a #4",
-      "13.4":"a #4"
+      "13.0-13.1":"a #2",
+      "13.2":"a #2",
+      "13.3":"a #2",
+      "13.4-13.7":"a #2",
+      "14.0-14.3":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -348,13 +370,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "46":"y"
+      "59":"y"
     },
     "and_chr":{
-      "81":"y"
+      "87":"y"
     },
     "and_ff":{
-      "68":"y"
+      "83":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -364,14 +386,16 @@
       "12.12":"y"
     },
     "samsung":{
-      "4":"n #3",
-      "5.0-5.4":"n #3",
-      "6.2-6.4":"n #3",
-      "7.2-7.4":"n #3",
-      "8.2":"n #3",
-      "9.2":"n #3",
-      "10.1":"n #3",
-      "11.1":"n #3"
+      "4":"n",
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"y",
+      "10.1":"y",
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -385,13 +409,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Requires the `media.mediasource.enabled` flag to be enabled, support is limited to a whitelist including the YouTube, Netflix, and Dailymotion websites",
-    "2":"Partial support in IE11 refers to only working in Windows 8+",
+    "1":"Partial support in IE11 refers to only working in Windows 8+",
+    "2":"Fully supported only in iPadOS 13 and later.",
     "3":"Due to compatibility issues, MediaSource Extensions are currently disabled by default in Samsung Internet.",
     "4":"Fully supported only in iPadOS 13 and later."
   },
-  "usage_perc_y":77.29,
-  "usage_perc_a":13.65,
+  "usage_perc_y":81.33,
+  "usage_perc_a":13.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"sourcebuffer,endofstream,mse",
