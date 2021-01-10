@@ -11,6 +11,18 @@
     {
       "url":"https://www.w3schools.com/tags/ev_onpageshow.asp",
       "title":"HTML onpageshow Event Attribute"
+    },
+    {
+      "url":"https://docs.google.com/document/d/1JtDCN9A_1UBlDuwkjn1HWxdhQ1H2un9K4kyPLgBqJUc",
+      "title":"Back/forward cache: web-exposed behaviour"
+    },
+    {
+      "url":"https://docs.google.com/document/d/1E7LY4HxkJxIjNt9PJIq5vKtNh6hB0PCTzENGkoYAbgA",
+      "title":"Back-forward cache on Android"
+    },
+    {
+      "url":"https://web.dev/bfcache/",
+      "title":"web.dev - Back/forward cache"
     }
   ],
   "bugs":[
@@ -403,7 +415,7 @@
       "2.5":"y"
     }
   },
-  "notes":"",
+  "notes":"Whether or not a document was/will be cached by a back-forward cache is indicated by [`event.persisted` property](https://developer.mozilla.org/en-US/docs/Web/API/PageTransitionEvent/persisted) where developers can [opt to reload the page](https://web.dev/bfcache/) if needed.",
   "notes_by_num":{
     
   },
@@ -411,7 +423,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"history,page,transition,hide,show,bfcache,event,persisted",
+  "keywords":"history,page,transition,hide,show,bfcache,event,persisted,cache,back,forward",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
