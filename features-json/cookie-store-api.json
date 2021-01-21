@@ -52,7 +52,7 @@
       "84":"n d #1",
       "85":"n d #1",
       "86":"n d #1",
-      "87":"n d #1"
+      "87":"y"
     },
     "firefox":{
       "2":"n",
@@ -376,7 +376,7 @@
       "59":"n"
     },
     "and_chr":{
-      "87":"n d #1"
+      "87":"y"
     },
     "and_ff":{
       "83":"n"
@@ -414,14 +414,14 @@
   "notes_by_num":{
     "1":"Can be enabled with the `#enable-experimental-web-platform-features` flag."
   },
-  "usage_perc_y":19.38,
+  "usage_perc_y":59.85,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"document.cookie,cookieStore",
+  "keywords":"document.cookie,cookieStore,window.cookieStore",
   "ie_id":"",
   "chrome_id":"5658847691669504",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
