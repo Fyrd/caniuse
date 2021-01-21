@@ -136,8 +136,8 @@
       "82":"n d #3",
       "83":"n d #3",
       "84":"n d #3",
-      "85":"n d #3",
-      "86":"n d #3"
+      "85":"y",
+      "86":"y"
     },
     "chrome":{
       "4":"n",
@@ -406,7 +406,7 @@
       "2.5":"n"
     }
   },
-  "notes":"Firefox has newly rewritten their implementation and plans to enable it by default in a version closely succeeding 78",
+  "notes":"",
   "notes_by_num":{
     "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported).",
     "2":"Can be enabled via the \"Experimental Features\" developer menu",
