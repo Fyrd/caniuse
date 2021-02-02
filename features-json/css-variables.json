@@ -30,6 +30,9 @@
     },
     {
       "description":"In Edge 15, nested calculations with css variables are not computed and are ignored [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/12143022/)"
+    },
+    {
+      "description":"In Safari 9.1 to 9.3, nested calculations using intermediate CSS Custom Properties don't work and are ignored [see bug](https://bugs.webkit.org/show_bug.cgi?id=161002)"
     }
   ],
   "categories":[
@@ -254,7 +257,7 @@
       "7.1":"n",
       "8":"n",
       "9":"n",
-      "9.1":"y",
+      "9.1":"a #3",
       "10":"y",
       "10.1":"y",
       "11":"y",
@@ -345,7 +348,7 @@
       "8":"n",
       "8.1-8.4":"n",
       "9.0-9.2":"n",
-      "9.3":"y",
+      "9.3":"a #3",
       "10.0-10.2":"y",
       "10.3":"y",
       "11.0-11.2":"y",
@@ -424,7 +427,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
-    "2":"Partial support is due to bugs present (see known issues)"
+    "2":"Partial support is due to bugs present (see known issues)",
+    "3":"Partial support is due to bugs present (see known issues)"
   },
   "usage_perc_y":94.95,
   "usage_perc_a":0.01,
