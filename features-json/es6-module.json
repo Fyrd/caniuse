@@ -1,6 +1,6 @@
 {
   "title":"JavaScript modules via script tag",
-  "description":"Loading JavaScript module scripts using `<script type=\"module\">` Includes support for the `nomodule` attribute.",
+  "description":"Loading JavaScript module scripts (aka ES6 modules) using `<script type=\"module\">` Includes support for the `nomodule` attribute.",
   "spec":"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-type",
   "status":"ls",
   "links":[
@@ -451,7 +451,7 @@
   "usage_perc_a":0.21,
   "ucprefix":false,
   "parent":"",
-  "keywords":"es6,javascript,module,import,export,nomodule",
+  "keywords":"es6 module,javascript,module,import,export,nomodule",
   "ie_id":"moduleses6",
   "chrome_id":"5365692190687232",
   "firefox_id":"",
