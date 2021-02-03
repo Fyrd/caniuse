@@ -256,7 +256,7 @@
       "13":"n",
       "13.1":"n",
       "14":"n",
-      "TP":"n"
+      "TP":"a #5"
     },
     "opera":{
       "9":"n",
@@ -418,7 +418,8 @@
     "1":"Partial support refers to some attributes missing.",
     "2":"Firefox currently has a `media.webspeech.recognition.enable` flag in about:config for this, but actual support is waiting for permissions to be sorted out.",
     "3":"Reported to be in development for Samsung Internet for GearVR, due Q1/2017",
-    "4":"Edge and Opera appear to have support for the `SpeechRecognition` API but no events for it appear to fire."
+    "4":"Edge and Opera appear to have support for the `SpeechRecognition` API but no events for it appear to fire.",
+    "5":"STP 119 includes prefixed support for `webkitSpeechRecognition` without support for `SpeechGrammar` or `SpeechGrammarList`."
   },
   "usage_perc_y":0,
   "usage_perc_a":67.8,
