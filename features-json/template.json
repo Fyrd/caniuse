@@ -347,7 +347,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.3":"y"
+      "14.0-14.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -418,8 +418,8 @@
     "2":"Does not support Node.cloneNode on templates, nested templates or elements that contain templates.",
     "3":"Safari 6.2 has the same partial support as Safari 7.1."
   },
-  "usage_perc_y":95.87,
-  "usage_perc_a":0.15,
+  "usage_perc_y":95.91,
+  "usage_perc_a":0.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents, template",

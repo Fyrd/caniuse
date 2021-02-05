@@ -360,7 +360,7 @@
       "13.2":"a #2",
       "13.3":"a #2",
       "13.4-13.7":"a #2",
-      "14.0-14.3":"a #2"
+      "14.0-14.4":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -434,8 +434,8 @@
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
     "6":"Partial support in macOS Safari refers to not supporting the `week` and `month` input type"
   },
-  "usage_perc_y":74.15,
-  "usage_perc_a":17.65,
+  "usage_perc_y":74.04,
+  "usage_perc_a":17.82,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"datepicker,timepicker,input type=\"date\",input type=\"time\",input date,datetime-local",

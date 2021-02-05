@@ -1,6 +1,6 @@
 {
   "title":"ES6 Template Literals (Template Strings)",
-  "description":"Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them. Formerly known as template strings.",
+  "description":"Template literals are string literals allowing embedded expressions using backtick characters (`). You can use multi-line strings and string interpolation features with them. Formerly known as template strings.",
   "spec":"https://tc39.es/ecma262/#sec-template-literals",
   "status":"other",
   "links":[
@@ -340,7 +340,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.3":"y"
+      "14.0-14.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -409,11 +409,11 @@
   "notes_by_num":{
     "1":"Safari 12 [sometimes garbage collects](https://bugs.webkit.org/show_bug.cgi?id=190756) the cached TemplateStrings used by Tagged Template Literals"
   },
-  "usage_perc_y":95.57,
+  "usage_perc_y":95.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es6",
-  "keywords":"``,multiline",
+  "keywords":"``,templateliterals,multiline",
   "ie_id":"templatestringses6",
   "chrome_id":"4743002513735680",
   "firefox_id":"",

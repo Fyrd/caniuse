@@ -381,7 +381,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.3":"y"
+      "14.0-14.4":"y"
     },
     "op_mini":{
       "all":"y"
@@ -452,8 +452,8 @@
     "2":"Partial support refers to not supporting the `column-fill` property.",
     "3":"Partial support refers to not supporting the `avoid-column`, `column`, and `avoid` (in the column context) values for the properties `break-before`, `break-after`, and `break-inside`."
   },
-  "usage_perc_y":25.52,
-  "usage_perc_a":73.47,
+  "usage_perc_y":25.6,
+  "usage_perc_a":73.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

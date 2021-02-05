@@ -398,7 +398,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.3":"y"
+      "14.0-14.4":"y"
     },
     "op_mini":{
       "all":"y"
@@ -470,11 +470,11 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":97.24,
-  "usage_perc_a":1.73,
+  "usage_perc_y":97.2,
+  "usage_perc_a":1.55,
   "ucprefix":false,
   "parent":"",
-  "keywords":"flex-box,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",
+  "keywords":"flex-box,displayflex,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",
   "ie_id":"flexbox",
   "chrome_id":"4837301406400512",
   "firefox_id":"",

@@ -352,7 +352,7 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.3":"y"
+      "14.0-14.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -422,8 +422,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-WebKit-CSP` header"
   },
-  "usage_perc_y":96.36,
-  "usage_perc_a":1.32,
+  "usage_perc_y":96.38,
+  "usage_perc_a":1.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",
