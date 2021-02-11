@@ -1,6 +1,6 @@
 {
   "title":"classList (DOMTokenList)",
-  "description":"Method of easily manipulating classes on elements, using the DOMTokenList object.",
+  "description":"Method of easily manipulating classes on elements, using the `DOMTokenList` object.",
   "spec":"https://dom.spec.whatwg.org/#dom-element-classlist",
   "status":"ls",
   "links":[
@@ -435,7 +435,7 @@
   "usage_perc_a":2.64,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"classlist.contains(),classlist.toggle(),classlist.add(),classlist.remove()",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
