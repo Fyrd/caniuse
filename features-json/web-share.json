@@ -238,9 +238,9 @@
       "86":"n",
       "87":"n",
       "88":"n",
-      "89":"n",
-      "90":"n",
-      "91":"n"
+      "89":"a #4",
+      "90":"a #4",
+      "91":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -426,7 +426,7 @@
     "1":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
     "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead.",
     "3":"Only supported on Windows",
-    "4":"support is only for Windows.",
+    "4":"Only supported on Windows and Chrome OS",
     "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)."
   },
   "usage_perc_y":58.81,
