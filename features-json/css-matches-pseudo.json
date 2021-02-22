@@ -421,7 +421,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Only supports the deprecated `:-webkit-any()` pseudo-class",
-    "2":"Only supports the deprecated `:-webkit-any()` and `:-matches()` pseudo-classes",
+    "2":"Only supports the deprecated `:-webkit-any()` and `:matches()` pseudo-classes",
     "3":"Only supports the deprecated `:-moz-any()` pseudo-class.",
     "4":"Support for `:is()` can be enabled with the `Experimental Web Platform features` flag"
   },
