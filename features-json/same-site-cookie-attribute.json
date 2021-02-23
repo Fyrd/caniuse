@@ -1,7 +1,7 @@
 {
   "title":"'SameSite' cookie attribute",
   "description":"Same-site cookies (\"First-Party-Only\" or \"First-Party\") allow servers to mitigate the risk of CSRF and information leakage attacks by asserting that a particular cookie should only be sent with requests initiated from the same registrable domain.",
-  "spec":"https://tools.ietf.org/html/draft-west-first-party-cookies-06",
+  "spec":"https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-07",
   "status":"other",
   "links":[
     {
@@ -439,7 +439,7 @@
   "notes_by_num":{
     "1":"Not shipped with the inital release but later with the 2018 June security update (Patch Tuesday) to Windows 10 RS3 (2017 Fall Creators Update) and newer. [More info](https://github.com/MicrosoftEdge/Status/issues/616).",
     "2":"Partial support because only supported in IE 11 on Windows 10 RS3 (2017 Fall Creators Update) and newer, but not in IE 11 on other Windows versions (Windows 7, ...)",
-    "3":"Implemented [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00) by default: Cookies without `SameSite` are treated as `Lax`, `SameSite=None` cookies without `Secure` are rejected.",
+    "3":"Cookies without `SameSite` are treated as `Lax` by default, `SameSite=None` cookies without `Secure` are rejected.",
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
     "5":"Partial due to [the bug](https://bugs.webkit.org/show_bug.cgi?id=198181) that treats `SameSite=None` and invalid values as `Strict` in macOS before 10.15 Catalina and in iOS before 13."
   },
