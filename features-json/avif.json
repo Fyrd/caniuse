@@ -146,7 +146,7 @@
       "83":"n d #1",
       "84":"n d #1",
       "85":"n d #1",
-      "86":"y #2",
+      "86":"n d #1",
       "87":"y #2"
     },
     "chrome":{
@@ -420,7 +420,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"In Firefox 85 and older, still image support can be enabled via the `image.avif.enabled` flag in `about:config`",
+    "1":"Can be enabled in Firefox via the `image.avif.enabled` pref in `about:config`.",
     "2":"Only supports still images. AVIF sequences are not supported."
   },
   "usage_perc_y":24.88,
