@@ -1,6 +1,6 @@
 {
   "title":"AVIF image format",
-  "description":"A modern image format based on the AV1 video format. AVIF generally has better compression than [WebP](#feat=webp), JPEG, PNG and GIF and is designed to supersede them.",
+  "description":"A modern image format based on the AV1 video format. AVIF generally has better compression than [WebP](/webp), JPEG, PNG and GIF and is designed to supersede them. AVIF competes with [JPEG XL](/jpegxl) which has similar compression quality and is generally seen as more feature-rich than AVIF.",
   "spec":"https://aomediacodec.github.io/av1-avif/",
   "status":"other",
   "links":[
@@ -146,7 +146,7 @@
       "83":"n d #1",
       "84":"n d #1",
       "85":"n d #1",
-      "86":"y #2",
+      "86":"n d #1",
       "87":"y #2"
     },
     "chrome":{
