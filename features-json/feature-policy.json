@@ -67,7 +67,7 @@
       "85":"y",
       "86":"y",
       "87":"y",
-      "88":"y"
+      "88":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -241,8 +241,8 @@
       "83":"y",
       "84":"y",
       "85":"y",
-      "86":"y #4",
-      "87":"y #4",
+      "86":"y",
+      "87":"y",
       "88":"y #4",
       "89":"y #4",
       "90":"y #4",
@@ -394,7 +394,7 @@
       "59":"y"
     },
     "and_chr":{
-      "88":"y"
+      "88":"y #4"
     },
     "and_ff":{
       "85":"a #2"
@@ -433,7 +433,7 @@
     "1":"Older Chromium browsers did not support the JS API.",
     "2":"Safari and Firefox only supports the `allow` attribute on iframes.",
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
-    "4":"Supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
+    "4":"At least partially supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
   "usage_perc_y":69.93,
   "usage_perc_a":22.1,

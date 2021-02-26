@@ -45,9 +45,9 @@
       "83":"n #2",
       "84":"n #2",
       "85":"n #2",
-      "86":"n #2",
-      "87":"n #2",
-      "88":"n #2"
+      "86":"n d #2",
+      "87":"n d #2",
+      "88":"a #1 #2"
     },
     "firefox":{
       "2":"n",
@@ -221,12 +221,12 @@
       "83":"n #2",
       "84":"n #2",
       "85":"n #2",
-      "86":"n d #1 #2",
-      "87":"n d #1 #2",
-      "88":"n d #1 #2",
-      "89":"n d #1 #2",
-      "90":"n d #1 #2",
-      "91":"n d #1 #2"
+      "86":"n d #2",
+      "87":"n d #2",
+      "88":"a #1 #2",
+      "89":"a #1 #2",
+      "90":"a #1 #2",
+      "91":"a #1 #2"
     },
     "safari":{
       "3.1":"n",
@@ -319,8 +319,8 @@
       "69":"n #2",
       "70":"n #2",
       "71":"n #2",
-      "72":"n #2",
-      "73":"n #2"
+      "72":"n d #2",
+      "73":"n d #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -374,7 +374,7 @@
       "59":"n #2"
     },
     "and_chr":{
-      "88":"n #2"
+      "88":"a #1 #2"
     },
     "and_ff":{
       "85":"n"
@@ -410,7 +410,7 @@
   },
   "notes":"Standard support includes the HTTP `Permissions-Policy` header, `allow` attribute on iframes and the `document.permissionsPolicy` JS API.",
   "notes_by_num":{
-    "1":"Can be enabled in Chromium browsers with the `enable-experimental-web-platform-features` flag.",
+    "1":"Chromium browsers only support the HTTP header.",
     "2":"At least partially supports [Feature Policy](/feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
