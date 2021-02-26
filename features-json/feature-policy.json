@@ -1,6 +1,6 @@
 {
   "title":"Feature Policy",
-  "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs. Feature Policy is deprecated and has been replaced with [Permissions Policy](#feat=permissions-policy) and [Document Policy](#feat=document-policy).",
+  "description":"This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs. Feature Policy is deprecated and has been replaced with [Permissions Policy](/permissions-policy) and [Document Policy](/document-policy).",
   "spec":"https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
   "status":"wd",
   "links":[
@@ -29,7 +29,7 @@
       "title":"featurepolicy.info (Feature-Policy Playground)"
     },
     {
-      "url":"https://github.com/w3c/webappsec-feature-policy/blob/master/features.md",
+      "url":"https://github.com/w3c/webappsec-permissions-policy/blob/main/features.md",
       "title":"List of known features"
     }
   ],
@@ -433,7 +433,7 @@
     "1":"Older Chromium browsers did not support the JS API.",
     "2":"Safari and Firefox only supports the `allow` attribute on iframes.",
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
-    "4":"Supports [Permissions Policy](#feat=permissions-policy), the main replacement for this spec."
+    "4":"Supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
   "usage_perc_y":69.93,
   "usage_perc_a":22.1,

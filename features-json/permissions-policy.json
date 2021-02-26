@@ -1,11 +1,11 @@
 {
   "title":"Permissions Policy",
-  "description":"A security mechanism that allows developers to explicitly enable or disable various powerful browser features for a given site. Similar to [Document Policy](#feat=document-policy).",
-  "spec":"https://w3c.github.io/webappsec-feature-policy/",
+  "description":"A security mechanism that allows developers to explicitly enable or disable various powerful browser features for a given site. Similar to [Document Policy](/document-policy).",
+  "spec":"https://w3c.github.io/webappsec-permissions-policy/",
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/w3c/webappsec-feature-policy/blob/master/permissions-policy-explainer.md",
+      "url":"https://github.com/w3c/webappsec-feature-policy/blob/main/permissions-policy-explainer.md",
       "title":"W3C - Permissions Policy Explainer"
     },
     {
@@ -411,7 +411,7 @@
   "notes":"Standard support includes the HTTP `Permissions-Policy` header, `allow` attribute on iframes and the `document.permissionsPolicy` JS API.",
   "notes_by_num":{
     "1":"Can be enabled in Chromium browsers with the `enable-experimental-web-platform-features` flag.",
-    "2":"At least partially supports [Feature Policy](#feat=feature-policy), the predecessor to this spec."
+    "2":"At least partially supports [Feature Policy](/feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,

@@ -1,12 +1,12 @@
 {
   "title":"Document Policy",
-  "description":"A mechanism that allows developers to set certain rules and policies for a given site. The rules can change default browser behaviour, block certain features or set limits on resource usage. Document Policy is useful both for security and performance, and is similar to [Permissions Policy](#feat=permissions-policy).",
-  "spec":"https://w3c.github.io/webappsec-permissions-policy/document-policy.html",
+  "description":"A mechanism that allows developers to set certain rules and policies for a given site. The rules can change default browser behaviour, block certain features or set limits on resource usage. Document Policy is useful both for security and performance, and is similar to [Permissions Policy](/permissions-policy).",
+  "spec":"https://wicg.github.io/document-policy/",
   "status":"unoff",
   "links":[
     {
-      "url":"https://github.com/w3c/webappsec-feature-policy/blob/master/document-policy-explainer.md",
-      "title":"W3C - Document Policy Explainer"
+      "url":"https://github.com/WICG/document-policy/blob/main/document-policy-explainer.md",
+      "title":"WICG - Document Policy Explainer"
     },
     {
       "url":"https://mozilla.github.io/standards-positions/#document-policy",
