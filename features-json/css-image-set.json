@@ -138,8 +138,8 @@
       "83":"n",
       "84":"n",
       "85":"n",
-      "86":"n",
-      "87":"n"
+      "86":"n d #2",
+      "87":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -412,7 +412,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See https://bugs.webkit.org/show_bug.cgi?id=160934."
+    "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See https://bugs.webkit.org/show_bug.cgi?id=160934.",
+    "2":"Can be enabled using `layout.css.image-set`. Enabled by default in Nightly only."
   },
   "usage_perc_y":92.21,
   "usage_perc_a":0,
