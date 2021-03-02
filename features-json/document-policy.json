@@ -5,8 +5,8 @@
   "status":"unoff",
   "links":[
     {
-      "url":"https://github.com/WICG/document-policy/blob/main/document-policy-explainer.md",
-      "title":"WICG - Document Policy Explainer"
+      "url":"https://github.com/w3c/webappsec-feature-policy/blob/master/document-policy-explainer.md",
+      "title":"W3C - Document Policy Explainer"
     },
     {
       "url":"https://mozilla.github.io/standards-positions/#document-policy",
@@ -15,6 +15,10 @@
     {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=993790",
       "title":"Chromium tracking bug for new policies"
+    },
+    {
+      "url":"https://github.com/WICG/document-policy/blob/main/document-policy-explainer.md",
+      "title":"WICG - Document Policy Explainer"
     }
   ],
   "bugs":[
@@ -416,7 +420,7 @@
     "1":"Chromium browsers only support the HTTP header."
   },
   "usage_perc_y":0,
-  "usage_perc_a":65.29,
+  "usage_perc_a":65.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,policy,attribute,policy attribute,attribute policy,feature-policy,feature policy,document-policy,force-load-at-top",

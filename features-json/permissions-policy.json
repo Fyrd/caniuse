@@ -9,12 +9,12 @@
       "title":"W3C - Permissions Policy Explainer"
     },
     {
-      "url":"https://github.com/w3c/webappsec-permissions-policy/blob/main/features.md",
-      "title":"List of known features"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1531012",
       "title":"Firefox implementation tracker"
+    },
+    {
+      "url":"https://github.com/w3c/webappsec-permissions-policy/blob/main/features.md",
+      "title":"List of known features"
     }
   ],
   "bugs":[
@@ -418,7 +418,7 @@
     "2":"At least partially supports [Feature Policy](/feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
-  "usage_perc_a":0,
+  "usage_perc_a":41.68,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature policy,feature-policy,document.featurePolicy,document.policy,permissions-policy,document.permissionsPolicy",
