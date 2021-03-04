@@ -226,9 +226,10 @@
       "86":"a #4",
       "87":"a #4",
       "88":"a #4",
-      "89":"a #4",
-      "90":"a #4",
-      "91":"a #4"
+      "89":"y",
+      "90":"y",
+      "91":"y",
+      "92":"y"
     },
     "safari":{
       "3.1":"n",
@@ -419,8 +420,8 @@
     "5":"No support for `WritableStream`.",
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":92.6,
+  "usage_perc_y":0.03,
+  "usage_perc_a":92.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",
