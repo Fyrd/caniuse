@@ -49,7 +49,8 @@
       "85":"a #4",
       "86":"a #4",
       "87":"a #4",
-      "88":"a #4"
+      "88":"a #4",
+      "89":"y"
     },
     "firefox":{
       "2":"n",
@@ -139,7 +140,8 @@
       "84":"a #5 #6",
       "85":"a #5 #6",
       "86":"a #5 #6",
-      "87":"a #5 #6"
+      "87":"a #5 #6",
+      "88":"a #5 #6"
     },
     "chrome":{
       "4":"n",
@@ -374,13 +376,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "59":"a #4"
+      "62":"a #4"
     },
     "and_chr":{
       "88":"a #4"
     },
     "and_ff":{
-      "85":"n d #3 #5"
+      "86":"a #5 #6"
     },
     "ie_mob":{
       "10":"n",
@@ -421,7 +423,7 @@
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
   "usage_perc_y":0.06,
-  "usage_perc_a":92.48,
+  "usage_perc_a":92.77,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

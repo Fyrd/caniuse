@@ -61,7 +61,8 @@
       "85":"n",
       "86":"y",
       "87":"y",
-      "88":"y"
+      "88":"y",
+      "89":"y"
     },
     "firefox":{
       "2":"n",
@@ -151,7 +152,8 @@
       "84":"y",
       "85":"y",
       "86":"y",
-      "87":"y"
+      "87":"y",
+      "88":"y"
     },
     "chrome":{
       "4":"n",
@@ -386,13 +388,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "59":"n"
+      "62":"y"
     },
     "and_chr":{
       "88":"y"
     },
     "and_ff":{
-      "85":"y"
+      "86":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -427,7 +429,7 @@
   "notes_by_num":{
     "1":"Safari supports [the definition in the CSS Pseudo-Elements Module Level 4](https://www.w3.org/TR/css-pseudo-4/#marker-pseudo) instead of one in the List module due to the flux definition in it."
   },
-  "usage_perc_y":86.72,
+  "usage_perc_y":86.73,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
