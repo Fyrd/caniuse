@@ -53,7 +53,8 @@
       "85":"n d #1",
       "86":"n d #1",
       "87":"y",
-      "88":"y"
+      "88":"y",
+      "89":"y"
     },
     "firefox":{
       "2":"n",
@@ -143,7 +144,8 @@
       "84":"n",
       "85":"n",
       "86":"n",
-      "87":"n"
+      "87":"n",
+      "88":"n"
     },
     "chrome":{
       "4":"n",
@@ -378,13 +380,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "59":"n"
+      "62":"y"
     },
     "and_chr":{
       "88":"y"
     },
     "and_ff":{
-      "85":"n"
+      "86":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -419,7 +421,7 @@
   "notes_by_num":{
     "1":"Can be enabled with the `#enable-experimental-web-platform-features` flag."
   },
-  "usage_perc_y":64.75,
+  "usage_perc_y":64.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
