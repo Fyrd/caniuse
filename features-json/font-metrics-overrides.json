@@ -9,8 +9,12 @@
       "title":"New @font-face descriptors for overriding font metrics"
     }
   ],
-  "bugs":[],
-  "categories":["CSS"],
+  "bugs":[
+    
+  ],
+  "categories":[
+    "CSS"
+  ],
   "stats":{
     "ie":{
       "5.5":"n",
@@ -130,7 +134,6 @@
       "86":"n",
       "87":"n",
       "88":"n"
-
     },
     "chrome":{
       "4":"n",
@@ -406,7 +409,7 @@
   "notes_by_num":{
     "1":"Chrome 86 requires the `--enable-blink-features=CSSFontMetricsOverride` flag"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":24.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
