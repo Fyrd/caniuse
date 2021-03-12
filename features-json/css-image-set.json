@@ -415,7 +415,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See https://bugs.webkit.org/show_bug.cgi?id=160934.",
+    "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See [https://bugs.webkit.org/show_bug.cgi?id=160934](https://bugs.webkit.org/show_bug.cgi?id=160934).",
     "2":"Supported in Firefox behind the `layout.css.image-set.enabled` flag."
   },
   "usage_perc_y":92.48,
