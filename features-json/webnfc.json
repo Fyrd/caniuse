@@ -50,7 +50,7 @@
       "86":"n d #1 #2",
       "87":"n d #1 #2",
       "88":"n d #1 #2",
-      "89":"n d #1 #2"
+      "89":"n"
     },
     "firefox":{
       "2":"n",
@@ -228,10 +228,10 @@
       "86":"n d #1 #2",
       "87":"n d #1 #2",
       "88":"n d #1 #2",
-      "89":"n d #1 #2",
-      "90":"n d #1 #2",
-      "91":"n d #1 #2",
-      "92":"n d #1 #2"
+      "89":"n",
+      "90":"n",
+      "91":"n",
+      "92":"n"
     },
     "safari":{
       "3.1":"n",
@@ -379,7 +379,7 @@
       "62":"n"
     },
     "and_chr":{
-      "89":"n d #1 #2"
+      "89":"y"
     },
     "and_ff":{
       "86":"n"
@@ -415,7 +415,7 @@
   },
   "notes":"Many devices are not equipped with NFC readers. They won't return any data, even though an installed browser might support this API.",
   "notes_by_num":{
-    "1":"Can be enabled in Chromium browsers behind the `enable-experimental-web-platform-features` flag.",
+    "1":"Was experimentally supported in desktop Chromium browsers behind the `enable-experimental-web-platform-features` flag.",
     "2":"Current implementations only allow communication through the NDEF protocol in order to minimize security and privacy issues."
   },
   "usage_perc_y":0,
