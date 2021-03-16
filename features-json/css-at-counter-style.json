@@ -7,6 +7,14 @@
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/@counter-style",
       "title":"MDN Web Docs - CSS counter style"
+    },
+    {
+      "url":"https://mdn.github.io/css-examples/counter-style-demo/",
+      "title":"CSS @counter-style Demo"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=167645",
+      "title":"WebKit bug on support for @counter-style"
     }
   ],
   "bugs":[
@@ -222,8 +230,8 @@
       "88":"n",
       "89":"n",
       "90":"n",
-      "91":"n",
-      "92":"n"
+      "91":"a #1",
+      "92":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -407,7 +415,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support in Firefox refers to lacking support for [image symbols](https://bugzilla.mozilla.org/show_bug.cgi?id=1024179)"
+    "1":"Partial support refers to lacking support for image symbols: [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024179), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1176323)"
   },
   "usage_perc_y":0,
   "usage_perc_a":3.81,
@@ -415,7 +423,7 @@
   "parent":"",
   "keywords":"css @counter-style, list-style",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5692693659254784",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
