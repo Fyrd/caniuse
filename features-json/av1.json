@@ -122,12 +122,12 @@
       "58":"n d",
       "59":"n d",
       "60":"n d",
-      "61":"n d #4",
-      "62":"n d #4",
-      "63":"n d #4",
-      "64":"n d #4",
-      "65":"a #2 #4",
-      "66":"a #3 #4",
+      "61":"n d",
+      "62":"n d",
+      "63":"n d",
+      "64":"n d",
+      "65":"a #2",
+      "66":"a #3",
       "67":"y",
       "68":"y",
       "69":"y",
@@ -371,7 +371,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "89":"n"
+      "89":"y"
     },
     "bb":{
       "7":"n",
@@ -384,10 +384,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "62":"n"
+      "62":"y"
     },
     "and_chr":{
-      "89":"n"
+      "89":"y"
     },
     "and_ff":{
       "86":"n d #4"
@@ -408,8 +408,8 @@
       "9.2":"n",
       "10.1":"n",
       "11.1-11.2":"n",
-      "12.0":"n",
-      "13.0":"n"
+      "12.0":"y",
+      "13.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -424,9 +424,9 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled in Edge 18 by installing the AV1 Video Extension from the Microsoft Store",
-    "2":"Firefox 65 only supported Windows 64-bit users by default",
-    "3":"Firefox 66 only supported Windows and macOS users by default",
-    "4":"Can be enabled in older Firefox versions via the `media.av1.enabled` flag in `about:config`"
+    "2":"Firefox 65 only supported AV1 on Windows 64-bit",
+    "3":"Firefox 66 only supported AV1 on Windows and macOS",
+    "4":"Can be enabled in Firefox for Android via the `media.av1.enabled` flag in `about:config`"
   },
   "usage_perc_y":33.58,
   "usage_perc_a":0.01,
