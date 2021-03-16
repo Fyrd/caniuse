@@ -13,12 +13,12 @@
       "title":"WebKit bug on support for two values syntax"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=198230",
-      "title":"WebKit bug on support for clip value"
-    },
-    {
       "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16993428/",
       "title":"Edge bug on support for two values syntax"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=198230",
+      "title":"WebKit bug on support for clip value"
     }
   ],
   "bugs":[
@@ -422,8 +422,8 @@
     "1":"Does not support the two value `overflow` shorthand",
     "2":"Does not support the `clip` value"
   },
-  "usage_perc_y":0,
-  "usage_perc_a":99.32,
+  "usage_perc_y":3.17,
+  "usage_perc_a":96.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"overflow:hidden,overflow:scroll,overflow:clip",
