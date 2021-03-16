@@ -141,7 +141,7 @@
       "85":"n",
       "86":"n d #2",
       "87":"n d #2",
-      "88":"n d #2"
+      "88":"y"
     },
     "chrome":{
       "4":"n",
@@ -348,7 +348,7 @@
       "13.2":"y #1",
       "13.3":"y #1",
       "13.4-13.7":"y #1",
-      "14.0-14.4":"y #1"
+      "14.0-14.5":"y #1"
     },
     "op_mini":{
       "all":"n"
@@ -363,7 +363,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "81":"y x"
+      "89":"y x"
     },
     "bb":{
       "7":"n",
@@ -415,7 +415,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See https://bugs.webkit.org/show_bug.cgi?id=160934.",
+    "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See [https://bugs.webkit.org/show_bug.cgi?id=160934](https://bugs.webkit.org/show_bug.cgi?id=160934).",
     "2":"Supported in Firefox behind the `layout.css.image-set.enabled` flag."
   },
   "usage_perc_y":92.48,
