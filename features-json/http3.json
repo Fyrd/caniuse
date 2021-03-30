@@ -42,7 +42,7 @@
       "86":"n d #3",
       "87":"n d #3",
       "88":"n d #3",
-      "89":"n d #3"
+      "89":"y"
     },
     "firefox":{
       "2":"n",
@@ -133,7 +133,7 @@
       "85":"n d #1",
       "86":"n d #1",
       "87":"n d #1",
-      "88":"n d #1"
+      "88":"y"
     },
     "chrome":{
       "4":"n",
@@ -220,10 +220,10 @@
       "86":"n d #3",
       "87":"n d #3",
       "88":"n d #3",
-      "89":"n d #3",
-      "90":"n d #3",
-      "91":"n d #3",
-      "92":"n d #3"
+      "89":"y",
+      "90":"y",
+      "91":"y",
+      "92":"y"
     },
     "safari":{
       "3.1":"n",
@@ -246,8 +246,8 @@
       "12.1":"n",
       "13":"n",
       "13.1":"n",
-      "14":"a #4",
-      "TP":"a #4"
+      "14":"n d #4",
+      "TP":"n d #4"
     },
     "opera":{
       "9":"n",
@@ -355,7 +355,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "89":"n"
+      "89":"y"
     },
     "bb":{
       "7":"n",
@@ -410,7 +410,7 @@
     "1":"Can be enabled in Firefox via the `network.http.http3.enabled` pref in `about:config`.",
     "2":"Can be enabled in Chrome(Chromium) via the `--enable-quic` & `--quic-version=h3-23` command line arguments.",
     "3":"Can be enabled in Chrome(Chromium) via the `--enable-quic` & `--quic-version=h3-29` command line arguments.",
-    "4":"Partial support in Safari refers to being limited to macOS 11 Big Sur and later."
+    "4":"Can be enabled in Safari on macOS 11 Big Sur in the \"Experimental Features\" developer menu."
   },
   "usage_perc_y":0,
   "usage_perc_a":3.01,
