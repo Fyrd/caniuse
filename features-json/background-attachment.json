@@ -141,7 +141,8 @@
       "85":"y",
       "86":"y",
       "87":"y",
-      "88":"y"
+      "88":"y",
+      "89":"y"
     },
     "chrome":{
       "4":"y",
@@ -420,8 +421,8 @@
     "3":"Only supports `local` when `-webkit-overflow-scrolling: touch` is _not_ used",
     "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element."
   },
-  "usage_perc_y":80.19,
-  "usage_perc_a":17.71,
+  "usage_perc_y":80.04,
+  "usage_perc_a":17.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
