@@ -133,7 +133,8 @@
       "85":"y",
       "86":"y",
       "87":"y",
-      "88":"y"
+      "88":"y",
+      "89":"y"
     },
     "chrome":{
       "4":"u",
@@ -413,8 +414,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":83.4,
-  "usage_perc_a":14.78,
+  "usage_perc_y":83.21,
+  "usage_perc_a":14.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -1,6 +1,6 @@
 {
   "title":"Import maps",
-  "description":"Import maps allows control over what URLs get fetched by JavaScript import statements and import() expressions.",
+  "description":"Import maps allows control over what URLs get fetched by JavaScript `import` statements and `import()` expressions.",
   "spec":"https://wicg.github.io/import-maps/",
   "status":"unoff",
   "links":[
@@ -11,6 +11,14 @@
     {
       "url":"https://blog.logrocket.com/es-modules-in-browsers-with-import-maps/",
       "title":"Using ES modules in browsers with import-maps"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1688879",
+      "title":"Firefox feature request bug"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=220823",
+      "title":"WebKit feature request bug"
     }
   ],
   "bugs":[
@@ -137,7 +145,8 @@
       "85":"n",
       "86":"n",
       "87":"n",
-      "88":"n"
+      "88":"n",
+      "89":"n"
     },
     "chrome":{
       "4":"n",
@@ -413,7 +422,7 @@
   "notes_by_num":{
     "1":"Can be enabled via the \"Experimental Web Platform features\" flag at `about:flags`."
   },
-  "usage_perc_y":37.09,
+  "usage_perc_y":55.13,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
