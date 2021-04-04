@@ -1,6 +1,6 @@
 {
-  "title":"Public Key Pinning",
-  "description":"Declare that a website's HTTPS certificate should only be treated as valid if the public key is contained in a specified list to prevent MITM attacks that use valid CA-issued certificates.",
+  "title":"HTTP Public Key Pinning",
+  "description":"Declare that a website's HTTPS certificate should only be treated as valid if the public key is contained in a list specified over HTTP to prevent MITM attacks that use valid CA-issued certificates.",
   "spec":"https://tools.ietf.org/html/rfc7469",
   "status":"other",
   "links":[
