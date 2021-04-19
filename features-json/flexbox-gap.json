@@ -336,7 +336,9 @@
       "70":"n",
       "71":"n",
       "72":"n",
-      "73":"n"
+      "73":"y",
+      "74":"y",
+      "75":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -374,7 +376,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "89":"n"
+      "90":"y"
     },
     "bb":{
       "7":"n",
@@ -390,10 +392,10 @@
       "62":"n"
     },
     "and_chr":{
-      "89":"y"
+      "90":"y"
     },
     "and_ff":{
-      "86":"y"
+      "87":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -428,7 +430,7 @@
   "notes_by_num":{
     "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
   },
-  "usage_perc_y":69.68,
+  "usage_perc_y":70.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"flexbox",

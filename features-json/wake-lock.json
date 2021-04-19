@@ -51,7 +51,7 @@
       "87":"n d #1",
       "88":"n d #1",
       "89":"n d #1",
-      "90":"n d #1"
+      "90":"y"
     },
     "firefox":{
       "2":"n",
@@ -328,7 +328,9 @@
       "70":"n d #1",
       "71":"n d #1",
       "72":"n d #1",
-      "73":"n d #1"
+      "73":"y",
+      "74":"y",
+      "75":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -366,7 +368,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "89":"y"
+      "90":"y"
     },
     "bb":{
       "7":"n",
@@ -382,10 +384,10 @@
       "62":"n"
     },
     "and_chr":{
-      "89":"y"
+      "90":"y"
     },
     "and_ff":{
-      "86":"n"
+      "87":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -420,7 +422,7 @@
   "notes_by_num":{
     "1":"Available behind the #experimental-web-platform-features feature flag"
   },
-  "usage_perc_y":62.72,
+  "usage_perc_y":63.05,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
