@@ -1,6 +1,6 @@
 {
   "title":"Lookbehind in JS regular expressions",
-  "description":"Zero-width assertion that ensures a pattern is preceded by another pattern in a JavaScript regular expression.",
+  "description":"The positive lookbehind (`(?<= )`) and negative lookbehind (`(?<! )`) zero-width assertions in JavaScript regular expressions can be used to ensure a pattern is preceded by another pattern.",
   "spec":"https://tc39.es/ecma262/#sec-assertion",
   "status":"other",
   "links":[
