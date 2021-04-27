@@ -143,7 +143,8 @@
       "86":"y",
       "87":"y",
       "88":"y",
-      "89":"y"
+      "89":"y",
+      "90":"y"
     },
     "chrome":{
       "4":"n",
@@ -353,7 +354,8 @@
       "13.2":"n",
       "13.3":"n",
       "13.4-13.7":"n",
-      "14.0-14.5":"y"
+      "14.0-14.4":"y",
+      "14.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -423,8 +425,8 @@
     "1":"Partial support in Firefox 69 refers to lack of public static fields.",
     "2":"Partial support in Safari 14 refers to lack of public static fields."
   },
-  "usage_perc_y":26.43,
-  "usage_perc_a":0,
+  "usage_perc_y":48.18,
+  "usage_perc_a":3.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"class-fields",
