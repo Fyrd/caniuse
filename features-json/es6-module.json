@@ -437,7 +437,8 @@
       "10.1":"y",
       "11.1-11.2":"y",
       "12.0":"y",
-      "13.0":"y"
+      "13.0":"y",
+      "14.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -458,7 +459,7 @@
     "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
     "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":92.38,
+  "usage_perc_y":93.07,
   "usage_perc_a":0.19,
   "ucprefix":false,
   "parent":"",

@@ -412,7 +412,8 @@
       "10.1":"y x",
       "11.1-11.2":"y x",
       "12.0":"y x",
-      "13.0":"y x"
+      "13.0":"y x",
+      "14.0":"y x"
     },
     "and_qq":{
       "10.4":"y x"
@@ -429,7 +430,7 @@
     "1":"Safari's implementation does not completely match the spec, in that only URLs are accepted for the image value and only 'x' is accepted as a resolution. See [https://bugs.webkit.org/show_bug.cgi?id=160934](https://bugs.webkit.org/show_bug.cgi?id=160934).",
     "2":"Supported in Firefox behind the `layout.css.image-set.enabled` flag."
   },
-  "usage_perc_y":92.39,
+  "usage_perc_y":93.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

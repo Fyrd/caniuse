@@ -404,7 +404,8 @@
       "10.1":"y",
       "11.1-11.2":"y",
       "12.0":"y",
-      "13.0":"y"
+      "13.0":"y",
+      "14.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -423,7 +424,7 @@
     "3":"Safari supports a custom implementation https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ ",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags"
   },
-  "usage_perc_y":77.17,
+  "usage_perc_y":77.85,
   "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"",

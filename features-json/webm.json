@@ -404,7 +404,8 @@
       "10.1":"y",
       "11.1-11.2":"y",
       "12.0":"y",
-      "13.0":"y"
+      "13.0":"y",
+      "14.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -425,7 +426,7 @@
     "5":"Supports [VP9 codec used in WebRTC](https://webkit.org/blog/10929) (off by default.)",
     "6":"Supports [VP9 WebM used in MediaSource](https://bugs.webkit.org/show_bug.cgi?id=216652#c1) on [macOS Big Sur or later.](https://trac.webkit.org/changeset/264747/webkit)"
   },
-  "usage_perc_y":77.39,
+  "usage_perc_y":78.08,
   "usage_perc_a":18.04,
   "ucprefix":false,
   "parent":"video",

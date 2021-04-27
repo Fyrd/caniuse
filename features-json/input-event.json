@@ -411,7 +411,8 @@
       "10.1":"y #4",
       "11.1-11.2":"y #4",
       "12.0":"y #4",
-      "13.0":"y #4"
+      "13.0":"y #4",
+      "14.0":"y #4"
     },
     "and_qq":{
       "10.4":"y #4"
@@ -432,7 +433,7 @@
     "5":"Doesn't fire an `input` event when (un)checking a checkbox or radio button. See [MS Edge bug](https://connect.microsoft.com/IE/feedback/details/1883692).",
     "6":"Doesn't fire an `input` event when changing the selected file(s) of an `<input type=\"file\">`. See [WebKit bug #149398](https://bugs.webkit.org/show_bug.cgi?id=149398) and [WebKit bug #204292](https://bugs.webkit.org/show_bug.cgi?id=204292)."
   },
-  "usage_perc_y":97.72,
+  "usage_perc_y":98.41,
   "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",

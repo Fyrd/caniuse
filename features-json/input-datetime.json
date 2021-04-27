@@ -424,7 +424,8 @@
       "10.1":"y",
       "11.1-11.2":"y",
       "12.0":"y",
-      "13.0":"y"
+      "13.0":"y",
+      "14.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -445,7 +446,7 @@
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
     "6":"Partial support in macOS Safari refers to not supporting the `week` and `month` input type"
   },
-  "usage_perc_y":74.56,
+  "usage_perc_y":75.24,
   "usage_perc_a":17.44,
   "ucprefix":false,
   "parent":"forms",

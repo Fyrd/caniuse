@@ -417,7 +417,8 @@
       "10.1":"y",
       "11.1-11.2":"y",
       "12.0":"y",
-      "13.0":"y"
+      "13.0":"y",
+      "14.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -434,7 +435,7 @@
     "1":"In Firefox, the \"privacy.reduceTimerPrecision\" preference is enabled by default and defaults to 20us in Firefox 59; in 60 it will be 2ms.",
     "2":"In Firefox, the \"privacy.resistFingerprinting\" preference changes the precision to 100ms or the value of \"privacy.resistFingerprinting.reduceTimerPrecision.microseconds\", whichever is larger."
   },
-  "usage_perc_y":97.27,
+  "usage_perc_y":97.96,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

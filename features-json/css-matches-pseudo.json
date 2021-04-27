@@ -416,7 +416,8 @@
       "10.1":"a x #1",
       "11.1-11.2":"a x #1",
       "12.0":"a x #1",
-      "13.0":"a x #1"
+      "13.0":"a x #1",
+      "14.0":"a x #1"
     },
     "and_qq":{
       "10.4":"a d #1 #4"
@@ -435,8 +436,8 @@
     "3":"Only supports the deprecated `:-moz-any()` pseudo-class.",
     "4":"Support for `:is()` can be enabled with the `Experimental Web Platform features` flag"
   },
-  "usage_perc_y":83.15,
-  "usage_perc_a":13.23,
+  "usage_perc_y":83.16,
+  "usage_perc_a":13.91,
   "ucprefix":false,
   "parent":"",
   "keywords":":is,is,:matches,matches,:any,any,:-moz-any,-moz-any,:-webkit-any,-webkit-any",
