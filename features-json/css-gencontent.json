@@ -22,7 +22,7 @@
       "description":"Chrome supports CSS transitions on generated content as of v. 26. Safari v6 and below do not support transitions or animations on pseudo elements."
     },
     {
-      "description":"IE9, IE10, IE11 ignore CSS rem units in the line-height property. [Bug report](https://connect.microsoft.com/IE/feedback/details/776744/css3-using-rem-to-set-line-height-in-before-after-pseudo-elements-doesnt-work)."
+      "description":"IE9, IE10, IE11 ignore CSS rem units in the line-height property. [Bug report](https://web.archive.org/web/20160801002559/https://connect.microsoft.com/IE/feedback/details/776744)."
     },
     {
       "description":"Firefox & Edge do not support `:after` and `:before` for input fields"
