@@ -251,8 +251,8 @@
       "13":"n",
       "13.1":"n",
       "14":"n",
-      "14.1":"n",
-      "TP":"n"
+      "14.1":"a #1",
+      "TP":"a #1"
     },
     "opera":{
       "9":"n",
@@ -416,7 +416,7 @@
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
   "notes_by_num":{
-    
+    "#1":"Partial due to the lack of Ogg container support, and being limited to macOS 11.3 or later."
   },
   "usage_perc_y":79.05,
   "usage_perc_a":0,
