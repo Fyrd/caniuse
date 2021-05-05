@@ -267,6 +267,7 @@
       "13":"n",
       "13.1":"n",
       "14":"n",
+      "14.1":"n d #4",
       "TP":"n"
     },
     "opera":{
@@ -433,10 +434,11 @@
   "notes_by_num":{
     "1":"Supports the precursor version of the property: [`-ms-scroll-chaining`](https://msdn.microsoft.com/en-us/library/hh772034%28v=vs.85%29.aspx), which works similarly. IE support is limited to Windows 8 & above",
     "2":"Does not support `overscroll-behavior: none;` on the body element to prevent the overscroll glow and rubberbanding effects.",
-    "3":"Incorrectly treats `none` as `contain` see [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior#Browser_compatibility) and [Edge 18 changelog](https://aka.ms/devguide_edgehtml_18)"
+    "3":"Incorrectly treats `none` as `contain` see [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior#Browser_compatibility) and [Edge 18 changelog](https://aka.ms/devguide_edgehtml_18)",
+    "4":"Can be enabled in the \"Experimental Features\" developer menu"
   },
-  "usage_perc_y":75.35,
-  "usage_perc_a":1.26,
+  "usage_perc_y":75.24,
+  "usage_perc_a":1.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",

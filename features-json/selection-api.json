@@ -251,6 +251,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -421,8 +422,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":83.9,
-  "usage_perc_a":14.73,
+  "usage_perc_y":83.79,
+  "usage_perc_a":14.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

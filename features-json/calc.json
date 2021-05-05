@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"IE 9 - 11 and Edge do not support `width: calc()` on table cells. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10982196/)"
+      "description":"IE 9 - 11 and Edge do not support `width: calc()` on table cells. [Bug Report](https://web.archive.org/web/20171123043312/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10982196/)"
     },
     {
       "description":"IE 9 - 11 don't render `box-shadow` when `calc()` is used for any of the values"
@@ -297,6 +297,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -465,8 +466,8 @@
     "2":"Partial support in IE9 refers to the browser crashing when used as a `background-position` value.",
     "3":"Partial support in IE10/IE11 refers to calc not working properly with various use cases mentioned in known issues"
   },
-  "usage_perc_y":97.17,
-  "usage_perc_a":1.16,
+  "usage_perc_y":96.81,
+  "usage_perc_a":1.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

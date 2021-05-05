@@ -261,6 +261,7 @@
       "13":"a",
       "13.1":"a",
       "14":"a",
+      "14.1":"a",
       "TP":"a"
     },
     "opera":{
@@ -426,10 +427,10 @@
   "notes":"Partial support refers to lack of filter support or buggy result from effects. A [CSS Filter Effects](https://www.w3.org/TR/filter-effects/) specification is in the works that would replace this method.",
   "notes_by_num":{
     "1":"IE11 and below do not support `<foreignObject>`.",
-    "2":"IE and Edge do not support applying SVG filter effects to HTML elements using CSS. [Bug Report](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6618695/)"
+    "2":"IE and Edge do not support applying SVG filter effects to HTML elements using CSS. [Bug Report](https://web.archive.org/web/20171208021756/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6618695/)"
   },
-  "usage_perc_y":3.96,
-  "usage_perc_a":93.26,
+  "usage_perc_y":3.85,
+  "usage_perc_a":93.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

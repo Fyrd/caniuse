@@ -259,7 +259,8 @@
       "13":"a #4 #5",
       "13.1":"a #4 #5",
       "14":"a #4 #5",
-      "TP":"a #4 #5"
+      "14.1":"a #4",
+      "TP":"a #4"
     },
     "opera":{
       "9":"n",
@@ -430,8 +431,8 @@
     "5":"No support for `WritableStream`.",
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
-  "usage_perc_y":55.14,
-  "usage_perc_a":38.42,
+  "usage_perc_y":64.49,
+  "usage_perc_a":28.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

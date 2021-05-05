@@ -15,7 +15,7 @@
   ],
   "bugs":[
     {
-      "description":"IE 9, 10 and 11 do not support rem units when used in the \"line-height\" property when used on :before and :after pseudo elements (https://connect.microsoft.com/IE/feedback/details/776744)."
+      "description":"IE 9, 10 and 11 do not support rem units when used in the \"line-height\" property when used on :before and :after pseudo elements (https://web.archive.org/web/20160801002559/https://connect.microsoft.com/IE/feedback/details/776744)."
     },
     {
       "description":"Borders sized in \"rem\" disappear when the page is zoomed out in Chrome."
@@ -269,6 +269,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -436,8 +437,8 @@
     "1":"IE 9 & IE 10 do not support `rem` units when used in the `font` shorthand property (the entire declaration is ignored) or when used on pseudo elements.",
     "2":"iOS Safari 5.0-5.1 support `rem` but not in combination with media queries."
   },
-  "usage_perc_y":99.46,
-  "usage_perc_a":0.13,
+  "usage_perc_y":99.31,
+  "usage_perc_a":0.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"rems",

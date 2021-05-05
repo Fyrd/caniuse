@@ -44,7 +44,7 @@
       "description":"Limits of `toDataURL()` for iOS:\r\n- The maximum size for decoded GIF, PNG, and TIFF images is 3 megapixels for devices with less than 256 MB RAM and 5 megapixels for devices with greater or equal than 256 MB RAM.\r\n- The maximum size for a canvas element is 3 megapixels for devices with less than 256 MB RAM and 5 megapixels for devices with greater or equal than 256 MB RAM.\r\n- JavaScript execution time is limited to 10 seconds for each top-level entry point."
     },
     {
-      "description":"In IE 11 `canvas.toDataURL()` does not work if the canvas has images with data URI sources [see bug](https://connect.microsoft.com/IE/Feedback/Details/828416)"
+      "description":"In IE 11 `canvas.toDataURL()` does not work if the canvas has images with data URI sources [see bug](https://web.archive.org/web/20171004111538/https://connect.microsoft.com/IE/Feedback/Details/828416)"
     },
     {
       "description":"IE 10 canvas doesn't support `setLineDash` or `lineDashOffset` [see bug](https://social.msdn.microsoft.com/Forums/en-US/85007e72-90ad-4bd9-affd-9a24702219e6/canvasrenderingcontext2dsetlinedash-and-linedashoffset-missing?forum=winappswithhtml5) "
@@ -293,6 +293,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -460,8 +461,8 @@
     "1":"Does not support `toDataURL()`",
     "2":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications."
   },
-  "usage_perc_y":98.66,
-  "usage_perc_a":1.02,
+  "usage_perc_y":98.46,
+  "usage_perc_a":1.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"canvas,toDataURL()",

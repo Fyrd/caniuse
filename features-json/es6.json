@@ -259,6 +259,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -427,8 +428,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":95.1,
-  "usage_perc_a":2.94,
+  "usage_perc_y":94.59,
+  "usage_perc_a":3.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

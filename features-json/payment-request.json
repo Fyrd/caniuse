@@ -271,6 +271,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -444,8 +445,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":87.88,
-  "usage_perc_a":4.87,
+  "usage_perc_y":87.53,
+  "usage_perc_a":4.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

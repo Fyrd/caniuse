@@ -29,7 +29,7 @@
       "description":"In Edge 15 animations with css variables may cause the webpage to crash [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/11676012/)"
     },
     {
-      "description":"In Edge 15, nested calculations with css variables are not computed and are ignored [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/12143022/)"
+      "description":"In Edge 15, nested calculations with css variables are not computed and are ignored [see bug](https://web.archive.org/web/20171216000230/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/12143022/)"
     },
     {
       "description":"In Safari 9.1 to 9.3, nested calculations using intermediate CSS Custom Properties don't work and are ignored [see bug](https://bugs.webkit.org/show_bug.cgi?id=161002)"
@@ -274,6 +274,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -442,8 +443,8 @@
     "2":"Partial support is due to bugs present (see known issues)",
     "3":"Partial support is due to bugs present (see known issues)"
   },
-  "usage_perc_y":95.43,
-  "usage_perc_a":0.21,
+  "usage_perc_y":94.95,
+  "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"css variables,cssvariables,vars,custom properties,var(),--var",

@@ -13,12 +13,12 @@
       "title":"MDN Web Docs - URLSearchParams"
     },
     {
-      "url":"https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/8993198/",
-      "title":"Edge implementation bug"
-    },
-    {
       "url":"https://github.com/zloirock/core-js#url-and-urlsearchparams",
       "title":"Polyfill for this feature is available in the core-js library"
+    },
+    {
+      "url":"https://web.archive.org/web/20190624214230/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/8993198/",
+      "title":"EdgeHTML implementation bug"
     }
   ],
   "bugs":[
@@ -263,6 +263,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -429,8 +430,8 @@
   "notes_by_num":{
     "1":"Partial support refers to only supporting `entries()`, `keys()`, `values()`, and `for...of`."
   },
-  "usage_perc_y":95.42,
-  "usage_perc_a":0.13,
+  "usage_perc_y":94.94,
+  "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"url,search,params",

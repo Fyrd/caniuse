@@ -42,7 +42,7 @@
       "description":"Firefox 39 in Mac OSX by default does not prevent alpha characters input and Firefox 42 validates only but It doesn't disable alpha keys input."
     },
     {
-      "description":"While in newer Edge versions changing the value through up/down arrow keys is supported, no `input` or `change` event is fired. See the [MS Edge bug concerning `input`](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10305583/) and [MS Edge bug concerning `change`](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10242461/) respectively."
+      "description":"While in newer Edge versions changing the value through up/down arrow keys is supported, no `input` or `change` event is fired. See the [MS Edge bug concerning `input`](https://web.archive.org/web/20171210190913/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10305583/) and [MS Edge bug concerning `change`](https://web.archive.org/web/20190421015807/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/10242461/) respectively."
     }
   ],
   "categories":[
@@ -284,6 +284,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -453,8 +454,8 @@
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
     "4":"Does not include increment/decrement buttons, but does support increment/decrement via arrow up & down keys."
   },
-  "usage_perc_y":41.66,
-  "usage_perc_a":56.72,
+  "usage_perc_y":40.91,
+  "usage_perc_a":57.24,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"spinner,input type=\"number\"",

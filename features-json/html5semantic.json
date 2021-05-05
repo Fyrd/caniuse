@@ -269,6 +269,7 @@
       "13":"y",
       "13.1":"y",
       "14":"y",
+      "14.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -436,8 +437,8 @@
     "1":"Partial support refers to missing the default styling, as technically the elements are considered \"[unknown](https://developer.mozilla.org/en-US/docs/Web/API/HTMLUnknownElement)\". This is easily taken care of by manually setting the default `display` value for each tag.",
     "2":"Partial support refers to only the `<main>` element (added later to the spec) being \"unknown\", though it can still be used and styled."
   },
-  "usage_perc_y":96.94,
-  "usage_perc_a":2.73,
+  "usage_perc_y":96.64,
+  "usage_perc_a":2.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"section,article,aside,header,footer,nav,figure,figcaption,time,mark,main,<section>,<article>,<aside>,<header>,<footer>,<nav>,<figure>,<figcaption>,<time>,<mark>,<main>",
