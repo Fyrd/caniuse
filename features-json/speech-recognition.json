@@ -19,6 +19,10 @@
     {
       "url":"http://zenorocha.github.io/voice-elements/#recognition-element",
       "title":"Advanced demo and resource"
+    },
+    {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=570968",
+      "title":"Chromium bug to unprefix the Speech Recognition API"
     }
   ],
   "bugs":[
@@ -263,8 +267,8 @@
       "13":"n",
       "13.1":"n",
       "14":"n",
-      "14.1":"a #5",
-      "TP":"a #5"
+      "14.1":"a x #5",
+      "TP":"a x #5"
     },
     "opera":{
       "9":"n",
@@ -360,7 +364,7 @@
       "13.3":"n",
       "13.4-13.7":"n",
       "14.0-14.4":"n",
-      "14.5":"n"
+      "14.5":"a x #5"
     },
     "op_mini":{
       "all":"n"
@@ -432,10 +436,10 @@
     "2":"Firefox currently has a `media.webspeech.recognition.enable` flag in about:config for this, but actual support is waiting for permissions to be sorted out.",
     "3":"Reported to be in development for Samsung Internet for GearVR, due Q1/2017",
     "4":"Edge and Opera appear to have support for the `SpeechRecognition` API but no events for it appear to fire.",
-    "5":"STP 119 includes prefixed support for `webkitSpeechRecognition` without support for `SpeechGrammar` or `SpeechGrammarList`."
+    "5":"Safari 14.1 and TP 119+ include prefixed support for `webkitSpeechRecognition` without support for `SpeechGrammar` or `SpeechGrammarList`. Siri needs to be enabled."
   },
   "usage_perc_y":0,
-  "usage_perc_a":68.68,
+  "usage_perc_a":68.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"#web-speech,speechrecognition,ASR",
