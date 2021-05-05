@@ -255,8 +255,8 @@
       "13":"a #4",
       "13.1":"a #4",
       "14":"a #4 #5 #6",
-      "14.1":"y",
-      "TP":"a #4 #5 #6"
+      "14.1":"a #7",
+      "TP":"a #7"
     },
     "opera":{
       "9":"n",
@@ -425,7 +425,8 @@
     "3":"Can be enabled in Internet Explorer and Safari for MacOS by manually installing the codecs in the operating system.",
     "4":"Supports [VP8 codec used in WebRTC](https://webkit.org/blog/8672).",
     "5":"Supports [VP9 codec used in WebRTC](https://webkit.org/blog/10929) (off by default.)",
-    "6":"Supports [VP9 WebM used in MediaSource](https://bugs.webkit.org/show_bug.cgi?id=216652#c1) on [macOS Big Sur or later.](https://trac.webkit.org/changeset/264747/webkit)"
+    "6":"Supports [VP9 WebM used in MediaSource](https://bugs.webkit.org/show_bug.cgi?id=216652#c1) on [macOS Big Sur or later.](https://trac.webkit.org/changeset/264747/webkit)",
+    "7":"Partial support in Safari refers to being limited to macOS 11.3 or later."
   },
   "usage_perc_y":78.05,
   "usage_perc_a":17.87,
