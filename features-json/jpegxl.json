@@ -152,7 +152,7 @@
       "87":"n",
       "88":"n",
       "89":"n",
-      "90":"n"
+      "90":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -432,7 +432,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the `enable-jxl` flag in `chrome://flags`."
+    "1":"Can be enabled via the `enable-jxl` flag in `chrome://flags`.",
+    "2":"Can be enabled via the `image.jxl.enabled` flag in `about:config` in Nightly only."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
