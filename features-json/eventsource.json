@@ -29,6 +29,9 @@
       "description":"In Firefox prior to version 36 server-sent events do not reconnect automatically in case of a connection interrupt ([bug](https://bugzilla.mozilla.org/show_bug.cgi?id=831392))"
     },
     {
+      "description":"Firefox currently does not support [EventSource in service workers](https://bugzilla.mozilla.org/show_bug.cgi?id=1681218)"
+    },
+    {
       "description":"Firefox 52 and below do not support [EventSource in web/shared workers](https://bugzilla.mozilla.org/show_bug.cgi?id=1267903)"
     },
     {
