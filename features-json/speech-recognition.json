@@ -436,7 +436,7 @@
     "2":"Firefox currently has a `media.webspeech.recognition.enable` flag in about:config for this, but actual support is waiting for permissions to be sorted out.",
     "3":"Reported to be in development for Samsung Internet for GearVR, due Q1/2017",
     "4":"Edge and Opera appear to have support for the `SpeechRecognition` API but no events for it appear to fire.",
-    "5":"Safari 14.1 and TP 119+ include prefixed support for `webkitSpeechRecognition` without support for `SpeechGrammar` or `SpeechGrammarList`. Siri needs to be enabled."
+    "5":"Safari 14.1 and TP 119+ include prefixed support for `webkitSpeechRecognition` without support for `SpeechGrammar` or `SpeechGrammarList`. Siri needs to be enabled. [Not available in SafariViewController and web apps added to Home Screen](https://bugs.webkit.org/show_bug.cgi?id=225298#c3)."
   },
   "usage_perc_y":0,
   "usage_perc_a":68.83,
