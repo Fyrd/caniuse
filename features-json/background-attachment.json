@@ -256,11 +256,11 @@
       "11.1":"y",
       "12":"y",
       "12.1":"y",
-      "13":"y",
-      "13.1":"y",
-      "14":"y",
-      "14.1":"y",
-      "TP":"y"
+      "13":"a #1",
+      "13.1":"a #1",
+      "14":"n #5",
+      "14.1":"n #5",
+      "TP":"n #5"
     },
     "opera":{
       "9":"a #1",
@@ -351,12 +351,12 @@
       "11.3-11.4":"a #2 #3",
       "12.0-12.1":"a #2 #3",
       "12.2-12.4":"a #2 #3",
-      "13.0-13.1":"a #2 #3",
-      "13.2":"a #2 #3",
-      "13.3":"a #2 #3",
-      "13.4-13.7":"a #2 #3",
-      "14.0-14.4":"a #2 #3",
-      "14.5":"a #2 #3"
+      "13.0-13.1":"n #5",
+      "13.2":"n #5",
+      "13.3":"n #5",
+      "13.4-13.7":"n #5",
+      "14.0-14.4":"n #5",
+      "14.5":"n #5"
     },
     "op_mini":{
       "all":"n"
@@ -427,7 +427,8 @@
     "1":"Partial support refers to supporting `fixed` but not `local`",
     "2":"Partial support refers to supporting `local` but not `fixed`",
     "3":"Only supports `local` when `-webkit-overflow-scrolling: touch` is _not_ used",
-    "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element."
+    "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element.",
+    "5":"Broken support of `fixed` and `local` when scrolling an outer scroll container. Related [to a bug](https://bugs.webkit.org/show_bug.cgi?id=219324)."
   },
   "usage_perc_y":80.49,
   "usage_perc_a":17.52,
