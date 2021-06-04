@@ -355,7 +355,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"a #1 #3",
@@ -379,7 +380,7 @@
       "13.3":"y #3",
       "13.4-13.7":"y #3",
       "14.0-14.4":"y #3",
-      "14.5":"y #3"
+      "14.5-14.6":"y #3"
     },
     "op_mini":{
       "all":"n"
@@ -452,8 +453,8 @@
     "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379",
     "4":"Does not support CORS for resources which redirect: https://bugzilla.mozilla.org/show_bug.cgi?id=1346749"
   },
-  "usage_perc_y":97.98,
-  "usage_perc_a":0.44,
+  "usage_perc_y":98.01,
+  "usage_perc_a":0.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -331,7 +331,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -355,7 +356,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"u"
@@ -426,8 +427,8 @@
     "1":"Support dependent on operating system",
     "2":"Some users may encounter issues with validating certificates that use cross certificates"
   },
-  "usage_perc_y":96.35,
-  "usage_perc_a":0.26,
+  "usage_perc_y":96.37,
+  "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"ssl, tls, sha-2, certificate",

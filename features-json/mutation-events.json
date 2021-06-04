@@ -327,7 +327,8 @@
       "72":"a #1",
       "73":"a #1",
       "74":"a #1",
-      "75":"a #1"
+      "75":"a #1",
+      "76":"a #1"
     },
     "ios_saf":{
       "3.2":"u",
@@ -351,7 +352,7 @@
       "13.3":"a #1",
       "13.4-13.7":"a #1",
       "14.0-14.4":"a #1",
-      "14.5":"a #1"
+      "14.5-14.6":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -423,7 +424,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.02,
-  "usage_perc_a":98.28,
+  "usage_perc_a":98.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

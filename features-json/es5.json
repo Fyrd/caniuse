@@ -339,7 +339,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -363,7 +364,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -437,7 +438,7 @@
     "4":"IE8 has virtually no ES5 support, but does support `Object.defineProperty`, `Object.getOwnPropertyDescriptor`, JSON parsing & Property access on strings"
   },
   "usage_perc_y":97.82,
-  "usage_perc_a":1.75,
+  "usage_perc_a":1.92,
   "ucprefix":false,
   "parent":"",
   "keywords":"es5,javascript,js,javascriptes5,function.bind,array.foreach,array.indexof,array.map,object.keys,date.now,defineproperties,getprototypeof,keys,seal,freeze,preventextensions,issealed,isfrozen,isextensible,getownpropertydescriptorgetownpropertynames,toisostringc,isarray,lastindexof,every,some,reduce,reduceright,getter,setter",

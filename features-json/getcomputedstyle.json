@@ -341,7 +341,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"a #2",
@@ -365,7 +366,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"a #2"
@@ -436,8 +437,8 @@
     "1":"Partial support refers to requiring the second parameter to be included.",
     "2":"Partial support refers to not supporting getComputedStyle on pseudo-elements."
   },
-  "usage_perc_y":98.38,
-  "usage_perc_a":1.17,
+  "usage_perc_y":98.45,
+  "usage_perc_a":1.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

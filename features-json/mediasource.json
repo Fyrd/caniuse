@@ -336,7 +336,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -360,7 +361,7 @@
       "13.3":"a #2",
       "13.4-13.7":"a #2",
       "14.0-14.4":"a #2",
-      "14.5":"a #2"
+      "14.5-14.6":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -433,8 +434,8 @@
     "3":"Due to compatibility issues, MediaSource Extensions are currently disabled by default in Samsung Internet.",
     "4":"Fully supported only in iPadOS 13 and later."
   },
-  "usage_perc_y":82.29,
-  "usage_perc_a":13.75,
+  "usage_perc_y":82.49,
+  "usage_perc_a":13.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"sourcebuffer,endofstream,mse",

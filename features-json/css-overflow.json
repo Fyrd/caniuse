@@ -339,7 +339,8 @@
       "72":"a #2",
       "73":"a #2",
       "74":"a #2",
-      "75":"a #2"
+      "75":"a #2",
+      "76":"a #2"
     },
     "ios_saf":{
       "3.2":"a #1 #2",
@@ -363,7 +364,7 @@
       "13.3":"a #1 #2",
       "13.4-13.7":"a #2",
       "14.0-14.4":"a #2",
-      "14.5":"a #2"
+      "14.5-14.6":"a #2"
     },
     "op_mini":{
       "all":"a #1 #2"
@@ -434,8 +435,8 @@
     "1":"Does not support the two value `overflow` shorthand",
     "2":"Does not support the `clip` value"
   },
-  "usage_perc_y":48.36,
-  "usage_perc_a":51.26,
+  "usage_perc_y":67.06,
+  "usage_perc_a":32.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"overflow:hidden,overflow:scroll,overflow:clip",
