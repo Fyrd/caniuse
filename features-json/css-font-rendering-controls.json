@@ -1,6 +1,6 @@
 {
-  "title":"CSS font-rendering controls",
-  "description":"`@font-face` descriptor (currently defined as `font-display`) that allows control over how a downloadable font renders before it is fully loaded.",
+  "title":"CSS `font-display`",
+  "description":"`@font-face` descriptor `font-display` that allows control over how a downloadable font renders before it is fully loaded.",
   "spec":"https://www.w3.org/TR/css-fonts-4/#font-display-desc",
   "status":"wd",
   "links":[
@@ -434,7 +434,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"swap,fallback,optional,block",
+  "keywords":"swap,fallback,optional,block,font-display",
   "ie_id":"",
   "chrome_id":"4799947908055040",
   "firefox_id":"css-font-display",
