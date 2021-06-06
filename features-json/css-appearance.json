@@ -47,7 +47,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"a x #1 #3",
@@ -140,7 +141,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -231,7 +233,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -328,7 +331,8 @@
       "72":"y x",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -352,7 +356,7 @@
       "13.3":"a x #1",
       "13.4-13.7":"a x #1",
       "14.0-14.4":"a x #1",
-      "14.5":"a x #1"
+      "14.5-14.6":"a x #1"
     },
     "op_mini":{
       "all":"n"
@@ -424,8 +428,8 @@
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
     "3":"`-moz-appearance:none` did not remove the dropdown arrow in the select tag"
   },
-  "usage_perc_y":70.46,
-  "usage_perc_a":26.89,
+  "usage_perc_y":70.54,
+  "usage_perc_a":26.97,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

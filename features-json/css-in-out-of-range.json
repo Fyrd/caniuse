@@ -47,7 +47,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"n",
@@ -140,7 +141,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"n",
@@ -231,7 +233,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"n",
@@ -328,7 +331,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -352,7 +356,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -424,8 +428,8 @@
     "2":"`:in-range` also incorrectly matches temporal and `number` inputs which don't have `min` or `max` attributes. See [Edge bug](https://web.archive.org/web/20171213080515/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7200501/), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=603268), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156558).",
     "3":"`:in-range` and `:out-of-range` incorrectly match inputs which are disabled or readonly. See [Edge bug](https://web.archive.org/web/20171213073431/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7190958/), [Mozilla bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1264157), [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=156530), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=602568)."
   },
-  "usage_perc_y":94.44,
-  "usage_perc_a":3.71,
+  "usage_perc_y":94.49,
+  "usage_perc_a":3.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"in,out,of,range,:in-range,:out-of-range",

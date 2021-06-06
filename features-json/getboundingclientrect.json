@@ -55,7 +55,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"n",
@@ -148,7 +149,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"y",
@@ -239,7 +241,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"u",
@@ -336,7 +339,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -360,7 +364,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"y"
@@ -434,8 +438,8 @@
     "4":"Existing properties of the returned object are immutable.",
     "5":"The returned object lacks `x` & `y` values, though existing `top` & `left` values can be used instead."
   },
-  "usage_perc_y":99.42,
-  "usage_perc_a":0.16,
+  "usage_perc_y":99.6,
+  "usage_perc_a":0.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"getBoundingClientRect,bounding,client,rect,DOMRect,box,cssom",

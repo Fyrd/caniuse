@@ -69,7 +69,8 @@
       "87":"y",
       "88":"y #4",
       "89":"y #4",
-      "90":"y #4"
+      "90":"y #4",
+      "91":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -162,7 +163,8 @@
       "87":"a #2",
       "88":"a #2",
       "89":"a #2",
-      "90":"a #2"
+      "90":"a #2",
+      "91":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -253,7 +255,8 @@
       "90":"y #4",
       "91":"y #4",
       "92":"y #4",
-      "93":"y #4"
+      "93":"y #4",
+      "94":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -350,7 +353,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y #4"
+      "75":"y #4",
+      "76":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -374,7 +378,7 @@
       "13.3":"a #2 #3",
       "13.4-13.7":"a #2 #3",
       "14.0-14.4":"a #2 #3",
-      "14.5":"a #2 #3"
+      "14.5-14.6":"a #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -447,8 +451,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"At least partially supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":71.3,
-  "usage_perc_a":21.04,
+  "usage_perc_y":71.45,
+  "usage_perc_a":20.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",

@@ -47,7 +47,8 @@
       "87":"y #2",
       "88":"y #2",
       "89":"y #2",
-      "90":"y #2"
+      "90":"y #2",
+      "91":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -140,7 +141,8 @@
       "87":"y #2",
       "88":"y #2",
       "89":"y #2",
-      "90":"y #2"
+      "90":"y #2",
+      "91":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -231,7 +233,8 @@
       "90":"y #2",
       "91":"y #2",
       "92":"y #2",
-      "93":"y #2"
+      "93":"y #2",
+      "94":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -328,7 +331,8 @@
       "72":"y #2",
       "73":"y #2",
       "74":"y #2",
-      "75":"y #2"
+      "75":"y #2",
+      "76":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -352,7 +356,7 @@
       "13.3":"n",
       "13.4-13.7":"n",
       "14.0-14.4":"n",
-      "14.5":"n"
+      "14.5-14.6":"n"
     },
     "op_mini":{
       "all":"n"
@@ -425,8 +429,8 @@
     "3":"Safari supports a custom implementation https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ ",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags"
   },
-  "usage_perc_y":77.73,
-  "usage_perc_a":0.24,
+  "usage_perc_y":77.83,
+  "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

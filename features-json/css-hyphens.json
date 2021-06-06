@@ -59,7 +59,8 @@
       "87":"a #1",
       "88":"a #2",
       "89":"a #2",
-      "90":"a #2"
+      "90":"a #2",
+      "91":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -152,7 +153,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"n",
@@ -243,7 +245,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"n",
@@ -340,7 +343,8 @@
       "72":"a #1",
       "73":"a #1",
       "74":"a #1",
-      "75":"a #1"
+      "75":"a #1",
+      "76":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -364,7 +368,7 @@
       "13.3":"y x",
       "13.4-13.7":"y x",
       "14.0-14.4":"y x",
-      "14.5":"y x"
+      "14.5-14.6":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -435,8 +439,8 @@
     "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964).",
     "2":"Only supported on Android & Mac platforms"
   },
-  "usage_perc_y":88.19,
-  "usage_perc_a":8.4,
+  "usage_perc_y":88.13,
+  "usage_perc_a":8.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"hyphen,shy",

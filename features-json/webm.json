@@ -47,7 +47,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"n",
@@ -140,7 +141,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"n",
@@ -231,7 +233,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"n",
@@ -328,7 +331,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -352,7 +356,7 @@
       "13.3":"a #4",
       "13.4-13.7":"a #4",
       "14.0-14.4":"a #4 #5",
-      "14.5":"a #4 #5"
+      "14.5-14.6":"a #4 #5"
     },
     "op_mini":{
       "all":"n"
@@ -428,8 +432,8 @@
     "6":"Supports [VP9 WebM used in MediaSource](https://bugs.webkit.org/show_bug.cgi?id=216652#c1) on [macOS Big Sur or later.](https://trac.webkit.org/changeset/264747/webkit)",
     "7":"Partial support in Safari refers to being limited to macOS 11.3 or later."
   },
-  "usage_perc_y":77.99,
-  "usage_perc_a":17.93,
+  "usage_perc_y":78.11,
+  "usage_perc_a":18.19,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

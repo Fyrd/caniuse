@@ -53,7 +53,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"n",
@@ -146,7 +147,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"n",
@@ -237,7 +239,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"n",
@@ -334,7 +337,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -358,7 +362,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"n"
@@ -429,8 +433,8 @@
     "1":"Partial in Safari refers to not supporting the `hue`, `saturation`, `color`, and `luminosity` blend modes.",
     "2":"Chrome 46 has some [serious bugs](https://code.google.com/p/chromium/issues/detail?id=543583) with multiply, difference, and exclusion blend modes"
   },
-  "usage_perc_y":95.48,
-  "usage_perc_a":0.55,
+  "usage_perc_y":95.55,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"css blend modes,css blending modes,blending,multiply,screen,background",

@@ -53,7 +53,8 @@
       "87":"n d #2",
       "88":"a #1 #2",
       "89":"a #1 #2",
-      "90":"a #1 #2"
+      "90":"a #1 #2",
+      "91":"a #1 #2"
     },
     "firefox":{
       "2":"n",
@@ -146,7 +147,8 @@
       "87":"n #2",
       "88":"n #2",
       "89":"n #2",
-      "90":"n #2"
+      "90":"n #2",
+      "91":"n #2"
     },
     "chrome":{
       "4":"n",
@@ -237,7 +239,8 @@
       "90":"a #1 #2",
       "91":"a #1 #2",
       "92":"a #1 #2",
-      "93":"a #1 #2"
+      "93":"a #1 #2",
+      "94":"a #1 #2"
     },
     "safari":{
       "3.1":"n",
@@ -334,7 +337,8 @@
       "72":"n d #2",
       "73":"n d #2",
       "74":"n d #2",
-      "75":"n d #2"
+      "75":"n d #2",
+      "76":"n d #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -358,7 +362,7 @@
       "13.3":"n #2",
       "13.4-13.7":"n #2",
       "14.0-14.4":"n #2",
-      "14.5":"n #2"
+      "14.5-14.6":"n #2"
     },
     "op_mini":{
       "all":"n"
@@ -430,7 +434,7 @@
     "2":"At least partially supports [Feature Policy](/feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
-  "usage_perc_a":65.26,
+  "usage_perc_a":65.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature policy,feature-policy,document.featurePolicy,document.policy,permissions-policy,document.permissionsPolicy",

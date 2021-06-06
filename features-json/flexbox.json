@@ -105,7 +105,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"a x #1",
@@ -198,7 +199,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -289,7 +291,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -386,7 +389,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -410,7 +414,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"y"
@@ -483,8 +487,8 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":97.72,
-  "usage_perc_a":1.65,
+  "usage_perc_y":98.04,
+  "usage_perc_a":1.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,displayflex,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",

@@ -65,7 +65,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"n",
@@ -158,7 +159,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"y",
@@ -249,7 +251,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"n",
@@ -346,7 +349,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -370,7 +374,7 @@
       "13.3":"y #3",
       "13.4-13.7":"y #3",
       "14.0-14.4":"y #3",
-      "14.5":"y #3"
+      "14.5-14.6":"y #3"
     },
     "op_mini":{
       "all":"n"
@@ -442,7 +446,7 @@
     "2":"Old Firefox versions were missing support for some properties: `loop` was added in v11, `played` in v15, `playbackRate` in v20.",
     "3":"Ignores the `autoplay` attribute by default, though autoplay behavior can be [enabled by users](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)"
   },
-  "usage_perc_y":98.32,
+  "usage_perc_y":98.38,
   "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",

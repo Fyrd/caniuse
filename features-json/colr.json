@@ -1,39 +1,35 @@
 {
-  "title":"CSS ::marker pseudo-element",
-  "description":"The `::marker` pseudo-element allows list item markers to be styled or have their content value customized.",
-  "spec":"https://drafts.csswg.org/css-pseudo-4/#marker-pseudo",
-  "status":"wd",
+  "title":"COLR/CPAL(v0) Font Formats",
+  "description":"The COLR table adds support for multi-colored glyphs in a manner that integrates with the rasterizers of existing text engines. COLRv0 only supports pure colors, does not support gradients, transformations and various blending modes.",
+  "spec":"https://docs.microsoft.com/en-us/typography/opentype/otspec190alpha/colr",
+  "status":"other",
   "links":[
     {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=457718",
-      "title":"Chrome support bug"
+      "url":"https://www.colorfonts.wtf/#w-node-85d8080e63a6-0134536f",
+      "title":"Where can I use color fonts"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=205202",
-      "title":"Firefox support bug"
+      "url":"https://docs.microsoft.com/en-us/windows/win32/directwrite/color-fonts",
+      "title":"DirectWrite's color fonts document"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=141477",
-      "title":"WebKit support bug"
+      "url":"https://pixelambacht.nl/chromacheck/",
+      "title":"A tool to check whether the browser supports OpenType color formats"
     },
     {
-      "url":"https://wpdev.uservoice.com/forums/257854-internet-explorer-platform/suggestions/7084750-css-3-marker-pseudo-element",
-      "title":"Edge UserVoice request"
+      "url":"https://www.harbortype.com/fonts/rocher-color/",
+      "title":"A variable color font"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/::marker",
-      "title":"MDN Web Docs - CSS ::marker"
-    },
-    {
-      "url":"https://css-tricks.com/almanac/selectors/m/marker/",
-      "title":"CSS-Tricks article"
+      "url":"https://glyphsapp.com/learn/creating-a-microsoft-color-font",
+      "title":"Make COLR/CPAL format fonts in Glyphs app"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "CSS3"
+    "Other"
   ],
   "stats":{
     "ie":{
@@ -41,30 +37,30 @@
       "6":"n",
       "7":"n",
       "8":"n",
-      "9":"n",
-      "10":"n",
-      "11":"n"
+      "9":"y #2",
+      "10":"y #2",
+      "11":"y #2"
     },
     "edge":{
-      "12":"n",
-      "13":"n",
-      "14":"n",
-      "15":"n",
-      "16":"n",
-      "17":"n",
-      "18":"n",
-      "79":"n",
-      "80":"n",
-      "81":"n",
-      "83":"n",
-      "84":"n",
-      "85":"n",
-      "86":"y",
-      "87":"y",
-      "88":"y",
-      "89":"y",
-      "90":"y",
-      "91":"y"
+      "12":"y",
+      "13":"y",
+      "14":"y",
+      "15":"y",
+      "16":"y",
+      "17":"y",
+      "18":"y",
+      "79":"y #3",
+      "80":"y #3",
+      "81":"y #3",
+      "83":"y #3",
+      "84":"y #3",
+      "85":"y #3",
+      "86":"y #3",
+      "87":"y #3",
+      "88":"y #3",
+      "89":"y #3",
+      "90":"y #3",
+      "91":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -99,42 +95,42 @@
       "29":"n",
       "30":"n",
       "31":"n",
-      "32":"n",
-      "33":"n",
-      "34":"n",
-      "35":"n",
-      "36":"n",
-      "37":"n",
-      "38":"n",
-      "39":"n",
-      "40":"n",
-      "41":"n",
-      "42":"n",
-      "43":"n",
-      "44":"n",
-      "45":"n",
-      "46":"n",
-      "47":"n",
-      "48":"n",
-      "49":"n",
-      "50":"n",
-      "51":"n",
-      "52":"n",
-      "53":"n",
-      "54":"n",
-      "55":"n",
-      "56":"n",
-      "57":"n",
-      "58":"n",
-      "59":"n",
-      "60":"n",
-      "61":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n",
-      "67":"n",
+      "32":"y",
+      "33":"y",
+      "34":"y",
+      "35":"y",
+      "36":"y",
+      "37":"y",
+      "38":"y",
+      "39":"y",
+      "40":"y",
+      "41":"y",
+      "42":"y",
+      "43":"y",
+      "44":"y",
+      "45":"y",
+      "46":"y",
+      "47":"y",
+      "48":"y",
+      "49":"y",
+      "50":"y",
+      "51":"y",
+      "52":"y",
+      "53":"y",
+      "54":"y",
+      "55":"y",
+      "56":"y",
+      "57":"y",
+      "58":"y",
+      "59":"y",
+      "60":"y",
+      "61":"y",
+      "62":"y",
+      "63":"y",
+      "64":"y",
+      "65":"y",
+      "66":"y",
+      "67":"y",
       "68":"y",
       "69":"y",
       "70":"y",
@@ -228,29 +224,29 @@
       "68":"n",
       "69":"n",
       "70":"n",
-      "71":"n",
-      "72":"n",
-      "73":"n",
-      "74":"n",
-      "75":"n",
-      "76":"n",
-      "77":"n",
-      "78":"n",
-      "79":"n",
-      "80":"n",
-      "81":"n",
-      "83":"n",
-      "84":"n",
-      "85":"n",
-      "86":"y",
-      "87":"y",
-      "88":"y",
-      "89":"y",
-      "90":"y",
-      "91":"y",
-      "92":"y",
-      "93":"y",
-      "94":"y"
+      "71":"y #3",
+      "72":"y #3",
+      "73":"y #3",
+      "74":"y #3",
+      "75":"y #3",
+      "76":"y #3",
+      "77":"y #3",
+      "78":"y #3",
+      "79":"y #3",
+      "80":"y #3",
+      "81":"y #3",
+      "83":"y #3",
+      "84":"y #3",
+      "85":"y #3",
+      "86":"y #3",
+      "87":"y #3",
+      "88":"y #3",
+      "89":"y #3",
+      "90":"y #3",
+      "91":"y #3",
+      "92":"y #3",
+      "93":"y #3",
+      "94":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -267,15 +263,15 @@
       "9.1":"n",
       "10":"n",
       "10.1":"n",
-      "11":"n",
+      "11":"y #1",
       "11.1":"y #1",
       "12":"y #1",
       "12.1":"y #1",
       "13":"y #1",
       "13.1":"y #1",
-      "14":"y #1",
-      "14.1":"y #1",
-      "TP":"y #1"
+      "14":"y",
+      "14.1":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -332,23 +328,23 @@
       "55":"n",
       "56":"n",
       "57":"n",
-      "58":"n",
-      "60":"n",
-      "62":"n",
-      "63":"n",
-      "64":"n",
-      "65":"n",
-      "66":"n",
-      "67":"n",
-      "68":"n",
-      "69":"n",
-      "70":"n",
-      "71":"n",
-      "72":"y",
-      "73":"y",
-      "74":"y",
-      "75":"y",
-      "76":"y"
+      "58":"y #3",
+      "60":"y #3",
+      "62":"y #3",
+      "63":"y #3",
+      "64":"y #3",
+      "65":"y #3",
+      "66":"y #3",
+      "67":"y #3",
+      "68":"y #3",
+      "69":"y #3",
+      "70":"y #3",
+      "71":"y #3",
+      "72":"y #3",
+      "73":"y #3",
+      "74":"y #3",
+      "75":"y #3",
+      "76":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -363,7 +359,7 @@
       "9.3":"n",
       "10.0-10.2":"n",
       "10.3":"n",
-      "11.0-11.2":"n",
+      "11.0-11.2":"y",
       "11.3-11.4":"y",
       "12.0-12.1":"y",
       "12.2-12.4":"y",
@@ -390,8 +386,8 @@
       "90":"y"
     },
     "bb":{
-      "7":"n",
-      "10":"n"
+      "7":"u",
+      "10":"u"
     },
     "op_mob":{
       "10":"n",
@@ -409,11 +405,11 @@
       "87":"y"
     },
     "ie_mob":{
-      "10":"n",
-      "11":"n"
+      "10":"u",
+      "11":"u"
     },
     "and_uc":{
-      "12.12":"n"
+      "12.12":"y"
     },
     "samsung":{
       "4":"n",
@@ -422,33 +418,35 @@
       "7.2-7.4":"n",
       "8.2":"n",
       "9.2":"n",
-      "10.1":"n",
-      "11.1-11.2":"n",
-      "12.0":"n",
-      "13.0":"n",
+      "10.1":"y",
+      "11.1-11.2":"y",
+      "12.0":"y",
+      "13.0":"y",
       "14.0":"y"
     },
     "and_qq":{
-      "10.4":"n"
+      "10.4":"y"
     },
     "baidu":{
-      "7.12":"n"
+      "7.12":"y"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"y"
     }
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari supports [the definition in the CSS Pseudo-Elements Module Level 4](https://www.w3.org/TR/css-pseudo-4/#marker-pseudo) instead of one in the List module due to the flux definition in it."
+    "1":"Supported only on Safari for macOS High Sierra (10.13)+",
+    "2":"Supported only on Windows 8.1+",
+    "3":"On Windows pre 8.1 and macOS Sierra (10.12) and below falls back to using FreeType: [Chromium bug 882844](https://bugs.chromium.org/p/chromium/issues/detail?id=882844#c3)"
   },
-  "usage_perc_y":89.44,
+  "usage_perc_y":94.8,
   "usage_perc_a":0,
   "ucprefix":false,
-  "parent":"",
-  "keywords":"",
+  "parent":"fontface",
+  "keywords":"colr,cpal,color-font,fontface,webfonts",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5897235770376192",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true

@@ -57,7 +57,8 @@
       "87":"a x #1",
       "88":"a x #1",
       "89":"a x #1",
-      "90":"a x #1"
+      "90":"a x #1",
+      "91":"a x #1"
     },
     "firefox":{
       "2":"n",
@@ -150,7 +151,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"n",
@@ -241,7 +243,8 @@
       "90":"a x #1",
       "91":"a x #1",
       "92":"a x #1",
-      "93":"a x #1"
+      "93":"a x #1",
+      "94":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -338,7 +341,8 @@
       "72":"a x #1",
       "73":"a x #1",
       "74":"a x #1",
-      "75":"a x #1"
+      "75":"a x #1",
+      "76":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -362,7 +366,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"n"
@@ -433,8 +437,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":21.36,
-  "usage_perc_a":74.89,
+  "usage_perc_y":21.09,
+  "usage_perc_a":75.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

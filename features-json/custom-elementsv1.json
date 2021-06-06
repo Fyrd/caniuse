@@ -60,7 +60,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"n",
@@ -153,7 +154,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"n",
@@ -244,7 +246,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"n",
@@ -341,7 +344,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -365,7 +369,7 @@
       "13.3":"a #1",
       "13.4-13.7":"a #1",
       "14.0-14.4":"a #1",
-      "14.5":"a #1"
+      "14.5-14.6":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -433,12 +437,12 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supports \"Autonomous custom elements\" but not \"Customized built-in elements\".",
+    "1":"Supports \"Autonomous custom elements\" but not \"Customized built-in elements\" see [WebKit bug 182671](https://bugs.webkit.org/show_bug.cgi?id=182671).",
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":76.34,
-  "usage_perc_a":17.91,
+  "usage_perc_y":76.41,
+  "usage_perc_a":17.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",

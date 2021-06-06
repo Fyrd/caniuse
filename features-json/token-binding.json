@@ -43,7 +43,8 @@
       "87":"n d #1",
       "88":"n d #1",
       "89":"n d #1",
-      "90":"n d #1"
+      "90":"n d #1",
+      "91":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -135,8 +136,9 @@
       "86":"n",
       "87":"n",
       "88":"n",
-      "89":"u",
-      "90":"u"
+      "89":"n",
+      "90":"u",
+      "91":"u"
     },
     "chrome":{
       "4":"n",
@@ -227,7 +229,8 @@
       "90":"n d #1",
       "91":"n d #1",
       "92":"n d #1",
-      "93":"n d #1"
+      "93":"n d #1",
+      "94":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -324,7 +327,8 @@
       "72":"u",
       "73":"u",
       "74":"u",
-      "75":"u"
+      "75":"u",
+      "76":"u"
     },
     "ios_saf":{
       "3.2":"n",
@@ -348,7 +352,7 @@
       "13.3":"u",
       "13.4-13.7":"u",
       "14.0-14.4":"u",
-      "14.5":"u"
+      "14.5-14.6":"u"
     },
     "op_mini":{
       "all":"u"
@@ -419,7 +423,7 @@
     "1":"Enabled in Chrome through the \"Token Binding\" flag in chrome://flags",
     "2":"Token binding in Edge is enabled on Windows 10, version 1703 and newer"
   },
-  "usage_perc_y":0.15,
+  "usage_perc_y":0.14,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -54,7 +54,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "firefox":{
       "2":"n",
@@ -147,7 +148,8 @@
       "87":"y",
       "88":"y",
       "89":"y",
-      "90":"y"
+      "90":"y",
+      "91":"y"
     },
     "chrome":{
       "4":"n",
@@ -238,7 +240,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "safari":{
       "3.1":"n",
@@ -335,7 +338,8 @@
       "72":"y",
       "73":"y",
       "74":"y",
-      "75":"y"
+      "75":"y",
+      "76":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -359,7 +363,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5":"y"
+      "14.5-14.6":"y"
     },
     "op_mini":{
       "all":"n"
@@ -431,8 +435,8 @@
     "2":"Does not support Node.cloneNode on templates, nested templates or elements that contain templates.",
     "3":"Safari 6.2 has the same partial support as Safari 7.1."
   },
-  "usage_perc_y":96.21,
-  "usage_perc_a":0.37,
+  "usage_perc_y":96.44,
+  "usage_perc_a":0.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents, template, <template>",
