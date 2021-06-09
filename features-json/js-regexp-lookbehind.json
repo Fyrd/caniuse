@@ -9,16 +9,16 @@
       "title":"Blog post on lookbehind assertions"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=174931",
-      "title":"Safari implementation bug"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1225665",
       "title":"Firefox implementation bug"
     },
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Assertions",
       "title":"MDN: Regular Expressions Assertions"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=174931",
+      "title":"Safari implementation bug"
     }
   ],
   "bugs":[
@@ -379,7 +379,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "90":"y"
+      "91":"y"
     },
     "bb":{
       "7":"n",
@@ -395,10 +395,10 @@
       "62":"y"
     },
     "and_chr":{
-      "90":"y"
+      "91":"y"
     },
     "and_ff":{
-      "87":"y"
+      "89":"y"
     },
     "ie_mob":{
       "10":"n",
