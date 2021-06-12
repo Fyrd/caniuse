@@ -29,12 +29,12 @@
       "title":"Bugzilla: Add :focus-visible (former :focus-ring)"
     },
     {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=185859",
-      "title":"WebKit bug #185859: [selectors] Support for Focus-Indicated Pseudo-class: `:focus-visible`"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1445482",
       "title":"Bugzilla: implement :focus-visible pseudo-class (rename/alias :-moz-focusring)"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=185859",
+      "title":"WebKit bug #185859: [selectors] Support for Focus-Indicated Pseudo-class: `:focus-visible`"
     }
   ],
   "bugs":[
@@ -283,7 +283,8 @@
       "13.1":"n",
       "14":"n",
       "14.1":"n",
-      "TP":"u"
+      "15":"u",
+      "TP":"n"
     },
     "opera":{
       "9":"n",

@@ -1,5 +1,5 @@
 {
-  "title":"CSS `font-display`",
+  "title":"CSS font-display",
   "description":"`@font-face` descriptor `font-display` that allows control over how a downloadable font renders before it is fully loaded.",
   "spec":"https://www.w3.org/TR/css-fonts-4/#font-display-desc",
   "status":"wd",
@@ -263,6 +263,7 @@
       "13.1":"y",
       "14":"y",
       "14.1":"y",
+      "15":"y",
       "TP":"y"
     },
     "opera":{

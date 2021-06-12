@@ -1,5 +1,5 @@
 {
-  "title":"CSS `color()` function",
+  "title":"CSS color() function",
   "description":"The CSS `color()` function allows the browser to display colors in any color space, such as the P3 color space which can display colors outside of the default sRGB color space.",
   "spec":"https://drafts.csswg.org/css-color/#color-function",
   "status":"wd",
@@ -267,6 +267,7 @@
       "13.1":"y",
       "14":"y",
       "14.1":"y",
+      "15":"y",
       "TP":"y"
     },
     "opera":{
