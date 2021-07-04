@@ -354,7 +354,7 @@
       "13.3":"y",
       "13.4-13.7":"y",
       "14.0-14.4":"y",
-      "14.5-14.6":"y"
+      "14.5-14.7":"y"
     },
     "op_mini":{
       "all":"n"
@@ -427,8 +427,8 @@
     "2":"IE8 only supports the `online`/`offline` events on `document.body`, rather than `window`.",
     "3":"Desktop Firefox responds to the status of its \"Work Offline\" mode. If not in that mode, `navigator.onLine` is always `true`, regardless of the actual network connectivity status. [See bug](https://bugzilla.mozilla.org/show_bug.cgi?id=654579) for details."
   },
-  "usage_perc_y":98.13,
-  "usage_perc_a":0.29,
+  "usage_perc_y":98.31,
+  "usage_perc_a":0.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
