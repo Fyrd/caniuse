@@ -14,7 +14,8 @@
     }
   ],
   "bugs":[
-    
+    { "description": "Firefox issue [#775617](https://bugzilla.mozilla.org/show_bug.cgi?id=775617) for page-break-before/page-break-after: avoid" },
+    { "description": "Chromium issue [#223068](https://bugs.chromium.org/p/chromium/issues/detail?id=223068) for break-before, break-after, break-inside" }
   ],
   "categories":[
     "CSS"
