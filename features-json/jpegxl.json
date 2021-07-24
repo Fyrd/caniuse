@@ -349,7 +349,7 @@
       "74":"n",
       "75":"n",
       "76":"n",
-      "77":"n"
+      "77":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -441,7 +441,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the `enable-jxl` flag in `chrome://flags`.",
+    "1":"Can be enabled via the `enable-jxl` flag.",
     "2":"Can be enabled via the `image.jxl.enabled` flag in `about:config` in Nightly only.",
     "3":"Can be enabled via the `--enable-features=JXL` runtime flag."
   },
