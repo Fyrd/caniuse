@@ -438,8 +438,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Has very limited support. Only `url()` is accepted as the image and only `x` is accepted as a resolution.",
-    "2":"Does not support generated images (example: `linear-gradient()`).",
-    "3":"Does not support the `type()` function. "
+    "2":"Does not support generated images in `content`. Example: `content: image-set(linear-gradient())`. [Bug 1696314](https://bugzilla.mozilla.org/show_bug.cgi?id=1696314).",
+    "3":"Does not support the `type()` function."
   },
   "usage_perc_y":0,
   "usage_perc_a":96.18,
