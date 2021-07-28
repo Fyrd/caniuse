@@ -384,7 +384,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "91":"a x #1"
+      "92":"a x #1"
     },
     "bb":{
       "7":"n",
@@ -397,13 +397,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "62":"a x #1"
+      "64":"a x #1"
     },
     "and_chr":{
-      "91":"a x #1"
+      "92":"a x #1"
     },
     "and_ff":{
-      "89":"y #2"
+      "90":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -441,8 +441,8 @@
     "2":"Does not support generated images in `content`. Example: `content: image-set(linear-gradient())`. [Bug 1696314](https://bugzilla.mozilla.org/show_bug.cgi?id=1696314).",
     "3":"Does not support the `type()` function."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":96.18,
+  "usage_perc_y":2.25,
+  "usage_perc_a":93.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

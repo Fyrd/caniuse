@@ -380,7 +380,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "91":"y"
+      "92":"y"
     },
     "bb":{
       "7":"n",
@@ -393,13 +393,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "62":"a #4"
+      "64":"y"
     },
     "and_chr":{
-      "91":"y"
+      "92":"y"
     },
     "and_ff":{
-      "89":"a #5 #6"
+      "90":"a #5 #6"
     },
     "ie_mob":{
       "10":"n",
@@ -440,8 +440,8 @@
     "5":"No support for `WritableStream`.",
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
-  "usage_perc_y":67.05,
-  "usage_perc_a":26.59,
+  "usage_perc_y":67.06,
+  "usage_perc_a":26.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

@@ -398,7 +398,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"y",
-      "91":"y"
+      "92":"y"
     },
     "bb":{
       "7":"p",
@@ -411,13 +411,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "62":"p"
+      "64":"y"
     },
     "and_chr":{
-      "91":"y"
+      "92":"y"
     },
     "and_ff":{
-      "89":"a #3"
+      "90":"a #3"
     },
     "ie_mob":{
       "10":"p",
@@ -458,7 +458,7 @@
     "5":"Supported through WKWebView and Safari but not through UIWebView",
     "6":"In Firefox, autocomplete must be set to off to make dynamic datalist work due to [a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1474137)"
   },
-  "usage_perc_y":90.06,
+  "usage_perc_y":90.07,
   "usage_perc_a":5.8,
   "ucprefix":false,
   "parent":"forms",

@@ -409,7 +409,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "91":"y"
+      "92":"y"
     },
     "bb":{
       "7":"n",
@@ -422,13 +422,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "62":"n"
+      "64":"y"
     },
     "and_chr":{
-      "91":"y"
+      "92":"y"
     },
     "and_ff":{
-      "89":"y"
+      "90":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -469,7 +469,7 @@
     "5":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
     "6":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":93.21,
+  "usage_perc_y":93.22,
   "usage_perc_a":0.17,
   "ucprefix":false,
   "parent":"",

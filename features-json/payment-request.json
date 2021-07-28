@@ -392,7 +392,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "91":"n"
+      "92":"n"
     },
     "bb":{
       "7":"n",
@@ -405,13 +405,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "62":"n"
+      "64":"y"
     },
     "and_chr":{
-      "91":"y #5"
+      "92":"y #5"
     },
     "and_ff":{
-      "89":"n"
+      "90":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -454,7 +454,7 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":88.47,
+  "usage_perc_y":88.48,
   "usage_perc_a":4.42,
   "ucprefix":false,
   "parent":"",
