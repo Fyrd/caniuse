@@ -5,20 +5,16 @@
   "status":"ls",
   "links":[
     {
+      "url":"https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7",
+      "title":"How to favicon in 2021"
+    },
+    {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=294179",
       "title":"Chrome bug"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c50",
       "title":"Firefox bug, highlights comment that confirms note #4"
-    },
-    {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6509196-svg-favicons",
-      "title":"Microsoft Edge feature request on UserVoice"
-    },
-    {
-      "url":"https://web.archive.org/web/20190401105608/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/18357657/",
-      "title":"Microsoft EdgeHTML issue tracker: Issue #18357657: Support SVG favicons"
     },
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=136059",
@@ -440,7 +436,7 @@
       "2.5":"y #3"
     }
   },
-  "notes":"See also [PNG favicons](#feat=link-icon-png).",
+  "notes":"Favicon support is a complicated topic. See [this guide](https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7) for more information.\r\n\r\nSee also [PNG favicons](/link-icon-png).",
   "notes_by_num":{
     "1":"Does not use favicons at all (but may have alternative for bookmarks, etc.).",
     "2":"Partial support in Firefox before version 41 refers to only loading the SVG favicon the first time, but not [on subsequent loads](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c14).",

@@ -5,8 +5,8 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://css-tricks.com/favicon-quiz/",
-      "title":"Detailed info on favicons for various uses"
+      "url":"https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7",
+      "title":"How to favicon in 2021"
     }
   ],
   "bugs":[
@@ -425,7 +425,7 @@
       "2.5":"y"
     }
   },
-  "notes":"Win8/IE10+ and iOS Safari support other types of icons for webpages too, using alternate tags.\r\n\r\nSee also [SVG favicons](#feat=link-icon-svg).",
+  "notes":"Favicon support is a complicated topic. See [this guide](https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7) for more information.\r\n\r\nSee also [SVG favicons](/link-icon-svg).",
   "notes_by_num":{
     "1":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
   },
