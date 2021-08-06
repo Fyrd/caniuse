@@ -141,22 +141,22 @@
       "74":"n",
       "75":"n",
       "76":"n",
-      "77":"n d #1 #2",
-      "78":"n d #1 #2",
-      "79":"n d #1 #2",
-      "80":"n d #1 #2",
-      "81":"n d #1 #2",
-      "82":"n d #1 #2",
-      "83":"n d #1 #2",
-      "84":"n d #1 #2",
-      "85":"n d #1 #2",
-      "86":"n d #1 #2",
-      "87":"n d #1 #2",
-      "88":"n d #1 #2",
-      "89":"n d #1 #2",
-      "90":"n d #1 #2",
-      "91":"n d #1 #2",
-      "92":"n d #1 #2"
+      "77":"n d #1",
+      "78":"n d #1",
+      "79":"n d #1",
+      "80":"n d #1",
+      "81":"n d #1",
+      "82":"n d #1",
+      "83":"n d #1",
+      "84":"n d #1",
+      "85":"n d #1",
+      "86":"n d #1",
+      "87":"n d #1",
+      "88":"n d #1",
+      "89":"n d #1",
+      "90":"n d #1",
+      "91":"n d #1",
+      "92":"y"
     },
     "chrome":{
       "4":"n",
@@ -407,7 +407,7 @@
       "92":"y"
     },
     "and_ff":{
-      "90":"n d #1 #2"
+      "90":"n d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -441,8 +441,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled in Firefox via the `image.avif.enabled` pref in `about:config`.",
-    "2":"Only supports still images. AVIF sequences are not supported."
+    "1":"Can be enabled in Firefox via the `image.avif.enabled` pref in `about:config`."
   },
   "usage_perc_y":67.24,
   "usage_perc_a":0,
