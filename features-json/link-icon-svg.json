@@ -5,10 +5,6 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7",
-      "title":"How to favicon in 2021"
-    },
-    {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=294179",
       "title":"Chrome bug"
     },
@@ -19,6 +15,10 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=136059",
       "title":"WebKit feature request bug"
+    },
+    {
+      "url":"https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7",
+      "title":"How to favicon in 2021"
     }
   ],
   "bugs":[
@@ -441,7 +441,8 @@
     "1":"Does not use favicons at all (but may have alternative for bookmarks, etc.).",
     "2":"Partial support in Firefox before version 41 refers to only loading the SVG favicon the first time, but not [on subsequent loads](https://bugzilla.mozilla.org/show_bug.cgi?id=366324#c14).",
     "3":"Requires the served mime-type to be `image/svg+xml`.",
-    "4":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0)."
+    "4":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0).",
+    "5":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0)."
   },
   "usage_perc_y":74.5,
   "usage_perc_a":0.25,

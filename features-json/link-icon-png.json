@@ -427,7 +427,10 @@
   },
   "notes":"Favicon support is a complicated topic. See [this guide](https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7) for more information.\r\n\r\nSee also [SVG favicons](/link-icon-svg).",
   "notes_by_num":{
-    "1":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
+    "1":"Does not use favicons at all (but may have alternative for bookmarks, etc.).",
+    "2":"If both ICO and PNG are available, will ALWAYS use ICO file, regardless of sizes set.",
+    "3":"If multiple formats are available, will use the last one loaded, regardless of sizes (effectively picks at random).",
+    "4":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
   },
   "usage_perc_y":97.97,
   "usage_perc_a":0,
