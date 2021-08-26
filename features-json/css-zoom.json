@@ -443,7 +443,7 @@
       "2.5":"n"
     }
   },
-  "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content.",
+  "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content. Note though that `transform: scale()` does not work the same as `zoom`. If e.g. `transform: scale(0.6)` is used on the `html` or `body` element then it resizes the entire page, showing a minified page with huge white margins around it, whereas `zoom: 0.6` scales the *elements* on the page, but not the page itself on which the elements are drawn.",
   "notes_by_num":{
     "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
   },
