@@ -49,7 +49,8 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y"
     },
     "firefox":{
       "2":"n",
@@ -434,7 +435,7 @@
   "notes_by_num":{
     "1":"Supported in Firefox behind the `dom.messageChannel.enabled` flag. Reported to not work in web workers before version 41."
   },
-  "usage_perc_y":98.19,
+  "usage_perc_y":98.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"x-doc-messaging",

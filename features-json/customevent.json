@@ -54,7 +54,8 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y"
     },
     "firefox":{
       "2":"n",
@@ -440,8 +441,8 @@
     "1":"While a `window.CustomEvent` object exists, it cannot be called as a constructor. Instead of `new CustomEvent(...)`, you must use `e = document.createEvent('CustomEvent')` and then `e.initCustomEvent(...)`",
     "2":"There is no `window.CustomEvent` object, but `document.createEvent('CustomEvent')` still works."
   },
-  "usage_perc_y":98.51,
-  "usage_perc_a":1.16,
+  "usage_perc_y":98.39,
+  "usage_perc_a":1.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"custom events,custom,event",

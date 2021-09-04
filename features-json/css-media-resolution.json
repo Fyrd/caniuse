@@ -60,7 +60,8 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y"
     },
     "firefox":{
       "2":"n",
@@ -447,8 +448,8 @@
     "2":"Firefox before 16 supports only `dpi` unit, but you can set `2dppx` per `min--moz-device-pixel-ratio: 2`",
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`"
   },
-  "usage_perc_y":79.16,
-  "usage_perc_a":20.62,
+  "usage_perc_y":78.92,
+  "usage_perc_a":20.71,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,device-pixel-ratio,resolution,dppx,dpcm,dpi",

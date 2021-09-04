@@ -78,7 +78,8 @@
       "89":"y #3",
       "90":"y #3",
       "91":"y #3",
-      "92":"y #3"
+      "92":"y #3",
+      "93":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -467,8 +468,8 @@
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
     "5":"Partial due to [the bug](https://bugs.webkit.org/show_bug.cgi?id=198181) that treats `SameSite=None` and invalid values as `Strict` in macOS before 10.15 Catalina and in iOS before 13."
   },
-  "usage_perc_y":91.93,
-  "usage_perc_a":2.41,
+  "usage_perc_y":92,
+  "usage_perc_a":2.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"security,cookies,cookie,csrf",

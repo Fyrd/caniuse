@@ -53,7 +53,8 @@
       "89":"y #2",
       "90":"y #2",
       "91":"y #2",
-      "92":"y #2"
+      "92":"y #2",
+      "93":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -440,8 +441,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":95.42,
-  "usage_perc_a":2.72,
+  "usage_perc_y":95.22,
+  "usage_perc_a":2.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

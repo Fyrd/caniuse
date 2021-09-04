@@ -67,7 +67,8 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y"
     },
     "firefox":{
       "2":"n",
@@ -454,8 +455,8 @@
     "2":"Old Firefox versions were missing support for some properties: `loop` was added in v11, `played` in v15, `playbackRate` in v20.",
     "3":"Ignores the `autoplay` attribute by default, though autoplay behavior can be [enabled by users](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)"
   },
-  "usage_perc_y":98.57,
-  "usage_perc_a":0.13,
+  "usage_perc_y":98.35,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"<video>,videoHeight,videoWidth,HTMLVideoElement.videoHeight,HTMLVideoElement.videoWidth",

@@ -49,7 +49,8 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -439,8 +440,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":98.48,
-  "usage_perc_a":1.35,
+  "usage_perc_y":98.26,
+  "usage_perc_a":1.43,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",

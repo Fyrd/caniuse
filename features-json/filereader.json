@@ -54,7 +54,8 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y"
     },
     "firefox":{
       "2":"n",
@@ -439,8 +440,8 @@
   "notes_by_num":{
     "1":"Does not support `readAsBinaryString`, but `readAsBinaryString` [can be polyfilled](https://stackoverflow.com/q/31391207)"
   },
-  "usage_perc_y":97.71,
-  "usage_perc_a":0.78,
+  "usage_perc_y":97.5,
+  "usage_perc_a":0.77,
   "ucprefix":false,
   "parent":"fileapi",
   "keywords":"",
