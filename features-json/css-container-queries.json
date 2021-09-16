@@ -1,7 +1,7 @@
 {
   "title":"CSS Container Queries",
-  "description":"Experimental media query to apply styles to specified container elements rather than the entire page. Currently implemented using the `contain` property and `@container` at-rule.",
-  "spec":"https://github.com/w3c/csswg-drafts/issues/5796",
+  "description":"Experimental media query to apply styles based on specified container elements rather than the entire page. Currently implemented using the `container` properties and `@container` at-rule.",
+  "spec":"https://drafts.csswg.org/css-contain-3/",
   "status":"unoff",
   "links":[
     {
@@ -22,7 +22,7 @@
     }
   ],
   "bugs":[
-    
+
   ],
   "categories":[
     "CSS"
@@ -245,7 +245,7 @@
       "89":"n",
       "90":"n",
       "91":"n",
-      "92":"n d #1",
+      "92":"n d #1 #2",
       "93":"n d #1",
       "94":"n d #1",
       "95":"n d #1",
@@ -442,7 +442,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled with the \"Enable CSS Container Queries\" feature flag under `chrome://flags`"
+    "1":"Can be enabled with the \"Enable CSS Container Queries\" feature flag under `chrome://flags`",
+    "2":"The initial Chrome prototype used an earlier draft syntax based on the `contain` property"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
