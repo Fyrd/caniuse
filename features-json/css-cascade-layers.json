@@ -26,7 +26,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "CSS"
@@ -253,7 +253,7 @@
       "93":"n",
       "94":"n",
       "95":"n",
-      "96":"n"
+      "96":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -446,7 +446,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled with the \"layout.css.cascade-layers.enabled\" feature flag under `about:config`"
+    "1":"Can be enabled with the \"layout.css.cascade-layers.enabled\" feature flag under `about:config`",
+    "2":"Can be enabled in Chrome Canary using the `--enable-blink-features=CSSCascadeLayers` runtime flag"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
