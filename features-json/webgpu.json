@@ -2,7 +2,7 @@
   "title":"WebGPU",
   "description":"An API for complex rendering and compute, using hardware acceleration. Use cases include demanding 3D games and acceleration of scientific calculations. Meant to supersede WebGL.",
   "spec":"https://gpuweb.github.io/gpuweb/",
-  "status":"unoff",
+  "status":"wd",
   "links":[
     {
       "url":"https://github.com/gpuweb/gpuweb/wiki/Implementation-Status",
@@ -11,6 +11,10 @@
     {
       "url":"https://github.com/gpuweb/gpuweb/wiki",
       "title":"Official Wiki"
+    },
+    {
+      "url":"https://toji.github.io/webgpu-test/",
+      "title":"WebGPU test scene"
     }
   ],
   "bugs":[
@@ -239,9 +243,9 @@
       "91":"n d #3",
       "92":"n d #3",
       "93":"n d #3",
-      "94":"n d #3",
-      "95":"n d #3",
-      "96":"n d #3"
+      "94":"n d #3 #4",
+      "95":"n d #3 #4",
+      "96":"n d #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -438,7 +442,8 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox with the `dom.webgpu.enabled` flag.",
     "2":"Can be enabled in Safari on MacOS with the `WebGPU` experimental feature.",
-    "3":"Can be enabled in some Chromium browsers on Windows and MacOS with the `enable-unsafe-webgpu` flag."
+    "3":"Can be enabled in some Chromium browsers (on Windows, MacOS, Linux) with the `enable-unsafe-webgpu` flag.",
+    "4":"Part of an origin trial."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
@@ -448,6 +453,6 @@
   "ie_id":"",
   "chrome_id":"6213121689518080",
   "firefox_id":"",
-  "webkit_id":"",
+  "webkit_id":"specification-webgpu",
   "shown":true
 }
