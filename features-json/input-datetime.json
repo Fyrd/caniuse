@@ -70,7 +70,8 @@
       "90":"y",
       "91":"y",
       "92":"y",
-      "93":"y"
+      "93":"y",
+      "94":"y"
     },
     "firefox":{
       "2":"n",
@@ -166,8 +167,8 @@
       "90":"a #5",
       "91":"a #5",
       "92":"a #5",
-      "93":"a #5",
-      "94":"a #5"
+      "93":"a #6",
+      "94":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -462,7 +463,7 @@
     "3":"Some modified versions of the Android 4.x browser do have support for date/time fields.",
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
-    "6":"Partial support in macOS Safari refers to not supporting the `week` and `month` input type"
+    "6":"Partial support refers to not supporting the `week` and `month` input type"
   },
   "usage_perc_y":75.55,
   "usage_perc_a":20.01,
