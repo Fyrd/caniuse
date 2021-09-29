@@ -268,12 +268,12 @@
       "11.1":"n",
       "12":"n",
       "12.1":"n",
-      "13":"n",
-      "13.1":"n",
-      "14":"n",
-      "14.1":"n",
-      "15":"n",
-      "TP":"n"
+      "13":"n d #3",
+      "13.1":"n d #3",
+      "14":"n d #3",
+      "14.1":"n d #3",
+      "15":"n d #3",
+      "TP":"n d #3"
     },
     "opera":{
       "9":"n",
@@ -443,7 +443,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"This API is very extensive. Many of its features are still in development and/or don't have finalised specs yet.",
-    "2":"Can be enabled in Firefox behind the `dom.vr.webxr.enabled` flag."
+    "2":"Can be enabled in Firefox behind the `dom.vr.webxr.enabled` flag.",
+    "3":"Can be enabled in Safari with the `WebXR Device API` experimental feature."
   },
   "usage_perc_y":0,
   "usage_perc_a":71.35,
