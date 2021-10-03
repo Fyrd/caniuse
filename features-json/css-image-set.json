@@ -371,13 +371,13 @@
       "11.0-11.2":"a #1",
       "11.3-11.4":"a #1",
       "12.0-12.1":"a #1",
-      "12.2-12.4":"a #1",
+      "12.2-12.5":"a #1",
       "13.0-13.1":"a #1",
       "13.2":"a #1",
       "13.3":"a #1",
       "13.4-13.7":"a #1",
       "14.0-14.4":"a #3",
-      "14.5-14.7":"a #3",
+      "14.5-14.8":"a #3",
       "15":"a #3"
     },
     "op_mini":{
@@ -451,8 +451,8 @@
     "2":"Does not support generated images in `content`. Example: `content: image-set(linear-gradient())`. [Bug 1696314](https://bugzilla.mozilla.org/show_bug.cgi?id=1696314).",
     "3":"Does not support the `type()` function."
   },
-  "usage_perc_y":2.9,
-  "usage_perc_a":93.31,
+  "usage_perc_y":3.01,
+  "usage_perc_a":93.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

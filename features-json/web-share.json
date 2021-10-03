@@ -379,13 +379,13 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2-12.4":"y #5",
+      "12.2-12.5":"y #5",
       "13.0-13.1":"y #5",
       "13.2":"y #5",
       "13.3":"y #5",
       "13.4-13.7":"y #5",
       "14.0-14.4":"y",
-      "14.5-14.7":"y",
+      "14.5-14.8":"y",
       "15":"y"
     },
     "op_mini":{
@@ -461,8 +461,8 @@
     "4":"Only supported on Windows and Chrome OS",
     "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)."
   },
-  "usage_perc_y":60.02,
-  "usage_perc_a":26.88,
+  "usage_perc_y":58.13,
+  "usage_perc_a":28.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",

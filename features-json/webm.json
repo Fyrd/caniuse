@@ -363,13 +363,13 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2-12.4":"a #4",
+      "12.2-12.5":"a #4",
       "13.0-13.1":"a #4",
       "13.2":"a #4",
       "13.3":"a #4",
       "13.4-13.7":"a #4",
       "14.0-14.4":"a #4 #5",
-      "14.5-14.7":"a #4 #5",
+      "14.5-14.8":"a #4 #5",
       "15":"a #4 #5"
     },
     "op_mini":{
@@ -447,8 +447,8 @@
     "6":"Supports [VP9 WebM used in MediaSource](https://bugs.webkit.org/show_bug.cgi?id=216652#c1) on [macOS Big Sur or later.](https://trac.webkit.org/changeset/264747/webkit)",
     "7":"Partial support in Safari refers to being limited to macOS 11.3 or later."
   },
-  "usage_perc_y":78.17,
-  "usage_perc_a":18.46,
+  "usage_perc_y":78.65,
+  "usage_perc_a":18.1,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

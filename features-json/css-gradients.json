@@ -367,13 +367,13 @@
       "11.0-11.2":"a #2",
       "11.3-11.4":"a #2",
       "12.0-12.1":"a #2",
-      "12.2-12.4":"a #2",
+      "12.2-12.5":"a #2",
       "13.0-13.1":"a #2",
       "13.2":"a #2",
       "13.3":"a #2",
       "13.4-13.7":"a #2",
       "14.0-14.4":"a #2",
-      "14.5-14.7":"a #2",
+      "14.5-14.8":"a #2",
       "15":"a #2"
     },
     "op_mini":{
@@ -447,8 +447,8 @@
     "2":"Partial support in Safari and Older Firefox versions refers to not using premultiplied colors which results in unexpected behavior when using the transparent keyword as advised by the [spec](https://www.w3.org/TR/2012/CR-css3-images-20120417/#color-stop-syntax).",
     "3":"Implements an earlier prefixed syntax as `-webkit-gradient`"
   },
-  "usage_perc_y":79.83,
-  "usage_perc_a":18.48,
+  "usage_perc_y":80.18,
+  "usage_perc_a":18.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

@@ -372,13 +372,13 @@
       "11.0-11.2":"n d #4",
       "11.3-11.4":"n d #4",
       "12.0-12.1":"n d #4",
-      "12.2-12.4":"n d #4",
+      "12.2-12.5":"n d #4",
       "13.0-13.1":"n d #4",
       "13.2":"n d #4",
       "13.3":"n d #4",
       "13.4-13.7":"y #5",
       "14.0-14.4":"y #5",
-      "14.5-14.7":"y #5",
+      "14.5-14.8":"y #5",
       "15":"y #5"
     },
     "op_mini":{
@@ -454,8 +454,8 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu",
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
-  "usage_perc_y":88.35,
-  "usage_perc_a":6.77,
+  "usage_perc_y":88.08,
+  "usage_perc_a":6.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",

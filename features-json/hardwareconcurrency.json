@@ -367,13 +367,13 @@
       "11.0-11.2":"y #1",
       "11.3-11.4":"y #1",
       "12.0-12.1":"y #1",
-      "12.2-12.4":"y #1",
+      "12.2-12.5":"y #1",
       "13.0-13.1":"y #1",
       "13.2":"y #1",
       "13.3":"y #1",
       "13.4-13.7":"y #1",
       "14.0-14.4":"y #1",
-      "14.5-14.7":"y #1",
+      "14.5-14.8":"y #1",
       "15":"y #1"
     },
     "op_mini":{
@@ -445,7 +445,7 @@
   "notes_by_num":{
     "1":"WebKit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others. Disabled in Safari behind the ENABLE_NAVIGATOR_HWCONCURRENCY build option."
   },
-  "usage_perc_y":96.1,
+  "usage_perc_y":96.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

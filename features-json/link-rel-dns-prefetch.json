@@ -369,13 +369,13 @@
       "11.0-11.2":"u",
       "11.3-11.4":"u",
       "12.0-12.1":"u",
-      "12.2-12.4":"u",
+      "12.2-12.5":"u",
       "13.0-13.1":"u",
       "13.2":"u",
       "13.3":"u",
       "13.4-13.7":"u",
       "14.0-14.4":"u",
-      "14.5-14.7":"u",
+      "14.5-14.8":"u",
       "15":"u"
     },
     "op_mini":{
@@ -448,8 +448,8 @@
     "1":"IE9 [supported `dns-prefetch` as `prefetch`](https://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
     "2":"Firefox only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
   },
-  "usage_perc_y":78.83,
-  "usage_perc_a":3.56,
+  "usage_perc_y":79.29,
+  "usage_perc_a":3.7,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

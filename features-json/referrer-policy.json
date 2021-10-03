@@ -363,13 +363,13 @@
       "11.0-11.2":"a #1",
       "11.3-11.4":"a #1",
       "12.0-12.1":"y",
-      "12.2-12.4":"y",
+      "12.2-12.5":"y",
       "13.0-13.1":"y",
       "13.2":"y",
       "13.3":"y #4",
       "13.4-13.7":"y #4",
       "14.0-14.4":"y #4",
-      "14.5-14.7":"y #4",
+      "14.5-14.8":"y #4",
       "15":"y #4"
     },
     "op_mini":{
@@ -444,8 +444,8 @@
     "3":"The default policy has been changed from `no-referrer-when-downgrade` to `strict-origin-when-cross-origin.` See [the revised spec.](https://github.com/w3c/webappsec-referrer-policy/pull/142)",
     "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) referrer headers to the page's origin, ignoring the `unsafe-url` referrer policy."
   },
-  "usage_perc_y":95.05,
-  "usage_perc_a":2.03,
+  "usage_perc_y":95.25,
+  "usage_perc_a":1.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",

@@ -392,13 +392,13 @@
       "11.0-11.2":"a #1 #2",
       "11.3-11.4":"a #1 #2",
       "12.0-12.1":"a #1 #2",
-      "12.2-12.4":"a #1 #2",
+      "12.2-12.5":"a #1 #2",
       "13.0-13.1":"a #1 #2",
       "13.2":"a #1 #2",
       "13.3":"a #1 #2",
       "13.4-13.7":"a #1 #2",
       "14.0-14.4":"a #1 #2",
-      "14.5-14.7":"a #1 #2",
+      "14.5-14.8":"a #1 #2",
       "15":"a #1 #2"
     },
     "op_mini":{
@@ -473,8 +473,8 @@
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
     "4":"Does not include increment/decrement buttons, but does support increment/decrement via arrow up & down keys."
   },
-  "usage_perc_y":39.51,
-  "usage_perc_a":58.67,
+  "usage_perc_y":41.7,
+  "usage_perc_a":56.49,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"spinner,input type=\"number\"",

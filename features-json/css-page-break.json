@@ -368,13 +368,13 @@
       "11.0-11.2":"a #1 #2 #3",
       "11.3-11.4":"a #1 #2 #3",
       "12.0-12.1":"a #1 #2 #3",
-      "12.2-12.4":"a #1 #2 #3",
+      "12.2-12.5":"a #1 #2 #3",
       "13.0-13.1":"a #1 #2 #3",
       "13.2":"a #1 #2 #3",
       "13.3":"a #1 #2 #3",
       "13.4-13.7":"a #1 #2 #3",
       "14.0-14.4":"a #1 #2 #3",
-      "14.5-14.7":"a #1 #2 #3",
+      "14.5-14.8":"a #1 #2 #3",
       "15":"a #1 #2 #3"
     },
     "op_mini":{
@@ -448,8 +448,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":1.21,
-  "usage_perc_a":98.48,
+  "usage_perc_y":1.25,
+  "usage_perc_a":98.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

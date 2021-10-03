@@ -377,13 +377,13 @@
       "11.0-11.2":"y x",
       "11.3-11.4":"y x",
       "12.0-12.1":"y x",
-      "12.2-12.4":"y x",
+      "12.2-12.5":"y x",
       "13.0-13.1":"y x",
       "13.2":"y x",
       "13.3":"y x",
       "13.4-13.7":"y x",
       "14.0-14.4":"y x",
-      "14.5-14.7":"y x",
+      "14.5-14.8":"y x",
       "15":"y x"
     },
     "op_mini":{
@@ -457,7 +457,7 @@
     "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
     "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` and `gfx.webrender.all` preference to `true` in about:config."
   },
-  "usage_perc_y":89.65,
+  "usage_perc_y":89.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
