@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"iOS does not allow input elements to be focused (and thus prevents text input) when the element has `-webkit-user-select: none` set"
+      "description":"iOS does not allow input elements [to be focused](https://bugs.webkit.org/show_bug.cgi?id=82692) (and thus prevents text input) when the element has `-webkit-user-select: none` set"
     },
     {
       "description":"Reported to not work in some manufacturer's versions of Android 4.0 and below, though confirmed to work in others."
