@@ -15,9 +15,6 @@
   ],
   "bugs":[
     {
-      "description":"Safari 5.1 does not support `Float64Array`"
-    },
-    {
       "description":"Firefox 14 and under do not have `DataView` yet."
     },
     {
@@ -452,7 +449,8 @@
   },
   "notes":"Includes support for ArrayBuffer objects.",
   "notes_by_num":{
-    "1":"IE10 (and IE 10&11 mobile) does not support `Uint8ClampedArray`"
+    "1":"IE10 (and IE 10&11 mobile) does not support `Uint8ClampedArray`",
+    "2":"Does not support `Float64Array`"
   },
   "usage_perc_y":99.41,
   "usage_perc_a":0.07,
