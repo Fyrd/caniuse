@@ -27,28 +27,28 @@
   ],
   "bugs":[
     {
-      "description":"Firefox 1-64 does not support the `break-before`, `break-after` and `break-inside` properties. Firefox 65+ does not support the `avoid-column`, `column`, and `avoid` (in the column context) values for these properties. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=775628)."
+      "description":"Firefox 1-64 does not support the properties `break-before`, `break-after`, and `break-inside`. Firefox 65+ supports these properties, but not the values `avoid-column`, `column`, and `avoid` (in the column context). See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=775628)."
     },
     {
       "description":"In Firefox, the property `column-span` (or `-moz-column-span`) does not yet work. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=616436)."
     },
     {
-      "description":"Chrome is reported to incorrectly calculate the container height, and often breaks on margins, padding, and can display 1px of the next column at the bottom of the previous column. Part of these issues can be solved by adding `-webkit-perspective:1;` to the column container. This creates a new stacking context for the container, and apparently causes chrome to (re)calculate column layout.\r\n"
+      "description":"Chrome is reported to incorrectly calculate the container height, often breaks on margins and padding, and can display one pixel of the next column at the bottom of the previous column. Some of these issues can be solved by adding `-webkit-perspective: 1;` to the column container. This creates a new stacking context for the container, and apparently causes Chrome to (re)calculate column layout."
     },
     {
-      "description":"Browsers behave differently when flowing `ol` list numbers in columns: IE and Safari only show numbers for the first column. Chrome does not show any numbers. Only Firefox behaves as expected with numbers showing for all items."
+      "description":"Browsers behave differently when flowing `ol` list numbers in columns: IE and Safari display numbers only in the first column. Chrome does not display any numbers. Only Firefox behaves as expected and displays numbers in all columns."
     },
     {
-      "description":"IE has been reported to incorrectly break on elements across columns when having more than 3 columns.\r\n"
+      "description":"IE is reported to incorrectly break on elements across columns when having more than three columns."
     },
     {
-      "description":"IE 10 has a bug where text-shadow doesn't work when used inside columns. See [a testcase](https://jsfiddle.net/0bwwrtda/).\r\n"
+      "description":"IE 10 has a bug where `text-shadow` doesn't work when used inside columns. See [a testcase](https://jsfiddle.net/0bwwrtda/)."
     },
     {
       "description":"Firefox does not split tables into columns."
     },
     {
-      "description":"Firefox and Chrome do not support columns on the <fieldset> element. See [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=727164)."
+      "description":"Firefox and Chrome do not support columns on the `fieldset` element. See [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=727164)."
     },
     {
       "description":"Safari 5-8 is known to render columns [less evenly](https://stackoverflow.com/questions/14148078/safari-column-count-differs-from-firefox-and-chrome) than other browsers."
@@ -482,9 +482,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to not supporting the `break-before`, `break-after`, and `break-inside` properties. WebKit- and Blink-based browsers do have equivalent support for the non-standard `-webkit-column-break-*` properties to accomplish the same result (but only the `auto` and `always` values). Firefox does not support `break-*` but does support the now-obsolete `page-break-*` properties in the paging (printing) context.",
+    "1":"Partial support refers to not supporting the properties `break-before`, `break-after`, and `break-inside`. WebKit- and Blink-based browsers have equivalent support with the non-standard `-webkit-column-break-*` properties, but only for the values `auto` and `always`. Firefox does not support the `break-*` properties but supports the now-obsolete `page-break-*` properties in the paging (printing) context.",
     "2":"Partial support refers to not supporting the `column-fill` property.",
-    "3":"Partial support refers to not supporting the `avoid-column`, `column`, and `avoid` (in the column context) values for the properties `break-before`, `break-after`, and `break-inside`."
+    "3":"Partial support refers to not supporting the values `avoid-column`, `column`, and `avoid` (in the column context) for the properties `break-before`, `break-after`, and `break-inside`."
   },
   "usage_perc_y":23.56,
   "usage_perc_a":75.98,
