@@ -5,14 +5,6 @@
   "status":"other",
   "links":[
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1443863",
-      "title":"Firefox support bug"
-    },
-    {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=960620",
-      "title":"Chrome support bug"
-    },
-    {
       "url":"https://github.com/Kagami/avif.js",
       "title":"Polyfill"
     },
@@ -23,6 +15,10 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=207750",
       "title":"Safari support bug"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1686338",
+      "title":"Firefox support bug for image sequence and animation"
     }
   ],
   "bugs":[
