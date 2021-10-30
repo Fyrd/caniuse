@@ -295,8 +295,8 @@
       "13.1":"n",
       "14":"n",
       "14.1":"n",
-      "15":"n",
-      "TP":"n"
+      "15":"n d #3",
+      "TP":"n d #3"
     },
     "opera":{
       "9":"n",
@@ -398,7 +398,7 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15":"n"
+      "15":"n d #3"
     },
     "op_mini":{
       "all":"n"
@@ -468,7 +468,8 @@
   "notes":"Previously drafted as `:focus-ring`",
   "notes_by_num":{
     "1":"As `:-moz-focusring`",
-    "2":"Enabled through the \"Experimental Web Platform features\" flag in chrome://flags"
+    "2":"Enabled through the \"Experimental Web Platform features\" flag in chrome://flags",
+    "3":"Can be enabled via \":focus-visible pseudo-class\" in the Experimental Features menu"
   },
   "usage_perc_y":74.59,
   "usage_perc_a":0,
