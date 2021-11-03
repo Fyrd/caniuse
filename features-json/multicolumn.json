@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Firefox 1-64 does not support the properties `break-before`, `break-after`, and `break-inside`. Firefox 65+ supports these properties, but not the values `avoid-column`, `column`, and `avoid` (in the column context). See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=775628)."
+      "description":"Firefox 1-64 does not support the properties `break-after`, `break-before`, and `break-inside`. Firefox 65-91 supports these properties, but does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page`, nor the value `column` for the properties `break-after` and `break-before`. Firefox 92+ supports these properties but does not support the value `avoid` (in the column context), nor the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=775628)."
     },
     {
       "description":"In Firefox, the property `column-span` (or `-moz-column-span`) does not yet work. See [the bug](https://bugzilla.mozilla.org/show_bug.cgi?id=616436)."
@@ -188,10 +188,10 @@
       "89":"a #3",
       "90":"a #3",
       "91":"a #3",
-      "92":"a #3",
-      "93":"a #3",
-      "94":"a #3",
-      "95":"a #3"
+      "92":"a #4",
+      "93":"a #4",
+      "94":"a #4",
+      "95":"a #4"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -484,9 +484,10 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to not supporting the properties `break-before`, `break-after`, and `break-inside`. WebKit- and Blink-based browsers have equivalent support with the non-standard `-webkit-column-break-*` properties, but only for the values `auto` and `always`. Firefox does not support the `break-*` properties but supports the now-obsolete `page-break-*` properties in the paging (printing) context.",
-    "2":"Partial support refers to not supporting the `column-fill` property.",
-    "3":"Partial support refers to not supporting the values `avoid-column`, `column`, and `avoid` (in the column context) for the properties `break-before`, `break-after`, and `break-inside`."
+    "1":"Does not support the properties `break-after`, `break-before`, and `break-inside`. WebKit- and Blink-based browsers have equivalent support with the non-standard `-webkit-column-break-*` properties, but only for the values `auto` and `always`. Firefox does not support the `break-*` properties but supports the now-obsolete `page-break-*` properties in the paging (printing) context.",
+    "2":"Does not support the `column-fill` property.",
+    "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
+    "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
   "usage_perc_y":23.56,
   "usage_perc_a":75.98,
