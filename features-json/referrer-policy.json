@@ -448,8 +448,8 @@
     "3":"The default policy has been changed from `no-referrer-when-downgrade` to `strict-origin-when-cross-origin.` See [the revised spec.](https://github.com/w3c/webappsec-referrer-policy/pull/142)",
     "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) referrer headers to the page's origin, ignoring the `unsafe-url` referrer policy."
   },
-  "usage_perc_y":95.25,
-  "usage_perc_a":1.98,
+  "usage_perc_y":95.79,
+  "usage_perc_a":1.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",
