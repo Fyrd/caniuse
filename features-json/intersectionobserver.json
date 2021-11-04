@@ -374,14 +374,14 @@
       "11.0-11.2":"n",
       "11.3-11.4":"n",
       "12.0-12.1":"n",
-      "12.2-12.5":"y",
-      "13.0-13.1":"y",
-      "13.2":"y",
-      "13.3":"y",
-      "13.4-13.7":"y",
-      "14.0-14.4":"y",
-      "14.5-14.8":"y",
-      "15":"y"
+      "12.2-12.5":"a #5",
+      "13.0-13.1":"a #5",
+      "13.2":"a #5",
+      "13.3":"a #5",
+      "13.4-13.7":"a #5",
+      "14.0-14.4":"a #5",
+      "14.5-14.8":"a #5",
+      "15":"a #5"
     },
     "op_mini":{
       "all":"n"
@@ -453,7 +453,8 @@
     "1":"Enabled in Firefox by setting the `about:config` preference `dom.IntersectionObserver.enabled` to true",
     "2":"\"Preliminary\" support as feature is still in development",
     "3":"`isIntersecting` property of `IntersectionObserverEntry` was not implemented, returning `undefined`",
-    "4":"IntersectionObserver does not trigger its callback in a Chrome background tab"
+    "4":"IntersectionObserver does not trigger its callback in a Chrome background tab",
+    "5":"IntersectionObserver is disabled on some older models of iPhone and iPad for performance reasons"
   },
   "usage_perc_y":94.34,
   "usage_perc_a":1.14,
