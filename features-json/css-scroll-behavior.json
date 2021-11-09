@@ -1,7 +1,7 @@
 {
   "title":"CSSOM Scroll-behavior",
   "description":"Method of specifying the scrolling behavior for a scrolling box, when scrolling happens due to navigation or CSSOM scrolling APIs.",
-  "spec":"https://drafts.csswg.org/cssom-view/#propdef-scroll-behavior",
+  "spec":"https://www.w3.org/TR/cssom-view-1/#smooth-scrolling",
   "status":"wd",
   "links":[
     {
@@ -13,7 +13,7 @@
       "title":"Chrome launch bug "
     },
     {
-      "url":"https://blog.gospodarets.com/native_smooth_scrolling",
+      "url":"https://hospodarets.com/native_smooth_scrolling",
       "title":"Blog post with demo"
     },
     {
@@ -383,7 +383,7 @@
       "13.3":"n",
       "13.4-13.7":"n",
       "14.0-14.4":"n",
-      "14.5-14.8":"n",
+      "14.5-14.8":"n d #3",
       "15":"n d #3"
     },
     "op_mini":{
@@ -453,7 +453,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial support refers to support everything except of `Element.scrollIntoView()` and not together with pinch viewport.",
+    "1":"Partial support refers to support everything except of [`Element.scrollIntoView()`](https://caniuse.com/scrollintoview) and [not together with pinch viewport](https://bugs.chromium.org/p/chromium/issues/detail?id=434497).",
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag",
     "3":"Supported in Safari via the \"CSSOM View Smooth Scrolling\" Experimental Features flag."
   },
