@@ -407,7 +407,7 @@
       "13.4-13.7":"y",
       "14.0-14.4":"y",
       "14.5-14.8":"y",
-      "15":"y"
+      "15.0-15.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -478,8 +478,8 @@
   "notes_by_num":{
     "1":"Does not support the `steps()`, `step-start` & `step-end` timing functions"
   },
-  "usage_perc_y":98.59,
-  "usage_perc_a":0.09,
+  "usage_perc_y":98.49,
+  "usage_perc_a":0.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"css transition,transitionend,transition-property,transition-duration,transition-timing-function,transition-delay,steps,step-start,step-end,cubic-bezier",

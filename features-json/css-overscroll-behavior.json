@@ -391,7 +391,7 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15":"n"
+      "15.0-15.1":"n"
     },
     "op_mini":{
       "all":"n"
@@ -465,8 +465,8 @@
     "3":"Incorrectly treats `none` as `contain` see [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior#Browser_compatibility) and [Edge 18 changelog](https://aka.ms/devguide_edgehtml_18)",
     "4":"Can be enabled in the \"Experimental Features\" developer menu"
   },
-  "usage_perc_y":76.11,
-  "usage_perc_a":0.89,
+  "usage_perc_y":75.81,
+  "usage_perc_a":0.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",

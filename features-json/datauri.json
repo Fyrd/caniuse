@@ -389,7 +389,7 @@
       "13.4-13.7":"y",
       "14.0-14.4":"y",
       "14.5-14.8":"y",
-      "15":"y"
+      "15.0-15.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -462,8 +462,8 @@
     "2":"Support is limited to images and linked resources like CSS or JS, not HTML files. Maximum size limit is 4GB.",
     "3":"SVGs with XML declarations are not displayed when used in data-urls"
   },
-  "usage_perc_y":98.96,
-  "usage_perc_a":0.97,
+  "usage_perc_y":98.89,
+  "usage_perc_a":0.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"data url,datauris,data uri,dataurl,dataurls,base64",

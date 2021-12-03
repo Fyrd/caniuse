@@ -398,7 +398,7 @@
       "13.4-13.7":"y",
       "14.0-14.4":"y",
       "14.5-14.8":"y",
-      "15":"y"
+      "15.0-15.1":"y"
     },
     "op_mini":{
       "all":"a #1 #2 #3"
@@ -472,8 +472,8 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList` or the `replace()` method"
   },
-  "usage_perc_y":97.38,
-  "usage_perc_a":2.32,
+  "usage_perc_y":97.3,
+  "usage_perc_a":2.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"classlist.contains(),classlist.toggle(),classlist.add(),classlist.remove()",
