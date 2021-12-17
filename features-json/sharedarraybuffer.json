@@ -48,12 +48,12 @@
       "88":"y",
       "89":"y",
       "90":"y",
-      "91":"y",
-      "92":"y",
-      "93":"y",
-      "94":"y",
-      "95":"y",
-      "96":"y"
+      "91":"y #3",
+      "92":"y #3",
+      "93":"y #3",
+      "94":"y #3",
+      "95":"y #3",
+      "96":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -454,7 +454,7 @@
   "notes_by_num":{
     "1":"Has support, but was disabled across browsers in January 2018 due to Spectre & Meltdown vulnerabilities.",
     "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
-    "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
+    "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](/mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](/mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
   "usage_perc_y":73.79,
   "usage_perc_a":0,
