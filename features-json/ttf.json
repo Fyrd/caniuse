@@ -1,12 +1,16 @@
 {
   "title":"TTF/OTF - TrueType and OpenType font support",
   "description":"Support for the TrueType (.ttf) and OpenType (.otf) outline font formats in @font-face. ",
-  "spec":"http://developer.apple.com/fonts/TTRefMan/index.html",
+  "spec":"https://developer.apple.com/fonts/TrueType-Reference-Manual",
   "status":"other",
   "links":[
     {
       "url":"https://stackoverflow.com/questions/17694143/what-is-the-status-of-ttf-support-in-internet-explorer",
       "title":"What is the status of TTF support in Internet Explorer?"
+    },
+    {
+      "url":"https://docs.microsoft.com/en-us/typography/opentype/spec",
+      "title":"OTF Specification"
     }
   ],
   "bugs":[
