@@ -425,7 +425,8 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y"
+      "69":"y",
+      "79-94":"a #4"
     },
     "ie_mob":{
       "10":"a #2",
@@ -462,7 +463,8 @@
   "notes_by_num":{
     "1":"Partial support refers to lack of notice when form with required fields is attempted to be submitted.",
     "2":"Partial support in IE10 mobile refers to lack of warning when blocking submission.",
-    "3":"Partial support in Opera Mini refers to only supporting the CSS pseudo classes."
+    "3":"Partial support in Opera Mini refers to only supporting the CSS pseudo classes.",
+    "4":"Partial support in Firefox for Android due to error messages not being shown on submit. See this [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1510450)." 
   },
   "usage_perc_y":98.01,
   "usage_perc_a":1.62,
