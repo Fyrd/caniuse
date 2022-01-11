@@ -81,7 +81,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -278,7 +279,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -445,7 +447,7 @@
       "96":"y #3"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -484,8 +486,8 @@
     "2":"Supports notifications via the [Push API](https://caniuse.com/#feat=push-api) but not the Web Notifications API.",
     "3":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)"
   },
-  "usage_perc_y":78.53,
-  "usage_perc_a":0.64,
+  "usage_perc_y":77.86,
+  "usage_perc_a":0.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

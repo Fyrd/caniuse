@@ -67,7 +67,8 @@
       "93":"y #2",
       "94":"y #2",
       "95":"y #2",
-      "96":"y #2"
+      "96":"y #2",
+      "97":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -264,7 +265,8 @@
       "96":"y #2",
       "97":"y #2",
       "98":"y #2",
-      "99":"y #2"
+      "99":"y #2",
+      "100":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -431,7 +433,7 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -469,7 +471,7 @@
     "1":"Can be enabled in Firefox using the `media.webspeech.synth.enabled` about:config flag.",
     "2":"Speech Synthesis in Chrome since version 55 stops playback after about 15 seconds on Windows 7 & 10, and Ubuntu 14.04, possibly other platforms"
   },
-  "usage_perc_y":95.52,
+  "usage_perc_y":93.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"web-speech",

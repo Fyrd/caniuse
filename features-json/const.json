@@ -53,7 +53,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -250,7 +251,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"a #2",
@@ -417,7 +419,7 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -458,8 +460,8 @@
     "4":"Supported correctly in strict mode, otherwise supported without block scope",
     "5":"Not supported in for-in and for-of loops"
   },
-  "usage_perc_y":96.04,
-  "usage_perc_a":3.62,
+  "usage_perc_y":94.29,
+  "usage_perc_a":3.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"ES6,constant,block,scope",

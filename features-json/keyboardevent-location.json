@@ -49,7 +49,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -246,7 +247,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"u",
@@ -413,7 +415,7 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -450,8 +452,8 @@
   "notes_by_num":{
     "1":"Only supports `KeyboardEvent.keyLocation` from an older draft of the DOM Level 3 Events spec instead."
   },
-  "usage_perc_y":98.14,
-  "usage_perc_a":0.36,
+  "usage_perc_y":96.33,
+  "usage_perc_a":0.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,key,location,keyLocation,numpad",

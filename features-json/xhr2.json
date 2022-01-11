@@ -72,7 +72,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -269,7 +270,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -436,7 +438,7 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -475,8 +477,8 @@
     "2":"Partial support refers to not supporting `.timeout` and `.ontimeout`",
     "3":"Partial support refers to not supporting `blob` as `responseType`"
   },
-  "usage_perc_y":97.33,
-  "usage_perc_a":1.2,
+  "usage_perc_y":95.55,
+  "usage_perc_a":1.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"formdata,xhr level 2",

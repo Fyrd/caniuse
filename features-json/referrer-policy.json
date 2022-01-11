@@ -53,7 +53,8 @@
       "93":"y #3",
       "94":"y #3",
       "95":"y #3",
-      "96":"y #3"
+      "96":"y #3",
+      "97":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -250,7 +251,8 @@
       "96":"y #3",
       "97":"y #3",
       "98":"y #3",
-      "99":"y #3"
+      "99":"y #3",
+      "100":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -417,7 +419,7 @@
       "96":"y #3"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -457,8 +459,8 @@
     "3":"The default policy has been changed from `no-referrer-when-downgrade` to `strict-origin-when-cross-origin.` See [the revised spec.](https://github.com/w3c/webappsec-referrer-policy/pull/142)",
     "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) referrer headers to the page's origin, ignoring the `unsafe-url` referrer policy."
   },
-  "usage_perc_y":95.69,
-  "usage_perc_a":1.72,
+  "usage_perc_y":94,
+  "usage_perc_a":1.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",

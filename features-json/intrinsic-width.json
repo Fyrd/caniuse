@@ -51,7 +51,8 @@
       "93":"y #3 #4",
       "94":"y #3 #4",
       "95":"y #3 #4",
-      "96":"y #3 #4"
+      "96":"y #3 #4",
+      "97":"y #3 #4"
     },
     "firefox":{
       "2":"n",
@@ -248,7 +249,8 @@
       "96":"y #3 #4",
       "97":"y #3 #4",
       "98":"y #3 #4",
-      "99":"y #3 #4"
+      "99":"y #3 #4",
+      "100":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -415,7 +417,7 @@
       "96":"y #3 #4"
     },
     "and_ff":{
-      "94":"a #2 #5"
+      "95":"a #2 #5"
     },
     "ie_mob":{
       "10":"n",
@@ -456,8 +458,8 @@
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://bugs.chromium.org/p/chromium/issues/detail?id=611857).",
     "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":74.49,
-  "usage_perc_a":22.94,
+  "usage_perc_y":72.31,
+  "usage_perc_a":23.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

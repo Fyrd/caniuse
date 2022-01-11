@@ -58,7 +58,8 @@
       "93":"a #1 #2 #3",
       "94":"a #1 #2 #3",
       "95":"a #1 #2 #3",
-      "96":"a #1 #2 #3"
+      "96":"a #1 #2 #3",
+      "97":"a #1 #2 #3"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -255,7 +256,8 @@
       "96":"a #1 #2 #3",
       "97":"a #1 #2 #3",
       "98":"a #1 #2 #3",
-      "99":"a #1 #2 #3"
+      "99":"a #1 #2 #3",
+      "100":"a #1 #2 #3"
     },
     "safari":{
       "3.1":"a #1 #2 #3",
@@ -422,7 +424,7 @@
       "96":"a #1 #2 #3"
     },
     "and_ff":{
-      "94":"a #1 #2 #3"
+      "95":"a #1 #2 #3"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -461,8 +463,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":1.14,
-  "usage_perc_a":98.69,
+  "usage_perc_y":1.12,
+  "usage_perc_a":96.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

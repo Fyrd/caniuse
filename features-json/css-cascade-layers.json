@@ -65,7 +65,8 @@
       "93":"n",
       "94":"n",
       "95":"n",
-      "96":"n d #2"
+      "96":"n d #2",
+      "97":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -165,7 +166,7 @@
       "94":"n d #1",
       "95":"n d #1",
       "96":"n d #1",
-      "97":"n d #1"
+      "97":"y"
     },
     "chrome":{
       "4":"n",
@@ -262,7 +263,8 @@
       "96":"n d #2",
       "97":"n d #2",
       "98":"n d #2",
-      "99":"n d #2"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -290,7 +292,7 @@
       "15":"n",
       "15.1":"n",
       "15.2":"n",
-      "TP":"n d #3"
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -429,7 +431,7 @@
       "96":"n"
     },
     "and_ff":{
-      "94":"n"
+      "95":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -468,7 +470,7 @@
     "2":"Can be enabled in Chrome Canary using the `--enable-blink-features=CSSCascadeLayers` runtime flag",
     "3":"Can be enabled in the Experimental Features developer menu"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

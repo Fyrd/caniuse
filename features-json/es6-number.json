@@ -53,7 +53,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -250,7 +251,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -417,7 +419,7 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -457,8 +459,8 @@
     "3":"Partial refers to supporting all new features except the `isSafeInteger` method.",
     "4":"Partial refers to only supporting the `isFinite` and `isNaN` methods."
   },
-  "usage_perc_y":96.86,
-  "usage_perc_a":0.59,
+  "usage_perc_y":95.09,
+  "usage_perc_a":0.58,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,JavaScript,number,built-in,EPSILON,MIN_SAFE_INTEGER,MAX_SAFE_INTEGER,isFinite,isInteger,isSafeInteger,isNaN",

@@ -60,7 +60,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"u",
@@ -257,7 +258,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"u",
@@ -424,7 +426,7 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y #3 #4"
+      "95":"y #3 #4"
     },
     "ie_mob":{
       "10":"y #3 #5",
@@ -466,7 +468,7 @@
     "5":"Doesn't fire an `input` event when (un)checking a checkbox or radio button. See [MS Edge bug](https://web.archive.org/web/20160328154136/https://connect.microsoft.com/IE/feedback/details/1883692/edge-input-of-type-radio-or-type-checkbox-doesnt-fire-input-events).",
     "6":"Doesn't fire an `input` event when changing the selected file(s) of an `<input type=\"file\">`. See [WebKit bug #149398](https://bugs.webkit.org/show_bug.cgi?id=149398) and [WebKit bug #204292](https://bugs.webkit.org/show_bug.cgi?id=204292)."
   },
-  "usage_perc_y":98.45,
+  "usage_perc_y":96.66,
   "usage_perc_a":0.1,
   "ucprefix":false,
   "parent":"",

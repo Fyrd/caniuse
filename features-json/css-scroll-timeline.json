@@ -11,6 +11,22 @@
     {
       "url":"https://scrolltimeline-playground.glitch.me/",
       "title":"ScrollTimline examples"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1676780",
+      "title":"Firefox support bug"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=222295",
+      "title":"WebKit support bug"
+    },
+    {
+      "url":"https://github.com/flackr/scroll-timeline",
+      "title":"Scroll-timeline Polyfill"
+    },
+    {
+      "url":"https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/",
+      "title":"CSS-tricks article"
     }
   ],
   "bugs":[
@@ -54,7 +70,8 @@
       "93":"n d #1",
       "94":"n d #1",
       "95":"n d #1",
-      "96":"n d #1"
+      "96":"n d #1",
+      "97":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -251,7 +268,8 @@
       "96":"n d #1",
       "97":"n d #1",
       "98":"n d #1",
-      "99":"n d #1"
+      "99":"n d #1",
+      "100":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -418,7 +436,7 @@
       "96":"n"
     },
     "and_ff":{
-      "94":"n"
+      "95":"n"
     },
     "ie_mob":{
       "10":"n",

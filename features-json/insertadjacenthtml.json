@@ -55,7 +55,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -252,7 +253,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -419,7 +421,7 @@
       "96":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -456,8 +458,8 @@
   "notes_by_num":{
     "1":"Throws an \"Invalid target element for this operation.\" error [when called on a table, tbody, thead, or tr element.](https://johnresig.com/blog/dom-insertadjacenthtml/)"
   },
-  "usage_perc_y":99.6,
-  "usage_perc_a":0.14,
+  "usage_perc_y":97.8,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"element,insert,adjacent,HTML",
