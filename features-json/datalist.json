@@ -75,7 +75,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"p",
@@ -175,7 +176,8 @@
       "94":"a #3 #6",
       "95":"a #3 #6",
       "96":"a #3 #6",
-      "97":"a #3 #6"
+      "97":"a #3 #6",
+      "98":"a #3 #6"
     },
     "chrome":{
       "4":"p",
@@ -272,7 +274,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"p",
@@ -299,6 +302,7 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -403,7 +407,8 @@
       "13.4-13.7":"y #5",
       "14.0-14.4":"y #5",
       "14.5-14.8":"y #5",
-      "15.0-15.1":"y #5"
+      "15.0-15.1":"y #5",
+      "15.2":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -418,7 +423,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"y",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"p",
@@ -434,10 +439,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"a #3"
+      "95":"a #3"
     },
     "ie_mob":{
       "10":"p",
@@ -479,8 +484,8 @@
     "5":"Supported through WKWebView and Safari but not through UIWebView",
     "6":"In Firefox, autocomplete must be set to off to make dynamic datalist work due to [a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1474137)"
   },
-  "usage_perc_y":90.7,
-  "usage_perc_a":5.94,
+  "usage_perc_y":89,
+  "usage_perc_a":5.86,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"list attribute,input",

@@ -49,7 +49,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -149,7 +150,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"u",
@@ -246,7 +248,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"u",
@@ -273,6 +276,7 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -377,7 +381,8 @@
       "13.4-13.7":"a #3",
       "14.0-14.4":"a #3",
       "14.5-14.8":"a #3",
-      "15.0-15.1":"a #3"
+      "15.0-15.1":"a #3",
+      "15.2":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -392,7 +397,7 @@
       "4.2-4.3":"y #4",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"u",
@@ -408,10 +413,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -452,8 +457,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":83.49,
-  "usage_perc_a":15.15,
+  "usage_perc_y":81.1,
+  "usage_perc_a":15.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

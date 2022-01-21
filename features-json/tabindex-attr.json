@@ -51,7 +51,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"u",
@@ -151,7 +152,8 @@
       "94":"y #1",
       "95":"y #1",
       "96":"y #1",
-      "97":"y #1"
+      "97":"y #1",
+      "98":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -248,7 +250,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"u",
@@ -275,6 +278,7 @@
       "14.1":"y #2",
       "15":"y #2",
       "15.1":"y #2",
+      "15.2":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -379,7 +383,8 @@
       "13.4-13.7":"y #2 #3",
       "14.0-14.4":"y #2 #3",
       "14.5-14.8":"y #2 #3",
-      "15.0-15.1":"y #2 #3"
+      "15.0-15.1":"y #2 #3",
+      "15.2":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -394,7 +399,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "96":"u"
+      "97":"u"
     },
     "bb":{
       "7":"u",
@@ -410,10 +415,10 @@
       "64":"u"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -452,7 +457,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":94.44,
+  "usage_perc_y":94.33,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

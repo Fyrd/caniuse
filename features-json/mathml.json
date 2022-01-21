@@ -65,7 +65,8 @@
       "93":"p",
       "94":"p",
       "95":"p",
-      "96":"p"
+      "96":"p",
+      "97":"p"
     },
     "firefox":{
       "2":"y #1",
@@ -165,7 +166,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"p",
@@ -262,7 +264,8 @@
       "96":"p",
       "97":"p d #3",
       "98":"p d #3",
-      "99":"p d #3"
+      "99":"p d #3",
+      "100":"p d #3"
     },
     "safari":{
       "3.1":"a #2",
@@ -289,6 +292,7 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -393,7 +397,8 @@
       "13.4-13.7":"y",
       "14.0-14.4":"y",
       "14.5-14.8":"y",
-      "15.0-15.1":"y"
+      "15.0-15.1":"y",
+      "15.2":"y"
     },
     "op_mini":{
       "all":"p"
@@ -408,7 +413,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "96":"p"
+      "97":"p"
     },
     "bb":{
       "7":"p",
@@ -424,10 +429,10 @@
       "64":"p"
     },
     "and_chr":{
-      "96":"p"
+      "97":"p"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -466,8 +471,8 @@
     "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test",
     "3":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
   },
-  "usage_perc_y":22.97,
-  "usage_perc_a":1.11,
+  "usage_perc_y":23.39,
+  "usage_perc_a":1.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

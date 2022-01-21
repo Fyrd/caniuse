@@ -63,7 +63,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -163,7 +164,8 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"n"
+      "97":"n",
+      "98":"n"
     },
     "chrome":{
       "4":"n",
@@ -260,7 +262,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -287,6 +290,7 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
+      "15.2":"n",
       "TP":"n"
     },
     "opera":{
@@ -391,7 +395,8 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15.0-15.1":"n"
+      "15.0-15.1":"n",
+      "15.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -406,7 +411,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -422,10 +427,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"n"
+      "95":"n"
     },
     "ie_mob":{
       "10":"a x #1",
@@ -463,8 +468,8 @@
     "1":"IE and Edge only support `pinch-zoom`.",
     "2":"Chromium 55 derived browsers implement direction-specific panning but do not support `pinch-zoom`."
   },
-  "usage_perc_y":72.28,
-  "usage_perc_a":0.82,
+  "usage_perc_y":70.15,
+  "usage_perc_a":0.79,
   "ucprefix":false,
   "parent":"css-touch-action",
   "keywords":"touch action,level 2",

@@ -49,7 +49,8 @@
       "93":"n #1",
       "94":"n #1",
       "95":"n #1",
-      "96":"n #1"
+      "96":"n #1",
+      "97":"n #1"
     },
     "firefox":{
       "2":"n",
@@ -149,7 +150,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"n",
@@ -246,7 +248,8 @@
       "96":"n #1",
       "97":"n #1",
       "98":"n #1",
-      "99":"n #1"
+      "99":"n #1",
+      "100":"n #1"
     },
     "safari":{
       "3.1":"n",
@@ -273,6 +276,7 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -377,7 +381,8 @@
       "13.4-13.7":"y",
       "14.0-14.4":"y",
       "14.5-14.8":"y",
-      "15.0-15.1":"y"
+      "15.0-15.1":"y",
+      "15.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -392,7 +397,7 @@
       "4.2-4.3":"n",
       "4.4":"n #1",
       "4.4.3-4.4.4":"n #1",
-      "96":"n #1"
+      "97":"n #1"
     },
     "bb":{
       "7":"n",
@@ -408,10 +413,10 @@
       "64":"n #1"
     },
     "and_chr":{
-      "96":"n #1"
+      "97":"n #1"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -449,7 +454,7 @@
     "1":"Low-level syntax available in [font-feature-settings](https://caniuse.com/#feat=font-feature) property equivalent to OpenType features: salt, ss01 through ss20, cv01 through cv99, swsh, cswh, ornm, nalt",
     "2":"Experimental support available by enabling the layout.css.font-features.enabled flag"
   },
-  "usage_perc_y":22.65,
+  "usage_perc_y":23.06,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

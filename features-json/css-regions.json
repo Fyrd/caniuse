@@ -61,7 +61,8 @@
       "93":"n",
       "94":"n",
       "95":"n",
-      "96":"n"
+      "96":"n",
+      "97":"n"
     },
     "firefox":{
       "2":"n",
@@ -161,7 +162,8 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"n"
+      "97":"n",
+      "98":"n"
     },
     "chrome":{
       "4":"n",
@@ -258,7 +260,8 @@
       "96":"n",
       "97":"n",
       "98":"n",
-      "99":"n"
+      "99":"n",
+      "100":"n"
     },
     "safari":{
       "3.1":"n",
@@ -285,6 +288,7 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
+      "15.2":"n",
       "TP":"n"
     },
     "opera":{
@@ -389,7 +393,8 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15.0-15.1":"n"
+      "15.0-15.1":"n",
+      "15.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -404,7 +409,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"n"
+      "97":"n"
     },
     "bb":{
       "7":"n",
@@ -420,10 +425,10 @@
       "64":"n"
     },
     "and_chr":{
-      "96":"n"
+      "97":"n"
     },
     "and_ff":{
-      "94":"n"
+      "95":"n"
     },
     "ie_mob":{
       "10":"a x #1 #2",
@@ -461,8 +466,8 @@
     "1":"Support is limited to using an iframe as a content source with the `-ms-flow-into: flow_name;` and `-ms-flow-from: flow_name;` syntax.",
     "2":"Partial support refers to not supporting the `region-fragment` property."
   },
-  "usage_perc_y":0.45,
-  "usage_perc_a":0.84,
+  "usage_perc_y":0.44,
+  "usage_perc_a":0.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

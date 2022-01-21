@@ -59,7 +59,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -159,7 +160,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"n",
@@ -256,7 +258,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -283,6 +286,7 @@
       "14.1":"a #3",
       "15":"a #3",
       "15.1":"a #3",
+      "15.2":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -387,7 +391,8 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15.0-15.1":"n"
+      "15.0-15.1":"n",
+      "15.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -402,7 +407,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -418,10 +423,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"n"
+      "95":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -460,8 +465,8 @@
     "2":"Chrome v64: The current API is behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag.",
     "3":"Safari v12.1+: Supports the Server Timing reporting in the Web Inspector Network tab, but not the JavaScript API"
   },
-  "usage_perc_y":73.03,
-  "usage_perc_a":4.17,
+  "usage_perc_y":72.59,
+  "usage_perc_a":3.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,performance.timing,resource,performancenavigation,PerformanceServerTiming",

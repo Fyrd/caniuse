@@ -69,7 +69,8 @@
       "93":"a #5",
       "94":"a #5",
       "95":"a #5",
-      "96":"a #5"
+      "96":"a #5",
+      "97":"a #5"
     },
     "firefox":{
       "2":"n",
@@ -169,7 +170,8 @@
       "94":"a #4",
       "95":"a #4",
       "96":"a #4",
-      "97":"a #4"
+      "97":"a #4",
+      "98":"a #4"
     },
     "chrome":{
       "4":"n",
@@ -266,7 +268,8 @@
       "96":"a #5",
       "97":"a #5",
       "98":"a #5",
-      "99":"a #5"
+      "99":"a #5",
+      "100":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -293,6 +296,7 @@
       "14.1":"a #2 #3",
       "15":"a #2 #3",
       "15.1":"a #2 #3",
+      "15.2":"a #2 #3",
       "TP":"a #2 #3"
     },
     "opera":{
@@ -397,7 +401,8 @@
       "13.4-13.7":"a x #2",
       "14.0-14.4":"a x #2",
       "14.5-14.8":"a x #2",
-      "15.0-15.1":"a x #2"
+      "15.0-15.1":"a x #2",
+      "15.2":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -412,7 +417,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -428,10 +433,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"a #5"
+      "97":"a #5"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -472,8 +477,8 @@
     "4":"Partial support refers to not supporting the `text-decoration-skip` property.",
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
-  "usage_perc_y":0.29,
-  "usage_perc_a":95.73,
+  "usage_perc_y":0.31,
+  "usage_perc_a":93.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",

@@ -61,7 +61,8 @@
       "93":"a #2",
       "94":"a #2",
       "95":"a #2",
-      "96":"a #2"
+      "96":"a #2",
+      "97":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -161,7 +162,8 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"n"
+      "97":"n",
+      "98":"n"
     },
     "chrome":{
       "4":"n",
@@ -258,7 +260,8 @@
       "96":"a #2",
       "97":"a #2",
       "98":"a #2",
-      "99":"a #2"
+      "99":"a #2",
+      "100":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -285,6 +288,7 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
+      "15.2":"a",
       "TP":"a"
     },
     "opera":{
@@ -389,7 +393,8 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15.0-15.1":"n"
+      "15.0-15.1":"n",
+      "15.2":"a"
     },
     "op_mini":{
       "all":"n"
@@ -404,7 +409,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"n"
+      "97":"n"
     },
     "bb":{
       "7":"n",
@@ -420,10 +425,10 @@
       "64":"n"
     },
     "and_chr":{
-      "96":"n"
+      "97":"n"
     },
     "and_ff":{
-      "94":"n"
+      "95":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -462,7 +467,7 @@
     "2":"Desktop Chromium browsers currently support basic functionality and will be adding more of the API in the future."
   },
   "usage_perc_y":0,
-  "usage_perc_a":30.84,
+  "usage_perc_a":30.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"File System,File System API,chooseFileSystemEntries,getFile",

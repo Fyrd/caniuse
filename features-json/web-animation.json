@@ -62,7 +62,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -162,7 +163,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"n",
@@ -259,7 +261,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -286,6 +289,7 @@
       "14.1":"y #5",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -390,7 +394,8 @@
       "13.4-13.7":"y #5",
       "14.0-14.4":"y #5",
       "14.5-14.8":"y #5",
-      "15.0-15.1":"y #5"
+      "15.0-15.1":"y #5",
+      "15.2":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -405,7 +410,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -421,10 +426,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -466,10 +471,10 @@
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
   "usage_perc_y":89.31,
-  "usage_perc_a":5.96,
+  "usage_perc_a":4.24,
   "ucprefix":false,
   "parent":"",
-  "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState",
+  "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState,WAAPI",
   "ie_id":"webanimationsjavascriptapi",
   "chrome_id":"4854343836631040,5633748733263872",
   "firefox_id":"web-animations",

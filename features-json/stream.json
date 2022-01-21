@@ -70,7 +70,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -170,7 +171,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"n",
@@ -267,7 +269,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -294,6 +297,7 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -398,7 +402,8 @@
       "13.4-13.7":"y #3",
       "14.0-14.4":"y #3",
       "14.5-14.8":"y #3",
-      "15.0-15.1":"y #3"
+      "15.0-15.1":"y #3",
+      "15.2":"y #3"
     },
     "op_mini":{
       "all":"n"
@@ -413,7 +418,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -429,10 +434,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -472,8 +477,8 @@
     "3":"Before iOS 14.3 `getUserMedia` returned no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari.",
     "4":"Does not work in standalone running (\"installed\") PWAs."
   },
-  "usage_perc_y":95.77,
-  "usage_perc_a":0.87,
+  "usage_perc_y":94.06,
+  "usage_perc_a":0.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",

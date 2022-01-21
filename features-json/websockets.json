@@ -71,7 +71,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -171,7 +172,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -268,7 +270,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -295,6 +298,7 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -399,7 +403,8 @@
       "13.4-13.7":"y",
       "14.0-14.4":"y",
       "14.5-14.8":"y",
-      "15.0-15.1":"y"
+      "15.0-15.1":"y",
+      "15.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -414,7 +419,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"y #1",
@@ -430,10 +435,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -471,7 +476,7 @@
     "1":"Partial support in older browsers refers to the websockets implementation using an older version of the protocol and/or the implementation being disabled by default (due to security issues with the older protocol).",
     "2":"Partial support in older browsers refers to lacking support for binary data."
   },
-  "usage_perc_y":98.25,
+  "usage_perc_y":96.44,
   "usage_perc_a":0.23,
   "ucprefix":true,
   "parent":"",

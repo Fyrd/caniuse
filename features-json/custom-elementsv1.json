@@ -66,7 +66,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -166,7 +167,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"n",
@@ -263,7 +265,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -290,6 +293,7 @@
       "14.1":"a #1",
       "15":"a #1",
       "15.1":"a #1",
+      "15.2":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -394,7 +398,8 @@
       "13.4-13.7":"a #1",
       "14.0-14.4":"a #1",
       "14.5-14.8":"a #1",
-      "15.0-15.1":"a #1"
+      "15.0-15.1":"a #1",
+      "15.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -409,7 +414,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -425,10 +430,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -467,8 +472,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":76.57,
-  "usage_perc_a":19.01,
+  "usage_perc_y":74.43,
+  "usage_perc_a":19.42,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",

@@ -18,7 +18,7 @@
       "description":"Reported to not be supported on the Samsung-based Android 4."
     },
     {
-      "description":"Is not supported from Web Workers in Chrome."
+      "description":"Is not supported from Web Workers in Chrome. Furthermore it is not supported in Third-Party Contexts since Chrome v97."
     }
   ],
   "categories":[
@@ -58,7 +58,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -158,7 +159,8 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"n"
+      "97":"n",
+      "98":"n"
     },
     "chrome":{
       "4":"y",
@@ -255,7 +257,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"y",
@@ -282,6 +285,7 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
+      "15.2":"n",
       "TP":"n"
     },
     "opera":{
@@ -386,7 +390,8 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15.0-15.1":"n"
+      "15.0-15.1":"n",
+      "15.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -401,7 +406,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"y",
@@ -417,10 +422,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"n"
+      "95":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -457,7 +462,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":76.15,
+  "usage_perc_y":73.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

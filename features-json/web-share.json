@@ -69,7 +69,8 @@
       "93":"a #3",
       "94":"a #3",
       "95":"a #3",
-      "96":"a #3"
+      "96":"a #3",
+      "97":"a #3"
     },
     "firefox":{
       "2":"n",
@@ -169,7 +170,8 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"n"
+      "97":"n",
+      "98":"n"
     },
     "chrome":{
       "4":"n",
@@ -266,7 +268,8 @@
       "96":"a #4",
       "97":"a #4",
       "98":"a #4",
-      "99":"a #4"
+      "99":"a #4",
+      "100":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -293,6 +296,7 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
+      "15.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -397,7 +401,8 @@
       "13.4-13.7":"y #5",
       "14.0-14.4":"y",
       "14.5-14.8":"y",
-      "15.0-15.1":"y"
+      "15.0-15.1":"y",
+      "15.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -412,7 +417,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n #2",
-      "96":"n #2"
+      "97":"n #2"
     },
     "bb":{
       "7":"n",
@@ -428,10 +433,10 @@
       "64":"n #2"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -472,8 +477,8 @@
     "4":"Only supported on Windows and Chrome OS",
     "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)."
   },
-  "usage_perc_y":58.36,
-  "usage_perc_a":29.17,
+  "usage_perc_y":57.99,
+  "usage_perc_a":28.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",

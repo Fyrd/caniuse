@@ -61,7 +61,8 @@
       "93":"y #1",
       "94":"y #1",
       "95":"y #1",
-      "96":"y #1"
+      "96":"y #1",
+      "97":"y #1"
     },
     "firefox":{
       "2":"n",
@@ -161,7 +162,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"n",
@@ -258,7 +260,8 @@
       "96":"y #1",
       "97":"y #1",
       "98":"y #1",
-      "99":"y #1"
+      "99":"y #1",
+      "100":"y #1"
     },
     "safari":{
       "3.1":"n",
@@ -285,6 +288,7 @@
       "14.1":"n d #3",
       "15":"n d #3",
       "15.1":"n d #3",
+      "15.2":"n d #3",
       "TP":"y"
     },
     "opera":{
@@ -389,7 +393,8 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n d #3",
-      "15.0-15.1":"n d #3"
+      "15.0-15.1":"n d #3",
+      "15.2":"n d #3"
     },
     "op_mini":{
       "all":"n"
@@ -404,7 +409,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -420,10 +425,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -462,7 +467,7 @@
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag",
     "3":"Supported in Safari via the \"CSSOM View Smooth Scrolling\" Experimental Features flag."
   },
-  "usage_perc_y":77.08,
+  "usage_perc_y":74.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

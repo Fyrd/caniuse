@@ -49,7 +49,8 @@
       "93":"y",
       "94":"y",
       "95":"y",
-      "96":"y"
+      "96":"y",
+      "97":"y"
     },
     "firefox":{
       "2":"n",
@@ -149,7 +150,8 @@
       "94":"a #4 #5",
       "95":"a #4 #5",
       "96":"a #4 #5",
-      "97":"a #4 #5"
+      "97":"a #4 #5",
+      "98":"a #4 #5"
     },
     "chrome":{
       "4":"n",
@@ -246,7 +248,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "safari":{
       "3.1":"n",
@@ -273,6 +276,7 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
+      "15.2":"n",
       "TP":"n"
     },
     "opera":{
@@ -377,7 +381,8 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15.0-15.1":"n"
+      "15.0-15.1":"n",
+      "15.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -392,7 +397,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -408,10 +413,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "94":"a #4 #5"
+      "95":"a #4 #5"
     },
     "ie_mob":{
       "10":"n",
@@ -452,8 +457,8 @@
     "4":"No support for resizeWidth, resizeHeight and resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)",
     "5":"No support for `createImageBitmap(source, options)` interface. see [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)"
   },
-  "usage_perc_y":73.31,
-  "usage_perc_a":4.1,
+  "usage_perc_y":71.19,
+  "usage_perc_a":4.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

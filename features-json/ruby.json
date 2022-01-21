@@ -67,7 +67,8 @@
       "93":"a",
       "94":"a",
       "95":"a",
-      "96":"a"
+      "96":"a",
+      "97":"a"
     },
     "firefox":{
       "2":"p",
@@ -167,7 +168,8 @@
       "94":"y",
       "95":"y",
       "96":"y",
-      "97":"y"
+      "97":"y",
+      "98":"y"
     },
     "chrome":{
       "4":"p",
@@ -264,7 +266,8 @@
       "96":"a",
       "97":"a",
       "98":"a",
-      "99":"a"
+      "99":"a",
+      "100":"a"
     },
     "safari":{
       "3.1":"p",
@@ -291,6 +294,7 @@
       "14.1":"a",
       "15":"a",
       "15.1":"a",
+      "15.2":"a",
       "TP":"a"
     },
     "opera":{
@@ -395,7 +399,8 @@
       "13.4-13.7":"a",
       "14.0-14.4":"a",
       "14.5-14.8":"a",
-      "15.0-15.1":"a"
+      "15.0-15.1":"a",
+      "15.2":"a"
     },
     "op_mini":{
       "all":"p"
@@ -410,7 +415,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "96":"a"
+      "97":"a"
     },
     "bb":{
       "7":"p",
@@ -426,10 +431,10 @@
       "64":"a"
     },
     "and_chr":{
-      "96":"a"
+      "97":"a"
     },
     "and_ff":{
-      "94":"y"
+      "95":"y"
     },
     "ie_mob":{
       "10":"a",
@@ -467,7 +472,7 @@
     "1":"IE9+ supports [properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) of an older version of the CSS Ruby specification."
   },
   "usage_perc_y":3.96,
-  "usage_perc_a":94.47,
+  "usage_perc_a":92.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",
