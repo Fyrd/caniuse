@@ -1,7 +1,7 @@
 {
   "title":"COLR/CPAL(v0) Font Formats",
   "description":"The COLR table adds support for multi-colored glyphs in a manner that integrates with the rasterizers of existing text engines. COLRv0 only supports pure colors, does not support gradients, transformations and various blending modes.",
-  "spec":"https://docs.microsoft.com/en-us/typography/opentype/otspec190alpha/colr",
+  "spec":"https://docs.microsoft.com/en-us/typography/opentype/spec/colr",
   "status":"other",
   "links":[
     {
@@ -478,7 +478,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",
-  "keywords":"colr,cpal,color-font,fontface,webfonts",
+  "keywords":"colr,cpal,font,color-font,fontface,webfonts",
   "ie_id":"",
   "chrome_id":"5897235770376192",
   "firefox_id":"",
