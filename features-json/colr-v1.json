@@ -62,7 +62,8 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"n"
+      "97":"n",
+      "98":"n"
     },
     "firefox":{
       "2":"n",
@@ -163,7 +164,7 @@
       "95":"n",
       "96":"n",
       "97":"n",
-      "98":"n"
+      "98":"n #2"
     },
     "chrome":{
       "4":"n",
@@ -466,7 +467,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled with the \"COLR v1 Fonts\" feature flag under `chrome://flags`"
+    "1":"Can be enabled with the \"COLR v1 Fonts\" feature flag under `chrome://flags`",
+    "2":"Firefox actively supports this format and will consider implementing it in the future: https://mozilla.github.io/standards-positions/#font-colrv1"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
