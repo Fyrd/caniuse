@@ -1,8 +1,8 @@
 {
   "title":"Large, Small, and Dynamic viewport units",
   "description":"Viewport units similar to `vw` and `vh` that are based on shown or hidden browser UI states to address shortcomings of the original units. Currently defined as the `lvh`, `lvw`, `svh`, `svw`, `dvh`, `dvw` units.",
-  "spec":"https://drafts.csswg.org/css-values-4/#viewport-variants",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/css-values-4/#viewport-variants",
+  "status":"wd",
   "links":[
     {
       "url":"https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
@@ -261,7 +261,8 @@
       "97":"n",
       "98":"n",
       "99":"n",
-      "100":"n"
+      "100":"n",
+      "101":"n"
     },
     "safari":{
       "3.1":"n",
@@ -288,7 +289,8 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
-      "15.2":"n",
+      "15.2-15.3":"n",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -368,7 +370,8 @@
       "79":"n",
       "80":"n",
       "81":"n",
-      "82":"n"
+      "82":"n",
+      "83":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -394,7 +397,8 @@
       "14.0-14.4":"n",
       "14.5-14.8":"n",
       "15.0-15.1":"n",
-      "15.2":"n"
+      "15.2-15.3":"n",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -409,7 +413,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"n"
+      "97":"n"
     },
     "bb":{
       "7":"n",
@@ -425,10 +429,10 @@
       "64":"n"
     },
     "and_chr":{
-      "96":"n"
+      "97":"n"
     },
     "and_ff":{
-      "95":"n"
+      "96":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -449,7 +453,8 @@
       "12.0":"n",
       "13.0":"n",
       "14.0":"n",
-      "15.0":"n"
+      "15.0":"n",
+      "16.0":"n"
     },
     "and_qq":{
       "10.4":"n"

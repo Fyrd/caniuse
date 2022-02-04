@@ -257,7 +257,8 @@
       "97":"n",
       "98":"n",
       "99":"n",
-      "100":"n"
+      "100":"n",
+      "101":"n"
     },
     "safari":{
       "3.1":"n",
@@ -284,7 +285,8 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
-      "15.2":"n",
+      "15.2-15.3":"n",
+      "15.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -364,7 +366,8 @@
       "79":"n d #1 #2",
       "80":"n d #1 #2",
       "81":"n d #1 #2",
-      "82":"n d #1 #2"
+      "82":"n d #1 #2",
+      "83":"n d #1 #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -390,7 +393,8 @@
       "14.0-14.4":"n",
       "14.5-14.8":"n",
       "15.0-15.1":"n",
-      "15.2":"n"
+      "15.2-15.3":"n",
+      "15.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -405,7 +409,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"n"
+      "97":"n"
     },
     "bb":{
       "7":"n",
@@ -421,10 +425,10 @@
       "64":"n"
     },
     "and_chr":{
-      "96":"y #2"
+      "97":"y #2"
     },
     "and_ff":{
-      "95":"n"
+      "96":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -445,7 +449,8 @@
       "12.0":"n",
       "13.0":"n",
       "14.0":"n",
-      "15.0":"n"
+      "15.0":"n",
+      "16.0":"n"
     },
     "and_qq":{
       "10.4":"n"
@@ -462,7 +467,7 @@
     "1":"Was experimentally supported in desktop Chromium browsers behind the `enable-experimental-web-platform-features` flag.",
     "2":"Current implementations only allow communication through the NDEF protocol in order to minimize security and privacy issues."
   },
-  "usage_perc_y":38.33,
+  "usage_perc_y":36.98,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

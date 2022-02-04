@@ -263,7 +263,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"n",
@@ -290,7 +291,8 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
-      "15.2":"y",
+      "15.2-15.3":"y",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -370,7 +372,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -396,7 +399,8 @@
       "14.0-14.4":"y",
       "14.5-14.8":"y",
       "15.0-15.1":"y",
-      "15.2":"y"
+      "15.2-15.3":"y",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -411,7 +415,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -427,10 +431,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -451,7 +455,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -469,8 +474,8 @@
     "2":"Supports the subset of the syntax for resolution switching (using the `x` descriptor), but not the full syntax that can be used with `sizes` (using the `w` descriptor).",
     "3":"Intermittently displays distorted images due to bug present (see known issues)"
   },
-  "usage_perc_y":94.97,
-  "usage_perc_a":0.09,
+  "usage_perc_y":96.72,
+  "usage_perc_a":0.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"srcset attribute",

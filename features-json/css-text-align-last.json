@@ -253,7 +253,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"n",
@@ -280,7 +281,8 @@
       "14.1":"n",
       "15":"n",
       "15.1":"n",
-      "15.2":"n",
+      "15.2-15.3":"n",
+      "15.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -360,7 +362,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -386,7 +389,8 @@
       "14.0-14.4":"n",
       "14.5-14.8":"n",
       "15.0-15.1":"n",
-      "15.2":"n"
+      "15.2-15.3":"n",
+      "15.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -401,7 +405,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -417,10 +421,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -441,7 +445,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -459,8 +464,8 @@
     "2":"Enabled through the \"Enable Experimental Web Platform Features\" flag in chrome://flags",
     "3":"Enabled through the \"Enable Experimental Web Platform Features\" flag in opera://flags"
   },
-  "usage_perc_y":75.42,
-  "usage_perc_a":0.91,
+  "usage_perc_y":77.01,
+  "usage_perc_a":0.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"text align last",

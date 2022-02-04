@@ -265,7 +265,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"n",
@@ -292,7 +293,8 @@
       "14.1":"n d #2",
       "15":"n d #2",
       "15.1":"n d #2",
-      "15.2":"n d #2",
+      "15.2-15.3":"n d #2",
+      "15.4":"n d #2",
       "TP":"y"
     },
     "opera":{
@@ -372,7 +374,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -398,7 +401,8 @@
       "14.0-14.4":"n d #2",
       "14.5-14.8":"n d #2",
       "15.0-15.1":"n d #2",
-      "15.2":"n d #2"
+      "15.2-15.3":"n d #2",
+      "15.4":"n d #2"
     },
     "op_mini":{
       "all":"n"
@@ -413,7 +417,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -429,10 +433,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"a #1"
+      "96":"a #1"
     },
     "ie_mob":{
       "10":"n",
@@ -453,7 +457,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"n"
@@ -470,8 +475,8 @@
     "1":"Firefox only supports lazy loading for images",
     "2":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu."
   },
-  "usage_perc_y":69.27,
-  "usage_perc_a":3.55,
+  "usage_perc_y":70.63,
+  "usage_perc_a":3.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"lazy-loading,lazyloading,loading=\"lazy\",loading=\"eager\",loading=\"auto\",loading,attribute,lazily,lazy image loading,lazy img loading,iframe loading,native lazyload",

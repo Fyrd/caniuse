@@ -253,7 +253,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"u",
@@ -280,7 +281,8 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
-      "15.2":"y",
+      "15.2-15.3":"y",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -360,7 +362,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -386,7 +389,8 @@
       "14.0-14.4":"y",
       "14.5-14.8":"y",
       "15.0-15.1":"y",
-      "15.2":"y"
+      "15.2-15.3":"y",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -401,7 +405,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "96":"y #6"
+      "97":"y #6"
     },
     "bb":{
       "7":"y",
@@ -417,10 +421,10 @@
       "64":"y #6"
     },
     "and_chr":{
-      "96":"y #6"
+      "97":"y #6"
     },
     "and_ff":{
-      "95":"y #6"
+      "96":"y #6"
     },
     "ie_mob":{
       "10":"y",
@@ -441,7 +445,8 @@
       "12.0":"y #6",
       "13.0":"y #6",
       "14.0":"y #6",
-      "15.0":"y #6"
+      "15.0":"y #6",
+      "16.0":"y #6"
     },
     "and_qq":{
       "10.4":"y"
@@ -462,8 +467,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":96.71,
-  "usage_perc_a":1.29,
+  "usage_perc_y":98.42,
+  "usage_perc_a":1.26,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",

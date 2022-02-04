@@ -249,7 +249,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -276,7 +277,8 @@
       "14.1":"a x #3",
       "15":"a x #3",
       "15.1":"a x #3",
-      "15.2":"a x #3",
+      "15.2-15.3":"a x #3",
+      "15.4":"a x #3",
       "TP":"a x #3"
     },
     "opera":{
@@ -356,7 +358,8 @@
       "79":"a #1",
       "80":"a #1",
       "81":"a #1",
-      "82":"a #1"
+      "82":"a #1",
+      "83":"a #1"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -382,7 +385,8 @@
       "14.0-14.4":"a x #3",
       "14.5-14.8":"a x #3",
       "15.0-15.1":"a x #3",
-      "15.2":"a x #3"
+      "15.2-15.3":"a x #3",
+      "15.4":"a x #3"
     },
     "op_mini":{
       "all":"u"
@@ -397,7 +401,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"u",
@@ -413,10 +417,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -437,7 +441,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"u"
@@ -455,8 +460,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":72.97,
-  "usage_perc_a":22.24,
+  "usage_perc_y":74.58,
+  "usage_perc_a":22.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

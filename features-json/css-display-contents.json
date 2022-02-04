@@ -263,7 +263,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"n",
@@ -290,8 +291,9 @@
       "14.1":"a #2",
       "15":"a #2",
       "15.1":"a #2",
-      "15.2":"a #2",
-      "TP":"a #2"
+      "15.2-15.3":"a #2",
+      "15.4":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -370,7 +372,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -396,7 +399,8 @@
       "14.0-14.4":"a #2",
       "14.5-14.8":"a #2",
       "15.0-15.1":"a #2",
-      "15.2":"a #2"
+      "15.2-15.3":"a #2",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -411,7 +415,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -427,10 +431,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -451,7 +455,8 @@
       "12.0":"a #2",
       "13.0":"a #2",
       "14.0":"a #2",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"a #2"
@@ -469,8 +474,8 @@
     "2":"Partial support refers to [severe implementation bug](https://hiddedevries.nl/en/blog/2018-04-21-more-accessible-markup-with-display-contents) that renders the content inaccessible.",
     "3":"Safari support is buggy, see [WebKit bug 188259](https://bugs.webkit.org/show_bug.cgi?id=188259) & [WebKit bug 193567](https://bugs.webkit.org/show_bug.cgi?id=193567)"
   },
-  "usage_perc_y":71.4,
-  "usage_perc_a":21.32,
+  "usage_perc_y":73.24,
+  "usage_perc_a":21.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -258,7 +258,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"a x #1 #2 #3 #4",
@@ -285,7 +286,8 @@
       "14.1":"y #1",
       "15":"y #1",
       "15.1":"y #1",
-      "15.2":"y #1",
+      "15.2-15.3":"y #1",
+      "15.4":"y #1",
       "TP":"y #1"
     },
     "opera":{
@@ -365,7 +367,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"a x #1 #2 #3 #4",
@@ -391,7 +394,8 @@
       "14.0-14.4":"y #1",
       "14.5-14.8":"y #1",
       "15.0-15.1":"y #1",
-      "15.2":"y #1"
+      "15.2-15.3":"y #1",
+      "15.4":"y #1"
     },
     "op_mini":{
       "all":"a x #2 #3 #4"
@@ -406,7 +410,7 @@
       "4.2-4.3":"a x #1 #2 #3 #4",
       "4.4":"a #1 #2",
       "4.4.3-4.4.4":"a #1 #2",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"a #1 #2 #3 #4",
@@ -422,10 +426,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -446,7 +450,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"a #2"
@@ -465,8 +470,8 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":93.75,
-  "usage_perc_a":4.1,
+  "usage_perc_y":95.52,
+  "usage_perc_a":3.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-image-source,border-image-slice,border-image-repeat,border-image-width,,border-image-outset",

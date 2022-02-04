@@ -263,7 +263,8 @@
       "97":"a x #1",
       "98":"a x #1",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"n",
@@ -290,7 +291,8 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
-      "15.2":"y",
+      "15.2-15.3":"y",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -370,7 +372,8 @@
       "79":"a x #1",
       "80":"a x #1",
       "81":"a x #1",
-      "82":"a x #1"
+      "82":"a x #1",
+      "83":"a x #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -396,7 +399,8 @@
       "14.0-14.4":"y",
       "14.5-14.8":"y",
       "15.0-15.1":"y",
-      "15.2":"y"
+      "15.2-15.3":"y",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -411,7 +415,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "96":"a x #1"
+      "97":"a x #1"
     },
     "bb":{
       "7":"n",
@@ -427,10 +431,10 @@
       "64":"a x #1"
     },
     "and_chr":{
-      "96":"a x #1"
+      "97":"a x #1"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -451,7 +455,8 @@
       "12.0":"a x #1",
       "13.0":"a x #1",
       "14.0":"a x #1",
-      "15.0":"a x #1"
+      "15.0":"a x #1",
+      "16.0":"a x #1"
     },
     "and_qq":{
       "10.4":"a x #1"
@@ -468,8 +473,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":23.04,
-  "usage_perc_a":72.29,
+  "usage_perc_y":23.54,
+  "usage_perc_a":73.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

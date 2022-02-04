@@ -269,7 +269,8 @@
       "97":"a",
       "98":"a",
       "99":"a",
-      "100":"a"
+      "100":"a",
+      "101":"a"
     },
     "safari":{
       "3.1":"n",
@@ -296,7 +297,8 @@
       "14.1":"a",
       "15":"a",
       "15.1":"a",
-      "15.2":"a",
+      "15.2-15.3":"a",
+      "15.4":"a",
       "TP":"a"
     },
     "opera":{
@@ -376,7 +378,8 @@
       "79":"a",
       "80":"a",
       "81":"a",
-      "82":"a"
+      "82":"a",
+      "83":"a"
     },
     "ios_saf":{
       "3.2":"a",
@@ -402,7 +405,8 @@
       "14.0-14.4":"a",
       "14.5-14.8":"a",
       "15.0-15.1":"a",
-      "15.2":"a"
+      "15.2-15.3":"a",
+      "15.4":"a"
     },
     "op_mini":{
       "all":"a"
@@ -417,7 +421,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "96":"a"
+      "97":"a"
     },
     "bb":{
       "7":"n",
@@ -433,10 +437,10 @@
       "64":"a"
     },
     "and_chr":{
-      "96":"a"
+      "97":"a"
     },
     "and_ff":{
-      "95":"a"
+      "96":"a"
     },
     "ie_mob":{
       "10":"a",
@@ -457,7 +461,8 @@
       "12.0":"a",
       "13.0":"a",
       "14.0":"a",
-      "15.0":"a"
+      "15.0":"a",
+      "16.0":"a"
     },
     "and_qq":{
       "10.4":"a"
@@ -474,7 +479,7 @@
     
   },
   "usage_perc_y":0,
-  "usage_perc_a":96.92,
+  "usage_perc_a":98.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"wai,aria,wai-aria,web accessibility initiative,accessible rich internet applications,html,a11y,accessible,aria-hidden,aria-labelledby,aria-haspopup,aria-expanded,aria-controls,roles",

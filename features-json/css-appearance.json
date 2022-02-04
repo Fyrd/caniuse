@@ -253,7 +253,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -280,7 +281,8 @@
       "14.1":"a x #1",
       "15":"a x #1",
       "15.1":"a x #1",
-      "15.2":"a x #1",
+      "15.2-15.3":"a x #1",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -360,7 +362,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -386,7 +389,8 @@
       "14.0-14.4":"a x #1",
       "14.5-14.8":"a x #1",
       "15.0-15.1":"a x #1",
-      "15.2":"a x #1"
+      "15.2-15.3":"a x #1",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -401,7 +405,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"a x #1",
@@ -417,10 +421,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -441,7 +445,8 @@
       "12.0":"a x #1",
       "13.0":"a x #1",
       "14.0":"a x #1",
-      "15.0":"a x #1"
+      "15.0":"a x #1",
+      "16.0":"a x #1"
     },
     "and_qq":{
       "10.4":"a x #1"
@@ -459,8 +464,8 @@
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
     "3":"`-moz-appearance:none` did not remove the dropdown arrow in the select tag"
   },
-  "usage_perc_y":71.65,
-  "usage_perc_a":24.42,
+  "usage_perc_y":71.38,
+  "usage_perc_a":26.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

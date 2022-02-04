@@ -282,7 +282,8 @@
       "97":"y #3",
       "98":"y #3",
       "99":"y #3",
-      "100":"y #3"
+      "100":"y #3",
+      "101":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -309,7 +310,8 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
-      "15.2":"y",
+      "15.2-15.3":"y",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -389,7 +391,8 @@
       "79":"y #3",
       "80":"y #3",
       "81":"y #3",
-      "82":"y #3"
+      "82":"y #3",
+      "83":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -415,7 +418,8 @@
       "14.0-14.4":"y",
       "14.5-14.8":"y",
       "15.0-15.1":"y",
-      "15.2":"y"
+      "15.2-15.3":"y",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -430,7 +434,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"n",
@@ -446,10 +450,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y #3"
+      "97":"y #3"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -470,7 +474,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"u"
@@ -490,8 +495,8 @@
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
     "5":"Partial due to [the bug](https://bugs.webkit.org/show_bug.cgi?id=198181) that treats `SameSite=None` and invalid values as `Strict` in macOS before 10.15 Catalina and in iOS before 13."
   },
-  "usage_perc_y":90.9,
-  "usage_perc_a":2.28,
+  "usage_perc_y":92.85,
+  "usage_perc_a":2.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"security,cookies,cookie,csrf",

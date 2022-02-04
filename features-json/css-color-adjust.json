@@ -1,6 +1,6 @@
 {
   "title":"CSS color-adjust",
-  "description":"The `color-adjust` (or `-webkit-print-color-adjust` as prefixed in WebKit/Blink browsers) property is a non-standard CSS extension that can be used to force printing of background colors and images.",
+  "description":"The `color-adjust` (or `-webkit-print-color-adjust` as prefixed in WebKit/Blink browsers) property is a CSS extension that can be used to force printing of background colors and images.",
   "spec":"https://drafts.csswg.org/css-color-adjust-1/#propdef-color-adjust",
   "status":"wd",
   "links":[
@@ -263,7 +263,8 @@
       "97":"y x",
       "98":"y x",
       "99":"y x",
-      "100":"y x"
+      "100":"y x",
+      "101":"y x"
     },
     "safari":{
       "3.1":"n",
@@ -290,7 +291,8 @@
       "14.1":"y x",
       "15":"y x",
       "15.1":"y x",
-      "15.2":"y x",
+      "15.2-15.3":"y x",
+      "15.4":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -370,7 +372,8 @@
       "79":"y x",
       "80":"y x",
       "81":"y x",
-      "82":"y x"
+      "82":"y x",
+      "83":"y x"
     },
     "ios_saf":{
       "3.2":"u",
@@ -396,7 +399,8 @@
       "14.0-14.4":"u",
       "14.5-14.8":"u",
       "15.0-15.1":"u",
-      "15.2":"u"
+      "15.2-15.3":"u",
+      "15.4":"u"
     },
     "op_mini":{
       "all":"n"
@@ -411,7 +415,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "96":"y x"
+      "97":"y x"
     },
     "bb":{
       "7":"u",
@@ -427,10 +431,10 @@
       "64":"y x"
     },
     "and_chr":{
-      "96":"u"
+      "97":"u"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -451,7 +455,8 @@
       "12.0":"u",
       "13.0":"u",
       "14.0":"u",
-      "15.0":"u"
+      "15.0":"u",
+      "16.0":"u"
     },
     "and_qq":{
       "10.4":"y x"
@@ -467,7 +472,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":39.57,
+  "usage_perc_y":40.66,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

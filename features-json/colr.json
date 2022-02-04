@@ -1,7 +1,7 @@
 {
   "title":"COLR/CPAL(v0) Font Formats",
   "description":"The COLR table adds support for multi-colored glyphs in a manner that integrates with the rasterizers of existing text engines. COLRv0 only supports pure colors, does not support gradients, transformations and various blending modes.",
-  "spec":"https://docs.microsoft.com/en-us/typography/opentype/otspec190alpha/colr",
+  "spec":"https://docs.microsoft.com/en-us/typography/opentype/spec/colr",
   "status":"other",
   "links":[
     {
@@ -265,7 +265,8 @@
       "97":"y #3",
       "98":"y #3",
       "99":"y #3",
-      "100":"y #3"
+      "100":"y #3",
+      "101":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -292,7 +293,8 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
-      "15.2":"y",
+      "15.2-15.3":"y",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -372,7 +374,8 @@
       "79":"y #3",
       "80":"y #3",
       "81":"y #3",
-      "82":"y #3"
+      "82":"y #3",
+      "83":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -398,7 +401,8 @@
       "14.0-14.4":"y",
       "14.5-14.8":"y",
       "15.0-15.1":"y",
-      "15.2":"y"
+      "15.2-15.3":"y",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -413,7 +417,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"u",
@@ -429,10 +433,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -453,7 +457,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -471,11 +476,11 @@
     "2":"Supported only on Windows 8.1+",
     "3":"On Windows pre 8.1 and macOS Sierra (10.12) and below falls back to using FreeType: [Chromium bug 882844](https://bugs.chromium.org/p/chromium/issues/detail?id=882844#c3)"
   },
-  "usage_perc_y":94.36,
+  "usage_perc_y":96.11,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",
-  "keywords":"colr,cpal,color-font,fontface,webfonts",
+  "keywords":"colr,cpal,font,color-font,fontface,webfonts",
   "ie_id":"",
   "chrome_id":"5897235770376192",
   "firefox_id":"",

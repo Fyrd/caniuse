@@ -262,7 +262,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"y",
@@ -289,7 +290,8 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
-      "15.2":"y",
+      "15.2-15.3":"y",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -369,7 +371,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -395,7 +398,8 @@
       "14.0-14.4":"y",
       "14.5-14.8":"y",
       "15.0-15.1":"y",
-      "15.2":"y"
+      "15.2-15.3":"y",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -410,7 +414,7 @@
       "4.2-4.3":"y #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"y",
@@ -426,10 +430,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -450,7 +454,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -469,8 +474,8 @@
     "3":"Android 4.0-4.3 [ignore transforms and margin:auto on position:fixed elements](https://codepen.io/mattiacci/pen/mPRKZY).",
     "4":"in Safari 9.1, having a `position:fixed`-element inside an animated element, [may cause the `position:fixed`-element to not appear](https://jsbin.com/fuxipax)."
   },
-  "usage_perc_y":96.86,
-  "usage_perc_a":0.09,
+  "usage_perc_y":98.53,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -249,7 +249,8 @@
       "97":"a #1",
       "98":"a #1",
       "99":"a #1",
-      "100":"a #1"
+      "100":"a #1",
+      "101":"a #1"
     },
     "safari":{
       "3.1":"u",
@@ -276,7 +277,8 @@
       "14.1":"a #1",
       "15":"a #1",
       "15.1":"a #1",
-      "15.2":"a #1",
+      "15.2-15.3":"a #1",
+      "15.4":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -356,7 +358,8 @@
       "79":"a #1",
       "80":"a #1",
       "81":"a #1",
-      "82":"a #1"
+      "82":"a #1",
+      "83":"a #1"
     },
     "ios_saf":{
       "3.2":"u",
@@ -382,7 +385,8 @@
       "14.0-14.4":"a #1",
       "14.5-14.8":"a #1",
       "15.0-15.1":"a #1",
-      "15.2":"a #1"
+      "15.2-15.3":"a #1",
+      "15.4":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -397,7 +401,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "96":"a #1"
+      "97":"a #1"
     },
     "bb":{
       "7":"a #1",
@@ -413,10 +417,10 @@
       "64":"a #1"
     },
     "and_chr":{
-      "96":"a #1"
+      "97":"a #1"
     },
     "and_ff":{
-      "95":"a #2"
+      "96":"a #2"
     },
     "ie_mob":{
       "10":"a #2",
@@ -437,7 +441,8 @@
       "12.0":"a #1",
       "13.0":"a #1",
       "14.0":"a #1",
-      "15.0":"a #1"
+      "15.0":"a #1",
+      "16.0":"a #1"
     },
     "and_qq":{
       "10.4":"a #1"
@@ -455,7 +460,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.02,
-  "usage_perc_a":96.71,
+  "usage_perc_a":98.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

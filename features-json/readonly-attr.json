@@ -254,7 +254,8 @@
       "97":"y",
       "98":"y",
       "99":"y",
-      "100":"y"
+      "100":"y",
+      "101":"y"
     },
     "safari":{
       "3.1":"u",
@@ -281,7 +282,8 @@
       "14.1":"y",
       "15":"y",
       "15.1":"y",
-      "15.2":"y",
+      "15.2-15.3":"y",
+      "15.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -361,7 +363,8 @@
       "79":"y",
       "80":"y",
       "81":"y",
-      "82":"y"
+      "82":"y",
+      "83":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -387,7 +390,8 @@
       "14.0-14.4":"y",
       "14.5-14.8":"y",
       "15.0-15.1":"y",
-      "15.2":"y"
+      "15.2-15.3":"y",
+      "15.4":"y"
     },
     "op_mini":{
       "all":"y"
@@ -402,7 +406,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "96":"y"
+      "97":"y"
     },
     "bb":{
       "7":"y",
@@ -418,10 +422,10 @@
       "64":"y"
     },
     "and_chr":{
-      "96":"y"
+      "97":"y"
     },
     "and_ff":{
-      "95":"y"
+      "96":"y"
     },
     "ie_mob":{
       "10":"y #2",
@@ -442,7 +446,8 @@
       "12.0":"y",
       "13.0":"y",
       "14.0":"y",
-      "15.0":"y"
+      "15.0":"y",
+      "16.0":"y"
     },
     "and_qq":{
       "10.4":"y"
@@ -459,7 +464,7 @@
     "1":"Readonly inputs of type `datetime-local`, `date`, `month`, and `week` can still be edited by pressing the Up or Down arrow keys on the keyboard while the input is focused.",
     "2":"Text cannot be selected directly, but is possible by first selecting any text around the field. "
   },
-  "usage_perc_y":97.71,
+  "usage_perc_y":99.33,
   "usage_perc_a":0.06,
   "ucprefix":false,
   "parent":"",
