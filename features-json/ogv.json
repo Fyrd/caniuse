@@ -1,6 +1,6 @@
 {
   "title":"Ogg/Theora video format",
-  "description":"Free lossy video compression format.",
+  "description":"Free lossy video compression format by Xiph.org.",
   "spec":"https://theora.org/doc/",
   "status":"other",
   "links":[
@@ -464,7 +464,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",
-  "keywords":"xiph",
+  "keywords":"xiph,matroska,mkv,codec",
   "ie_id":"theoravideocodec,oggcontainer",
   "chrome_id":"",
   "firefox_id":"",

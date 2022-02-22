@@ -1,6 +1,6 @@
 {
   "title":"MP3 audio format",
-  "description":"Popular lossy audio compression format",
+  "description":"MPEG-1/2 Layer 3 is a popular lossy audio compression format",
   "spec":"http://mpgedit.org/mpgedit/mpeg_format/MP3Format.html",
   "status":"other",
   "links":[
@@ -464,7 +464,7 @@
   "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"audio",
-  "keywords":"mpeg",
+  "keywords":"mpeg,mp2,audio,codec",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

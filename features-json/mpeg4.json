@@ -1,6 +1,6 @@
 {
   "title":"MPEG-4/H.264 video format",
-  "description":"Commonly used video compression format.",
+  "description":"Advanced Video Coding (AVC) is a commonly used video compression format, often paired with [AAC audio compression](aac). Its successor is [HEVC](hevc).",
   "spec":"http://ip.hhi.de/imagecom_G1/assets/pdfs/csvt_overview_0305.pdf",
   "status":"other",
   "links":[
@@ -477,7 +477,7 @@
   "usage_perc_a":1.39,
   "ucprefix":false,
   "parent":"video",
-  "keywords":"avc,mp4,mpv,mov,aac,h264",
+  "keywords":"avc,mp4,mpv,mov,aac,h264,m4a,m4b,m4v,codec",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

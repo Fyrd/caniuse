@@ -1,6 +1,6 @@
 {
   "title":"Dynamic Adaptive Streaming over HTTP (MPEG-DASH)",
-  "description":"HTTP-based media streaming communications protocol, an alternative to HTTP Live Streaming (HLS).",
+  "description":"HTTP-based media streaming communications protocol, an alternative to [HTTP Live Streaming (HLS)](/http-live-streaming).",
   "spec":"https://www.iso.org/standard/65274.html",
   "status":"other",
   "links":[
@@ -469,7 +469,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"playlist,fragment,mpeg",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

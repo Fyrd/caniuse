@@ -1,6 +1,6 @@
 {
   "title":"HTTP Live Streaming (HLS)",
-  "description":"HTTP-based media streaming communications protocol",
+  "description":"HTTP-based media streaming communications protocol, competing with [MPEG-DASH](/mpeg-dash)",
   "spec":"https://tools.ietf.org/html/rfc8216",
   "status":"unoff",
   "links":[
@@ -468,7 +468,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"apple http live streaming,m3u8",
+  "keywords":"apple,http live streaming,m3u8,m3u,playlist,fragment",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

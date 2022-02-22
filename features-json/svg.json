@@ -1,6 +1,6 @@
 {
   "title":"SVG (basic support)",
-  "description":"Method of displaying basic Vector Graphics features using the embed or object elements. Refers to the SVG 1.1 spec.",
+  "description":"Method of displaying basic Scalable Vector Graphics features using the embed or object elements. Refers to the SVG 1.1 spec.",
   "spec":"https://www.w3.org/TR/SVG/",
   "status":"cr",
   "links":[
@@ -497,7 +497,7 @@
   "usage_perc_a":0.8,
   "ucprefix":false,
   "parent":"",
-  "keywords":".svg,rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset,stroke-opacity",
+  "keywords":".svg,rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset,stroke-opacity,image,img,picture,drawing",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

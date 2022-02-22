@@ -1,6 +1,6 @@
 {
   "title":"AAC audio file format",
-  "description":"Advanced Audio Coding format, designed to be the successor format to MP3, with generally better sound quality.",
+  "description":"Advanced Audio Coding format, designed to be the successor format to [MP3](/mp3), with generally better sound quality, often used with [MP4](/mp4) video.",
   "spec":"http://www.digitalpreservation.gov/formats/fdd/fdd000114.shtml",
   "status":"other",
   "links":[
@@ -464,7 +464,7 @@
   "usage_perc_a":4.37,
   "ucprefix":false,
   "parent":"audio",
-  "keywords":"audio/aac",
+  "keywords":"audio,codec,mpeg,m4a",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

@@ -1,9 +1,13 @@
 {
   "title":"Animated PNG (APNG)",
-  "description":"Like animated GIFs, but allowing 24-bit colors and alpha transparency",
+  "description":"Like animated GIFs, but allowing 24-bit colors and alpha transparency like [WebP](/webp)",
   "spec":"https://wiki.mozilla.org/APNG_Specification",
   "status":"unoff",
   "links":[
+    {
+      "url":"https://w3c.github.io/PNG-spec/",
+      "title":"future specification"
+    },
     {
       "url":"https://en.wikipedia.org/wiki/APNG",
       "title":"Wikipedia"
@@ -488,7 +492,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"image,png,bitmap,animation,icon",
   "ie_id":"",
   "chrome_id":"6691520493125632",
   "firefox_id":"",

@@ -1,6 +1,6 @@
 {
   "title":"WebM video format",
-  "description":"Multimedia format designed to provide a royalty-free, high-quality open video compression format for use with HTML5 video. WebM supports the video codec VP8 and VP9.",
+  "description":"Multimedia format designed to provide a royalty-free, high-quality open video compression format for use with HTML5 video. WebM supports the video codec VP8 and VP9 and competes with [MPEG-4 AVC](/mpeg4).",
   "spec":"https://www.webmproject.org",
   "status":"other",
   "links":[
@@ -474,7 +474,7 @@
   "usage_perc_a":19.77,
   "ucprefix":false,
   "parent":"video",
-  "keywords":"matroska",
+  "keywords":"matroska,mkv,codec,format,container",
   "ie_id":"webmcontainer,vp9videoplayback",
   "chrome_id":"6362186595172352",
   "firefox_id":"",

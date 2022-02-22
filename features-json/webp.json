@@ -1,6 +1,6 @@
 {
   "title":"WebP image format",
-  "description":"Image format (based on the VP8 video format) that supports lossy and lossless compression, as well as animation and alpha transparency. WebP generally has better compression than JPEG, PNG and GIF and is designed to supersede them. [AVIF](/avif) and [JPEG XL](/jpegxl) are designed to supersede WebP.",
+  "description":"Image format (based on the [VP8 video format](/webm)) that supports lossy and lossless compression, as well as animation and alpha transparency. WebP generally has better compression than JPEG, PNG and GIF and is designed to supersede them. [AVIF](/avif) and [JPEG XL](/jpegxl) are designed to supersede WebP.",
   "spec":"https://developers.google.com/speed/webp/",
   "status":"unoff",
   "links":[
@@ -480,7 +480,7 @@
   "usage_perc_a":3.62,
   "ucprefix":false,
   "parent":"",
-  "keywords":"vp8,vp8l,libwebp,.webp",
+  "keywords":"vp8,vp8l,libwebp,.webp,image,picture,bitmap,photo,img",
   "ie_id":"webpimageformat",
   "chrome_id":"6471725441089536,4785074604081152",
   "firefox_id":"web-p",
