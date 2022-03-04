@@ -252,7 +252,8 @@
       "98":"y",
       "99":"y",
       "100":"y",
-      "101":"y"
+      "101":"y",
+      "102":"y"
     },
     "safari":{
       "3.1":"n",
@@ -462,8 +463,8 @@
     "2":"Partial support in Edge 15+ refers to support for only the HTTP header format, not the `<link rel>` format.",
     "3":"Appears to have [stopped working](https://bugzilla.mozilla.org/show_bug.cgi?id=1543990) in Firefox at some point."
   },
-  "usage_perc_y":91.15,
-  "usage_perc_a":0.04,
+  "usage_perc_y":89.36,
+  "usage_perc_a":0.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"preconnect, resource hints",

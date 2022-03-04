@@ -260,7 +260,8 @@
       "98":"y #2",
       "99":"y #2",
       "100":"y #2",
-      "101":"y #2"
+      "101":"y #2",
+      "102":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -470,8 +471,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":95.83,
-  "usage_perc_a":2.2,
+  "usage_perc_y":94.04,
+  "usage_perc_a":2.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

@@ -258,7 +258,8 @@
       "98":"y",
       "99":"y",
       "100":"y",
-      "101":"y"
+      "101":"y",
+      "102":"y"
     },
     "safari":{
       "3.1":"n",
@@ -473,8 +474,8 @@
     "7":"Firefox 45+ is missing the plugin-types directive.",
     "9":"Edge has broken nonce support as it ignores nonces on sourced scripts."
   },
-  "usage_perc_y":91.34,
-  "usage_perc_a":4.43,
+  "usage_perc_y":89.5,
+  "usage_perc_a":4.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,header,nonce,hash",

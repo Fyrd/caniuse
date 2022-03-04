@@ -256,7 +256,8 @@
       "98":"y",
       "99":"y",
       "100":"y",
-      "101":"y"
+      "101":"y",
+      "102":"y"
     },
     "safari":{
       "3.1":"n",
@@ -464,8 +465,8 @@
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":73.3,
-  "usage_perc_a":0.18,
+  "usage_perc_y":72.65,
+  "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.battery,navigator.getbattery,batterymanager",
