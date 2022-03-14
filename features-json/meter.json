@@ -9,24 +9,26 @@
       "title":"MDN Web Docs - Element meter"
     },
     {
-      "url":"http://html5doctor.com/measure-up-with-the-meter-tag/",
+      "url":"https://html5doctor.com/measure-up-with-the-meter-tag/",
       "title":"HTML5 Doctor on meter element"
-    },
-    {
-      "url":"https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6803893-meter",
-      "title":"Microsoft Edge feature request on UserVoice"
     },
     {
       "url":"https://dev.opera.com/articles/new-form-features-in-html5/#newoutput",
       "title":"Dev.Opera article"
     },
     {
-      "url":"http://peter.sh/examples/?/html/meter-progress.html",
+      "url":"https://peter.sh/examples/?/html/meter-progress.html",
       "title":"Examples of progress and meter elements"
+    },
+    {
+      "url":"https://www.ctrl.blog/entry/html-meter-segment-boundaries.html",
+      "title":"The HTML `<meter>` element and its (undefined) segment boundaries"
     }
   ],
   "bugs":[
-    
+    {
+      "description":"The boundaries between the low/medium/high regions are poorly defined and not interoperable between browsers. [WHATWG HTML bug](https://github.com/whatwg/html/issues/3520)"
+    }
   ],
   "categories":[
     "HTML5"
