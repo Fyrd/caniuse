@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Safari does not support gap with reverse flex-direction"
+      "description":"Safari does not apply `gap` when `flex-direction` is `collunm-reverse`"
     }
   ],
   "categories":[
