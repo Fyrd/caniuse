@@ -27,7 +27,7 @@
   ],
   "bugs":[
     {
-      "description":"Safari does not apply `gap` when `flex-direction` is `collunm-reverse`"
+      "description":"Safari before version 15.4 does not apply `gap` when `flex-direction` is `column-reverse` [see WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=225278)"
     }
   ],
   "categories":[
