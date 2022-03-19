@@ -1,6 +1,6 @@
 {
   "title":"CSS font-palette",
-  "description":"The font-palette CSS property allows selecting a palette from a color font. In combination with the @font-palette-values at-rule, custom palettes can be defined.",
+  "description":"The font-palette CSS property allows selecting a palette from a color font. In combination with the `@font-palette-values` at-rule, custom palettes can be defined.",
   "spec":"https://www.w3.org/TR/css-fonts-4/#propdef-font-palette",
   "status":"wd",
   "links":[
@@ -19,14 +19,6 @@
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1461588",
       "title":"Firefox support bug"
-    },
-    {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=1170794",
-      "title":"Chrome support bug"
-    },
-    {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=230446",
-      "title":"WebKit support bug"
     }
   ],
   "bugs":[
@@ -481,8 +473,9 @@
   },
   "notes":"",
   "notes_by_num":{
+    
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.06,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
