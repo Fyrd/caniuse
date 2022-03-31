@@ -1,6 +1,6 @@
 {
   "title":"CSS3 tab-size",
-  "description":"Method of customizing the width of the tab character. Only effective using 'white-space: pre' or 'white-space: pre-wrap'.",
+  "description":"Method of customizing the width of the tab character. Only effective using 'white-space: pre', 'white-space: pre-wrap', and 'white-space: break-spaces'.",
   "spec":"https://www.w3.org/TR/css3-text/#tab-size",
   "status":"wd",
   "links":[
@@ -265,7 +265,8 @@
       "99":"y",
       "100":"y",
       "101":"y",
-      "102":"y"
+      "102":"y",
+      "103":"y"
     },
     "safari":{
       "3.1":"n",
