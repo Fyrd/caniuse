@@ -463,7 +463,7 @@
       "7.12":"y"
     },
     "kaios":{
-      "2.5":"a #7"
+      "2.5":"y"
     }
   },
   "notes":"",
@@ -475,8 +475,8 @@
     "5":"Chrome 39 and Opera 26 are missing the child-src, base-uri, and form-action directives.",
     "6":"Edge has broken nonce support as it ignores nonces on sourced scripts."
   },
-  "usage_perc_y":93.62,
-  "usage_perc_a":0.39,
+  "usage_perc_y":93.72,
+  "usage_perc_a":0.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,header,nonce,hash",
