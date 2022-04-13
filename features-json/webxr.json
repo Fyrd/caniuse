@@ -2,7 +2,7 @@
   "title":"WebXR Device API",
   "description":"API for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays.",
   "spec":"https://www.w3.org/TR/webxr/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/docs/Web/API/WebXR_Device_API",
@@ -60,7 +60,8 @@
       "96":"a #1",
       "97":"a #1",
       "98":"a #1",
-      "99":"a #1"
+      "99":"a #1",
+      "100":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -163,7 +164,8 @@
       "97":"n d #2",
       "98":"n d #2",
       "99":"n d #2",
-      "100":"n d #2"
+      "100":"n d #2",
+      "101":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -415,7 +417,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "99":"n"
+      "100":"n"
     },
     "bb":{
       "7":"n",
@@ -434,7 +436,7 @@
       "100":"a #1"
     },
     "and_ff":{
-      "98":"n d #2"
+      "99":"n d #2"
     },
     "ie_mob":{
       "10":"n",
