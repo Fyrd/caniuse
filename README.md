@@ -9,7 +9,7 @@ This repo contains raw data from the caniuse.com support tables. It serves two p
 
 2. Access to the site's data for other projects. For this use the [`data.json`](data.json) file which includes all support data.
 
-The data in this repo is available for use under a CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/). For attribution just mention somewhere that the source is caniuse.com. If you have any questions about using the data for your project please contact me here: http://a.deveria.com/contact
+The data in this repo is available for use under a CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/). For attribution just mention somewhere that the source is caniuse.com. If you have any questions about using the data for your project please contact me here: https://a.deveria.com/contact
 
 ## Sponsor
 
