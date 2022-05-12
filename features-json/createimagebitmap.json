@@ -150,16 +150,16 @@
       "90":"a #4 #5",
       "91":"a #4 #5",
       "92":"a #4 #5",
-      "93":"a #4 #5",
-      "94":"a #4 #5",
-      "95":"a #4 #5",
-      "96":"a #4 #5",
-      "97":"a #4 #5",
-      "98":"a #4 #5",
-      "99":"a #4 #5",
-      "100":"a #4 #5",
-      "101":"a #4 #5",
-      "102":"a #4 #5"
+      "93":"a #4",
+      "94":"a #4",
+      "95":"a #4",
+      "96":"a #4",
+      "97":"a #4",
+      "98":"a #4",
+      "99":"a #4",
+      "100":"a #4",
+      "101":"a #4",
+      "102":"a #4"
     },
     "chrome":{
       "4":"n",
@@ -286,11 +286,11 @@
       "13.1":"n",
       "14":"n",
       "14.1":"n",
-      "15":"a #3",
-      "15.1":"a #3",
-      "15.2-15.3":"a #3",
-      "15.4":"a #3",
-      "TP":"a #3"
+      "15":"a #6",
+      "15.1":"a #6",
+      "15.2-15.3":"a #6",
+      "15.4":"a #6",
+      "TP":"a #6"
     },
     "opera":{
       "9":"n",
@@ -399,9 +399,9 @@
       "13.4-13.7":"n",
       "14.0-14.4":"n",
       "14.5-14.8":"n",
-      "15.0-15.1":"a #3",
-      "15.2-15.3":"a #3",
-      "15.4":"a #3"
+      "15.0-15.1":"a #6",
+      "15.2-15.3":"a #6",
+      "15.4":"a #6"
     },
     "op_mini":{
       "all":"n"
@@ -475,7 +475,8 @@
     "2":"No support for resizeWidth, resizeHeight, resizeQuality or SVGImageElement as Source Image",
     "3":"No support for SVGImageElement as Source Image",
     "4":"No support for resizeWidth, resizeHeight and resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)",
-    "5":"No support for `createImageBitmap(source, options)` interface. see [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)"
+    "5":"No support for `createImageBitmap(source, options)` interface. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)",
+    "6":"Partial implementation. See [this bug](https://bugs.webkit.org/show_bug.cgi?id=182424)"
   },
   "usage_perc_y":73.26,
   "usage_perc_a":16.29,
