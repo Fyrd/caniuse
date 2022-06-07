@@ -487,7 +487,7 @@
     "3":"Safari supports a custom implementation https://developer.apple.com/notifications/safari-push-notifications/. WWDC video by apple : https://developer.apple.com/videos/play/wwdc2013/614/ ",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags",
     "5":"Partial implementation can be enabled via \"Push API\" in the Experimental Features menu",
-    "6":"Only available in Safari 16 when running on macOS Ventura or later"
+    "6":"Only available in Safari 16 on macOS 13 Ventura or later"
   },
   "usage_perc_y":76.15,
   "usage_perc_a":0.11,
