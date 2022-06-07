@@ -304,6 +304,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -415,7 +416,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -490,8 +493,8 @@
     "3":"Supported only on macOS High Sierra or later",
     "4":"Supported only for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548)"
   },
-  "usage_perc_y":17.37,
-  "usage_perc_a":4.78,
+  "usage_perc_y":18.02,
+  "usage_perc_a":4.96,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

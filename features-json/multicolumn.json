@@ -337,6 +337,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -448,7 +449,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"y"
@@ -523,8 +526,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":23.12,
-  "usage_perc_a":75,
+  "usage_perc_y":22.36,
+  "usage_perc_a":75.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

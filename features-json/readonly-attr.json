@@ -297,6 +297,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -408,7 +409,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"y"
@@ -481,7 +484,7 @@
     "1":"Readonly inputs of type `datetime-local`, `date`, `month`, and `week` can still be edited by pressing the Up or Down arrow keys on the keyboard while the input is focused.",
     "2":"Text cannot be selected directly, but is possible by first selecting any text around the field. "
   },
-  "usage_perc_y":98.01,
+  "usage_perc_y":97.7,
   "usage_perc_a":0.06,
   "ucprefix":false,
   "parent":"",

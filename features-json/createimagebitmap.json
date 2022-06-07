@@ -292,6 +292,7 @@
       "15.2-15.3":"a #6",
       "15.4":"a #6",
       "15.5":"a #6",
+      "16.0":"a #6",
       "TP":"a #6"
     },
     "opera":{
@@ -403,7 +404,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"a #6",
       "15.2-15.3":"a #6",
-      "15.4":"a #6"
+      "15.4":"a #6",
+      "15.5":"a #6",
+      "16.0":"a #6"
     },
     "op_mini":{
       "all":"n"
@@ -480,8 +483,8 @@
     "5":"No support for `createImageBitmap(source, options)` interface. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)",
     "6":"Partial implementation. See [this bug](https://bugs.webkit.org/show_bug.cgi?id=182424)"
   },
-  "usage_perc_y":73.26,
-  "usage_perc_a":16.29,
+  "usage_perc_y":72.49,
+  "usage_perc_a":17.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

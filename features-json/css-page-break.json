@@ -301,6 +301,7 @@
       "15.2-15.3":"a #1 #2 #3",
       "15.4":"a #1 #2 #3",
       "15.5":"a #1 #2 #3",
+      "16.0":"a #1 #2 #3",
       "TP":"a #1 #2 #3"
     },
     "opera":{
@@ -412,7 +413,9 @@
       "14.5-14.8":"a #1 #2 #3",
       "15.0-15.1":"a #1 #2 #3",
       "15.2-15.3":"a #1 #2 #3",
-      "15.4":"a #1 #2 #3"
+      "15.4":"a #1 #2 #3",
+      "15.5":"a #1 #2 #3",
+      "16.0":"a #1 #2 #3"
     },
     "op_mini":{
       "all":"y #1"
@@ -486,8 +489,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":1.14,
-  "usage_perc_a":97.15,
+  "usage_perc_y":1.06,
+  "usage_perc_a":96.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

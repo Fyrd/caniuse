@@ -302,6 +302,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -413,7 +414,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -485,7 +488,7 @@
   "notes_by_num":{
     "1":"Allows objects to be created via `URL` constructor, but instances do not have the expected url properties."
   },
-  "usage_perc_y":95.83,
+  "usage_perc_y":95.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

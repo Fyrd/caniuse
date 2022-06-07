@@ -304,6 +304,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -415,7 +416,9 @@
       "14.5-14.8":"a #1",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -487,8 +490,8 @@
   "notes_by_num":{
     "1":"Only supports `display-p3` predefined color profile."
   },
-  "usage_perc_y":12.66,
-  "usage_perc_a":4.92,
+  "usage_perc_y":14,
+  "usage_perc_a":4.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"color(),Display-P3,A98-RGB,ProPhoto-RGB,REC-2020,Device-Dependent Colors,Profiled Colors,@color-profile,color space",

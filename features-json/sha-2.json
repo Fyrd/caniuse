@@ -296,6 +296,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -407,7 +408,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"u"
@@ -480,8 +483,8 @@
     "1":"Support dependent on operating system",
     "2":"Some users may encounter issues with validating certificates that use cross certificates"
   },
-  "usage_perc_y":95.58,
-  "usage_perc_a":0.2,
+  "usage_perc_y":95.44,
+  "usage_perc_a":0.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"ssl, tls, sha-2, certificate",

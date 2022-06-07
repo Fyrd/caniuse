@@ -293,6 +293,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -404,7 +405,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -476,8 +479,8 @@
   "notes_by_num":{
     "1":"Does not support the `addPath()` method"
   },
-  "usage_perc_y":93.03,
-  "usage_perc_a":2.36,
+  "usage_perc_y":92.88,
+  "usage_perc_a":2.09,
   "ucprefix":false,
   "parent":"canvas",
   "keywords":"addpath",

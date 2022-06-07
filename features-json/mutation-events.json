@@ -292,6 +292,7 @@
       "15.2-15.3":"a #1",
       "15.4":"a #1",
       "15.5":"a #1",
+      "16.0":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -403,7 +404,9 @@
       "14.5-14.8":"a #1",
       "15.0-15.1":"a #1",
       "15.2-15.3":"a #1",
-      "15.4":"a #1"
+      "15.4":"a #1",
+      "15.5":"a #1",
+      "16.0":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -477,7 +480,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0.02,
-  "usage_perc_a":96.96,
+  "usage_perc_a":96.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

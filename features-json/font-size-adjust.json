@@ -300,6 +300,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
+      "16.0":"n",
       "TP":"n"
     },
     "opera":{
@@ -411,7 +412,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"n",
       "15.2-15.3":"n",
-      "15.4":"n"
+      "15.4":"n",
+      "15.5":"n",
+      "16.0":"n"
     },
     "op_mini":{
       "all":"n"
@@ -484,7 +487,7 @@
     "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
-  "usage_perc_y":3.33,
+  "usage_perc_y":3.21,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

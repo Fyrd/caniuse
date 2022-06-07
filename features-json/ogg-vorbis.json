@@ -292,6 +292,7 @@
       "15.2-15.3":"a #1",
       "15.4":"a #1",
       "15.5":"a #1",
+      "16.0":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -403,7 +404,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"n",
       "15.2-15.3":"n",
-      "15.4":"n"
+      "15.4":"n",
+      "15.5":"n",
+      "16.0":"n"
     },
     "op_mini":{
       "all":"n"
@@ -475,8 +478,8 @@
   "notes_by_num":{
     "1":"Partial due to the lack of Ogg container support, and being limited to macOS 11.3 or later."
   },
-  "usage_perc_y":78.5,
-  "usage_perc_a":1.99,
+  "usage_perc_y":77.47,
+  "usage_perc_a":2.63,
   "ucprefix":false,
   "parent":"audio",
   "keywords":".ogg,.oga,application/ogg,audio/ogg",

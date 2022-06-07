@@ -296,6 +296,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -407,7 +408,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n #1"
@@ -479,8 +482,8 @@
   "notes_by_num":{
     "1":"Not supported on Android 4.x and below, presumably an OS limitation. Only seems to work in Android 5.x for the Chrome browser."
   },
-  "usage_perc_y":52.25,
-  "usage_perc_a":43.12,
+  "usage_perc_y":52.47,
+  "usage_perc_a":42.84,
   "ucprefix":false,
   "parent":"forms",
   "keywords":"",

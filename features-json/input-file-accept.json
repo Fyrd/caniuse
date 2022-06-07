@@ -296,6 +296,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -407,7 +408,9 @@
       "14.5-14.8":"a #1",
       "15.0-15.1":"a #1",
       "15.2-15.3":"a #1",
-      "15.4":"a #1"
+      "15.4":"a #1",
+      "15.5":"a #1",
+      "16.0":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -482,8 +485,8 @@
     "3":"Does not allow any files to be picked at all",
     "4":"Supports the type format but does not allow any file to be picked when using the extension format"
   },
-  "usage_perc_y":36.32,
-  "usage_perc_a":58.85,
+  "usage_perc_y":36.47,
+  "usage_perc_a":58.68,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

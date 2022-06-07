@@ -310,6 +310,7 @@
       "15.2-15.3":"a",
       "15.4":"a",
       "15.5":"a",
+      "16.0":"a",
       "TP":"a"
     },
     "opera":{
@@ -421,7 +422,9 @@
       "14.5-14.8":"a",
       "15.0-15.1":"a",
       "15.2-15.3":"a",
-      "15.4":"a"
+      "15.4":"a",
+      "15.5":"a",
+      "16.0":"a"
     },
     "op_mini":{
       "all":"p"
@@ -493,8 +496,8 @@
   "notes_by_num":{
     "1":"IE9+ supports [properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) of an older version of the CSS Ruby specification."
   },
-  "usage_perc_y":3.48,
-  "usage_perc_a":93.4,
+  "usage_perc_y":3.34,
+  "usage_perc_a":93.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",

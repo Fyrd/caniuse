@@ -301,6 +301,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -412,7 +413,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -484,8 +487,8 @@
   "notes_by_num":{
     "1":"Only supports the older event-based specification"
   },
-  "usage_perc_y":94.48,
-  "usage_perc_a":0.77,
+  "usage_perc_y":94.15,
+  "usage_perc_a":1.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"requestMediaKeySystemAccess,createMediaKeys",

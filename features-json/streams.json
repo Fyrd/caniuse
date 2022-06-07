@@ -300,6 +300,7 @@
       "15.2-15.3":"a #4",
       "15.4":"a #4",
       "15.5":"a #4",
+      "16.0":"a #4",
       "TP":"a #4"
     },
     "opera":{
@@ -411,7 +412,9 @@
       "14.5-14.8":"a #4",
       "15.0-15.1":"a #4",
       "15.2-15.3":"a #4",
-      "15.4":"a #4"
+      "15.4":"a #4",
+      "15.5":"a #4",
+      "16.0":"a #4"
     },
     "op_mini":{
       "all":"n"
@@ -488,8 +491,8 @@
     "5":"No support for `WritableStream`.",
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
-  "usage_perc_y":70.19,
-  "usage_perc_a":23.13,
+  "usage_perc_y":69.64,
+  "usage_perc_a":23.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

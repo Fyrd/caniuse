@@ -300,6 +300,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -411,7 +412,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -484,8 +487,8 @@
     "1":"Does not have `FileReader` support. ",
     "2":"Does not support the `File` constructor"
   },
-  "usage_perc_y":95.45,
-  "usage_perc_a":1.53,
+  "usage_perc_y":95.06,
+  "usage_perc_a":1.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

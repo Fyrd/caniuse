@@ -292,6 +292,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -403,7 +404,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"n",
       "15.2-15.3":"n",
-      "15.4":"n"
+      "15.4":"n",
+      "15.5":"n",
+      "16.0":"n"
     },
     "op_mini":{
       "all":"n"
@@ -475,8 +478,8 @@
   "notes_by_num":{
     "1":"`-webkit-user-drag: none` works, but `-webkit-user-drag: element` does not appear to have an effect."
   },
-  "usage_perc_y":2.79,
-  "usage_perc_a":29.94,
+  "usage_perc_y":3.24,
+  "usage_perc_a":29.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"-webkit-user-drag:none,-webkit-user-drag:element,-webkit-user-drag:auto",

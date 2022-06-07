@@ -1,11 +1,11 @@
 {
   "title":"CSS Regions",
-  "description":"Method of flowing content into multiple elements.",
+  "description":"Method of flowing content into multiple elements. \r\n\r\n",
   "spec":"https://www.w3.org/TR/css3-regions/",
   "status":"wd",
   "links":[
     {
-      "url":"http://html.adobe.com/webstandards/cssregions/",
+      "url":"https://web.archive.org/web/20121027050852/http://html.adobe.com:80/webstandards/cssregions/",
       "title":"Adobe demos and samples"
     },
     {
@@ -13,12 +13,12 @@
       "title":"IE10 developer guide info"
     },
     {
-      "url":"https://www.webplatform.org/docs/css/atrules/@region",
-      "title":"WebPlatform Docs"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=674802",
       "title":"Firefox feature request bug"
+    },
+    {
+      "url":"https://www.sitepoint.com/a-beginners-guide-css-regions/",
+      "title":"Beginner's guide to CSS Regions"
     }
   ],
   "bugs":[
@@ -304,6 +304,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
+      "16.0":"n",
       "TP":"n"
     },
     "opera":{
@@ -415,7 +416,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"n",
       "15.2-15.3":"n",
-      "15.4":"n"
+      "15.4":"n",
+      "15.5":"n",
+      "16.0":"n"
     },
     "op_mini":{
       "all":"n"
@@ -488,8 +491,8 @@
     "1":"Support is limited to using an iframe as a content source with the `-ms-flow-into: flow_name;` and `-ms-flow-from: flow_name;` syntax.",
     "2":"Partial support refers to not supporting the `region-fragment` property."
   },
-  "usage_perc_y":0.37,
-  "usage_perc_a":0.8,
+  "usage_perc_y":0.32,
+  "usage_perc_a":1.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

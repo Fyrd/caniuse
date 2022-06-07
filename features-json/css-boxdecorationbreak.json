@@ -304,6 +304,7 @@
       "15.2-15.3":"a x #1",
       "15.4":"a x #1",
       "15.5":"a x #1",
+      "16.0":"a x #1",
       "TP":"a x #1"
     },
     "opera":{
@@ -415,7 +416,9 @@
       "14.5-14.8":"a x #1",
       "15.0-15.1":"a x #1",
       "15.2-15.3":"a x #1",
-      "15.4":"a x #1"
+      "15.4":"a x #1",
+      "15.5":"a x #1",
+      "16.0":"a x #1"
     },
     "op_mini":{
       "all":"a #1"
@@ -487,8 +490,8 @@
   "notes_by_num":{
     "1":"Partial support refers to working for inline elements but not across column or page breaks."
   },
-  "usage_perc_y":4.42,
-  "usage_perc_a":92.45,
+  "usage_perc_y":4.19,
+  "usage_perc_a":92.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"box-decoration,box decoration,break",

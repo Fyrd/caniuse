@@ -292,6 +292,7 @@
       "15.2-15.3":"n d #4",
       "15.4":"n d #4",
       "15.5":"n d #4",
+      "16.0":"n d #4",
       "TP":"n d #4"
     },
     "opera":{
@@ -403,7 +404,9 @@
       "14.5-14.8":"n d",
       "15.0-15.1":"n d",
       "15.2-15.3":"n d",
-      "15.4":"n d"
+      "15.4":"n d",
+      "15.5":"n d",
+      "16.0":"n d"
     },
     "op_mini":{
       "all":"n"
@@ -478,7 +481,7 @@
     "3":"Can be enabled in Chrome(Chromium) via the `--enable-quic` & `--quic-version=h3-29` command line arguments.",
     "4":"Can be enabled in Safari on macOS 11 Big Sur and later in the \"Experimental Features\" developer menu."
   },
-  "usage_perc_y":73.04,
+  "usage_perc_y":72.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

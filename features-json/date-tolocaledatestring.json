@@ -292,6 +292,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -403,7 +404,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -477,8 +480,8 @@
     "2":"Does not support all locales correctly",
     "3":"Does not support the `timeZone` option "
   },
-  "usage_perc_y":92.55,
-  "usage_perc_a":5.65,
+  "usage_perc_y":92.48,
+  "usage_perc_a":5.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

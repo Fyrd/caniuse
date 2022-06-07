@@ -296,6 +296,7 @@
       "15.2-15.3":"n #3",
       "15.4":"n #3",
       "15.5":"n #3",
+      "16.0":"y",
       "TP":"n d #5"
     },
     "opera":{
@@ -407,7 +408,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"n",
       "15.2-15.3":"n",
-      "15.4":"n"
+      "15.4":"n",
+      "15.5":"n",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -483,8 +486,8 @@
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags",
     "5":"Partial implementation can be enabled via \"Push API\" in the Experimental Features menu"
   },
-  "usage_perc_y":77.09,
-  "usage_perc_a":0.14,
+  "usage_perc_y":76.15,
+  "usage_perc_a":0.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

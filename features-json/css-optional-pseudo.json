@@ -300,6 +300,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -411,7 +412,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -483,8 +486,8 @@
   "notes_by_num":{
     "1":"Does not match non-required `<select>`s"
   },
-  "usage_perc_y":96.92,
-  "usage_perc_a":1.14,
+  "usage_perc_y":96.71,
+  "usage_perc_a":1.06,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":":optional,optional,:required,required",

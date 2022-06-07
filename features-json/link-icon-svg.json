@@ -305,6 +305,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
+      "16.0":"n",
       "TP":"n"
     },
     "opera":{
@@ -416,7 +417,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"n",
       "15.2-15.3":"n",
-      "15.4":"n"
+      "15.4":"n",
+      "15.5":"n",
+      "16.0":"n"
     },
     "op_mini":{
       "all":"n #1"
@@ -492,7 +495,7 @@
     "4":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0).",
     "5":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0)."
   },
-  "usage_perc_y":74.36,
+  "usage_perc_y":73.69,
   "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",

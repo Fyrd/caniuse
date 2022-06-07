@@ -320,6 +320,7 @@
       "15.2-15.3":"n d #3",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -431,7 +432,9 @@
       "14.5-14.8":"n",
       "15.0-15.1":"n d #3",
       "15.2-15.3":"n d #3",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -505,7 +508,7 @@
     "2":"Enabled through the \"Experimental Web Platform features\" flag in chrome://flags",
     "3":"Can be enabled via \":focus-visible pseudo-class\" in the Experimental Features menu"
   },
-  "usage_perc_y":80.75,
+  "usage_perc_y":85.66,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

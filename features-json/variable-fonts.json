@@ -306,6 +306,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -417,7 +418,9 @@
       "14.5-14.8":"y",
       "15.0-15.1":"y",
       "15.2-15.3":"y",
-      "15.4":"y"
+      "15.4":"y",
+      "15.5":"y",
+      "16.0":"y"
     },
     "op_mini":{
       "all":"n"
@@ -495,8 +498,8 @@
     "6":"Does not support OpenType-CFF2 fonts",
     "7":"OpenType-CFF2 support requires MacOS 10.15+"
   },
-  "usage_perc_y":92.75,
-  "usage_perc_a":0.08,
+  "usage_perc_y":92.68,
+  "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"variable fonts, variation fonts, font variations",
