@@ -1,6 +1,6 @@
 {
   "title":"CSS Regions",
-  "description":"Method of flowing content into multiple elements. \r\n\r\n",
+  "description":"Method of flowing content into multiple elements, allowing magazine-like layouts. While once supported in WebKit-based browsers and Internet Explorer, implementing the feature is longer being pursued by any browser.",
   "spec":"https://www.w3.org/TR/css3-regions/",
   "status":"wd",
   "links":[
@@ -19,6 +19,10 @@
     {
       "url":"https://www.sitepoint.com/a-beginners-guide-css-regions/",
       "title":"Beginner's guide to CSS Regions"
+    },
+    {
+      "url":"https://groups.google.com/a/chromium.org/g/blink-dev/c/kTktlHPJn4Q/m/YrnfLxeMO7IJ",
+      "title":"Discussion on removal in Blink"
     }
   ],
   "bugs":[
@@ -306,8 +310,8 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
-      "16.0":"n",
-      "TP":"n"
+      "TP":"n",
+      "16.0":"n"
     },
     "opera":{
       "9":"n",
