@@ -1,6 +1,6 @@
 {
-  "title":"CSS Container Queries",
-  "description":"Experimental media query to apply styles based on specified container elements rather than the entire page. Currently implemented using the `container` properties and `@container` at-rule.",
+  "title":"CSS Container Queries (Size)",
+  "description":"Size queries in Container Queries provide a way to query the size of a container, and conditionally apply CSS to the content of that container.",
   "spec":"https://www.w3.org/TR/css-contain-3/",
   "status":"wd",
   "links":[
