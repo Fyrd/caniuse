@@ -298,8 +298,8 @@
       "15.2-15.3":"a #7",
       "15.4":"a #7",
       "15.5":"a #7",
-      "16.0":"a #7",
-      "TP":"a #7"
+      "16.0":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -488,7 +488,7 @@
     "4":"Supports [VP8 codec used in WebRTC](https://webkit.org/blog/8672).",
     "5":"Supports [VP9 codec used in WebRTC](https://webkit.org/blog/10929) (off by default.)",
     "6":"Supports [VP9 WebM used in MediaSource](https://bugs.webkit.org/show_bug.cgi?id=216652#c1) on [macOS Big Sur or later.](https://trac.webkit.org/changeset/264747/webkit)",
-    "7":"Partial support in Safari refers to being limited to macOS 11.3 or later."
+    "7":"Safari 14.1 – 15.6 has full support of WebM, but requires macOS 11.3 Big Sur or later."
   },
   "usage_perc_y":76.43,
   "usage_perc_a":19.04,
