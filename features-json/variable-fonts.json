@@ -493,12 +493,12 @@
   "notes":"",
   "notes_by_num":{
     "1":"Works with Experimental Web Platform features enabled",
-    "2":"Requires MacOS 10.12+ and the following about:config flags to be enabled:\r\n`layout.css.font-variations.enabled`,\r\n`gfx.downloadable_fonts.keep_variation_tables`",
-    "3":"Requires MacOS 10.13+",
+    "2":"Requires macOS 10.12 Sierra or later and the following about:config flags to be enabled:\r\n`layout.css.font-variations.enabled`,\r\n`gfx.downloadable_fonts.keep_variation_tables`",
+    "3":"Requires macOS 10.13 High Sierra or later or [Windows 10 1709 \"Fall Creators Update\" or later](https://bugzilla.mozilla.org/show_bug.cgi?id=1742970#c2)",
     "4":"Does not support the `font-weight` and `font-stretch` properties.",
     "5":"Does not support `format('truetype-variations')`, `format('woff-variations')`, `format('woff2-variations')`",
     "6":"Does not support OpenType-CFF2 fonts",
-    "7":"OpenType-CFF2 support requires MacOS 10.15+"
+    "7":"OpenType-CFF2 support requires macOS 10.15 Catalina or later"
   },
   "usage_perc_y":92.68,
   "usage_perc_a":0.07,
