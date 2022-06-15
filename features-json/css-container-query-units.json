@@ -1,10 +1,13 @@
 {
   "title":"CSS Container Query Units",
-  "description":"Container Query Units specify a length relative to the dimensions of a query container. The units include: cqw, cqh, cqi, cqb, cqmin, and cqmax.",
-  "spec":"https://www.w3.org/TR/css-contain-3/",
+  "description":"Container Query Units specify a length relative to the dimensions of a query container. The units include: `cqw`, `cqh`, `cqi`, `cqb`, `cqmin`, and `cqmax`.",
+  "spec":"https://www.w3.org/TR/css-contain-3/#container-lengths",
   "status":"wd",
   "links":[
-
+    {
+      "url":"",
+      "title":""
+    }
   ],
   "bugs":[
     
