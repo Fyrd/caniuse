@@ -10,7 +10,11 @@
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=836897",
-      "title":"Firefox bug"
+      "title":"Firefox support bug"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=107250",
+      "title":"WebKit support bug"
     },
     {
       "url":"https://www.onlinemusictools.com/webmiditest/",
@@ -500,6 +504,6 @@
   "ie_id":"webmidiapi",
   "chrome_id":"4923613069180928",
   "firefox_id":"",
-  "webkit_id":"feature-web-midi",
+  "webkit_id":"specification-web-midi",
   "shown":true
 }
