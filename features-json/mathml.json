@@ -318,16 +318,16 @@
     },
     "opera":{
       "9":"n",
-      "9.5-9.6":"a",
-      "10.0-10.1":"a",
-      "10.5":"a",
-      "10.6":"a",
-      "11":"a",
-      "11.1":"a",
-      "11.5":"a",
-      "11.6":"a",
-      "12":"a",
-      "12.1":"a",
+      "9.5-9.6":"a #5",
+      "10.0-10.1":"a #5",
+      "10.5":"a #5",
+      "10.6":"a #5",
+      "11":"a #5",
+      "11.1":"a #5",
+      "11.5":"a #5",
+      "11.6":"a #5",
+      "12":"a #5",
+      "12.1":"a #5",
       "15":"p",
       "16":"p",
       "17":"p",
@@ -496,12 +496,13 @@
       "2.5":"y"
     }
   },
-  "notes":"Opera's support is limited to a CSS profile of MathML. Support was added in Chrome 24, but removed afterwards due to instability.",
+  "notes":"Support was added in Chrome 24, but temporarily removed afterwards due to instability.",
   "notes_by_num":{
     "1":"Before version 4, Firefox only supports the XHTML notation",
     "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test",
     "3":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
-    "4":"Browsers based on Chromium 106+ specifically support [MathML Core](https://www.w3.org/TR/mathml-core/). While there is significant support overlap with other MathML implementations there are some differences ([see details](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ))."
+    "4":"Browsers based on Chromium 106+ specifically support [MathML Core](https://www.w3.org/TR/mathml-core/). While there is significant support overlap with other MathML implementations there are some differences ([see details](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ)).",
+    "5":"Opera's support is limited to a CSS profile of MathML"
   },
   "usage_perc_y":21.95,
   "usage_perc_a":0.9,
