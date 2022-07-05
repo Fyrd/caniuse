@@ -1,8 +1,8 @@
 {
   "title":"LCH and Lab color values",
   "description":"The `lch()` and `lab()` color functions are based on the CIE LAB color space, representing colors in a way that closely matches human perception and provides access to a wider spectrum of colors than offered by the usual RGB color space.",
-  "spec":"https://drafts.csswg.org/css-color-4/#specifying-lab-lch",
-  "status":"wd",
+  "spec":"https://www.w3.org/TR/css-color-4/#specifying-lab-lch",
+  "status":"cr",
   "links":[
     {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=1026287",
