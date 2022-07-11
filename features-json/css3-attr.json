@@ -1,8 +1,8 @@
 {
   "title":"CSS3 attr() function for all properties",
-  "description":"While `attr()` is supported for effectively all browsers for the `content` property, CSS Values and Units Level 3 adds the ability to use `attr()` on **any** CSS property, and to use it for non-string values (e.g. numbers, colors).",
-  "spec":"https://www.w3.org/TR/css-values/#attr-notation",
-  "status":"cr",
+  "description":"While `attr()` is supported for effectively all browsers for the `content` property, CSS Values and Units Level 5 adds the ability to use `attr()` on  **any** CSS property, and to use it for non-string values (e.g. numbers, colors).",
+  "spec":"https://drafts.csswg.org/css-values-5/#attr-notation",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/attr",
@@ -492,7 +492,7 @@
       "2.5":"n"
     }
   },
-  "notes":"See the [generated content](/#feat=css-gencontent) table for support for `attr()` for the `content` property.",
+  "notes":"See the [generated content](/css-gencontent) table for support for `attr()` for the `content` property.",
   "notes_by_num":{
     
   },
