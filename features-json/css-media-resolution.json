@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"Microsoft Edge has a bug where `min-resolution` less than `1dpcm` [is ignored](https://jsfiddle.net/behmjd5t/)."
+      "description":"Microsoft Edge Legacy (v18 and below) has a bug where `min-resolution` less than `1dpcm` [is ignored](https://jsfiddle.net/behmjd5t/)."
     }
   ],
   "categories":[
@@ -312,7 +312,7 @@
       "15.2-15.3":"a x #3",
       "15.4":"a x #3",
       "15.5":"a x #3",
-      "16.0":"a x #3",
+      "16.0":"y",
       "TP":"y"
     },
     "opera":{
@@ -426,7 +426,7 @@
       "15.2-15.3":"a x #3",
       "15.4":"a x #3",
       "15.5":"a x #3",
-      "16.0":"a x #3"
+      "16.0":"y"
     },
     "op_mini":{
       "all":"a #1"
