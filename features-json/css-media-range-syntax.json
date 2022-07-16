@@ -1,8 +1,8 @@
 {
-  "title":"media-query-range-syntax",
-  "description":"The Media Queries Level 4 specification includes some syntax improvements to make media queries using features that have a 'range' type, for example width or height, less verbose. Level 4 adds a range context for writing such queries.",
-  "spec":"",
-  "status":"other",
+  "title":"Media Queries: Range Syntax",
+  "description":"The Media Queries Level 4 specification includes some syntax improvements to make media queries using features that have a 'range' type, for example width or height, less verbose. Can be used ordinary mathematical comparison operators: >, '<', >=, or '<='. For example: 1.Without this feature: @media (min-width: 100px) and (max-width: 1900px) 2.With this feature: @media (100px <= width <= 1900px)",
+  "spec":"https://www.w3.org/TR/mediaqueries-4/#mq-range-context",
+  "status":"cr",
   "links":[
     {
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries",
@@ -13,8 +13,20 @@
       "title": "Firefox support bug"
     },
     {
-      "url": "https://www.w3.org/TR/mediaqueries-4/#typedef-media-query-list",
-      "title": "Media Query List"
+      "url": "https://github.com/postcss/postcss-media-minmax",
+      "title": "PostCSS Polyfill"
+    },
+    {
+      "url": "https://bugs.webkit.org/show_bug.cgi?id=180234",
+      "title": "WebKit bug"
+    },
+    {
+      "url": "https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/",
+      "title": "Media Queries Level 4: Media Query Range Contexts (Media Query Ranges)"
+    },
+    {
+      "url": "https://developer.chrome.com/blog/media-query-range-syntax/",
+      "title": "New syntax for range media queries in Chrome 104"
     }
   ],
   "bugs":[
@@ -497,9 +509,9 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"@media,media queries,range,range syntax,range context",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5203042742829056",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
