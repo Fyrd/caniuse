@@ -19,6 +19,14 @@
     {
       "url":"https://dev.modern.ie/platform/changelog/10532-pc/",
       "title":"Microsoft Edge support announcement"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Games/Tools/asm.js",
+      "title":"MDN article about asm.js"
+    },
+    {
+      "url":"https://en.wikipedia.org/wiki/Asm.js",
+      "title":"Wikipedia article about asm.js"
     }
   ],
   "bugs":[
@@ -495,9 +503,9 @@
       "2.5":"y"
     }
   },
-  "notes":"",
+  "notes":"asm.js is [mostly rendered obsolete](https://en.wikipedia.org/wiki/Asm.js#Deprecation) with the introduction of [WebAssembly](/wasm) and is therefore [no longer recommended](https://developer.mozilla.org/en-US/docs/Games/Tools/asm.js)",
   "notes_by_num":{
-    "1":"Chrome does not support Ahead-Of-Time compilation but performance doubled in Chrome 28: https://en.wikipedia.org/wiki/Asm.js#Implementations",
+    "1":"Chromium does not support ahead-of-time compilation but performance doubled in Chrome 28: [https://en.wikipedia.org/wiki/Asm.js#Implementations](https://en.wikipedia.org/wiki/Asm.js#Implementations)",
     "2":"Supported in MS Edge under the \"Enable experimental JavaScript features\" flag."
   },
   "usage_perc_y":3.51,
@@ -506,8 +514,8 @@
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",
   "ie_id":"asmjs",
-  "chrome_id":"",
+  "chrome_id":"5053365658583040",
   "firefox_id":"asmjs",
-  "webkit_id":"specification-webassembly",
+  "webkit_id":"feature-asm.js",
   "shown":true
 }
