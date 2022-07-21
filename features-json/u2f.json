@@ -11,6 +11,22 @@
     {
       "url":"https://security.googleblog.com/2014/10/strengthening-2-step-verification-with.html",
       "title":"Google Security article"
+    },
+    {
+      "url":"https://chromestatus.com/feature/5759004926017536",
+      "title":"Chrome Status on U2F Security Key API removal (Cryptotoken Component Extension)"
+    },
+    {
+      "url":"https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/",
+      "title":"Yubico blog post about the decommission"
+    },
+    {
+      "url":"https://groups.google.com/a/chromium.org/g/blink-dev/c/xHC3AtU_65A/m/yg20tsVFBAAJ",
+      "title":"Chromium Intent to Deprecate and Remove: U2F API (Cryptotoken)"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1737205",
+      "title":"Mozilla Firefox bug to remove the U2F API"
     }
   ],
   "bugs":[
