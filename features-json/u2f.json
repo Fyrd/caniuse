@@ -11,6 +11,22 @@
     {
       "url":"https://security.googleblog.com/2014/10/strengthening-2-step-verification-with.html",
       "title":"Google Security article"
+    },
+    {
+      "url":"https://chromestatus.com/feature/5759004926017536",
+      "title":"Chrome platform status: U2F Security Key API removal (Cryptotoken Component Extension)"
+    },
+    {
+      "url":"https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/",
+      "title":"Yubico blog post about the decommission"
+    },
+    {
+      "url":"https://groups.google.com/a/chromium.org/g/blink-dev/c/xHC3AtU_65A/m/yg20tsVFBAAJ",
+      "title":"Chromium Intent to Deprecate and Remove: U2F API (Cryptotoken)"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1737205",
+      "title":"Mozilla Firefox bug to remove the U2F API"
     }
   ],
   "bugs":[
@@ -264,15 +280,15 @@
       "95":"y #3",
       "96":"y #3",
       "97":"y #3",
-      "98":"y #3",
-      "99":"y #3",
-      "100":"y #3",
-      "101":"y #3",
-      "102":"y #3",
-      "103":"y #3",
-      "104":"y #3",
-      "105":"y #3",
-      "106":"y #3"
+      "98":"n d #3",
+      "99":"n d #3",
+      "100":"n d #3",
+      "101":"n d #3",
+      "102":"n d #3",
+      "103":"n d #3",
+      "104":"n d #3",
+      "105":"n d #3",
+      "106":"n"
     },
     "safari":{
       "3.1":"n",
@@ -489,7 +505,7 @@
       "2.5":"n d #2"
     }
   },
-  "notes":"",
+  "notes":"The U2F API is [being decommissioned](https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/) (only the API, not the U2F protocol) and superseded by [WebAuthn](/webauthn).",
   "notes_by_num":{
     "1":"Requires the \"FIDO U2F (Universal 2nd Factor)\" Chrome extension",
     "2":"Support can be enabled with the \"security.webauth.u2f\" flag",
