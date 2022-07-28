@@ -169,9 +169,10 @@
       "99":"a #4 #5 #6",
       "100":"a #4 #6",
       "101":"a #4 #6",
-      "102":"a #4 #6",
-      "103":"a #4 #6",
-      "104":"a #4 #6"
+      "102":"y",
+      "103":"y",
+      "104":"y",
+      "105":"y"
     },
     "chrome":{
       "4":"n",
@@ -501,8 +502,8 @@
     "5":"No support for `WritableStream`.",
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
-  "usage_perc_y":71.98,
-  "usage_perc_a":23.44,
+  "usage_perc_y":72.07,
+  "usage_perc_a":23.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",
