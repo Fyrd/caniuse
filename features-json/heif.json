@@ -7,6 +7,14 @@
     {
       "url":"https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format",
       "title":"Wikipedia article"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=HEIF",
+      "title":"Firefox support bug"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=230035",
+      "title":"WebKit support bug"
     }
   ],
   "bugs":[
@@ -487,7 +495,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"While supported natively in macOS High Sierra and iOS 11, the file format does not appear to be supported in Safari."
+    "1":"While supported natively since macOS 10.13 High Sierra and iOS 11, the file format does not appear to be supported in Safari."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
