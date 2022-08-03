@@ -21,12 +21,28 @@
       "title":"Mozilla bug #1312422: Consider experimental support for Web Share API"
     },
     {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1653481",
+      "title":"Firefox support bug"
+    },
+    {
       "url":"https://love2dev.com/blog/webshare-api/",
       "title":"How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
     },
     {
       "url":"https://web.dev/web-share/",
       "title":"Web.dev - Share like a native app with the Web Share API"
+    },
+    {
+      "url":"https://w3c.github.io/web-share/demos/share.html",
+      "title":"W3C Demo"
+    },
+    {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=1144920",
+      "title":"Chromium support bug for macOS"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API",
+      "title":"Web Share API on MDN"
     }
   ],
   "bugs":[
@@ -68,15 +84,15 @@
       "92":"a #3",
       "93":"a #3",
       "94":"a #3",
-      "95":"a #3",
-      "96":"a #3",
-      "97":"a #3",
-      "98":"a #3",
-      "99":"a #3",
-      "100":"a #3",
-      "101":"a #3",
-      "102":"a #3",
-      "103":"a #3"
+      "95":"y",
+      "96":"y",
+      "97":"y",
+      "98":"y",
+      "99":"y",
+      "100":"y",
+      "101":"y",
+      "102":"y",
+      "103":"y"
     },
     "firefox":{
       "2":"n",
@@ -508,10 +524,10 @@
   "notes":"",
   "notes_by_num":{
     "1":"Implemented old [Web Intents](https://dvcs.w3.org/hg/web-intents/raw-file/tip/spec/Overview-respec.html)",
-    "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead.",
+    "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead",
     "3":"Only supported on Windows",
     "4":"Only supported on Windows and Chrome OS",
-    "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)."
+    "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)"
   },
   "usage_perc_y":63.14,
   "usage_perc_a":26.2,
