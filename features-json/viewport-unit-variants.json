@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari 15.6 on macOS has an issue where `dvh` is larger than expected ([242758](https://bugs.webkit.org/show_bug.cgi?id=242758))."
+    }
   ],
   "categories":[
     "CSS"
