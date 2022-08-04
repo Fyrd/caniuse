@@ -280,7 +280,8 @@
       "103":"y",
       "104":"y",
       "105":"y",
-      "106":"y"
+      "106":"y",
+      "107":"y"
     },
     "safari":{
       "3.1":"u",
@@ -505,8 +506,8 @@
     "4":"Existing properties of the returned object are immutable.",
     "5":"The returned object lacks `x` & `y` values, though existing `top` & `left` values can be used instead."
   },
-  "usage_perc_y":99.48,
-  "usage_perc_a":0.14,
+  "usage_perc_y":99.68,
+  "usage_perc_a":0.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"getBoundingClientRect,bounding,client,rect,DOMRect,box,cssom",

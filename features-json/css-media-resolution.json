@@ -295,7 +295,8 @@
       "103":"y",
       "104":"y",
       "105":"y",
-      "106":"y"
+      "106":"y",
+      "107":"y"
     },
     "safari":{
       "3.1":"n",
@@ -519,8 +520,8 @@
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`.",
     "4":"Does not support `x` unit (alias for `dppx` unit), e.g: `@media (min-resolution: 2x) { }`."
   },
-  "usage_perc_y":77.87,
-  "usage_perc_a":21.71,
+  "usage_perc_y":77.72,
+  "usage_perc_a":22.06,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,device-pixel-ratio,resolution,dppx,dpcm,dpi",

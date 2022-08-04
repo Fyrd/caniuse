@@ -278,7 +278,8 @@
       "103":"y",
       "104":"y",
       "105":"y",
-      "106":"y"
+      "106":"y",
+      "107":"y"
     },
     "safari":{
       "3.1":"n",
@@ -500,8 +501,8 @@
     "1":"Partial support refers to incorrect support for `-webkit-text-emphasis-position`. These browsers support `over` and `under` as values, but not the added `left` and `right` values required by the spec.",
     "2":"Can be enabled in Firefox using the `layout.css.text-emphasis.enabled` flag"
   },
-  "usage_perc_y":90.12,
-  "usage_perc_a":7.26,
+  "usage_perc_y":90.2,
+  "usage_perc_a":7.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-emphasis,text-emphasis-position,text-emphasis-style,text-emphasis-color",

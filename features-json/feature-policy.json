@@ -290,7 +290,8 @@
       "103":"y #4",
       "104":"y #4",
       "105":"y #4",
-      "106":"y #4"
+      "106":"y #4",
+      "107":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -514,8 +515,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"At least partially supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":73.67,
-  "usage_perc_a":21.33,
+  "usage_perc_y":73.07,
+  "usage_perc_a":21.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",

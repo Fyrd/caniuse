@@ -274,7 +274,8 @@
       "103":"y",
       "104":"y",
       "105":"y",
-      "106":"y"
+      "106":"y",
+      "107":"y"
     },
     "safari":{
       "3.1":"n",
@@ -495,8 +496,8 @@
   "notes_by_num":{
     "1":"Throws an \"Invalid target element for this operation.\" error [when called on a table, tbody, thead, or tr element.](https://johnresig.com/blog/dom-insertadjacenthtml/)"
   },
-  "usage_perc_y":99.47,
-  "usage_perc_a":0.07,
+  "usage_perc_y":99.65,
+  "usage_perc_a":0.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"element,insert,adjacent,HTML",

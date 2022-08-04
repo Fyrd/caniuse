@@ -21,16 +21,16 @@
       "title":"Mozilla bug #1312422: Consider experimental support for Web Share API"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1653481",
-      "title":"Firefox support bug"
-    },
-    {
       "url":"https://love2dev.com/blog/webshare-api/",
       "title":"How to Use the Web Share API to Trigger the Native Dialog to Share Content & Pull Quotes"
     },
     {
       "url":"https://web.dev/web-share/",
       "title":"Web.dev - Share like a native app with the Web Share API"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1653481",
+      "title":"Firefox support bug"
     },
     {
       "url":"https://w3c.github.io/web-share/demos/share.html",
@@ -304,7 +304,8 @@
       "103":"a #4",
       "104":"a #4",
       "105":"a #4",
-      "106":"a #4"
+      "106":"a #4",
+      "107":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -529,8 +530,8 @@
     "4":"Only supported on Windows and Chrome OS",
     "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)"
   },
-  "usage_perc_y":63.14,
-  "usage_perc_a":26.2,
+  "usage_perc_y":67.99,
+  "usage_perc_a":21.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",

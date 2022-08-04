@@ -276,7 +276,8 @@
       "103":"y",
       "104":"y",
       "105":"y",
-      "106":"y"
+      "106":"y",
+      "107":"y"
     },
     "safari":{
       "3.1":"n",
@@ -499,8 +500,8 @@
     "2":"Partial support in Safari and Older Firefox versions refers to not using premultiplied colors which results in unexpected behavior when using the transparent keyword as advised by the [spec](https://www.w3.org/TR/2012/CR-css3-images-20120417/#color-stop-syntax).",
     "3":"Implements an earlier prefixed syntax as `-webkit-gradient`"
   },
-  "usage_perc_y":92.97,
-  "usage_perc_a":5.58,
+  "usage_perc_y":93.6,
+  "usage_perc_a":5.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"linear,linear-gradient,gradiant",

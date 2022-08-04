@@ -272,7 +272,8 @@
       "103":"y",
       "104":"y",
       "105":"y",
-      "106":"y"
+      "106":"y",
+      "107":"y"
     },
     "safari":{
       "3.1":"n",
@@ -494,7 +495,7 @@
     "1":"Partial support refers to not displaying a message for invalid patterns",
     "2":"Safari browsers support the `pattern` attribute but will still allow forms to be submitted if the pattern is incorrect. See the [form validation data](https://caniuse.com/#feat=form-validation) for details."
   },
-  "usage_perc_y":98.22,
+  "usage_perc_y":98.36,
   "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"form-validation",

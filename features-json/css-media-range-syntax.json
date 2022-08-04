@@ -1,39 +1,39 @@
 {
   "title":"Media Queries: Range Syntax",
-  "description":"The Media Queries Level 4 specification includes some syntax improvements to make media queries using features that have a 'range' type, for example width or height, less verbose. Can be used ordinary mathematical comparison operators: >, '<', >=, or '<='. For example: 1.Without this feature: @media (min-width: 100px) and (max-width: 1900px) 2.With this feature: @media (100px <= width <= 1900px)",
+  "description":"Syntax improvements to make media queries using features that have a \"range\" type (like width or height) less verbose. Can be used with ordinary mathematical comparison operators: `>`, `<`, `>=`, or `<=`.\r\n\r\nFor example: `@media (100px <= width <= 1900px)` is the equivalent of `@media (min-width: 100px) and (max-width: 1900px`)`",
   "spec":"https://www.w3.org/TR/mediaqueries-4/#mq-range-context",
   "status":"cr",
   "links":[
     {
-      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries",
-      "title": "Syntax improvements in Level 4" 
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries",
+      "title":"Syntax improvements in Level 4"
     },
     {
-      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1422225#c55",
-      "title": "Firefox support bug"
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1422225#c55",
+      "title":"Firefox support bug"
     },
     {
-      "url": "https://github.com/postcss/postcss-media-minmax",
-      "title": "PostCSS Polyfill"
+      "url":"https://github.com/postcss/postcss-media-minmax",
+      "title":"PostCSS Polyfill"
     },
     {
-      "url": "https://bugs.webkit.org/show_bug.cgi?id=180234",
-      "title": "WebKit bug"
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=180234",
+      "title":"WebKit bug"
     },
     {
-      "url": "https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/",
-      "title": "Media Queries Level 4: Media Query Range Contexts (Media Query Ranges)"
+      "url":"https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/",
+      "title":"Media Queries Level 4: Media Query Range Contexts (Media Query Ranges)"
     },
     {
-      "url": "https://developer.chrome.com/blog/media-query-range-syntax/",
-      "title": "New syntax for range media queries in Chrome 104"
+      "url":"https://developer.chrome.com/blog/media-query-range-syntax/",
+      "title":"New syntax for range media queries in Chrome 104"
     }
   ],
   "bugs":[
     
   ],
   "categories":[
-    "Other"
+    "CSS"
   ],
   "stats":{
     "ie":{
@@ -288,7 +288,8 @@
       "103":"n",
       "104":"y",
       "105":"y",
-      "106":"y"
+      "106":"y",
+      "107":"y"
     },
     "safari":{
       "3.1":"n",
@@ -454,8 +455,8 @@
       "103":"n"
     },
     "bb":{
-      "7":"u",
-      "10":"u"
+      "7":"n",
+      "10":"n"
     },
     "op_mob":{
       "10":"n",
@@ -473,8 +474,8 @@
       "101":"y"
     },
     "ie_mob":{
-      "10":"u",
-      "11":"u"
+      "10":"n",
+      "11":"n"
     },
     "and_uc":{
       "12.12":"n"
@@ -507,9 +508,9 @@
   },
   "notes":"",
   "notes_by_num":{
- 
+    
   },
-  "usage_perc_y":68.85,
+  "usage_perc_y":3.13,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"css-mediaqueries",
