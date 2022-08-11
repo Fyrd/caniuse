@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"In Firefox, captions are not visible for audio-only files in the `video` tag ([see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=992664))."
+      "description":"In Firefox 49 and below, captions are not visible for audio-only files in the `video` tag ([see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=992664))."
     },
     {
       "description":"Firefox 46 and below do not support the `textTrack.onCueChange()` event ([see details](https://stackoverflow.com/questions/28144668/html5-audio-texttrack-kind-subtitles-cuechange-event-not-working-in-firefox))."
@@ -500,7 +500,7 @@
       "2.5":"y #1"
     }
   },
-  "notes":"WebVTT must be used with the <track> element.",
+  "notes":"WebVTT must be used with the [<track> element](/mdn-html_elements_track).",
   "notes_by_num":{
     "1":"Firefox 31 - 54 lacks support for the `::cue` pseudo-element. [See bug #865395.](https://bugzilla.mozilla.org/show_bug.cgi?id=865395)",
     "2":"Firefox 55+ implements `::cue` but still lacks support for the `::cue(<selector>)` pseudo-element with selector. [See bug #1321489.](https://bugzilla.mozilla.org/show_bug.cgi?id=1321489)"
