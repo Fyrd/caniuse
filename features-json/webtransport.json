@@ -1,6 +1,6 @@
 {
   "title":"WebTransport",
-  "description":"Protocol framework to and receive data from servers using [HTTP3](/http3). Similar to [WebSockets](/websockets) but with support for multiple streams, unidirectional streams, out-of-order delivery, and reliable as well as unreliable transport.",
+  "description":"Protocol framework to send and receive data from servers using [HTTP3](/http3). Similar to [WebSockets](/websockets) but with support for multiple streams, unidirectional streams, out-of-order delivery, and reliable as well as unreliable transport.",
   "spec":"https://w3c.github.io/webtransport/",
   "status":"wd",
   "links":[
