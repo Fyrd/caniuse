@@ -5,20 +5,16 @@
   "status":"ls",
   "links":[
     {
-      "url":"http://updates.html5rocks.com/2011/08/Downloading-resources-in-HTML5-a-download",
+      "url":"https://updates.html5rocks.com/2011/08/Downloading-resources-in-HTML5-a-download",
       "title":"HTML5Rocks post"
-    },
-    {
-      "url":"http://html5-demos.appspot.com/static/a.download.html",
-      "title":"Demo: creating a text file and downloading it."
-    },
-    {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=102914",
-      "title":"WebKit feature request bug"
     },
     {
       "url":"https://github.com/jelmerdemaat/dwnld-attr-polyfill",
       "title":"IE11 polyfill"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-download",
+      "title":"Download attribute on MDN"
     }
   ],
   "bugs":[

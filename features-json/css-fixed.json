@@ -5,16 +5,12 @@
   "status":"rec",
   "links":[
     {
-      "url":"http://www.css-101.org/fixed-positioning/05.php",
-      "title":"Workaround for IE6"
-    },
-    {
-      "url":"http://bradfrostweb.com/blog/mobile/fixed-position/",
+      "url":"https://bradfrost.com/blog/post/fixed-position/",
       "title":"Article on mobile support"
     },
     {
-      "url":"https://webplatform.github.io/docs/css/properties/position",
-      "title":"WebPlatform Docs"
+      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/position#fixed",
+      "title":"position: fixed on MDN"
     }
   ],
   "bugs":[
