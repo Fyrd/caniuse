@@ -175,9 +175,9 @@
       "100":"n",
       "101":"n",
       "102":"n",
-      "103":"n",
-      "104":"n",
-      "105":"n"
+      "103":"n d #2",
+      "104":"n d #2",
+      "105":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -502,7 +502,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
+    "1":"Can be enabled via the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
+    "2":"Supported in Firefox behind the `layout.css.has-selector.enabled` flag"
   },
   "usage_perc_y":13.63,
   "usage_perc_a":0,
