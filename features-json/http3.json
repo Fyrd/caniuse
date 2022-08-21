@@ -1,7 +1,7 @@
 {
   "title":"HTTP/3 protocol",
-  "description":"Upcoming version of the HTTP networking protocol, which is currently a draft. Previously known as HTTP-over-QUIC. Uses QUIC as its transport layer protocol.",
-  "spec":"https://tools.ietf.org/html/draft-ietf-quic-http-29",
+  "description":"Third version of the HTTP networking protocol which uses QUIC as transport protocol. Previously known as HTTP-over-QUIC, now standardized as HTTP/3.",
+  "spec":"https://datatracker.ietf.org/doc/rfc9114/",
   "status":"other",
   "links":[
     {
