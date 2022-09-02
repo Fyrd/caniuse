@@ -69,7 +69,8 @@
       "101":"a #1 #2",
       "102":"a #1 #2",
       "103":"a #1 #2",
-      "104":"a #1 #2"
+      "104":"a #1 #2",
+      "105":"a #1 #2"
     },
     "firefox":{
       "2":"a #1",
@@ -508,8 +509,8 @@
     "1":"Partial support refers to supporting a `<length>` value, but not the `each-line` or `hanging` keywords.",
     "2":"Support for `each-line` & `hanging` is available behind the Experimental Web Platform features flag"
   },
-  "usage_perc_y":0.08,
-  "usage_perc_a":99.77,
+  "usage_perc_y":0.12,
+  "usage_perc_a":99.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"each-line,hanging",

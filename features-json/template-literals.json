@@ -61,7 +61,8 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y"
     },
     "firefox":{
       "2":"n",
@@ -499,7 +500,7 @@
   "notes_by_num":{
     "1":"Safari 12 [sometimes garbage collects](https://bugs.webkit.org/show_bug.cgi?id=190756) the cached TemplateStrings used by Tagged Template Literals"
   },
-  "usage_perc_y":97.12,
+  "usage_perc_y":97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es6",

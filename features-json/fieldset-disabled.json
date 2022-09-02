@@ -58,7 +58,8 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y"
     },
     "firefox":{
       "2":"n",
@@ -497,8 +498,8 @@
     "1":"Text inputs that are descendants of a disabled fieldset appear disabled but the user can still interact with them. [See IE bug #962368.](https://web.archive.org/web/20170306075528/https://connect.microsoft.com/IE/feedbackdetail/view/962368/can-still-edit-input-type-text-within-fieldset-disabled)",
     "2":"File inputs that are descendants of a disabled fieldset appear disabled but the user can still interact with them. [See IE bug #817488.](https://web.archive.org/web/20170306075531/https://connect.microsoft.com/IE/feedbackdetail/view/817488)"
   },
-  "usage_perc_y":97.99,
-  "usage_perc_a":1.55,
+  "usage_perc_y":97.86,
+  "usage_perc_a":1.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"HTMLFieldSetElement,fieldset,disabled",

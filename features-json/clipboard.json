@@ -63,7 +63,8 @@
       "101":"a #7",
       "102":"a #7",
       "103":"a #7",
-      "104":"a #7"
+      "104":"a #7",
+      "105":"a #7"
     },
     "firefox":{
       "2":"n",
@@ -507,8 +508,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":18.06,
-  "usage_perc_a":79.38,
+  "usage_perc_y":18.03,
+  "usage_perc_a":79.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

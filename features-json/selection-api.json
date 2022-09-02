@@ -57,7 +57,8 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -499,8 +500,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":82.91,
-  "usage_perc_a":15.82,
+  "usage_perc_y":83.02,
+  "usage_perc_a":15.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

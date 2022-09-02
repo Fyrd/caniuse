@@ -62,7 +62,8 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y"
     },
     "firefox":{
       "2":"a #2",
@@ -503,8 +504,8 @@
     "3":"Only recognizes the deprecated :first-letter pseudo-class, not the ::first-letter pseudo-element.",
     "4":"Only matches the very first character. The spec says that surrounding punctuation should also match."
   },
-  "usage_perc_y":99.69,
-  "usage_perc_a":0.1,
+  "usage_perc_y":99.74,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"first,letter,pseudo,element,class,selector",

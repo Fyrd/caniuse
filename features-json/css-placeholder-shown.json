@@ -61,7 +61,8 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y"
     },
     "firefox":{
       "2":"n",
@@ -500,8 +501,8 @@
     "1":"Partial support in Firefox refers to using the non-standard `:-moz-placeholder` name rather than `:placeholder-shown`.",
     "2":"Partial support in IE refers to using the non-standard `:-ms-input-placeholder` name rather than `:placeholder-shown`."
   },
-  "usage_perc_y":96.6,
-  "usage_perc_a":0.89,
+  "usage_perc_y":96.59,
+  "usage_perc_a":0.8,
   "ucprefix":false,
   "parent":"",
   "keywords":":placeholder-shown,placeholder-shown,placeholder",

@@ -66,7 +66,8 @@
       "101":"a #1 #2 #3",
       "102":"a #1 #2 #3",
       "103":"a #1 #2 #3",
-      "104":"a #1 #2 #3"
+      "104":"a #1 #2 #3",
+      "105":"a #1 #2 #3"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -506,8 +507,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":1.01,
-  "usage_perc_a":98.82,
+  "usage_perc_y":1.12,
+  "usage_perc_a":98.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",
