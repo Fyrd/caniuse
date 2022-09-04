@@ -1,24 +1,12 @@
 {
   "title":"Custom Elements (deprecated V0 spec)",
   "description":"Original V0 version of the custom elements specification. See [Custom Elements V1](#feat=custom-elementsv1) for support for the latest version. ",
-  "spec":"https://www.w3.org/TR/custom-elements/",
+  "spec":"https://www.w3.org/TR/2016/WD-custom-elements-20160226/",
   "status":"unoff",
   "links":[
     {
-      "url":"https://www.polymer-project.org/platform/custom-elements.html",
-      "title":"Polymer project (polyfill & web components framework)"
-    },
-    {
-      "url":"https://www.html5rocks.com/tutorials/webcomponents/customelements/",
-      "title":"HTML5Rocks - Custom Elements: defining new elements in HTML"
-    },
-    {
-      "url":"https://github.com/WebReflection/document-register-element",
-      "title":"document.registerElement polyfill in 3KB minified & gzipped"
-    },
-    {
-      "url":"https://developers.google.com/web/fundamentals/primers/customelements/",
-      "title":"Google Developers - Custom elements v1: reusable web components"
+      "url":"https://developer.chrome.com/blog/web-components-time-to-upgrade/",
+      "title":"Blog post on upgrading from V0 to V1"
     }
   ],
   "bugs":[
