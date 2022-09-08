@@ -453,7 +453,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "104":"y"
+      "105":"y"
     },
     "bb":{
       "7":"n",
@@ -469,10 +469,10 @@
       "64":"y"
     },
     "and_chr":{
-      "104":"a #5"
+      "105":"a #5"
     },
     "and_ff":{
-      "101":"y"
+      "104":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -516,8 +516,8 @@
     "4":"Partial support refers to not supporting the `text-decoration-skip` property.",
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
-  "usage_perc_y":0.33,
-  "usage_perc_a":96.23,
+  "usage_perc_y":0.01,
+  "usage_perc_a":96.55,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",
