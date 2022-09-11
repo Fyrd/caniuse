@@ -1,7 +1,7 @@
 {
   "title":"ImageCapture API",
   "description":"The Image Capture API provides access to the Video Camera for taking photos while configuring picture-specific settings such as e.g. zoom or auto focus metering area.",
-  "spec":"https://w3c.github.io/mediacapture-image/",
+  "spec":"https://w3c.github.io/mediacapture-image/#imagecaptureapi",
   "status":"wd",
   "links":[
     {
@@ -446,7 +446,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"n"
+      "105":"y"
     },
     "bb":{
       "7":"n",
@@ -459,7 +459,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "64":"n"
+      "64":"y"
     },
     "and_chr":{
       "105":"y"
@@ -472,7 +472,7 @@
       "11":"n"
     },
     "and_uc":{
-      "12.12":"n"
+      "12.12":"y"
     },
     "samsung":{
       "4":"n",
@@ -506,7 +506,7 @@
     "1":"Can be enabled via the about:config entry dom.imagecapture.enabled.",
     "2":"Can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":73.98,
+  "usage_perc_y":74.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"stream",
@@ -515,5 +515,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
