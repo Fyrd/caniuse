@@ -434,7 +434,7 @@
       "15.4":"n",
       "15.5":"n",
       "15.6":"n",
-      "16.0":"n"
+      "16.0":"a #2 #4 #5"
     },
     "op_mini":{
       "all":"n"
@@ -510,6 +510,7 @@
     "2":"Only supports still images. AVIF sequences are not supported!",
     "3":"Only available on macOS 13 Ventura or later",
     "4":"Does not support images with noise synthesis."
+    "5":"Only supported on iOS, not iPadOS"
   },
   "usage_perc_y":71.42,
   "usage_perc_a":0.01,
