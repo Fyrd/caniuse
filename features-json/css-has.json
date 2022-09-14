@@ -1,12 +1,16 @@
 {
   "title":":has() CSS relational pseudo-class",
-  "description":"Only select elements containing specified content. For example, `a:has(>img)` selects all `<a>` elements that contain an `<img>` child.",
+  "description":"Select elements containing specific content. For example, `a:has(img)` selects all `<a>` elements that contain an `<img>` child.",
   "spec":"https://drafts.csswg.org/selectors-4/#relational",
   "status":"wd",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/:has",
       "title":"MDN Web Docs - :has"
+    },
+    {
+      "url":"https://webkit.org/blog/13096/css-has-pseudo-class/",
+      "title":"Using :has() as a CSS Parent Selector and much more"
     },
     {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=418039",
