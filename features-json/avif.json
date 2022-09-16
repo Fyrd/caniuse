@@ -510,10 +510,11 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox via the `image.avif.enabled` pref in `about:config`.",
     "2":"Supports still images. Animated image sequences are not supported.",
-    "3":"Only available on macOS 13 Ventura or later."
+    "3":"Only available on macOS 13 Ventura or later.",
+    "4":"Does not support images with noise synthesis."
   },
   "usage_perc_y":71.42,
-  "usage_perc_a":0.01,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
