@@ -1,8 +1,8 @@
 {
   "title":":optional CSS pseudo-class",
   "description":"The `:optional` pseudo-class matches form inputs (`<input>`, `<textarea>`, `<select>`) which are not `:required`.",
-  "spec":"https://drafts.csswg.org/selectors-4/#optional-pseudo",
-  "status":"unoff",
+  "spec":"https://www.w3.org/TR/selectors-4/#optional-pseudo",
+  "status":"wd",
   "links":[
     {
       "url":"https://html.spec.whatwg.org/multipage/scripting.html#selector-optional",

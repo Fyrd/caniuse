@@ -1,8 +1,8 @@
 {
   "title":":default CSS pseudo-class",
   "description":"The `:default` pseudo-class matches checkboxes and radio buttons which are checked by default, `<option>`s with the `selected` attribute, and the default submit button (if any) of a form.",
-  "spec":"https://drafts.csswg.org/selectors-4/#the-default-pseudo",
-  "status":"unoff",
+  "spec":"https://w3c.github.io/csswg-drafts/selectors-4/#the-default-pseudo",
+  "status":"wd",
   "links":[
     {
       "url":"https://html.spec.whatwg.org/multipage/scripting.html#selector-default",

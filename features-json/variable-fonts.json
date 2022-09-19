@@ -1,7 +1,7 @@
 {
   "title":"Variable fonts",
   "description":"OpenType font settings that allows a single font file to behave like multiple fonts: it can contain all the allowed variations in width, weight, slant, optical size, or any other exposed axes of variation as defined by the font designer. Variations can be applied via the `font-variation-settings` property.",
-  "spec":"https://drafts.csswg.org/css-fonts-4/#font-variation-settings-def",
+  "spec":"https://w3c.github.io/csswg-drafts/css-fonts-4/#font-variation-settings-def",
   "status":"wd",
   "links":[
     {

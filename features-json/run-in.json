@@ -1,7 +1,7 @@
 {
   "title":"display: run-in",
   "description":"If the run-in box contains a block box, same as block. If a block box follows the run-in box, the run-in box becomes the first inline box of the block box. If an inline box follows, the run-in box becomes a block box.",
-  "spec":"https://drafts.csswg.org/css-display/#valdef-display-run-in",
+  "spec":"https://w3c.github.io/csswg-drafts/css-display/#valdef-display-run-in",
   "status":"wd",
   "links":[
     {
