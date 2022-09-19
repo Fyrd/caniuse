@@ -1,8 +1,8 @@
 {
   "title":"Do Not Track API",
-  "description":"Allows the browser's Do Not Track setting to be queried via `navigator.doNotTrack`.",
+  "description":"API to allow the browser's Do Not Track setting to be queried via `navigator.doNotTrack`. Due to lack of adoption the Do Not Track specification was deprecated in 2018.",
   "spec":"https://www.w3.org/TR/tracking-dnt/",
-  "status":"cr",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Navigator/doNotTrack",

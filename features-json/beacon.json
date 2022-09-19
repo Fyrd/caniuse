@@ -2,7 +2,7 @@
   "title":"Beacon API",
   "description":"Allows data to be sent asynchronously to a server with `navigator.sendBeacon`, even after a page was closed. Useful for posting analytics data the moment a user was finished using the page.",
   "spec":"https://www.w3.org/TR/beacon/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon",

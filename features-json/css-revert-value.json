@@ -2,7 +2,7 @@
   "title":"CSS revert value",
   "description":"A CSS keyword value that resets a property's value to the default specified by the browser in its UA stylesheet, as if the webpage had not included any CSS. For example, `display:revert` on a `<div>` would result in `display:block`. This is in contrast to the `initial` value, which is simply defined on a per-property basis, and for `display` would be `inline`.",
   "spec":"https://www.w3.org/TR/css-cascade-4/#valdef-all-revert",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/revert",

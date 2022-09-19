@@ -2,7 +2,7 @@
   "title":"CSS display: contents",
   "description":"`display: contents` causes an element's children to appear as if they were direct children of the element's parent, ignoring the element itself. This can be useful when a wrapper element should be ignored when using CSS grid or similar layout techniques.",
   "spec":"https://w3c.github.io/csswg-drafts/css-display/",
-  "status":"wd",
+  "status":"cr",
   "links":[
     {
       "url":"https://rachelandrew.co.uk/archives/2016/01/29/vanishing-boxes-with-display-contents/",
