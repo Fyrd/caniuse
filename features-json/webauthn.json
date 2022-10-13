@@ -66,7 +66,8 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y"
     },
     "firefox":{
       "2":"n",
@@ -450,7 +451,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "106":"y"
     },
     "bb":{
       "7":"n",
@@ -466,10 +467,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "106":"y"
     },
     "and_ff":{
-      "104":"a #4 #6"
+      "105":"a #4 #6"
     },
     "ie_mob":{
       "10":"n",
@@ -511,8 +512,8 @@
     "2":"Can be enabled using the Develop > Experimental Features menu. Currently supports USB-based CTAP & CTAP2 HID devices.",
     "3":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu.",
     "4":"Partial support refers to FIDO2 devices not working in all operating systems if a PIN is set.",
-    "5":"Experimental feature not yet enabled in WKWebView-based browsers including Chrome for iOS."
-    "6":"Partial support refers to TouchID not being supported.",
+    "5":"Experimental feature not yet enabled in WKWebView-based browsers including Chrome for iOS.",
+    "6":"Partial support refers to TouchID not being supported."
   },
   "usage_perc_y":94.25,
   "usage_perc_a":0.62,

@@ -66,7 +66,8 @@
       "102":"a #4",
       "103":"a #4",
       "104":"a #4",
-      "105":"a #4"
+      "105":"a #4",
+      "106":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -279,8 +280,8 @@
       "102":"n",
       "103":"n",
       "104":"n",
-      "105":"a #5",
-      "106":"a #5",
+      "105":"n",
+      "106":"n",
       "107":"a #5",
       "108":"a #5",
       "109":"a #5"
@@ -450,7 +451,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"n #2"
+      "106":"n #2"
     },
     "bb":{
       "7":"n",
@@ -466,10 +467,10 @@
       "64":"n #2"
     },
     "and_chr":{
-      "105":"a #2"
+      "106":"n #2"
     },
     "and_ff":{
-      "104":"n"
+      "105":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -510,11 +511,11 @@
     "1":"Supported only for devices with [hardware support](https://answers.microsoft.com/en-us/insider/forum/insider_apps-insider_wmp/windows-10-hevc-playback-yes-or-no/3c1ab780-a6b2-4b77-ac0f-9faeefd4680d)",
     "2":"Reported to work in certain Android devices with hardware support",
     "3":"Supported only on macOS High Sierra or later",
-    "4":"Supported only for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548)",
-    "5":"Supported on chrome platforms with [hardware support](https://bugs.chromium.org/p/chromium/issues/detail?id=460703)"
+    "4":"Supported only on Windows(>= Windows 10 1709) and only when [HEVC video extensions from the Microsoft Store](https://apps.microsoft.com/store/detail/hevc-video-extension/9NMZLZ57R3T7) is installed for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548)",
+    "5":"Supported on Windows(>= Windows 8), macOS(>= Big Sur 11.0), Android, and Chrome OS platforms with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding)"
   },
   "usage_perc_y":18.02,
-  "usage_perc_a":63.02,
+  "usage_perc_a":4.89,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",
