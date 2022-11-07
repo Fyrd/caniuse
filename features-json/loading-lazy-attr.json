@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari 16.1 and below displays a gray border while lazy loading images ([243601](https://bugs.webkit.org/show_bug.cgi?id=243601))"
+    }
   ],
   "categories":[
     "HTML5"
