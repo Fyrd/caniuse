@@ -74,7 +74,9 @@
       "102":"p d #3",
       "103":"p d #3",
       "104":"p d #3",
-      "105":"p d #3"
+      "105":"p d #3",
+      "106":"p d #3",
+      "107":"p d #3"
     },
     "firefox":{
       "2":"y #1",
@@ -184,7 +186,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"p",
@@ -291,7 +294,8 @@
       "106":"p d #3",
       "107":"p d #3",
       "108":"p d #3",
-      "109":"p d #3"
+      "109":"p d #3",
+      "110":"p d #3"
     },
     "safari":{
       "3.1":"a #2",
@@ -324,6 +328,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -458,7 +463,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "105":"p"
+      "107":"p"
     },
     "bb":{
       "7":"p",
@@ -474,10 +479,10 @@
       "64":"p"
     },
     "and_chr":{
-      "105":"p"
+      "107":"p"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -521,7 +526,7 @@
     "4":"Browsers based on Chromium 108+ specifically support [MathML Core](https://www.w3.org/TR/mathml-core/). While there is significant support overlap with other MathML implementations there are some differences ([see details](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ)).",
     "5":"Opera's support is limited to a CSS profile of MathML"
   },
-  "usage_perc_y":21.87,
+  "usage_perc_y":22.12,
   "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",

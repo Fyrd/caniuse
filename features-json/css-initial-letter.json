@@ -72,7 +72,9 @@
       "102":"n",
       "103":"n",
       "104":"n",
-      "105":"n"
+      "105":"n",
+      "106":"n",
+      "107":"n"
     },
     "firefox":{
       "2":"n",
@@ -182,7 +184,8 @@
       "104":"n",
       "105":"n",
       "106":"n",
-      "107":"n"
+      "107":"n",
+      "108":"n"
     },
     "chrome":{
       "4":"n",
@@ -289,7 +292,8 @@
       "106":"n",
       "107":"n",
       "108":"n",
-      "109":"n"
+      "109":"n",
+      "110":"n"
     },
     "safari":{
       "3.1":"n",
@@ -322,6 +326,7 @@
       "15.6":"a x #1",
       "16.0":"a x #1",
       "16.1":"a x #1",
+      "16.2":"a x #1",
       "TP":"a x #1"
     },
     "opera":{
@@ -456,7 +461,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"n"
+      "107":"n"
     },
     "bb":{
       "7":"n",
@@ -472,10 +477,10 @@
       "64":"n"
     },
     "and_chr":{
-      "105":"n"
+      "107":"n"
     },
     "and_ff":{
-      "104":"n"
+      "106":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -516,7 +521,7 @@
     "1":"Safari implementation is incomplete. Does not allow applying web fonts to the initial letter."
   },
   "usage_perc_y":0,
-  "usage_perc_a":18.33,
+  "usage_perc_a":18.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"initial-letter,initial letter,letter,drop cap,dropcap",

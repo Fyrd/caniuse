@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"Safari 16.1 and below displays a gray border while lazy loading images ([243601](https://bugs.webkit.org/show_bug.cgi?id=243601))"
+    }
   ],
   "categories":[
     "HTML5"
@@ -74,7 +76,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -184,7 +188,8 @@
       "104":"a #1",
       "105":"a #1",
       "106":"a #1",
-      "107":"a #1"
+      "107":"a #1",
+      "108":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -291,7 +296,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -324,6 +330,7 @@
       "15.6":"a d #3",
       "16.0":"a d #3",
       "16.1":"a d #3",
+      "16.2":"a d #3",
       "TP":"y"
     },
     "opera":{
@@ -458,7 +465,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -474,10 +481,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"a #1"
+      "106":"a #1"
     },
     "ie_mob":{
       "10":"n",
@@ -519,8 +526,8 @@
     "2":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu.",
     "3":"Safari supports lazy image loading. Lazy iframes loading can be enabled under the Experimental Features menu."
   },
-  "usage_perc_y":74.23,
-  "usage_perc_a":17.06,
+  "usage_perc_y":74.18,
+  "usage_perc_a":18.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"lazy-loading,lazyloading,loading=\"lazy\",loading=\"eager\",loading=\"auto\",loading,attribute,lazily,lazy image loading,lazy img loading,iframe loading,native lazyload",

@@ -74,7 +74,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -184,7 +186,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"n",
@@ -291,7 +294,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -324,6 +328,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -458,7 +463,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -474,10 +479,10 @@
       "64":"n"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -519,7 +524,7 @@
     "2":"Can be enabled in Chrome Canary using the `--enable-blink-features=CSSCascadeLayers` runtime flag",
     "3":"Can be enabled in the Experimental Features developer menu"
   },
-  "usage_perc_y":87.18,
+  "usage_perc_y":89.59,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

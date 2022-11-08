@@ -70,7 +70,9 @@
       "102":"n",
       "103":"n",
       "104":"n",
-      "105":"n"
+      "105":"n",
+      "106":"n",
+      "107":"n"
     },
     "firefox":{
       "2":"n",
@@ -180,7 +182,8 @@
       "104":"n",
       "105":"n",
       "106":"n",
-      "107":"n"
+      "107":"n",
+      "108":"n"
     },
     "chrome":{
       "4":"n",
@@ -286,8 +289,9 @@
       "105":"n",
       "106":"n",
       "107":"n",
-      "108":"n",
-      "109":"n"
+      "108":"n d #2",
+      "109":"n d #2",
+      "110":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -320,6 +324,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -454,7 +459,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"n"
+      "107":"n"
     },
     "bb":{
       "7":"n",
@@ -470,10 +475,10 @@
       "64":"n"
     },
     "and_chr":{
-      "105":"n"
+      "107":"n"
     },
     "and_ff":{
-      "104":"n"
+      "106":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -511,10 +516,11 @@
   },
   "notes":"For this function to work properly, the device screen and OS also needs to support the color space being used.",
   "notes_by_num":{
-    "1":"Only supports `display-p3` predefined color profile."
+    "1":"Only supports `display-p3` predefined color profile.",
+    "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
   },
-  "usage_perc_y":14.95,
-  "usage_perc_a":3.26,
+  "usage_perc_y":15.87,
+  "usage_perc_a":2.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"color(),Display-P3,A98-RGB,ProPhoto-RGB,REC-2020,Device-Dependent Colors,Profiled Colors,@color-profile,color space",

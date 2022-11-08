@@ -84,7 +84,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"p",
@@ -194,7 +196,8 @@
       "104":"a #3",
       "105":"a #3",
       "106":"a #3",
-      "107":"a #3"
+      "107":"a #3",
+      "108":"a #3"
     },
     "chrome":{
       "4":"p",
@@ -301,7 +304,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"p",
@@ -334,6 +338,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -468,7 +473,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"y",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"p",
@@ -484,10 +489,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"a #3"
+      "106":"a #3"
     },
     "ie_mob":{
       "10":"p",
@@ -532,8 +537,8 @@
     "5":"Supported through WKWebView and Safari but not through UIWebView",
     "6":"In Firefox, autocomplete must be set to off to make dynamic datalist work due to [a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1474137)"
   },
-  "usage_perc_y":93.23,
-  "usage_perc_a":4.69,
+  "usage_perc_y":93.57,
+  "usage_perc_a":4.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"list attribute,input",

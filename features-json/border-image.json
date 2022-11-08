@@ -67,7 +67,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -177,7 +179,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"a x #1 #2 #3 #4",
@@ -284,7 +287,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"a x #1 #2 #3 #4",
@@ -317,6 +321,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -451,7 +456,7 @@
       "4.2-4.3":"a x #1 #2 #3 #4",
       "4.4":"a #1 #2",
       "4.4.3-4.4.4":"a #1 #2",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"a #1 #2 #3 #4",
@@ -467,10 +472,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -513,8 +518,8 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":96.93,
-  "usage_perc_a":2.8,
+  "usage_perc_y":97.05,
+  "usage_perc_a":2.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-image-source,border-image-slice,border-image-repeat,border-image-width,,border-image-outset",

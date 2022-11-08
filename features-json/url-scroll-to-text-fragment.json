@@ -11,6 +11,14 @@
     {
       "url":"https://lists.webkit.org/pipermail/webkit-dev/2019-December/030996.html",
       "title":"Safari's position as of Jan 2020"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1753933",
+      "title":"Firefox support bug"
+    },
+    {
+      "url":"https://blog.jim-nielsen.com/2022/scroll-to-text-fragments/",
+      "title":"Article about why the `:~:` syntax"
     }
   ],
   "bugs":[
@@ -62,7 +70,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -172,7 +182,8 @@
       "104":"n",
       "105":"n",
       "106":"n",
-      "107":"n"
+      "107":"n",
+      "108":"n"
     },
     "chrome":{
       "4":"n",
@@ -279,7 +290,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -312,6 +324,7 @@
       "15.6":"n",
       "16.0":"n",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -446,7 +459,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -462,10 +475,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"n"
+      "106":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -505,7 +518,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":73.03,
+  "usage_perc_y":73.48,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

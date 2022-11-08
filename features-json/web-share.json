@@ -94,7 +94,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -204,7 +206,8 @@
       "104":"n",
       "105":"n",
       "106":"n",
-      "107":"n"
+      "107":"n",
+      "108":"n"
     },
     "chrome":{
       "4":"n",
@@ -311,7 +314,8 @@
       "106":"a #4",
       "107":"a #4",
       "108":"a #4",
-      "109":"a #4"
+      "109":"a #4",
+      "110":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -344,6 +348,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -478,7 +483,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n #2",
-      "105":"n #2"
+      "107":"n #2"
     },
     "bb":{
       "7":"n",
@@ -494,10 +499,10 @@
       "64":"n #2"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -541,8 +546,8 @@
     "4":"Only supported on Windows and Chrome OS",
     "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)"
   },
-  "usage_perc_y":67.22,
-  "usage_perc_a":22.59,
+  "usage_perc_y":65.85,
+  "usage_perc_a":24.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",

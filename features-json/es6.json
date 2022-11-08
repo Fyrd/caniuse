@@ -66,7 +66,9 @@
       "102":"y #2",
       "103":"y #2",
       "104":"y #2",
-      "105":"y #2"
+      "105":"y #2",
+      "106":"y #2",
+      "107":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -176,7 +178,8 @@
       "104":"y #2",
       "105":"y #2",
       "106":"y #2",
-      "107":"y #2"
+      "107":"y #2",
+      "108":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -283,7 +286,8 @@
       "106":"y #2",
       "107":"y #2",
       "108":"y #2",
-      "109":"y #2"
+      "109":"y #2",
+      "110":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -316,6 +320,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -450,7 +455,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "105":"y #2"
+      "107":"y #2"
     },
     "bb":{
       "7":"n",
@@ -466,10 +471,10 @@
       "64":"y #2"
     },
     "and_chr":{
-      "105":"y #2"
+      "107":"y #2"
     },
     "and_ff":{
-      "104":"y #2"
+      "106":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -511,8 +516,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":96.33,
-  "usage_perc_a":1.89,
+  "usage_perc_y":96.48,
+  "usage_perc_a":1.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

@@ -58,7 +58,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -168,7 +170,8 @@
       "104":"n",
       "105":"n",
       "106":"n",
-      "107":"n"
+      "107":"n",
+      "108":"n"
     },
     "chrome":{
       "4":"n",
@@ -275,7 +278,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -308,6 +312,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -442,7 +447,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -458,10 +463,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"u"
+      "106":"u"
     },
     "ie_mob":{
       "10":"n",
@@ -503,7 +508,7 @@
     "2":"Partial support in Edge 15+ refers to support for only the HTTP header format, not the `<link rel>` format.",
     "3":"Appears to have [stopped working](https://bugzilla.mozilla.org/show_bug.cgi?id=1543990) in Firefox at some point."
   },
-  "usage_perc_y":93.47,
+  "usage_perc_y":93.74,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

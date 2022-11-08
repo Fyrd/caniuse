@@ -58,7 +58,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -168,7 +170,8 @@
       "104":"a #4",
       "105":"a #4",
       "106":"a #4",
-      "107":"a #4"
+      "107":"a #4",
+      "108":"a #4"
     },
     "chrome":{
       "4":"n",
@@ -275,7 +278,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -308,6 +312,7 @@
       "15.6":"a #6",
       "16.0":"a #6",
       "16.1":"a #6",
+      "16.2":"a #6",
       "TP":"a #6"
     },
     "opera":{
@@ -442,7 +447,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -458,10 +463,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"a #4"
+      "106":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -506,8 +511,8 @@
     "5":"No support for `createImageBitmap(source, options)` interface. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)",
     "6":"Partial implementation. See [this bug](https://bugs.webkit.org/show_bug.cgi?id=182424)"
   },
-  "usage_perc_y":74.87,
-  "usage_perc_a":18.33,
+  "usage_perc_y":74.76,
+  "usage_perc_a":19.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

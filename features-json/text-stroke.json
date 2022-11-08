@@ -68,7 +68,9 @@
       "102":"y x",
       "103":"y x",
       "104":"y x",
-      "105":"y x"
+      "105":"y x",
+      "106":"y x",
+      "107":"y x"
     },
     "firefox":{
       "2":"n",
@@ -178,7 +180,8 @@
       "104":"y x #1",
       "105":"y x #1",
       "106":"y x #1",
-      "107":"y x #1"
+      "107":"y x #1",
+      "108":"y x #1"
     },
     "chrome":{
       "4":"y x",
@@ -285,7 +288,8 @@
       "106":"y x",
       "107":"y x",
       "108":"y x",
-      "109":"y x"
+      "109":"y x",
+      "110":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -318,6 +322,7 @@
       "15.6":"y x",
       "16.0":"y x",
       "16.1":"y x",
+      "16.2":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -452,7 +457,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "105":"y x"
+      "107":"y x"
     },
     "bb":{
       "7":"y x",
@@ -468,10 +473,10 @@
       "64":"y x"
     },
     "and_chr":{
-      "105":"y x"
+      "107":"y x"
     },
     "and_ff":{
-      "104":"y x #1"
+      "106":"y x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -512,7 +517,7 @@
     "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":97.79,
+  "usage_perc_y":97.93,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -64,7 +64,9 @@
       "102":"a #7",
       "103":"a #7",
       "104":"a #7",
-      "105":"a #7"
+      "105":"a #7",
+      "106":"a #7",
+      "107":"a #7"
     },
     "firefox":{
       "2":"n",
@@ -174,7 +176,8 @@
       "104":"a #6",
       "105":"a #6",
       "106":"a #6",
-      "107":"a #6"
+      "107":"a #6",
+      "108":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -281,7 +284,8 @@
       "106":"a #7",
       "107":"a #7",
       "108":"a #7",
-      "109":"a #7"
+      "109":"a #7",
+      "110":"a #7"
     },
     "safari":{
       "3.1":"u",
@@ -314,6 +318,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -448,7 +453,7 @@
       "4.2-4.3":"n",
       "4.4":"a #2 #5",
       "4.4.3-4.4.4":"a #2 #5",
-      "105":"a #2"
+      "107":"a #2"
     },
     "bb":{
       "7":"n",
@@ -464,10 +469,10 @@
       "64":"a #2"
     },
     "and_chr":{
-      "105":"a #7"
+      "107":"a #7"
     },
     "and_ff":{
-      "104":"a #4"
+      "106":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -513,8 +518,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":18.03,
-  "usage_perc_a":80.34,
+  "usage_perc_y":18.43,
+  "usage_perc_a":80.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

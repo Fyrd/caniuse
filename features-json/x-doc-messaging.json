@@ -78,7 +78,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -188,7 +190,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"y",
@@ -295,7 +298,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -328,6 +332,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -462,7 +467,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"y",
@@ -478,10 +483,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"a",
@@ -522,7 +527,7 @@
     "1":"Partial support refers to only working in frames/iframes (not other tabs/windows). Also, objects cannot be sent using postMessage.",
     "2":"Partial support refers to [limitations in certain conditions](https://stackoverflow.com/questions/16226924/is-cross-origin-postmessage-broken-in-ie10)."
   },
-  "usage_perc_y":99.25,
+  "usage_perc_y":99.34,
   "usage_perc_a":0.61,
   "ucprefix":false,
   "parent":"",

@@ -72,7 +72,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -182,7 +184,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -289,7 +292,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -322,6 +326,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -456,7 +461,7 @@
       "4.2-4.3":"a #2",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"a #2",
@@ -472,10 +477,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"a #2",
@@ -516,8 +521,8 @@
     "1":"Partial support refers to missing the default styling, as technically the elements are considered \"[unknown](https://developer.mozilla.org/en-US/docs/Web/API/HTMLUnknownElement)\". This is easily taken care of by manually setting the default `display` value for each tag.",
     "2":"Partial support refers to only the `<main>` element (added later to the spec) being \"unknown\", though it can still be used and styled."
   },
-  "usage_perc_y":97.64,
-  "usage_perc_a":2.2,
+  "usage_perc_y":97.81,
+  "usage_perc_a":2.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"section,article,aside,header,footer,nav,figure,figcaption,time,mark,main,<section>,<article>,<aside>,<header>,<footer>,<nav>,<figure>,<figcaption>,<time>,<mark>,<main>",

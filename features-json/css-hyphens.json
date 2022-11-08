@@ -74,7 +74,9 @@
       "102":"a #2",
       "103":"a #2",
       "104":"a #2",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -184,7 +186,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"n",
@@ -291,7 +294,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -324,6 +328,7 @@
       "15.6":"y x",
       "16.0":"y x",
       "16.1":"y x",
+      "16.2":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -458,7 +463,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -474,10 +479,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -518,8 +523,8 @@
     "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964).",
     "2":"Only supported on Android & Mac platforms"
   },
-  "usage_perc_y":89.92,
-  "usage_perc_a":7.42,
+  "usage_perc_y":94.85,
+  "usage_perc_a":2.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"hyphen,shy",

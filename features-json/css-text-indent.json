@@ -70,7 +70,9 @@
       "102":"a #1 #2",
       "103":"a #1 #2",
       "104":"a #1 #2",
-      "105":"a #1 #2"
+      "105":"a #1 #2",
+      "106":"a #1 #2",
+      "107":"a #1 #2"
     },
     "firefox":{
       "2":"a #1",
@@ -180,7 +182,8 @@
       "104":"a #1",
       "105":"a #1",
       "106":"a #1",
-      "107":"a #1"
+      "107":"a #1",
+      "108":"a #1"
     },
     "chrome":{
       "4":"a #1",
@@ -287,7 +290,8 @@
       "106":"a #1 #2",
       "107":"a #1 #2",
       "108":"a #1 #2",
-      "109":"a #1 #2"
+      "109":"a #1 #2",
+      "110":"a #1 #2"
     },
     "safari":{
       "3.1":"a #1",
@@ -320,6 +324,7 @@
       "15.6":"a #1",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -454,7 +459,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "105":"a #1 #2"
+      "107":"a #1 #2"
     },
     "bb":{
       "7":"a #1",
@@ -470,10 +475,10 @@
       "64":"a #1 #2"
     },
     "and_chr":{
-      "105":"a #1 #2"
+      "107":"a #1 #2"
     },
     "and_ff":{
-      "104":"a #1"
+      "106":"a #1"
     },
     "ie_mob":{
       "10":"a #1",
@@ -514,8 +519,8 @@
     "1":"Partial support refers to supporting a `<length>` value, but not the `each-line` or `hanging` keywords.",
     "2":"Support for `each-line` & `hanging` is available behind the Experimental Web Platform features flag"
   },
-  "usage_perc_y":0.12,
-  "usage_perc_a":99.8,
+  "usage_perc_y":5.36,
+  "usage_perc_a":94.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"each-line,hanging",

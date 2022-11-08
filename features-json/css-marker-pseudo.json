@@ -74,7 +74,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -184,7 +186,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"n",
@@ -291,7 +294,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -324,6 +328,7 @@
       "15.6":"y #1",
       "16.0":"y #1",
       "16.1":"y #1",
+      "16.2":"y #1",
       "TP":"y"
     },
     "opera":{
@@ -458,7 +463,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -474,10 +479,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -518,7 +523,7 @@
     "1":"Safari supports [the definition in the CSS Pseudo-Elements Module Level 4](https://www.w3.org/TR/css-pseudo-4/#marker-pseudo) instead of one in the List module due to the flux definition in it.",
     "2":"Safari support is limited to color and font-size. See bug [204163](https://bugs.webkit.org/show_bug.cgi?id=204163)."
   },
-  "usage_perc_y":93.76,
+  "usage_perc_y":94.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

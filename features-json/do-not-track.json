@@ -60,7 +60,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -170,7 +172,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "chrome":{
       "4":"n",
@@ -277,7 +280,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -310,6 +314,7 @@
       "15.6":"n",
       "16.0":"n",
       "16.1":"n",
+      "16.2":"n",
       "TP":"n"
     },
     "opera":{
@@ -444,7 +449,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"u",
@@ -460,10 +465,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y"
+      "106":"y"
     },
     "ie_mob":{
       "10":"a x #1",
@@ -506,8 +511,8 @@
     "3":"Browsers based on Gecko versions prior to 32 used 'yes' and 'no' rather than '1' and '0'.",
     "4":"Between versions 6.1.1 and 9.1.3, Safari supported an ultimately-rejected amendment to the spec, using `window.doNotTrack` rather than `navigator.doNotTrack`."
   },
-  "usage_perc_y":80.61,
-  "usage_perc_a":0.78,
+  "usage_perc_y":80.33,
+  "usage_perc_a":0.77,
   "ucprefix":false,
   "parent":"",
   "keywords":"DNT",

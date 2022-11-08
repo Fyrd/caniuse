@@ -82,7 +82,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -192,7 +194,8 @@
       "104":"a #6",
       "105":"a #6",
       "106":"a #6",
-      "107":"a #6"
+      "107":"a #6",
+      "108":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -299,7 +302,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -332,6 +336,7 @@
       "15.6":"a #6",
       "16.0":"a #6",
       "16.1":"a #6",
+      "16.2":"a #6",
       "TP":"a #6"
     },
     "opera":{
@@ -466,7 +471,7 @@
       "4.2-4.3":"n #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -482,10 +487,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"a #6"
+      "106":"a #6"
     },
     "ie_mob":{
       "10":"n",
@@ -530,8 +535,8 @@
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
     "6":"Partial support refers to not supporting the `week` and `month` input type"
   },
-  "usage_perc_y":75.96,
-  "usage_perc_a":20.97,
+  "usage_perc_y":75.86,
+  "usage_perc_a":21.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"datepicker,timepicker,inputdate,input type=\"date\",input type=\"time\",input date,datetime-local",

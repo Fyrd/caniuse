@@ -78,7 +78,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -188,7 +190,8 @@
       "104":"a d #8",
       "105":"a d #8",
       "106":"a d #8",
-      "107":"a d #8"
+      "107":"a d #8",
+      "108":"a d #8"
     },
     "chrome":{
       "4":"n",
@@ -295,7 +298,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "safari":{
       "3.1":"n",
@@ -328,6 +332,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -462,7 +467,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"n"
+      "107":"n"
     },
     "bb":{
       "7":"n",
@@ -478,10 +483,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y #5"
+      "107":"y #5"
     },
     "and_ff":{
-      "104":"n"
+      "106":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -528,8 +533,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":91.29,
-  "usage_perc_a":3.61,
+  "usage_perc_y":91.78,
+  "usage_perc_a":3.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

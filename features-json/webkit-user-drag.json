@@ -58,7 +58,9 @@
       "102":"a #1",
       "103":"a #1",
       "104":"a #1",
-      "105":"a #1"
+      "105":"a #1",
+      "106":"a #1",
+      "107":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -168,7 +170,8 @@
       "104":"n",
       "105":"n",
       "106":"n",
-      "107":"n"
+      "107":"n",
+      "108":"n"
     },
     "chrome":{
       "4":"u",
@@ -275,7 +278,8 @@
       "106":"a #1",
       "107":"a #1",
       "108":"a #1",
-      "109":"a #1"
+      "109":"a #1",
+      "110":"a #1"
     },
     "safari":{
       "3.1":"y",
@@ -308,6 +312,7 @@
       "15.6":"y",
       "16.0":"y",
       "16.1":"y",
+      "16.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -442,7 +447,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"n"
+      "107":"n"
     },
     "bb":{
       "7":"n",
@@ -458,10 +463,10 @@
       "64":"n"
     },
     "and_chr":{
-      "105":"n"
+      "107":"n"
     },
     "and_ff":{
-      "104":"n"
+      "106":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -501,8 +506,8 @@
   "notes_by_num":{
     "1":"`-webkit-user-drag: none` works, but `-webkit-user-drag: element` does not appear to have an effect."
   },
-  "usage_perc_y":3.29,
-  "usage_perc_a":29.67,
+  "usage_perc_y":3.64,
+  "usage_perc_a":31.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"-webkit-user-drag:none,-webkit-user-drag:element,-webkit-user-drag:auto",

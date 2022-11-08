@@ -74,7 +74,9 @@
       "102":"y",
       "103":"y",
       "104":"y",
-      "105":"y"
+      "105":"y",
+      "106":"y",
+      "107":"y"
     },
     "firefox":{
       "2":"n",
@@ -184,7 +186,8 @@
       "104":"a #1 #2",
       "105":"a #1 #2",
       "106":"a #1 #2",
-      "107":"a #1 #2"
+      "107":"a #1 #2",
+      "108":"a #1 #2"
     },
     "chrome":{
       "4":"n",
@@ -291,7 +294,8 @@
       "106":"a #3 #4",
       "107":"a #3 #4",
       "108":"a #3 #4",
-      "109":"a #3 #4"
+      "109":"a #3 #4",
+      "110":"a #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -324,6 +328,7 @@
       "15.6":"y #3",
       "16.0":"y #3",
       "16.1":"y #3",
+      "16.2":"y #3",
       "TP":"y #3"
     },
     "opera":{
@@ -458,7 +463,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "105":"y"
+      "107":"y"
     },
     "bb":{
       "7":"n",
@@ -474,10 +479,10 @@
       "64":"y"
     },
     "and_chr":{
-      "105":"y"
+      "107":"y"
     },
     "and_ff":{
-      "104":"y #1"
+      "106":"y #1"
     },
     "ie_mob":{
       "10":"n d",
@@ -520,8 +525,8 @@
     "3":"Chrome 85+ and Safari for MacOS 13.1+ displays `Not secure` in the address bar when connecting over TLS 1.1",
     "4":"Chrome 85+ displays a full page dismissable warning every time a new site connects over TLS 1.1"
   },
-  "usage_perc_y":72.29,
-  "usage_perc_a":26.59,
+  "usage_perc_y":70.53,
+  "usage_perc_a":28.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
