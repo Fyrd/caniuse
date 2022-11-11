@@ -411,7 +411,8 @@
       "88":"y",
       "89":"y",
       "90":"y",
-      "91":"y"
+      "91":"y",
+      "92":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -470,7 +471,7 @@
       "11.5":"u",
       "12":"u",
       "12.1":"u",
-      "64":"u"
+      "72":"y"
     },
     "and_chr":{
       "107":"y"
@@ -500,7 +501,8 @@
       "15.0":"y",
       "16.0":"y",
       "17.0":"y",
-      "18.0":"y"
+      "18.0":"y",
+      "19.0":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -517,7 +519,7 @@
     "1":"IE9 [supported `dns-prefetch` as `prefetch`](https://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
     "2":"Firefox only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
   },
-  "usage_perc_y":79.83,
+  "usage_perc_y":79.84,
   "usage_perc_a":3.18,
   "ucprefix":false,
   "parent":"",

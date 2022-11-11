@@ -425,7 +425,8 @@
       "88":"y",
       "89":"y",
       "90":"y",
-      "91":"y"
+      "91":"y",
+      "92":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -484,7 +485,7 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "64":"n"
+      "72":"y"
     },
     "and_chr":{
       "107":"y"
@@ -514,7 +515,8 @@
       "15.0":"n",
       "16.0":"n",
       "17.0":"n",
-      "18.0":"y"
+      "18.0":"y",
+      "19.0":"y"
     },
     "and_qq":{
       "13.1":"n"
@@ -532,7 +534,7 @@
     "2":"Firefox actively supports this format and will consider implementing it in the future: [https://mozilla.github.io/standards-positions/#font-colrv1](https://mozilla.github.io/standards-positions/#font-colrv1)",
     "3":"Can be enabled by setting `gfx.font_rendering.colr_v1.enabled` to true"
   },
-  "usage_perc_y":71.7,
+  "usage_perc_y":71.71,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",
