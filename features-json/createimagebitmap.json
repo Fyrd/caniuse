@@ -161,17 +161,17 @@
       "95":"a #4",
       "96":"a #4",
       "97":"a #4",
-      "98":"a #4",
-      "99":"a #4",
-      "100":"a #4",
-      "101":"a #4",
-      "102":"a #4",
-      "103":"a #4",
-      "104":"a #4",
-      "105":"a #4",
-      "106":"a #4",
-      "107":"a #4",
-      "108":"a #4"
+      "98":"a #7",
+      "99":"a #7",
+      "100":"a #7",
+      "101":"a #7",
+      "102":"a #7",
+      "103":"a #7",
+      "104":"a #7",
+      "105":"a #7",
+      "106":"a #7",
+      "107":"a #7",
+      "108":"a #7"
     },
     "chrome":{
       "4":"n",
@@ -509,7 +509,8 @@
     "3":"No support for SVGImageElement as Source Image",
     "4":"No support for resizeWidth, resizeHeight and resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)",
     "5":"No support for `createImageBitmap(source, options)` interface. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1335594)",
-    "6":"Partial implementation. See [this bug](https://bugs.webkit.org/show_bug.cgi?id=182424)"
+    "6":"Partial implementation. See [this bug](https://bugs.webkit.org/show_bug.cgi?id=182424)",
+    "7":"No support for resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)"
   },
   "usage_perc_y":74.76,
   "usage_perc_a":19.14,
