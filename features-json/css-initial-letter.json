@@ -5,7 +5,7 @@
   "status":"wd",
   "links":[
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1223880",
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1273019",
       "title":"Firefox Implementation Ticket"
     },
     {
@@ -19,6 +19,14 @@
     {
       "url":"https://labs.jensimmons.com/#initialletter",
       "title":"Demos at Jen Simmons Labs"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=229090",
+      "title":"WebKit bug to unprefix -webkit-initial-letter"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=229090",
+      "title":"WebKit bug to support the values raise and drop for initial-letter"
     }
   ],
   "bugs":[
@@ -294,7 +302,7 @@
       "107":"n",
       "108":"n",
       "109":"n",
-      "110":"n"
+      "110":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -521,15 +529,16 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari implementation is incomplete. Does not allow applying web fonts to the initial letter."
+    "1":"Safari implementation is incomplete. Does not allow applying web fonts to the initial letter.",
+    "2":"Partial support refers to only supporting `initial-letter`"
   },
   "usage_perc_y":0,
   "usage_perc_a":18.69,
   "ucprefix":false,
   "parent":"",
-  "keywords":"initial-letter,initial letter,letter,drop cap,dropcap",
+  "keywords":"initial-letter,initial letter,letter,drop cap,dropcap,initial letters,letters",
   "ie_id":"initialletter",
-  "chrome_id":"",
+  "chrome_id":"5167442033115136",
   "firefox_id":"css-initial-letter",
   "webkit_id":"feature-initial-letter",
   "shown":true
