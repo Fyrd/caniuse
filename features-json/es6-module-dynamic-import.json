@@ -26,7 +26,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description": "Safari [does not honor `<base>`](https://bugs.webkit.org/show_bug.cgi?id=201692) when `moduleName` (specifier) is relative (starts with `./`) in inline scripts"
+    }
   ],
   "categories":[
     "JS"
