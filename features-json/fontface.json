@@ -19,6 +19,9 @@
     },
     {
       "description":"Android 2.2 - 3.0 are reported not to support `local()` value"
+    },
+    {
+      "description":"macOS 13, Firefox 107 - using `local()` the `font-weight` is not working."
     }
   ],
   "categories":[
