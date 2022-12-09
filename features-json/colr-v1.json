@@ -84,7 +84,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -474,7 +475,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"u",
@@ -490,10 +491,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"n"
+      "107":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -536,7 +537,7 @@
     "2":"Firefox actively supports this format and will consider implementing it in the future: [https://mozilla.github.io/standards-positions/#font-colrv1](https://mozilla.github.io/standards-positions/#font-colrv1)",
     "3":"Can be enabled by setting `gfx.font_rendering.colr_v1.enabled` to true"
   },
-  "usage_perc_y":73.05,
+  "usage_perc_y":73.34,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

@@ -78,7 +78,8 @@
       "104":"n",
       "105":"n d #1",
       "106":"n d #1",
-      "107":"n d #1"
+      "107":"n d #1",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -468,7 +469,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"n"
+      "108":"y"
     },
     "bb":{
       "7":"n",
@@ -484,10 +485,10 @@
       "72":"n"
     },
     "and_chr":{
-      "107":"n"
+      "108":"y"
     },
     "and_ff":{
-      "106":"y"
+      "107":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -528,7 +529,7 @@
   "notes_by_num":{
     "1":"Can be enabled via the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
   },
-  "usage_perc_y":17.71,
+  "usage_perc_y":59.41,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
