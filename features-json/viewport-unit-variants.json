@@ -1,6 +1,6 @@
 {
-  "title":"Large, Small, and Dynamic viewport units",
-  "description":"Viewport units similar to `vw` and `vh` that are based on shown or hidden browser UI states to address shortcomings of the original units. Currently defined as the `lvh`, `lvw`, `svh`, `svw`, `dvh`, `dvw` units.",
+  "title":"Small, Large, and Dynamic viewport units",
+  "description":"Viewport units similar to `vw` and `vh` that are based on shown or hidden browser UI states to address shortcomings of the original units. Currently defined as the `sv*` units (`svb`, `svh`, `svi`, `svmax`, `svmin`, `svw`), `lv*` units (`lvb`, `lvh`, `lvi`, `lvmax`, `lvmin`, `lvw`), `dv*` units (`dvb`, `dvh`, `dvi`, `dvmax`, `dvmin`, `dvw`) and the logical `vi`/`vb` units.",
   "spec":"https://www.w3.org/TR/css-values-4/#viewport-variants",
   "status":"wd",
   "links":[
@@ -538,7 +538,7 @@
   "parent":"",
   "keywords":"",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5170718078140416",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true
