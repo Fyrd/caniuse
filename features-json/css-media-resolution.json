@@ -200,7 +200,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "chrome":{
       "4":"a x #3",
@@ -544,8 +545,8 @@
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`.",
     "4":"Does not support `x` unit (alias for `dppx` unit), e.g: `@media (min-resolution: 2x) { }`."
   },
-  "usage_perc_y":85.12,
-  "usage_perc_a":14.72,
+  "usage_perc_y":87.2,
+  "usage_perc_a":11.78,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,device-pixel-ratio,resolution,dppx,dpcm,dpi",

@@ -181,7 +181,8 @@
       "106":"y #2",
       "107":"y #2",
       "108":"y #2",
-      "109":"y #2"
+      "109":"y #2",
+      "110":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -524,8 +525,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":96.54,
-  "usage_perc_a":1.82,
+  "usage_perc_y":95.32,
+  "usage_perc_a":2.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",
