@@ -11,6 +11,10 @@
     {
       "url":"https://www.npmjs.com/package/@webcomponents/template-shadowroot",
       "title":"A ponyfill of the Declarative Shadow DOM API"
+    },
+    {
+      "url":"https://bugs.webkit.org/show_bug.cgi?id=249513",
+      "title":"WebKit support bug"
     }
   ],
   "bugs":[
@@ -322,7 +326,7 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "TP":"u"
+      "TP":"y"
     },
     "opera":{
       "9":"n",
