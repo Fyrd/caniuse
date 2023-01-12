@@ -86,7 +86,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -198,7 +199,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "chrome":{
       "4":"n",
@@ -307,7 +309,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"n",
@@ -341,6 +344,7 @@
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
+      "16.3":"n",
       "TP":"n"
     },
     "opera":{
@@ -461,7 +465,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -476,7 +482,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"y",
@@ -492,10 +498,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"y"
+      "107":"y"
     },
     "ie_mob":{
       "10":"p",
@@ -538,7 +544,7 @@
     "2":"Supported on IE11 Mobile for phones with \"[Windows Phone 8.1 Update](http://blogs.msdn.com/b/ie/archive/2014/07/31/the-mobile-web-should-just-work-for-everyone.aspx)\"",
     "3":"Can be enabled in Edge using the \"Enable touch events\" flag under `about:flags`"
   },
-  "usage_perc_y":94.13,
+  "usage_perc_y":93.36,
   "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",

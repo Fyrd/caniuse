@@ -60,7 +60,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -172,7 +173,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "chrome":{
       "4":"n",
@@ -281,7 +283,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"n",
@@ -315,6 +318,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -435,7 +439,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -450,7 +456,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"a #1",
@@ -466,10 +472,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"y"
+      "107":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -513,8 +519,8 @@
     "2":"IE8 only supports the `online`/`offline` events on `document.body`, rather than `window`.",
     "3":"Desktop Firefox responds to the status of its \"Work Offline\" mode. If not in that mode, `navigator.onLine` is always `true`, regardless of the actual network connectivity status. [See bug](https://bugzilla.mozilla.org/show_bug.cgi?id=654579) for details."
   },
-  "usage_perc_y":98.51,
-  "usage_perc_a":0.29,
+  "usage_perc_y":97.65,
+  "usage_perc_a":0.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

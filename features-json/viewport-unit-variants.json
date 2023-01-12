@@ -1,6 +1,6 @@
 {
-  "title":"Large, Small, and Dynamic viewport units",
-  "description":"Viewport units similar to `vw` and `vh` that are based on shown or hidden browser UI states to address shortcomings of the original units. Currently defined as the `lvh`, `lvw`, `svh`, `svw`, `dvh`, `dvw` units.",
+  "title":"Small, Large, and Dynamic viewport units",
+  "description":"Viewport units similar to `vw` and `vh` that are based on shown or hidden browser UI states to address shortcomings of the original units. Currently defined as the `sv*` units (`svb`,\u00a0`svh`,\u00a0`svi`,\u00a0`svmax`,\u00a0`svmin`,\u00a0`svw`), `lv*` units (`lvb`,\u00a0`lvh`,\u00a0`lvi`,\u00a0`lvmax`,\u00a0`lvmin`,\u00a0`lvw`), `dv*` units (`dvb`,\u00a0`dvh`,\u00a0`dvi`,\u00a0`dvmax`,\u00a0`dvmin`,\u00a0`dvw`) and the logical `vi`/`vb` units.",
   "spec":"https://www.w3.org/TR/css-values-4/#viewport-variants",
   "status":"wd",
   "links":[
@@ -78,7 +78,8 @@
       "104":"n",
       "105":"n d #1",
       "106":"n d #1",
-      "107":"n d #1"
+      "107":"n d #1",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -190,7 +191,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "chrome":{
       "4":"n",
@@ -299,7 +301,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"n",
@@ -333,6 +336,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -453,7 +457,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -468,7 +474,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"n"
+      "108":"y"
     },
     "bb":{
       "7":"n",
@@ -484,10 +490,10 @@
       "72":"n"
     },
     "and_chr":{
-      "107":"n"
+      "108":"y"
     },
     "and_ff":{
-      "106":"y"
+      "107":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -528,13 +534,13 @@
   "notes_by_num":{
     "1":"Can be enabled via the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
   },
-  "usage_perc_y":17.96,
+  "usage_perc_y":78.73,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
   "ie_id":"",
-  "chrome_id":"",
+  "chrome_id":"5170718078140416",
   "firefox_id":"",
   "webkit_id":"",
   "shown":true

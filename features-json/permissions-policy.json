@@ -70,7 +70,8 @@
       "104":"a #1 #2",
       "105":"a #1 #2",
       "106":"a #1 #2",
-      "107":"a #1 #2"
+      "107":"a #1 #2",
+      "108":"a #1 #2"
     },
     "firefox":{
       "2":"n",
@@ -182,7 +183,8 @@
       "106":"n #2",
       "107":"n #2",
       "108":"n #2",
-      "109":"n #2"
+      "109":"n #2",
+      "110":"n #2"
     },
     "chrome":{
       "4":"n",
@@ -291,7 +293,8 @@
       "108":"a #1 #2",
       "109":"a #1 #2",
       "110":"a #1 #2",
-      "111":"a #1 #2"
+      "111":"a #1 #2",
+      "112":"a #1 #2"
     },
     "safari":{
       "3.1":"n",
@@ -325,6 +328,7 @@
       "16.0":"n #2",
       "16.1":"n #2",
       "16.2":"n #2",
+      "16.3":"n #2",
       "TP":"n #2"
     },
     "opera":{
@@ -445,7 +449,9 @@
       "15.5":"n #2",
       "15.6":"n #2",
       "16.0":"n #2",
-      "16.1":"n #2"
+      "16.1":"n #2",
+      "16.2":"n #2",
+      "16.3":"n #2"
     },
     "op_mini":{
       "all":"n"
@@ -460,7 +466,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"n #2"
+      "108":"n #2"
     },
     "bb":{
       "7":"n",
@@ -476,10 +482,10 @@
       "72":"a #1 #2"
     },
     "and_chr":{
-      "107":"a #1 #2"
+      "108":"a #1 #2"
     },
     "and_ff":{
-      "106":"n"
+      "107":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -522,7 +528,7 @@
     "2":"At least partially supports [Feature Policy](/feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
-  "usage_perc_a":68.72,
+  "usage_perc_a":67.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature policy,feature-policy,document.featurePolicy,document.policy,permissions-policy,document.permissionsPolicy",

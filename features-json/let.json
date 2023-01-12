@@ -64,7 +64,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"n d #1",
@@ -176,7 +177,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "chrome":{
       "4":"n",
@@ -285,7 +287,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"n",
@@ -319,6 +322,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -439,7 +443,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -454,7 +460,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"n",
@@ -470,10 +476,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"y"
+      "107":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -518,8 +524,8 @@
     "4":"`let` bindings in for loops are incorrectly treated as function-scoped instead of block scoped.",
     "5":"`let` variables are not bound separately to each iteration of `for` loops"
   },
-  "usage_perc_y":96.65,
-  "usage_perc_a":0.78,
+  "usage_perc_y":95.47,
+  "usage_perc_a":0.97,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,variable,block,scope",

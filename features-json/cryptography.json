@@ -89,7 +89,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"p",
@@ -201,7 +202,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "chrome":{
       "4":"p",
@@ -310,7 +312,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"p",
@@ -344,6 +347,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -464,7 +468,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -479,7 +485,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"p",
@@ -495,10 +501,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"y"
+      "107":"y"
     },
     "ie_mob":{
       "10":"p",
@@ -541,8 +547,8 @@
     "2":"Support in Safari before version 11 was using the `crypto.webkitSubtle` prefix.",
     "3":"In Edge 12-18, Web Crypto was not supported in Web Workers and Service Workers."
   },
-  "usage_perc_y":97.2,
-  "usage_perc_a":0.46,
+  "usage_perc_y":96.17,
+  "usage_perc_a":0.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"subtle,subtlecrypto",

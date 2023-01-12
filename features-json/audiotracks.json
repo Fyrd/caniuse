@@ -60,7 +60,8 @@
       "104":"n d #2",
       "105":"n d #2",
       "106":"n d #2",
-      "107":"n d #2"
+      "107":"n d #2",
+      "108":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -172,7 +173,8 @@
       "106":"n d #1",
       "107":"n d #1",
       "108":"n d #1",
-      "109":"n d #1"
+      "109":"n d #1",
+      "110":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -281,7 +283,8 @@
       "108":"n d #2",
       "109":"n d #2",
       "110":"n d #2",
-      "111":"n d #2"
+      "111":"n d #2",
+      "112":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -315,6 +318,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -435,7 +439,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -450,7 +456,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"n"
+      "108":"n"
     },
     "bb":{
       "7":"n",
@@ -466,10 +472,10 @@
       "72":"n d #2"
     },
     "and_chr":{
-      "107":"n d #2"
+      "108":"n d #2"
     },
     "and_ff":{
-      "106":"n"
+      "107":"n"
     },
     "ie_mob":{
       "10":"y",
@@ -511,7 +517,7 @@
     "1":"Supported in Firefox by enabling \"media.track.enabled\" in about:config",
     "2":"Supported in Chrome and Opera by enabling \"enable-experimental-web-platform-features\" in chrome:flags"
   },
-  "usage_perc_y":19.25,
+  "usage_perc_y":18.62,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

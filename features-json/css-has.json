@@ -76,7 +76,8 @@
       "104":"n",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -188,7 +189,8 @@
       "106":"n d #2",
       "107":"n d #2",
       "108":"n d #2",
-      "109":"n d #2"
+      "109":"n d #2",
+      "110":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -297,7 +299,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"n",
@@ -331,6 +334,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -451,7 +455,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -466,7 +472,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"n",
@@ -482,10 +488,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"n"
+      "107":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -527,7 +533,7 @@
     "1":"Can be enabled via the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "2":"Supported in Firefox behind the `layout.css.has-selector.enabled` flag"
   },
-  "usage_perc_y":82.92,
+  "usage_perc_y":81.7,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

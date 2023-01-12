@@ -89,7 +89,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -201,7 +202,8 @@
       "106":"y #3",
       "107":"y #3",
       "108":"y #3",
-      "109":"y #3"
+      "109":"y #3",
+      "110":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -310,7 +312,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"n",
@@ -344,6 +347,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -464,7 +468,9 @@
       "15.5":"a #1 #2",
       "15.6":"a #1 #2",
       "16.0":"a #1 #2",
-      "16.1":"a #1 #2"
+      "16.1":"a #1 #2",
+      "16.2":"a #1 #2",
+      "16.3":"a #1 #2"
     },
     "op_mini":{
       "all":"n"
@@ -479,7 +485,7 @@
       "4.2-4.3":"a #1 #2",
       "4.4":"a #1 #2",
       "4.4.3-4.4.4":"a #1 #2",
-      "107":"a #1 #2"
+      "108":"a #1 #2"
     },
     "bb":{
       "7":"n",
@@ -495,10 +501,10 @@
       "72":"a #1 #2"
     },
     "and_chr":{
-      "107":"a #1 #2"
+      "108":"a #1 #2"
     },
     "and_ff":{
-      "106":"y #1 #3"
+      "107":"y #1 #3"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -542,8 +548,8 @@
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
     "4":"Does not include increment/decrement buttons, but does support increment/decrement via arrow up & down keys."
   },
-  "usage_perc_y":39.05,
-  "usage_perc_a":59.57,
+  "usage_perc_y":35.8,
+  "usage_perc_a":61.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"spinner,input type=\"number\"",

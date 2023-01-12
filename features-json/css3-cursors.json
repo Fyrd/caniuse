@@ -65,7 +65,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"a",
@@ -177,7 +178,8 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y"
     },
     "chrome":{
       "4":"a",
@@ -286,7 +288,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"a",
@@ -320,6 +323,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -440,7 +444,9 @@
       "15.5":"n",
       "15.6":"n",
       "16.0":"n",
-      "16.1":"n"
+      "16.1":"n",
+      "16.2":"n",
+      "16.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -455,7 +461,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"n",
@@ -471,10 +477,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"n"
+      "107":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -516,8 +522,8 @@
     "1":"Partial support refers to no support for the alias, cell, copy, ew-resize, ns-resize, nesw-resize, nwse-resize or context-menu cursors.",
     "2":"Partial support refers to not supporting 'none'."
   },
-  "usage_perc_y":79.95,
-  "usage_perc_a":0.19,
+  "usage_perc_y":79.1,
+  "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"cursors, pointers",

@@ -64,7 +64,8 @@
       "104":"y",
       "105":"y",
       "106":"y",
-      "107":"y"
+      "107":"y",
+      "108":"y"
     },
     "firefox":{
       "2":"n",
@@ -176,7 +177,8 @@
       "106":"n",
       "107":"n",
       "108":"n",
-      "109":"n"
+      "109":"n",
+      "110":"n"
     },
     "chrome":{
       "4":"n",
@@ -285,7 +287,8 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y"
     },
     "safari":{
       "3.1":"n",
@@ -319,6 +322,7 @@
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
+      "16.3":"n",
       "TP":"n"
     },
     "opera":{
@@ -439,7 +443,9 @@
       "15.5":"y x",
       "15.6":"y x",
       "16.0":"y x",
-      "16.1":"y x"
+      "16.1":"y x",
+      "16.2":"y x",
+      "16.3":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -454,7 +460,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"y"
+      "108":"y"
     },
     "bb":{
       "7":"n",
@@ -470,10 +476,10 @@
       "72":"y"
     },
     "and_chr":{
-      "107":"y"
+      "108":"y"
     },
     "and_ff":{
-      "106":"y x"
+      "107":"y x"
     },
     "ie_mob":{
       "10":"y x #1",
@@ -515,7 +521,7 @@
     "1":"If the viewport size is set using a `<meta>` element, the `-ms-text-size-adjust` property is ignored. See [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-size-adjust)",
     "2":"Old versions of WebKit-based desktop browsers (Chrome<27, Safari<6) [suffer from a bug](https://bugs.webkit.org/show_bug.cgi?id=56543) where if `-webkit-text-size-adjust` is explicitly set to `none`, instead of ignoring the property, the browsers will prevent the user from zooming in or out on the webpage."
   },
-  "usage_perc_y":90.32,
+  "usage_perc_y":89.58,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

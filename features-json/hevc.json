@@ -68,7 +68,8 @@
       "104":"a #4",
       "105":"a #4",
       "106":"a #4",
-      "107":"a #4"
+      "107":"a #4",
+      "108":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -180,7 +181,8 @@
       "106":"n",
       "107":"n",
       "108":"n",
-      "109":"n"
+      "109":"n",
+      "110":"n"
     },
     "chrome":{
       "4":"n",
@@ -289,7 +291,8 @@
       "108":"a #5",
       "109":"a #5",
       "110":"a #5",
-      "111":"a #5"
+      "111":"a #5",
+      "112":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -323,6 +326,7 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -443,7 +447,9 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -458,7 +464,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "107":"n #2"
+      "108":"a #5"
     },
     "bb":{
       "7":"n",
@@ -474,10 +480,10 @@
       "72":"n #2"
     },
     "and_chr":{
-      "107":"n #2"
+      "108":"a #5"
     },
     "and_ff":{
-      "106":"n"
+      "107":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -519,11 +525,11 @@
     "1":"Supported only for devices with [hardware support](https://answers.microsoft.com/en-us/insider/forum/insider_apps-insider_wmp/windows-10-hevc-playback-yes-or-no/3c1ab780-a6b2-4b77-ac0f-9faeefd4680d)",
     "2":"Reported to work in certain Android devices with hardware support",
     "3":"Supported only on macOS High Sierra or later",
-    "4":"Supported only on Windows(>= Windows 10 1709) and only when [HEVC video extensions from the Microsoft Store](https://apps.microsoft.com/store/detail/hevc-video-extension/9NMZLZ57R3T7) is installed for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548)",
+    "4":"Supported on macOS (Edge >= 107, OS >= Big Sur 11.0) and Windows(>= Windows 10 1709) when [HEVC video extensions from the Microsoft Store](https://apps.microsoft.com/store/detail/hevc-video-extension/9NMZLZ57R3T7) is installed for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548)",
     "5":"Supported on Windows(>= Windows 8), macOS(>= Big Sur 11.0), Android, Linux(Chrome >= 108.0.5354.0) and Chrome OS platforms with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding)"
   },
-  "usage_perc_y":18.44,
-  "usage_perc_a":5.57,
+  "usage_perc_y":17.65,
+  "usage_perc_a":66.92,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",
