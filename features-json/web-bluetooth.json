@@ -77,7 +77,9 @@
       "105":"y #4",
       "106":"y #4",
       "107":"y #4",
-      "108":"y #4"
+      "108":"y #4",
+      "109":"y #4",
+      "110":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -190,7 +192,9 @@
       "107":"n",
       "108":"n",
       "109":"n",
-      "110":"n"
+      "110":"n",
+      "111":"n",
+      "112":"n"
     },
     "chrome":{
       "4":"n",
@@ -299,7 +303,9 @@
       "108":"y #4",
       "109":"y #4",
       "110":"y #4",
-      "111":"y #4"
+      "111":"y #4",
+      "112":"y #4",
+      "113":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -334,6 +340,7 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
+      "16.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -423,7 +430,9 @@
       "89":"y #4",
       "90":"y #4",
       "91":"y #4",
-      "92":"y #4"
+      "92":"y #4",
+      "93":"y #4",
+      "94":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -456,7 +465,8 @@
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
-      "16.3":"n"
+      "16.3":"n",
+      "16.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -471,7 +481,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"y #4"
+      "109":"y #4"
     },
     "bb":{
       "7":"n",
@@ -484,13 +494,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"y #4"
+      "73":"y #4"
     },
     "and_chr":{
-      "108":"y #4"
+      "109":"y #4"
     },
     "and_ff":{
-      "107":"n"
+      "109":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -534,7 +544,7 @@
     "3":"Available in [Origin Trials](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials) for Chrome OS, Android M, and Mac",
     "4":"Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md#chrome)"
   },
-  "usage_perc_y":74.34,
+  "usage_perc_y":75.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

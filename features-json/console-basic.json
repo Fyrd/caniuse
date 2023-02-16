@@ -69,7 +69,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -182,7 +184,9 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"y",
@@ -291,7 +295,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"y",
@@ -326,6 +332,7 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -415,7 +422,9 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -448,7 +457,8 @@
       "16.0":"y #3",
       "16.1":"y #3",
       "16.2":"y #3",
-      "16.3":"y #3"
+      "16.3":"y #3",
+      "16.4":"y #3"
     },
     "op_mini":{
       "all":"y #6"
@@ -463,7 +473,7 @@
       "4.2-4.3":"y #4",
       "4.4":"y #4",
       "4.4.3-4.4.4":"y #4",
-      "108":"y #4"
+      "109":"y #4"
     },
     "bb":{
       "7":"n #2",
@@ -476,13 +486,13 @@
       "11.5":"n #2",
       "12":"n #2",
       "12.1":"n #2",
-      "72":"y #4"
+      "73":"y #4"
     },
     "and_chr":{
-      "108":"y #4"
+      "109":"y #4"
     },
     "and_ff":{
-      "107":"y #5"
+      "109":"y #5"
     },
     "ie_mob":{
       "10":"n #2",
@@ -528,8 +538,8 @@
     "5":"Log output on Firefox for Android can be [accessed using WebIDE](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)",
     "6":"See [this article](https://dev.opera.com/articles/opera-mini-and-javascript/) for details on how to see console logging in Opera Mini"
   },
-  "usage_perc_y":97.11,
-  "usage_perc_a":0.14,
+  "usage_perc_y":98.88,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"console.log,console.info,console.warn,console.error,window.console",

@@ -106,7 +106,9 @@
       "105":"a #3",
       "106":"a #3",
       "107":"a #3",
-      "108":"a #3"
+      "108":"a #3",
+      "109":"a #3",
+      "110":"a #3"
     },
     "firefox":{
       "2":"a x #1",
@@ -219,7 +221,9 @@
       "107":"a #4",
       "108":"a #4",
       "109":"a #4",
-      "110":"a #4"
+      "110":"a #4",
+      "111":"a #4",
+      "112":"a #4"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -328,7 +332,9 @@
       "108":"a #3",
       "109":"a #3",
       "110":"a #3",
-      "111":"a #3"
+      "111":"a #3",
+      "112":"a #3",
+      "113":"a #3"
     },
     "safari":{
       "3.1":"a x #1 #2",
@@ -363,6 +369,7 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -452,7 +459,9 @@
       "89":"a #3",
       "90":"a #3",
       "91":"a #3",
-      "92":"a #3"
+      "92":"a #3",
+      "93":"a #3",
+      "94":"a #3"
     },
     "ios_saf":{
       "3.2":"a x #1 #2",
@@ -485,7 +494,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
-      "16.3":"y"
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"y"
@@ -500,7 +510,7 @@
       "4.2-4.3":"a x #1 #2",
       "4.4":"a x #1 #2",
       "4.4.3-4.4.4":"a x #1 #2",
-      "108":"a #3"
+      "109":"a #3"
     },
     "bb":{
       "7":"a x #1 #2",
@@ -513,13 +523,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "72":"a #3"
+      "73":"a #3"
     },
     "and_chr":{
-      "108":"a #3"
+      "109":"a #3"
     },
     "and_ff":{
-      "107":"a #4"
+      "109":"a #4"
     },
     "ie_mob":{
       "10":"y",
@@ -563,8 +573,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":22.51,
-  "usage_perc_a":76.39,
+  "usage_perc_y":22.46,
+  "usage_perc_a":77.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

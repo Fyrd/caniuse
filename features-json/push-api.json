@@ -65,7 +65,9 @@
       "105":"y #2",
       "106":"y #2",
       "107":"y #2",
-      "108":"y #2"
+      "108":"y #2",
+      "109":"y #2",
+      "110":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -178,7 +180,9 @@
       "107":"y #2",
       "108":"y #2",
       "109":"y #2",
-      "110":"y #2"
+      "110":"y #2",
+      "111":"y #2",
+      "112":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -287,7 +291,9 @@
       "108":"y #2",
       "109":"y #2",
       "110":"y #2",
-      "111":"y #2"
+      "111":"y #2",
+      "112":"y #2",
+      "113":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -297,10 +303,10 @@
       "5.1":"n",
       "6":"n",
       "6.1":"n",
-      "7":"n",
-      "7.1":"n",
-      "8":"n",
-      "9":"n",
+      "7":"n #3",
+      "7.1":"n #3",
+      "8":"n #3",
+      "9":"n #3",
       "9.1":"n #3",
       "10":"n #3",
       "10.1":"n #3",
@@ -322,6 +328,7 @@
       "16.1":"a #3 #6",
       "16.2":"a #3 #6",
       "16.3":"a #3 #6",
+      "16.4":"a #3 #6",
       "TP":"a #3 #6"
     },
     "opera":{
@@ -411,7 +418,9 @@
       "89":"y #2",
       "90":"y #2",
       "91":"y #2",
-      "92":"y #2"
+      "92":"y #2",
+      "93":"y #2",
+      "94":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -444,7 +453,8 @@
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
-      "16.3":"n"
+      "16.3":"n",
+      "16.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -459,7 +469,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"n"
+      "109":"n"
     },
     "bb":{
       "7":"n",
@@ -472,13 +482,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "109":"y"
     },
     "and_ff":{
-      "107":"y"
+      "109":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -519,13 +529,13 @@
   "notes_by_num":{
     "1":"Partial support refers to not supporting `PushEvent.data` and `PushMessageData`",
     "2":"Requires full browser to be running to receive messages",
-    "3":"Safari 9.1 - 16.0 supported a custom implementation which remains available in later versions, see [Safari Push Notifications](https://developer.apple.com/notifications/safari-push-notifications/) and [WWDC video](https://web.archive.org/web/20210419000205/https://developer.apple.com/videos/play/wwdc2013/614/)",
+    "3":"Safari 7.0 - 16.0 supported a custom implementation which remains available in later versions, see [Safari Push Notifications](https://developer.apple.com/notifications/safari-push-notifications/) and [WWDC video](https://web.archive.org/web/20210419000205/https://developer.apple.com/videos/play/wwdc2013/614/)",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags",
     "5":"Partial implementation can be enabled via \"Push API\" in the Experimental Features menu",
     "6":"Only available on macOS 13 Ventura or later and only in Safari itself, not WKWebView nor SFSafariViewController"
   },
-  "usage_perc_y":77.82,
-  "usage_perc_a":0.88,
+  "usage_perc_y":78.48,
+  "usage_perc_a":1.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

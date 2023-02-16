@@ -77,7 +77,9 @@
       "105":"p d #3",
       "106":"p d #3",
       "107":"p d #3",
-      "108":"p d #3"
+      "108":"p d #3",
+      "109":"y #4",
+      "110":"y #4"
     },
     "firefox":{
       "2":"y #1",
@@ -190,7 +192,9 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"p",
@@ -297,9 +301,11 @@
       "106":"p d #3",
       "107":"p d #3",
       "108":"p d #3",
-      "109":"p d #3",
-      "110":"p d #3",
-      "111":"p d #3"
+      "109":"y #4",
+      "110":"y #4",
+      "111":"y #4",
+      "112":"y #4",
+      "113":"y #4"
     },
     "safari":{
       "3.1":"a #2",
@@ -334,6 +340,7 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -423,7 +430,9 @@
       "89":"p d #3",
       "90":"p d #3",
       "91":"p d #3",
-      "92":"p d #3"
+      "92":"p d #3",
+      "93":"p d #3",
+      "94":"p d #3"
     },
     "ios_saf":{
       "3.2":"p",
@@ -456,7 +465,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
-      "16.3":"y"
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"p"
@@ -471,7 +481,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "108":"p"
+      "109":"y #4"
     },
     "bb":{
       "7":"p",
@@ -484,13 +494,13 @@
       "11.5":"p",
       "12":"p",
       "12.1":"p",
-      "72":"p"
+      "73":"p"
     },
     "and_chr":{
-      "108":"p"
+      "109":"y #4"
     },
     "and_ff":{
-      "107":"y"
+      "109":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -532,11 +542,11 @@
     "1":"Before version 4, Firefox only supports the XHTML notation",
     "2":"Before version 10, Safari had issues rendering significant portions of the MathML torture test",
     "3":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
-    "4":"Browsers based on Chromium 108+ specifically support [MathML Core](https://www.w3.org/TR/mathml-core/). While there is significant support overlap with other MathML implementations there are some differences ([see details](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ)).",
+    "4":"Browsers based on Chromium 109+ specifically support [MathML Core](https://www.w3.org/TR/mathml-core/). While there is significant support overlap with other MathML implementations there are some differences ([see details](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ)).",
     "5":"Opera's support is limited to a CSS profile of MathML"
   },
-  "usage_perc_y":21.34,
-  "usage_perc_a":0.14,
+  "usage_perc_y":74.82,
+  "usage_perc_a":0.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

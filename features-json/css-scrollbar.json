@@ -83,7 +83,9 @@
       "105":"a x #2",
       "106":"a x #2",
       "107":"a x #2",
-      "108":"a x #2"
+      "108":"a x #2",
+      "109":"a x #2",
+      "110":"a x #2"
     },
     "firefox":{
       "2":"n",
@@ -196,7 +198,9 @@
       "107":"a #6",
       "108":"a #6",
       "109":"a #6",
-      "110":"a #6"
+      "110":"a #6",
+      "111":"a #6",
+      "112":"a #6"
     },
     "chrome":{
       "4":"a x #2",
@@ -305,7 +309,9 @@
       "108":"a x #2",
       "109":"a x #2",
       "110":"a x #2",
-      "111":"a x #2"
+      "111":"a x #2",
+      "112":"a x #2",
+      "113":"a x #2"
     },
     "safari":{
       "3.1":"u",
@@ -340,6 +346,7 @@
       "16.1":"a x #2",
       "16.2":"a x #2",
       "16.3":"a x #2",
+      "16.4":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -429,7 +436,9 @@
       "89":"a x #2",
       "90":"a x #2",
       "91":"a x #2",
-      "92":"a x #2"
+      "92":"a x #2",
+      "93":"a x #2",
+      "94":"a x #2"
     },
     "ios_saf":{
       "3.2":"u",
@@ -462,7 +471,8 @@
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
-      "16.3":"n"
+      "16.3":"n",
+      "16.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -477,7 +487,7 @@
       "4.2-4.3":"a x #2",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "108":"a x #2"
+      "109":"a x #2"
     },
     "bb":{
       "7":"a x #2",
@@ -490,13 +500,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"a x #2"
+      "73":"a x #2"
     },
     "and_chr":{
-      "108":"a x #2"
+      "109":"a x #2"
     },
     "and_ff":{
-      "107":"n"
+      "109":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -543,7 +553,7 @@
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":83.33,
+  "usage_perc_a":84.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

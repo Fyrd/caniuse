@@ -74,7 +74,9 @@
       "105":"y #3 #4",
       "106":"y #3 #4",
       "107":"y #3 #4",
-      "108":"y #3 #4"
+      "108":"y #3 #4",
+      "109":"y #3 #4",
+      "110":"y #3 #4"
     },
     "firefox":{
       "2":"n",
@@ -187,7 +189,9 @@
       "107":"y #3",
       "108":"y #3",
       "109":"y #3",
-      "110":"y #3"
+      "110":"y #3",
+      "111":"y #3",
+      "112":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -296,7 +300,9 @@
       "108":"y #3 #4",
       "109":"y #3 #4",
       "110":"y #3 #4",
-      "111":"y #3 #4"
+      "111":"y #3 #4",
+      "112":"y #3 #4",
+      "113":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -331,6 +337,7 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
+      "16.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -420,7 +427,9 @@
       "89":"y #3 #4",
       "90":"y #3 #4",
       "91":"y #3 #4",
-      "92":"y #3 #4"
+      "92":"y #3 #4",
+      "93":"y #3 #4",
+      "94":"y #3 #4"
     },
     "ios_saf":{
       "3.2":"n #1",
@@ -453,7 +462,8 @@
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
-      "16.3":"n"
+      "16.3":"n",
+      "16.4":"n"
     },
     "op_mini":{
       "all":"n #1"
@@ -468,7 +478,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"n"
+      "109":"n"
     },
     "bb":{
       "7":"n",
@@ -481,13 +491,13 @@
       "11.5":"n #1",
       "12":"n #1",
       "12.1":"n #1",
-      "72":"y #3 #4"
+      "73":"y #3 #4"
     },
     "and_chr":{
-      "108":"y #3 #4"
+      "109":"y #3 #4"
     },
     "and_ff":{
-      "107":"n"
+      "109":"n"
     },
     "ie_mob":{
       "10":"n #1",
@@ -532,7 +542,7 @@
     "4":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0).",
     "5":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0)."
   },
-  "usage_perc_y":74.62,
+  "usage_perc_y":76.11,
   "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",

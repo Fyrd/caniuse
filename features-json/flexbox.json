@@ -123,7 +123,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"a x #1",
@@ -236,7 +238,9 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -345,7 +349,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -380,6 +386,7 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -469,7 +476,9 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -502,7 +511,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
-      "16.3":"y"
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"y"
@@ -517,7 +527,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"a x #1",
@@ -530,13 +540,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"y",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "109":"y"
     },
     "and_ff":{
-      "107":"y"
+      "109":"y"
     },
     "ie_mob":{
       "10":"a x #2",
@@ -580,8 +590,8 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":97.8,
-  "usage_perc_a":1.08,
+  "usage_perc_y":98.75,
+  "usage_perc_a":1.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,displayflex,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",

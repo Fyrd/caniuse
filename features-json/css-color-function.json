@@ -73,7 +73,9 @@
       "105":"n",
       "106":"n",
       "107":"n",
-      "108":"n d #2"
+      "108":"n d #2",
+      "109":"n d #2",
+      "110":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -186,7 +188,9 @@
       "107":"n",
       "108":"n",
       "109":"n",
-      "110":"n"
+      "110":"n",
+      "111":"n",
+      "112":"n"
     },
     "chrome":{
       "4":"n",
@@ -295,7 +299,9 @@
       "108":"n d #2",
       "109":"n d #2",
       "110":"n d #2",
-      "111":"n d #2"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"n",
@@ -330,6 +336,7 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -419,7 +426,9 @@
       "89":"n",
       "90":"n",
       "91":"n",
-      "92":"n"
+      "92":"n",
+      "93":"n",
+      "94":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -452,7 +461,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
-      "16.3":"y"
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -467,7 +477,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"n"
+      "109":"n"
     },
     "bb":{
       "7":"n",
@@ -480,13 +490,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"n"
+      "73":"n"
     },
     "and_chr":{
-      "108":"n"
+      "109":"n"
     },
     "and_ff":{
-      "107":"n"
+      "109":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -528,8 +538,8 @@
     "1":"Only supports `display-p3` predefined color profile.",
     "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
   },
-  "usage_perc_y":15.38,
-  "usage_perc_a":2.43,
+  "usage_perc_y":15.98,
+  "usage_perc_a":2.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"color(),Display-P3,A98-RGB,ProPhoto-RGB,REC-2020,Device-Dependent Colors,Profiled Colors,@color-profile,color space",
