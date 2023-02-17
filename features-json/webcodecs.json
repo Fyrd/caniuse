@@ -340,8 +340,8 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"n",
-      "TP":"a"
+      "16.4":"a #2",
+      "TP":"a #2"
     },
     "opera":{
       "9":"n",
@@ -466,7 +466,7 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"n"
+      "16.4":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -539,7 +539,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Partial implemention can be enabled via the \"Web Codecs\" flag in the \"Experimental Features\" developer menu"
+    "1":"Partial implemention can be enabled via the \"Web Codecs\" flag in the \"Experimental Features\" developer menu",
+    "2":"Video-only support"
   },
   "usage_perc_y":72.07,
   "usage_perc_a":0,
