@@ -519,7 +519,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"a #3"
+      "2.5":"a #3",
+      "3.0-3.1":"a #3"
     }
   },
   "notes":"This support information does not include support for other `autocomplete` values.\r\n\r\nAs described in detail below, many modern browsers ignore the `off` value on certain fields in certain cases intentionally in order to give the user more control over autofilling fields. One example is the use of password managers.",

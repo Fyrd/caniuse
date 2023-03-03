@@ -536,7 +536,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Whether or not a document was/will be cached by a back-forward cache is indicated by [`event.persisted` property](https://developer.mozilla.org/en-US/docs/Web/API/PageTransitionEvent/persisted) where developers can [opt to reload the page](https://web.dev/bfcache/) if needed.",

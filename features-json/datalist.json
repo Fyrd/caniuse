@@ -545,7 +545,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"n"
     }
   },
   "notes":"While most commonly used on text fields, datalists can also be used on other input types. IE11 supports the element on `range` fields. Chrome and Opera also support datalists to suggest given values on `range`, `color` and date/time fields. ",

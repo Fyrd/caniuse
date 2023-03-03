@@ -543,7 +543,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"a #5"
+      "2.5":"a #5",
+      "3.0-3.1":"a #5"
     }
   },
   "notes":"There used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336).",

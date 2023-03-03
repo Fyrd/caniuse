@@ -544,7 +544,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"a #3"
+      "2.5":"a #3",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Any ancestor between the sticky element and its user-scrollable container with overflow computed as anything but `visible`/`clip` will effectively prevent sticking behavior.",

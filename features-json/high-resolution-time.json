@@ -536,7 +536,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"The timestamp is not actually high-resolution. To mitigate security threats such as Spectre, browsers currently round the result to varying degrees.",

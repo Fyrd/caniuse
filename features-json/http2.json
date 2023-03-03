@@ -523,7 +523,8 @@
       "13.18":"y #3"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y #3"
     }
   },
   "notes":"HTTP/2 is only supported over TLS (HTTPS). See also the precursor of HTTP/2, [the SPDY protocol](https://caniuse.com/#feat=spdy), which has been deprecated and removed from most browsers, in favor of HTTP/2.",

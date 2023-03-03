@@ -519,7 +519,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"\"online\" does not always mean connection to the internet, it can also just mean connection to some network.\r\n\r\nEarly versions of Chrome and Safari always reported \"true\" for `navigator.onLine`",

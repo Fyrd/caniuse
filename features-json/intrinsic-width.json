@@ -521,7 +521,8 @@
       "13.18":"y #3 #4"
     },
     "kaios":{
-      "2.5":"a x #1 #2 #3"
+      "2.5":"a x #1 #2 #3",
+      "3.0-3.1":"a #2 #5"
     }
   },
   "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content)\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",

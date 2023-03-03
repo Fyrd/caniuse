@@ -523,7 +523,8 @@
       "13.18":"n"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"n"
     }
   },
   "notes":"All browsers have removed support. The header was too complicated to use, and when incorrectly implemented, could completely block websites for longer periods of time.\r\n\r\n[Certificate transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency) is widely used and tries to provide the same security by very different means.",

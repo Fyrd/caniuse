@@ -519,7 +519,8 @@
       "13.18":"n"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"n"
     }
   },
   "notes":"Webkit and blink-based mobile browsers recognize the property but it does not appear to have any effect.\r\n\r\nThere is currently no unprefixed `user-drag` or other version of the property implemented in browsers or on a standards track as the HTML [draggable](/mdn-api_htmlelement_draggable) attribute/property is the preferred solution.",

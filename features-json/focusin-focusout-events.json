@@ -527,7 +527,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"y"
     }
   },
   "notes":"In browsers that don't support these events, one alternative is to use a capture phase event listener for the `focus` and/or `blur` events.",

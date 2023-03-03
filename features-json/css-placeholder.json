@@ -535,7 +535,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y x"
+      "2.5":"y x",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Partial support refers to using alternate names:\r\n`::-webkit-input-placeholder` for Chrome/Safari/Opera ([Chrome issue #623345](https://bugs.chromium.org/p/chromium/issues/detail?id=623345)) \r\n`::-ms-input-placeholder` for Edge (also supports webkit prefix)",

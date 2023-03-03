@@ -521,7 +521,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Partial support refers to the doNotTrack field being misnamed, or being attached to an object other than `navigator` (e.g. `window`).",

@@ -548,7 +548,8 @@
       "13.18":"y #3"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"y"
     }
   },
   "notes":"This feature is backwards compatible. Browsers not supporting this feature will simply use the cookie as a regular cookie. There is no need to deliver different cookies to clients.",

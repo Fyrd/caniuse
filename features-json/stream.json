@@ -540,7 +540,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"y"
     }
   },
   "notes":"As of Chrome 47, the getUserMedia API cannot be called from insecure origins.",

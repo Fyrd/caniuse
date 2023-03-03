@@ -527,7 +527,8 @@
       "13.18":"a #1"
     },
     "kaios":{
-      "2.5":"a #1"
+      "2.5":"a #1",
+      "3.0-3.1":"a #1"
     }
   },
   "notes":"Browsers have generally decided to not implement DNSSEC validation because the added complexity outweighs the improvements to the browser. DNSSEC is still useful as it is widely used to protect delivery of records between DNS servers, only failing to protect the delivery from the last DNS server to the browser.\r\n\r\n[Certificate transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency) is widely used and tries to provide the same security as DNSSEC but by very different means.",

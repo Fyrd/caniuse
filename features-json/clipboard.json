@@ -525,7 +525,8 @@
       "13.18":"a #7"
     },
     "kaios":{
-      "2.5":"a #6"
+      "2.5":"a #6",
+      "3.0-3.1":"a #6"
     }
   },
   "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+, Opera 29+ and Firefox 41+ support clipboard reading/writing only when part of a user action (click, keydown, etc).",

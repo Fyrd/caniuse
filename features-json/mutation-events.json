@@ -519,7 +519,8 @@
       "13.18":"a #1"
     },
     "kaios":{
-      "2.5":"a #2"
+      "2.5":"a #2",
+      "3.0-3.1":"a #2"
     }
   },
   "notes":"See also support for [Mutation Observer](https://caniuse.com/#feat=mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",

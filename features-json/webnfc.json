@@ -527,7 +527,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"n"
     }
   },
   "notes":"Many devices are not equipped with NFC readers. They won't return any data, even though an installed browser might support this API.",

@@ -536,7 +536,8 @@
       "13.18":"a"
     },
     "kaios":{
-      "2.5":"a"
+      "2.5":"a",
+      "3.0-3.1":"a"
     }
   },
   "notes":"Partial support refers to the lack of compassneedscalibration event. Partial support also refers to the lack of devicemotion event support for Chrome 30- and Opera. Opera Mobile 14 lost the ondevicemotion event support. Firefox 3.6, 4 and 5 support the non-standard [MozOrientation](https://developer.mozilla.org/en/DOM/MozOrientation) event.",
