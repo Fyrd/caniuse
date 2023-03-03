@@ -519,7 +519,8 @@
       "16.0":"a #1 #2 #3",
       "17.0":"a #1 #2 #3",
       "18.0":"a #1 #2 #3",
-      "19.0":"a #1 #2 #3"
+      "19.0":"a #1 #2 #3",
+      "20":"a #1 #2 #3"
     },
     "and_qq":{
       "13.1":"a #1 #2 #3"
@@ -538,8 +539,8 @@
     "2":"Does not support `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always`."
   },
-  "usage_perc_y":1.07,
-  "usage_perc_a":98.92,
+  "usage_perc_y":1.05,
+  "usage_perc_a":98.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

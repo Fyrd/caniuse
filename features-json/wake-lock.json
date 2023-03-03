@@ -522,7 +522,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"n"
@@ -539,8 +540,8 @@
   "notes_by_num":{
     "1":"Available behind the #experimental-web-platform-features feature flag"
   },
-  "usage_perc_y":72.91,
-  "usage_perc_a":0,
+  "usage_perc_y":72.21,
+  "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.wakelock.request,wakelocksentinel,screen-wake-lock",

@@ -555,7 +555,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"a #3"
@@ -575,8 +576,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":22.46,
-  "usage_perc_a":77.35,
+  "usage_perc_y":21.74,
+  "usage_perc_a":77.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

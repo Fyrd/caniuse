@@ -530,7 +530,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"a #7"
@@ -554,8 +555,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":91.37,
-  "usage_perc_a":3.4,
+  "usage_perc_y":90.84,
+  "usage_perc_a":3.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",
