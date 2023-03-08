@@ -81,7 +81,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -193,7 +195,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"n",
@@ -302,7 +307,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"n",
@@ -336,6 +343,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -425,7 +434,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -456,7 +468,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"y"
@@ -471,7 +486,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"n",
@@ -484,13 +499,13 @@
       "11.5":"n",
       "12":"u",
       "12.1":"y",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "110":"y"
     },
     "and_ff":{
-      "107":"y"
+      "110":"y"
     },
     "ie_mob":{
       "10":"a #2",
@@ -515,7 +530,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -524,7 +540,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"[\"Some key events, or their values, might be suppressed by the IME in use\"](https://www.w3.org/TR/2019/WD-uievents-20190530/#keys-IME). On mobile (virtual keyboard), for every key Blink and WebKit based browsers report \"Unidentified\", Gecko reports \"Process\".",
@@ -532,8 +549,8 @@
     "1":"Partial support refers to these versions of Firefox returning `\"MozPrintableKey\"` for all character keys.",
     "2":"Has non-standard key identifiers and incorrect behaviour with AltGraph."
   },
-  "usage_perc_y":97.74,
-  "usage_perc_a":0.62,
+  "usage_perc_y":97,
+  "usage_perc_a":0.66,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,key",

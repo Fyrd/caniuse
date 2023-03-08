@@ -63,7 +63,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -175,7 +177,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"n",
@@ -284,7 +289,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"n",
@@ -318,6 +325,8 @@
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
+      "16.3":"n",
+      "16.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -407,7 +416,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -438,7 +450,10 @@
       "15.5":"n",
       "15.6":"n",
       "16.0":"n",
-      "16.1":"n"
+      "16.1":"n",
+      "16.2":"n",
+      "16.3":"n",
+      "16.4":"n"
     },
     "op_mini":{
       "all":"y"
@@ -453,7 +468,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"u",
@@ -466,13 +481,13 @@
       "11.5":"u",
       "12":"u",
       "12.1":"y",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "110":"y"
     },
     "and_ff":{
-      "107":"y"
+      "110":"y"
     },
     "ie_mob":{
       "10":"a x #1",
@@ -497,7 +512,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -506,7 +522,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Partial support refers to the doNotTrack field being misnamed, or being attached to an object other than `navigator` (e.g. `window`).",
@@ -516,8 +533,8 @@
     "3":"Browsers based on Gecko versions prior to 32 used 'yes' and 'no' rather than '1' and '0'.",
     "4":"Between versions 6.1.1 and 9.1.3, Safari supported an ultimately-rejected amendment to the spec, using `window.doNotTrack` rather than `navigator.doNotTrack`."
   },
-  "usage_perc_y":80.66,
-  "usage_perc_a":0.75,
+  "usage_perc_y":79.82,
+  "usage_perc_a":0.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"DNT",

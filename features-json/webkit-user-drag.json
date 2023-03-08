@@ -61,7 +61,9 @@
       "105":"a #1",
       "106":"a #1",
       "107":"a #1",
-      "108":"a #1"
+      "108":"a #1",
+      "109":"a #1",
+      "110":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -173,7 +175,10 @@
       "106":"n",
       "107":"n",
       "108":"n",
-      "109":"n"
+      "109":"n",
+      "110":"n",
+      "111":"n",
+      "112":"n"
     },
     "chrome":{
       "4":"u",
@@ -282,7 +287,9 @@
       "108":"a #1",
       "109":"a #1",
       "110":"a #1",
-      "111":"a #1"
+      "111":"a #1",
+      "112":"a #1",
+      "113":"a #1"
     },
     "safari":{
       "3.1":"y",
@@ -316,6 +323,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -405,7 +414,10 @@
       "89":"a #1",
       "90":"a #1",
       "91":"a #1",
-      "92":"a #1"
+      "92":"a #1",
+      "93":"a #1",
+      "94":"a #1",
+      "95":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -436,7 +448,10 @@
       "15.5":"n",
       "15.6":"n",
       "16.0":"n",
-      "16.1":"n"
+      "16.1":"n",
+      "16.2":"n",
+      "16.3":"n",
+      "16.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -451,7 +466,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"n"
+      "109":"n"
     },
     "bb":{
       "7":"n",
@@ -464,13 +479,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"n"
+      "73":"n"
     },
     "and_chr":{
-      "108":"n"
+      "110":"n"
     },
     "and_ff":{
-      "107":"n"
+      "110":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -495,7 +510,8 @@
       "16.0":"n",
       "17.0":"n",
       "18.0":"n",
-      "19.0":"n"
+      "19.0":"n",
+      "20":"n"
     },
     "and_qq":{
       "13.1":"n"
@@ -504,15 +520,16 @@
       "13.18":"n"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"n"
     }
   },
   "notes":"Webkit and blink-based mobile browsers recognize the property but it does not appear to have any effect.\r\n\r\nThere is currently no unprefixed `user-drag` or other version of the property implemented in browsers or on a standards track as the HTML [draggable](/mdn-api_htmlelement_draggable) attribute/property is the preferred solution.",
   "notes_by_num":{
     "1":"`-webkit-user-drag: none` works, but `-webkit-user-drag: element` does not appear to have an effect."
   },
-  "usage_perc_y":3.65,
-  "usage_perc_a":30.58,
+  "usage_perc_y":3.85,
+  "usage_perc_a":29.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"-webkit-user-drag:none,-webkit-user-drag:element,-webkit-user-drag:auto",

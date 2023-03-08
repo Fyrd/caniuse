@@ -61,7 +61,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"y",
@@ -173,7 +175,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"y",
@@ -282,7 +287,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"n",
@@ -316,6 +323,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -405,7 +414,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -436,7 +448,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -451,7 +466,7 @@
       "4.2-4.3":"y",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"y",
@@ -464,13 +479,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"a #1"
+      "110":"a #1"
     },
     "and_ff":{
-      "107":"a #1"
+      "110":"a #1"
     },
     "ie_mob":{
       "10":"y",
@@ -495,7 +510,8 @@
       "16.0":"a #1",
       "17.0":"a #1",
       "18.0":"a #1",
-      "19.0":"a #1"
+      "19.0":"a #1",
+      "20":"a #1"
     },
     "and_qq":{
       "13.1":"y"
@@ -504,15 +520,16 @@
       "13.18":"a #1"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"This property is legacy and deprecated.\n[\"Some key events, or their values, might be suppressed by the IME in use\"](https://www.w3.org/TR/2019/WD-uievents-20190530/#keys-IME). On mobile (virtual keyboard), all keys are reported as 229.",
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":53.77,
-  "usage_perc_a":44.95,
+  "usage_perc_y":53,
+  "usage_perc_a":45.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

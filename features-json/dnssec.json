@@ -69,7 +69,9 @@
       "105":"a #1",
       "106":"a #1",
       "107":"a #1",
-      "108":"a #1"
+      "108":"a #1",
+      "109":"a #1",
+      "110":"a #1"
     },
     "firefox":{
       "2":"a #1",
@@ -181,7 +183,10 @@
       "106":"a #1",
       "107":"a #1",
       "108":"a #1",
-      "109":"a #1"
+      "109":"a #1",
+      "110":"a #1",
+      "111":"a #1",
+      "112":"a #1"
     },
     "chrome":{
       "4":"a #1",
@@ -290,7 +295,9 @@
       "108":"a #1",
       "109":"a #1",
       "110":"a #1",
-      "111":"a #1"
+      "111":"a #1",
+      "112":"a #1",
+      "113":"a #1"
     },
     "safari":{
       "3.1":"a #1",
@@ -324,6 +331,8 @@
       "16.0":"a #1",
       "16.1":"a #1",
       "16.2":"a #1",
+      "16.3":"a #1",
+      "16.4":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -413,7 +422,10 @@
       "89":"a #1",
       "90":"a #1",
       "91":"a #1",
-      "92":"a #1"
+      "92":"a #1",
+      "93":"a #1",
+      "94":"a #1",
+      "95":"a #1"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -444,7 +456,10 @@
       "15.5":"a #1",
       "15.6":"a #1",
       "16.0":"a #1",
-      "16.1":"a #1"
+      "16.1":"a #1",
+      "16.2":"a #1",
+      "16.3":"a #1",
+      "16.4":"a #1"
     },
     "op_mini":{
       "all":"a #1"
@@ -459,7 +474,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "108":"a #1"
+      "109":"a #1"
     },
     "bb":{
       "7":"a #1",
@@ -472,13 +487,13 @@
       "11.5":"a #1",
       "12":"a #1",
       "12.1":"a #1",
-      "72":"a #1"
+      "73":"a #1"
     },
     "and_chr":{
-      "108":"a #1"
+      "110":"a #1"
     },
     "and_ff":{
-      "107":"a #1"
+      "110":"a #1"
     },
     "ie_mob":{
       "10":"a #1",
@@ -503,7 +518,8 @@
       "16.0":"a #1",
       "17.0":"a #1",
       "18.0":"a #1",
-      "19.0":"a #1"
+      "19.0":"a #1",
+      "20":"a #1"
     },
     "and_qq":{
       "13.1":"a #1"
@@ -512,7 +528,8 @@
       "13.18":"a #1"
     },
     "kaios":{
-      "2.5":"a #1"
+      "2.5":"a #1",
+      "3.0-3.1":"a #1"
     }
   },
   "notes":"Browsers have generally decided to not implement DNSSEC validation because the added complexity outweighs the improvements to the browser. DNSSEC is still useful as it is widely used to protect delivery of records between DNS servers, only failing to protect the delivery from the last DNS server to the browser.\r\n\r\n[Certificate transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency) is widely used and tries to provide the same security as DNSSEC but by very different means.",
@@ -521,7 +538,7 @@
     "2":"Early versions of Chrome [experimented](https://www.imperialviolet.org/2011/06/16/dnssecchrome.html) with browser-level validation."
   },
   "usage_perc_y":0,
-  "usage_perc_a":99.94,
+  "usage_perc_a":99.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"DNS Security Extensions,Domain Name System Security Extensions,DNS based Authentication of Named Entities",

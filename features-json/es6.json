@@ -69,7 +69,9 @@
       "105":"y #2",
       "106":"y #2",
       "107":"y #2",
-      "108":"y #2"
+      "108":"y #2",
+      "109":"y #2",
+      "110":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -181,7 +183,10 @@
       "106":"y #2",
       "107":"y #2",
       "108":"y #2",
-      "109":"y #2"
+      "109":"y #2",
+      "110":"y #2",
+      "111":"y #2",
+      "112":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -290,7 +295,9 @@
       "108":"y #2",
       "109":"y #2",
       "110":"y #2",
-      "111":"y #2"
+      "111":"y #2",
+      "112":"y #2",
+      "113":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -324,6 +331,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -413,7 +422,10 @@
       "89":"y #2",
       "90":"y #2",
       "91":"y #2",
-      "92":"y #2"
+      "92":"y #2",
+      "93":"y #2",
+      "94":"y #2",
+      "95":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -444,7 +456,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -459,7 +474,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "108":"y #2"
+      "109":"y #2"
     },
     "bb":{
       "7":"n",
@@ -472,13 +487,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"y #2"
+      "73":"y #2"
     },
     "and_chr":{
-      "108":"y #2"
+      "110":"y #2"
     },
     "and_ff":{
-      "107":"y #2"
+      "110":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -503,7 +518,8 @@
       "16.0":"y #2",
       "17.0":"y #2",
       "18.0":"y #2",
-      "19.0":"y #2"
+      "19.0":"y #2",
+      "20":"y #2"
     },
     "and_qq":{
       "13.1":"y #2"
@@ -512,7 +528,8 @@
       "13.18":"y #2"
     },
     "kaios":{
-      "2.5":"a"
+      "2.5":"a",
+      "3.0-3.1":"y #2"
     }
   },
   "notes":"As ES6 refers to a huge specification and browsers have various levels of support, \"Supported\" means at least 95% of the spec is supported. \"Partial support\" refers to at least 10% of the spec being supported. For full details see the [Kangax ES6 support table](https://kangax.github.io/compat-table/es6/).",
@@ -521,8 +538,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":96.54,
-  "usage_perc_a":1.82,
+  "usage_perc_y":95.75,
+  "usage_perc_a":1.95,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

@@ -90,7 +90,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -202,7 +204,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"n",
@@ -311,7 +316,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"n",
@@ -345,6 +352,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -434,7 +443,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -465,7 +477,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -480,7 +495,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"n",
@@ -493,13 +508,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "110":"y"
     },
     "and_ff":{
-      "107":"y"
+      "110":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -524,7 +539,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -533,7 +549,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Whenever possible, font-variant shorthand property or an associated longhand property, font-variant-ligatures, font-variant-caps, font-variant-east-asian, font-variant-alternates, font-variant-numeric or font-variant-position should be used. This property is a low-level feature designed to handle special cases where no other way to enable or access an OpenType font feature exists. In particular, this CSS property shouldn't be used to enable small caps.",
@@ -541,7 +558,7 @@
     "1":"From Gecko 2.0 (Firefox 4.0) to Gecko 14.0 (Firefox 14.0) included, Gecko supported an older syntax, slightly different from the modern one: https://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
     "2":"Partial support in older Chrome versions refers to lacking support in Mac OS X."
   },
-  "usage_perc_y":98.24,
+  "usage_perc_y":97.58,
   "usage_perc_a":0.14,
   "ucprefix":false,
   "parent":"",

@@ -77,7 +77,9 @@
       "105":"a",
       "106":"a",
       "107":"a",
-      "108":"a"
+      "108":"a",
+      "109":"a",
+      "110":"a"
     },
     "firefox":{
       "2":"u",
@@ -189,7 +191,10 @@
       "106":"a",
       "107":"a",
       "108":"a",
-      "109":"a"
+      "109":"a",
+      "110":"a",
+      "111":"a",
+      "112":"a"
     },
     "chrome":{
       "4":"u",
@@ -298,7 +303,9 @@
       "108":"a",
       "109":"a",
       "110":"a",
-      "111":"a"
+      "111":"a",
+      "112":"a",
+      "113":"a"
     },
     "safari":{
       "3.1":"u",
@@ -332,6 +339,8 @@
       "16.0":"a",
       "16.1":"a",
       "16.2":"a",
+      "16.3":"a",
+      "16.4":"a",
       "TP":"a"
     },
     "opera":{
@@ -421,7 +430,10 @@
       "89":"a",
       "90":"a",
       "91":"a",
-      "92":"a"
+      "92":"a",
+      "93":"a",
+      "94":"a",
+      "95":"a"
     },
     "ios_saf":{
       "3.2":"u",
@@ -452,7 +464,10 @@
       "15.5":"a",
       "15.6":"a",
       "16.0":"a",
-      "16.1":"a"
+      "16.1":"a",
+      "16.2":"a",
+      "16.3":"a",
+      "16.4":"a"
     },
     "op_mini":{
       "all":"n"
@@ -467,7 +482,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "108":"a"
+      "109":"a"
     },
     "bb":{
       "7":"a",
@@ -480,13 +495,13 @@
       "11.5":"u",
       "12":"u",
       "12.1":"a",
-      "72":"a"
+      "73":"a"
     },
     "and_chr":{
-      "108":"a"
+      "110":"a"
     },
     "and_ff":{
-      "107":"a"
+      "110":"a"
     },
     "ie_mob":{
       "10":"y",
@@ -511,7 +526,8 @@
       "16.0":"a",
       "17.0":"a",
       "18.0":"a",
-      "19.0":"a"
+      "19.0":"a",
+      "20":"a"
     },
     "and_qq":{
       "13.1":"a"
@@ -520,15 +536,16 @@
       "13.18":"a"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"a"
     }
   },
   "notes":"Partial support refers to not supporting the `ALLOW-FROM` option.\r\nThe `X-Frame-Options` header has been obsoleted by [the `frame-ancestors` directive](https://www.w3.org/TR/CSP2/#directive-frame-ancestors) from Content Security Policy Level 2.",
   "notes_by_num":{
     
   },
-  "usage_perc_y":1.06,
-  "usage_perc_a":97.66,
+  "usage_perc_y":1.11,
+  "usage_perc_a":96.92,
   "ucprefix":false,
   "parent":"",
   "keywords":"x-frame-options,frame,options,header,clickjacking",

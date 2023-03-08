@@ -81,7 +81,9 @@
       "105":"a",
       "106":"a",
       "107":"a",
-      "108":"a"
+      "108":"a",
+      "109":"a",
+      "110":"a"
     },
     "firefox":{
       "2":"a",
@@ -193,7 +195,10 @@
       "106":"a",
       "107":"a",
       "108":"a",
-      "109":"a"
+      "109":"a",
+      "110":"a",
+      "111":"a",
+      "112":"a"
     },
     "chrome":{
       "4":"a",
@@ -302,7 +307,9 @@
       "108":"a",
       "109":"a",
       "110":"a",
-      "111":"a"
+      "111":"a",
+      "112":"a",
+      "113":"a"
     },
     "safari":{
       "3.1":"n",
@@ -336,6 +343,8 @@
       "16.0":"a",
       "16.1":"a",
       "16.2":"a",
+      "16.3":"a",
+      "16.4":"a",
       "TP":"a"
     },
     "opera":{
@@ -425,7 +434,10 @@
       "89":"a",
       "90":"a",
       "91":"a",
-      "92":"a"
+      "92":"a",
+      "93":"a",
+      "94":"a",
+      "95":"a"
     },
     "ios_saf":{
       "3.2":"a",
@@ -456,7 +468,10 @@
       "15.5":"a",
       "15.6":"a",
       "16.0":"a",
-      "16.1":"a"
+      "16.1":"a",
+      "16.2":"a",
+      "16.3":"a",
+      "16.4":"a"
     },
     "op_mini":{
       "all":"a"
@@ -471,7 +486,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "108":"a"
+      "109":"a"
     },
     "bb":{
       "7":"n",
@@ -484,13 +499,13 @@
       "11.5":"a",
       "12":"a",
       "12.1":"a",
-      "72":"a"
+      "73":"a"
     },
     "and_chr":{
-      "108":"a"
+      "110":"a"
     },
     "and_ff":{
-      "107":"a"
+      "110":"a"
     },
     "ie_mob":{
       "10":"a",
@@ -515,7 +530,8 @@
       "16.0":"a",
       "17.0":"a",
       "18.0":"a",
-      "19.0":"a"
+      "19.0":"a",
+      "20":"a"
     },
     "and_qq":{
       "13.1":"a"
@@ -524,7 +540,8 @@
       "13.18":"a"
     },
     "kaios":{
-      "2.5":"a"
+      "2.5":"a",
+      "3.0-3.1":"a"
     }
   },
   "notes":"Support for ARIA is rather complex and currently is not fully supported in any browser. For detailed information on partial support see the [ARIA 1.0 Implementation Report](https://www.w3.org/WAI/ARIA/1.0/CR/implementation-report)\r\n",
@@ -532,7 +549,7 @@
     
   },
   "usage_perc_y":0,
-  "usage_perc_a":99.73,
+  "usage_perc_a":99.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"wai,aria,wai-aria,web accessibility initiative,accessible rich internet applications,html,a11y,accessible,aria-hidden,aria-labelledby,aria-haspopup,aria-expanded,aria-controls,roles",

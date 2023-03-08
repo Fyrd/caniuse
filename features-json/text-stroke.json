@@ -71,7 +71,9 @@
       "105":"y x",
       "106":"y x",
       "107":"y x",
-      "108":"y x"
+      "108":"y x",
+      "109":"y x",
+      "110":"y x"
     },
     "firefox":{
       "2":"n",
@@ -183,7 +185,10 @@
       "106":"y x #1",
       "107":"y x #1",
       "108":"y x #1",
-      "109":"y x #1"
+      "109":"y x #1",
+      "110":"y x #1",
+      "111":"y x #1",
+      "112":"y x #1"
     },
     "chrome":{
       "4":"y x",
@@ -292,7 +297,9 @@
       "108":"y x",
       "109":"y x",
       "110":"y x",
-      "111":"y x"
+      "111":"y x",
+      "112":"y x",
+      "113":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -326,6 +333,8 @@
       "16.0":"y x",
       "16.1":"y x",
       "16.2":"y x",
+      "16.3":"y x",
+      "16.4":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -415,7 +424,10 @@
       "89":"y x",
       "90":"y x",
       "91":"y x",
-      "92":"y x"
+      "92":"y x",
+      "93":"y x",
+      "94":"y x",
+      "95":"y x"
     },
     "ios_saf":{
       "3.2":"a x",
@@ -446,7 +458,10 @@
       "15.5":"y x",
       "15.6":"y x",
       "16.0":"y x",
-      "16.1":"y x"
+      "16.1":"y x",
+      "16.2":"y x",
+      "16.3":"y x",
+      "16.4":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -461,7 +476,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "108":"y x"
+      "109":"y x"
     },
     "bb":{
       "7":"y x",
@@ -474,13 +489,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"y x"
+      "73":"y x"
     },
     "and_chr":{
-      "108":"y x"
+      "110":"y x"
     },
     "and_ff":{
-      "107":"y x #1"
+      "110":"y x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -505,7 +520,8 @@
       "16.0":"y x",
       "17.0":"y x",
       "18.0":"y x",
-      "19.0":"y x"
+      "19.0":"y x",
+      "20":"y x"
     },
     "and_qq":{
       "13.1":"y x"
@@ -514,7 +530,8 @@
       "13.18":"y x"
     },
     "kaios":{
-      "2.5":"y x #1"
+      "2.5":"y x #1",
+      "3.0-3.1":"y x #1"
     }
   },
   "notes":"Does not yet appear in any W3C specification. Was briefly included in a spec as the \"text-outline\" property, but this was removed.",
@@ -522,7 +539,7 @@
     "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":97.95,
+  "usage_perc_y":97.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

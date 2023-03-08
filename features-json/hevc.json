@@ -69,7 +69,9 @@
       "105":"a #4",
       "106":"a #4",
       "107":"a #4",
-      "108":"a #4"
+      "108":"a #4",
+      "109":"a #4",
+      "110":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -181,7 +183,10 @@
       "106":"n",
       "107":"n",
       "108":"n",
-      "109":"n"
+      "109":"n",
+      "110":"n",
+      "111":"n",
+      "112":"n"
     },
     "chrome":{
       "4":"n",
@@ -290,7 +295,9 @@
       "108":"a #5",
       "109":"a #5",
       "110":"a #5",
-      "111":"a #5"
+      "111":"a #5",
+      "112":"a #5",
+      "113":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -324,6 +331,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -413,7 +422,10 @@
       "89":"n",
       "90":"n",
       "91":"n",
-      "92":"n"
+      "92":"n",
+      "93":"n",
+      "94":"a #5",
+      "95":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -444,7 +456,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -459,7 +474,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"a #5"
+      "109":"a #5"
     },
     "bb":{
       "7":"n",
@@ -472,13 +487,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"n #2"
+      "73":"n #2"
     },
     "and_chr":{
-      "108":"a #5"
+      "110":"a #5"
     },
     "and_ff":{
-      "107":"n"
+      "110":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -503,7 +518,8 @@
       "16.0":"n #2",
       "17.0":"n #2",
       "18.0":"n #2",
-      "19.0":"n #2"
+      "19.0":"n #2",
+      "20":"n #2"
     },
     "and_qq":{
       "13.1":"n"
@@ -512,7 +528,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"n"
     }
   },
   "notes":"",
@@ -523,8 +540,8 @@
     "4":"Supported on macOS (Edge >= 107, OS >= Big Sur 11.0) and Windows(>= Windows 10 1709) when [HEVC video extensions from the Microsoft Store](https://apps.microsoft.com/store/detail/hevc-video-extension/9NMZLZ57R3T7) is installed for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548)",
     "5":"Supported on Windows(>= Windows 8), macOS(>= Big Sur 11.0), Android, Linux(Chrome >= 108.0.5354.0) and Chrome OS platforms with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding)"
   },
-  "usage_perc_y":18.05,
-  "usage_perc_a":65.34,
+  "usage_perc_y":18.19,
+  "usage_perc_a":69.32,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

@@ -65,7 +65,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -177,7 +179,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"y",
@@ -286,7 +291,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"u",
@@ -320,6 +327,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -409,7 +418,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -440,7 +452,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -455,7 +470,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "108":"y #6"
+      "109":"y #6"
     },
     "bb":{
       "7":"y",
@@ -468,13 +483,13 @@
       "11.5":"a #1",
       "12":"a #1",
       "12.1":"a #1",
-      "72":"y #6"
+      "73":"y #6"
     },
     "and_chr":{
-      "108":"y #6"
+      "110":"y #6"
     },
     "and_ff":{
-      "107":"y #6"
+      "110":"y #6"
     },
     "ie_mob":{
       "10":"y",
@@ -499,7 +514,8 @@
       "16.0":"y #6",
       "17.0":"y #6",
       "18.0":"y #6",
-      "19.0":"y #6"
+      "19.0":"y #6",
+      "20":"y #6"
     },
     "and_qq":{
       "13.1":"y"
@@ -508,7 +524,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y #4"
+      "2.5":"y #4",
+      "3.0-3.1":"y #4"
     }
   },
   "notes":"",
@@ -520,8 +537,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":98.7,
-  "usage_perc_a":1.21,
+  "usage_perc_y":98.04,
+  "usage_perc_a":1.22,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",

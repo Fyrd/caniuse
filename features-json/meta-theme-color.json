@@ -66,7 +66,9 @@
       "105":"n",
       "106":"n",
       "107":"n",
-      "108":"n"
+      "108":"n",
+      "109":"n",
+      "110":"n"
     },
     "firefox":{
       "2":"n",
@@ -178,7 +180,10 @@
       "106":"n",
       "107":"n",
       "108":"n",
-      "109":"n"
+      "109":"n",
+      "110":"n",
+      "111":"n",
+      "112":"n"
     },
     "chrome":{
       "4":"n",
@@ -287,7 +292,9 @@
       "108":"a #1",
       "109":"a #1",
       "110":"a #1",
-      "111":"a #1"
+      "111":"a #1",
+      "112":"a #1",
+      "113":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -321,6 +328,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -410,7 +419,10 @@
       "89":"n",
       "90":"n",
       "91":"n",
-      "92":"n"
+      "92":"n",
+      "93":"n",
+      "94":"n",
+      "95":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -441,7 +453,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -456,7 +471,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"n"
+      "109":"n"
     },
     "bb":{
       "7":"n",
@@ -469,13 +484,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"n"
+      "73":"n"
     },
     "and_chr":{
-      "108":"y #3"
+      "110":"y #3"
     },
     "and_ff":{
-      "107":"n"
+      "110":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -500,7 +515,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"n"
@@ -509,7 +525,8 @@
       "13.18":"n"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"n"
     }
   },
   "notes":"Vivaldi browser (Chromium based) supports this feature in both mobile and desktop version. Also supported in the (now discontinued) Firefox OS.",
@@ -518,8 +535,8 @@
     "2":"Desktop Chrome 39-72 claimed to have support, but did not actually use the color anywhere. Chrome for Android did use the color in the toolbar.",
     "3":"Chrome for Android does not use the color on devices with native `dark-mode` enabled before Chrome 92 unless it's an installed `progressive web app` or a `trusted web activity`."
   },
-  "usage_perc_y":59.9,
-  "usage_perc_a":24.03,
+  "usage_perc_y":60.58,
+  "usage_perc_a":23,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

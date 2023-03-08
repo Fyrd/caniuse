@@ -80,7 +80,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -192,7 +194,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"a #3",
@@ -301,7 +306,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"a #2 #3",
@@ -335,6 +342,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -424,7 +433,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"a",
@@ -455,7 +467,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -470,7 +485,7 @@
       "4.2-4.3":"a #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"y",
@@ -483,13 +498,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "110":"y"
     },
     "and_ff":{
-      "107":"y"
+      "110":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -514,7 +529,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -523,7 +539,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Firefox, Chrome and Safari support the unofficial `-webkit-background-clip: text` (only with prefix). Safari does not support `-webkit-background-clip: text;` for `<button>` elements. But you can put `<span>` inside `<button>` to get the same result.",
@@ -532,8 +549,8 @@
     "2":"Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
     "3":"Does not support `background-size` values in the `background` shorthand"
   },
-  "usage_perc_y":98.6,
-  "usage_perc_a":1.24,
+  "usage_perc_y":97.9,
+  "usage_perc_a":1.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

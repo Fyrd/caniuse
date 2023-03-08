@@ -71,7 +71,9 @@
       "105":"a #1 #2",
       "106":"a #1 #2",
       "107":"a #1 #2",
-      "108":"a #1 #2"
+      "108":"a #1 #2",
+      "109":"a #1 #2",
+      "110":"a #1 #2"
     },
     "firefox":{
       "2":"n",
@@ -183,7 +185,10 @@
       "106":"n #2",
       "107":"n #2",
       "108":"n #2",
-      "109":"n #2"
+      "109":"n #2",
+      "110":"n #2",
+      "111":"n #2",
+      "112":"n #2"
     },
     "chrome":{
       "4":"n",
@@ -292,7 +297,9 @@
       "108":"a #1 #2",
       "109":"a #1 #2",
       "110":"a #1 #2",
-      "111":"a #1 #2"
+      "111":"a #1 #2",
+      "112":"a #1 #2",
+      "113":"a #1 #2"
     },
     "safari":{
       "3.1":"n",
@@ -326,6 +333,8 @@
       "16.0":"n #2",
       "16.1":"n #2",
       "16.2":"n #2",
+      "16.3":"n #2",
+      "16.4":"n #2",
       "TP":"n #2"
     },
     "opera":{
@@ -415,7 +424,10 @@
       "89":"n d #2",
       "90":"n d #2",
       "91":"n d #2",
-      "92":"n d #2"
+      "92":"n d #2",
+      "93":"n d #2",
+      "94":"n d #2",
+      "95":"a #1 #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -446,7 +458,10 @@
       "15.5":"n #2",
       "15.6":"n #2",
       "16.0":"n #2",
-      "16.1":"n #2"
+      "16.1":"n #2",
+      "16.2":"n #2",
+      "16.3":"n #2",
+      "16.4":"n #2"
     },
     "op_mini":{
       "all":"n"
@@ -461,7 +476,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"n #2"
+      "109":"n #2"
     },
     "bb":{
       "7":"n",
@@ -474,13 +489,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"a #1 #2"
+      "73":"a #1 #2"
     },
     "and_chr":{
-      "108":"a #1 #2"
+      "110":"a #1 #2"
     },
     "and_ff":{
-      "107":"n"
+      "110":"n #2"
     },
     "ie_mob":{
       "10":"n",
@@ -505,7 +520,8 @@
       "16.0":"n #2",
       "17.0":"n #2",
       "18.0":"n #2",
-      "19.0":"n #2"
+      "19.0":"n #2",
+      "20":"n #2"
     },
     "and_qq":{
       "13.1":"n #2"
@@ -514,7 +530,8 @@
       "13.18":"a #1 #2"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"n #2"
     }
   },
   "notes":"Standard support includes the HTTP `Permissions-Policy` header, `allow` attribute on iframes and the `document.permissionsPolicy` JS API.",
@@ -523,7 +540,7 @@
     "2":"At least partially supports [Feature Policy](/feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
-  "usage_perc_a":69.32,
+  "usage_perc_a":69.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature policy,feature-policy,document.featurePolicy,document.policy,permissions-policy,document.permissionsPolicy",

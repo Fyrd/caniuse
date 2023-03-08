@@ -82,7 +82,9 @@
       "105":"y #3",
       "106":"n",
       "107":"n",
-      "108":"n"
+      "108":"n",
+      "109":"n",
+      "110":"n"
     },
     "firefox":{
       "2":"n",
@@ -194,7 +196,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -303,7 +308,9 @@
       "108":"n",
       "109":"n",
       "110":"n",
-      "111":"n"
+      "111":"n",
+      "112":"n",
+      "113":"n"
     },
     "safari":{
       "3.1":"n",
@@ -337,6 +344,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -426,7 +435,10 @@
       "89":"y #3",
       "90":"y #3",
       "91":"y #3",
-      "92":"y #3"
+      "92":"y #3",
+      "93":"y #3",
+      "94":"y #3",
+      "95":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -457,7 +469,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -472,7 +487,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"n"
+      "109":"n"
     },
     "bb":{
       "7":"n",
@@ -485,13 +500,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"n"
+      "73":"n"
     },
     "and_chr":{
-      "108":"n"
+      "110":"n"
     },
     "and_ff":{
-      "107":"y"
+      "110":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -516,7 +531,8 @@
       "16.0":"n",
       "17.0":"n",
       "18.0":"n",
-      "19.0":"n"
+      "19.0":"n",
+      "20":"n"
     },
     "and_qq":{
       "13.1":"n"
@@ -525,16 +541,17 @@
       "13.18":"n"
     },
     "kaios":{
-      "2.5":"n d #2"
+      "2.5":"n d #2",
+      "3.0-3.1":"y"
     }
   },
   "notes":"The U2F API is [being decommissioned](https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/) (only the API, not the U2F protocol) and superseded by [WebAuthn](/webauthn).",
   "notes_by_num":{
     "1":"Requires the \"FIDO U2F (Universal 2nd Factor)\" Chrome extension",
-    "2":"Support can be enabled with the \"security.webauth.u2f\" flag",
+    "2":"Support can be enabled with the `security.webauth.u2f` flag",
     "3":"Supported [via the internal CryptoTokenExtension.](https://github.com/google/u2f-ref-code/blob/master/u2f-gae-demo/war/js/u2f-api.js)"
   },
-  "usage_perc_y":23.63,
+  "usage_perc_y":23.76,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

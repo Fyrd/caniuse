@@ -63,7 +63,9 @@
       "105":"y #4",
       "106":"y #4",
       "107":"y #4",
-      "108":"y #4"
+      "108":"y #4",
+      "109":"y #4",
+      "110":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -175,7 +177,10 @@
       "106":"a #2 #5",
       "107":"a #2 #5",
       "108":"a #2 #5",
-      "109":"a #2 #5"
+      "109":"a #2 #5",
+      "110":"a #2 #5",
+      "111":"a #2 #5",
+      "112":"a #2 #5"
     },
     "chrome":{
       "4":"n",
@@ -284,7 +289,9 @@
       "108":"y #4",
       "109":"y #4",
       "110":"y #4",
-      "111":"y #4"
+      "111":"y #4",
+      "112":"y #4",
+      "113":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -318,6 +325,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -407,7 +416,10 @@
       "89":"y #3 #4",
       "90":"y #3 #4",
       "91":"y #3 #4",
-      "92":"y #3 #4"
+      "92":"y #3 #4",
+      "93":"y #3 #4",
+      "94":"y #3 #4",
+      "95":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -438,7 +450,10 @@
       "15.5":"a #3",
       "15.6":"a #3",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -453,7 +468,7 @@
       "4.2-4.3":"n",
       "4.4":"y x #3",
       "4.4.3-4.4.4":"y x #3",
-      "108":"y #4"
+      "109":"y #4"
     },
     "bb":{
       "7":"n",
@@ -466,13 +481,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"y #4"
+      "73":"y #4"
     },
     "and_chr":{
-      "108":"y #4"
+      "110":"y #4"
     },
     "and_ff":{
-      "107":"a #2 #5"
+      "110":"a #2 #5"
     },
     "ie_mob":{
       "10":"n",
@@ -497,7 +512,8 @@
       "16.0":"y #3 #4",
       "17.0":"y #4",
       "18.0":"y #4",
-      "19.0":"y #4"
+      "19.0":"y #4",
+      "20":"y #4"
     },
     "and_qq":{
       "13.1":"y #3 #4"
@@ -506,7 +522,8 @@
       "13.18":"y #3 #4"
     },
     "kaios":{
-      "2.5":"a x #1 #2 #3"
+      "2.5":"a x #1 #2 #3",
+      "3.0-3.1":"a #2 #5"
     }
   },
   "notes":"Prefixes are on the values, not the property names (e.g. -webkit-min-content)\r\n\r\nOlder webkit browsers also support the unofficial `intrinsic` value which acts the same as `max-content`.",
@@ -517,8 +534,8 @@
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://bugs.chromium.org/p/chromium/issues/detail?id=611857).",
     "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":83.36,
-  "usage_perc_a":14.56,
+  "usage_perc_y":87.89,
+  "usage_perc_a":9.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

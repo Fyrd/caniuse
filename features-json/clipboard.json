@@ -67,7 +67,9 @@
       "105":"a #7",
       "106":"a #7",
       "107":"a #7",
-      "108":"a #7"
+      "108":"a #7",
+      "109":"a #7",
+      "110":"a #7"
     },
     "firefox":{
       "2":"n",
@@ -179,7 +181,10 @@
       "106":"a #6",
       "107":"a #6",
       "108":"a #6",
-      "109":"a #6"
+      "109":"a #6",
+      "110":"a #6",
+      "111":"a #6",
+      "112":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -288,7 +293,9 @@
       "108":"a #7",
       "109":"a #7",
       "110":"a #7",
-      "111":"a #7"
+      "111":"a #7",
+      "112":"a #7",
+      "113":"a #7"
     },
     "safari":{
       "3.1":"u",
@@ -322,6 +329,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -411,7 +420,10 @@
       "89":"a #7",
       "90":"a #7",
       "91":"a #7",
-      "92":"a #7"
+      "92":"a #7",
+      "93":"a #7",
+      "94":"a #7",
+      "95":"a #7"
     },
     "ios_saf":{
       "3.2":"n",
@@ -442,7 +454,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -457,7 +472,7 @@
       "4.2-4.3":"n",
       "4.4":"a #2 #5",
       "4.4.3-4.4.4":"a #2 #5",
-      "108":"a #2"
+      "109":"a #2"
     },
     "bb":{
       "7":"n",
@@ -470,13 +485,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"u",
-      "72":"a #7"
+      "73":"a #7"
     },
     "and_chr":{
-      "108":"a #7"
+      "110":"a #7"
     },
     "and_ff":{
-      "107":"a #4"
+      "110":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -501,7 +516,8 @@
       "16.0":"a #7",
       "17.0":"a #7",
       "18.0":"a #7",
-      "19.0":"a #7"
+      "19.0":"a #7",
+      "20":"a #7"
     },
     "and_qq":{
       "13.1":"a #7"
@@ -510,7 +526,8 @@
       "13.18":"a #7"
     },
     "kaios":{
-      "2.5":"a #6"
+      "2.5":"a #6",
+      "3.0-3.1":"a #6"
     }
   },
   "notes":"Internet Explorer will display a security prompt for access to the OS clipboard.\r\n\r\nChrome 42+, Opera 29+ and Firefox 41+ support clipboard reading/writing only when part of a user action (click, keydown, etc).",
@@ -523,8 +540,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":18.04,
-  "usage_perc_a":80.47,
+  "usage_perc_y":18.18,
+  "usage_perc_a":79.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

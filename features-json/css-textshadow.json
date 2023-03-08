@@ -77,7 +77,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -189,7 +191,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"y",
@@ -298,7 +303,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"a #2",
@@ -332,6 +339,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -421,7 +430,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -452,7 +464,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"a"
@@ -467,7 +482,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"a",
@@ -480,13 +495,13 @@
       "11.5":"y",
       "12":"y",
       "12.1":"y",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "110":"y"
     },
     "and_ff":{
-      "107":"y"
+      "110":"y"
     },
     "ie_mob":{
       "10":"y #1",
@@ -511,7 +526,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -520,7 +536,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Opera Mini ignores the blur-radius set, so no blur effect is visible. Text-shadow behavior can be somewhat emulated in older IE versions using the non-standard \"dropshadow\" or \"glow\" filters.",
@@ -528,8 +545,8 @@
     "1":"IE 10+ supports a fourth length value for the shadow's \"spread\". This is not (yet) part of the specification.",
     "2":"Partial support in Safari 3.* refers to not supporting multiple shadows."
   },
-  "usage_perc_y":98.8,
-  "usage_perc_a":0.97,
+  "usage_perc_y":98.13,
+  "usage_perc_a":1,
   "ucprefix":false,
   "parent":"",
   "keywords":"text shadow",

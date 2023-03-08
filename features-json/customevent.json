@@ -70,7 +70,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -182,7 +184,10 @@
       "106":"y",
       "107":"y",
       "108":"y",
-      "109":"y"
+      "109":"y",
+      "110":"y",
+      "111":"y",
+      "112":"y"
     },
     "chrome":{
       "4":"n",
@@ -291,7 +296,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"n",
@@ -325,6 +332,8 @@
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
+      "16.3":"y",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -414,7 +423,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -445,7 +457,10 @@
       "15.5":"y",
       "15.6":"y",
       "16.0":"y",
-      "16.1":"y"
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"y",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"y"
@@ -460,7 +475,7 @@
       "4.2-4.3":"a #1 #2",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"a #1 #2",
@@ -473,13 +488,13 @@
       "11.5":"a #1",
       "12":"y",
       "12.1":"y",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "110":"y"
     },
     "and_ff":{
-      "107":"y"
+      "110":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -504,7 +519,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -513,7 +529,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"y"
+      "2.5":"y",
+      "3.0-3.1":"y"
     }
   },
   "notes":"Not supported in some versions of Android's old WebKit-based WebView.",
@@ -521,8 +538,8 @@
     "1":"While a `window.CustomEvent` object exists, it cannot be called as a constructor. Instead of `new CustomEvent(...)`, you must use `e = document.createEvent('CustomEvent')` and then `e.initCustomEvent(...)`",
     "2":"There is no `window.CustomEvent` object, but `document.createEvent('CustomEvent')` still works."
   },
-  "usage_perc_y":98.92,
-  "usage_perc_a":0.82,
+  "usage_perc_y":98.22,
+  "usage_perc_a":0.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"custom events,custom,event",

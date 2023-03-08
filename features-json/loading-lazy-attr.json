@@ -28,6 +28,9 @@
   "bugs":[
     {
       "description":"Safari 16.1 and below displays a gray border while lazy loading images ([243601](https://bugs.webkit.org/show_bug.cgi?id=243601))"
+    },
+    {
+      "description":"Chromium-based browsers have a memory leak when lazy loading images ([1213045](https://bugs.chromium.org/p/chromium/issues/detail?id=1213045))"
     }
   ],
   "categories":[
@@ -79,7 +82,9 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y",
+      "110":"y"
     },
     "firefox":{
       "2":"n",
@@ -191,7 +196,10 @@
       "106":"a #1",
       "107":"a #1",
       "108":"a #1",
-      "109":"a #1"
+      "109":"a #1",
+      "110":"a #1",
+      "111":"a #1",
+      "112":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -300,7 +308,9 @@
       "108":"y",
       "109":"y",
       "110":"y",
-      "111":"y"
+      "111":"y",
+      "112":"y",
+      "113":"y"
     },
     "safari":{
       "3.1":"n",
@@ -334,6 +344,8 @@
       "16.0":"a d #3",
       "16.1":"a d #3",
       "16.2":"a d #3",
+      "16.3":"a d #3",
+      "16.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -423,7 +435,10 @@
       "89":"y",
       "90":"y",
       "91":"y",
-      "92":"y"
+      "92":"y",
+      "93":"y",
+      "94":"y",
+      "95":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -454,7 +469,10 @@
       "15.5":"a d #3",
       "15.6":"a d #3",
       "16.0":"a d #3",
-      "16.1":"a d #3"
+      "16.1":"a d #3",
+      "16.2":"a d #3",
+      "16.3":"a d #3",
+      "16.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -469,7 +487,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "108":"y"
+      "109":"y"
     },
     "bb":{
       "7":"n",
@@ -482,13 +500,13 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "72":"y"
+      "73":"y"
     },
     "and_chr":{
-      "108":"y"
+      "110":"y"
     },
     "and_ff":{
-      "107":"a #1"
+      "110":"a #1"
     },
     "ie_mob":{
       "10":"n",
@@ -513,7 +531,8 @@
       "16.0":"y",
       "17.0":"y",
       "18.0":"y",
-      "19.0":"y"
+      "19.0":"y",
+      "20":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -522,7 +541,8 @@
       "13.18":"y"
     },
     "kaios":{
-      "2.5":"n"
+      "2.5":"n",
+      "3.0-3.1":"a #1"
     }
   },
   "notes":"",
@@ -531,8 +551,8 @@
     "2":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu.",
     "3":"Safari supports lazy image loading. Lazy iframes loading can be enabled under the Experimental Features menu."
   },
-  "usage_perc_y":74.63,
-  "usage_perc_a":17.84,
+  "usage_perc_y":73.77,
+  "usage_perc_a":18.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"lazy-loading,lazyloading,loading=\"lazy\",loading=\"eager\",loading=\"auto\",loading,attribute,lazily,lazy image loading,lazy img loading,iframe loading,native lazyload",
