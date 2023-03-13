@@ -189,8 +189,8 @@
       "108":"n",
       "109":"n",
       "110":"n",
-      "111":"n",
-      "112":"n"
+      "111":"n d #3",
+      "112":"n d #3"
     },
     "chrome":{
       "4":"n",
@@ -539,7 +539,8 @@
   "notes":"For this function to work properly, the device screen and OS also needs to support the color space being used.",
   "notes_by_num":{
     "1":"Only supports `display-p3` predefined color profile.",
-    "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
+    "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
+    "3":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true"
   },
   "usage_perc_y":16.21,
   "usage_perc_a":2.17,
