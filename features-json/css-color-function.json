@@ -75,7 +75,8 @@
       "107":"n",
       "108":"n d #2",
       "109":"n d #2",
-      "110":"n d #2"
+      "110":"n d #2",
+      "111":"y"
     },
     "firefox":{
       "2":"n",
@@ -189,8 +190,9 @@
       "108":"n",
       "109":"n",
       "110":"n",
-      "111":"n",
-      "112":"n"
+      "111":"n d #3",
+      "112":"n d #3",
+      "113":"n d #3"
     },
     "chrome":{
       "4":"n",
@@ -301,7 +303,8 @@
       "110":"n d #2",
       "111":"y",
       "112":"y",
-      "113":"y"
+      "113":"y",
+      "114":"y"
     },
     "safari":{
       "3.1":"n",
@@ -478,7 +481,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "109":"n"
+      "111":"y"
     },
     "bb":{
       "7":"n",
@@ -494,7 +497,7 @@
       "73":"n"
     },
     "and_chr":{
-      "110":"n"
+      "111":"y"
     },
     "and_ff":{
       "110":"n"
@@ -539,9 +542,10 @@
   "notes":"For this function to work properly, the device screen and OS also needs to support the color space being used.",
   "notes_by_num":{
     "1":"Only supports `display-p3` predefined color profile.",
-    "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
+    "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
+    "3":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true"
   },
-  "usage_perc_y":16.21,
+  "usage_perc_y":58.84,
   "usage_perc_a":2.17,
   "ucprefix":false,
   "parent":"",

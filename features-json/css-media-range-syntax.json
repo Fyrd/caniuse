@@ -83,7 +83,8 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y"
     },
     "firefox":{
       "2":"n",
@@ -198,7 +199,8 @@
       "109":"y",
       "110":"y",
       "111":"y",
-      "112":"y"
+      "112":"y",
+      "113":"y"
     },
     "chrome":{
       "4":"n",
@@ -309,7 +311,8 @@
       "110":"y",
       "111":"y",
       "112":"y",
-      "113":"y"
+      "113":"y",
+      "114":"y"
     },
     "safari":{
       "3.1":"n",
@@ -486,7 +489,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "109":"y"
+      "111":"y"
     },
     "bb":{
       "7":"n",
@@ -502,7 +505,7 @@
       "73":"y"
     },
     "and_chr":{
-      "110":"y"
+      "111":"y"
     },
     "and_ff":{
       "110":"y"
@@ -552,7 +555,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"css-mediaqueries",
-  "keywords":"@media,media queries,range,range syntax,range context",
+  "keywords":"@media,media queries,range,range syntax,range context,query,css media query range syntax",
   "ie_id":"",
   "chrome_id":"5203042742829056",
   "firefox_id":"",
