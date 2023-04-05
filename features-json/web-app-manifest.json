@@ -1,6 +1,6 @@
 {
   "title":"Add to home screen (A2HS)",
-  "description":"The ability for a user to \"install\" a website and use it as if it was a natively installed app.",
+  "description":"The ability for a user to \"install\" a website and use it as if it was a natively installed app. To enable this behaviour, a website must serve a valid Web App Manifest.",
   "spec":"https://www.w3.org/TR/appmanifest/",
   "status":"wd",
   "links":[
