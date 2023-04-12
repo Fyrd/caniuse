@@ -294,7 +294,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -330,6 +331,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -456,7 +458,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"y"
@@ -533,8 +536,8 @@
   "notes_by_num":{
     "1":"Partial support refers to not supporting embedded images (data URIs) inside the SVG."
   },
-  "usage_perc_y":98.8,
-  "usage_perc_a":0.38,
+  "usage_perc_y":98.96,
+  "usage_perc_a":0.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"svg-as-img,svg-in-img",

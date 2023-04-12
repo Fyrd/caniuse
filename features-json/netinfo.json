@@ -293,7 +293,8 @@
       "111":"a #4",
       "112":"a #4",
       "113":"a #4",
-      "114":"a #4"
+      "114":"a #4",
+      "115":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -329,6 +330,7 @@
       "16.2":"n",
       "16.3":"n",
       "16.4":"n",
+      "16.5":"n",
       "TP":"n"
     },
     "opera":{
@@ -455,7 +457,8 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"n"
+      "16.4":"n",
+      "16.5":"n"
     },
     "op_mini":{
       "all":"n"
@@ -535,8 +538,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":45.38,
-  "usage_perc_a":29.34,
+  "usage_perc_y":44.42,
+  "usage_perc_a":29.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

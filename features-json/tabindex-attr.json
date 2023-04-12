@@ -294,7 +294,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"u",
@@ -330,6 +331,7 @@
       "16.2":"y #2",
       "16.3":"y #2",
       "16.4":"y #2",
+      "16.5":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -456,7 +458,8 @@
       "16.1":"y #2 #3",
       "16.2":"y #2 #3",
       "16.3":"y #2 #3",
-      "16.4":"y #2 #3"
+      "16.4":"y #2 #3",
+      "16.5":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -535,7 +538,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":95.69,
+  "usage_perc_y":95.14,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

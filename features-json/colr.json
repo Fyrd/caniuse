@@ -308,7 +308,8 @@
       "111":"y #3",
       "112":"y #3",
       "113":"y #3",
-      "114":"y #3"
+      "114":"y #3",
+      "115":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -344,6 +345,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -470,7 +472,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -549,7 +552,7 @@
     "2":"Supported only on Windows 8.1+",
     "3":"On Windows pre 8.1 and macOS Sierra (10.12) and below falls back to using FreeType: [Chromium bug 882844](https://bugs.chromium.org/p/chromium/issues/detail?id=882844#c3)"
   },
-  "usage_perc_y":95.97,
+  "usage_perc_y":96.25,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

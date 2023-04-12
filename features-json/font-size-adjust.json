@@ -300,7 +300,8 @@
       "111":"n d #1",
       "112":"n d #1",
       "113":"n d #1",
-      "114":"n d #1"
+      "114":"n d #1",
+      "115":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -336,6 +337,7 @@
       "16.2":"n",
       "16.3":"n",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -462,7 +464,8 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -540,7 +543,7 @@
     "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
   },
-  "usage_perc_y":3.27,
+  "usage_perc_y":3.41,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

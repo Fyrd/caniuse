@@ -308,7 +308,8 @@
       "111":"n d #1",
       "112":"n d #1",
       "113":"n d #1",
-      "114":"n d #1"
+      "114":"n d #1",
+      "115":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -344,6 +345,7 @@
       "16.2":"n",
       "16.3":"n",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -470,7 +472,8 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -548,7 +551,7 @@
     "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag",
     "2":"Can be enabled under the Experimental Features menu"
   },
-  "usage_perc_y":3.24,
+  "usage_perc_y":3.37,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -314,7 +314,8 @@
       "111":"a x #2",
       "112":"a x #2",
       "113":"a x #2",
-      "114":"a x #2"
+      "114":"a x #2",
+      "115":"a x #2"
     },
     "safari":{
       "3.1":"u",
@@ -350,6 +351,7 @@
       "16.2":"a x #2",
       "16.3":"a x #2",
       "16.4":"a x #2",
+      "16.5":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -476,7 +478,8 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"n"
+      "16.4":"n",
+      "16.5":"n"
     },
     "op_mini":{
       "all":"n"
@@ -559,7 +562,7 @@
     "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
   },
   "usage_perc_y":0,
-  "usage_perc_a":83.46,
+  "usage_perc_a":83.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

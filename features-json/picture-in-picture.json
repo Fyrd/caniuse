@@ -308,7 +308,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -344,6 +345,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -470,7 +472,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -554,8 +557,8 @@
     "7":"Partial support in Opera refers to the fact that Opera provides an equivalent proprietary feature named Video Pop Out, which allows users to use Picture-in-Picture mode for all playing videos.",
     "8":"Automatically plays fullscreen videos in Picture-in-Picture mode after user hits Home Screen button. Only Android 8.0 Oreo and newer provide appropriate API for Picture-in-Picture."
   },
-  "usage_perc_y":46.09,
-  "usage_perc_a":46.55,
+  "usage_perc_y":47.44,
+  "usage_perc_a":44.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"Picture-in-Picture,PictureInPicture,pip,pop-out,autoPictureInPicture,disablePictureInPicture,auto,disable,picture in picture,pseudo",

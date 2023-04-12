@@ -292,7 +292,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -328,6 +329,7 @@
       "16.2":"a x #3",
       "16.3":"a x #3",
       "16.4":"a x #3",
+      "16.5":"a x #3",
       "TP":"a x #3"
     },
     "opera":{
@@ -454,7 +456,8 @@
       "16.1":"a x #3",
       "16.2":"a x #3",
       "16.3":"a x #3",
-      "16.4":"a x #3"
+      "16.4":"a x #3",
+      "16.5":"a x #3"
     },
     "op_mini":{
       "all":"u"
@@ -533,8 +536,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":76.3,
-  "usage_perc_a":21.35,
+  "usage_perc_y":76.38,
+  "usage_perc_a":21.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

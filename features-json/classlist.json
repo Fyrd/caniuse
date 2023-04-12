@@ -315,7 +315,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"p",
@@ -351,6 +352,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -477,7 +479,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"a #1 #2 #3"
@@ -557,8 +560,8 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList` or the `replace()` method"
   },
-  "usage_perc_y":97.03,
-  "usage_perc_a":2.01,
+  "usage_perc_y":97.26,
+  "usage_perc_a":1.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"classlist.contains(),classlist.toggle(),classlist.add(),classlist.remove()",

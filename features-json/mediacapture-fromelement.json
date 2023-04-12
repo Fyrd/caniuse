@@ -301,7 +301,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -337,6 +338,7 @@
       "16.2":"a #1",
       "16.3":"a #1",
       "16.4":"a #1",
+      "16.5":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -463,7 +465,8 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"n"
+      "16.4":"n",
+      "16.5":"n"
     },
     "op_mini":{
       "all":"n"
@@ -541,8 +544,8 @@
     "1":"Does not support capture from `<video>`/`<audio>`",
     "2":"Capture from `<video>`/`<audio>` can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":74.22,
-  "usage_perc_a":7.1,
+  "usage_perc_y":73.82,
+  "usage_perc_a":7.66,
   "ucprefix":false,
   "parent":"stream",
   "keywords":"canvas,mediastream,capturestream,canvas.capturestream",

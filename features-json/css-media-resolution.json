@@ -319,7 +319,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -355,6 +356,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -481,7 +483,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -561,8 +564,8 @@
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`.",
     "4":"Does not support `x` unit (alias for `dppx` unit), e.g: `@media (min-resolution: 2x) { }`."
   },
-  "usage_perc_y":89.58,
-  "usage_perc_a":9.61,
+  "usage_perc_y":90.56,
+  "usage_perc_a":8.73,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,device-pixel-ratio,resolution,dppx,dpcm,dpi",

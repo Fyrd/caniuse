@@ -302,7 +302,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"a #2",
@@ -338,6 +339,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -464,7 +466,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"a #2"
@@ -542,8 +545,8 @@
     "1":"Partial support refers to requiring the second parameter to be included.",
     "2":"Partial support refers to not supporting getComputedStyle on pseudo-elements."
   },
-  "usage_perc_y":98.12,
-  "usage_perc_a":1.08,
+  "usage_perc_y":98.21,
+  "usage_perc_a":1.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

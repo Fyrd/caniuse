@@ -301,7 +301,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -337,6 +338,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -463,7 +465,8 @@
       "16.1":"a #2",
       "16.2":"a #2",
       "16.3":"a #2",
-      "16.4":"a #2"
+      "16.4":"a #2",
+      "16.5":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -541,8 +544,8 @@
     "1":"Partial support in IE11 refers to only working in Windows 8+",
     "2":"Fully supported only in iPadOS, 13 and later"
   },
-  "usage_perc_y":82.02,
-  "usage_perc_a":14.53,
+  "usage_perc_y":82.12,
+  "usage_perc_a":14.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"sourcebuffer,endofstream,mse",

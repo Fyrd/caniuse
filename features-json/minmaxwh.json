@@ -314,7 +314,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"y",
@@ -350,6 +351,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -476,7 +478,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"y"
@@ -554,7 +557,7 @@
     "1":"IE7 does not support `inherit` as a value on any of these properties.",
     "2":"IE8 has some bugs with `max-width`/`height` combined with `overflow: auto`/`scroll`."
   },
-  "usage_perc_y":99.26,
+  "usage_perc_y":99.44,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

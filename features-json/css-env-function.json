@@ -300,7 +300,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -336,6 +337,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -462,7 +464,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -539,8 +542,8 @@
   "notes_by_num":{
     "1":"Supported as `constant()` instead of `env()`"
   },
-  "usage_perc_y":95.11,
-  "usage_perc_a":0.03,
+  "usage_perc_y":95.46,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"css env(),css constant(),css variables,safe-area-inset-top,safe-area-inset-right,safe-area-inset-bottom,safe-area-inset-left",

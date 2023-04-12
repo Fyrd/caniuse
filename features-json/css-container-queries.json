@@ -316,7 +316,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -352,6 +353,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -478,7 +480,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -557,8 +560,8 @@
     "2":"The initial Chrome prototype used an earlier draft syntax based on the `contain` property",
     "3":"Combining size container queries and table layout inside a multicolumn layout doesn't work"
   },
-  "usage_perc_y":82.4,
-  "usage_perc_a":0.23,
+  "usage_perc_y":85.72,
+  "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"container query,@container,container-name,container-type",

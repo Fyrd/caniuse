@@ -312,7 +312,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -348,6 +349,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -474,7 +476,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -551,8 +554,8 @@
   "notes_by_num":{
     "1":"Partial support in Safari, iOS Safari and Android Browser refers to missing \"inset\", blur radius value, and multiple shadow support."
   },
-  "usage_perc_y":98.18,
-  "usage_perc_a":0.01,
+  "usage_perc_y":98.28,
+  "usage_perc_a":0.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"box-shadows,boxshadows,box shadow,shaow",

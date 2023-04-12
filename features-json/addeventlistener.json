@@ -300,7 +300,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"y",
@@ -336,6 +337,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -462,7 +464,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"y"
@@ -540,7 +543,7 @@
     "1":"IE<=8 instead only supports the [proprietary `.attachEvent()` method](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener). It also does not support the [capture phase](https://www.w3.org/TR/DOM-Level-3-Events/#event-flow) of DOM event dispatch; it only supports event bubbling.",
     "2":"The `useCapture` parameter is non-optional and must be provided. Future versions made it optional, with a default value of `false`."
   },
-  "usage_perc_y":99.21,
+  "usage_perc_y":99.39,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

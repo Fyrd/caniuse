@@ -309,7 +309,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"a",
@@ -345,6 +346,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -471,7 +473,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -548,8 +551,8 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox using the `layout.css.unicode-range.enabled` flag"
   },
-  "usage_perc_y":96.16,
-  "usage_perc_a":1.69,
+  "usage_perc_y":96.49,
+  "usage_perc_a":1.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"font face,unicode,unicode-range",

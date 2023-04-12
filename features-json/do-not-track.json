@@ -294,7 +294,8 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "safari":{
       "3.1":"n",
@@ -330,6 +331,7 @@
       "16.2":"n",
       "16.3":"n",
       "16.4":"n",
+      "16.5":"n",
       "TP":"n"
     },
     "opera":{
@@ -456,7 +458,8 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"n"
+      "16.4":"n",
+      "16.5":"n"
     },
     "op_mini":{
       "all":"y"
@@ -536,8 +539,8 @@
     "3":"Browsers based on Gecko versions prior to 32 used 'yes' and 'no' rather than '1' and '0'.",
     "4":"Between versions 6.1.1 and 9.1.3, Safari supported an ultimately-rejected amendment to the spec, using `window.doNotTrack` rather than `navigator.doNotTrack`."
   },
-  "usage_perc_y":79.82,
-  "usage_perc_a":0.79,
+  "usage_perc_y":79.31,
+  "usage_perc_a":0.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"DNT",

@@ -308,7 +308,8 @@
       "111":"a x #1",
       "112":"a x #1",
       "113":"a x #1",
-      "114":"a x #1"
+      "114":"a x #1",
+      "115":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -344,6 +345,7 @@
       "16.2":"y",
       "16.3":"y",
       "16.4":"y",
+      "16.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -470,7 +472,8 @@
       "16.1":"y",
       "16.2":"y",
       "16.3":"y",
-      "16.4":"y"
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -553,8 +556,8 @@
     "6":"Partial support refers to supporting mask-image, mask-size, mask-position, mask-repeat and mask-composite",
     "7":"Edge also recognizes and supports all the `-webkit-` prefixed equivalents of the unprefixed properties for site compatibility"
   },
-  "usage_perc_y":18.61,
-  "usage_perc_a":78.9,
+  "usage_perc_y":19.45,
+  "usage_perc_a":78.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type,css masking",
