@@ -191,8 +191,8 @@
       "108":"y #2",
       "109":"y #2",
       "110":"y #2",
-      "111":"y #2",
-      "112":"y #2",
+      "111":"y #5",
+      "112":"y #5",
       "113":"y",
       "114":"y"
     },
@@ -549,7 +549,8 @@
     "1":"Can be enabled in Firefox via the `image.avif.enabled` pref in `about:config`.",
     "2":"Supports still images. Animated image sequences are not supported.",
     "3":"Only available on macOS 13 Ventura or later.",
-    "4":"Does not support images with noise synthesis."
+    "4":"Does not support images with noise synthesis.",
+    "5": "Supports only still images by default. Animated image sequences can be enabled via the `image.avif.sequence.enabled` pref in `about:config`."
   },
   "usage_perc_y":81.44,
   "usage_perc_a":2.42,
