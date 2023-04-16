@@ -76,7 +76,8 @@
       "108":"n",
       "109":"n d #1",
       "110":"n d #1",
-      "111":"n d #1"
+      "111":"n d #1",
+      "112":"y"
     },
     "firefox":{
       "2":"n",
@@ -192,7 +193,8 @@
       "110":"n",
       "111":"n",
       "112":"n",
-      "113":"n"
+      "113":"n",
+      "114":"n"
     },
     "chrome":{
       "4":"n",
@@ -484,7 +486,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "111":"n"
+      "112":"y"
     },
     "bb":{
       "7":"n",
@@ -500,7 +502,7 @@
       "73":"n"
     },
     "and_chr":{
-      "111":"n"
+      "112":"y"
     },
     "and_ff":{
       "110":"n"
@@ -546,7 +548,7 @@
   "notes_by_num":{
     "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
   },
-  "usage_perc_y":0.04,
+  "usage_perc_y":40.94,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
