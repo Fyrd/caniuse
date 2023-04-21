@@ -563,7 +563,7 @@
   },
   "notes":"This feature is backwards compatible. Browsers not supporting this feature will simply use the cookie as a regular cookie. There is no need to deliver different cookies to clients.",
   "notes_by_num":{
-    "1":"Not shipped with the inital release but later with the 2018 June security update (Patch Tuesday) to Windows 10 RS3 (2017 Fall Creators Update) and newer. [More info](https://github.com/MicrosoftEdge/Status/issues/616).",
+    "1":"Not shipped with the initial release but later with the 2018 June security update (Patch Tuesday) to Windows 10 RS3 (2017 Fall Creators Update) and newer. [More info](https://github.com/MicrosoftEdge/Status/issues/616).",
     "2":"Partial support because only supported in IE 11 on Windows 10 RS3 (2017 Fall Creators Update) and newer, but not in IE 11 on other Windows versions (Windows 7, ...)",
     "3":"Cookies without `SameSite` are treated as `Lax` by default, `SameSite=None` cookies without `Secure` are rejected.",
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
