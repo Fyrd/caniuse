@@ -543,9 +543,9 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only supports the *-start, and *-end values for `margin`, `border` and `padding`, not the inline/block type values as defined in the spec.",
-    "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`",
-    "3":"Does not support the `margin-block`, `margin-inline`, `padding-block`, `padding-inline`, or any of the `inset` shorthand properties. Supported in newer Chromium browsers behind the `#enable-experimental-web-platform-features` flag",
+    "1":"Only supports the `*-start`, and `*-end` values for `margin`, `border` and `padding`, not the `inline`/`block` type values as defined in the spec.",
+    "2":"Like #1 but also supports `*-before` and `*-end` for `*-block-start` and `*-block-end` properties as well as `start` and `end` values for `text-align`.",
+    "3":"Does not support the `margin-block`, `margin-inline`, `padding-block`, `padding-inline`, or any of the `inset` shorthand properties. Supported in newer Chromium browsers behind the `#enable-experimental-web-platform-features` flag.",
     "4":"Does not support the `border-start-start-radius`, `border-start-end-radius`, `border-end-start-radius` and `border-end-end-radius` property.",
     "5":"Does not support the `border-start-start-radius`, `border-start-end-radius`, `border-end-start-radius` and `border-end-end-radius` property.",
     "6":"Does not support the `margin-block`, `margin-inline`, `padding-block`, `padding-inline` shorthand properties when value is a CSS property. Supported when using a length value."
