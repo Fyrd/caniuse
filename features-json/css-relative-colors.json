@@ -1,34 +1,28 @@
 {
-  "title":"CSS Initial Letter",
-  "description":"Method of creating an enlarged cap, including a drop or raised cap, in a robust way.",
-  "spec":"https://www.w3.org/TR/css-inline/#initial-letter-styling",
+  "title":"CSS Relative colors",
+  "description":"The CSS Relative Color syntax allows a color to be defined relative to another color using the `from` keyword and optionally `calc()` for any of the color values.",
+  "spec":"https://www.w3.org/TR/css-color-5/#relative-colors",
   "status":"wd",
   "links":[
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1273019",
-      "title":"Firefox Implementation Ticket"
+      "url":"https://blog.jim-nielsen.com/2021/css-relative-colors/",
+      "title":"Dynamic Color Manipulation with CSS Relative Colors"
     },
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter",
-      "title":"MDN Web Docs - CSS initial-letter"
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=1274133",
+      "title":"Chromium bug"
     },
     {
-      "url":"https://webdesign.tutsplus.com/tutorials/better-css-drop-caps-with-initial-letter--cms-26350",
-      "title":"Blog post on Envato Tuts+, \"Better CSS Drop Caps With initial-letter\""
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1701488",
+      "title":"Firefox support bug"
     },
     {
-      "url":"https://labs.jensimmons.com/#initialletter",
-      "title":"Demos at Jen Simmons Labs"
-    },
-    {
-      "url":"https://bugs.webkit.org/show_bug.cgi?id=229090",
-      "title":"WebKit bug to unprefix -webkit-initial-letter"
+      "url":"https://www.matuzo.at/blog/2023/100daysof-day92/",
+      "title":"Relative color syntax (blog post)"
     }
   ],
   "bugs":[
-    {
-      "description":"Safari 9 doesn't properly shorten the first line of text. Applying `margin-top: 1em` to the letter fixes this problem."
-    }
+    
   ],
   "categories":[
     "CSS"
@@ -81,10 +75,10 @@
       "107":"n",
       "108":"n",
       "109":"n",
-      "110":"a #2",
-      "111":"a #2",
-      "112":"a #2",
-      "113":"a #2"
+      "110":"n",
+      "111":"n",
+      "112":"n",
+      "113":"n"
     },
     "firefox":{
       "2":"n",
@@ -309,13 +303,13 @@
       "107":"n",
       "108":"n",
       "109":"n",
-      "110":"a #2",
-      "111":"a #2",
-      "112":"a #2",
-      "113":"a #2",
-      "114":"a #2",
-      "115":"a #2",
-      "116":"a #2"
+      "110":"n",
+      "111":"n",
+      "112":"n",
+      "113":"n",
+      "114":"n",
+      "115":"n",
+      "116":"n"
     },
     "safari":{
       "3.1":"n",
@@ -328,31 +322,31 @@
       "7":"n",
       "7.1":"n",
       "8":"n",
-      "9":"a",
-      "9.1":"a x #1",
-      "10":"a x #1",
-      "10.1":"a x #1",
-      "11":"a x #1",
-      "11.1":"a x #1",
-      "12":"a x #1",
-      "12.1":"a x #1",
-      "13":"a x #1",
-      "13.1":"a x #1",
-      "14":"a x #1",
-      "14.1":"a x #1",
-      "15":"a x #1",
-      "15.1":"a x #1",
-      "15.2-15.3":"a x #1",
-      "15.4":"a x #1",
-      "15.5":"a x #1",
-      "15.6":"a x #1",
-      "16.0":"a x #1",
-      "16.1":"a x #1",
-      "16.2":"a x #1",
-      "16.3":"a x #1",
-      "16.4":"a x #1",
-      "16.5":"a x #1",
-      "TP":"a x #1"
+      "9":"n",
+      "9.1":"n",
+      "10":"n",
+      "10.1":"n",
+      "11":"n",
+      "11.1":"n",
+      "12":"n",
+      "12.1":"n",
+      "13":"n",
+      "13.1":"n",
+      "14":"n",
+      "14.1":"n",
+      "15":"n",
+      "15.1":"n",
+      "15.2-15.3":"n",
+      "15.4":"n",
+      "15.5":"n",
+      "15.6":"n",
+      "16.0":"n",
+      "16.1":"n",
+      "16.2":"n",
+      "16.3":"n",
+      "16.4":"y",
+      "16.5":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -447,7 +441,7 @@
       "95":"n",
       "96":"n",
       "97":"n",
-      "98":"a #2"
+      "98":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -458,31 +452,31 @@
       "7.0-7.1":"n",
       "8":"n",
       "8.1-8.4":"n",
-      "9.0-9.2":"a x #1",
-      "9.3":"a x #1",
-      "10.0-10.2":"a x #1",
-      "10.3":"a x #1",
-      "11.0-11.2":"a x #1",
-      "11.3-11.4":"a x #1",
-      "12.0-12.1":"a x #1",
-      "12.2-12.5":"a x #1",
-      "13.0-13.1":"a x #1",
-      "13.2":"a x #1",
-      "13.3":"a x #1",
-      "13.4-13.7":"a x #1",
-      "14.0-14.4":"a x #1",
-      "14.5-14.8":"a x #1",
-      "15.0-15.1":"a x #1",
-      "15.2-15.3":"a x #1",
-      "15.4":"a x #1",
-      "15.5":"a x #1",
-      "15.6":"a x #1",
-      "16.0":"a x #1",
-      "16.1":"a x #1",
-      "16.2":"a x #1",
-      "16.3":"a x #1",
-      "16.4":"a x #1",
-      "16.5":"a x #1"
+      "9.0-9.2":"n",
+      "9.3":"n",
+      "10.0-10.2":"n",
+      "10.3":"n",
+      "11.0-11.2":"n",
+      "11.3-11.4":"n",
+      "12.0-12.1":"n",
+      "12.2-12.5":"n",
+      "13.0-13.1":"n",
+      "13.2":"n",
+      "13.3":"n",
+      "13.4-13.7":"n",
+      "14.0-14.4":"n",
+      "14.5-14.8":"n",
+      "15.0-15.1":"n",
+      "15.2-15.3":"n",
+      "15.4":"n",
+      "15.5":"n",
+      "15.6":"n",
+      "16.0":"n",
+      "16.1":"n",
+      "16.2":"n",
+      "16.3":"n",
+      "16.4":"y",
+      "16.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -513,7 +507,7 @@
       "73":"n"
     },
     "and_chr":{
-      "112":"a #2"
+      "112":"n"
     },
     "and_ff":{
       "110":"n"
@@ -557,17 +551,16 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari implementation is incomplete. Does not allow applying web fonts to the initial letter.",
-    "2":"Partial support refers to only supporting `initial-letter`"
+    
   },
-  "usage_perc_y":0,
-  "usage_perc_a":82.64,
+  "usage_perc_y":0.15,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"initial-letter,initial letter,letter,drop cap,dropcap,initial letters,letters",
-  "ie_id":"initialletter",
-  "chrome_id":"5167442033115136",
-  "firefox_id":"css-initial-letter",
-  "webkit_id":"feature-initial-letter",
+  "keywords":"",
+  "ie_id":"",
+  "chrome_id":"",
+  "firefox_id":"",
+  "webkit_id":"",
   "shown":true
 }
