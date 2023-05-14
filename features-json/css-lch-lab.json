@@ -203,7 +203,8 @@
       "111":"n d #1",
       "112":"n d #1",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y"
     },
     "chrome":{
       "4":"n",
@@ -499,7 +500,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "112":"y"
+      "113":"y"
     },
     "bb":{
       "7":"n",
@@ -515,10 +516,10 @@
       "73":"n"
     },
     "and_chr":{
-      "112":"y"
+      "113":"y"
     },
     "and_ff":{
-      "110":"n"
+      "113":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -562,7 +563,7 @@
     "1":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true",
     "2":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
   },
-  "usage_perc_y":80.68,
+  "usage_perc_y":80.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
