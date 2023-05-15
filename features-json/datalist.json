@@ -36,6 +36,9 @@
   "bugs":[
     {
       "description":"In UIWebView Apps in iOS 12.2, using the datalist element may cause the input type to become incapable of being able to type in it despite not supporting it."
+    },
+    {
+      "description":"While all options are part of the source code, Chromium browsers can only show the first 512 options in the dropdown list."
     }
   ],
   "categories":[
