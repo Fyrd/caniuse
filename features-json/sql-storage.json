@@ -552,7 +552,7 @@
       "3.0-3.1":"n"
     }
   },
-  "notes":"The Web SQL Database specification is no longer being maintained and support intended to be dropped in future versions. Migrate to e.g. [Web Storage](/namevalue-storage) or [IndexedDB](/?search=IndexedDB).",
+  "notes":"The Web SQL Database specification is no longer being maintained and support is intended to be dropped in future versions. Migrate to e.g. [Web Storage](/namevalue-storage) or [IndexedDB](/?search=IndexedDB).",
   "notes_by_num":{
     "1":"Requires a [secure context](https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts)"
   },

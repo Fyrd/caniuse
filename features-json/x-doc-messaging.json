@@ -26,7 +26,7 @@
       "description":"Internet Explorer 8 and 9, and Firefox versions 6.0 and below only support strings as postMessage's message. References: https://dev.opera.com/articles/view/window-postmessage-messagechannel/#crossdoc, https://developer.mozilla.org/en-US/docs/DOM/window.postMessage"
     },
     {
-      "description":"IE8's events are triggered synchronously, which may lead to to unexpected results."
+      "description":"IE8's events are triggered synchronously, which may lead to unexpected results."
     },
     {
       "description":"Firefox 41 and below do not support sending File/Blob objects [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=722126)"
