@@ -517,19 +517,19 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.4":"y",
-      "14.5-14.8":"y",
-      "15.0-15.1":"y",
-      "15.2-15.3":"y",
-      "15.4":"y",
-      "15.5":"y",
-      "15.6":"y",
-      "16.0":"y",
-      "16.1":"y",
-      "16.2":"y",
-      "16.3":"y",
-      "16.4":"y",
-      "16.5":"y"
+      "14.0-14.4":"a #5",
+      "14.5-14.8":"a #5",
+      "15.0-15.1":"a #5",
+      "15.2-15.3":"a #5",
+      "15.4":"a #5",
+      "15.5":"a #5",
+      "15.6":"a #5",
+      "16.0":"a #5",
+      "16.1":"a #5",
+      "16.2":"a #5",
+      "16.3":"a #5",
+      "16.4":"a #5",
+      "16.5":"a #5"
     },
     "op_mini":{
       "all":"y"
@@ -608,7 +608,8 @@
     "1":"Only supports the [old flexbox](https://www.w3.org/TR/2009/WD-css3-flexbox-20090723) specification and does not support wrapping.",
     "2":"Only supports the [2012 syntax](https://www.w3.org/TR/2012/WD-css3-flexbox-20120322/)",
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
-    "4":"Partial support is due to large amount of bugs present (see known issues)"
+    "4":"Partial support is due to large amount of bugs present (see known issues)",
+    "5":"Safari 14 through 16, and probably earlier versions, will not allow VoiceOver swipe or read-all navigation of tables that have `display: flex` on the `<tr>`s [257458](https://bugs.webkit.org/show_bug.cgi?id=257458)."
   },
   "usage_perc_y":98.92,
   "usage_perc_a":0.87,
