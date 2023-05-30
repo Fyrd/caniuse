@@ -465,19 +465,19 @@
       "13.2":"y",
       "13.3":"y",
       "13.4-13.7":"y",
-      "14.0-14.4":"y",
-      "14.5-14.8":"y",
-      "15.0-15.1":"y",
-      "15.2-15.3":"y",
-      "15.4":"y",
-      "15.5":"y",
-      "15.6":"y",
-      "16.0":"y",
-      "16.1":"y",
-      "16.2":"y",
-      "16.3":"y",
-      "16.4":"y",
-      "16.5":"y"
+      "14.0-14.4":"a #2",
+      "14.5-14.8":"a #2",
+      "15.0-15.1":"a #2",
+      "15.2-15.3":"a #2",
+      "15.4":"a #2",
+      "15.5":"a #2",
+      "15.6":"a #2",
+      "16.0":"a #2",
+      "16.1":"a #2",
+      "16.2":"a #2",
+      "16.3":"a #2",
+      "16.4":"a #2",
+      "16.5":"a #2"
     },
     "op_mini":{
       "all":"y"
@@ -553,7 +553,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. [Alternative properties](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/) are available to provide complete cross-browser support."
+    "1":"Only supported in IE6 and IE7 on elements with a display of \"inline\" by default. [Alternative properties](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/) are available to provide complete cross-browser support.",
+    "2":"Safari 14 through 16 (and probably earlier versions) with VoiceOver give incorrect column counts, give incorrect column position, and give incorrect column headers when tables that have `display: inline-block` on the `<tr>`s [257458](https://bugs.webkit.org/show_bug.cgi?id=257458)."
   },
   "usage_perc_y":99.95,
   "usage_perc_a":0.03,
