@@ -545,7 +545,7 @@
       "3.0-3.1":"y"
     }
   },
-  "notes":"See also support for the related [DOM range](https://caniuse.com/#feat=dom-range) ",
+  "notes":"See also support for the related [DOM range](https://caniuse.com/dom-range) ",
   "notes_by_num":{
     "1":"Supports `window.getSelection()` but no selection events",
     "2":"Supports selection events, but not `window.getSelection()`",
