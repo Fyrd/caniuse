@@ -1,6 +1,6 @@
 {
   "title":"Referrer Policy",
-  "description":"A policy that controls how much information is shared through the HTTP referrer header. Helps to protect user privacy.",
+  "description":"A policy that controls how much information is shared through the HTTP `Referer` header. Helps to protect user privacy.",
   "spec":"https://www.w3.org/TR/referrer-policy/",
   "status":"cr",
   "links":[
@@ -555,7 +555,7 @@
     "1":"Browsers initially supported an [early draft](https://wiki.whatwg.org/wiki/Meta_referrer) of the specification which can only use a meta tag and is only compatible with the `origin` value from the new spec.",
     "2":"Chrome 21-60 did not support the `same-origin`, `strict-origin` and `strict-origin-when-cross-origin` values. ([issue 627968](https://bugs.chromium.org/p/chromium/issues/detail?id=627968))",
     "3":"Older browsers defaulted to `no-referrer-when-downgrade` which is unsafe. The default has been updated to `strict-origin-when-cross-origin` which is safe for most use cases. See [the revised spec.](https://github.com/w3c/webappsec-referrer-policy/pull/142)",
-    "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) referrer headers to the page's origin, ignoring the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies.",
+    "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) `Referer` headers to the page's origin, ignoring the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies.",
     "5":"[Firefox 92+ ignores](https://bugzilla.mozilla.org/show_bug.cgi?id=1720294) the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies, defaulting to `strict-origin-when-cross-origin`."
   },
   "usage_perc_y":95.91,
