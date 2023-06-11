@@ -446,9 +446,9 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"n",
-      "98":"n",
-      "99":"n"
+      "97":"y",
+      "98":"y",
+      "99":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -559,11 +559,11 @@
       "3.0-3.1":"n"
     }
   },
-  "notes":"Browsers without Passkey support may still allow authentication at passkey logins via other types of security keys as long as they support [WebAuthn](/webauthn).",
+  "notes":"Support for various passkey features also depends on the device and OS used. See the [passkeys.dev site](https://passkeys.dev/device-support/) for details.\r\n\r\nBrowsers without Passkey support may still allow authentication at passkey logins via other types of security keys as long as they support [WebAuthn](/webauthn).",
   "notes_by_num":{
     
   },
-  "usage_perc_y":81.43,
+  "usage_perc_y":83.07,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -572,5 +572,5 @@
   "chrome_id":"",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }
