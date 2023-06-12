@@ -582,7 +582,8 @@
   "notes_by_num":{
     "1":"Supports notifications via the [Push API](https://caniuse.com/#feat=push-api) but not the Web Notifications API.",
     "2":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)",
-    "3":"Requires website to first be [added to the Home Screen](/web-app-manifest)"
+    "3":"Requires website to first be [added to the Home Screen](/web-app-manifest)",
+    "4":"Requires website to first be [added to the Home Screen](/web-app-manifest)"
   },
   "usage_perc_y":79.38,
   "usage_perc_a":6.84,
