@@ -557,8 +557,7 @@
   "notes":"The legacy Edge browser also offers a compatible implementation known as [ObjectRTC](http://blogs.msdn.com/b/ie/archive/2014/10/27/bringing-interoperable-real-time-communications-to-the-web.aspx). See [Object RTC](https://caniuse.com/#feat=objectrtc) for support details for that API.",
   "notes_by_num":{
     "1":"BlackBerry 10 recognizes RTCPeerConnection but real support is unconfirmed.",
-    "2":"Edge does not support RTCDataChannel. See [API Catalogue](https://web.archive.org/web/20190327013248/https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?q=specName%3Awebrtc)",
-    "3":"Edge does not support RTCDataChannel. See [API Catalogue](https://web.archive.org/web/20190327013248/https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?q=specName%3Awebrtc)"
+    "2":"Edge does not support RTCDataChannel. See [API Catalogue](https://web.archive.org/web/20190327013248/https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?q=specName%3Awebrtc)"
   },
   "usage_perc_y":96.35,
   "usage_perc_a":0.01,
