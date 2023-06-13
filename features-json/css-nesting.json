@@ -197,7 +197,7 @@
       "112":"n",
       "113":"n",
       "114":"n",
-      "115":"n"
+      "115":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -560,7 +560,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
+    "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
+    "2":"Available behind the `layout.css.nesting.enabled` flag",
   },
   "usage_perc_y":63.74,
   "usage_perc_a":0,
