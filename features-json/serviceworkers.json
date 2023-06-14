@@ -481,6 +481,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
+      "16.6":"y",
       "17":"y"
     },
     "op_mini":{
@@ -496,7 +497,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "113":"a"
+      "114":"a"
     },
     "bb":{
       "7":"n",
@@ -559,8 +560,7 @@
   "notes_by_num":{
     "1":"Partial support can be enabled in Firefox with the `dom.serviceWorkers.enabled` flag.",
     "2":"Available behind the \"Enable service workers\" flag",
-    "3":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` flag",
-    "4":"Can be enabled via the \"Experimental Features\" developer menu"
+    "3":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` flag"
   },
   "usage_perc_y":96.15,
   "usage_perc_a":0.03,

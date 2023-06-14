@@ -197,7 +197,7 @@
       "112":"n",
       "113":"n",
       "114":"n",
-      "115":"n"
+      "115":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -483,6 +483,7 @@
       "16.3":"n",
       "16.4":"n",
       "16.5":"y",
+      "16.6":"y",
       "17":"y"
     },
     "op_mini":{
@@ -498,7 +499,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "113":"y"
+      "114":"y"
     },
     "bb":{
       "7":"n",
@@ -559,7 +560,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
+    "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
+    "2":"Available behind the `layout.css.nesting.enabled` flag"
   },
   "usage_perc_y":63.74,
   "usage_perc_a":0,
