@@ -483,6 +483,7 @@
       "16.3":"n",
       "16.4":"n",
       "16.5":"n",
+      "16.6":"n",
       "17":"n"
     },
     "op_mini":{
@@ -498,7 +499,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "113":"n"
+      "114":"n"
     },
     "bb":{
       "7":"n",
@@ -559,8 +560,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox behind the `dom.webcomponents.enabled` flag.",
-    "2":"Supported in Firefox behind the `dom.webcomponents.shadowdom.enabled` flag."
+    
   },
   "usage_perc_y":2.39,
   "usage_perc_a":0,

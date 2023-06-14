@@ -494,6 +494,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
+      "16.6":"y",
       "17":"y"
     },
     "op_mini":{
@@ -509,7 +510,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "113":"y"
+      "114":"y"
     },
     "bb":{
       "7":"n",
@@ -571,8 +572,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
-    "2":"Partial support is due to bugs present (see known issues)",
-    "3":"Partial support is due to bugs present (see known issues)"
+    "2":"Partial support is due to bugs present (see known issues)"
   },
   "usage_perc_y":96.17,
   "usage_perc_a":0.1,

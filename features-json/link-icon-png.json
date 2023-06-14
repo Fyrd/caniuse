@@ -473,6 +473,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
+      "16.6":"y",
       "17":"y"
     },
     "op_mini":{
@@ -488,7 +489,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "113":"y"
+      "114":"y"
     },
     "bb":{
       "7":"y",
@@ -549,10 +550,7 @@
   },
   "notes":"Favicon support is a complicated topic. See [this guide](https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7) for more information.\r\n\r\nSee also [SVG favicons](/link-icon-svg).",
   "notes_by_num":{
-    "1":"Does not use favicons at all (but may have alternative for bookmarks, etc.).",
-    "2":"If both ICO and PNG are available, will ALWAYS use ICO file, regardless of sizes set.",
-    "3":"If multiple formats are available, will use the last one loaded, regardless of sizes (effectively picks at random).",
-    "4":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
+    "1":"Does not use favicons at all (but may have alternative for bookmarks, etc.)."
   },
   "usage_perc_y":97.2,
   "usage_perc_a":0,

@@ -181,6 +181,31 @@
             }
         };
 
+        // Ensures that there are no dangling notes with either a missing description or missing references
+        this.validateNoteCoherence = function () {
+            var statReferences = new Set();
+            for (var browserStats of Object.values(data.stats)) {
+                for (var versionStat of Object.values(browserStats)) {
+                    // This regex assumes that the value is syntactically correct
+                    var versionRefs = versionStat.matchAll(/ #(?<number>\d+)/gu);
+                    for (var reference of versionRefs) {
+                        statReferences.add(reference.groups.number);
+                    }
+                }
+            }
+            var notes = new Set(Object.keys(data.notes_by_num));
+
+            var allReferences = new Set([...statReferences, ...notes]);
+            for(var reference of allReferences) {
+                if(!statReferences.has(reference)){
+                    this.throwError('Note #' + reference + ' is never referenced in stats, and will therefore not be shown');
+                }
+                if(!notes.has(reference)){
+                    this.throwError('Found a reference to note #' + reference + ', but that note does not exist');
+                }
+            }
+        };
+
         this.validateKeys = function(parentKey, refObject, object) {
             for( var key in object ) {
                 if( !(key in refObject) ) {
@@ -214,6 +239,7 @@
             this.currentBrowser = null;
             this.currentVersion = null;
             this.validateKeys('stats', sampleStats, stats);
+            this.validateNoteCoherence();
         };
 
         this.validateFeature = function () {

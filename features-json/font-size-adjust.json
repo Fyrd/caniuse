@@ -479,6 +479,7 @@
       "16.3":"n",
       "16.4":"y",
       "16.5":"y",
+      "16.6":"y",
       "17":"y"
     },
     "op_mini":{
@@ -494,7 +495,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "113":"n"
+      "114":"n"
     },
     "bb":{
       "7":"n",
@@ -555,8 +556,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
-    "2":"Does not appear to work on Firefox mobile, despite recognition of the property."
+    "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags"
   },
   "usage_perc_y":11.09,
   "usage_perc_a":0,

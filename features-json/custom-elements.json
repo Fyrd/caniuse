@@ -472,6 +472,7 @@
       "16.3":"p",
       "16.4":"p",
       "16.5":"p",
+      "16.6":"p",
       "17":"p"
     },
     "op_mini":{
@@ -487,7 +488,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"y",
-      "113":"n"
+      "114":"n"
     },
     "bb":{
       "7":"n",
@@ -548,8 +549,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Enabled through the \"dom.webcomponents.enabled\" preference in about:config",
-    "2":"Enabled through the \"dom.webcomponents.customelements.enabled\" preference in about:config"
+    
   },
   "usage_perc_y":2.29,
   "usage_perc_a":0,
