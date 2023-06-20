@@ -1,6 +1,6 @@
 {
-  "title":"HEIF/ISO Base Media File Format",
-  "description":"HEIF (High Efficiency Image File Format) is a standard developed by the Moving Picture Experts Group (MPEG) for storage and sharing of images and image sequences. Can use `.heif` or `.heic` file extensions.",
+  "title":"HEIF/HEIC image format",
+  "description":"A modern image format based on the [HEVC video format](/hevc). HEIC generally has better compression than [WebP](/webp), JPEG, PNG and GIF. It is hard for browsers to support HEIC because it is [complex and expensive to license](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding#Patent_licensing). [AVIF](/avif) and [JPEG XL](/jpegxl) provide free licenses and are designed to supersede HEIC.",
   "spec":"https://nokiatech.github.io/heif/technical.html",
   "status":"other",
   "links":[
@@ -556,13 +556,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"While supported natively since macOS 10.13 High Sierra and iOS 11, the file format does not appear to be supported in Safari."
+    "1":"Was supported natively in macOS/iOS, but was not supported in Safari."
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"heic",
+  "keywords":"heic,hevc",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",

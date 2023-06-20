@@ -1,6 +1,6 @@
 {
   "title":"HEVC/H.265 video format",
-  "description":"The High Efficiency Video Coding (HEVC) compression standard is a video compression format intended to succeed H.264",
+  "description":"The High Efficiency Video Coding (HEVC) compression standard is a video compression format intended to succeed H.264. It is hard for browsers to universally support HEVC because it is [complex and expensive to license](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding#Patent_licensing). HEVC competes with [AV1](/av1) which has similar compression quality and provides a free license.",
   "spec":"https://www.itu.int/rec/T-REC-H.265",
   "status":"other",
   "links":[
