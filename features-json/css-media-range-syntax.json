@@ -1,6 +1,6 @@
 {
   "title":"Media Queries: Range Syntax",
-  "description":"Syntax improvements to make media queries using features that have a \"range\" type (like width or height) less verbose. Can be used with ordinary mathematical comparison operators: `>`, `<`, `>=`, or `<=`.\r\n\r\nFor example: `@media (100px <= width <= 1900px)` is the equivalent of `@media (min-width: 100px) and (max-width: 1900px`)`",
+  "description":"Syntax improvements to make media queries using features that have a \"range\" type (like width or height) less verbose. Can be used with ordinary mathematical comparison operators: `>`, `<`, `>=`, or `<=`.\r\n\r\nFor example: `@media (100px <= width <= 1900px)` is the equivalent of `@media (min-width: 100px) and (max-width: 1900px)`",
   "spec":"https://www.w3.org/TR/mediaqueries-4/#mq-range-context",
   "status":"cr",
   "links":[
