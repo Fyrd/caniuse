@@ -436,7 +436,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -551,8 +552,8 @@
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":56.67,
-  "usage_perc_a":40.55,
+  "usage_perc_y":56.27,
+  "usage_perc_a":41.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

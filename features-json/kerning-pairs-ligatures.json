@@ -440,7 +440,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -555,8 +556,8 @@
   "notes_by_num":{
     "1":"Partial support in Android browser versions is due to a serious bug where `text-rendering: optimizeLegibility` causes custom web fonts to not render."
   },
-  "usage_perc_y":96.82,
-  "usage_perc_a":0.11,
+  "usage_perc_y":96.86,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"optimizeLegibility,optimizeSpeed,geometricPrecision",

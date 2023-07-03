@@ -1,6 +1,6 @@
 {
   "title":"Scoped CSS",
-  "description":"Allows CSS rules to be scoped to part of the document, based on the position of the style element. The attribute has been [removed from the current specification](https://github.com/whatwg/html/issues/552).",
+  "description":"Deprecated method of allowing scoped CSS styles using a \"scoped\" attribute. Now [removed from the specification](https://github.com/whatwg/html/issues/552) and replaced by the [@scope CSS rule](/css-cascade-scope).",
   "spec":"https://www.w3.org/TR/html51/document-metadata.html#element-attrdef-style-scoped",
   "status":"unoff",
   "links":[
@@ -449,7 +449,8 @@
       "96":"n",
       "97":"n",
       "98":"n",
-      "99":"n"
+      "99":"n",
+      "100":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -565,7 +566,7 @@
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Enabled in Firefox through the about:config setting \"layout.css.scoped-style.enabled\""
   },
-  "usage_perc_y":0.18,
+  "usage_perc_y":0.17,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

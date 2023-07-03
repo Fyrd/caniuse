@@ -440,7 +440,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -556,8 +557,8 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":95.88,
-  "usage_perc_a":0.26,
+  "usage_perc_y":95.92,
+  "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",

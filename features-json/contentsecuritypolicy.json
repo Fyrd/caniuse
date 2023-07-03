@@ -452,7 +452,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -568,8 +569,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-WebKit-CSP` header"
   },
-  "usage_perc_y":96.81,
-  "usage_perc_a":0.38,
+  "usage_perc_y":96.85,
+  "usage_perc_a":0.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

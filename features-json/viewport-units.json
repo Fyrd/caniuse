@@ -483,7 +483,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -600,8 +601,8 @@
     "2":"Partial support refers to not supporting the \"vmax\" unit. ",
     "3":"Partial support in iOS7 is due to buggy behavior of the \"vh\" unit (see workarounds: [1](https://gist.github.com/pburtchaell/e702f441ba9b3f76f587), [2](https://gist.github.com/BenMorel/e9e34c08360ebbbd0634))."
   },
-  "usage_perc_y":96.79,
-  "usage_perc_a":0.43,
+  "usage_perc_y":96.83,
+  "usage_perc_a":0.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage,100vh,100vw",

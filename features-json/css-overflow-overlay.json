@@ -440,7 +440,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"n #1"
     },
     "ios_saf":{
       "3.2":"u",
@@ -492,7 +493,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "114":"y"
+      "114":"n #1"
     },
     "bb":{
       "7":"u",
@@ -508,7 +509,7 @@
       "73":"y"
     },
     "and_chr":{
-      "114":"y"
+      "114":"n #1"
     },
     "and_ff":{
       "113":"n"
@@ -555,7 +556,7 @@
   "notes_by_num":{
     "1":"The `overlay` value is recognized, but behaves the same as \"auto\"."
   },
-  "usage_perc_y":74.05,
+  "usage_perc_y":18.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -7,9 +7,15 @@
     {
       "url":"https://css.oddbird.net/scope/explainer/",
       "title":"Explainer"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1830512",
+      "title":"Firefox support bug"
     }
   ],
-  "bugs":[ ],
+  "bugs":[
+    
+  ],
   "categories":[
     "CSS"
   ],
@@ -299,7 +305,7 @@
       "114":"n d #1",
       "115":"n d #1",
       "116":"n d #1",
-      "117":"y"
+      "117":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -434,7 +440,8 @@
       "96":"n d #1",
       "97":"n d #1",
       "98":"n d #1",
-      "99":"n d #1"
+      "99":"n d #1",
+      "100":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -502,7 +509,7 @@
       "73":"n"
     },
     "and_chr":{
-      "114":"n"
+      "114":"n d #1"
     },
     "and_ff":{
       "113":"n"
@@ -541,15 +548,15 @@
       "13.18":"n"
     },
     "kaios":{
-      "2.5":"y",
+      "2.5":"n",
       "3.0-3.1":"n"
     }
   },
-  "notes":"",
+  "notes":"This implementation replaces an older concept of [scoping CSS rules](https://caniuse.com/style-scoped).",
   "notes_by_num":{
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags"
   },
-  "usage_perc_y":0.18,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
@@ -558,5 +565,5 @@
   "chrome_id":"5100672734199808",
   "firefox_id":"",
   "webkit_id":"",
-  "shown":false
+  "shown":true
 }

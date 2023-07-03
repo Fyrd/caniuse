@@ -440,7 +440,8 @@
       "96":"y",
       "97":"y",
       "98":"y",
-      "99":"y"
+      "99":"y",
+      "100":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -559,8 +560,8 @@
     "4":"`let` bindings in for loops are incorrectly treated as function-scoped instead of block scoped.",
     "5":"`let` variables are not bound separately to each iteration of `for` loops"
   },
-  "usage_perc_y":96.08,
-  "usage_perc_a":0.66,
+  "usage_perc_y":96.11,
+  "usage_perc_a":0.65,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,variable,block,scope",
