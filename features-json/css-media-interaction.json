@@ -9,6 +9,10 @@
       "title":"Potential use cases for script, hover and pointer CSS Level 4 Media Features"
     },
     {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=398943",
+      "title":"Chrome support bug"
+    },
+    {
       "url":"https://dev.opera.com/articles/media-features/",
       "title":"Interaction Media Features and their potential (for incorrect assumptions)"
     },
@@ -480,7 +484,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6":"y",
+      "15.6-15.7":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -566,7 +570,7 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":96.2,
+  "usage_perc_y":95.5,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"css-mediaqueries",
