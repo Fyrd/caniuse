@@ -9,16 +9,16 @@
       "title":"Potential use cases for script, hover and pointer CSS Level 4 Media Features"
     },
     {
-      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=398943",
-      "title":"Chrome support bug"
-    },
-    {
       "url":"https://dev.opera.com/articles/media-features/",
       "title":"Interaction Media Features and their potential (for incorrect assumptions)"
     },
     {
       "url":"https://github.com/twbs/mq4-hover-shim",
       "title":"Polyfill for the `hover` media feature"
+    },
+    {
+      "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=398943",
+      "title":"Chrome support bug"
     }
   ],
   "bugs":[
@@ -318,7 +318,8 @@
       "115":"y",
       "116":"y",
       "117":"y",
-      "118":"y"
+      "118":"y",
+      "119":"y"
     },
     "safari":{
       "3.1":"n",
