@@ -568,7 +568,7 @@
       "3.0-3.1":"n"
     }
   },
-  "notes":"Supported in Edge 116 and newer only on Windows 11 (Moment 3 or Later)",
+  "notes":"Supported in Edge 116 (Canary only) on Windows Insider builds.",
   "notes_by_num":{
     "1":"Can be enabled in Firefox via the `image.avif.enabled` pref in `about:config`.",
     "2":"Supports still images. Animated image sequences are not supported.",
