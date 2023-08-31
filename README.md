@@ -1,5 +1,5 @@
 # caniuse
-[![Build Status](https://travis-ci.org/Fyrd/caniuse.svg?branch=master)](https://travis-ci.org/Fyrd/caniuse)
+[![Build Status](https://github.com/Fyrd/caniuse/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Fyrd/caniuse/actions/)
 
 ## About
 
