@@ -81,7 +81,8 @@
       "113":"y",
       "114":"y",
       "115":"y",
-      "116":"y"
+      "116":"y",
+      "117":"y"
     },
     "firefox":{
       "2":"n",
@@ -321,7 +322,8 @@
       "116":"y",
       "117":"y",
       "118":"y",
-      "119":"y"
+      "119":"y",
+      "120":"y"
     },
     "safari":{
       "3.1":"n",
@@ -359,7 +361,8 @@
       "16.4":"n",
       "16.5":"y",
       "16.6":"y",
-      "17":"y",
+      "17.0":"y",
+      "17.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -496,7 +499,8 @@
       "16.4":"n",
       "16.5":"y",
       "16.6":"y",
-      "17":"y"
+      "17.0":"y",
+      "17.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -511,7 +515,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "116":"y"
+      "117":"y"
     },
     "bb":{
       "7":"n",
@@ -527,10 +531,10 @@
       "73":"n"
     },
     "and_chr":{
-      "116":"y"
+      "117":"y"
     },
     "and_ff":{
-      "116":"n"
+      "117":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -576,7 +580,7 @@
     "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "2":"Available behind the `layout.css.nesting.enabled` flag"
   },
-  "usage_perc_y":76.47,
+  "usage_perc_y":76.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
