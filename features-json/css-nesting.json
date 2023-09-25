@@ -579,7 +579,7 @@
   "notes_by_num":{
     "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "2":"Available behind the `layout.css.nesting.enabled` flag",
-    "3":"Does not allow nesting of type selectors without the & nesting selector."
+    "3":"Does not allow nesting of type (element) selectors without starting with a symbol, like the & nesting selector."
   },
   "usage_perc_y":76.74,
   "usage_perc_a":0,
