@@ -574,8 +574,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled through the \"experimental Web Platform features\" flag in chrome://flags",
-    "2":"Missing support for two-value syntax.",
-    "3":"Missing support for `from-font` value."
+    "2":"Missing support for two-value syntax. Issue for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1219875).",
+    "3":"Missing support for `from-font` value. Issue for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1219875)."
   },
   "usage_perc_y":14.62,
   "usage_perc_a":0,
