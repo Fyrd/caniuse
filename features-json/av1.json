@@ -365,9 +365,9 @@
       "16.4":"n",
       "16.5":"n",
       "16.6":"n",
-      "17.0":"a #4",
-      "17.1":"a #4",
-      "TP":"a #4"
+      "17.0":"n #4",
+      "17.1":"n #4",
+      "TP":"n #4"
     },
     "opera":{
       "9":"n",
@@ -584,7 +584,7 @@
     "1":"Can be enabled in Edge on Windows 10 or later by installing the [AV1 Video Extension from the Microsoft Store](https://www.microsoft.com/store/productId/9MVZQVXJBQ9V)",
     "2":"Firefox 65 only supported AV1 on Windows 64-bit",
     "3":"Firefox 66 only supported AV1 on Windows and macOS",
-    "4":"Partial support refers to supporting only devices with hardware decoding support"
+    "4":"Supported only for devices with hardware decoder i.e. A17 Pro (in e.g. iPhone 15 _Pro_ (Max)) or later"
   },
   "usage_perc_y":69.29,
   "usage_perc_a":0.12,
