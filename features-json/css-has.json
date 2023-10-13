@@ -584,7 +584,7 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled via the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
-    "2":"Supported in Firefox behind the `layout.css.has-selector.enabled` flag"
+    "2":"Supported in Firefox behind the `layout.css.has-selector.enabled` flag, which is enabled by default since 119 (only Nightly)"
   },
   "usage_perc_y":87.53,
   "usage_perc_a":0,
