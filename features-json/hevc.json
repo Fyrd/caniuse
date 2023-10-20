@@ -15,6 +15,10 @@
     {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=684382",
       "title":"Chrome support bug (WontFix)"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1842838",
+      "title":"Firefox support via OS API bug"
     }
   ],
   "bugs":[
@@ -78,7 +82,8 @@
       "114":"a #4",
       "115":"a #4",
       "116":"a #4",
-      "117":"a #4"
+      "117":"a #4",
+      "118":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -201,7 +206,8 @@
       "117":"n",
       "118":"n",
       "119":"n",
-      "120":"n"
+      "120":"n d #6",
+      "121":"n d #6"
     },
     "chrome":{
       "4":"n",
@@ -319,7 +325,8 @@
       "117":"a #5",
       "118":"a #5",
       "119":"a #5",
-      "120":"a #5"
+      "120":"a #5",
+      "121":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -458,7 +465,8 @@
       "99":"a #5",
       "100":"a #5",
       "101":"a #5",
-      "102":"a #5"
+      "102":"a #5",
+      "103":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -530,7 +538,7 @@
       "117":"a #5"
     },
     "and_ff":{
-      "117":"n"
+      "118":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -577,7 +585,8 @@
     "2":"Reported to work in certain Android devices with hardware support",
     "3":"Supported only on macOS High Sierra or later",
     "4":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0) if Edge >= 107, for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548) on Windows (>= Windows 10 1709) when [HEVC video extensions from the Microsoft Store](https://apps.microsoft.com/store/detail/hevc-video-extension/9NMZLZ57R3T7) is installed",
-    "5":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0), for devices with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) on Windows (>= Windows 8), and for devices with hardware support powered by VAAPI on Linux and ChromeOS"
+    "5":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0), for devices with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) on Windows (>= Windows 8), and for devices with hardware support powered by VAAPI on Linux and ChromeOS",
+    "6":"Supported for devices with hardware support (the range is the same as Edge) on Windows in Nightly only"
   },
   "usage_perc_y":21.29,
   "usage_perc_a":68.27,

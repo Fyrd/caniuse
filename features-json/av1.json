@@ -85,8 +85,9 @@
       "113":"n d #1",
       "114":"n d #1",
       "115":"n d #1",
-      "116":"n d #1",
-      "117":"n d #1"
+      "116":"n",
+      "117":"n",
+      "118":"n"
     },
     "firefox":{
       "2":"n",
@@ -209,7 +210,8 @@
       "117":"y",
       "118":"y",
       "119":"y",
-      "120":"y"
+      "120":"y",
+      "121":"y"
     },
     "chrome":{
       "4":"n",
@@ -327,7 +329,8 @@
       "117":"y",
       "118":"y",
       "119":"y",
-      "120":"y"
+      "120":"y",
+      "121":"y"
     },
     "safari":{
       "3.1":"n",
@@ -466,7 +469,8 @@
       "99":"y",
       "100":"y",
       "101":"y",
-      "102":"y"
+      "102":"y",
+      "103":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -538,7 +542,7 @@
       "117":"y"
     },
     "and_ff":{
-      "117":"y"
+      "118":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -579,7 +583,7 @@
       "3.0-3.1":"n"
     }
   },
-  "notes":"",
+  "notes":"Edge has stopped supporting AV1 completely at some point prior to version 116 (additional information required).",
   "notes_by_num":{
     "1":"Can be enabled in Edge on Windows 10 or later by installing the [AV1 Video Extension from the Microsoft Store](https://www.microsoft.com/store/productId/9MVZQVXJBQ9V)",
     "2":"Firefox 65 only supported AV1 on Windows 64-bit",

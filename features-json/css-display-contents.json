@@ -75,7 +75,8 @@
       "114":"a #2",
       "115":"a #2",
       "116":"a #2",
-      "117":"a #2"
+      "117":"a #2",
+      "118":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -198,7 +199,8 @@
       "117":"a #2",
       "118":"a #2",
       "119":"a #2",
-      "120":"a #2"
+      "120":"a #2",
+      "121":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -316,7 +318,8 @@
       "117":"a #2",
       "118":"a #2",
       "119":"a #2",
-      "120":"a #2"
+      "120":"a #2",
+      "121":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -348,15 +351,15 @@
       "15.5":"a #1",
       "15.6":"a #1",
       "16.0":"a #2 #3",
-      "16.1":"a #3",
-      "16.2":"a #3",
-      "16.3":"a #3",
-      "16.4":"a #3",
-      "16.5":"a #3",
-      "16.6":"a #3",
-      "17.0":"y",
-      "17.1":"y",
-      "TP":"y"
+      "16.1":"a #2 #3",
+      "16.2":"a #2 #3",
+      "16.3":"a #2 #3",
+      "16.4":"a #2 #3",
+      "16.5":"a #2 #3",
+      "16.6":"a #2 #3",
+      "17.0":"a #2",
+      "17.1":"a #2",
+      "TP":"a #2"
     },
     "opera":{
       "9":"n",
@@ -455,7 +458,8 @@
       "99":"a #2",
       "100":"a #2",
       "101":"a #2",
-      "102":"a #2"
+      "102":"a #2",
+      "103":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -527,7 +531,7 @@
       "117":"a #2"
     },
     "and_ff":{
-      "117":"a #2"
+      "118":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -571,11 +575,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"Partial support refers to [severe implementation bugs](https://hiddedevries.nl/en/blog/2018-04-21-more-accessible-markup-with-display-contents) that renders content inaccessible for many element types.",
-    "2":"Buttons are not accessible with `display: contents` applied. See issues for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1366037), [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1791648), and [WebKit](https://bugs.webkit.org/show_bug.cgi?id=243486)",
+    "2":"Buttons are not accessible with `display: contents` applied. See issues for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1366037), [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1791648), and [WebKit](https://bugs.webkit.org/show_bug.cgi?id=255149)",
     "3":"HTML tables and nodes with ARIA roles `directory`, `grid`, `treegrid`, `table`, `row`, `gridcell`, `cell`, `columnheader`, `tree`, and `treeitem` are not accessible with `display: contents` applied. See WebKit bugs [239478](https://bugs.webkit.org/show_bug.cgi?id=239478), [239479](https://bugs.webkit.org/show_bug.cgi?id=239479), [239478](https://bugs.webkit.org/show_bug.cgi?id=239478), and [257458](https://bugs.webkit.org/show_bug.cgi?id=257458)"
   },
-  "usage_perc_y":0.81,
-  "usage_perc_a":95,
+  "usage_perc_y":0.71,
+  "usage_perc_a":95.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
