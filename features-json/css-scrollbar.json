@@ -529,7 +529,7 @@
       "4.2-4.3":"a x #2",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "117":"a x #2"
+      "118":"a x #2"
     },
     "bb":{
       "7":"a x #2",
@@ -545,7 +545,7 @@
       "73":"a x #2"
     },
     "and_chr":{
-      "117":"a x #2"
+      "118":"a x #2"
     },
     "and_ff":{
       "118":"y"
@@ -595,8 +595,7 @@
     "2":"Supports scrollbar styling via CSS [pseudo-properties](https://webkit.org/blog/363/styling-scrollbars/). (not on standards track)",
     "3":"Scrollbar styling doesn\u2019t work in [WKWebView](https://issues.apache.org/jira/browse/CB-10123)",
     "4":"Can be enabled by setting the layout.css.scrollbar-colors.enabled and layout.css.scrollbar-width.enabled flags to true.",
-    "5":"Firefox 63 supported scrollbar-face-color and scrollbar-track-color separate properties (now dropped from the spec) instead of unified scrollbar-color property.",
-    "6":"Firefox neither supports `light` and `dark` values of scrollbar-color nor `<length>` values of scrollbar width"
+    "5":"Firefox 63 supported scrollbar-face-color and scrollbar-track-color separate properties (now dropped from the spec) instead of unified scrollbar-color property."
   },
   "usage_perc_y":2.77,
   "usage_perc_a":80.85,
