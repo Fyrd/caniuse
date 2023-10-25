@@ -7,6 +7,14 @@
     {
       "url":"https://en.wikipedia.org/wiki/Theora",
       "title":"Wikipedia article"
+    },
+    {
+      "url":"https://chromestatus.com/feature/5158654475239424",
+      "title":"Chrome Platform Status: Deprecate and remove Theora support"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1860492",
+      "title":"Firefox bug: Investigate removing Theora support"
     }
   ],
   "bugs":[
@@ -313,8 +321,8 @@
       "117":"y",
       "118":"y",
       "119":"y",
-      "120":"y",
-      "121":"y"
+      "120":"n d #1",
+      "121":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -569,7 +577,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Chrome is deprecating and removing Theora support, see [this platform status entry](https://chromestatus.com/feature/5158654475239424)"
   },
   "usage_perc_y":38.14,
   "usage_perc_a":0,
