@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"on iOS does not work in standalone (aka PWA) mode, only works in actual browser"
+    }
   ],
   "categories":[
     "JS API"
