@@ -83,7 +83,8 @@
       "115":"a #4",
       "116":"a #4",
       "117":"a #4",
-      "118":"a #4"
+      "118":"a #4",
+      "119":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -207,7 +208,8 @@
       "118":"n",
       "119":"n",
       "120":"n d #6",
-      "121":"n d #6"
+      "121":"n d #6",
+      "122":"n d #6"
     },
     "chrome":{
       "4":"n",
@@ -326,7 +328,8 @@
       "118":"a #5",
       "119":"a #5",
       "120":"a #5",
-      "121":"a #5"
+      "121":"a #5",
+      "122":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -503,7 +506,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
-      "16.6":"y",
+      "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
       "17.2":"y"
@@ -521,7 +524,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"a #5"
+      "119":"a #5"
     },
     "bb":{
       "7":"n",
@@ -537,10 +540,10 @@
       "73":"n #2"
     },
     "and_chr":{
-      "118":"a #5"
+      "119":"a #5"
     },
     "and_ff":{
-      "118":"n"
+      "119":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -568,7 +571,8 @@
       "19.0":"n #2",
       "20":"n #2",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"n"
@@ -590,8 +594,8 @@
     "5":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0), for devices with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) on Windows (>= Windows 8), and for devices with hardware support powered by VAAPI on Linux and ChromeOS",
     "6":"Supported for devices with hardware support (the range is the same as Edge) on Windows in Nightly only"
   },
-  "usage_perc_y":21.29,
-  "usage_perc_a":68.27,
+  "usage_perc_y":21.19,
+  "usage_perc_a":68.9,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

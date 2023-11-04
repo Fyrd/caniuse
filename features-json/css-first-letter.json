@@ -76,7 +76,8 @@
       "115":"y",
       "116":"y",
       "117":"y",
-      "118":"y"
+      "118":"y",
+      "119":"y"
     },
     "firefox":{
       "2":"a #2",
@@ -200,7 +201,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -319,7 +321,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "safari":{
       "3.1":"u",
@@ -496,7 +499,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
-      "16.6":"y",
+      "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
       "17.2":"y"
@@ -514,7 +517,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "118":"y"
+      "119":"y"
     },
     "bb":{
       "7":"y",
@@ -530,10 +533,10 @@
       "73":"y"
     },
     "and_chr":{
-      "118":"y"
+      "119":"y"
     },
     "and_ff":{
-      "118":"y"
+      "119":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -561,7 +564,8 @@
       "19.0":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -581,8 +585,8 @@
     "3":"Only recognizes the deprecated :first-letter pseudo-class, not the ::first-letter pseudo-element.",
     "4":"Only matches the very first character. The spec says that surrounding punctuation should also match."
   },
-  "usage_perc_y":98.35,
-  "usage_perc_a":0.03,
+  "usage_perc_y":98.43,
+  "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"first,letter,pseudo,element,class,selector",

@@ -101,7 +101,8 @@
       "115":"y",
       "116":"y",
       "117":"y",
-      "118":"y"
+      "118":"y",
+      "119":"y"
     },
     "firefox":{
       "2":"a x #2",
@@ -225,7 +226,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "chrome":{
       "4":"y x",
@@ -344,7 +346,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "safari":{
       "3.1":"y x",
@@ -521,7 +524,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
-      "16.6":"y",
+      "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
       "17.2":"y"
@@ -539,7 +542,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "118":"y"
+      "119":"y"
     },
     "bb":{
       "7":"y",
@@ -555,10 +558,10 @@
       "73":"y"
     },
     "and_chr":{
-      "118":"y"
+      "119":"y"
     },
     "and_ff":{
-      "118":"y"
+      "119":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -586,7 +589,8 @@
       "19.0":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -604,7 +608,7 @@
     "1":"Safari 6.1 and earlier did not apply `border-radius` correctly to image borders: https://stackoverflow.com/q/17202128",
     "2":"Dotted and dashed rounded border corners are rendered as solid in Firefox. [see bug](https://bugzilla.mozilla.org/show_bug.cgi?id=382721)"
   },
-  "usage_perc_y":97.34,
+  "usage_perc_y":98.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -92,7 +92,8 @@
       "115":"y",
       "116":"y",
       "117":"y",
-      "118":"y"
+      "118":"y",
+      "119":"y"
     },
     "firefox":{
       "2":"n",
@@ -216,7 +217,8 @@
       "118":"a #1",
       "119":"a #1",
       "120":"a #1",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "chrome":{
       "4":"n",
@@ -335,7 +337,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "safari":{
       "3.1":"n",
@@ -512,7 +515,7 @@
       "16.3":"a d #3",
       "16.4":"y",
       "16.5":"y",
-      "16.6":"y",
+      "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
       "17.2":"y"
@@ -530,7 +533,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"y"
+      "119":"y"
     },
     "bb":{
       "7":"n",
@@ -546,10 +549,10 @@
       "73":"y"
     },
     "and_chr":{
-      "118":"y"
+      "119":"y"
     },
     "and_ff":{
-      "118":"a #1"
+      "119":"a #1"
     },
     "ie_mob":{
       "10":"n",
@@ -577,7 +580,8 @@
       "19.0":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -596,8 +600,8 @@
     "2":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu.",
     "3":"Safari supports lazy image loading. Lazy iframes loading can be enabled under the Experimental Features menu."
   },
-  "usage_perc_y":85.62,
-  "usage_perc_a":7.82,
+  "usage_perc_y":87.57,
+  "usage_perc_a":7.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"lazy-loading,lazyloading,loading=\"lazy\",loading=\"eager\",loading=\"auto\",loading,attribute,lazily,lazy image loading,lazy img loading,iframe loading,native lazyload",

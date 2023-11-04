@@ -79,7 +79,8 @@
       "115":"y",
       "116":"y",
       "117":"y",
-      "118":"y"
+      "118":"y",
+      "119":"y"
     },
     "firefox":{
       "2":"n",
@@ -203,7 +204,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "chrome":{
       "4":"y",
@@ -322,7 +324,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "safari":{
       "3.1":"y",
@@ -499,7 +502,7 @@
       "16.3":"y #3",
       "16.4":"y #3",
       "16.5":"y #3",
-      "16.6":"y #3",
+      "16.6-16.7":"y #3",
       "17.0":"y #3",
       "17.1":"y #3",
       "17.2":"y #3"
@@ -517,7 +520,7 @@
       "4.2-4.3":"y #4",
       "4.4":"y #4",
       "4.4.3-4.4.4":"y #4",
-      "118":"y #4"
+      "119":"y #4"
     },
     "bb":{
       "7":"n #2",
@@ -533,10 +536,10 @@
       "73":"y #4"
     },
     "and_chr":{
-      "118":"y #4"
+      "119":"y #4"
     },
     "and_ff":{
-      "118":"y #5"
+      "119":"y #5"
     },
     "ie_mob":{
       "10":"n #2",
@@ -564,7 +567,8 @@
       "19.0":"y #4",
       "20":"y #4",
       "21":"y #4",
-      "22":"y #4"
+      "22":"y #4",
+      "23":"y #4"
     },
     "and_qq":{
       "13.1":"y"
@@ -586,8 +590,8 @@
     "5":"Log output on Firefox for Android can be [accessed using WebIDE](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)",
     "6":"See [this article](https://dev.opera.com/articles/opera-mini-and-javascript/) for details on how to see console logging in Opera Mini"
   },
-  "usage_perc_y":97.41,
-  "usage_perc_a":0.09,
+  "usage_perc_y":97.59,
+  "usage_perc_a":0.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"console.log,console.info,console.warn,console.error,window.console",

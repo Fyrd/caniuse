@@ -79,7 +79,8 @@
       "115":"y",
       "116":"y",
       "117":"y",
-      "118":"y"
+      "118":"y",
+      "119":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -203,7 +204,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "chrome":{
       "4":"y",
@@ -322,7 +324,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -499,7 +502,7 @@
       "16.3":"n #5",
       "16.4":"n #5",
       "16.5":"n #5",
-      "16.6":"n #5",
+      "16.6-16.7":"n #5",
       "17.0":"n #5",
       "17.1":"n #5",
       "17.2":"n #5"
@@ -517,7 +520,7 @@
       "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"n"
+      "119":"n"
     },
     "bb":{
       "7":"a #2",
@@ -533,10 +536,10 @@
       "73":"y"
     },
     "and_chr":{
-      "118":"y"
+      "119":"y"
     },
     "and_ff":{
-      "118":"y"
+      "119":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -564,7 +567,8 @@
       "19.0":"a #4",
       "20":"a #4",
       "21":"a #4",
-      "22":"a #4"
+      "22":"a #4",
+      "23":"a #4"
     },
     "and_qq":{
       "13.1":"y"
@@ -585,8 +589,8 @@
     "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element.",
     "5":"Broken support of `fixed` and `local` when scrolling an outer scroll container. Related [to a bug](https://bugs.webkit.org/show_bug.cgi?id=219324)."
   },
-  "usage_perc_y":79.9,
-  "usage_perc_a":2.94,
+  "usage_perc_y":80.94,
+  "usage_perc_a":2.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -87,7 +87,8 @@
       "115":"y #4",
       "116":"y #4",
       "117":"y #4",
-      "118":"y #4"
+      "118":"y #4",
+      "119":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -211,7 +212,8 @@
       "118":"n",
       "119":"n",
       "120":"n",
-      "121":"n"
+      "121":"n",
+      "122":"n"
     },
     "chrome":{
       "4":"n",
@@ -330,7 +332,8 @@
       "118":"y #4",
       "119":"y #4",
       "120":"y #4",
-      "121":"y #4"
+      "121":"y #4",
+      "122":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -507,7 +510,7 @@
       "16.3":"n",
       "16.4":"n",
       "16.5":"n",
-      "16.6":"n",
+      "16.6-16.7":"n",
       "17.0":"n",
       "17.1":"n",
       "17.2":"n"
@@ -525,7 +528,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"y #4"
+      "119":"y #4"
     },
     "bb":{
       "7":"n",
@@ -541,10 +544,10 @@
       "73":"y #4"
     },
     "and_chr":{
-      "118":"y #4"
+      "119":"y #4"
     },
     "and_ff":{
-      "118":"n"
+      "119":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -572,7 +575,8 @@
       "19.0":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"n"
@@ -592,7 +596,7 @@
     "3":"Available in [Origin Trials](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials) for Chrome OS, Android M, and Mac",
     "4":"Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/main/implementation-status.md#chrome)"
   },
-  "usage_perc_y":73.53,
+  "usage_perc_y":75.1,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

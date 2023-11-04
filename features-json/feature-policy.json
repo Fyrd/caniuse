@@ -93,7 +93,8 @@
       "115":"y #4",
       "116":"y #4",
       "117":"y #4",
-      "118":"y #4"
+      "118":"y #4",
+      "119":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -217,7 +218,8 @@
       "118":"a #2",
       "119":"a #2",
       "120":"a #2",
-      "121":"a #2"
+      "121":"a #2",
+      "122":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -336,7 +338,8 @@
       "118":"y #4",
       "119":"y #4",
       "120":"y #4",
-      "121":"y #4"
+      "121":"y #4",
+      "122":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -513,7 +516,7 @@
       "16.3":"a #2 #3",
       "16.4":"a #2 #3",
       "16.5":"a #2 #3",
-      "16.6":"a #2 #3",
+      "16.6-16.7":"a #2 #3",
       "17.0":"a #2 #3",
       "17.1":"a #2 #3",
       "17.2":"a #2 #3"
@@ -531,7 +534,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"y"
+      "119":"y"
     },
     "bb":{
       "7":"n",
@@ -547,10 +550,10 @@
       "73":"y #4"
     },
     "and_chr":{
-      "118":"y #4"
+      "119":"y #4"
     },
     "and_ff":{
-      "118":"a #2"
+      "119":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -578,7 +581,8 @@
       "19.0":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"a #1"
@@ -598,8 +602,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"At least partially supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":73.08,
-  "usage_perc_a":22.57,
+  "usage_perc_y":74.57,
+  "usage_perc_a":22.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",

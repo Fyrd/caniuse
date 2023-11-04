@@ -75,7 +75,8 @@
       "115":"y #3",
       "116":"y #3",
       "117":"y #3",
-      "118":"y #3"
+      "118":"y #3",
+      "119":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -199,7 +200,8 @@
       "118":"y #3",
       "119":"y #3",
       "120":"y #3",
-      "121":"y #3"
+      "121":"y #3",
+      "122":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -318,7 +320,8 @@
       "118":"y #3",
       "119":"y #3",
       "120":"y #3",
-      "121":"y #3"
+      "121":"y #3",
+      "122":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -495,7 +498,7 @@
       "16.3":"y #3",
       "16.4":"y #3",
       "16.5":"y #3",
-      "16.6":"y #3",
+      "16.6-16.7":"y #3",
       "17.0":"y #3",
       "17.1":"y #3",
       "17.2":"y #3"
@@ -513,7 +516,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"n"
+      "119":"n"
     },
     "bb":{
       "7":"n",
@@ -529,10 +532,10 @@
       "73":"y #3"
     },
     "and_chr":{
-      "118":"y #3"
+      "119":"y #3"
     },
     "and_ff":{
-      "118":"y #3"
+      "119":"y #3"
     },
     "ie_mob":{
       "10":"n",
@@ -560,7 +563,8 @@
       "19.0":"y #3",
       "20":"y #3",
       "21":"y #3",
-      "22":"y #3"
+      "22":"y #3",
+      "23":"y #3"
     },
     "and_qq":{
       "13.1":"n"
@@ -579,7 +583,7 @@
     "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
     "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](/mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](/mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
-  "usage_perc_y":93.79,
+  "usage_perc_y":94.78,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

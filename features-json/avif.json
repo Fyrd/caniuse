@@ -83,7 +83,8 @@
       "115":"n d #6",
       "116":"n d #6",
       "117":"n d #6",
-      "118":"n"
+      "118":"n",
+      "119":"n"
     },
     "firefox":{
       "2":"n",
@@ -207,7 +208,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "chrome":{
       "4":"n",
@@ -326,7 +328,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "safari":{
       "3.1":"n",
@@ -503,7 +506,7 @@
       "16.3":"y #2 #4",
       "16.4":"y #2",
       "16.5":"y #2",
-      "16.6":"y #2",
+      "16.6-16.7":"y #2",
       "17.0":"y #2",
       "17.1":"y #2",
       "17.2":"y #2"
@@ -521,7 +524,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"y"
+      "119":"y"
     },
     "bb":{
       "7":"n",
@@ -537,10 +540,10 @@
       "73":"y"
     },
     "and_chr":{
-      "118":"y"
+      "119":"y"
     },
     "and_ff":{
-      "118":"y"
+      "119":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -568,7 +571,8 @@
       "19.0":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"n"
@@ -590,8 +594,8 @@
     "5":"Supports only still images by default. Animated image sequences can be enabled via the `image.avif.sequence.enabled` pref in `about:config`.",
     "6":"Can be enabled via the `--enable-features=msEdgeAVIF` runtime flag in insider channels."
   },
-  "usage_perc_y":84.73,
-  "usage_perc_a":0.68,
+  "usage_perc_y":86.3,
+  "usage_perc_a":0.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

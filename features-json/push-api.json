@@ -75,7 +75,8 @@
       "115":"y #2",
       "116":"y #2",
       "117":"y #2",
-      "118":"y #2"
+      "118":"y #2",
+      "119":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -199,7 +200,8 @@
       "118":"y #2",
       "119":"y #2",
       "120":"y #2",
-      "121":"y #2"
+      "121":"y #2",
+      "122":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -318,7 +320,8 @@
       "118":"y #2",
       "119":"y #2",
       "120":"y #2",
-      "121":"y #2"
+      "121":"y #2",
+      "122":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -495,7 +498,7 @@
       "16.3":"n",
       "16.4":"a #6",
       "16.5":"a #6",
-      "16.6":"a #6",
+      "16.6-16.7":"a #6",
       "17.0":"a #6",
       "17.1":"a #6",
       "17.2":"a #6"
@@ -513,7 +516,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"n"
+      "119":"n"
     },
     "bb":{
       "7":"n",
@@ -529,10 +532,10 @@
       "73":"y"
     },
     "and_chr":{
-      "118":"y"
+      "119":"y"
     },
     "and_ff":{
-      "118":"y"
+      "119":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -560,7 +563,8 @@
       "19.0":"y",
       "20":"y",
       "21":"y",
-      "22":"y"
+      "22":"y",
+      "23":"y"
     },
     "and_qq":{
       "13.1":"y"
@@ -582,8 +586,8 @@
     "5":"Only available on macOS 13 Ventura or later and only in Safari itself, not WKWebView nor SFSafariViewController",
     "6":"Requires website to first be [added to the Home Screen](/web-app-manifest). Delivered silently, meaning no sound, vibration, haptics or screen wake."
   },
-  "usage_perc_y":76.81,
-  "usage_perc_a":13.32,
+  "usage_perc_y":77.72,
+  "usage_perc_a":13.77,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

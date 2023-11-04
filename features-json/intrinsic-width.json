@@ -73,7 +73,8 @@
       "115":"y #4",
       "116":"y #4",
       "117":"y #4",
-      "118":"y #4"
+      "118":"y #4",
+      "119":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -197,7 +198,8 @@
       "118":"a #2 #5",
       "119":"a #2 #5",
       "120":"a #2 #5",
-      "121":"a #2 #5"
+      "121":"a #2 #5",
+      "122":"a #2 #5"
     },
     "chrome":{
       "4":"n",
@@ -316,7 +318,8 @@
       "118":"y #4",
       "119":"y #4",
       "120":"y #4",
-      "121":"y #4"
+      "121":"y #4",
+      "122":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -493,7 +496,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
-      "16.6":"y",
+      "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
       "17.2":"y"
@@ -511,7 +514,7 @@
       "4.2-4.3":"n",
       "4.4":"y x #3",
       "4.4.3-4.4.4":"y x #3",
-      "118":"y #4"
+      "119":"y #4"
     },
     "bb":{
       "7":"n",
@@ -527,10 +530,10 @@
       "73":"y #4"
     },
     "and_chr":{
-      "118":"y #4"
+      "119":"y #4"
     },
     "and_ff":{
-      "118":"a #2 #5"
+      "119":"a #2 #5"
     },
     "ie_mob":{
       "10":"n",
@@ -558,7 +561,8 @@
       "19.0":"y #4",
       "20":"y #4",
       "21":"y #4",
-      "22":"y #4"
+      "22":"y #4",
+      "23":"y #4"
     },
     "and_qq":{
       "13.1":"y #3 #4"
@@ -579,8 +583,8 @@
     "4":"Chrome does not yet unprefix `stretch` (aka `fill`/`fill-available`), because the [CSSWG](https://lists.w3.org/Archives/Public/www-style/2015Aug/0127.html) is not ready for that yet. See [Chromium bug](https://bugs.chromium.org/p/chromium/issues/detail?id=611857).",
     "5":"While still being affected by note 1, it is only for `-moz-fit-content` and `-moz-available`."
   },
-  "usage_perc_y":89.77,
-  "usage_perc_a":6.96,
+  "usage_perc_y":91.24,
+  "usage_perc_a":6.64,
   "ucprefix":false,
   "parent":"",
   "keywords":"fill,fill-available,max-content,min-content,fit-content,contain-floats,intrinsic,extrinsic,sizing",

@@ -93,7 +93,8 @@
       "115":"n",
       "116":"n",
       "117":"n",
-      "118":"n"
+      "118":"n",
+      "119":"n"
     },
     "firefox":{
       "2":"n",
@@ -217,7 +218,8 @@
       "118":"y #1",
       "119":"y #1",
       "120":"y #1",
-      "121":"y #1"
+      "121":"y #1",
+      "122":"y #1"
     },
     "chrome":{
       "4":"n",
@@ -336,7 +338,8 @@
       "118":"n",
       "119":"n",
       "120":"n",
-      "121":"n"
+      "121":"n",
+      "122":"n"
     },
     "safari":{
       "3.1":"n",
@@ -513,7 +516,7 @@
       "16.3":"n",
       "16.4":"n",
       "16.5":"n",
-      "16.6":"n",
+      "16.6-16.7":"n",
       "17.0":"n",
       "17.1":"n",
       "17.2":"n"
@@ -531,7 +534,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "118":"n"
+      "119":"n"
     },
     "bb":{
       "7":"n",
@@ -547,10 +550,10 @@
       "73":"n"
     },
     "and_chr":{
-      "118":"n"
+      "119":"n"
     },
     "and_ff":{
-      "118":"n"
+      "119":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -578,7 +581,8 @@
       "19.0":"a #3",
       "20":"a #3",
       "21":"a #3",
-      "22":"a #3"
+      "22":"a #3",
+      "23":"a #3"
     },
     "and_qq":{
       "13.1":"n"
@@ -597,8 +601,8 @@
     "2":"[Was in development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supported only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
     "3":"Supports only Samsung Galaxy devices with the Samsung Gear VR"
   },
-  "usage_perc_y":2.64,
-  "usage_perc_a":2.28,
+  "usage_perc_y":2.62,
+  "usage_perc_a":2.29,
   "ucprefix":false,
   "parent":"",
   "keywords":"getvrdevices,getvrdisplays,getdisplays,navigator.vr",

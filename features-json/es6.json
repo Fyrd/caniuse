@@ -79,7 +79,8 @@
       "115":"y #2",
       "116":"y #2",
       "117":"y #2",
-      "118":"y #2"
+      "118":"y #2",
+      "119":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -203,7 +204,8 @@
       "118":"y #2",
       "119":"y #2",
       "120":"y #2",
-      "121":"y #2"
+      "121":"y #2",
+      "122":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -322,7 +324,8 @@
       "118":"y #2",
       "119":"y #2",
       "120":"y #2",
-      "121":"y #2"
+      "121":"y #2",
+      "122":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -499,7 +502,7 @@
       "16.3":"y",
       "16.4":"y",
       "16.5":"y",
-      "16.6":"y",
+      "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
       "17.2":"y"
@@ -517,7 +520,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "118":"y #2"
+      "119":"y #2"
     },
     "bb":{
       "7":"n",
@@ -533,10 +536,10 @@
       "73":"y #2"
     },
     "and_chr":{
-      "118":"y #2"
+      "119":"y #2"
     },
     "and_ff":{
-      "118":"y #2"
+      "119":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -564,7 +567,8 @@
       "19.0":"y #2",
       "20":"y #2",
       "21":"y #2",
-      "22":"y #2"
+      "22":"y #2",
+      "23":"y #2"
     },
     "and_qq":{
       "13.1":"y #2"
@@ -583,8 +587,8 @@
     "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":95.9,
-  "usage_perc_a":1.25,
+  "usage_perc_y":97.3,
+  "usage_perc_a":1,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",
