@@ -581,10 +581,10 @@
       "3.0-3.1":"y #2"
     }
   },
-  "notes":"As ES6 refers to a huge specification and browsers have various levels of support, \"Supported\" means at least 95% of the spec is supported. \"Partial support\" refers to at least 10% of the spec being supported. For full details see the [Kangax ES6 support table](https://kangax.github.io/compat-table/es6/).",
+  "notes":"As ES6 refers to a huge specification and browsers have various levels of support, \"Supported\" means at least 95% of the spec is supported. \"Partial support\" refers to at least 10% of the spec being supported. For full details see the [Kangax ES6 support table](https://compat-table.github.io/compat-table/es6/).",
   "notes_by_num":{
     "1":"Notable partial support in IE11 includes (at least some) support for `const`, `let`, block-level function declaration, typed arrays, `Map`, `Set` and `WeakMap`.",
-    "2":"Does not support [tail call optimization](https://kangax.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
+    "2":"Does not support [tail call optimization](https://compat-table.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
   "usage_perc_y":97.31,
