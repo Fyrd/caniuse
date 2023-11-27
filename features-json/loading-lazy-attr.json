@@ -30,7 +30,13 @@
       "description":"Safari 16.1 and below displays a gray border while lazy loading images ([243601](https://bugs.webkit.org/show_bug.cgi?id=243601))"
     },
     {
-      "description":"Chromium-based browsers have a memory leak when lazy loading images ([1213045](https://bugs.chromium.org/p/chromium/issues/detail?id=1213045))"
+      "description":"Safari does not load lazy loaded elements before printing ([224547](https://bugs.webkit.org/show_bug.cgi?id=224547)). Chromium fixed a similar bug in January 2022 ([875403](https://bugs.chromium.org/p/chromium/issues/detail?id=875403))."
+    },
+    {
+      "description":"Chromium-based browsers have a memory leak when lazy loading images ([1213045](https://bugs.chromium.org/p/chromium/issues/detail?id=1213045)). This issue was fixed in late 2023 for release M116."
+    },
+    {
+      "description":"Firefox requires the loading attribute to be set BEFORE the src element for Javascript created images ([1647077](https://bugzilla.mozilla.org/show_bug.cgi?id=1647077))"
     }
   ],
   "categories":[
@@ -218,7 +224,8 @@
       "119":"a #1",
       "120":"a #1",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y"
     },
     "chrome":{
       "4":"n",
@@ -479,7 +486,8 @@
       "100":"y",
       "101":"y",
       "102":"y",
-      "103":"y"
+      "103":"y",
+      "104":"y"
     },
     "ios_saf":{
       "3.2":"n",

@@ -15,6 +15,10 @@
     {
       "url":"https://developer.chrome.com/docs/web-platform/view-transitions/",
       "title":"Chrome Developers documentation"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1823896",
+      "title":"Firefox support bug"
     }
   ],
   "bugs":[
@@ -206,7 +210,8 @@
       "119":"n",
       "120":"n",
       "121":"n",
-      "122":"n"
+      "122":"n",
+      "123":"n"
     },
     "chrome":{
       "4":"n",
@@ -467,7 +472,8 @@
       "100":"y",
       "101":"y",
       "102":"y",
-      "103":"y"
+      "103":"y",
+      "104":"y"
     },
     "ios_saf":{
       "3.2":"n",
