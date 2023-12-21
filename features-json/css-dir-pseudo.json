@@ -89,7 +89,7 @@
       "117":"n d #1",
       "118":"n d #1",
       "119":"n d #1",
-      "120":"n d #1"
+      "120":"y"
     },
     "firefox":{
       "2":"n",
@@ -215,7 +215,8 @@
       "120":"y",
       "121":"y",
       "122":"y",
-      "123":"y"
+      "123":"y",
+      "124":"y"
     },
     "chrome":{
       "4":"n",
@@ -533,7 +534,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "119":"n"
+      "120":"y"
     },
     "bb":{
       "7":"n",
@@ -549,7 +550,7 @@
       "73":"n"
     },
     "and_chr":{
-      "119":"n"
+      "120":"y"
     },
     "and_ff":{
       "119":"y"
@@ -598,7 +599,7 @@
   "notes_by_num":{
     "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag"
   },
-  "usage_perc_y":16.69,
+  "usage_perc_y":53.6,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

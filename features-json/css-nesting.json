@@ -85,7 +85,7 @@
       "117":"a #3",
       "118":"a #3",
       "119":"a #3",
-      "120":"a #3"
+      "120":"y"
     },
     "firefox":{
       "2":"n",
@@ -211,7 +211,8 @@
       "120":"y",
       "121":"y",
       "122":"y",
-      "123":"y"
+      "123":"y",
+      "124":"y"
     },
     "chrome":{
       "4":"n",
@@ -529,7 +530,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "119":"a #3"
+      "120":"y"
     },
     "bb":{
       "7":"n",
@@ -545,7 +546,7 @@
       "73":"n"
     },
     "and_chr":{
-      "119":"a #3"
+      "120":"y"
     },
     "and_ff":{
       "119":"y"
@@ -596,8 +597,8 @@
     "2":"Available behind the `layout.css.nesting.enabled` flag",
     "3":"Does not allow nesting of type (element) selectors without starting with a symbol, like the `&` nesting selector. [Chromium issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1427259)"
   },
-  "usage_perc_y":2.37,
-  "usage_perc_a":78.7,
+  "usage_perc_y":39.28,
+  "usage_perc_a":41.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"&,@nest,nested css",

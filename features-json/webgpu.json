@@ -207,7 +207,8 @@
       "120":"n d #1",
       "121":"n d #1",
       "122":"n d #1",
-      "123":"n d #1"
+      "123":"n d #1",
+      "124":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -370,7 +371,7 @@
       "17.1":"n",
       "17.2":"n",
       "17.3":"n",
-      "TP":"n"
+      "TP":"n d #6"
     },
     "opera":{
       "9":"n",
@@ -525,7 +526,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "119":"n"
+      "120":"n"
     },
     "bb":{
       "7":"n",
@@ -541,7 +542,7 @@
       "73":"n"
     },
     "and_chr":{
-      "119":"n"
+      "120":"n"
     },
     "and_ff":{
       "119":"n d #1"
@@ -592,7 +593,8 @@
     "2":"Can be enabled in Safari on MacOS with the `WebGPU` experimental feature.",
     "3":"Can be enabled in some Chromium browsers (on Windows, MacOS, Linux) with the `enable-unsafe-webgpu` flag.",
     "4":"Part of an origin trial.",
-    "5":"Not enabled on Linux by default."
+    "5":"Not enabled on Linux by default.",
+    "6":"Can be enabled via the Develop menu."
   },
   "usage_perc_y":28.53,
   "usage_perc_a":0,
