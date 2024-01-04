@@ -468,7 +468,9 @@
       "101":"y #2",
       "102":"y #2",
       "103":"y #2",
-      "104":"y #2"
+      "104":"y #2",
+      "105":"y #2",
+      "106":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -497,7 +499,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
-      "15.6-15.7":"n",
+      "15.6-15.8":"n",
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
@@ -507,7 +509,8 @@
       "16.6-16.7":"a #6",
       "17.0":"a #6",
       "17.1":"a #6",
-      "17.2":"a #6"
+      "17.2":"a #6",
+      "17.3":"a #6"
     },
     "op_mini":{
       "all":"n"
@@ -592,8 +595,8 @@
     "5":"Only available on macOS 13 Ventura or later and only in Safari itself, not WKWebView nor SFSafariViewController",
     "6":"Requires website to first be [added to the Home Screen](/web-app-manifest). Delivered silently, meaning no sound, vibration, haptics or screen wake."
   },
-  "usage_perc_y":77.73,
-  "usage_perc_a":14.32,
+  "usage_perc_y":79.35,
+  "usage_perc_a":13.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

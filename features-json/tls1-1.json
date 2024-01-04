@@ -480,7 +480,9 @@
       "101":"a #3 #4",
       "102":"a #3 #4",
       "103":"a #3 #4",
-      "104":"a #3 #4"
+      "104":"a #3 #4",
+      "105":"a #3 #4",
+      "106":"a #3 #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -509,7 +511,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -519,7 +521,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -602,8 +605,8 @@
     "3":"Chrome 85+ and Safari for MacOS 13.1+ displays `Not secure` in the address bar when connecting over TLS 1.1",
     "4":"Chrome 85+ displays a full page dismissable warning every time a new site connects over TLS 1.1"
   },
-  "usage_perc_y":68.13,
-  "usage_perc_a":29.95,
+  "usage_perc_y":70.22,
+  "usage_perc_a":28.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

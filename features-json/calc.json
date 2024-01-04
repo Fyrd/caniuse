@@ -510,7 +510,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -539,7 +541,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -549,7 +551,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -631,8 +634,8 @@
     "2":"Partial support in IE9 refers to the browser crashing when used as a `background-position` value.",
     "3":"Partial support in IE10/IE11 refers to calc not working properly with various use cases mentioned in known issues"
   },
-  "usage_perc_y":97.7,
-  "usage_perc_a":0.43,
+  "usage_perc_y":98.03,
+  "usage_perc_a":0.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

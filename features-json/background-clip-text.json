@@ -472,7 +472,9 @@
       "101":"a x #1",
       "102":"a x #1",
       "103":"a x #1",
-      "104":"a x #1"
+      "104":"a x #1",
+      "105":"a x #1",
+      "106":"a #1"
     },
     "ios_saf":{
       "3.2":"u",
@@ -501,7 +503,7 @@
       "15.2-15.3":"a #1 #2",
       "15.4":"a #1 #2",
       "15.5":"a #1",
-      "15.6-15.7":"a #1",
+      "15.6-15.8":"a #1",
       "16.0":"a #1",
       "16.1":"a #1",
       "16.2":"a #1",
@@ -511,7 +513,8 @@
       "16.6-16.7":"a #1",
       "17.0":"a #1",
       "17.1":"a #1",
-      "17.2":"a #1"
+      "17.2":"a #1",
+      "17.3":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -592,8 +595,8 @@
     "1":"Doesn't work with a stacking context(e.g. `position: relative`), see [Chromium bug](https://crbug.com/1500148)",
     "2":"Doesn't work with flex/grid container, see [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=169125)"
   },
-  "usage_perc_y":3.14,
-  "usage_perc_a":94.48,
+  "usage_perc_y":3.28,
+  "usage_perc_a":94.65,
   "ucprefix":false,
   "parent":"background-img-opts",
   "keywords":"background-clip,text,clip",

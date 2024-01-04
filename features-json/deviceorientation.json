@@ -481,7 +481,9 @@
       "101":"a",
       "102":"a",
       "103":"a",
-      "104":"a"
+      "104":"a",
+      "105":"a",
+      "106":"a"
     },
     "ios_saf":{
       "3.2":"n",
@@ -510,7 +512,7 @@
       "15.2-15.3":"a",
       "15.4":"a",
       "15.5":"a",
-      "15.6-15.7":"a",
+      "15.6-15.8":"a",
       "16.0":"a",
       "16.1":"a",
       "16.2":"a",
@@ -520,7 +522,8 @@
       "16.6-16.7":"a",
       "17.0":"a",
       "17.1":"a",
-      "17.2":"a"
+      "17.2":"a",
+      "17.3":"a"
     },
     "op_mini":{
       "all":"n"
@@ -600,8 +603,8 @@
   "notes_by_num":{
     "1":"`compassneedscalibration` supported in IE11 only for compatible devices with Windows 8.1+."
   },
-  "usage_perc_y":0.05,
-  "usage_perc_a":92.27,
+  "usage_perc_y":0.04,
+  "usage_perc_a":94.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"ondeviceorientation,ondevicemotion",

@@ -473,7 +473,9 @@
       "101":"a #1",
       "102":"a #1",
       "103":"a #1",
-      "104":"a #1"
+      "104":"a #1",
+      "105":"a #1",
+      "106":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -502,7 +504,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
-      "15.6-15.7":"n",
+      "15.6-15.8":"n",
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
@@ -512,7 +514,8 @@
       "16.6-16.7":"n",
       "17.0":"n",
       "17.1":"n",
-      "17.2":"n"
+      "17.2":"n",
+      "17.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -593,7 +596,7 @@
     "1":"Chromium browsers only support the HTTP header."
   },
   "usage_perc_y":0,
-  "usage_perc_a":70.65,
+  "usage_perc_a":71.95,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,policy,attribute,policy attribute,attribute policy,feature-policy,feature policy,document-policy,force-load-at-top",

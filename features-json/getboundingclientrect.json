@@ -476,7 +476,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -505,7 +507,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -515,7 +517,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -599,8 +602,8 @@
     "4":"Existing properties of the returned object are immutable.",
     "5":"The returned object lacks `x` & `y` values, though existing `top` & `left` values can be used instead."
   },
-  "usage_perc_y":98.17,
-  "usage_perc_a":0.04,
+  "usage_perc_y":98.54,
+  "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"getBoundingClientRect,bounding,client,rect,DOMRect,box,cssom",

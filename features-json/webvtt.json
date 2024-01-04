@@ -477,7 +477,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -506,7 +508,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -516,7 +518,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -597,7 +600,7 @@
     "1":"Firefox 31 - 54 lacks support for the `::cue` pseudo-element. [See bug #865395.](https://bugzilla.mozilla.org/show_bug.cgi?id=865395)",
     "2":"Firefox 55+ implements `::cue` but still lacks support for the `::cue(<selector>)` pseudo-element with selector. [See bug #1321489.](https://bugzilla.mozilla.org/show_bug.cgi?id=1321489)"
   },
-  "usage_perc_y":98.01,
+  "usage_perc_y":98.37,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",

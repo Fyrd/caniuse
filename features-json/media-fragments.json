@@ -464,7 +464,9 @@
       "101":"a #1",
       "102":"a #1",
       "103":"a #1",
-      "104":"a #1"
+      "104":"a #1",
+      "105":"a #1",
+      "106":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -493,7 +495,7 @@
       "15.2-15.3":"a #1",
       "15.4":"a #1",
       "15.5":"a #1",
-      "15.6-15.7":"a #1",
+      "15.6-15.8":"a #1",
       "16.0":"a #1",
       "16.1":"a #1",
       "16.2":"a #1",
@@ -503,7 +505,8 @@
       "16.6-16.7":"a #1",
       "17.0":"a #1",
       "17.1":"a #1",
-      "17.2":"a #1"
+      "17.2":"a #1",
+      "17.3":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -584,7 +587,7 @@
     "1":"Only appears to support the `#t=n,n` control for selecting a range of video, and possibly `track=(name)` & `id=(name)` (not yet tested)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":97.47,
+  "usage_perc_a":97.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

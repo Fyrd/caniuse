@@ -472,7 +472,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -501,7 +503,7 @@
       "15.2-15.3":"y #3",
       "15.4":"y #3",
       "15.5":"y #3",
-      "15.6-15.7":"y #3",
+      "15.6-15.8":"y #3",
       "16.0":"y #3",
       "16.1":"y #3",
       "16.2":"y #3",
@@ -511,7 +513,8 @@
       "16.6-16.7":"y #3",
       "17.0":"y #3",
       "17.1":"y #3",
-      "17.2":"y #3"
+      "17.2":"y #3",
+      "17.3":"y #3"
     },
     "op_mini":{
       "all":"y #6"
@@ -596,8 +599,8 @@
     "5":"Log output on Firefox for Android can be [accessed using WebIDE](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)",
     "6":"See [this article](https://dev.opera.com/articles/opera-mini-and-javascript/) for details on how to see console logging in Opera Mini"
   },
-  "usage_perc_y":97.34,
-  "usage_perc_a":0.08,
+  "usage_perc_y":97.66,
+  "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",
   "keywords":"console.log,console.info,console.warn,console.error,window.console",

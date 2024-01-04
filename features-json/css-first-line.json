@@ -468,7 +468,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -497,7 +499,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -507,7 +509,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -587,8 +590,8 @@
   "notes_by_num":{
     "1":"IE8 only supports the single-colon CSS 2.1 syntax (i.e. `:first-line`). It does not support the double-colon CSS3 syntax (i.e. `::first-line`)."
   },
-  "usage_perc_y":98.2,
-  "usage_perc_a":0.01,
+  "usage_perc_y":98.59,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"css-sel3",
   "keywords":"",

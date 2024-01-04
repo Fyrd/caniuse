@@ -487,7 +487,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -516,7 +518,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -526,7 +528,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -608,8 +611,8 @@
     "2":"Partial support in Safari & iOS 8 & 9 refers to [seriously buggy behavior](http://www.raymondcamden.com/2014/09/25/IndexedDB-on-iOS-8-Broken-Bad/) as well as complete lack of support in WebViews.",
     "3":"Partial support [refers to a bug](https://bugs.webkit.org/show_bug.cgi?id=226547) in version 14.1.1 that causes indexedDB to never load when the browser is initially opened."
   },
-  "usage_perc_y":97.13,
-  "usage_perc_a":0.91,
+  "usage_perc_y":97.61,
+  "usage_perc_a":0.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb",

@@ -489,7 +489,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -518,7 +520,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -528,7 +530,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -613,8 +616,8 @@
     "5":"Do not appear to support sticky table headers",
     "6":"Supported on `th` elements, but not `thead` or `tr` - See [Edge bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16765952/)"
   },
-  "usage_perc_y":95.45,
-  "usage_perc_a":1.92,
+  "usage_perc_y":96.1,
+  "usage_perc_a":1.55,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

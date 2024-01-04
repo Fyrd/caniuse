@@ -493,7 +493,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -522,7 +524,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -532,7 +534,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"p"
@@ -615,7 +618,7 @@
     "3":"<summary> is not keyboard accessible",
     "4":"Some versions of Safari display smaller font-size than intended when using `rem` units with system fonts. (See: https://colloq.io/blog/safaris-detailssummary-rem-font-size-issue)"
   },
-  "usage_perc_y":97.56,
+  "usage_perc_y":97.89,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

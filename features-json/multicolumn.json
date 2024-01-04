@@ -509,7 +509,9 @@
       "101":"a #3",
       "102":"a #3",
       "103":"a #3",
-      "104":"a #3"
+      "104":"a #3",
+      "105":"a #3",
+      "106":"a #3"
     },
     "ios_saf":{
       "3.2":"a x #1 #2",
@@ -538,7 +540,7 @@
       "15.2-15.3":"y",
       "15.4":"y",
       "15.5":"y",
-      "15.6-15.7":"y",
+      "15.6-15.8":"y",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -548,7 +550,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -631,8 +634,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":22.02,
-  "usage_perc_a":76.12,
+  "usage_perc_y":21.21,
+  "usage_perc_a":77.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

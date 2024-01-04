@@ -468,7 +468,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -497,7 +499,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
-      "15.6-15.7":"n",
+      "15.6-15.8":"n",
       "16.0":"y",
       "16.1":"y",
       "16.2":"y",
@@ -507,7 +509,8 @@
       "16.6-16.7":"y",
       "17.0":"y",
       "17.1":"y",
-      "17.2":"y"
+      "17.2":"y",
+      "17.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -589,8 +592,8 @@
     "2":"Enabled through the \"Enable Experimental Web Platform Features\" flag in chrome://flags",
     "3":"Enabled through the \"Enable Experimental Web Platform Features\" flag in opera://flags"
   },
-  "usage_perc_y":94.36,
-  "usage_perc_a":0.49,
+  "usage_perc_y":94.81,
+  "usage_perc_a":0.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"text align last",

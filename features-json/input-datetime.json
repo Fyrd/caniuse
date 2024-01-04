@@ -488,7 +488,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -517,7 +519,7 @@
       "15.2-15.3":"a #2",
       "15.4":"a #2",
       "15.5":"a #2",
-      "15.6-15.7":"a #2",
+      "15.6-15.8":"a #2",
       "16.0":"a #2",
       "16.1":"a #2",
       "16.2":"a #2",
@@ -527,7 +529,8 @@
       "16.6-16.7":"a #2",
       "17.0":"a #2",
       "17.1":"a #2",
-      "17.2":"a #2"
+      "17.2":"a #2",
+      "17.3":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -612,8 +615,8 @@
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
     "6":"Partial support refers to not supporting the `week` and `month` input type"
   },
-  "usage_perc_y":75.25,
-  "usage_perc_a":21.93,
+  "usage_perc_y":76.46,
+  "usage_perc_a":21.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"datepicker,timepicker,inputdate,input type=\"date\",input type=\"time\",input date,datetime-local",

@@ -472,7 +472,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -501,7 +503,7 @@
       "15.2-15.3":"n #5",
       "15.4":"n #5",
       "15.5":"n #5",
-      "15.6-15.7":"n #5",
+      "15.6-15.8":"n #5",
       "16.0":"n #5",
       "16.1":"n #5",
       "16.2":"n #5",
@@ -511,7 +513,8 @@
       "16.6-16.7":"n #5",
       "17.0":"n #5",
       "17.1":"n #5",
-      "17.2":"n #5"
+      "17.2":"n #5",
+      "17.3":"n #5"
     },
     "op_mini":{
       "all":"n"
@@ -595,8 +598,8 @@
     "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element.",
     "5":"Broken support of `fixed` and `local` when scrolling an outer scroll container. Related [to a bug](https://bugs.webkit.org/show_bug.cgi?id=219324)."
   },
-  "usage_perc_y":81.03,
-  "usage_perc_a":2.99,
+  "usage_perc_y":80.46,
+  "usage_perc_a":3.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

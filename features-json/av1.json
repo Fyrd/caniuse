@@ -480,7 +480,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -509,7 +511,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
-      "15.6-15.7":"n",
+      "15.6-15.8":"n",
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
@@ -519,7 +521,8 @@
       "16.6-16.7":"n",
       "17.0":"a #4",
       "17.1":"a #4",
-      "17.2":"a #4"
+      "17.2":"a #4",
+      "17.3":"a #4"
     },
     "op_mini":{
       "all":"n"
@@ -602,8 +605,8 @@
     "3":"Firefox 66 only supported AV1 on Windows and macOS",
     "4":"Supported only on devices with hardware decoder, e.g. iPhone 15 Pro, M3 MacBook Pro, etc."
   },
-  "usage_perc_y":72.29,
-  "usage_perc_a":5.39,
+  "usage_perc_y":74.2,
+  "usage_perc_a":9.6,
   "ucprefix":false,
   "parent":"video",
   "keywords":"",

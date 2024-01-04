@@ -472,7 +472,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -501,7 +503,7 @@
       "15.2-15.3":"n d #2",
       "15.4":"n d #2",
       "15.5":"n d #2",
-      "15.6-15.7":"n d #2",
+      "15.6-15.8":"n d #2",
       "16.0":"n d #2",
       "16.1":"n d #2",
       "16.2":"n d #2",
@@ -511,7 +513,8 @@
       "16.6-16.7":"n d #2",
       "17.0":"n d #2",
       "17.1":"n d #2",
-      "17.2":"n d #2"
+      "17.2":"n d #2",
+      "17.3":"n d #2"
     },
     "op_mini":{
       "all":"n"
@@ -592,7 +595,7 @@
     "1":"Can be enabled via the `dom.requestIdleCallback.enabled` flag",
     "2":"Can be enabled in Experimental (WebKit) Features"
   },
-  "usage_perc_y":77.98,
+  "usage_perc_y":79.33,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

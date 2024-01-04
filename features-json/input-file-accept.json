@@ -464,7 +464,9 @@
       "101":"y",
       "102":"y",
       "103":"y",
-      "104":"y"
+      "104":"y",
+      "105":"y",
+      "106":"y"
     },
     "ios_saf":{
       "3.2":"n #3",
@@ -493,7 +495,7 @@
       "15.2-15.3":"a #1",
       "15.4":"a #1",
       "15.5":"a #1",
-      "15.6-15.7":"a #1",
+      "15.6-15.8":"a #1",
       "16.0":"a #1",
       "16.1":"a #1",
       "16.2":"a #1",
@@ -503,7 +505,8 @@
       "16.6-16.7":"a #1",
       "17.0":"a #1",
       "17.1":"a #1",
-      "17.2":"a #1"
+      "17.2":"a #1",
+      "17.3":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -586,8 +589,8 @@
     "3":"Does not allow any files to be picked at all",
     "4":"Supports the type format but does not allow any file to be picked when using the extension format"
   },
-  "usage_perc_y":42.64,
-  "usage_perc_a":52.67,
+  "usage_perc_y":37.83,
+  "usage_perc_a":57.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

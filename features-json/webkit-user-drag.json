@@ -464,7 +464,9 @@
       "101":"a #1",
       "102":"a #1",
       "103":"a #1",
-      "104":"a #1"
+      "104":"a #1",
+      "105":"a #1",
+      "106":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -493,7 +495,7 @@
       "15.2-15.3":"n",
       "15.4":"n",
       "15.5":"n",
-      "15.6-15.7":"n",
+      "15.6-15.8":"n",
       "16.0":"n",
       "16.1":"n",
       "16.2":"n",
@@ -503,7 +505,8 @@
       "16.6-16.7":"n",
       "17.0":"n",
       "17.1":"n",
-      "17.2":"n"
+      "17.2":"n",
+      "17.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -583,8 +586,8 @@
   "notes_by_num":{
     "1":"`-webkit-user-drag: none` works, but `-webkit-user-drag: element` does not appear to have an effect."
   },
-  "usage_perc_y":5.75,
-  "usage_perc_a":33.76,
+  "usage_perc_y":3.5,
+  "usage_perc_a":30.99,
   "ucprefix":false,
   "parent":"",
   "keywords":"-webkit-user-drag:none,-webkit-user-drag:element,-webkit-user-drag:auto",
