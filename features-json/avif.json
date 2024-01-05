@@ -85,7 +85,8 @@
       "117":"n d #6",
       "118":"n",
       "119":"n",
-      "120":"n"
+      "120":"n",
+      "121":"y d #7"
     },
     "firefox":{
       "2":"n",
@@ -601,7 +602,8 @@
     "3":"Only available on macOS 13 Ventura or later.",
     "4":"Does not support images with noise synthesis.",
     "5":"Supports only still images by default. Animated image sequences can be enabled via the `image.avif.sequence.enabled` pref in `about:config`.",
-    "6":"Can be enabled via the `--enable-features=msEdgeAVIF` runtime flag in insider channels."
+    "6":"Can be enabled via the `--enable-features=msEdgeAVIF` runtime flag in insider channels.",
+    "7":"Enabled by default on builds greater than 120 including in recent beta of 121"
   },
   "usage_perc_y":88.44,
   "usage_perc_a":0.31,
