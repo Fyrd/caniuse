@@ -353,18 +353,18 @@
       "15.4":"a #1",
       "15.5":"a #1",
       "15.6":"a #1",
-      "16.0":"a #1",
-      "16.1":"a #1",
-      "16.2":"a #1",
-      "16.3":"a #1",
-      "16.4":"a #1",
-      "16.5":"a #1",
-      "16.6":"a #1",
-      "17.0":"a #1",
-      "17.1":"a #1",
-      "17.2":"a #1",
-      "17.3":"a #1",
-      "TP":"a #1"
+      "16.0":"y",
+      "16.1":"y",
+      "16.2":"y",
+      "16.3":"Y",
+      "16.4":"y",
+      "16.5":"y",
+      "16.6":"y",
+      "17.0":"y",
+      "17.1":"y",
+      "17.2":"y",
+      "17.3":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -585,7 +585,7 @@
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.",
   "notes_by_num":{
-    "1":"Partial due to the lack of Ogg container support, and being limited to macOS 11.3 or later."
+    "1":"Safari 14.1 – 15.6 has full support of Ogg Vorbis, but requires macOS 11.3 Big Sur or later."
   },
   "usage_perc_y":79.8,
   "usage_perc_a":3.28,
