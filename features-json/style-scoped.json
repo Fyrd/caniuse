@@ -1,5 +1,5 @@
 {
-  "title":"Scoped CSS",
+  "title":"Scoped attribute",
   "description":"Deprecated method of allowing scoped CSS styles using a \"scoped\" attribute. Now [removed from the specification](https://github.com/whatwg/html/issues/552) and replaced by the [@scope CSS rule](/css-cascade-scope).",
   "spec":"https://www.w3.org/TR/html51/document-metadata.html#element-attrdef-style-scoped",
   "status":"unoff",
@@ -608,7 +608,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"scope,stylescoped",
+  "keywords":"",
   "chrome_id":"5374137958662144",
   "shown":true
 }
