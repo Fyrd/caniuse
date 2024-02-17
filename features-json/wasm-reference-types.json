@@ -1,12 +1,12 @@
 {
   "title": "WebAssembly Reference Types",
-  "description": "",
+  "description": "An extension to WebAssembly allowing opaque references as first-class types, and multiple tables",
   "spec": "https://webassembly.github.io/spec/core/",
   "status": "wd",
   "links": [
     {
       "url": "https://github.com/WebAssembly/spec/blob/main/proposals/reference-types/Overview.md",
-      "title": "Proposal overview"
+      "title": "Feature extension overview"
     }
   ],
   "bugs": [],
