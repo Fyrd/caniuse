@@ -83,14 +83,14 @@
       "111":"n",
       "112":"n",
       "113":"n",
-      "114":"n d #1",
-      "115":"n d #1",
-      "116":"n d #1",
-      "117":"y",
-      "118":"y",
-      "119":"y",
-      "120":"y",
-      "121":"y"
+      "114":"n d #1 #2",
+      "115":"n d #1 #2",
+      "116":"n d #1 #2",
+      "117":"a #2",
+      "118":"a #2",
+      "119":"a #2",
+      "120":"a #2",
+      "121":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -330,17 +330,17 @@
       "111":"n",
       "112":"n",
       "113":"n",
-      "114":"n d #1",
-      "115":"n d #1",
-      "116":"n d #1",
-      "117":"y",
-      "118":"y",
-      "119":"y",
-      "120":"y",
-      "121":"y",
-      "122":"y",
-      "123":"y",
-      "124":"y"
+      "114":"n d #1 #2",
+      "115":"n d #1 #2",
+      "116":"n d #1 #2",
+      "117":"a #2",
+      "118":"a #2",
+      "119":"a #2",
+      "120":"a #2",
+      "121":"a #2",
+      "122":"a #2",
+      "123":"a #2",
+      "124":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -480,13 +480,13 @@
       "97":"n",
       "98":"n",
       "99":"n",
-      "100":"n d #1",
-      "101":"n d #1",
-      "102":"n d #1",
-      "103":"y",
-      "104":"y",
-      "105":"y",
-      "106":"y"
+      "100":"n d #1 #2",
+      "101":"n d #1 #2",
+      "102":"n d #1 #2",
+      "103":"a #2",
+      "104":"a #2",
+      "105":"a #2",
+      "106":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -604,7 +604,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag"
+    "1":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
+    "2":"CSS subgrid does not work on nested fieldset elements on Chrome, Edge and Opera. See issue [here](https://bugs.chromium.org/p/chromium/issues/detail?id=1473242&no_tracker_redirect=1) and [here](https://issues.chromium.org/issues/40278914)."
   },
   "usage_perc_y":85.17,
   "usage_perc_a":0,
