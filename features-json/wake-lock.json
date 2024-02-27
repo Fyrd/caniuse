@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"on iOS does not work in web app (aka PWA) mode, only works in actual browser. Bug report: https://bugs.webkit.org/show_bug.cgi?id=254545"
+      "description":"On iOS does not work in web app (aka PWA) mode, only works in actual browser. Bug report: [https://bugs.webkit.org/show_bug.cgi?id=254545](https://bugs.webkit.org/show_bug.cgi?id=254545)"
     }
   ],
   "categories":[
@@ -215,8 +215,9 @@
       "121":"n",
       "122":"n",
       "123":"n",
-      "124":"n",
-      "125":"y"
+      "124":"y",
+      "125":"y",
+      "126":"y"
     },
     "chrome":{
       "4":"n",
@@ -338,7 +339,8 @@
       "121":"y",
       "122":"y",
       "123":"y",
-      "124":"y"
+      "124":"y",
+      "125":"y"
     },
     "safari":{
       "3.1":"n",
@@ -524,7 +526,8 @@
       "17.0":"y",
       "17.1":"y",
       "17.2":"y",
-      "17.3":"y"
+      "17.3":"y",
+      "17.4":"y"
     },
     "op_mini":{
       "all":"n"

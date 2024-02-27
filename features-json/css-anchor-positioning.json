@@ -1,6 +1,6 @@
 {
   "title":"CSS Anchor Positioning",
-  "description":"Allows to place elements anywhere on the page, without regard to the layout of other elements besides their containing block",
+  "description":"Allows placing elements anywhere on the page relative to an \"anchor element\", without regard to the layout of other elements besides their containing block",
   "spec":"https://www.w3.org/TR/css-anchor-position-1/",
   "status":"wd",
   "links":[
@@ -11,6 +11,14 @@
     {
       "url":"https://github.com/oddbird/css-anchor-positioning",
       "title":"Polyfill"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1838746",
+      "title":"Firefox support bug"
+    },
+    {
+      "url":"https://12daysofweb.dev/2023/anchor-positioning/",
+      "title":"Blog post"
     }
   ],
   "bugs":[
@@ -74,11 +82,11 @@
       "114":"n",
       "115":"n",
       "116":"n",
-      "117":"n",
-      "118":"n",
-      "119":"n",
-      "120":"n",
-      "121":"n"
+      "117":"n d #1",
+      "118":"n d #1",
+      "119":"n d #1",
+      "120":"n d #1",
+      "121":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -206,7 +214,8 @@
       "122":"n",
       "123":"n",
       "124":"n",
-      "125":"n"
+      "125":"n",
+      "126":"n"
     },
     "chrome":{
       "4":"n",
@@ -328,7 +337,8 @@
       "121":"n d #1",
       "122":"n d #1",
       "123":"n d #1",
-      "124":"n d #1"
+      "124":"n d #1",
+      "125":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -471,10 +481,10 @@
       "100":"n",
       "101":"n",
       "102":"n",
-      "103":"n",
-      "104":"n",
-      "105":"n",
-      "106":"n"
+      "103":"n d #1",
+      "104":"n d #1",
+      "105":"n d #1",
+      "106":"n d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -514,7 +524,8 @@
       "17.0":"n",
       "17.1":"n",
       "17.2":"n",
-      "17.3":"n"
+      "17.3":"n",
+      "17.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -545,7 +556,7 @@
       "73":"n"
     },
     "and_chr":{
-      "121":"n"
+      "121":"n d #1"
     },
     "and_ff":{
       "122":"n"
@@ -592,13 +603,13 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
+    "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"anchor,position,anchor-element,anchor-name,anchor-default,anchor-scroll,position-fallback,position-fallback-bounds",
-  "chrome_id":"1309178",
-  "shown":false
+  "chrome_id":"5124922471874560",
+  "shown":true
 }
