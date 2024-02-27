@@ -206,7 +206,8 @@
       "122":"y #2",
       "123":"y #2",
       "124":"y #2",
-      "125":"y #2"
+      "125":"y #2",
+      "126":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -328,7 +329,8 @@
       "121":"y #2",
       "122":"y #2",
       "123":"y #2",
-      "124":"y #2"
+      "124":"y #2",
+      "125":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -514,7 +516,8 @@
       "17.0":"a #6",
       "17.1":"a #6",
       "17.2":"a #6",
-      "17.3":"a #6"
+      "17.3":"a #6",
+      "17.4":"a #6 #7"
     },
     "op_mini":{
       "all":"n"
@@ -597,7 +600,8 @@
     "3":"Safari 7.0 - 16.0 supported a custom implementation which remains available in later versions, see [Safari Push Notifications](https://developer.apple.com/notifications/safari-push-notifications/) and [WWDC video](https://web.archive.org/web/20210419000205/https://developer.apple.com/videos/play/wwdc2013/614/)",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags",
     "5":"Only available on macOS 13 Ventura or later and only in Safari itself, not WKWebView nor SFSafariViewController",
-    "6":"Requires website to first be [added to the Home Screen](/web-app-manifest). Delivered silently, meaning no sound, vibration, haptics or screen wake."
+    "6":"Requires website to first be [added to the Home Screen](/web-app-manifest). Delivered silently, meaning no sound, vibration, haptics or screen wake.",
+    "7":"Only available outside of the European Union"
   },
   "usage_perc_y":79.04,
   "usage_perc_a":13.92,
