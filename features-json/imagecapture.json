@@ -83,7 +83,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -537,7 +538,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -553,10 +554,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"n"
+      "123":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -603,7 +604,7 @@
     "1":"Can be enabled via the about:config entry dom.imagecapture.enabled.",
     "2":"Can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":75.88,
+  "usage_perc_y":76.25,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"stream",

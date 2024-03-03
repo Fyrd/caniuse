@@ -84,7 +84,8 @@
       "118":"a #1 #2",
       "119":"a #1 #2",
       "120":"a #1 #2",
-      "121":"a #1 #2"
+      "121":"a #1 #2",
+      "122":"a #1 #2"
     },
     "firefox":{
       "2":"n",
@@ -538,7 +539,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"n #2"
+      "122":"n #2"
     },
     "bb":{
       "7":"n",
@@ -554,10 +555,10 @@
       "73":"a #1 #2"
     },
     "and_chr":{
-      "121":"a #1 #2"
+      "122":"a #1 #2"
     },
     "and_ff":{
-      "122":"n #2"
+      "123":"n #2"
     },
     "ie_mob":{
       "10":"n",
@@ -605,7 +606,7 @@
     "2":"At least partially supports [Feature Policy](/feature-policy), the predecessor to this spec."
   },
   "usage_perc_y":0,
-  "usage_perc_a":71.13,
+  "usage_perc_a":71.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature policy,feature-policy,document.featurePolicy,document.policy,permissions-policy,document.permissionsPolicy",

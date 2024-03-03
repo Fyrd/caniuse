@@ -86,7 +86,8 @@
       "118":"a #4",
       "119":"a #4",
       "120":"a #4",
-      "121":"a #4"
+      "121":"a #4",
+      "122":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -540,7 +541,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "121":"a #4"
+      "122":"a #4"
     },
     "bb":{
       "7":"u",
@@ -556,10 +557,10 @@
       "73":"a #4"
     },
     "and_chr":{
-      "121":"a #4"
+      "122":"a #4"
     },
     "and_ff":{
-      "122":"a #4"
+      "123":"a #4"
     },
     "ie_mob":{
       "10":"a #1",
@@ -610,7 +611,7 @@
     "5":"Does not support `fromMatrix()`, `fromFloat32Array()`, `fromFloat64Array()`, and `toJSON()` methods"
   },
   "usage_perc_y":0,
-  "usage_perc_a":98.36,
+  "usage_perc_a":97.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",

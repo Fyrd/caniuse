@@ -88,7 +88,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -542,7 +543,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"y",
@@ -558,10 +559,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"n"
+      "123":"n"
     },
     "ie_mob":{
       "10":"y #1",
@@ -607,7 +608,7 @@
   "notes_by_num":{
     "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
   },
-  "usage_perc_y":95.17,
+  "usage_perc_y":94.97,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

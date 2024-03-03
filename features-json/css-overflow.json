@@ -86,7 +86,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"a #1 #2",
@@ -540,7 +541,7 @@
       "4.2-4.3":"a #1 #2",
       "4.4":"a #1 #2",
       "4.4.3-4.4.4":"a #1 #2",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"a #1 #2",
@@ -556,10 +557,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -606,8 +607,8 @@
     "1":"Does not support the two value `overflow` shorthand",
     "2":"Does not support the `clip` value"
   },
-  "usage_perc_y":92.4,
-  "usage_perc_a":6.17,
+  "usage_perc_y":92.22,
+  "usage_perc_a":5.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"overflow:hidden,overflow:scroll,overflow:clip",

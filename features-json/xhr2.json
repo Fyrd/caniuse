@@ -97,7 +97,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -551,7 +552,7 @@
       "4.2-4.3":"a #1 #2 #3 #4",
       "4.4":"a #1 #2 #4",
       "4.4.3-4.4.4":"a #4",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"a #1 #2 #4",
@@ -567,10 +568,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"a #1 #4",
@@ -619,7 +620,7 @@
     "3":"Partial support refers to not supporting `blob` as `responseType`",
     "4":"Partial support refers to missing some newer `FormData` functionality (search for specific APIs for details)."
   },
-  "usage_perc_y":97.49,
+  "usage_perc_y":96.99,
   "usage_perc_a":0.94,
   "ucprefix":false,
   "parent":"",

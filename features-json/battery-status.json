@@ -78,7 +78,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -532,7 +533,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -548,10 +549,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"n"
+      "123":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -597,8 +598,8 @@
   "notes_by_num":{
     "1":"Partial support refers to support for the older specification's `navigator.battery` rather than `navigator.getBattery()` to access the `BatteryManager`."
   },
-  "usage_perc_y":76.29,
-  "usage_perc_a":0.07,
+  "usage_perc_y":76.64,
+  "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.battery,navigator.getbattery,batterymanager",

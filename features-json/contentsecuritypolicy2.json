@@ -80,7 +80,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -534,7 +535,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -550,10 +551,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -604,7 +605,7 @@
     "5":"Chrome 39 and Opera 26 are missing the child-src, base-uri, and form-action directives.",
     "6":"Edge has broken nonce support as it ignores nonces on sourced scripts."
   },
-  "usage_perc_y":97.77,
+  "usage_perc_y":97.27,
   "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",

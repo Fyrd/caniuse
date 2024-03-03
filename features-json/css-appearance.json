@@ -78,7 +78,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"a x #1 #3",
@@ -532,7 +533,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"a x #1",
@@ -548,10 +549,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -599,8 +600,8 @@
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
     "3":"`-moz-appearance:none` did not remove the dropdown arrow in the select tag"
   },
-  "usage_perc_y":92.95,
-  "usage_perc_a":5.04,
+  "usage_perc_y":92.5,
+  "usage_perc_a":4.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

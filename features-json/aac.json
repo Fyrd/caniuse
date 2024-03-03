@@ -74,7 +74,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -528,7 +529,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -544,10 +545,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"a #1"
+      "123":"a #1"
     },
     "ie_mob":{
       "10":"y",
@@ -593,8 +594,8 @@
   "notes_by_num":{
     "1":"Partial support in Firefox refers to only supporting AAC in an MP4 container and only when the operating system already has the codecs installed."
   },
-  "usage_perc_y":95.15,
-  "usage_perc_a":3.24,
+  "usage_perc_y":94.95,
+  "usage_perc_a":2.97,
   "ucprefix":false,
   "parent":"audio",
   "keywords":"audio/aac",

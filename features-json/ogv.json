@@ -82,7 +82,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -536,7 +537,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"n"
+      "122":"n"
     },
     "bb":{
       "7":"n",
@@ -552,10 +553,10 @@
       "73":"n"
     },
     "and_chr":{
-      "121":"n"
+      "122":"n"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"p",
@@ -601,7 +602,7 @@
   "notes_by_num":{
     "1":"Chrome is deprecating and removing Theora support, see [this platform status entry](https://chromestatus.com/feature/5158654475239424)"
   },
-  "usage_perc_y":17.87,
+  "usage_perc_y":14.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",

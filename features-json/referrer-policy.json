@@ -78,7 +78,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -532,7 +533,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -548,10 +549,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y #5"
+      "123":"y #5"
     },
     "ie_mob":{
       "10":"n",
@@ -601,8 +602,8 @@
     "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) `Referer` headers to the page's origin, ignoring the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies.",
     "5":"[Firefox 92+ ignores](https://bugzilla.mozilla.org/show_bug.cgi?id=1720294) the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies, defaulting to `strict-origin-when-cross-origin`."
   },
-  "usage_perc_y":95.71,
-  "usage_perc_a":2.48,
+  "usage_perc_y":95.24,
+  "usage_perc_a":2.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",

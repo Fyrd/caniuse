@@ -86,7 +86,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -540,7 +541,7 @@
       "4.2-4.3":"a",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"y",
@@ -556,10 +557,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"a #2"
+      "123":"a #2"
     },
     "ie_mob":{
       "10":"y",
@@ -606,8 +607,8 @@
     "1":"The Android 2.3 browser requires [specific handling](https://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to play videos.",
     "2":"Partial support refers to the lack of hardware acceleration."
   },
-  "usage_perc_y":98.1,
-  "usage_perc_a":0.3,
+  "usage_perc_y":97.63,
+  "usage_perc_a":0.29,
   "ucprefix":false,
   "parent":"video",
   "keywords":"avc,mp4,mpv,mov,aac,h264",

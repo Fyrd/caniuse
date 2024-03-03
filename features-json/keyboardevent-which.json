@@ -74,7 +74,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"y",
@@ -528,7 +529,7 @@
       "4.2-4.3":"y",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"y",
@@ -544,10 +545,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"a #1"
+      "122":"a #1"
     },
     "and_ff":{
-      "122":"a #1"
+      "123":"a #1"
     },
     "ie_mob":{
       "10":"y",
@@ -593,8 +594,8 @@
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":55.01,
-  "usage_perc_a":43.32,
+  "usage_perc_y":52.69,
+  "usage_perc_a":45.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

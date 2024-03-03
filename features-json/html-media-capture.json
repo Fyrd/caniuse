@@ -82,7 +82,8 @@
       "118":"n",
       "119":"n",
       "120":"n",
-      "121":"n"
+      "121":"n",
+      "122":"n"
     },
     "firefox":{
       "2":"n",
@@ -536,7 +537,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"u",
@@ -552,10 +553,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -603,8 +604,8 @@
     "2":"Android 2.2-2.3 do not support the capture attribute",
     "3":"Supports a \"capture\" button for any `<input type=\"file\"> field, regardless of whether the capture attribute is used."
   },
-  "usage_perc_y":59.98,
-  "usage_perc_a":0.81,
+  "usage_perc_y":61.76,
+  "usage_perc_a":0.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"htmlmediacapture, html media capture, media capture, mediacapture",

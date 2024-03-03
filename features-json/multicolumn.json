@@ -119,7 +119,8 @@
       "118":"a #3",
       "119":"a #3",
       "120":"a #3",
-      "121":"a #3"
+      "121":"a #3",
+      "122":"a #3"
     },
     "firefox":{
       "2":"a x #1",
@@ -573,7 +574,7 @@
       "4.2-4.3":"a x #1 #2",
       "4.4":"a x #1 #2",
       "4.4.3-4.4.4":"a x #1 #2",
-      "121":"a #3"
+      "122":"a #3"
     },
     "bb":{
       "7":"a x #1 #2",
@@ -589,10 +590,10 @@
       "73":"a #3"
     },
     "and_chr":{
-      "121":"a #3"
+      "122":"a #3"
     },
     "and_ff":{
-      "122":"a #4"
+      "123":"a #4"
     },
     "ie_mob":{
       "10":"y",
@@ -641,8 +642,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":21.42,
-  "usage_perc_a":77.09,
+  "usage_perc_y":20.81,
+  "usage_perc_a":77.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

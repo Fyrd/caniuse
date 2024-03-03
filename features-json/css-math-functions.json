@@ -102,7 +102,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -556,7 +557,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -572,10 +573,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -621,8 +622,8 @@
   "notes_by_num":{
     "1":"Safari did not support `clamp()`"
   },
-  "usage_perc_y":96.3,
-  "usage_perc_a":0.41,
+  "usage_perc_y":95.78,
+  "usage_perc_a":0.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"min,min(),max,max(),clamp,clamp()",

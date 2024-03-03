@@ -90,7 +90,8 @@
       "118":"n",
       "119":"n",
       "120":"n",
-      "121":"n"
+      "121":"n",
+      "122":"n"
     },
     "firefox":{
       "2":"n",
@@ -544,7 +545,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"n"
+      "122":"n"
     },
     "bb":{
       "7":"n",
@@ -560,10 +561,10 @@
       "73":"n"
     },
     "and_chr":{
-      "121":"n"
+      "122":"n"
     },
     "and_ff":{
-      "122":"n"
+      "123":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -611,7 +612,7 @@
     "2":"Can be enabled via the `image.jxl.enabled` flag in `about:config` in Nightly only. This flag is configurable but has no effect in the other builds.",
     "3":"Can be enabled via the `--enable-features=JXL` runtime flag."
   },
-  "usage_perc_y":10.5,
+  "usage_perc_y":10.73,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

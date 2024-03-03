@@ -74,7 +74,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -528,7 +529,7 @@
       "4.2-4.3":"y #4",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"u",
@@ -544,10 +545,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -597,8 +598,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":83.24,
-  "usage_perc_a":15.24,
+  "usage_perc_y":83.14,
+  "usage_perc_a":14.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

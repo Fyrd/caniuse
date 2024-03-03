@@ -106,7 +106,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -560,7 +561,7 @@
       "4.2-4.3":"n",
       "4.4":"a x",
       "4.4.3-4.4.4":"a x",
-      "121":"a x"
+      "122":"a x"
     },
     "bb":{
       "7":"n",
@@ -576,10 +577,10 @@
       "73":"a x"
     },
     "and_chr":{
-      "121":"y #2"
+      "122":"y #2"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -627,8 +628,8 @@
     "2":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)",
     "3":"Requires website to first be [added to the Home Screen](/web-app-manifest)"
   },
-  "usage_perc_y":78.55,
-  "usage_perc_a":12.79,
+  "usage_perc_y":78.13,
+  "usage_perc_a":12.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

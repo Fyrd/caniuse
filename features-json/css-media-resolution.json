@@ -101,7 +101,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -555,7 +556,7 @@
       "4.2-4.3":"a x #3",
       "4.4":"a #4",
       "4.4.3-4.4.4":"a #4",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"a x #3",
@@ -571,10 +572,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -623,8 +624,8 @@
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`.",
     "4":"Does not support `x` unit (alias for `dppx` unit), e.g: `@media (min-resolution: 2x) { }`."
   },
-  "usage_perc_y":94.44,
-  "usage_perc_a":4.11,
+  "usage_perc_y":94,
+  "usage_perc_a":4.07,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,device-pixel-ratio,resolution,dppx,dpcm,dpi",

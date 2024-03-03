@@ -82,7 +82,8 @@
       "118":"a x #1",
       "119":"a x #1",
       "120":"a #1",
-      "121":"a #1"
+      "121":"a #1",
+      "122":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -536,7 +537,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "121":"a #1"
+      "122":"a #1"
     },
     "bb":{
       "7":"a x #1",
@@ -552,10 +553,10 @@
       "73":"a x #1"
     },
     "and_chr":{
-      "121":"a #1"
+      "122":"a #1"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -602,8 +603,8 @@
     "1":"Doesn't work with a stacking context(e.g. `position: relative`), see [Chromium bug](https://crbug.com/1500148)",
     "2":"Doesn't work with flex/grid container, see [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=169125)"
   },
-  "usage_perc_y":3.24,
-  "usage_perc_a":94.64,
+  "usage_perc_y":2.98,
+  "usage_perc_a":94.42,
   "ucprefix":false,
   "parent":"background-img-opts",
   "keywords":"background-clip,text,clip",

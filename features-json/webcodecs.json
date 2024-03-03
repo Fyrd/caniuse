@@ -90,7 +90,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -544,7 +545,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -560,10 +561,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"n"
+      "123":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -609,8 +610,8 @@
   "notes_by_num":{
     "1":"Video-only support"
   },
-  "usage_perc_y":74.43,
-  "usage_perc_a":13.58,
+  "usage_perc_y":75.08,
+  "usage_perc_a":13.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"VideoDecoder,AudioDecoder,VideoEncoder,AudioEncoder,EncodedAudioChunk,EncodedVideoChunk,AudioData,VideoFrame,VideoColorSpace,ImageDecoder,ImageTrackList,ImageTrack",

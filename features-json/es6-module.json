@@ -111,7 +111,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"n",
@@ -565,7 +566,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"n",
@@ -581,10 +582,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -634,8 +635,8 @@
     "4":"A [polyfill is available](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) for Safari 10.1/iOS Safari 10.3",
     "5":"`nomodule` scripts are not executed, but they're still fetched"
   },
-  "usage_perc_y":97.15,
-  "usage_perc_a":0.05,
+  "usage_perc_y":96.68,
+  "usage_perc_a":0.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"es6 module,esmodules,module,import,export,nomodule",

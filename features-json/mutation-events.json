@@ -74,7 +74,8 @@
       "118":"a #1",
       "119":"a #1",
       "120":"a #1",
-      "121":"a #1"
+      "121":"a #1",
+      "122":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -528,7 +529,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "121":"a #1"
+      "122":"a #1"
     },
     "bb":{
       "7":"a #1",
@@ -544,10 +545,10 @@
       "73":"a #1"
     },
     "and_chr":{
-      "121":"a #1"
+      "122":"a #1"
     },
     "and_ff":{
-      "122":"a #2"
+      "123":"a #2"
     },
     "ie_mob":{
       "10":"a #2",
@@ -595,7 +596,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":98.47,
+  "usage_perc_a":97.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

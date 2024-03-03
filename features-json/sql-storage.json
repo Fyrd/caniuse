@@ -87,7 +87,8 @@
       "118":"y #1 #2",
       "119":"y #1 #2",
       "120":"y #1 #2",
-      "121":"y #1 #2"
+      "121":"y #1 #2",
+      "122":"y #1 #2"
     },
     "firefox":{
       "2":"n",
@@ -541,7 +542,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "121":"y #2"
+      "122":"y #2"
     },
     "bb":{
       "7":"y",
@@ -557,10 +558,10 @@
       "73":"y #2"
     },
     "and_chr":{
-      "121":"y #2"
+      "122":"y #2"
     },
     "and_ff":{
-      "122":"n"
+      "123":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -608,7 +609,7 @@
     "2":"Requires a [secure context](https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts)",
     "3":"Requires a deprecation Origin Trial token"
   },
-  "usage_perc_y":76.68,
+  "usage_perc_y":77.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

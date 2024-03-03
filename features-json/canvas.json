@@ -116,7 +116,8 @@
       "118":"y",
       "119":"y",
       "120":"y",
-      "121":"y"
+      "121":"y",
+      "122":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -570,7 +571,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "121":"y"
+      "122":"y"
     },
     "bb":{
       "7":"y",
@@ -586,10 +587,10 @@
       "73":"y"
     },
     "and_chr":{
-      "121":"y"
+      "122":"y"
     },
     "and_ff":{
-      "122":"y"
+      "123":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -636,8 +637,8 @@
     "1":"Does not support `toDataURL()`",
     "2":"Opera Mini supports the canvas element, but is unable to play animations or run other more complex applications."
   },
-  "usage_perc_y":98.47,
-  "usage_perc_a":0.08,
+  "usage_perc_y":97.98,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"canvas,toDataURL()",
