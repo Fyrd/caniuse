@@ -216,9 +216,9 @@
       "121":"n",
       "122":"n",
       "123":"n",
-      "124":"y",
-      "125":"y",
-      "126":"y"
+      "124":"n d #2",
+      "125":"n d #2",
+      "126":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -606,7 +606,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available behind the #experimental-web-platform-features feature flag"
+    "1":"Available behind the #experimental-web-platform-features feature flag",
+    "2":"Available behind the `dom.screenwakelock.enabled` flag, which is only enabled by default in early Beta or earlier"
   },
   "usage_perc_y":88.7,
   "usage_perc_a":0,
