@@ -1,6 +1,6 @@
 {
   "title":"Resource Hints: preload",
-  "description":"Using `<link rel=\"preload\">`, browsers can be informed to prefetch resources without having to execute them, allowing fine-grained control over when and how resources are loaded.",
+  "description":"Using `<link rel=\"preload\">`, browsers can be informed to prefetch resources without having to execute them, allowing fine-grained control over when and how resources are loaded. Only the following `as` values are supported: fetch, image, font, script, style, track.",
   "spec":"https://w3c.github.io/preload/",
   "status":"cr",
   "links":[
@@ -602,7 +602,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Only cachable resources can be preloaded. This includes the following `as` values: script, style, image, video, audio, track, fetch, and font (note font/collection is not supported).",
+    "1":"Only cachable resources can be preloaded.",
     "2":"Can be enabled via the \"Experimental Features\" developer menu",
     "3":"Disabled by default behind the `network.preload` flag.",
     "4":"Partial support in Edge 17+ refers to support for only the HTML `<link rel>` format, not the HTTP header format."
