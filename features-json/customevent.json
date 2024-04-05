@@ -382,6 +382,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -487,7 +488,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -528,7 +530,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"y"
@@ -591,7 +594,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -609,8 +613,8 @@
     "1":"While a `window.CustomEvent` object exists, it cannot be called as a constructor. Instead of `new CustomEvent(...)`, you must use `e = document.createEvent('CustomEvent')` and then `e.initCustomEvent(...)`",
     "2":"There is no `window.CustomEvent` object, but `document.createEvent('CustomEvent')` still works."
   },
-  "usage_perc_y":97.56,
-  "usage_perc_a":0.5,
+  "usage_perc_y":97.81,
+  "usage_perc_a":0.56,
   "ucprefix":false,
   "parent":"",
   "keywords":"custom events,custom,event",

@@ -373,6 +373,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -478,7 +479,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -519,7 +521,8 @@
       "17.1":"a #3",
       "17.2":"a #3",
       "17.3":"a #3",
-      "17.4":"a #3"
+      "17.4":"a #3",
+      "17.5":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -582,7 +585,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -603,8 +607,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":83.14,
-  "usage_perc_a":14.85,
+  "usage_perc_y":83.15,
+  "usage_perc_a":15.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

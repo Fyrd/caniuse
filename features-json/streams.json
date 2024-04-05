@@ -381,6 +381,7 @@
       "17.2":"a #4",
       "17.3":"a #4",
       "17.4":"a #4",
+      "17.5":"a #4",
       "TP":"a #4"
     },
     "opera":{
@@ -486,7 +487,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -527,7 +529,8 @@
       "17.1":"a #4",
       "17.2":"a #4",
       "17.3":"a #4",
-      "17.4":"a #4"
+      "17.4":"a #4",
+      "17.5":"a #4"
     },
     "op_mini":{
       "all":"n"
@@ -590,7 +593,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"a #4"
@@ -612,8 +616,8 @@
     "5":"No support for `WritableStream`.",
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
-  "usage_perc_y":77.98,
-  "usage_perc_a":18.88,
+  "usage_perc_y":77.9,
+  "usage_perc_a":19.23,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

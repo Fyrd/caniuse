@@ -387,6 +387,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -492,7 +493,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -533,7 +535,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"y"
@@ -596,7 +599,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -615,8 +619,8 @@
     "2":"Partial support refers to not supporting animated WebP images.",
     "3":"Safari 14.0 \u2013 15.6 has full support of WebP, but requires macOS 11 Big Sur or later."
   },
-  "usage_perc_y":96.06,
-  "usage_perc_a":0.54,
+  "usage_perc_y":96.35,
+  "usage_perc_a":0.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"vp8,vp8l,libwebp,.webp",

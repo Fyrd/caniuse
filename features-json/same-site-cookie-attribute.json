@@ -402,6 +402,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -507,7 +508,8 @@
       "105":"y #3",
       "106":"y #3",
       "107":"y #3",
-      "108":"y #3"
+      "108":"y #3",
+      "109":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -548,7 +550,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -611,7 +614,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"u"
@@ -632,8 +636,8 @@
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
     "5":"Partial due to [the bug](https://bugs.webkit.org/show_bug.cgi?id=198181) that treats `SameSite=None` and invalid values as `Strict` in macOS before 10.15 Catalina and in iOS before 13."
   },
-  "usage_perc_y":95.18,
-  "usage_perc_a":0.97,
+  "usage_perc_y":95.39,
+  "usage_perc_a":1,
   "ucprefix":false,
   "parent":"",
   "keywords":"security,cookies,cookie,csrf",

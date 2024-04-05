@@ -395,6 +395,7 @@
       "17.2":"y #3",
       "17.3":"y #3",
       "17.4":"y #3",
+      "17.5":"y #3",
       "TP":"y #3"
     },
     "opera":{
@@ -500,7 +501,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -541,7 +543,8 @@
       "17.1":"y #3",
       "17.2":"y #3",
       "17.3":"y #3",
-      "17.4":"y #3"
+      "17.4":"y #3",
+      "17.5":"y #3"
     },
     "op_mini":{
       "all":"n"
@@ -604,7 +607,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -623,8 +627,8 @@
     "2":"Old Firefox versions were missing support for some properties: `loop` was added in v11, `played` in v15, `playbackRate` in v20.",
     "3":"Ignores the `autoplay` attribute by default, though autoplay behavior can be [enabled by users](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)"
   },
-  "usage_perc_y":97.92,
-  "usage_perc_a":0.06,
+  "usage_perc_y":98.27,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"<video>,videoHeight,videoWidth,HTMLVideoElement.videoHeight,HTMLVideoElement.videoWidth",

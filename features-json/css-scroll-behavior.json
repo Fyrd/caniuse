@@ -385,6 +385,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -490,7 +491,8 @@
       "105":"y #1",
       "106":"y #1",
       "107":"y #1",
-      "108":"y #1"
+      "108":"y #1",
+      "109":"y #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -531,7 +533,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -594,7 +597,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y #1"
@@ -613,7 +617,7 @@
     "2":"Supported in Chrome and Opera behind the 'Smooth Scrolling' and/or 'Enable experimental web platform features' flag",
     "3":"Supported in Safari via the \"CSSOM View Smooth Scrolling\" Experimental Features flag."
   },
-  "usage_perc_y":95.62,
+  "usage_perc_y":95.91,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

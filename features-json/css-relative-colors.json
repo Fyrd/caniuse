@@ -385,6 +385,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -490,7 +491,8 @@
       "105":"n d #1",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -531,7 +533,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -594,7 +597,8 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n"
+      "23":"n",
+      "24":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -611,7 +615,7 @@
   "notes_by_num":{
     "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
   },
-  "usage_perc_y":81.5,
+  "usage_perc_y":81.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

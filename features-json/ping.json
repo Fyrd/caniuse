@@ -373,6 +373,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -478,7 +479,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -519,7 +521,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -582,7 +585,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -599,7 +603,7 @@
   "notes_by_num":{
     "1":"Disabled by default for [privacy reasons](http://kb.mozillazine.org/Browser.send_pings). Can be enabled via the `browser.send_pings` flag."
   },
-  "usage_perc_y":94.44,
+  "usage_perc_y":94.96,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

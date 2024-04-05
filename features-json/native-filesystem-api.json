@@ -385,6 +385,7 @@
       "17.2":"a #3",
       "17.3":"a #3",
       "17.4":"a #3",
+      "17.5":"a #3",
       "TP":"a #3"
     },
     "opera":{
@@ -490,7 +491,8 @@
       "105":"a #2",
       "106":"a #2",
       "107":"a #2",
-      "108":"a #2"
+      "108":"a #2",
+      "109":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -531,7 +533,8 @@
       "17.1":"a #3",
       "17.2":"a #3",
       "17.3":"a #3",
-      "17.4":"a #3"
+      "17.4":"a #3",
+      "17.5":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -594,7 +597,8 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n"
+      "23":"n",
+      "24":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -614,7 +618,7 @@
     "3":"Only supports the Origin Private File System (OPFS) part."
   },
   "usage_perc_y":0,
-  "usage_perc_a":91.31,
+  "usage_perc_a":91.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"File System,File System API,chooseFileSystemEntries,getFile,OPFS,Origin Private File System",

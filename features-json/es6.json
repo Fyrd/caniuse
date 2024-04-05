@@ -381,6 +381,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -486,7 +487,8 @@
       "105":"y #2",
       "106":"y #2",
       "107":"y #2",
-      "108":"y #2"
+      "108":"y #2",
+      "109":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -527,7 +529,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -590,7 +593,8 @@
       "20":"y #2",
       "21":"y #2",
       "22":"y #2",
-      "23":"y #2"
+      "23":"y #2",
+      "24":"y #2"
     },
     "and_qq":{
       "14.9":"y #2"
@@ -609,8 +613,8 @@
     "2":"Does not support [tail call optimization](https://compat-table.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":96.91,
-  "usage_perc_a":1,
+  "usage_perc_y":97.18,
+  "usage_perc_a":1.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

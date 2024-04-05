@@ -377,6 +377,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -482,7 +483,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -523,7 +525,8 @@
       "17.1":"a #4 #5",
       "17.2":"a #4 #5",
       "17.3":"a #4 #5",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -586,7 +589,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -609,8 +613,8 @@
     "6":"Supports [VP9 WebM used in MediaSource](https://bugs.webkit.org/show_bug.cgi?id=216652#c1) on [macOS Big Sur or later.](https://trac.webkit.org/changeset/264747/webkit)",
     "7":"Safari 14.1 \u2013 15.6 has full support of WebM, but requires macOS 11.3 Big Sur or later."
   },
-  "usage_perc_y":82,
-  "usage_perc_a":15.26,
+  "usage_perc_y":82.96,
+  "usage_perc_a":14.5,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

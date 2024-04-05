@@ -382,6 +382,7 @@
       "17.2":"a #1",
       "17.3":"a #1",
       "17.4":"a #1",
+      "17.5":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -487,7 +488,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -528,7 +530,8 @@
       "17.1":"a #1",
       "17.2":"a #1",
       "17.3":"a #1",
-      "17.4":"a #1"
+      "17.4":"a #1",
+      "17.5":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -591,7 +594,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -610,8 +614,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":78.92,
-  "usage_perc_a":17.92,
+  "usage_perc_y":78.95,
+  "usage_perc_a":18.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",

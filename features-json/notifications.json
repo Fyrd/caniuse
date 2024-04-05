@@ -405,6 +405,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -510,7 +511,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -551,7 +553,8 @@
       "17.1":"a #3",
       "17.2":"a #3",
       "17.3":"a #3",
-      "17.4":"a #3"
+      "17.4":"a #3",
+      "17.5":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -614,7 +617,8 @@
       "20":"n #1",
       "21":"n #1",
       "22":"n #1",
-      "23":"n #1"
+      "23":"n #1",
+      "24":"n #1"
     },
     "and_qq":{
       "14.9":"n"
@@ -633,8 +637,8 @@
     "2":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)",
     "3":"Requires website to first be [added to the Home Screen](/web-app-manifest)"
   },
-  "usage_perc_y":78.13,
-  "usage_perc_a":12.93,
+  "usage_perc_y":77.86,
+  "usage_perc_a":13.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

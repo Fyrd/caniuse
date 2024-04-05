@@ -399,6 +399,7 @@
       "17.2":"n",
       "17.3":"n",
       "17.4":"n",
+      "17.5":"n",
       "TP":"n"
     },
     "opera":{
@@ -504,7 +505,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -545,7 +547,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -608,7 +611,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -627,8 +631,8 @@
     "2":"Supported on IE11 Mobile for phones with \"[Windows Phone 8.1 Update](http://blogs.msdn.com/b/ie/archive/2014/07/31/the-mobile-web-should-just-work-for-everyone.aspx)\"",
     "3":"Can be enabled in Edge using the \"Enable touch events\" flag under `about:flags`"
   },
-  "usage_perc_y":94.05,
-  "usage_perc_a":0.06,
+  "usage_perc_y":94.38,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

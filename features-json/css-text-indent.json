@@ -385,6 +385,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -490,7 +491,8 @@
       "105":"a #1 #2",
       "106":"a #1 #2",
       "107":"a #1 #2",
-      "108":"a #1 #2"
+      "108":"a #1 #2",
+      "109":"a #1 #2"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -531,7 +533,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -594,7 +597,8 @@
       "20":"a #1 #2",
       "21":"a #1 #2",
       "22":"a #1 #2",
-      "23":"a #1 #2"
+      "23":"a #1 #2",
+      "24":"a #1 #2"
     },
     "and_qq":{
       "14.9":"a #1 #2"
@@ -612,7 +616,7 @@
     "1":"Partial support refers to supporting a `<length>` value, but not the `each-line` or `hanging` keywords.",
     "2":"Support for `each-line` & `hanging` is available behind the Experimental Web Platform features flag"
   },
-  "usage_perc_y":16.62,
+  "usage_perc_y":16.94,
   "usage_perc_a":81.46,
   "ucprefix":false,
   "parent":"",

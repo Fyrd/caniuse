@@ -384,6 +384,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -489,7 +490,8 @@
       "105":"y #3",
       "106":"y #3",
       "107":"y #3",
-      "108":"y #3"
+      "108":"y #3",
+      "109":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -530,7 +532,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -593,7 +596,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y #3"
@@ -612,8 +616,8 @@
     "2":"`isIntersecting` property of `IntersectionObserverEntry` was not implemented, returning `undefined`",
     "3":"IntersectionObserver does not trigger its callback in a Chrome background tab"
   },
-  "usage_perc_y":96.73,
-  "usage_perc_a":0.05,
+  "usage_perc_y":96.99,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

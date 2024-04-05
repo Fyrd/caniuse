@@ -373,6 +373,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -478,7 +479,8 @@
       "105":"n d #2",
       "106":"n d #2",
       "107":"n d #2",
-      "108":"n d #2"
+      "108":"n d #2",
+      "109":"n d #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -519,7 +521,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -582,7 +585,8 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"n"
+      "23":"n",
+      "24":"n"
     },
     "and_qq":{
       "14.9":"n d #2"
@@ -600,7 +604,7 @@
     "1":"Supported in Firefox by enabling \"media.track.enabled\" in about:config",
     "2":"Supported in Chrome and Opera by enabling \"enable-experimental-web-platform-features\" in chrome:flags"
   },
-  "usage_perc_y":18.36,
+  "usage_perc_y":18.71,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

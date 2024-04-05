@@ -396,6 +396,7 @@
       "17.2":"y",
       "17.3":"y",
       "17.4":"y",
+      "17.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -501,7 +502,8 @@
       "105":"y",
       "106":"y",
       "107":"y",
-      "108":"y"
+      "108":"y",
+      "109":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -542,7 +544,8 @@
       "17.1":"y",
       "17.2":"y",
       "17.3":"y",
-      "17.4":"y"
+      "17.4":"y",
+      "17.5":"y"
     },
     "op_mini":{
       "all":"a #1 #2 #3"
@@ -605,7 +608,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -625,8 +629,8 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList` or the `replace()` method"
   },
-  "usage_perc_y":97.41,
-  "usage_perc_a":0.61,
+  "usage_perc_y":97.69,
+  "usage_perc_a":0.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"classlist.contains(),classlist.toggle(),classlist.add(),classlist.remove()",

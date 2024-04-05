@@ -374,6 +374,7 @@
       "17.2":"n",
       "17.3":"n",
       "17.4":"n",
+      "17.5":"n",
       "TP":"n"
     },
     "opera":{
@@ -479,7 +480,8 @@
       "105":"a #4",
       "106":"a #4",
       "107":"a #4",
-      "108":"a #4"
+      "108":"a #4",
+      "109":"a #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -520,7 +522,8 @@
       "17.1":"n",
       "17.2":"n",
       "17.3":"n",
-      "17.4":"n"
+      "17.4":"n",
+      "17.5":"n"
     },
     "op_mini":{
       "all":"n"
@@ -583,7 +586,8 @@
       "20":"y",
       "21":"y",
       "22":"y",
-      "23":"y"
+      "23":"y",
+      "24":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -603,8 +607,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":47.66,
-  "usage_perc_a":28.78,
+  "usage_perc_y":47.83,
+  "usage_perc_a":28.84,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

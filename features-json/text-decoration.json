@@ -389,6 +389,7 @@
       "17.2":"a #2 #3",
       "17.3":"a #2 #3",
       "17.4":"a #2 #3",
+      "17.5":"a #2 #3",
       "TP":"a #2 #3"
     },
     "opera":{
@@ -494,7 +495,8 @@
       "105":"a #5",
       "106":"a #5",
       "107":"a #5",
-      "108":"a #5"
+      "108":"a #5",
+      "109":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -535,7 +537,8 @@
       "17.1":"a x #2",
       "17.2":"a x #2",
       "17.3":"a x #2",
-      "17.4":"a x #2"
+      "17.4":"a x #2",
+      "17.5":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -598,7 +601,8 @@
       "20":"a #5",
       "21":"a #5",
       "22":"a #5",
-      "23":"a #5"
+      "23":"a #5",
+      "24":"a #5"
     },
     "and_qq":{
       "14.9":"a #5"
@@ -619,8 +623,8 @@
     "4":"Partial support refers to not supporting the `text-decoration-skip` property.",
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
-  "usage_perc_y":0.58,
-  "usage_perc_a":96.56,
+  "usage_perc_y":0.63,
+  "usage_perc_a":96.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",
