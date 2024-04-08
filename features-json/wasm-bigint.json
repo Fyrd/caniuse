@@ -1,5 +1,5 @@
 {
-  "title":"WebAssembly Non-trapping float-to-int Conversion",
+  "title":"WebAssembly BigInt to i64 conversion in JS API",
   "description":"An extension to the WebAssembly JS API for bidrectionally converting BigInts and 64-bit WebAssembly integer values",
   "spec":"https://webassembly.github.io/spec/js-api/",
   "status":"wd",
@@ -609,5 +609,5 @@
   "parent":"wasm",
   "keywords":"webassembly,bigint,64bit",
   "chrome_id":"5648655109324800",
-  "shown":false
+  "shown":true
 }
