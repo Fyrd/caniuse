@@ -22,7 +22,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description": "There's [an issue](https://issues.chromium.org/issues/40069954) with excessive throttling of WebTransport connections in chromium browsers that cannot be mitigated by code."
+    }
   ],
   "categories":[
     "JS API"
