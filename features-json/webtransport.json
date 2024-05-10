@@ -26,7 +26,7 @@
       "description": "There's [an issue](https://issues.chromium.org/issues/40069954) with excessive throttling of WebTransport connections in chromium browsers that cannot be mitigated by code."
     },
     {
-      "description": "[An issue](https://issues.chromium.org/issues/326887753?pli=1) in chromium with dropped messages."
+      "description": "[An issue](https://issues.chromium.org/issues/326887753?pli=1) in chromium where closing the writer side of a stream will close without ensuring all previously sent data is actually sent."
     }
   ],
   "categories":[
