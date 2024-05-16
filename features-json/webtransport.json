@@ -23,10 +23,10 @@
   ],
   "bugs":[
     {
-      "description": "Chromium browsers have [an issue](https://issues.chromium.org/issues/40069954) with excessive throttling of WebTransport connections that cannot be mitigated by code."
+      "description":"Chromium browsers have [an issue](https://issues.chromium.org/issues/40069954) with excessive throttling of WebTransport connections that cannot be mitigated by code."
     },
     {
-      "description": "Chromium browsers have [an issue](https://issues.chromium.org/issues/326887753?pli=1) where closing the writer side of a stream will close without ensuring all previously sent data is actually sent."
+      "description":"Chromium browsers have [an issue](https://issues.chromium.org/issues/326887753?pli=1) where closing the writer side of a stream will close without ensuring all previously sent data is actually sent."
     }
   ],
   "categories":[
