@@ -576,7 +576,7 @@
       "124":"y"
     },
     "and_ff":{
-      "125":"a #2"
+      "125":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -619,10 +619,9 @@
       "3.0-3.1":"y"
     }
   },
-  "notes":"Firefox supports H.264 on Windows 7 and later since version 21. Firefox supports H.264 on Linux since version 26 if the appropriate gstreamer plug-ins are installed.\r\n\r\nPartial support for older Firefox versions refers to the lack of support in OS X & some non-Android Linux platforms.",
+  "notes":"Firefox supports H.264 on Windows 7 and later since version 21. Firefox supports H.264 on Linux since version 26 if the appropriate system libraries are installed.\r\n\r\nPartial support for older Firefox versions refers to the lack of support in OS X & some non-Android Linux platforms.",
   "notes_by_num":{
-    "1":"The Android 2.3 browser requires [specific handling](https://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to play videos.",
-    "2":"Partial support refers to the lack of hardware acceleration."
+    "1":"The Android 2.3 browser requires [specific handling](https://www.broken-links.com/2010/07/08/making-html5-video-work-on-android-phones/) to play videos."
   },
   "usage_perc_y":97.87,
   "usage_perc_a":0.3,
