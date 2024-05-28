@@ -1,8 +1,8 @@
 {
   "title":"CSS zoom",
-  "description":"Non-standard method of scaling content.",
-  "spec":"https://developer.mozilla.org/en-US/docs/Web/CSS/zoom",
-  "status":"unoff",
+  "description":"Method of scaling content while also affecting layout.",
+  "spec":"https://drafts.csswg.org/css-viewport/#zoom-property",
+  "status":"wd",
   "links":[
     {
       "url":"https://css-tricks.com/almanac/properties/z/zoom/",
@@ -22,9 +22,7 @@
     }
   ],
   "bugs":[
-    {
-      "description":"When both `zoom` and `transform: scale()` are applied, Chrome will perform zooming operation twice."
-    }
+    
   ],
   "categories":[
     "CSS"
@@ -221,10 +219,10 @@
       "123":"n",
       "124":"n",
       "125":"n",
-      "126":"n",
-      "127":"n",
-      "128":"n",
-      "129":"n"
+      "126":"y",
+      "127":"y",
+      "128":"y",
+      "129":"y"
     },
     "chrome":{
       "4":"y",
@@ -578,7 +576,7 @@
       "124":"y"
     },
     "and_ff":{
-      "125":"n"
+      "125":"y"
     },
     "ie_mob":{
       "10":"y #1",
@@ -621,11 +619,11 @@
       "3.0-3.1":"n"
     }
   },
-  "notes":"Originally implemented only in Internet Explorer. Although several other browsers support the property, using `transform: scale()` is the recommended solution to scale content. Note though that `transform: scale()` does not work the same as `zoom`. If e.g. `transform: scale(0.6)` is used on the `html` or `body` element then it resizes the entire page, showing a minified page with huge white margins around it, whereas `zoom: 0.6` scales the *elements* on the page, but not the page itself on which the elements are drawn.",
+  "notes":"Originally implemented only in Internet Explorer.  Note that `transform: scale()` does not work the same as `zoom`. If e.g. `transform: scale(0.6)` is used on the `html` or `body` element then it resizes the entire page, showing a minified page with huge white margins around it, whereas `zoom: 0.6` scales the *elements* on the page, but not the page itself on which the elements are drawn.",
   "notes_by_num":{
     "1":"The `-ms-zoom` property is an extension to CSS, and can be used as a synonym for `zoom` in IE8 Standards mode."
   },
-  "usage_perc_y":95.36,
+  "usage_perc_y":95.67,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
