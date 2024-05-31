@@ -11,6 +11,10 @@
     {
       "url":"https://www.w3.org/TR/WD-font/#font-smooth",
       "title":"Old version of W3C recommendation containing font-smooth"
+    },
+    {
+      "url":"https://github.com/whatwg/compat/issues/115",
+      "title":"WHATWG compat issue to spec `-webkit-font-smoothing: antialiased`"
     }
   ],
   "bugs":[
@@ -215,8 +219,8 @@
       "125":"a x #2 #3",
       "126":"a x #2 #3",
       "127":"a x #2 #3",
-      "128":"a x #2 #3",
-      "129":"a x #2 #3"
+      "128":"a x #2 #3 #4",
+      "129":"a x #2 #3 #4"
     },
     "chrome":{
       "4":"n",
@@ -617,7 +621,8 @@
   "notes_by_num":{
     "1":"WebKit implements something similar with a different name `-webkit-font-smoothing` and different values: `none`, `antialiased` and `subpixel-antialiased`.",
     "2":"Firefox implements something similar with a different name `-moz-osx-font-smoothing` and different values: `auto`, `inherit`, `unset`, `grayscale`.",
-    "3":"Works only on Mac OS X platform."
+    "3":"Works only on Mac OS X platform.",
+    "4":"Firefox 128 and later supports `-webkit-font-smoothing: antialiased` (by mapping to `-moz-osx-font-smoothing: grayscale`)"
   },
   "usage_perc_y":0,
   "usage_perc_a":35.34,
