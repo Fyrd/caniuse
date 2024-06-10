@@ -615,8 +615,8 @@
   },
   "notes":"Support refers to this format's use in the `audio` element, not other conditions.\r\n\r\nFor Opera the Linux version may be able to play it when the GStreamer module is up to date and the served mime-type is 'audio/ogg'.",
   "notes_by_num":{
-    "1":"Supported only when packaged in a CAF file and on macOS High Sierra/iOS 11 or later (constant bit-rate only)."
-    "2":"Supported in a WebM container (all bitrates). Has a [known regression](https://bugs.webkit.org/show_bug.cgi?id=245428)."
+    "1":"Supported only when packaged in a CAF file and on macOS High Sierra/iOS 11 or later (constant bit-rate only).",
+    "2":"Supported in a WebM container (all bitrates). Has a [known regression](https://bugs.webkit.org/show_bug.cgi?id=245428).",
     "3":"Supported in a WebM container (all bitrates)."
   },
   "usage_perc_y":79.75,
