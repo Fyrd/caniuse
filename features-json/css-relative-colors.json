@@ -1,6 +1,6 @@
 {
-  "title":"CSS Relative colors",
-  "description":"The CSS Relative Color syntax allows a color to be defined relative to another color using the `from` keyword and optionally `calc()` for any of the color values.",
+  "title":"CSS Relative color syntax",
+  "description":"Relative color syntax in CSS allows a color to be defined relative to another color using the `from` keyword and optionally `calc()` for any of the color values.",
   "spec":"https://www.w3.org/TR/css-color-5/#relative-colors",
   "status":"wd",
   "links":[
@@ -84,13 +84,13 @@
       "116":"n",
       "117":"n",
       "118":"n d #1",
-      "119":"y",
-      "120":"y",
-      "121":"y",
-      "122":"y",
-      "123":"y",
-      "124":"y",
-      "125":"y"
+      "119":"a #2",
+      "120":"a #2",
+      "121":"a #2",
+      "122":"a #2",
+      "123":"a #2",
+      "124":"a #2",
+      "125":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -221,9 +221,9 @@
       "125":"n",
       "126":"n",
       "127":"n",
-      "128":"y",
-      "129":"y",
-      "130":"y"
+      "128":"a #2",
+      "129":"a #2",
+      "130":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -340,17 +340,17 @@
       "116":"n",
       "117":"n",
       "118":"n d #1",
-      "119":"y",
-      "120":"y",
-      "121":"y",
-      "122":"y",
-      "123":"y",
-      "124":"y",
-      "125":"y",
-      "126":"y",
-      "127":"y",
-      "128":"y",
-      "129":"y"
+      "119":"a #2",
+      "120":"a #2",
+      "121":"a #2",
+      "122":"a #2",
+      "123":"a #2",
+      "124":"a #2",
+      "125":"a #2",
+      "126":"a #2",
+      "127":"a #2",
+      "128":"a #2",
+      "129":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -385,16 +385,16 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"y",
-      "16.5":"y",
-      "16.6":"y",
-      "17.0":"y",
-      "17.1":"y",
-      "17.2":"y",
-      "17.3":"y",
-      "17.4":"y",
-      "17.5":"y",
-      "17.6":"y",
+      "16.4":"a #2",
+      "16.5":"a #2",
+      "16.6":"a #2",
+      "17.0":"a #2",
+      "17.1":"a #2",
+      "17.2":"a #2",
+      "17.3":"a #2",
+      "17.4":"a #2",
+      "17.5":"a #2",
+      "17.6":"a #2",
       "18.0":"y",
       "TP":"y"
     },
@@ -499,11 +499,11 @@
       "103":"n",
       "104":"n d #1",
       "105":"n d #1",
-      "106":"y",
-      "107":"y",
-      "108":"y",
-      "109":"y",
-      "110":"y"
+      "106":"a #2",
+      "107":"a #2",
+      "108":"a #2",
+      "109":"a #2",
+      "110":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -537,16 +537,16 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"y",
-      "16.5":"y",
-      "16.6-16.7":"y",
-      "17.0":"y",
-      "17.1":"y",
-      "17.2":"y",
-      "17.3":"y",
-      "17.4":"y",
-      "17.5":"y",
-      "17.6":"y",
+      "16.4":"a #2",
+      "16.5":"a #2",
+      "16.6-16.7":"a #2",
+      "17.0":"a #2",
+      "17.1":"a #2",
+      "17.2":"a #2",
+      "17.3":"a #2",
+      "17.4":"a #2",
+      "17.5":"a #2",
+      "17.6":"a #2",
       "18.0":"y"
     },
     "op_mini":{
@@ -562,7 +562,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "125":"y"
+      "125":"a #2"
     },
     "bb":{
       "7":"n",
@@ -575,10 +575,10 @@
       "11.5":"n",
       "12":"n",
       "12.1":"n",
-      "80":"y"
+      "80":"a #2"
     },
     "and_chr":{
-      "125":"y"
+      "125":"a #2"
     },
     "and_ff":{
       "126":"n"
@@ -612,7 +612,7 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"y"
+      "25":"a #2"
     },
     "and_qq":{
       "14.9":"n"
@@ -627,7 +627,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
+    "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
+    "2":"Does not support `currentcolor` or system color keywords"
   },
   "usage_perc_y":85,
   "usage_perc_a":0,
