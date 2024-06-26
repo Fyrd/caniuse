@@ -35,13 +35,7 @@
     },
     {
       "description":"A parent with overflow set to `auto` will prevent `position: sticky` from working in Safari"
-    },
-    {
-      "description":"(Google Chrome)If the parent element has the properties position: absolute and overflow: visible, and the parent element's parent element has the property overflow: hidden, the relative position seems to become relative to the top-level window."
     }
-
-
-    
   ],
   "categories":[
     "CSS"
