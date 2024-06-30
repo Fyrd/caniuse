@@ -5,12 +5,12 @@
   "status":"cr",
   "links":[
     {
-      "url":"https://johndjameson.com/blog/making-sense-of-ch-units/",
+      "url":"https://johndjameson.com/posts/making-sense-of-ch-units",
       "title":"Blog post on using ch units"
     },
     {
-      "url":"http://revoltpuppy.com/articles/89/using-ch-an-underappreciated-css-length",
-      "title":"Various uses for the ch unit"
+      "url":"https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/",
+      "title":"What is the CSS \u2018ch\u2019 Unit?"
     }
   ],
   "bugs":[
@@ -82,7 +82,8 @@
       "122":"y",
       "123":"y",
       "124":"y",
-      "125":"y"
+      "125":"y",
+      "126":"y"
     },
     "firefox":{
       "2":"y",
@@ -554,7 +555,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "125":"y"
+      "126":"y"
     },
     "bb":{
       "7":"n",
@@ -570,10 +571,10 @@
       "80":"y"
     },
     "and_chr":{
-      "125":"y"
+      "126":"y"
     },
     "and_ff":{
-      "126":"y"
+      "127":"y"
     },
     "ie_mob":{
       "10":"y",

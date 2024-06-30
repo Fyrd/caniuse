@@ -82,7 +82,8 @@
       "122":"n",
       "123":"n",
       "124":"n",
-      "125":"n"
+      "125":"n",
+      "126":"n"
     },
     "firefox":{
       "2":"n",
@@ -341,8 +342,8 @@
       "125":"n",
       "126":"n",
       "127":"n",
-      "128":"n",
-      "129":"n"
+      "128":"n d #2",
+      "129":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -554,7 +555,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "125":"n"
+      "126":"n"
     },
     "bb":{
       "7":"n",
@@ -570,10 +571,10 @@
       "80":"n"
     },
     "and_chr":{
-      "125":"n"
+      "126":"n"
     },
     "and_ff":{
-      "126":"n"
+      "127":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -619,7 +620,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available behind a [Safari feature flag](https://developer.apple.com/documentation/safari-developer-tools/feature-flag-settings)."
+    "1":"Available behind a [Safari feature flag](https://developer.apple.com/documentation/safari-developer-tools/feature-flag-settings).",
+    "2":"Can be enabled via the `#text-box-trim` flag in `chrome://flags`"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
