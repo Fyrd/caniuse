@@ -492,7 +492,8 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -621,7 +622,7 @@
     "3":"Desktop Firefox responds to the status of its \"Work Offline\" mode. If not in that mode, `navigator.onLine` is always `true`, regardless of the actual network connectivity status. [See bug](https://bugzilla.mozilla.org/show_bug.cgi?id=654579) for details.",
     "4":"Safari 7.0 supports only the event listener on `window`, and not on `document.body`"
   },
-  "usage_perc_y":98.24,
+  "usage_perc_y":98.25,
   "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",

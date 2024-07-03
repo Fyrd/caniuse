@@ -500,7 +500,8 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -629,7 +630,7 @@
     "3":"Available in Chrome and Opera within Window and Workers by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`",
     "4":"Firefox <40 is not completely conforming to the specs and does not respect the <base> tag for relative URIs in fetch requests. See [bug 1161625](https://bugzilla.mozilla.org/show_bug.cgi?id=1161625)."
   },
-  "usage_perc_y":97.52,
+  "usage_perc_y":97.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

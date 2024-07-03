@@ -496,7 +496,8 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -627,7 +628,7 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":98.19,
+  "usage_perc_y":98.2,
   "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"form-validation",

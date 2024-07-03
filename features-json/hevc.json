@@ -504,7 +504,8 @@
       "107":"a #5",
       "108":"a #5",
       "109":"a #5",
-      "110":"a #5"
+      "110":"a #5",
+      "111":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -637,7 +638,7 @@
     "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported."
   },
   "usage_perc_y":20.03,
-  "usage_perc_a":71.04,
+  "usage_perc_a":71.05,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

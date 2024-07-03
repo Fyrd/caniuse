@@ -514,7 +514,8 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -642,7 +643,7 @@
     "2":"Old Firefox versions were missing support for some properties: `loop` was added in v11, `played` in v15, `playbackRate` in v20.",
     "3":"Ignores the `autoplay` attribute by default, though autoplay behavior can be [enabled by users](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)"
   },
-  "usage_perc_y":98.24,
+  "usage_perc_y":98.25,
   "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",

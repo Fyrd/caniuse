@@ -521,7 +521,8 @@
       "107":"y #3",
       "108":"y #3",
       "109":"y #3",
-      "110":"y #3"
+      "110":"y #3",
+      "111":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -651,7 +652,7 @@
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
     "5":"Partial due to [the bug](https://bugs.webkit.org/show_bug.cgi?id=198181) that treats `SameSite=None` and invalid values as `Strict` in macOS before 10.15 Catalina and in iOS before 13."
   },
-  "usage_perc_y":95.32,
+  "usage_perc_y":95.33,
   "usage_perc_a":0.96,
   "ucprefix":false,
   "parent":"",
