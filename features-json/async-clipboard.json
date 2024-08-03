@@ -220,13 +220,13 @@
       "122":"a #1",
       "123":"a #1",
       "124":"a #1",
-      "125":"a #3",
-      "126":"a #3",
-      "127":"a #3",
-      "128":"a #3",
-      "129":"a #3",
-      "130":"a #3",
-      "131":"a #3"
+      "125":"y",
+      "126":"y",
+      "127":"y",
+      "128":"y",
+      "129":"y",
+      "130":"y",
+      "131":"y"
     },
     "chrome":{
       "4":"n",
@@ -586,7 +586,7 @@
       "127":"y"
     },
     "and_ff":{
-      "127":"a #3"
+      "127":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -630,14 +630,14 @@
       "3.0-3.1":"a #1"
     }
   },
-  "notes":"Safari browsers will display a \"Paste\" option for users to select first before reading the clipboard.",
+  "notes":"Browsers differ on how they handle the security considerations for clipboard operations:\r\n\r\nChromium browsers require the `clipboard-write` permission to be granted before allowing clipboard reading & writing.\r\n\r\nSafari browsers will display a \"Paste\" option for users to select first before reading the clipboard.",
   "notes_by_num":{
     "1":"Partial support refers to only supporting the \"writeText\" method.",
     "2":"Supports writing to clipboard but not reading.",
     "3":"Does not support the \"clipboard-write\" permission"
   },
-  "usage_perc_y":92.72,
-  "usage_perc_a":3.79,
+  "usage_perc_y":95.01,
+  "usage_perc_a":1.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",
