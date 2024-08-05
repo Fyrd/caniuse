@@ -633,8 +633,7 @@
   "notes":"Browsers differ on how they handle the security considerations for clipboard operations:\r\n\r\nChromium browsers require the `clipboard-write` permission to be granted before allowing clipboard reading & writing.\r\n\r\nSafari browsers will display a \"Paste\" option for users to select first before reading the clipboard.",
   "notes_by_num":{
     "1":"Partial support refers to only supporting the \"writeText\" method.",
-    "2":"Supports writing to clipboard but not reading.",
-    "3":"Does not support the \"clipboard-write\" permission"
+    "2":"Supports writing to clipboard but not reading."
   },
   "usage_perc_y":94.41,
   "usage_perc_a":1.72,
