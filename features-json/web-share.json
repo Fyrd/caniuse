@@ -376,9 +376,9 @@
       "125":"a #4",
       "126":"a #4",
       "127":"a #4",
-      "128":"a #4",
-      "129":"a #4",
-      "130":"a #4"
+      "128":"a #6",
+      "129":"a #6",
+      "130":"a #6"
     },
     "safari":{
       "3.1":"n",
@@ -660,7 +660,8 @@
     "2":"[Android intent:// URLs](https://developer.chrome.com/multidevice/android/intents) can be used instead",
     "3":"Only supported on Windows",
     "4":"Only supported on Windows and Chrome OS",
-    "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)"
+    "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)",
+    "6":"Only supported on Windows, Chrome OS and macOS"
   },
   "usage_perc_y":70.1,
   "usage_perc_a":20.7,
