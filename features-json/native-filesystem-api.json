@@ -634,10 +634,11 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled in desktop Chromium browsers with the `#native-file-system-api` flag.",
-    "2":"Parts of the API are still missing."
+    "2":"Parts of the API are still missing.",
+    "3":"Only supports the Origin Private File System (OPFS) part."
   },
-  "usage_perc_y":0,
-  "usage_perc_a":91.38,
+  "usage_perc_y":25.71,
+  "usage_perc_a":0.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"File System,File System API,chooseFileSystemEntries,getFile",
