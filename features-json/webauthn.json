@@ -583,7 +583,7 @@
       "127":"y"
     },
     "and_ff":{
-      "127":"a #4"
+      "127":"a #7"
     },
     "ie_mob":{
       "10":"n",
@@ -634,7 +634,8 @@
     "3":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu.",
     "4":"Partial support refers to FIDO2 devices not working in all operating systems if a PIN is set.",
     "5":"Experimental feature not yet enabled in WKWebView-based browsers including Chrome for iOS.",
-    "6":"Partial support refers to TouchID not being supported."
+    "6":"Partial support refers to TouchID not being supported.",
+    "7":"Does not support direct attestations"
   },
   "usage_perc_y":93.48,
   "usage_perc_a":2.72,
