@@ -109,7 +109,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"p",
@@ -244,7 +245,8 @@
       "129":"a #7",
       "130":"a #7",
       "131":"a #7",
-      "132":"a #7"
+      "132":"a #7",
+      "133":"a #7"
     },
     "chrome":{
       "4":"p",
@@ -372,7 +374,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"p",
@@ -585,7 +588,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"y",
-      "127":"y"
+      "128":"y"
     },
     "bb":{
       "7":"p",
@@ -601,7 +604,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"n"
@@ -658,8 +661,8 @@
     "6":"In Firefox, autocomplete must be set to off to make dynamic datalist work due to [a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1474137)",
     "7":"Partial support refers to no support for datalists on [date and time](https://bugzilla.mozilla.org/show_bug.cgi?id=1905313) fields."
   },
-  "usage_perc_y":94.01,
-  "usage_perc_a":3.02,
+  "usage_perc_y":93.24,
+  "usage_perc_a":3.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"list attribute,input",

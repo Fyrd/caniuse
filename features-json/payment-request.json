@@ -100,7 +100,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"n",
@@ -235,7 +236,8 @@
       "129":"a d #8",
       "130":"a d #8",
       "131":"a d #8",
-      "132":"a d #8"
+      "132":"a d #8",
+      "133":"a d #8"
     },
     "chrome":{
       "4":"n",
@@ -363,7 +365,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"n",
@@ -576,7 +579,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"n"
+      "128":"n"
     },
     "bb":{
       "7":"n",
@@ -592,7 +595,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y #5"
+      "128":"y #5"
     },
     "and_ff":{
       "127":"n"
@@ -650,8 +653,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":91.49,
-  "usage_perc_a":2.86,
+  "usage_perc_y":91.18,
+  "usage_perc_a":2.81,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

@@ -97,7 +97,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"n",
@@ -232,7 +233,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "chrome":{
       "4":"n",
@@ -360,7 +362,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"n",
@@ -573,7 +576,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"y"
+      "128":"y"
     },
     "bb":{
       "7":"n",
@@ -589,7 +592,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"y"
@@ -644,8 +647,8 @@
     "4":"Does not support min/max expressions.",
     "5":"For JavaScript-generated img elements, loads src first, even if srcset will also make it load another image (see known issues)"
   },
-  "usage_perc_y":79.31,
-  "usage_perc_a":17.89,
+  "usage_perc_y":78.26,
+  "usage_perc_a":18.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"srcset attribute",

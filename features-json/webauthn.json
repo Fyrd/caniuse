@@ -88,7 +88,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"n",
@@ -223,7 +224,8 @@
       "129":"a #6",
       "130":"a #6",
       "131":"a #6",
-      "132":"a #6"
+      "132":"a #6",
+      "133":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -351,7 +353,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"n",
@@ -564,7 +567,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"y"
+      "128":"y"
     },
     "bb":{
       "7":"n",
@@ -580,7 +583,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"a #7"
@@ -637,8 +640,8 @@
     "6":"Partial support refers to TouchID not being supported.",
     "7":"Does not support direct attestations"
   },
-  "usage_perc_y":93.48,
-  "usage_perc_a":2.72,
+  "usage_perc_y":92.66,
+  "usage_perc_a":2.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"fido,webauthn,webauthm",

@@ -81,7 +81,8 @@
       "124":"a #4",
       "125":"a #4",
       "126":"a #4",
-      "127":"a #4"
+      "127":"a #4",
+      "128":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -216,7 +217,8 @@
       "129":"n",
       "130":"n",
       "131":"n",
-      "132":"n"
+      "132":"n",
+      "133":"n"
     },
     "chrome":{
       "4":"n",
@@ -344,7 +346,8 @@
       "127":"a #4",
       "128":"a #4",
       "129":"a #4",
-      "130":"a #4"
+      "130":"a #4",
+      "131":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -557,7 +560,7 @@
       "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"y"
+      "128":"y"
     },
     "bb":{
       "7":"n",
@@ -573,7 +576,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"n"
@@ -627,8 +630,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":49.42,
-  "usage_perc_a":27.08,
+  "usage_perc_y":48.97,
+  "usage_perc_a":26.44,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

@@ -104,7 +104,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"n",
@@ -239,7 +240,8 @@
       "129":"a #6",
       "130":"a #6",
       "131":"a #6",
-      "132":"a #6"
+      "132":"a #6",
+      "133":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -367,7 +369,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"n",
@@ -580,7 +583,7 @@
       "4.2-4.3":"n #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "127":"y"
+      "128":"y"
     },
     "bb":{
       "7":"n",
@@ -596,7 +599,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"a #6"
@@ -652,8 +655,8 @@
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
     "6":"Partial support refers to not supporting the `week` and `month` input type"
   },
-  "usage_perc_y":76.61,
-  "usage_perc_a":20.39,
+  "usage_perc_y":75.58,
+  "usage_perc_a":20.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"datepicker,timepicker,inputdate,input type=\"date\",input type=\"time\",input date,datetime-local",
