@@ -46,7 +46,7 @@
     }
   ],
   "bugs":[
-
+    
   ],
   "categories":[
     "JS API"
@@ -664,11 +664,10 @@
     "2":"[Android intent:// URLs](https://developer.chrome.com/docs/android/intents) can be used instead",
     "3":"Only supported on Windows",
     "4":"Only supported on Windows and Chrome OS",
-    "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)",
-    "6":"Only supported on Windows, Chrome OS and macOS"
+    "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)"
   },
-  "usage_perc_y":70.37,
-  "usage_perc_a":20.54,
+  "usage_perc_y":72.69,
+  "usage_perc_a":18.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",
