@@ -96,7 +96,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"n #1",
@@ -231,7 +232,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "chrome":{
       "4":"a x",
@@ -359,7 +361,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"n",
@@ -572,7 +575,7 @@
       "4.2-4.3":"a x",
       "4.4":"a x",
       "4.4.3-4.4.4":"a x",
-      "127":"y"
+      "128":"y"
     },
     "bb":{
       "7":"a x",
@@ -588,7 +591,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"y"
@@ -639,8 +642,8 @@
   "notes_by_num":{
     "1":"Firefox 18 and below supported the `:-moz-placeholder` pseudo-class rather than the `::-moz-placeholder` pseudo-element."
   },
-  "usage_perc_y":96.88,
-  "usage_perc_a":0.35,
+  "usage_perc_y":96.07,
+  "usage_perc_a":0.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"::placeholder,placeholder",

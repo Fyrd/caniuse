@@ -125,7 +125,8 @@
       "124":"a #3",
       "125":"a #3",
       "126":"a #3",
-      "127":"a #3"
+      "127":"a #3",
+      "128":"a #3"
     },
     "firefox":{
       "2":"a x #1",
@@ -260,7 +261,8 @@
       "129":"a #4",
       "130":"a #4",
       "131":"a #4",
-      "132":"a #4"
+      "132":"a #4",
+      "133":"a #4"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -388,7 +390,8 @@
       "127":"a #3",
       "128":"a #3",
       "129":"a #3",
-      "130":"a #3"
+      "130":"a #3",
+      "131":"a #3"
     },
     "safari":{
       "3.1":"a x #1 #2",
@@ -601,7 +604,7 @@
       "4.2-4.3":"a x #1 #2",
       "4.4":"a x #1 #2",
       "4.4.3-4.4.4":"a x #1 #2",
-      "127":"a #3"
+      "128":"a #3"
     },
     "bb":{
       "7":"a x #1 #2",
@@ -617,7 +620,7 @@
       "80":"a #3"
     },
     "and_chr":{
-      "127":"a #3"
+      "128":"a #3"
     },
     "and_ff":{
       "127":"a #4"
@@ -671,8 +674,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":18.44,
-  "usage_perc_a":79.35,
+  "usage_perc_y":18.74,
+  "usage_perc_a":78.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

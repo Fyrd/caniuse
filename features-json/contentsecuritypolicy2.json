@@ -86,7 +86,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"n",
@@ -221,7 +222,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "chrome":{
       "4":"n",
@@ -349,7 +351,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"n",
@@ -562,7 +565,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"y"
+      "128":"y"
     },
     "bb":{
       "7":"n",
@@ -578,7 +581,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"y"
@@ -634,8 +637,8 @@
     "5":"Chrome 39 and Opera 26 are missing the child-src, base-uri, and form-action directives.",
     "6":"Edge has broken nonce support as it ignores nonces on sourced scripts."
   },
-  "usage_perc_y":97.08,
-  "usage_perc_a":0.07,
+  "usage_perc_y":96.3,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,header,nonce,hash",

@@ -84,7 +84,8 @@
       "124":"y #3",
       "125":"y #3",
       "126":"y #3",
-      "127":"y #3"
+      "127":"y #3",
+      "128":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -219,7 +220,8 @@
       "129":"y #3",
       "130":"y #3",
       "131":"y #3",
-      "132":"y #3"
+      "132":"y #3",
+      "133":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -347,7 +349,8 @@
       "127":"y #3",
       "128":"y #3",
       "129":"y #3",
-      "130":"y #3"
+      "130":"y #3",
+      "131":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -560,7 +563,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"n"
+      "128":"n"
     },
     "bb":{
       "7":"n",
@@ -576,7 +579,7 @@
       "80":"y #3"
     },
     "and_chr":{
-      "127":"y #3"
+      "128":"y #3"
     },
     "and_ff":{
       "127":"y #3"
@@ -629,7 +632,7 @@
     "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
     "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](/mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](/mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
-  "usage_perc_y":94.4,
+  "usage_perc_y":94.11,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

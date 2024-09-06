@@ -80,7 +80,8 @@
       "124":"a #1",
       "125":"a #1",
       "126":"a #1",
-      "127":"a #1"
+      "127":"a #1",
+      "128":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -215,7 +216,8 @@
       "129":"a #2",
       "130":"a #2",
       "131":"a #2",
-      "132":"a #2"
+      "132":"a #2",
+      "133":"a #2"
     },
     "chrome":{
       "4":"u",
@@ -343,7 +345,8 @@
       "127":"a #1",
       "128":"a #1",
       "129":"a #1",
-      "130":"a #1"
+      "130":"a #1",
+      "131":"a #1"
     },
     "safari":{
       "3.1":"u",
@@ -556,7 +559,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "127":"a #1"
+      "128":"a #1"
     },
     "bb":{
       "7":"a #1",
@@ -572,7 +575,7 @@
       "80":"a #1"
     },
     "and_chr":{
-      "127":"a #1"
+      "128":"a #1"
     },
     "and_ff":{
       "127":"a #2"
@@ -625,7 +628,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":97.8,
+  "usage_perc_a":97.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

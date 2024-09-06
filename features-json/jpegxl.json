@@ -23,6 +23,14 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=208235",
       "title":"WebKit support bug"
+    },
+    {
+      "url":"https://github.com/mozilla/standards-positions/issues/522",
+      "title":"Request for Mozilla position on JPEG XL"
+    },
+    {
+      "url":"https://github.com/mozilla/standards-positions/pull/1064",
+      "title":"2024 update on the request for Mozilla position on JPEG XL"
     }
   ],
   "bugs":[
@@ -96,7 +104,8 @@
       "124":"n",
       "125":"n",
       "126":"n",
-      "127":"n"
+      "127":"n",
+      "128":"n"
     },
     "firefox":{
       "2":"n",
@@ -231,7 +240,8 @@
       "129":"n d #2",
       "130":"n d #2",
       "131":"n d #2",
-      "132":"n d #2"
+      "132":"n d #2",
+      "133":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -359,7 +369,8 @@
       "127":"n",
       "128":"n",
       "129":"n",
-      "130":"n"
+      "130":"n",
+      "131":"n"
     },
     "safari":{
       "3.1":"n",
@@ -572,7 +583,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"n"
+      "128":"n"
     },
     "bb":{
       "7":"n",
@@ -588,7 +599,7 @@
       "80":"n"
     },
     "and_chr":{
-      "127":"n"
+      "128":"n"
     },
     "and_ff":{
       "127":"n"
@@ -642,7 +653,7 @@
     "3":"Can be enabled via the `--enable-features=JXL` runtime flag.",
     "4":"Supports still images. Animated image sequences are not supported."
   },
-  "usage_perc_y":12.84,
+  "usage_perc_y":13.23,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

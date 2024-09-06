@@ -122,7 +122,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"p",
@@ -257,7 +258,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "chrome":{
       "4":"y",
@@ -385,7 +387,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"y",
@@ -598,7 +601,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "127":"y #4"
+      "128":"y #4"
     },
     "bb":{
       "7":"n",
@@ -614,7 +617,7 @@
       "80":"y #4"
     },
     "and_chr":{
-      "127":"y #4"
+      "128":"y #4"
     },
     "and_ff":{
       "127":"n"
@@ -668,8 +671,8 @@
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`.",
     "4":"Not supported in Chromium browsers on Android 6 or older."
   },
-  "usage_perc_y":93.86,
-  "usage_perc_a":0.61,
+  "usage_perc_y":93.46,
+  "usage_perc_a":0.6,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

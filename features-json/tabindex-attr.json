@@ -82,7 +82,8 @@
       "124":"y",
       "125":"y",
       "126":"y",
-      "127":"y"
+      "127":"y",
+      "128":"y"
     },
     "firefox":{
       "2":"u",
@@ -217,7 +218,8 @@
       "129":"y #1",
       "130":"y #1",
       "131":"y #1",
-      "132":"y #1"
+      "132":"y #1",
+      "133":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -345,7 +347,8 @@
       "127":"y",
       "128":"y",
       "129":"y",
-      "130":"y"
+      "130":"y",
+      "131":"y"
     },
     "safari":{
       "3.1":"u",
@@ -558,7 +561,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "127":"u"
+      "128":"u"
     },
     "bb":{
       "7":"u",
@@ -574,7 +577,7 @@
       "80":"y"
     },
     "and_chr":{
-      "127":"y"
+      "128":"y"
     },
     "and_ff":{
       "127":"y"
@@ -627,7 +630,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":94.89,
+  "usage_perc_y":94.98,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
