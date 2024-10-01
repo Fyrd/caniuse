@@ -30,7 +30,9 @@
     }
   ],
   "bugs":[
-    
+    {
+      "description":"In Safari 18, the document element cannot be a container. See <a href='https://webkit.org/b/271040'>bug 271040</a>."
+    }
   ],
   "categories":[
     "CSS"
@@ -412,7 +414,7 @@
       "17.4":"n",
       "17.5":"n",
       "17.6":"n",
-      "18.0":"a #2",
+      "18.0":"a #2 #3",
       "18.1":"a #2",
       "TP":"a #2"
     },
@@ -567,7 +569,7 @@
       "17.5":"n",
       "17.6":"n",
       "18.0":"a #2",
-      "18.1":"a #2"
+      "18.1":"a #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -648,7 +650,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
-    "2":"Partial support refers to only working with CSS custom property values in the `style()` query"
+    "2":"Partial support refers to only working with CSS custom property values in the `style()` query",
+    "3":"The document element cannot be a container"
   },
   "usage_perc_y":0,
   "usage_perc_a":71.04,
