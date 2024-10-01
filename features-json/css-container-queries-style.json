@@ -31,7 +31,7 @@
   ],
   "bugs":[
     {
-      "description":"In Safari 18, the document element cannot be a container. See <a href='https://webkit.org/b/271040'>bug 271040</a>."
+      "description":"In Safari 18, the root element cannot be a container. See <a href='https://webkit.org/b/271040'>bug 271040</a>."
     }
   ],
   "categories":[
@@ -651,7 +651,7 @@
   "notes_by_num":{
     "1":"Enabled through the \"Experimental Web Platform features\" flag in `chrome://flags`",
     "2":"Partial support refers to only working with CSS custom property values in the `style()` query",
-    "3":"The document element cannot be a container"
+    "3":"The root element cannot be a container"
   },
   "usage_perc_y":0,
   "usage_perc_a":71.04,
