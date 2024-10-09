@@ -629,7 +629,7 @@
       "3.0-3.1":"a #2"
     }
   },
-  "notes":"Mutation events are deprecated and have been removed from the Spec as of 2024-09-07. See instead support for [Mutation Observer](https://caniuse.com/mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
+  "notes":"Mutation events are deprecated and have been removed from the Spec as of 2024-09-07. Instead see support for [Mutation Observer](https://caniuse.com/mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
   "notes_by_num":{
     "1":"Does not support `DOMAttrModified`",
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
