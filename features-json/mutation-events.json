@@ -2,7 +2,7 @@
   "title":"Mutation events",
   "description":"Deprecated mechanism for listening to changes made to the DOM, replaced by Mutation Observers.",
   "spec":"https://www.w3.org/TR/2024/WD-uievents-20240906/#legacy-mutationevent-events",
-  "status":"wd",
+  "status":"unoff",
   "links":[
     {
       "url":"https://developer.mozilla.org/en-US/docs/Web/API/MutationEvent",
@@ -629,13 +629,13 @@
       "3.0-3.1":"a #2"
     }
   },
-  "notes":"Mutation events are deprecated and have been removed from the Spec as of 2024-09-07. Instead see support for [Mutation Observer](https://caniuse.com/mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
+  "notes":"Mutation events are deprecated and have been removed from the spec as of 2024-09-07. Instead see support for [Mutation Observer](/mutationobserver), which replaces mutation events and does not have the same performance drawbacks.",
   "notes_by_num":{
     "1":"Does not support `DOMAttrModified`",
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":97.01,
+  "usage_perc_a":32.94,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",
