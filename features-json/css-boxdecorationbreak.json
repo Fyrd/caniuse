@@ -15,6 +15,10 @@
     {
       "url":"https://bugs.chromium.org/p/chromium/issues/detail?id=682224",
       "title":"Chromium bug to unprefix `-webkit-box-decoration-break`"
+    },
+    {
+      "url":"https://github.com/WebKit/standards-positions/issues/366",
+      "title":"WebKit position request to support box-decoration-break everywhere without prefix"
     }
   ],
   "bugs":[
@@ -91,7 +95,7 @@
       "127":"a x #1",
       "128":"a x #1",
       "129":"a x #1",
-      "130":"a x #1"
+      "130":"y"
     },
     "firefox":{
       "2":"n",
@@ -356,10 +360,10 @@
       "127":"a x #1",
       "128":"a x #1",
       "129":"a x #1",
-      "130":"a x #1",
-      "131":"a x #1",
-      "132":"a x #1",
-      "133":"a x #1"
+      "130":"y",
+      "131":"y",
+      "132":"y",
+      "133":"y"
     },
     "safari":{
       "3.1":"n",
@@ -649,6 +653,6 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"box-decoration,box decoration,break",
-  "chrome_id":"",
+  "chrome_id":"5162398704205824",
   "shown":true
 }
