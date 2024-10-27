@@ -405,7 +405,7 @@
       "17.6":"n",
       "18.0":"n",
       "18.1":"n",
-      "TP":"y"
+      "TP":"a #3"
     },
     "opera":{
       "9":"n",
@@ -642,7 +642,8 @@
   "notes":"Firefox supports the `takePhoto()` method only (when flag is enabled).",
   "notes_by_num":{
     "1":"Can be enabled via the about:config entry dom.imagecapture.enabled.",
-    "2":"Can be enabled via the Experimental Web Platform Features flag."
+    "2":"Can be enabled via the Experimental Web Platform Features flag.",
+    "3":"Partial support refers to not supporting `grabFrame()`."
   },
   "usage_perc_y":75.28,
   "usage_perc_a":0,
