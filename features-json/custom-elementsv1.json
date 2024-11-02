@@ -562,7 +562,7 @@
       "17.3":"a #1",
       "17.4":"a #1",
       "17.5":"a #1",
-      "17.6":"a #1",
+      "17.6-17.7":"a #1",
       "18.0":"a #1",
       "18.1":"a #1"
     },
@@ -629,7 +629,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -648,8 +649,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":77.76,
-  "usage_perc_a":18.22,
+  "usage_perc_y":77.78,
+  "usage_perc_a":17.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",

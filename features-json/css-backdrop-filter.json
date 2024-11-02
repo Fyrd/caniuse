@@ -567,7 +567,7 @@
       "17.3":"y x",
       "17.4":"y x",
       "17.5":"y x",
-      "17.6":"y x",
+      "17.6-17.7":"y x",
       "18.0":"y",
       "18.1":"y"
     },
@@ -634,7 +634,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -653,7 +654,7 @@
     "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
     "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` and `gfx.webrender.all` preference to `true` in about:config."
   },
-  "usage_perc_y":95.5,
+  "usage_perc_y":95.05,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

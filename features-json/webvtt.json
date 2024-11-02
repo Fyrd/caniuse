@@ -566,7 +566,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -633,7 +633,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -651,7 +652,7 @@
     "1":"Firefox 31 - 54 lacks support for the `::cue` pseudo-element. [See bug #865395.](https://bugzilla.mozilla.org/show_bug.cgi?id=865395)",
     "2":"Firefox 55+ implements `::cue` but still lacks support for the `::cue(<selector>)` pseudo-element with selector. [See bug #1321489.](https://bugzilla.mozilla.org/show_bug.cgi?id=1321489)"
   },
-  "usage_perc_y":96.94,
+  "usage_perc_y":96.31,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",

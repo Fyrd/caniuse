@@ -561,7 +561,7 @@
       "17.3":"a",
       "17.4":"a",
       "17.5":"a",
-      "17.6":"a",
+      "17.6-17.7":"a",
       "18.0":"a",
       "18.1":"a"
     },
@@ -628,7 +628,8 @@
       "22":"a #1",
       "23":"a #1",
       "24":"a #1",
-      "25":"a #1"
+      "25":"a #1",
+      "26":"a #1"
     },
     "and_qq":{
       "14.9":"n"
@@ -645,8 +646,8 @@
   "notes_by_num":{
     "1":"Partial support refers to lacking support for image symbols: [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024179), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1176323)"
   },
-  "usage_perc_y":1.14,
-  "usage_perc_a":89.14,
+  "usage_perc_y":1.23,
+  "usage_perc_a":89.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"css @counter-style, list-style",

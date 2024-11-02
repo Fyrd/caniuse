@@ -570,7 +570,7 @@
       "17.3":"a",
       "17.4":"a",
       "17.5":"a",
-      "17.6":"a",
+      "17.6-17.7":"a",
       "18.0":"a",
       "18.1":"a"
     },
@@ -637,7 +637,8 @@
       "22":"a",
       "23":"a",
       "24":"a",
-      "25":"a"
+      "25":"a",
+      "26":"a"
     },
     "and_qq":{
       "14.9":"a"
@@ -654,8 +655,8 @@
   "notes_by_num":{
     "1":"`compassneedscalibration` supported in IE11 only for compatible devices with Windows 8.1+."
   },
-  "usage_perc_y":0.07,
-  "usage_perc_a":93.6,
+  "usage_perc_y":0.05,
+  "usage_perc_a":93.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"ondeviceorientation,ondevicemotion",

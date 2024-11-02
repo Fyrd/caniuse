@@ -553,7 +553,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -620,7 +620,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -643,8 +644,8 @@
     "6":"No support for premultiplyAlpha with `ImageData` as Source Image. See [this bug](https://bugs.webkit.org/show_bug.cgi?id=237082)",
     "7":"No support for resizeQuality. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1363861)"
   },
-  "usage_perc_y":88.5,
-  "usage_perc_a":6.69,
+  "usage_perc_y":88.57,
+  "usage_perc_a":6.18,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

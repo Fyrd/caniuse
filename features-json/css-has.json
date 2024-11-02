@@ -569,7 +569,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -636,7 +636,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -654,7 +655,7 @@
     "1":"Can be enabled via the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "2":"Supported in Firefox behind the `layout.css.has-selector.enabled` flag, which is enabled by default since 119 (only Nightly)"
   },
-  "usage_perc_y":91.66,
+  "usage_perc_y":91.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

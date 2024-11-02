@@ -565,7 +565,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -632,7 +632,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -654,8 +655,8 @@
     "5":"Supports only still images by default. Animated image sequences can be enabled via the `image.avif.sequence.enabled` pref in `about:config`.",
     "6":"Can be enabled via the `--enable-features=msEdgeAVIF` runtime flag in insider channels."
   },
-  "usage_perc_y":92.39,
-  "usage_perc_a":0.25,
+  "usage_perc_y":92.32,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

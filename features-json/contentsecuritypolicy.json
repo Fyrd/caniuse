@@ -569,7 +569,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -636,7 +636,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -654,8 +655,8 @@
     "1":"Supported through the `X-Content-Security-Policy` header",
     "2":"Supported through the `X-WebKit-CSP` header"
   },
-  "usage_perc_y":96.47,
-  "usage_perc_a":0.49,
+  "usage_perc_y":95.89,
+  "usage_perc_a":0.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"csp,security,header",

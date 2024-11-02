@@ -557,7 +557,7 @@
       "17.3":"y #3",
       "17.4":"y #3",
       "17.5":"y #3",
-      "17.6":"y #3",
+      "17.6-17.7":"y #3",
       "18.0":"y #3",
       "18.1":"y #3"
     },
@@ -624,7 +624,8 @@
       "22":"y #3",
       "23":"y #3",
       "24":"y #3",
-      "25":"y #3"
+      "25":"y #3",
+      "26":"y #3"
     },
     "and_qq":{
       "14.9":"n"
@@ -643,7 +644,7 @@
     "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
     "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](/mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](/mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
-  "usage_perc_y":94.11,
+  "usage_perc_y":93.87,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

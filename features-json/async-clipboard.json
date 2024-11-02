@@ -565,7 +565,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -632,7 +632,8 @@
       "22":"a #2",
       "23":"a #2",
       "24":"a #2",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -650,8 +651,8 @@
     "1":"Partial support refers to only supporting the \"writeText\" method.",
     "2":"Supports writing to clipboard but not reading."
   },
-  "usage_perc_y":94.13,
-  "usage_perc_a":1.2,
+  "usage_perc_y":93.88,
+  "usage_perc_a":1,
   "ucprefix":false,
   "parent":"",
   "keywords":"clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",

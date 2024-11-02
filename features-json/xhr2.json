@@ -576,7 +576,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -643,7 +643,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -663,8 +664,8 @@
     "3":"Partial support refers to not supporting `blob` as `responseType`",
     "4":"Partial support refers to missing some newer `FormData` functionality (search for specific APIs for details)."
   },
-  "usage_perc_y":96.09,
-  "usage_perc_a":0.87,
+  "usage_perc_y":95.56,
+  "usage_perc_a":0.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"xhr level 2",

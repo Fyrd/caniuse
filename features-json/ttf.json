@@ -559,7 +559,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -626,7 +626,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -643,8 +644,8 @@
   "notes_by_num":{
     "1":"Partial support in IE9+ refers to the fonts only working [when set to be \"installable\"](http://blogs.msdn.com/b/ie/archive/2010/07/15/the-css-corner-better-web-typography-for-better-design.aspx). Support for this is tracked [here](https://status.modern.ie/crossdomainfontloading)."
   },
-  "usage_perc_y":96.48,
-  "usage_perc_a":0.53,
+  "usage_perc_y":95.9,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"fontface",
   "keywords":"",

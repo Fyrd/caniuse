@@ -553,7 +553,7 @@
       "17.3":"y #5",
       "17.4":"y #5",
       "17.5":"y #5",
-      "17.6":"y #5",
+      "17.6-17.7":"y #5",
       "18.0":"y",
       "18.1":"y"
     },
@@ -620,7 +620,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -641,8 +642,8 @@
     "4":"Requires macOS 11 Big Sur or later.",
     "5":"Since Sept 2024, HTTP3 is enabled for all users of Safari 16 and newer. Before then, it was enabled for a subset of users. Enabling the feature flag ensured support."
   },
-  "usage_perc_y":92.85,
-  "usage_perc_a":1.68,
+  "usage_perc_y":92.65,
+  "usage_perc_a":1.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"https/3",

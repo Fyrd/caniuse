@@ -554,7 +554,7 @@
       "17.3":"n",
       "17.4":"n",
       "17.5":"n",
-      "17.6":"n",
+      "17.6-17.7":"n",
       "18.0":"n",
       "18.1":"n"
     },
@@ -621,7 +621,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -641,8 +642,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":48.97,
-  "usage_perc_a":26.44,
+  "usage_perc_y":47.04,
+  "usage_perc_a":28.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

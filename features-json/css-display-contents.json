@@ -558,7 +558,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -625,7 +625,8 @@
       "22":"a #2",
       "23":"a #2",
       "24":"a #2",
-      "25":"a #2"
+      "25":"a #2",
+      "26":"a #2"
     },
     "and_qq":{
       "14.9":"a #1"
@@ -644,8 +645,8 @@
     "2":"Buttons are not accessible with `display: contents` applied. See issues for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1366037), [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1791648), and [WebKit](https://bugs.webkit.org/show_bug.cgi?id=255149)",
     "3":"HTML tables and nodes with ARIA roles `directory`, `grid`, `treegrid`, `table`, `row`, `gridcell`, `cell`, `columnheader`, `tree`, and `treeitem` are not accessible with `display: contents` applied. See WebKit bugs [239478](https://bugs.webkit.org/show_bug.cgi?id=239478), [239479](https://bugs.webkit.org/show_bug.cgi?id=239479), [239478](https://bugs.webkit.org/show_bug.cgi?id=239478), and [257458](https://bugs.webkit.org/show_bug.cgi?id=257458)"
   },
-  "usage_perc_y":11.09,
-  "usage_perc_a":84.75,
+  "usage_perc_y":11.03,
+  "usage_perc_a":84.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

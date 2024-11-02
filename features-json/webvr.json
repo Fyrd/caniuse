@@ -575,7 +575,7 @@
       "17.3":"n",
       "17.4":"n",
       "17.5":"n",
-      "17.6":"n",
+      "17.6-17.7":"n",
       "18.0":"n",
       "18.1":"n"
     },
@@ -642,7 +642,8 @@
       "22":"a #3",
       "23":"a #3",
       "24":"a #3",
-      "25":"a #3"
+      "25":"a #3",
+      "26":"a #3"
     },
     "and_qq":{
       "14.9":"n"
@@ -661,8 +662,8 @@
     "2":"[Was in development](https://blogs.windows.com/msedgedev/2016/09/09/webvr-in-development-edge/#3lMW05DTZXbXcK46.97) in the latest Edge builds and supported only [Windows Mixed Reality](https://developer.microsoft.com/en-us/windows/mixed-reality).",
     "3":"Supports only Samsung Galaxy devices with the Samsung Gear VR"
   },
-  "usage_perc_y":2.36,
-  "usage_perc_a":1.66,
+  "usage_perc_y":2.34,
+  "usage_perc_a":0.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"getvrdevices,getvrdisplays,getdisplays,navigator.vr",

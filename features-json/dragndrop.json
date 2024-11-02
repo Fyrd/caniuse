@@ -595,7 +595,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -662,7 +662,8 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"n"
+      "25":"n",
+      "26":"n"
     },
     "and_qq":{
       "14.9":"y"
@@ -682,8 +683,8 @@
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`.",
     "4":"Not supported in Chromium browsers on Android 6 or older."
   },
-  "usage_perc_y":93.46,
-  "usage_perc_a":0.6,
+  "usage_perc_y":94.17,
+  "usage_perc_a":0.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

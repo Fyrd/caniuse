@@ -553,7 +553,7 @@
       "17.3":"a #3",
       "17.4":"a #3",
       "17.5":"a #3",
-      "17.6":"a #3",
+      "17.6-17.7":"a #3",
       "18.0":"a #3",
       "18.1":"a #3"
     },
@@ -620,7 +620,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -641,8 +642,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":82.01,
-  "usage_perc_a":15.05,
+  "usage_perc_y":81.84,
+  "usage_perc_a":14.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -582,7 +582,7 @@
       "17.3":"a #2",
       "17.4":"a #2",
       "17.5":"a #2",
-      "17.6":"a #2",
+      "17.6-17.7":"a #2",
       "18.0":"a #2",
       "18.1":"a #2"
     },
@@ -649,7 +649,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -667,8 +668,8 @@
     "1":"Old Firefox versions were missing support for some properties: `loop` was added in v11, `played` in v15, `playbackRate` in v20.",
     "2":"iOS volume is read-only."
   },
-  "usage_perc_y":82.08,
-  "usage_perc_a":14.93,
+  "usage_perc_y":81.89,
+  "usage_perc_a":14.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"<audio>",

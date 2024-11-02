@@ -577,7 +577,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -644,7 +644,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -662,8 +663,8 @@
     "1":"Partial support in Android browser refers to buggy behavior in different scenarios.",
     "2":"Does not support the `steps()`, `step-start` & `step-end` timing functions"
   },
-  "usage_perc_y":96.96,
-  "usage_perc_a":0.01,
+  "usage_perc_y":96.33,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"animations,css-animations,animation-name,animation-duration,animation-delay,animation-timing-function,animation-iteration-count,@keyframes,animationstart,animationend,animationiteration,css3 animation,steps,step-start,step-end,cubic-bezier",

@@ -558,7 +558,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -625,7 +625,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -644,8 +645,8 @@
     "2":"Desktop Chrome 39-72 claimed to have support, but did not actually use the color anywhere. Chrome for Android did use the color in the toolbar.",
     "3":"Chrome for Android does not use the color on devices with native `dark-mode` enabled before Chrome 92 unless it's an installed `progressive web app` or a `trusted web activity`."
   },
-  "usage_perc_y":63.15,
-  "usage_perc_a":20.92,
+  "usage_perc_y":60.94,
+  "usage_perc_a":22.1,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

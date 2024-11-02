@@ -569,7 +569,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -636,7 +636,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -654,8 +655,8 @@
     "1":"Only supported on Android & Mac platforms (and only the \"auto\" value) for now. [See commit](https://crrev.com/ed7e106e0e48b3afb160a5bdbb37649e307d2b05) & related [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=652964).",
     "2":"Only supported on Android & Mac platforms"
   },
-  "usage_perc_y":96.19,
-  "usage_perc_a":0.58,
+  "usage_perc_y":95.64,
+  "usage_perc_a":0.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"hyphen,shy",

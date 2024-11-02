@@ -553,7 +553,7 @@
       "17.3":"n",
       "17.4":"n",
       "17.5":"n",
-      "17.6":"n",
+      "17.6-17.7":"n",
       "18.0":"n",
       "18.1":"n"
     },
@@ -620,7 +620,8 @@
       "22":"n",
       "23":"n",
       "24":"n",
-      "25":"n"
+      "25":"n",
+      "26":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -637,7 +638,7 @@
   "notes_by_num":{
     "1":"Prefixed implementation uses `msGetInputContext()` method from an earlier version of the spec to get the `InputMethodContext`, rather than the `inputMethodContext` attribute. Also includes support for `getCompositionAlternatives()` from the latest Editor'"
   },
-  "usage_perc_y":0.55,
+  "usage_perc_y":0.5,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

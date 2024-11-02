@@ -557,7 +557,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -624,7 +624,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -645,8 +646,8 @@
     "4":"`let` bindings in for loops are incorrectly treated as function-scoped instead of block scoped.",
     "5":"`let` variables are not bound separately to each iteration of `for` loops"
   },
-  "usage_perc_y":96.19,
-  "usage_perc_a":0.67,
+  "usage_perc_y":95.64,
+  "usage_perc_a":0.6,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,variable,block,scope",

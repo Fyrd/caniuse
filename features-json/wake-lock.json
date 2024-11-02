@@ -567,7 +567,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -634,7 +634,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -652,7 +653,7 @@
     "1":"Available behind the #experimental-web-platform-features feature flag",
     "2":"Available behind the `dom.screenwakelock.enabled` flag, which is only enabled by default in early Beta or earlier"
   },
-  "usage_perc_y":91.18,
+  "usage_perc_y":91.24,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

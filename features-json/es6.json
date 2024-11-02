@@ -561,7 +561,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -628,7 +628,8 @@
       "22":"y #2",
       "23":"y #2",
       "24":"y #2",
-      "25":"y #2"
+      "25":"y #2",
+      "26":"y #2"
     },
     "and_qq":{
       "14.9":"y #2"
@@ -647,8 +648,8 @@
     "2":"Does not support [tail call optimization](https://compat-table.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":96.11,
-  "usage_perc_a":0.83,
+  "usage_perc_y":95.58,
+  "usage_perc_a":0.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

@@ -577,7 +577,7 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y",
+      "17.6-17.7":"y",
       "18.0":"y",
       "18.1":"y"
     },
@@ -644,7 +644,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -663,8 +664,8 @@
     "2":"The initial Chrome prototype used an earlier draft syntax based on the `contain` property",
     "3":"Combining size container queries and table layout inside a multicolumn layout doesn't work"
   },
-  "usage_perc_y":90.95,
-  "usage_perc_a":0.02,
+  "usage_perc_y":90.73,
+  "usage_perc_a":0.01,
   "ucprefix":false,
   "parent":"",
   "keywords":"container query,@container,container-name,container-type",

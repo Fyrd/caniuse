@@ -561,7 +561,7 @@
       "17.3":"a #4",
       "17.4":"a #4",
       "17.5":"a #4",
-      "17.6":"a #4",
+      "17.6-17.7":"a #4",
       "18.0":"a #4",
       "18.1":"a #4"
     },
@@ -628,7 +628,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"a #4"
@@ -650,8 +651,8 @@
     "5":"No support for `WritableStream`.",
     "6":"No support for the `pipeTo` or `pipeThrough` methods"
   },
-  "usage_perc_y":76.9,
-  "usage_perc_a":19.14,
+  "usage_perc_y":77,
+  "usage_perc_a":18.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"streams,writablestream,readablestream",

@@ -565,7 +565,7 @@
       "17.3":"a #4",
       "17.4":"a #4",
       "17.5":"a #4",
-      "17.6":"a #4",
+      "17.6-17.7":"a #4",
       "18.0":"a #4",
       "18.1":"a #4"
     },
@@ -632,7 +632,8 @@
       "22":"a #1",
       "23":"a #1",
       "24":"a #1",
-      "25":"a #1"
+      "25":"a #1",
+      "26":"a #1"
     },
     "and_qq":{
       "14.9":"a #4"
@@ -654,7 +655,7 @@
     "5":"Does not support `fromMatrix()`, `fromFloat32Array()`, `fromFloat64Array()`, and `toJSON()` methods"
   },
   "usage_perc_y":0,
-  "usage_perc_a":96.95,
+  "usage_perc_a":96.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"matrix,WebKitCSSMatrix,MSCSSMatrix,CSSMatrix,DOMMatrix,DOMMatrixReadOnly",

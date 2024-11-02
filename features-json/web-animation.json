@@ -566,7 +566,7 @@
       "17.3":"y #5",
       "17.4":"y #5",
       "17.5":"y #5",
-      "17.6":"y #5",
+      "17.6-17.7":"y #5",
       "18.0":"y #5",
       "18.1":"y #5"
     },
@@ -633,7 +633,8 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y"
     },
     "and_qq":{
       "14.9":"a #2"
@@ -654,8 +655,8 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu",
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
-  "usage_perc_y":94.69,
-  "usage_perc_a":1.13,
+  "usage_perc_y":94.31,
+  "usage_perc_a":0.98,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState,WAAPI",
