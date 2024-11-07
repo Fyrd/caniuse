@@ -426,6 +426,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -582,7 +583,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -668,7 +670,7 @@
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`.",
     "4":"Does not support `x` unit (alias for `dppx` unit), e.g: `@media (min-resolution: 2x) { }`."
   },
-  "usage_perc_y":93.31,
+  "usage_perc_y":95.34,
   "usage_perc_a":3.12,
   "ucprefix":false,
   "parent":"css-mediaqueries",

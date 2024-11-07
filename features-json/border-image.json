@@ -408,6 +408,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -564,7 +565,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"a x #2 #3 #4"
@@ -650,7 +652,7 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":96.05,
+  "usage_perc_y":98.08,
   "usage_perc_a":0.34,
   "ucprefix":false,
   "parent":"",

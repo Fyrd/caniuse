@@ -423,6 +423,7 @@
       "17.6":"a #6",
       "18.0":"a #6",
       "18.1":"a #6",
+      "18.2":"a #6",
       "TP":"a #6"
     },
     "opera":{
@@ -579,7 +580,8 @@
       "17.5":"a #2",
       "17.6-17.7":"a #2",
       "18.0":"a #2",
-      "18.1":"a #2"
+      "18.1":"a #2",
+      "18.2":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -667,8 +669,8 @@
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
     "6":"Partial support refers to not supporting the `week` and `month` input type"
   },
-  "usage_perc_y":75.55,
-  "usage_perc_a":20.15,
+  "usage_perc_y":77.41,
+  "usage_perc_a":20.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"datepicker,timepicker,inputdate,input type=\"date\",input type=\"time\",input date,datetime-local",

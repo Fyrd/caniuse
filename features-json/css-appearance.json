@@ -403,6 +403,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -559,7 +560,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -644,7 +646,7 @@
     "2":"Microsoft Edge and IE Mobile support this property with the `-webkit-` prefix, rather than `-ms-` for interop reasons.",
     "3":"`-moz-appearance:none` did not remove the dropdown arrow in the select tag"
   },
-  "usage_perc_y":93.81,
+  "usage_perc_y":95.84,
   "usage_perc_a":2.09,
   "ucprefix":false,
   "parent":"",

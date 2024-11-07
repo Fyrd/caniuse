@@ -420,6 +420,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -576,7 +577,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -662,7 +664,7 @@
     "3":"Partial support in Firefox before version 34 [only implemented the url() function of the filter property](https://developer.mozilla.org/en-US/docs/Web/CSS/filter#Browser_compatibility)",
     "4":"Partial support refers to supporting filter functions, but not the `url` function."
   },
-  "usage_perc_y":95.82,
+  "usage_perc_y":97.85,
   "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"",

@@ -426,6 +426,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -582,7 +583,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -667,7 +669,7 @@
     "2":"Partial support in IE9-11 refers to not supporting animations.",
     "3":"IE9-11 & Edge don't properly scale SVG files. [Adding height, width, viewBox, and CSS rules](https://codepen.io/tomByrer/pen/qEBbzw?editors=110) seems to be the best workaround."
   },
-  "usage_perc_y":95.95,
+  "usage_perc_y":97.98,
   "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"",

@@ -428,6 +428,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -584,7 +585,8 @@
       "17.5":"y #5",
       "17.6-17.7":"y #5",
       "18.0":"y #5",
-      "18.1":"y #5"
+      "18.1":"y #5",
+      "18.2":"y #5"
     },
     "op_mini":{
       "all":"n"
@@ -673,7 +675,7 @@
     "6":"In Firefox, autocomplete must be set to off to make dynamic datalist work due to [a bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1474137)",
     "7":"Partial support refers to no support for datalists on [date and time](https://bugzilla.mozilla.org/show_bug.cgi?id=1905313) fields."
   },
-  "usage_perc_y":92.76,
+  "usage_perc_y":94.79,
   "usage_perc_a":2.92,
   "ucprefix":false,
   "parent":"",

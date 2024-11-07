@@ -407,6 +407,7 @@
       "17.6":"a",
       "18.0":"a",
       "18.1":"a",
+      "18.2":"a",
       "TP":"a"
     },
     "opera":{
@@ -563,7 +564,8 @@
       "17.5":"a",
       "17.6-17.7":"a",
       "18.0":"a",
-      "18.1":"a"
+      "18.1":"a",
+      "18.2":"a"
     },
     "op_mini":{
       "all":"n"
@@ -647,7 +649,7 @@
     "1":"Partial support refers to lacking support for image symbols: [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024179), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1176323)"
   },
   "usage_perc_y":1.23,
-  "usage_perc_a":89.16,
+  "usage_perc_a":91.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"css @counter-style, list-style",

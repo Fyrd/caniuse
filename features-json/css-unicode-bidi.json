@@ -399,6 +399,7 @@
       "17.6":"a x #3",
       "18.0":"a x #3",
       "18.1":"a x #3",
+      "18.2":"a x #3",
       "TP":"a x #3"
     },
     "opera":{
@@ -555,7 +556,8 @@
       "17.5":"a x #3",
       "17.6-17.7":"a x #3",
       "18.0":"a x #3",
-      "18.1":"a x #3"
+      "18.1":"a x #3",
+      "18.2":"a x #3"
     },
     "op_mini":{
       "all":"u"
@@ -640,8 +642,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":77.02,
-  "usage_perc_a":19.32,
+  "usage_perc_y":78.88,
+  "usage_perc_a":19.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

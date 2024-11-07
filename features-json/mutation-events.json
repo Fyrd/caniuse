@@ -399,6 +399,7 @@
       "17.6":"a #1",
       "18.0":"a #1",
       "18.1":"a #1",
+      "18.2":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -555,7 +556,8 @@
       "17.5":"a #1",
       "17.6-17.7":"a #1",
       "18.0":"a #1",
-      "18.1":"a #1"
+      "18.1":"a #1",
+      "18.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -640,7 +642,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":30.09,
+  "usage_perc_a":32.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

@@ -411,6 +411,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -567,7 +568,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -651,8 +653,8 @@
     "1":"Partial support refers to supporting a `<length>` value, but not the `each-line` or `hanging` keywords.",
     "2":"Support for `each-line` & `hanging` is available behind the Experimental Web Platform features flag"
   },
-  "usage_perc_y":17.26,
-  "usage_perc_a":79.22,
+  "usage_perc_y":17.42,
+  "usage_perc_a":81.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"each-line,hanging",

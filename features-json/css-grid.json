@@ -423,6 +423,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -579,7 +580,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -665,7 +667,7 @@
     "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag",
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))"
   },
-  "usage_perc_y":95.6,
+  "usage_perc_y":97.63,
   "usage_perc_a":0.45,
   "ucprefix":false,
   "parent":"",

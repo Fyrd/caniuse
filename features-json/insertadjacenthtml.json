@@ -405,6 +405,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -561,7 +562,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -644,7 +646,7 @@
   "notes_by_num":{
     "1":"Throws an \"Invalid target element for this operation.\" error [when called on a table, tbody, thead, or tr element.](https://johnresig.com/blog/dom-insertadjacenthtml/)"
   },
-  "usage_perc_y":96.39,
+  "usage_perc_y":98.42,
   "usage_perc_a":0.08,
   "ucprefix":false,
   "parent":"",

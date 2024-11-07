@@ -421,6 +421,7 @@
       "17.6":"a #2 #3",
       "18.0":"a #2 #3",
       "18.1":"a #2 #3",
+      "18.2":"a #2 #3",
       "TP":"a #2 #3"
     },
     "opera":{
@@ -577,7 +578,8 @@
       "17.5":"a #2 #3",
       "17.6-17.7":"a #2 #3",
       "18.0":"a #2 #3",
-      "18.1":"a #2 #3"
+      "18.1":"a #2 #3",
+      "18.2":"a #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -663,8 +665,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"At least partially supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":74.84,
-  "usage_perc_a":20.35,
+  "usage_perc_y":76.71,
+  "usage_perc_a":20.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",

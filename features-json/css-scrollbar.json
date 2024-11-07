@@ -421,6 +421,7 @@
       "17.6":"a x #2",
       "18.0":"a x #2",
       "18.1":"a x #2",
+      "18.2":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -577,7 +578,8 @@
       "17.5":"n",
       "17.6-17.7":"n",
       "18.0":"n",
-      "18.1":"n"
+      "18.1":"n",
+      "18.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -664,7 +666,7 @@
     "4":"Can be enabled by setting the layout.css.scrollbar-colors.enabled and layout.css.scrollbar-width.enabled flags to true.",
     "5":"Firefox 63 supported scrollbar-face-color and scrollbar-track-color separate properties (now dropped from the spec) instead of unified scrollbar-color property."
   },
-  "usage_perc_y":71.1,
+  "usage_perc_y":72.96,
   "usage_perc_a":11.22,
   "ucprefix":false,
   "parent":"",

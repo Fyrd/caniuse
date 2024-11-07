@@ -415,6 +415,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -571,7 +572,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -655,7 +657,7 @@
     "1":"Can be enabled with the \"layout.css.cascade-layers.enabled\" feature flag under `about:config`",
     "2":"Can be enabled in Chrome Canary using the `--enable-blink-features=CSSCascadeLayers` runtime flag"
   },
-  "usage_perc_y":93.35,
+  "usage_perc_y":95.38,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

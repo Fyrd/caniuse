@@ -415,6 +415,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -571,7 +572,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -656,7 +658,7 @@
     "2":"Can be enabled via the `Experimental canvas features` flag",
     "3":"Partial support refers to only supporting 2D contexts, not WebGL."
   },
-  "usage_perc_y":90.97,
+  "usage_perc_y":93,
   "usage_perc_a":1.79,
   "ucprefix":false,
   "parent":"",

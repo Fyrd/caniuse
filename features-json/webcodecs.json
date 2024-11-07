@@ -415,6 +415,7 @@
       "17.6":"a #1",
       "18.0":"a #1",
       "18.1":"a #1",
+      "18.2":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -571,7 +572,8 @@
       "17.5":"a #1",
       "17.6-17.7":"a #1",
       "18.0":"a #1",
-      "18.1":"a #1"
+      "18.1":"a #1",
+      "18.2":"a #1"
     },
     "op_mini":{
       "all":"n"
@@ -654,8 +656,8 @@
   "notes_by_num":{
     "1":"Video-only support"
   },
-  "usage_perc_y":75.68,
-  "usage_perc_a":14.59,
+  "usage_perc_y":77.55,
+  "usage_perc_a":14.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"VideoDecoder,AudioDecoder,VideoEncoder,AudioEncoder,EncodedAudioChunk,EncodedVideoChunk,AudioData,VideoFrame,VideoColorSpace,ImageDecoder,ImageTrackList,ImageTrack",

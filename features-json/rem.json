@@ -417,6 +417,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -573,7 +574,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"y"
@@ -657,7 +659,7 @@
     "1":"IE 9 & IE 10 do not support `rem` units when used in the `font` shorthand property (the entire declaration is ignored) or when used on pseudo elements.",
     "2":"iOS Safari 5.0-5.1 support `rem` but not in combination with media queries."
   },
-  "usage_perc_y":96.39,
+  "usage_perc_y":98.42,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

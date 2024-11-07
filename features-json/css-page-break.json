@@ -408,6 +408,7 @@
       "17.6":"a #1 #2 #3",
       "18.0":"a #1 #2 #3",
       "18.1":"a #1 #2 #3",
+      "18.2":"a #1 #2 #3",
       "TP":"a #1 #2 #3"
     },
     "opera":{
@@ -564,7 +565,8 @@
       "17.5":"a #1 #2 #3",
       "17.6-17.7":"a #1 #2 #3",
       "18.0":"a #1 #2 #3",
-      "18.1":"a #1 #2 #3"
+      "18.1":"a #1 #2 #3",
+      "18.2":"a #1 #2 #3"
     },
     "op_mini":{
       "all":"y #1"
@@ -649,8 +651,8 @@
     "2":"Partial support is due to not supporting `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always` (as allowed by specification)."
   },
-  "usage_perc_y":29.02,
-  "usage_perc_a":67.46,
+  "usage_perc_y":30.88,
+  "usage_perc_a":67.62,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

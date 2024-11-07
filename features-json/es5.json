@@ -411,6 +411,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -567,7 +568,8 @@
       "17.5":"y",
       "17.6-17.7":"y",
       "18.0":"y",
-      "18.1":"y"
+      "18.1":"y",
+      "18.2":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -653,7 +655,7 @@
     "3":"Does not support zero-width chars in identifiers & Immutable `undefined`",
     "4":"IE8 has virtually no ES5 support, but does support `Object.defineProperty`, `Object.getOwnPropertyDescriptor`, JSON parsing & Property access on strings"
   },
-  "usage_perc_y":96.32,
+  "usage_perc_y":98.35,
   "usage_perc_a":0.11,
   "ucprefix":false,
   "parent":"",

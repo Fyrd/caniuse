@@ -399,6 +399,7 @@
       "17.6":"y",
       "18.0":"y",
       "18.1":"y",
+      "18.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -555,7 +556,8 @@
       "17.5":"a #3",
       "17.6-17.7":"a #3",
       "18.0":"a #3",
-      "18.1":"a #3"
+      "18.1":"a #3",
+      "18.2":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -642,8 +644,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":81.84,
-  "usage_perc_a":14.58,
+  "usage_perc_y":83.71,
+  "usage_perc_a":14.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
