@@ -581,7 +581,7 @@
       "17.6-17.7":"a #2",
       "18.0":"a #2",
       "18.1":"a #2",
-      "18.2":"a #2"
+      "18.2":"y #7"
     },
     "op_mini":{
       "all":"n"
@@ -663,11 +663,12 @@
   "notes":"There used to also be a `datetime` type, but it was [dropped from the HTML spec](https://github.com/whatwg/html/issues/336).",
   "notes_by_num":{
     "1":"Partial support in Microsoft Edge refers to supporting `date`, `week`, and `month` input types, and not `time` and `datetime-local`.",
-    "2":"Partial support in iOS Safari refers to not supporting the `week` input type, nor the `min`, `max` or `step` attributes",
+    "2":"Partial support in iOS Safari refers to not supporting the `week` input type, nor the `min`, `max` or `step` attributes.",
     "3":"Some modified versions of the Android 4.x browser do have support for date/time fields.",
     "4":"Can be enabled in Firefox using the `dom.forms.datetime` flag.",
     "5":"Partial support refers to supporting `date` and `time` input types, but not `datetime-local`, `month` or `week`.",
-    "6":"Partial support refers to not supporting the `week` and `month` input type"
+    "6":"Partial support refers to not supporting the `week` and `month` input type.",
+    "7":"Does not support the `min`, `max` or `step` attributes on date inputs."
   },
   "usage_perc_y":77.41,
   "usage_perc_a":20.32,
