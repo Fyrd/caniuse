@@ -630,7 +630,8 @@
       "23":"y",
       "24":"y",
       "25":"y",
-      "26":"y"
+      "26":"y",
+      "27":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -651,8 +652,8 @@
     "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) `Referer` headers to the page's origin, ignoring the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies.",
     "5":"[Firefox 92+ ignores](https://bugzilla.mozilla.org/show_bug.cgi?id=1720294) the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies, defaulting to `strict-origin-when-cross-origin`."
   },
-  "usage_perc_y":97.39,
-  "usage_perc_a":0.85,
+  "usage_perc_y":97.28,
+  "usage_perc_a":1,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",
