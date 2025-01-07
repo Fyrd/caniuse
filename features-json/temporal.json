@@ -239,8 +239,8 @@
       "132":"n",
       "133":"n",
       "134":"n",
-      "135":"n",
-      "136":"n"
+      "135":"n d #1",
+      "136":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -661,7 +661,7 @@
   },
   "notes":"All browsers are working on implementing this.",
   "notes_by_num":{
-    
+    "1": "Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
