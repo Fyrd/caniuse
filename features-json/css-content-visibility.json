@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description": "[WebKit Bug 283846](https://bugs.webkit.org/show_bug.cgi?id=283846): in Safari, the `auto` value does not keep skipped content findable with the find-in-page feature."
+      "description":"[WebKit Bug 283846](https://bugs.webkit.org/show_bug.cgi?id=283846): in Safari, the `auto` value does not keep skipped content findable with the find-in-page feature."
     }
   ],
   "categories":[
@@ -661,7 +661,7 @@
   "notes_by_num":{
     "1":"Enabled in Firefox by setting the `about:config` preference `layout.css.content-visibility.enabled` to true"
   },
-  "usage_perc_y":89.43,
+  "usage_perc_y":89.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
