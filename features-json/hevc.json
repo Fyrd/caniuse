@@ -234,10 +234,10 @@
       "131":"n d #7",
       "132":"n d #7",
       "133":"n d #7",
-      "134":"n d #7",
-      "135":"n d #7",
-      "136":"n d #7",
-      "137":"n d #7"
+      "134":"a #8",
+      "135":"a #8",
+      "136":"a #9",
+      "137":"a #9"
     },
     "chrome":{
       "4":"n",
@@ -667,7 +667,9 @@
     "4":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0) if Edge >= 107, for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548) on Windows (>= Windows 10 1709) when [HEVC video extensions from the Microsoft Store](https://apps.microsoft.com/store/detail/hevc-video-extension/9NMZLZ57R3T7) is installed",
     "5":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0), for devices with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) on Windows (>= Windows 8), and for devices with hardware support powered by VAAPI on Linux and ChromeOS",
     "6":"Supported for devices with hardware support (the range is the same as Edge) on Windows in Nightly only. 10-bit or higher colors are not supported.",
-    "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported."
+    "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported.",
+    "8":"Supported for devices with hardware support (the range is the same as Edge) on Windows only.",
+    "9":"Supported for devices with hardware support (the range is the same as Edge) on Windows and all devices on macOS."
   },
   "usage_perc_y":18.73,
   "usage_perc_a":73.79,
