@@ -95,7 +95,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -594,7 +595,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -610,10 +611,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -664,7 +665,7 @@
     "1":"Partial in Safari refers to not supporting the `hue`, `saturation`, `color`, and `luminosity` blend modes.",
     "2":"Chrome 46 has some [serious bugs](https://code.google.com/p/chromium/issues/detail?id=543583) with multiply, difference, and exclusion blend modes"
   },
-  "usage_perc_y":97.14,
+  "usage_perc_y":96.87,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

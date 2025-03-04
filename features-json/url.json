@@ -95,7 +95,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -594,7 +595,7 @@
       "4.2-4.3":"n",
       "4.4":"n #1",
       "4.4.3-4.4.4":"y",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -610,10 +611,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -663,7 +664,7 @@
   "notes_by_num":{
     "1":"Allows objects to be created via `URL` constructor, but instances do not have the expected url properties."
   },
-  "usage_perc_y":97.29,
+  "usage_perc_y":96.99,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

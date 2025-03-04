@@ -85,7 +85,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -584,7 +585,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -600,10 +601,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -654,8 +655,8 @@
     "1":"Supported on macOS Big Sur 11.3 or later.",
     "2":"Supports the Vorbis audio codec, but not the Ogg container."
   },
-  "usage_perc_y":79.8,
-  "usage_perc_a":14.46,
+  "usage_perc_y":79.38,
+  "usage_perc_a":14.62,
   "ucprefix":false,
   "parent":"audio",
   "keywords":".ogg,.oga,application/ogg,audio/ogg",

@@ -89,7 +89,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -588,7 +589,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"y x",
@@ -604,10 +605,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"a x",
@@ -658,8 +659,8 @@
     "1":"Internet Explorer supports different values from an [earlier version of the spec](https://www.w3.org/TR/2003/CR-css3-text-20030514/#Progression), which originated from SVG.",
     "2":"Supported in Firefox under the `layout.css.vertical-text.enabled` flag"
   },
-  "usage_perc_y":97.31,
-  "usage_perc_a":0.41,
+  "usage_perc_y":97.01,
+  "usage_perc_a":0.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

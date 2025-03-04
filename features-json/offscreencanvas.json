@@ -101,7 +101,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -600,7 +601,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -616,10 +617,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -671,8 +672,8 @@
     "2":"Can be enabled via the `Experimental canvas features` flag",
     "3":"Partial support refers to only supporting 2D contexts, not WebGL."
   },
-  "usage_perc_y":93.38,
-  "usage_perc_a":1.43,
+  "usage_perc_y":93.18,
+  "usage_perc_a":1.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

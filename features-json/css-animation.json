@@ -109,7 +109,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -608,7 +609,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"y x",
@@ -624,10 +625,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -678,7 +679,7 @@
     "1":"Partial support in Android browser refers to buggy behavior in different scenarios.",
     "2":"Does not support the `steps()`, `step-start` & `step-end` timing functions"
   },
-  "usage_perc_y":97.7,
+  "usage_perc_y":97.45,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

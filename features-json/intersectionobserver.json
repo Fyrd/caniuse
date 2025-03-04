@@ -96,7 +96,8 @@
       "129":"y #3",
       "130":"y #3",
       "131":"y #3",
-      "132":"y #3"
+      "132":"y #3",
+      "133":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -595,7 +596,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y #3"
+      "133":"y #3"
     },
     "bb":{
       "7":"n",
@@ -611,10 +612,10 @@
       "80":"y #3"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -666,7 +667,7 @@
     "2":"`isIntersecting` property of `IntersectionObserverEntry` was not implemented, returning `undefined`",
     "3":"IntersectionObserver does not trigger its callback in a Chrome background tab"
   },
-  "usage_perc_y":96.88,
+  "usage_perc_y":96.56,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

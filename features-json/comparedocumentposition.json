@@ -85,7 +85,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"u",
@@ -584,7 +585,7 @@
       "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"a #1",
@@ -600,10 +601,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -654,8 +655,8 @@
     "1":"The spec requires that comparisons of nodes in different documents, and comparisons where at least one node is not in any document, must arbitrarily (but consistently) set either the `DOCUMENT_POSITION_PRECEDING` or `DOCUMENT_POSITION_FOLLOWING` bit in the result. These browser versions don't set either bit in some such cases.",
     "2":"Sets neither the `DOCUMENT_POSITION_DISCONNECTED` bit nor the `DOCUMENT_POSITION_IMPLEMENTATION_SPECIFIC` bit in some cases when comparing nodes in different documents or when comparing a node which is not in any document."
   },
-  "usage_perc_y":97.73,
-  "usage_perc_a":0.04,
+  "usage_perc_y":97.48,
+  "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"Node,compareDocumentPosition,compare,document,position,preceding,following,disconnected,before,after,contains,contained,DOM",

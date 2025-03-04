@@ -101,7 +101,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -600,7 +601,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"u",
@@ -616,10 +617,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -672,8 +673,8 @@
     "3":"Only supports the deprecated `:-moz-any()` pseudo-class.",
     "4":"Support for `:is()` can be enabled with the `Experimental Web Platform features` flag"
   },
-  "usage_perc_y":95.91,
-  "usage_perc_a":1.29,
+  "usage_perc_y":95.64,
+  "usage_perc_a":1.28,
   "ucprefix":false,
   "parent":"",
   "keywords":":is,is,:matches,matches,:any,any,:-moz-any,-moz-any,:-webkit-any,-webkit-any",

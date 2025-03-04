@@ -85,7 +85,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -584,7 +585,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"u",
@@ -600,10 +601,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -655,8 +656,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":79.16,
-  "usage_perc_a":18.51,
+  "usage_perc_y":79.01,
+  "usage_perc_a":18.41,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

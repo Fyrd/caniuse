@@ -85,7 +85,8 @@
       "129":"a #1",
       "130":"a #1",
       "131":"a #1",
-      "132":"a #1"
+      "132":"a #1",
+      "133":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -584,7 +585,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"n"
+      "133":"n"
     },
     "bb":{
       "7":"n",
@@ -600,10 +601,10 @@
       "80":"a #1"
     },
     "and_chr":{
-      "132":"n"
+      "133":"n"
     },
     "and_ff":{
-      "132":"n"
+      "135":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -653,8 +654,8 @@
   "notes_by_num":{
     "1":"`-webkit-user-drag: none` works, but `-webkit-user-drag: element` does not appear to have an effect."
   },
-  "usage_perc_y":2.87,
-  "usage_perc_a":27.37,
+  "usage_perc_y":2.93,
+  "usage_perc_a":27.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"-webkit-user-drag:none,-webkit-user-drag:element,-webkit-user-drag:auto",

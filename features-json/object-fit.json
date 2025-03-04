@@ -101,7 +101,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -600,7 +601,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"y",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -616,10 +617,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -670,8 +671,8 @@
     "1":"Partial support in Safari refers to support for `object-fit` but not `object-position`.",
     "2":"Partial support in Edge refers to `object-fit` only supporting `<img>` ([see this comment](https://web.archive.org/web/20171208010253/https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/13603873/#comment-0))"
   },
-  "usage_perc_y":97.19,
-  "usage_perc_a":0.15,
+  "usage_perc_y":96.91,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"objectfit,objectposition",

@@ -95,7 +95,8 @@
       "129":"a",
       "130":"a",
       "131":"a",
-      "132":"a"
+      "132":"a",
+      "133":"a"
     },
     "firefox":{
       "2":"p",
@@ -594,7 +595,7 @@
       "4.2-4.3":"a",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "132":"a"
+      "133":"a"
     },
     "bb":{
       "7":"p",
@@ -610,10 +611,10 @@
       "80":"a"
     },
     "and_chr":{
-      "132":"a"
+      "133":"a"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -663,8 +664,8 @@
   "notes_by_num":{
     "1":"IE9+ supports [properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) of an older version of the CSS Ruby specification."
   },
-  "usage_perc_y":2.46,
-  "usage_perc_a":95.26,
+  "usage_perc_y":2.53,
+  "usage_perc_a":94.93,
   "ucprefix":false,
   "parent":"",
   "keywords":"ruby-base,ruby-text,ruby-position,ruby-merge,ruby-align",

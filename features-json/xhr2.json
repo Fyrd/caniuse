@@ -108,7 +108,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -607,7 +608,7 @@
       "4.2-4.3":"a #1 #2 #3 #4",
       "4.4":"a #1 #2 #4",
       "4.4.3-4.4.4":"a #4",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"a #1 #2 #4",
@@ -623,10 +624,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"a #1 #4",
@@ -679,8 +680,8 @@
     "3":"Partial support refers to not supporting `blob` as `responseType`",
     "4":"Partial support refers to missing some newer `FormData` functionality (search for specific APIs for details)."
   },
-  "usage_perc_y":96.99,
-  "usage_perc_a":0.71,
+  "usage_perc_y":96.72,
+  "usage_perc_a":0.74,
   "ucprefix":false,
   "parent":"",
   "keywords":"xhr level 2",

@@ -97,7 +97,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -596,7 +597,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -612,10 +613,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -666,7 +667,7 @@
     "1":"Can be enabled via the \"Experimental Web Platform features\" flag at `about:flags`.",
     "2":"Can be enabled via the `dom.importMaps.enabled` pref in `about:config`."
   },
-  "usage_perc_y":93.95,
+  "usage_perc_y":93.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

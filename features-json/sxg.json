@@ -109,7 +109,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -608,7 +609,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -624,10 +625,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"n"
+      "135":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -677,7 +678,7 @@
   "notes_by_num":{
     "1":"Partial support behind a feature flag (chrome://flags/#enable-signed-http-exchange)"
   },
-  "usage_perc_y":76.95,
+  "usage_perc_y":76.49,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

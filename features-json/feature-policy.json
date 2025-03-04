@@ -107,7 +107,8 @@
       "129":"y #4",
       "130":"y #4",
       "131":"y #4",
-      "132":"y #4"
+      "132":"y #4",
+      "133":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -606,7 +607,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -622,10 +623,10 @@
       "80":"y #4"
     },
     "and_chr":{
-      "132":"y #4"
+      "133":"y #4"
     },
     "and_ff":{
-      "132":"a #2"
+      "135":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -678,8 +679,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"At least partially supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":76.74,
-  "usage_perc_a":19.99,
+  "usage_perc_y":76.28,
+  "usage_perc_a":20.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",

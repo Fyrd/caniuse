@@ -99,7 +99,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -598,7 +599,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -614,10 +615,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -669,8 +670,8 @@
     "2":"Partial support refers to not supporting animated WebP images.",
     "3":"Safari 14.0 \u2013 15.6 has full support of WebP, but requires macOS 11 Big Sur or later."
   },
-  "usage_perc_y":96.53,
-  "usage_perc_a":0.29,
+  "usage_perc_y":96.23,
+  "usage_perc_a":0.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"vp8,vp8l,libwebp,.webp",

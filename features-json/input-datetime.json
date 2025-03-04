@@ -109,7 +109,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -608,7 +609,7 @@
       "4.2-4.3":"n #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -624,10 +625,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"a #6"
+      "135":"a #6"
     },
     "ie_mob":{
       "10":"n",
@@ -683,8 +684,8 @@
     "6":"Partial support refers to not supporting the `week` and `month` input type.",
     "7":"Does not support the `min`, `max` or `step` attributes on date inputs."
   },
-  "usage_perc_y":79.71,
-  "usage_perc_a":17.46,
+  "usage_perc_y":82.39,
+  "usage_perc_a":14.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"datepicker,timepicker,inputdate,input type=\"date\",input type=\"time\",input date,datetime-local",

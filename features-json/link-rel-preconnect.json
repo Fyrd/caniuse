@@ -85,7 +85,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -584,7 +585,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -600,10 +601,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -655,8 +656,8 @@
     "2":"Partial support in Edge 15+ refers to support for only the HTTP header format, not the `<link rel>` format.",
     "3":"Firefox support regressed from versions 71 - 114. See [bug 1543990](https://bugzilla.mozilla.org/show_bug.cgi?id=1543990) for details."
   },
-  "usage_perc_y":96.91,
-  "usage_perc_a":0.12,
+  "usage_perc_y":96.62,
+  "usage_perc_a":0.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"preconnect, resource hints",

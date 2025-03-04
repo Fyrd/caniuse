@@ -95,7 +95,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -594,7 +595,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"a"
+      "133":"a"
     },
     "bb":{
       "7":"n",
@@ -610,10 +611,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -665,8 +666,8 @@
     "2":"Available behind the \"Enable service workers\" flag",
     "3":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` flag"
   },
-  "usage_perc_y":96.8,
-  "usage_perc_a":0.31,
+  "usage_perc_y":96.09,
+  "usage_perc_a":0.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

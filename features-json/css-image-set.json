@@ -97,7 +97,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -596,7 +597,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -612,10 +613,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -669,8 +670,8 @@
     "4":"Does not support omitting the resolution.",
     "5":"Does not support using `calc()` for the resolution."
   },
-  "usage_perc_y":90.22,
-  "usage_perc_a":6.87,
+  "usage_perc_y":90,
+  "usage_perc_a":6.83,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

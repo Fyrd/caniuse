@@ -85,7 +85,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -584,7 +585,7 @@
       "4.2-4.3":"a #2",
       "4.4":"n #3",
       "4.4.3-4.4.4":"n #3",
-      "132":"n #3"
+      "133":"n #3"
     },
     "bb":{
       "7":"a #2",
@@ -600,10 +601,10 @@
       "80":"n #3"
     },
     "and_chr":{
-      "132":"a #2"
+      "133":"a #2"
     },
     "and_ff":{
-      "132":"n"
+      "135":"n"
     },
     "ie_mob":{
       "10":"n #3",
@@ -656,8 +657,8 @@
     "3":"Does not allow any files to be picked at all",
     "4":"Supports the type format but does not allow any file to be picked when using the extension format"
   },
-  "usage_perc_y":31.7,
-  "usage_perc_a":63.35,
+  "usage_perc_y":31.75,
+  "usage_perc_a":62.71,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

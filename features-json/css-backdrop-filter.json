@@ -99,7 +99,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -598,7 +599,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -614,10 +615,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -669,7 +670,7 @@
     "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
     "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` and `gfx.webrender.all` preference to `true` in about:config."
   },
-  "usage_perc_y":96.72,
+  "usage_perc_y":96.43,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

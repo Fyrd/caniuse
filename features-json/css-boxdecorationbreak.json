@@ -97,7 +97,8 @@
       "129":"a x #1",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -596,7 +597,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -612,10 +613,10 @@
       "80":"a x #1"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -665,8 +666,8 @@
   "notes_by_num":{
     "1":"Partial support refers to working for inline elements but not across column or page breaks."
   },
-  "usage_perc_y":69.98,
-  "usage_perc_a":27.24,
+  "usage_perc_y":70.07,
+  "usage_perc_a":26.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"box-decoration,box decoration,break",

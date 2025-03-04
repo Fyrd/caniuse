@@ -95,7 +95,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"p",
@@ -594,7 +595,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "132":"y"
+      "133":"y"
     },
     "bb":{
       "7":"y",
@@ -610,10 +611,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -663,7 +664,7 @@
   "notes_by_num":{
     "1":"Partial support in IE8 is due to being limited to [CSS 2.1 selectors](/#feat=css-sel2) and a small subset of [CSS 3 selectors](/#feat=css-sel3) (see notes there). Additionally, it will have trouble with selectors including unrecognized tags (for example HTML5 ones)."
   },
-  "usage_perc_y":97.78,
+  "usage_perc_y":97.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

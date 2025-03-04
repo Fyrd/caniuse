@@ -97,7 +97,8 @@
       "129":"y",
       "130":"y",
       "131":"y",
-      "132":"y"
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -596,7 +597,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "132":"a #2"
+      "133":"a #2"
     },
     "bb":{
       "7":"n",
@@ -612,10 +613,10 @@
       "80":"y"
     },
     "and_chr":{
-      "132":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -666,8 +667,8 @@
     "1":"Partial support refers to only supporting the \"writeText\" method.",
     "2":"Supports writing to clipboard but not reading."
   },
-  "usage_perc_y":95.67,
-  "usage_perc_a":0.81,
+  "usage_perc_y":95.01,
+  "usage_perc_a":1.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",
