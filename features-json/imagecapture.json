@@ -18,7 +18,7 @@
     }
   ],
   "bugs":[
-    
+    Safari does not support `grabFrame()`, 
   ],
   "categories":[
     "DOM",
@@ -419,8 +419,8 @@
       "18.1":"n",
       "18.2":"n",
       "18.3":"n",
-      "18.4":"n",
-      "TP":"a #3"
+      "18.4":"y",
+      "TP":"y"
     },
     "opera":{
       "9":"n",
@@ -579,7 +579,7 @@
       "18.1":"n",
       "18.2":"n",
       "18.3":"n",
-      "18.4":"n"
+      "18.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -662,8 +662,7 @@
   "notes":"Firefox supports the `takePhoto()` method only (when flag is enabled).",
   "notes_by_num":{
     "1":"Can be enabled via the about:config entry dom.imagecapture.enabled.",
-    "2":"Can be enabled via the Experimental Web Platform Features flag.",
-    "3":"Partial support refers to not supporting `grabFrame()`."
+    "2":"Can be enabled via the Experimental Web Platform Features flag."
   },
   "usage_perc_y":76.56,
   "usage_perc_a":0,
