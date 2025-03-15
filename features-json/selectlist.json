@@ -1,7 +1,7 @@
 {
-  "title":"Selectlist - Customizable select element",
-  "description":"Proposal for a customizable `<select>` element, currently defined as `<selectlist>`, previously `<selectmenu>`. ",
-  "spec":"https://open-ui.org/components/selectlist/",
+  "title":"Customizable Select element",
+  "description":"Proposal for a customizable `<select>` element. Previously envisioned as a separate element (`<selectlist>` or `<selectmenu>`). ",
+  "spec":"https://open-ui.org/components/customizableselect/",
   "status":"unoff",
   "links":[
     {
@@ -11,6 +11,10 @@
     {
       "url":"https://microsoftedge.github.io/Demos/selectlist/index.html",
       "title":"Open UI's <selectlist> demos"
+    },
+    {
+      "url":"https://developer.chrome.com/blog/rfc-customizable-select",
+      "title":"Chrome's request for feedback on latest proposal"
     }
   ],
   "bugs":[
@@ -662,7 +666,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"selectlist,selectmenu,appearance:base-select,::picker(select),selectedoption",
   "chrome_id":"5737365999976448",
   "shown":true
 }
