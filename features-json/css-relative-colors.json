@@ -96,7 +96,9 @@
       "128":"a #2",
       "129":"a #2",
       "130":"a #2",
-      "131":"y"
+      "131":"y",
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -236,7 +238,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "chrome":{
       "4":"n",
@@ -369,7 +372,8 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y"
     },
     "safari":{
       "3.1":"n",
@@ -418,6 +422,7 @@
       "18.1":"y",
       "18.2":"y",
       "18.3":"y",
+      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -576,7 +581,8 @@
       "18.0":"y",
       "18.1":"y",
       "18.2":"y",
-      "18.3":"y"
+      "18.3":"y",
+      "18.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -591,7 +597,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -607,10 +613,10 @@
       "80":"a #2"
     },
     "and_chr":{
-      "131":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"a #2"
+      "135":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -661,8 +667,8 @@
     "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
     "2":"Does not support `currentcolor` or system color keywords ([Firefox bug 1893966](https://bugzilla.mozilla.org/show_bug.cgi?id=1893966))"
   },
-  "usage_perc_y":77.53,
-  "usage_perc_a":12.95,
+  "usage_perc_y":80.23,
+  "usage_perc_a":9.87,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -113,7 +113,9 @@
       "128":"y #3",
       "129":"y #3",
       "130":"y #3",
-      "131":"y #3"
+      "131":"y #3",
+      "132":"y #3",
+      "133":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -253,7 +255,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "chrome":{
       "4":"n",
@@ -386,7 +389,8 @@
       "132":"y #3",
       "133":"y #3",
       "134":"y #3",
-      "135":"y #3"
+      "135":"y #3",
+      "136":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -435,6 +439,7 @@
       "18.1":"y",
       "18.2":"y",
       "18.3":"y",
+      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -593,7 +598,8 @@
       "18.0":"y",
       "18.1":"y",
       "18.2":"y",
-      "18.3":"y"
+      "18.3":"y",
+      "18.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -608,7 +614,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -624,10 +630,10 @@
       "80":"y #3"
     },
     "and_chr":{
-      "131":"y #3"
+      "133":"y #3"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -681,8 +687,8 @@
     "4":"Partial due to the lack of support in macOS before 10.14 Mojave.",
     "5":"Partial due to [the bug](https://bugs.webkit.org/show_bug.cgi?id=198181) that treats `SameSite=None` and invalid values as `Strict` in macOS before 10.15 Catalina and in iOS before 13."
   },
-  "usage_perc_y":95.81,
-  "usage_perc_a":0.72,
+  "usage_perc_y":95.26,
+  "usage_perc_a":0.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"security,cookies,cookie,csrf",

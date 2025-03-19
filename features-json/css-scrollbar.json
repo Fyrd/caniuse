@@ -106,7 +106,9 @@
       "128":"y",
       "129":"y",
       "130":"y",
-      "131":"y"
+      "131":"y",
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -246,7 +248,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "chrome":{
       "4":"a x #2",
@@ -379,7 +382,8 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y"
     },
     "safari":{
       "3.1":"u",
@@ -428,6 +432,7 @@
       "18.1":"a x #2",
       "18.2":"a x #2",
       "18.3":"a x #2",
+      "18.4":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -586,7 +591,8 @@
       "18.0":"n",
       "18.1":"n",
       "18.2":"n",
-      "18.3":"n"
+      "18.3":"n",
+      "18.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -601,7 +607,7 @@
       "4.2-4.3":"a x #2",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "131":"a x #2"
+      "133":"a x #2"
     },
     "bb":{
       "7":"a x #2",
@@ -617,10 +623,10 @@
       "80":"a x #2"
     },
     "and_chr":{
-      "131":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -674,8 +680,8 @@
     "4":"Can be enabled by setting the layout.css.scrollbar-colors.enabled and layout.css.scrollbar-width.enabled flags to true.",
     "5":"Firefox 63 supported scrollbar-face-color and scrollbar-track-color separate properties (now dropped from the spec) instead of unified scrollbar-color property."
   },
-  "usage_perc_y":75.31,
-  "usage_perc_a":9.36,
+  "usage_perc_y":73.36,
+  "usage_perc_a":9.61,
   "ucprefix":false,
   "parent":"",
   "keywords":"scrollbar-button,scrollbar-track,scrollbar-thumb,scrollbar-base-color,scrollbar-face-color,scrollbar-color,scrollbar-width",

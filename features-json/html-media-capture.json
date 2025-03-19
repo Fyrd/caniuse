@@ -92,7 +92,9 @@
       "128":"n",
       "129":"n",
       "130":"n",
-      "131":"n"
+      "131":"n",
+      "132":"n",
+      "133":"n"
     },
     "firefox":{
       "2":"n",
@@ -232,7 +234,8 @@
       "134":"n",
       "135":"n",
       "136":"n",
-      "137":"n"
+      "137":"n",
+      "138":"n"
     },
     "chrome":{
       "4":"n",
@@ -365,7 +368,8 @@
       "132":"n",
       "133":"n",
       "134":"n",
-      "135":"n"
+      "135":"n",
+      "136":"n"
     },
     "safari":{
       "3.1":"n",
@@ -414,6 +418,7 @@
       "18.1":"n",
       "18.2":"n",
       "18.3":"n",
+      "18.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -572,7 +577,8 @@
       "18.0":"y #1",
       "18.1":"y #1",
       "18.2":"y #1",
-      "18.3":"y #1"
+      "18.3":"y #1",
+      "18.4":"y #1"
     },
     "op_mini":{
       "all":"n"
@@ -587,7 +593,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "131":"y"
+      "133":"y"
     },
     "bb":{
       "7":"u",
@@ -603,10 +609,10 @@
       "80":"y"
     },
     "and_chr":{
-      "131":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -658,8 +664,8 @@
     "2":"Android 2.2-2.3 do not support the capture attribute",
     "3":"Supports a \"capture\" button for any `<input type=\"file\"> field, regardless of whether the capture attribute is used."
   },
-  "usage_perc_y":64.85,
-  "usage_perc_a":0.86,
+  "usage_perc_y":64.53,
+  "usage_perc_a":0.84,
   "ucprefix":false,
   "parent":"",
   "keywords":"htmlmediacapture, html media capture, media capture, mediacapture",

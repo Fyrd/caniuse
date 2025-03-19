@@ -94,7 +94,9 @@
       "128":"y x",
       "129":"y x",
       "130":"y x",
-      "131":"y x"
+      "131":"y x",
+      "132":"y x",
+      "133":"y x"
     },
     "firefox":{
       "2":"n",
@@ -234,7 +236,8 @@
       "134":"y x #1",
       "135":"y x #1",
       "136":"y x #1",
-      "137":"y x #1"
+      "137":"y x #1",
+      "138":"y x #1"
     },
     "chrome":{
       "4":"y x",
@@ -367,7 +370,8 @@
       "132":"y x",
       "133":"y x",
       "134":"y x",
-      "135":"y x"
+      "135":"y x",
+      "136":"y x"
     },
     "safari":{
       "3.1":"y x",
@@ -416,6 +420,7 @@
       "18.1":"y x",
       "18.2":"y x",
       "18.3":"y x",
+      "18.4":"y x",
       "TP":"y x"
     },
     "opera":{
@@ -574,7 +579,8 @@
       "18.0":"y x",
       "18.1":"y x",
       "18.2":"y x",
-      "18.3":"y x"
+      "18.3":"y x",
+      "18.4":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -589,7 +595,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "131":"y x"
+      "133":"y x"
     },
     "bb":{
       "7":"y x",
@@ -605,10 +611,10 @@
       "80":"y x"
     },
     "and_chr":{
-      "131":"y x"
+      "133":"y x"
     },
     "and_ff":{
-      "132":"y x #1"
+      "135":"y x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -659,7 +665,7 @@
     "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":97.74,
+  "usage_perc_y":97.01,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

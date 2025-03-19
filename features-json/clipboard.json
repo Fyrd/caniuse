@@ -90,7 +90,9 @@
       "128":"a #7",
       "129":"a #7",
       "130":"a #7",
-      "131":"a #7"
+      "131":"a #7",
+      "132":"a #7",
+      "133":"a #7"
     },
     "firefox":{
       "2":"n",
@@ -230,7 +232,8 @@
       "134":"a #6",
       "135":"a #6",
       "136":"a #6",
-      "137":"a #6"
+      "137":"a #6",
+      "138":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -363,7 +366,8 @@
       "132":"a #7",
       "133":"a #7",
       "134":"a #7",
-      "135":"a #7"
+      "135":"a #7",
+      "136":"a #7"
     },
     "safari":{
       "3.1":"u",
@@ -412,6 +416,7 @@
       "18.1":"y",
       "18.2":"y",
       "18.3":"y",
+      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -570,7 +575,8 @@
       "18.0":"y",
       "18.1":"y",
       "18.2":"y",
-      "18.3":"y"
+      "18.3":"y",
+      "18.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -585,7 +591,7 @@
       "4.2-4.3":"n",
       "4.4":"a #2 #5",
       "4.4.3-4.4.4":"a #2 #5",
-      "131":"a #2"
+      "133":"a #2"
     },
     "bb":{
       "7":"n",
@@ -601,10 +607,10 @@
       "80":"a #7"
     },
     "and_chr":{
-      "131":"a #7"
+      "133":"a #7"
     },
     "and_ff":{
-      "132":"a #4"
+      "135":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -660,8 +666,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":16.34,
-  "usage_perc_a":81.87,
+  "usage_perc_y":17.44,
+  "usage_perc_a":80.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

@@ -96,7 +96,9 @@
       "128":"a #4",
       "129":"a #4",
       "130":"a #4",
-      "131":"a #4"
+      "131":"a #4",
+      "132":"a #4",
+      "133":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -236,7 +238,8 @@
       "134":"n d #7",
       "135":"n d #7",
       "136":"n d #7",
-      "137":"n d #7"
+      "137":"a #8",
+      "138":"a #8"
     },
     "chrome":{
       "4":"n",
@@ -369,7 +372,8 @@
       "132":"a #5",
       "133":"a #5",
       "134":"a #5",
-      "135":"a #5"
+      "135":"a #5",
+      "136":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -418,6 +422,7 @@
       "18.1":"y",
       "18.2":"y",
       "18.3":"y",
+      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -576,7 +581,8 @@
       "18.0":"y",
       "18.1":"y",
       "18.2":"y",
-      "18.3":"y"
+      "18.3":"y",
+      "18.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -591,7 +597,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"a #5"
+      "133":"a #5"
     },
     "bb":{
       "7":"n",
@@ -607,10 +613,10 @@
       "80":"n #2"
     },
     "and_chr":{
-      "131":"a #5"
+      "133":"a #5"
     },
     "and_ff":{
-      "132":"n"
+      "135":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -664,10 +670,11 @@
     "4":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0) if Edge >= 107, for devices with [hardware support](https://techcommunity.microsoft.com/t5/discussions/updated-dev-channel-build-77-0-211-3-is-live/m-p/745801#M6548) on Windows (>= Windows 10 1709) when [HEVC video extensions from the Microsoft Store](https://apps.microsoft.com/store/detail/hevc-video-extension/9NMZLZ57R3T7) is installed",
     "5":"Supported for all devices on macOS (>= Big Sur 11.0) and Android (>= 5.0), for devices with [hardware support](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) on Windows (>= Windows 8), and for devices with hardware support powered by VAAPI on Linux and ChromeOS",
     "6":"Supported for devices with hardware support (the range is the same as Edge) on Windows in Nightly only. 10-bit or higher colors are not supported.",
-    "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported."
+    "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported.",
+    "8":"Supported for devices with hardware support, software fallback in some cases. See [details here on MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs#hevc_h.265)."
   },
-  "usage_perc_y":18.73,
-  "usage_perc_a":73.79,
+  "usage_perc_y":19.81,
+  "usage_perc_a":71.93,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

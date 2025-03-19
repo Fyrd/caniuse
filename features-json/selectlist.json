@@ -1,7 +1,7 @@
 {
-  "title":"Selectlist - Customizable select element",
-  "description":"Proposal for a customizable `<select>` element, currently defined as `<selectlist>`, previously `<selectmenu>`. ",
-  "spec":"https://open-ui.org/components/selectlist/",
+  "title":"Customizable Select element",
+  "description":"Proposal for a customizable `<select>` element. Previously envisioned as a separate element (`<selectlist>` or `<selectmenu>`). ",
+  "spec":"https://open-ui.org/components/customizableselect/",
   "status":"unoff",
   "links":[
     {
@@ -11,6 +11,10 @@
     {
       "url":"https://microsoftedge.github.io/Demos/selectlist/index.html",
       "title":"Open UI's <selectlist> demos"
+    },
+    {
+      "url":"https://developer.chrome.com/blog/rfc-customizable-select",
+      "title":"Chrome's request for feedback on latest proposal"
     }
   ],
   "bugs":[
@@ -88,7 +92,9 @@
       "128":"n d #1",
       "129":"n d #1",
       "130":"n d #1",
-      "131":"n d #1"
+      "131":"n d #1",
+      "132":"n d #1",
+      "133":"n d #1"
     },
     "firefox":{
       "2":"n",
@@ -228,7 +234,8 @@
       "134":"n",
       "135":"n",
       "136":"n",
-      "137":"n"
+      "137":"n",
+      "138":"n"
     },
     "chrome":{
       "4":"n",
@@ -361,7 +368,8 @@
       "132":"n d #1",
       "133":"n d #1",
       "134":"n d #1",
-      "135":"n d #1"
+      "135":"n d #1",
+      "136":"n d #1"
     },
     "safari":{
       "3.1":"n",
@@ -410,6 +418,7 @@
       "18.1":"n",
       "18.2":"n",
       "18.3":"n",
+      "18.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -568,7 +577,8 @@
       "18.0":"n",
       "18.1":"n",
       "18.2":"n",
-      "18.3":"n"
+      "18.3":"n",
+      "18.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -583,7 +593,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"n"
+      "133":"n"
     },
     "bb":{
       "7":"n",
@@ -599,10 +609,10 @@
       "80":"n d #1"
     },
     "and_chr":{
-      "131":"n d #1"
+      "133":"n d #1"
     },
     "and_ff":{
-      "132":"n"
+      "135":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -656,7 +666,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"",
+  "keywords":"selectlist,selectmenu,appearance:base-select,::picker(select),selectedoption",
   "chrome_id":"5737365999976448",
   "shown":true
 }

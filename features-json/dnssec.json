@@ -92,7 +92,9 @@
       "128":"a #1",
       "129":"a #1",
       "130":"a #1",
-      "131":"a #1"
+      "131":"a #1",
+      "132":"a #1",
+      "133":"a #1"
     },
     "firefox":{
       "2":"a #1",
@@ -232,7 +234,8 @@
       "134":"a #1",
       "135":"a #1",
       "136":"a #1",
-      "137":"a #1"
+      "137":"a #1",
+      "138":"a #1"
     },
     "chrome":{
       "4":"a #1",
@@ -365,7 +368,8 @@
       "132":"a #1",
       "133":"a #1",
       "134":"a #1",
-      "135":"a #1"
+      "135":"a #1",
+      "136":"a #1"
     },
     "safari":{
       "3.1":"a #1",
@@ -414,6 +418,7 @@
       "18.1":"a #1",
       "18.2":"a #1",
       "18.3":"a #1",
+      "18.4":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -572,7 +577,8 @@
       "18.0":"a #1",
       "18.1":"a #1",
       "18.2":"a #1",
-      "18.3":"a #1"
+      "18.3":"a #1",
+      "18.4":"a #1"
     },
     "op_mini":{
       "all":"a #1"
@@ -587,7 +593,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "131":"a #1"
+      "133":"a #1"
     },
     "bb":{
       "7":"a #1",
@@ -603,10 +609,10 @@
       "80":"a #1"
     },
     "and_chr":{
-      "131":"a #1"
+      "133":"a #1"
     },
     "and_ff":{
-      "132":"a #1"
+      "135":"a #1"
     },
     "ie_mob":{
       "10":"a #1",
@@ -658,10 +664,10 @@
     "2":"Early versions of Chrome [experimented](https://www.imperialviolet.org/2011/06/16/dnssecchrome.html) with browser-level validation."
   },
   "usage_perc_y":0,
-  "usage_perc_a":98.27,
+  "usage_perc_a":97.53,
   "ucprefix":false,
   "parent":"",
-  "keywords":"DNS Security Extensions,Domain Name System Security Extensions,DNS based Authentication of Named Entities",
+  "keywords":"DNS Security Extensions,Domain Name System Security Extensions,DNS based Authentication of Named Entities,TLSA",
   "chrome_id":"",
   "shown":true
 }

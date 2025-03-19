@@ -108,7 +108,9 @@
       "128":"y",
       "129":"y",
       "130":"y",
-      "131":"y"
+      "131":"y",
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -248,7 +250,8 @@
       "134":"a #6",
       "135":"a #6",
       "136":"a #6",
-      "137":"a #6"
+      "137":"a #6",
+      "138":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -381,7 +384,8 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y"
     },
     "safari":{
       "3.1":"n",
@@ -430,6 +434,7 @@
       "18.1":"a #6",
       "18.2":"a #6",
       "18.3":"a #6",
+      "18.4":"a #6",
       "TP":"a #6"
     },
     "opera":{
@@ -588,7 +593,8 @@
       "18.0":"a #2",
       "18.1":"a #2",
       "18.2":"y #7",
-      "18.3":"y #7"
+      "18.3":"y #7",
+      "18.4":"y #7"
     },
     "op_mini":{
       "all":"n"
@@ -603,7 +609,7 @@
       "4.2-4.3":"n #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "131":"y"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -619,10 +625,10 @@
       "80":"y"
     },
     "and_chr":{
-      "131":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"a #6"
+      "135":"a #6"
     },
     "ie_mob":{
       "10":"n",
@@ -678,8 +684,8 @@
     "6":"Partial support refers to not supporting the `week` and `month` input type.",
     "7":"Does not support the `min`, `max` or `step` attributes on date inputs."
   },
-  "usage_perc_y":79.53,
-  "usage_perc_a":18.09,
+  "usage_perc_y":82.39,
+  "usage_perc_a":14.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"datepicker,timepicker,inputdate,input type=\"date\",input type=\"time\",input date,datetime-local",

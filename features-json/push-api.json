@@ -88,7 +88,9 @@
       "128":"y #2",
       "129":"y #2",
       "130":"y #2",
-      "131":"y #2"
+      "131":"y #2",
+      "132":"y #2",
+      "133":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -228,7 +230,8 @@
       "134":"y #2",
       "135":"y #2",
       "136":"y #2",
-      "137":"y #2"
+      "137":"y #2",
+      "138":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -361,7 +364,8 @@
       "132":"y #2",
       "133":"y #2",
       "134":"y #2",
-      "135":"y #2"
+      "135":"y #2",
+      "136":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -393,24 +397,25 @@
       "15.5":"n #3",
       "15.6":"n #3",
       "16.0":"n #3",
-      "16.1":"a #3 #5",
-      "16.2":"a #3 #5",
-      "16.3":"a #3 #5",
-      "16.4":"a #3 #5",
-      "16.5":"a #3 #5",
-      "16.6":"a #3 #5",
-      "17.0":"a #3 #5",
-      "17.1":"a #3 #5",
-      "17.2":"a #3 #5",
-      "17.3":"a #3 #5",
-      "17.4":"a #3 #5",
-      "17.5":"a #3 #5",
-      "17.6":"a #3 #5",
-      "18.0":"a #3 #5",
-      "18.1":"a #3 #5",
-      "18.2":"a #3 #5",
-      "18.3":"a #3 #5",
-      "TP":"a #3 #5"
+      "16.1":"a #3 #5 #6",
+      "16.2":"a #3 #5 #6",
+      "16.3":"a #3 #5 #6",
+      "16.4":"a #3 #5 #6",
+      "16.5":"a #3 #5 #6",
+      "16.6":"a #3 #5 #6",
+      "17.0":"a #3 #5 #6",
+      "17.1":"a #3 #5 #6",
+      "17.2":"a #3 #5 #6",
+      "17.3":"a #3 #5 #6",
+      "17.4":"a #3 #5 #6",
+      "17.5":"a #3 #5 #6",
+      "17.6":"a #3 #5 #6",
+      "18.0":"y #3 #6",
+      "18.1":"y #3 #6",
+      "18.2":"y #3 #6",
+      "18.3":"y #3 #6",
+      "18.4":"y #3 #6",
+      "TP":"y #3 #6"
     },
     "opera":{
       "9":"n",
@@ -555,20 +560,21 @@
       "16.1":"n",
       "16.2":"n",
       "16.3":"n",
-      "16.4":"a #6",
-      "16.5":"a #6",
-      "16.6-16.7":"a #6",
-      "17.0":"a #6",
-      "17.1":"a #6",
-      "17.2":"a #6",
-      "17.3":"a #6",
-      "17.4":"a #6",
-      "17.5":"a #6",
-      "17.6-17.7":"a #6",
-      "18.0":"a #6",
-      "18.1":"a #6",
-      "18.2":"a #6",
-      "18.3":"a #6"
+      "16.4":"a #7",
+      "16.5":"a #7",
+      "16.6-16.7":"a #7",
+      "17.0":"a #7",
+      "17.1":"a #7",
+      "17.2":"a #7",
+      "17.3":"a #7",
+      "17.4":"a #7",
+      "17.5":"a #7",
+      "17.6-17.7":"a #7",
+      "18.0":"a #7",
+      "18.1":"a #7",
+      "18.2":"a #7",
+      "18.3":"a #7",
+      "18.4":"a #7"
     },
     "op_mini":{
       "all":"n"
@@ -583,7 +589,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"n"
+      "133":"n"
     },
     "bb":{
       "7":"n",
@@ -599,10 +605,10 @@
       "80":"y"
     },
     "and_chr":{
-      "131":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -654,11 +660,12 @@
     "2":"Requires full browser to be running to receive messages",
     "3":"Safari 7.0 - 16.0 supported a custom implementation which remains available in later versions, see [Safari Push Notifications](https://developer.apple.com/notifications/safari-push-notifications/) and [WWDC video](https://web.archive.org/web/20210419000205/https://developer.apple.com/videos/play/wwdc2013/614/)",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags",
-    "5":"Only available on macOS 13 Ventura or later and only in Safari itself, not WKWebView nor SFSafariViewController",
-    "6":"Requires website to first be [added to the Home Screen](/web-app-manifest). Delivered silently, meaning no sound, vibration, haptics or screen wake."
+    "5":"Only available on macOS 13 Ventura or later",
+    "6":"Supported in Safari, not WKWebView nor SFSafariViewController",
+    "7":"Requires website to first be added to the Home Screen."
   },
-  "usage_perc_y":80.77,
-  "usage_perc_a":14.34,
+  "usage_perc_y":80.17,
+  "usage_perc_a":13.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

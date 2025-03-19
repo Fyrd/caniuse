@@ -88,7 +88,9 @@
       "128":"n d #2",
       "129":"n d #2",
       "130":"n d #2",
-      "131":"n d #2"
+      "131":"n d #2",
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -228,7 +230,8 @@
       "134":"n",
       "135":"n",
       "136":"n",
-      "137":"n"
+      "137":"n",
+      "138":"n"
     },
     "chrome":{
       "4":"n",
@@ -361,7 +364,8 @@
       "132":"n d #2",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y"
     },
     "safari":{
       "3.1":"n",
@@ -410,6 +414,7 @@
       "18.1":"n d #1",
       "18.2":"y",
       "18.3":"y",
+      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -568,7 +573,8 @@
       "18.0":"n d #1",
       "18.1":"n d #1",
       "18.2":"y",
-      "18.3":"y"
+      "18.3":"y",
+      "18.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -583,7 +589,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"n"
+      "133":"y"
     },
     "bb":{
       "7":"n",
@@ -599,10 +605,10 @@
       "80":"n"
     },
     "and_chr":{
-      "131":"n"
+      "133":"y"
     },
     "and_ff":{
-      "132":"n"
+      "135":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -653,7 +659,7 @@
     "1":"Available behind a [Safari feature flag](https://developer.apple.com/documentation/safari-developer-tools/feature-flag-settings).",
     "2":"Can be enabled via the `#text-box-trim` flag in `chrome://flags`"
   },
-  "usage_perc_y":1.01,
+  "usage_perc_y":64.4,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

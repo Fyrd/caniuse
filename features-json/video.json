@@ -106,7 +106,9 @@
       "128":"y",
       "129":"y",
       "130":"y",
-      "131":"y"
+      "131":"y",
+      "132":"y",
+      "133":"y"
     },
     "firefox":{
       "2":"n",
@@ -246,7 +248,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "chrome":{
       "4":"y",
@@ -379,7 +382,8 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y"
     },
     "safari":{
       "3.1":"y",
@@ -428,6 +432,7 @@
       "18.1":"y #3",
       "18.2":"y #3",
       "18.3":"y #3",
+      "18.4":"y #3",
       "TP":"y #3"
     },
     "opera":{
@@ -586,7 +591,8 @@
       "18.0":"y #3 #4",
       "18.1":"y #3 #4",
       "18.2":"y #3 #4",
-      "18.3":"y #3 #4"
+      "18.3":"y #3 #4",
+      "18.4":"y #3 #4"
     },
     "op_mini":{
       "all":"n"
@@ -601,7 +607,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "131":"y"
+      "133":"y"
     },
     "bb":{
       "7":"y",
@@ -617,10 +623,10 @@
       "80":"y"
     },
     "and_chr":{
-      "131":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -673,8 +679,8 @@
     "3":"Ignores the `autoplay` attribute by default, though autoplay behavior can be [enabled by users](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)",
     "4":"On iOS the `volume` property is read-only."
   },
-  "usage_perc_y":98.22,
-  "usage_perc_a":0.01,
+  "usage_perc_y":97.47,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"<video>,videoHeight,videoWidth,HTMLVideoElement.videoHeight,HTMLVideoElement.videoWidth",

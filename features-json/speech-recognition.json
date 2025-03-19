@@ -100,7 +100,9 @@
       "128":"n #3",
       "129":"n #3",
       "130":"n #3",
-      "131":"n #3"
+      "131":"n #3",
+      "132":"n #3",
+      "133":"n #3"
     },
     "firefox":{
       "2":"n",
@@ -240,7 +242,8 @@
       "134":"n d #2",
       "135":"n d #2",
       "136":"n d #2",
-      "137":"n d #2"
+      "137":"n d #2",
+      "138":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -373,7 +376,8 @@
       "132":"a x #1",
       "133":"a x #1",
       "134":"a x #1",
-      "135":"a x #1"
+      "135":"a x #1",
+      "136":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -422,6 +426,7 @@
       "18.1":"a x #4",
       "18.2":"a x #4",
       "18.3":"a x #4",
+      "18.4":"a x #4",
       "TP":"a x #4"
     },
     "opera":{
@@ -580,7 +585,8 @@
       "18.0":"a x #4",
       "18.1":"a x #4",
       "18.2":"a x #4",
-      "18.3":"a x #4"
+      "18.3":"a x #4",
+      "18.4":"a x #4"
     },
     "op_mini":{
       "all":"n"
@@ -595,7 +601,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"n"
+      "133":"n"
     },
     "bb":{
       "7":"n",
@@ -611,10 +617,10 @@
       "80":"a x #1"
     },
     "and_chr":{
-      "131":"a x #1"
+      "133":"a x #1"
     },
     "and_ff":{
-      "132":"n"
+      "135":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -668,7 +674,7 @@
     "4":"Safari 14.1 and TP 119+ include prefixed support for `webkitSpeechRecognition` without support for `SpeechGrammar` or `SpeechGrammarList`. Siri needs to be enabled. [Not available in SafariViewController and web apps added to Home Screen](https://bugs.webkit.org/show_bug.cgi?id=225298#c3)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":88.96,
+  "usage_perc_a":88,
   "ucprefix":false,
   "parent":"",
   "keywords":"#web-speech,speechrecognition,ASR",

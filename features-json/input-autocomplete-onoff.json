@@ -84,7 +84,9 @@
       "128":"a #2",
       "129":"a #2",
       "130":"a #2",
-      "131":"a #2"
+      "131":"a #2",
+      "132":"a #2",
+      "133":"a #2"
     },
     "firefox":{
       "2":"y",
@@ -224,7 +226,8 @@
       "134":"a #3",
       "135":"a #3",
       "136":"a #3",
-      "137":"a #3"
+      "137":"a #3",
+      "138":"a #3"
     },
     "chrome":{
       "4":"n",
@@ -357,7 +360,8 @@
       "132":"a #2",
       "133":"a #2",
       "134":"a #2",
-      "135":"a #2"
+      "135":"a #2",
+      "136":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -406,6 +410,7 @@
       "18.1":"a #5",
       "18.2":"a #5",
       "18.3":"a #5",
+      "18.4":"a #5",
       "TP":"a #5"
     },
     "opera":{
@@ -564,7 +569,8 @@
       "18.0":"y #4",
       "18.1":"y #4",
       "18.2":"y #4",
-      "18.3":"y #4"
+      "18.3":"y #4",
+      "18.4":"y #4"
     },
     "op_mini":{
       "all":"y #4"
@@ -579,7 +585,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "131":"y"
+      "133":"y"
     },
     "bb":{
       "7":"y",
@@ -595,10 +601,10 @@
       "80":"y"
     },
     "and_chr":{
-      "131":"y"
+      "133":"y"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"a #5",
@@ -652,8 +658,8 @@
     "4":"Browser does not display previously submitted values as options with `on` value.",
     "5":"Safari ignores the `off` value for [username, email and password fields](https://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
-  "usage_perc_y":66.52,
-  "usage_perc_a":31.75,
+  "usage_perc_y":65.65,
+  "usage_perc_a":31.88,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

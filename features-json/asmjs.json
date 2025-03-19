@@ -106,7 +106,9 @@
       "128":"a #1",
       "129":"a #1",
       "130":"a #1",
-      "131":"a #1"
+      "131":"a #1",
+      "132":"a #1",
+      "133":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -246,7 +248,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "chrome":{
       "4":"n",
@@ -379,7 +382,8 @@
       "132":"a #1",
       "133":"a #1",
       "134":"a #1",
-      "135":"a #1"
+      "135":"a #1",
+      "136":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -428,6 +432,7 @@
       "18.1":"n",
       "18.2":"n",
       "18.3":"n",
+      "18.4":"n",
       "TP":"n"
     },
     "opera":{
@@ -586,7 +591,8 @@
       "18.0":"n",
       "18.1":"n",
       "18.2":"n",
-      "18.3":"n"
+      "18.3":"n",
+      "18.4":"n"
     },
     "op_mini":{
       "all":"n"
@@ -601,7 +607,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"a #1"
+      "133":"a #1"
     },
     "bb":{
       "7":"n",
@@ -617,10 +623,10 @@
       "80":"a #1"
     },
     "and_chr":{
-      "131":"a #1"
+      "133":"a #1"
     },
     "and_ff":{
-      "132":"y"
+      "135":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -671,8 +677,8 @@
     "1":"Chromium does not support ahead-of-time compilation but performance doubled in Chrome 28: [https://en.wikipedia.org/wiki/Asm.js#Implementations](https://en.wikipedia.org/wiki/Asm.js#Implementations)",
     "2":"Supported in MS Edge under the \"Enable experimental JavaScript features\" flag."
   },
-  "usage_perc_y":2.48,
-  "usage_perc_a":78.51,
+  "usage_perc_y":2.63,
+  "usage_perc_a":76.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",

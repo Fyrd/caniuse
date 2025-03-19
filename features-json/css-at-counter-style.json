@@ -92,7 +92,9 @@
       "128":"a #1",
       "129":"a #1",
       "130":"a #1",
-      "131":"a #1"
+      "131":"a #1",
+      "132":"a #1",
+      "133":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -232,7 +234,8 @@
       "134":"a #1",
       "135":"a #1",
       "136":"a #1",
-      "137":"a #1"
+      "137":"a #1",
+      "138":"a #1"
     },
     "chrome":{
       "4":"n",
@@ -365,7 +368,8 @@
       "132":"a #1",
       "133":"a #1",
       "134":"a #1",
-      "135":"a #1"
+      "135":"a #1",
+      "136":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -414,6 +418,7 @@
       "18.1":"a",
       "18.2":"a",
       "18.3":"a",
+      "18.4":"a",
       "TP":"a"
     },
     "opera":{
@@ -572,7 +577,8 @@
       "18.0":"a",
       "18.1":"a",
       "18.2":"a",
-      "18.3":"a"
+      "18.3":"a",
+      "18.4":"a"
     },
     "op_mini":{
       "all":"n"
@@ -587,7 +593,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "131":"a #1"
+      "133":"a #1"
     },
     "bb":{
       "7":"n",
@@ -603,10 +609,10 @@
       "80":"a #1"
     },
     "and_chr":{
-      "131":"a #1"
+      "133":"a #1"
     },
     "and_ff":{
-      "132":"a #1"
+      "135":"a #1"
     },
     "ie_mob":{
       "10":"n",
@@ -656,8 +662,8 @@
   "notes_by_num":{
     "1":"Partial support refers to lacking support for image symbols: [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024179), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1176323)"
   },
-  "usage_perc_y":0.86,
-  "usage_perc_a":92.41,
+  "usage_perc_y":0.84,
+  "usage_perc_a":91.9,
   "ucprefix":false,
   "parent":"",
   "keywords":"css @counter-style, list-style",
