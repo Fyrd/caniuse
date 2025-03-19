@@ -1,11 +1,11 @@
 {
-  "title":"View Transitions API (single-document)",
-  "description":"Provides a mechanism for easily creating animated transitions between different DOM states, while also updating the DOM contents in a single step. This API is specific to single-document transitions.",
-  "spec":"https://www.w3.org/TR/css-view-transitions-1/",
+  "title":"View Transitions (cross-document)",
+  "description":"Provides a mechanism for easily creating animated transitions between different DOM states, while also updating the DOM contents in a single step. This API is specific to cross-document transitions.",
+  "spec":"https://www.w3.org/TR/css-view-transitions-2/",
   "status":"wd",
   "links":[
     {
-      "url":"https://github.com/WICG/view-transitions/blob/main/explainer.md",
+      "url":"https://github.com/WICG/view-transitions/blob/main/cross-doc-explainer.md",
       "title":"Explainer document"
     },
     {
@@ -17,7 +17,7 @@
       "title":"Chrome Developers documentation"
     },
     {
-      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1823896",
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1860854",
       "title":"Firefox support bug"
     }
   ],
@@ -77,29 +77,27 @@
       "108":"n",
       "109":"n",
       "110":"n",
-      "111":"y",
-      "112":"y",
-      "113":"y",
-      "114":"y",
-      "115":"y",
-      "116":"y",
-      "117":"y",
-      "118":"y",
-      "119":"y",
-      "120":"y",
-      "121":"y",
-      "122":"y",
-      "123":"y",
-      "124":"y",
-      "125":"y",
+      "111":"n",
+      "112":"n",
+      "113":"n",
+      "114":"n",
+      "115":"n",
+      "116":"n",
+      "117":"n",
+      "118":"n",
+      "119":"n",
+      "120":"n",
+      "121":"n",
+      "122":"n",
+      "123":"n",
+      "124":"n",
+      "125":"n",
       "126":"y",
       "127":"y",
       "128":"y",
       "129":"y",
       "130":"y",
-      "131":"y",
-      "132":"y",
-      "133":"y"
+      "131":"y"
     },
     "firefox":{
       "2":"n",
@@ -239,8 +237,7 @@
       "134":"n",
       "135":"n",
       "136":"n",
-      "137":"n",
-      "138":"n"
+      "137":"n"
     },
     "chrome":{
       "4":"n",
@@ -349,21 +346,21 @@
       "108":"n",
       "109":"n",
       "110":"n",
-      "111":"y",
-      "112":"y",
-      "113":"y",
-      "114":"y",
-      "115":"y",
-      "116":"y",
-      "117":"y",
-      "118":"y",
-      "119":"y",
-      "120":"y",
-      "121":"y",
-      "122":"y",
-      "123":"y",
-      "124":"y",
-      "125":"y",
+      "111":"n",
+      "112":"n",
+      "113":"n",
+      "114":"n",
+      "115":"n",
+      "116":"n",
+      "117":"n",
+      "118":"n",
+      "119":"n",
+      "120":"n",
+      "121":"n",
+      "122":"n",
+      "123":"n",
+      "124":"n",
+      "125":"n",
       "126":"y",
       "127":"y",
       "128":"y",
@@ -373,8 +370,7 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y",
-      "136":"y"
+      "135":"y"
     },
     "safari":{
       "3.1":"n",
@@ -419,11 +415,10 @@
       "17.4":"n",
       "17.5":"n",
       "17.6":"n",
-      "18.0":"y",
-      "18.1":"y",
+      "18.0":"n",
+      "18.1":"n",
       "18.2":"y",
       "18.3":"y",
-      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -518,21 +513,21 @@
       "94":"n",
       "95":"n",
       "96":"n",
-      "97":"y",
-      "98":"y",
-      "99":"y",
-      "100":"y",
-      "101":"y",
-      "102":"y",
-      "103":"y",
-      "104":"y",
-      "105":"y",
-      "106":"y",
-      "107":"y",
-      "108":"y",
-      "109":"y",
-      "110":"y",
-      "111":"y",
+      "97":"n",
+      "98":"n",
+      "99":"n",
+      "100":"n",
+      "101":"n",
+      "102":"n",
+      "103":"n",
+      "104":"n",
+      "105":"n",
+      "106":"n",
+      "107":"n",
+      "108":"n",
+      "109":"n",
+      "110":"n",
+      "111":"n",
       "112":"y",
       "113":"y",
       "114":"y"
@@ -579,11 +574,10 @@
       "17.4":"n",
       "17.5":"n",
       "17.6-17.7":"n",
-      "18.0":"y",
-      "18.1":"y",
+      "18.0":"n",
+      "18.1":"n",
       "18.2":"y",
-      "18.3":"y",
-      "18.4":"y"
+      "18.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -598,7 +592,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "133":"y"
+      "131":"y"
     },
     "bb":{
       "7":"n",
@@ -614,10 +608,10 @@
       "80":"y"
     },
     "and_chr":{
-      "133":"y"
+      "131":"y"
     },
     "and_ff":{
-      "135":"n"
+      "132":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -646,11 +640,11 @@
       "20":"n",
       "21":"n",
       "22":"n",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y"
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -667,11 +661,11 @@
   "notes_by_num":{
     
   },
-  "usage_perc_y":84.7,
+  "usage_perc_y":0,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"ViewTransition,startViewTransition",
-  "chrome_id":"5193009714954240",
+  "keywords":"ViewTransition,@view-transition",
+  "chrome_id":"5118874666663936",
   "shown":true
 }
