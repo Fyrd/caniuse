@@ -13,10 +13,6 @@
       "title":"Specification explainer"
     },
     {
-      "url":"https://mozilla.github.io/standards-positions/#cookie-store",
-      "title":"Firefox position: defer"
-    },
-    {
       "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1475599",
       "title":"Firefox support bug"
     },
@@ -106,7 +102,8 @@
       "130":"y",
       "131":"y",
       "132":"y",
-      "133":"y"
+      "133":"y",
+      "134":"y"
     },
     "firefox":{
       "2":"n",
@@ -245,9 +242,10 @@
       "133":"n d #2",
       "134":"n d #2",
       "135":"n d #2",
-      "136":"y",
+      "136":"n d #2",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "chrome":{
       "4":"n",
@@ -381,7 +379,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "safari":{
       "3.1":"n",
@@ -542,7 +541,10 @@
       "111":"y",
       "112":"y",
       "113":"y",
-      "114":"y"
+      "114":"y",
+      "115":"y",
+      "116":"y",
+      "117":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -605,7 +607,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "133":"y"
+      "134":"y"
     },
     "bb":{
       "7":"n",
@@ -621,10 +623,10 @@
       "80":"y"
     },
     "and_chr":{
-      "133":"y"
+      "134":"y"
     },
     "and_ff":{
-      "135":"n"
+      "136":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -675,7 +677,7 @@
     "1":"Can be enabled with the `#enable-experimental-web-platform-features` flag.",
     "2":"Can be enabled with the `dom.cookieStore.enabled` flag."
   },
-  "usage_perc_y":76.09,
+  "usage_perc_y":76.08,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
