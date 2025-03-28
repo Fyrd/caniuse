@@ -1,6 +1,6 @@
 {
-  "title":"SDCH Accept-Encoding/Content-Encoding",
-  "description":"Shared Dictionary Compression over HTTP",
+  "title":"SDCH Accept-Encoding/Content-Encoding (deprecated)",
+  "description":"Shared Dictionary Compression over HTTP. A deprecated, previous version of Compression Dictionary Transport",
   "spec":"https://docs.google.com/viewer?a=v&pid=forums&srcid=MDIwOTgxNDMwMTgyMjkzMTI2ODcBMDQ2MzU5NDU2MDA0MTg5NDE1MTkBTDZmaENoSG9BZ0FKATAuMQEBdjI",
   "status":"other",
   "links":[
@@ -19,6 +19,10 @@
     {
       "url":"https://engineering.linkedin.com/shared-dictionary-compression-http-linkedin",
       "title":"Shared Dictionary Compression for HTTP at LinkedIn."
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+      "title":"MDN Web Docs - Compression Dictionary Transport, a newer version fo this technology."
     }
   ],
   "bugs":[
@@ -603,7 +607,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "134":"y"
+      "134":"n"
     },
     "bb":{
       "7":"n",
@@ -633,29 +637,29 @@
     },
     "samsung":{
       "4":"n",
-      "5.0-5.4":"y",
-      "6.2-6.4":"y",
-      "7.2-7.4":"y",
-      "8.2":"y",
-      "9.2":"y",
-      "10.1":"y",
-      "11.1-11.2":"y",
-      "12.0":"y",
-      "13.0":"y",
-      "14.0":"y",
-      "15.0":"y",
-      "16.0":"y",
-      "17.0":"y",
-      "18.0":"y",
-      "19.0":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y"
+      "5.0-5.4":"n",
+      "6.2-6.4":"n",
+      "7.2-7.4":"n",
+      "8.2":"n",
+      "9.2":"n",
+      "10.1":"n",
+      "11.1-11.2":"n",
+      "12.0":"n",
+      "13.0":"n",
+      "14.0":"n",
+      "15.0":"n",
+      "16.0":"n",
+      "17.0":"n",
+      "18.0":"n",
+      "19.0":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n"
     },
     "and_qq":{
       "14.9":"n"
