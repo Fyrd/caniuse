@@ -235,7 +235,8 @@
       "136":"a #6",
       "137":"a #6",
       "138":"a #6",
-      "139":"a #6"
+      "139":"a #6",
+      "140":"a #6"
     },
     "chrome":{
       "4":"n",
@@ -370,7 +371,8 @@
       "134":"a #7",
       "135":"a #7",
       "136":"a #7",
-      "137":"a #7"
+      "137":"a #7",
+      "138":"a #7"
     },
     "safari":{
       "3.1":"u",
@@ -672,8 +674,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":17.44,
-  "usage_perc_a":80.03,
+  "usage_perc_y":17.1,
+  "usage_perc_a":80.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",

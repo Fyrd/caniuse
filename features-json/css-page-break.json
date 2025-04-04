@@ -238,7 +238,8 @@
       "136":"a #2 #3",
       "137":"a #2 #3",
       "138":"a #2 #3",
-      "139":"a #2 #3"
+      "139":"a #2 #3",
+      "140":"a #2 #3"
     },
     "chrome":{
       "4":"a #1 #2 #3",
@@ -373,7 +374,8 @@
       "134":"y #1 #3",
       "135":"y #1 #3",
       "136":"y #1 #3",
-      "137":"y #1 #3"
+      "137":"y #1 #3",
+      "138":"y #1 #3"
     },
     "safari":{
       "3.1":"a #1 #2 #3",
@@ -671,8 +673,8 @@
     "2":"Partial support is due to not supporting `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always` (as allowed by specification)."
   },
-  "usage_perc_y":29.25,
-  "usage_perc_a":68.28,
+  "usage_perc_y":30.71,
+  "usage_perc_a":67.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

@@ -245,7 +245,8 @@
       "136":"y",
       "137":"y",
       "138":"y",
-      "139":"y"
+      "139":"y",
+      "140":"y"
     },
     "chrome":{
       "4":"n",
@@ -380,7 +381,8 @@
       "134":"a #2",
       "135":"a #2",
       "136":"a #2",
-      "137":"a #2"
+      "137":"a #2",
+      "138":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -680,8 +682,8 @@
     "4":"Partial support can be enabled on MS Edge with the Enable CSS Clip-Path Flag",
     "5":"While Edge doesn't seem to recognize any `<basic-shape>` function, it does allow you to use `polygon()` in HTML and SVG"
   },
-  "usage_perc_y":2.47,
-  "usage_perc_a":94.46,
+  "usage_perc_y":2.35,
+  "usage_perc_a":94.88,
   "ucprefix":false,
   "parent":"css-masks",
   "keywords":"clippath",

@@ -233,7 +233,8 @@
       "136":"y",
       "137":"y",
       "138":"y",
-      "139":"y"
+      "139":"y",
+      "140":"y"
     },
     "chrome":{
       "4":"n",
@@ -368,7 +369,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "safari":{
       "3.1":"n",
@@ -665,8 +667,8 @@
     "1":"Missing: IDBKeyRange includes(), renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()",
     "2":"Missing: Renaming stores/indexes, binary keys, IDBObjectStore getKey(), IDBCursor continuePrimaryKey()"
   },
-  "usage_perc_y":96.67,
-  "usage_perc_a":0.11,
+  "usage_perc_y":96.95,
+  "usage_perc_a":0.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb,indexeddb,idb",
