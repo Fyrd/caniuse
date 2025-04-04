@@ -229,7 +229,8 @@
       "136":"n",
       "137":"n",
       "138":"n",
-      "139":"n"
+      "139":"n",
+      "140":"n"
     },
     "chrome":{
       "4":"n",
@@ -364,7 +365,8 @@
       "134":"n",
       "135":"n",
       "136":"n",
-      "137":"n"
+      "137":"n",
+      "138":"n"
     },
     "safari":{
       "3.1":"n",
@@ -660,7 +662,7 @@
   "notes_by_num":{
     "1":"Prefixed implementation uses `msGetInputContext()` method from an earlier version of the spec to get the `InputMethodContext`, rather than the `inputMethodContext` attribute. Also includes support for `getCompositionAlternatives()` from the latest Editor'"
   },
-  "usage_perc_y":0.51,
+  "usage_perc_y":0.54,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

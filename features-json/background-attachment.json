@@ -237,7 +237,8 @@
       "136":"y",
       "137":"y",
       "138":"y",
-      "139":"y"
+      "139":"y",
+      "140":"y"
     },
     "chrome":{
       "4":"y",
@@ -372,7 +373,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -672,8 +674,8 @@
     "4":"Does not support `fixed`, and due [to a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=627037) only supports `local` if a `border-radius` is set on the element.",
     "5":"Broken support of `fixed` and `local` when scrolling an outer scroll container. Related [to a bug](https://bugs.webkit.org/show_bug.cgi?id=219324)."
   },
-  "usage_perc_y":93.64,
-  "usage_perc_a":2.71,
+  "usage_perc_y":93.85,
+  "usage_perc_a":2.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

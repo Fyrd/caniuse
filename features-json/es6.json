@@ -237,7 +237,8 @@
       "136":"y #2",
       "137":"y #2",
       "138":"y #2",
-      "139":"y #2"
+      "139":"y #2",
+      "140":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -372,7 +373,8 @@
       "134":"y #2",
       "135":"y #2",
       "136":"y #2",
-      "137":"y #2"
+      "137":"y #2",
+      "138":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -670,8 +672,8 @@
     "2":"Does not support [tail call optimization](https://compat-table.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":96.77,
-  "usage_perc_a":0.67,
+  "usage_perc_y":97.07,
+  "usage_perc_a":0.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",
