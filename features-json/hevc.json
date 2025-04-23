@@ -99,7 +99,8 @@
       "131":"a #4",
       "132":"a #4",
       "133":"a #4",
-      "134":"a #4"
+      "134":"a #4",
+      "135":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -428,6 +429,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
+      "18.5":"y",
       "TP":"y"
     },
     "opera":{
@@ -590,7 +592,8 @@
       "18.1":"y",
       "18.2":"y",
       "18.3":"y",
-      "18.4":"y"
+      "18.4":"y",
+      "18.5":"y"
     },
     "op_mini":{
       "all":"n"
@@ -605,7 +608,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "134":"a #5"
+      "135":"a #5"
     },
     "bb":{
       "7":"n",
@@ -621,10 +624,10 @@
       "80":"n #2"
     },
     "and_chr":{
-      "134":"a #5"
+      "135":"a #5"
     },
     "and_ff":{
-      "136":"n"
+      "137":"a #8"
     },
     "ie_mob":{
       "10":"n",
@@ -682,7 +685,7 @@
     "8":"Supported for devices with hardware support, software fallback in some cases. See [details here on MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs#hevc_h.265)."
   },
   "usage_perc_y":19.47,
-  "usage_perc_a":72.68,
+  "usage_perc_a":73.03,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

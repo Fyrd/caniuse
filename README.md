@@ -11,6 +11,8 @@ This repo contains raw data from the caniuse.com support tables. It serves two p
 
 The data in this repo is available for use under a CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/). For attribution just mention somewhere that the source is caniuse.com. If you have any questions about using the data for your project please contact me here: https://a.deveria.com/contact
 
+Some of the data on caniuse.com is provided by [browser-compat-data](https://github.com/mdn/browser-compat-data) instead of this repository.
+
 ## Sponsor
 
 [![Browserstack](/browserstack-logo.png)](https://browserstack.com)
