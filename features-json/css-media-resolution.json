@@ -626,7 +626,7 @@
       "4.2-4.3":"a x #3",
       "4.4":"a #4",
       "4.4.3-4.4.4":"a #4",
-      "135":"y"
+      "136":"y"
     },
     "bb":{
       "7":"a x #3",
@@ -642,7 +642,7 @@
       "80":"y"
     },
     "and_chr":{
-      "135":"y"
+      "136":"y"
     },
     "and_ff":{
       "137":"y"
@@ -698,7 +698,7 @@
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`.",
     "4":"Does not support `x` unit (alias for `dppx` unit), e.g: `@media (min-resolution: 2x) { }`."
   },
-  "usage_perc_y":95.24,
+  "usage_perc_y":94.37,
   "usage_perc_a":2.62,
   "ucprefix":false,
   "parent":"css-mediaqueries",

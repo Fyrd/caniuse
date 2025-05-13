@@ -607,7 +607,7 @@
       "4.2-4.3":"y x #1",
       "4.4":"y x #1",
       "4.4.3-4.4.4":"y x #1",
-      "135":"y #1"
+      "136":"y #1"
     },
     "bb":{
       "7":"y x #1",
@@ -623,7 +623,7 @@
       "80":"y #1"
     },
     "and_chr":{
-      "135":"y #1"
+      "136":"y #1"
     },
     "and_ff":{
       "137":"y"
@@ -677,8 +677,8 @@
     "1":"Doesn't work with a stacking context (e.g. `position: relative`), see [Chromium bug](https://crbug.com/1500148)",
     "2":"Doesn't work with flex/grid container, see [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=169125)"
   },
-  "usage_perc_y":96.46,
-  "usage_perc_a":0.86,
+  "usage_perc_y":95.57,
+  "usage_perc_a":0.87,
   "ucprefix":false,
   "parent":"background-img-opts",
   "keywords":"background-clip,text,clip",

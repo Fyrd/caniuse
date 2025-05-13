@@ -605,7 +605,7 @@
       "4.2-4.3":"n",
       "4.4":"a #2 #5",
       "4.4.3-4.4.4":"a #2 #5",
-      "135":"a #2"
+      "136":"a #2"
     },
     "bb":{
       "7":"n",
@@ -621,7 +621,7 @@
       "80":"a #7"
     },
     "and_chr":{
-      "135":"a #7"
+      "136":"a #7"
     },
     "and_ff":{
       "137":"a #4"
@@ -680,8 +680,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":17.1,
-  "usage_perc_a":80.69,
+  "usage_perc_y":16.65,
+  "usage_perc_a":80.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",
