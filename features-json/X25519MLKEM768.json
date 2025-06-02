@@ -1,7 +1,7 @@
 {
   "title":"Hybrid Post-Quantum Key Agreement with X25519MLKEM768",
   "description":"Support for post-quantum key agreement in TLS 1.3 with X25519MLKEM768",
-  "spec":"https://www.ietf.org/archive/id/draft-kwiatkowski-tls-ecdhe-mlkem-02.html",
+  "spec":"https://datatracker.ietf.org/doc/draft-ietf-tls-ecdhe-mlkem/",
   "status":"other",
   "links":[
     {
@@ -684,7 +684,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"kyber,mlkem,ml-kem,pqc, postquantum,X25519MLKEM768",
+  "keywords":"kyber,mlkem,ml-kem,pqc,hybrid key agreement,postquantum,X25519MLKEM768",
   "shown":false,
   "chrome_id":"5257822742249472,"
 }
