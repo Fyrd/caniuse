@@ -101,7 +101,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "firefox":{
       "2":"n",
@@ -613,7 +614,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "136":"y"
+      "137":"y"
     },
     "bb":{
       "7":"n",
@@ -629,10 +630,10 @@
       "80":"y"
     },
     "and_chr":{
-      "136":"y"
+      "137":"y"
     },
     "and_ff":{
-      "137":"y"
+      "139":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -665,7 +666,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -684,8 +686,8 @@
     "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "3":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true"
   },
-  "usage_perc_y":92.21,
-  "usage_perc_a":0.71,
+  "usage_perc_y":92.11,
+  "usage_perc_a":0.65,
   "ucprefix":false,
   "parent":"",
   "keywords":"color(),Display-P3,A98-RGB,ProPhoto-RGB,REC-2020,Device-Dependent Colors,Profiled Colors,@color-profile,color space",

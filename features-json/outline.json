@@ -93,7 +93,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "firefox":{
       "2":"y",
@@ -605,7 +606,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "136":"y"
+      "137":"y"
     },
     "bb":{
       "7":"y",
@@ -621,10 +622,10 @@
       "80":"y"
     },
     "and_chr":{
-      "136":"y"
+      "137":"y"
     },
     "and_ff":{
-      "137":"y"
+      "139":"y"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -657,7 +658,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -675,8 +677,8 @@
     "1":"Also supports the value of `invert` for `outline-color`. (support of this value is optional for browsers)",
     "2":"Does not support `outline-offset`."
   },
-  "usage_perc_y":96.48,
-  "usage_perc_a":0.5,
+  "usage_perc_y":96.18,
+  "usage_perc_a":0.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"-moz-outline,outline-width,outline-style,outline-color,outline-radius",

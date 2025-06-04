@@ -89,7 +89,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -601,7 +602,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "136":"y"
+      "137":"y"
     },
     "bb":{
       "7":"u",
@@ -617,10 +618,10 @@
       "80":"y"
     },
     "and_chr":{
-      "136":"y"
+      "137":"y"
     },
     "and_ff":{
-      "137":"y"
+      "139":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -653,7 +654,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -672,8 +674,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":78.32,
-  "usage_perc_a":18.65,
+  "usage_perc_y":78.86,
+  "usage_perc_a":17.8,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

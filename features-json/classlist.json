@@ -112,7 +112,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "firefox":{
       "2":"p",
@@ -624,7 +625,7 @@
       "4.2-4.3":"a #1 #2 #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "136":"y"
+      "137":"y"
     },
     "bb":{
       "7":"a #1 #2 #3",
@@ -640,10 +641,10 @@
       "80":"y"
     },
     "and_chr":{
-      "136":"y"
+      "137":"y"
     },
     "and_ff":{
-      "137":"y"
+      "139":"y"
     },
     "ie_mob":{
       "10":"a #1 #2 #3",
@@ -676,7 +677,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -696,7 +698,7 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList` or the `replace()` method"
   },
-  "usage_perc_y":96.43,
+  "usage_perc_y":96.1,
   "usage_perc_a":0.52,
   "ucprefix":false,
   "parent":"",

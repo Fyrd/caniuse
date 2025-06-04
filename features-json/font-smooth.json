@@ -99,7 +99,8 @@
       "133":"a x #1 #3",
       "134":"a x #1 #3",
       "135":"a x #1 #3",
-      "136":"a x #1 #3"
+      "136":"a x #1 #3",
+      "137":"a x #1 #3"
     },
     "firefox":{
       "2":"n",
@@ -611,7 +612,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "136":"n"
+      "137":"n"
     },
     "bb":{
       "7":"n",
@@ -627,10 +628,10 @@
       "80":"n"
     },
     "and_chr":{
-      "136":"n"
+      "137":"n"
     },
     "and_ff":{
-      "137":"n"
+      "139":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -663,7 +664,8 @@
       "24":"n",
       "25":"n",
       "26":"n",
-      "27":"n"
+      "27":"n",
+      "28":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -684,7 +686,7 @@
     "4":"Firefox 128 and later supports `-webkit-font-smoothing: antialiased` (by mapping to `-moz-osx-font-smoothing: grayscale`)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":32.05,
+  "usage_perc_a":30.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"font smooth,font smoothing,-webkit-font-smoothing,-moz-osx-font-smoothing",

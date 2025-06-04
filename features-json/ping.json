@@ -89,7 +89,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "firefox":{
       "2":"n",
@@ -601,7 +602,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "136":"y"
+      "137":"y"
     },
     "bb":{
       "7":"n",
@@ -617,10 +618,10 @@
       "80":"y"
     },
     "and_chr":{
-      "136":"y"
+      "137":"y"
     },
     "and_ff":{
-      "137":"n d #1"
+      "139":"n d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -653,7 +654,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -670,7 +672,7 @@
   "notes_by_num":{
     "1":"Disabled by default for [privacy reasons](http://kb.mozillazine.org/Browser.send_pings). Can be enabled via the `browser.send_pings` flag."
   },
-  "usage_perc_y":94,
+  "usage_perc_y":93.86,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

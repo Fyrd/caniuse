@@ -101,7 +101,8 @@
       "133":"a #4",
       "134":"a #4",
       "135":"a #4",
-      "136":"a #4"
+      "136":"a #4",
+      "137":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -613,7 +614,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "136":"a #5"
+      "137":"a #5"
     },
     "bb":{
       "7":"n",
@@ -629,10 +630,10 @@
       "80":"n #2"
     },
     "and_chr":{
-      "136":"a #5"
+      "137":"a #5"
     },
     "and_ff":{
-      "137":"a #8"
+      "139":"a #8"
     },
     "ie_mob":{
       "10":"n",
@@ -665,7 +666,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -689,8 +691,8 @@
     "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported.",
     "8":"Supported for devices with hardware support, software fallback in some cases. See [details here on MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs#hevc_h.265)."
   },
-  "usage_perc_y":18.83,
-  "usage_perc_a":74.04,
+  "usage_perc_y":19,
+  "usage_perc_a":73.9,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

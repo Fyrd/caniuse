@@ -98,7 +98,8 @@
       "133":"y #1 #3",
       "134":"y #1 #3",
       "135":"y #1 #3",
-      "136":"y #1 #3"
+      "136":"y #1 #3",
+      "137":"y #1 #3"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -610,7 +611,7 @@
       "4.2-4.3":"a #1 #2 #3",
       "4.4":"a #1 #2 #3",
       "4.4.3-4.4.4":"a #1 #2 #3",
-      "136":"y #1 #3"
+      "137":"y #1 #3"
     },
     "bb":{
       "7":"a #1 #2 #3",
@@ -626,10 +627,10 @@
       "80":"y #1 #3"
     },
     "and_chr":{
-      "136":"a #1 #2 #3"
+      "137":"a #1 #2 #3"
     },
     "and_ff":{
-      "137":"a #2 #3"
+      "139":"a #2 #3"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -662,7 +663,8 @@
       "24":"y #1 #3",
       "25":"y #1 #3",
       "26":"y #1 #3",
-      "27":"y #1 #3"
+      "27":"y #1 #3",
+      "28":"y #1 #3"
     },
     "and_qq":{
       "14.9":"a #1 #2 #3"
@@ -681,8 +683,8 @@
     "2":"Partial support is due to not supporting `avoid` for `page-break-before` & `page-break-after` (only `page-break-inside`).",
     "3":"Treats the `left` and `right` values like `always` (as allowed by specification)."
   },
-  "usage_perc_y":29.83,
-  "usage_perc_a":67.19,
+  "usage_perc_y":28.28,
+  "usage_perc_a":68.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"page-break-before,page-break-after,page-break-inside,always,avoid",

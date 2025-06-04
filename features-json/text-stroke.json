@@ -99,7 +99,8 @@
       "133":"y x",
       "134":"y x",
       "135":"y x",
-      "136":"y x"
+      "136":"y x",
+      "137":"y x"
     },
     "firefox":{
       "2":"n",
@@ -611,7 +612,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "136":"y x"
+      "137":"y x"
     },
     "bb":{
       "7":"y x",
@@ -627,10 +628,10 @@
       "80":"y x"
     },
     "and_chr":{
-      "136":"y x"
+      "137":"y x"
     },
     "and_ff":{
-      "137":"y x #1"
+      "139":"y x #1"
     },
     "ie_mob":{
       "10":"n",
@@ -663,7 +664,8 @@
       "24":"y x",
       "25":"y x",
       "26":"y x",
-      "27":"y x"
+      "27":"y x",
+      "28":"y x"
     },
     "and_qq":{
       "14.9":"y x"
@@ -681,7 +683,7 @@
     "1":"Firefox & Edge specifically only support the `-webkit-text-stroke` property (not using `-moz-` or `-ms-` prefix)",
     "2":"Requires the `layout.css.prefixes.webkit` flag to be enabled."
   },
-  "usage_perc_y":96.44,
+  "usage_perc_y":96.11,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

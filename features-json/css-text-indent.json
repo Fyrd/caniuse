@@ -101,7 +101,8 @@
       "133":"a #1 #2",
       "134":"a #1 #2",
       "135":"a #1 #2",
-      "136":"a #1 #2"
+      "136":"a #1 #2",
+      "137":"a #1 #2"
     },
     "firefox":{
       "2":"a #1",
@@ -613,7 +614,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "136":"a #1 #2"
+      "137":"a #1 #2"
     },
     "bb":{
       "7":"a #1",
@@ -629,10 +630,10 @@
       "80":"a #1 #2"
     },
     "and_chr":{
-      "136":"a #1 #2"
+      "137":"a #1 #2"
     },
     "and_ff":{
-      "137":"y"
+      "139":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -665,7 +666,8 @@
       "24":"a #1 #2",
       "25":"a #1 #2",
       "26":"a #1 #2",
-      "27":"a #1 #2"
+      "27":"a #1 #2",
+      "28":"a #1 #2"
     },
     "and_qq":{
       "14.9":"a #1 #2"
@@ -683,8 +685,8 @@
     "1":"Partial support refers to supporting a `<length>` value, but not the `each-line` or `hanging` keywords.",
     "2":"Support for `each-line` & `hanging` is available behind the Experimental Web Platform features flag"
   },
-  "usage_perc_y":17.37,
-  "usage_perc_a":79.66,
+  "usage_perc_y":17.39,
+  "usage_perc_a":79.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"each-line,hanging",

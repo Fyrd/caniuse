@@ -97,7 +97,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "firefox":{
       "2":"n",
@@ -609,7 +610,7 @@
       "4.2-4.3":"a #1 #2",
       "4.4":"a #2",
       "4.4.3-4.4.4":"y",
-      "136":"y"
+      "137":"y"
     },
     "bb":{
       "7":"a #1 #2",
@@ -625,10 +626,10 @@
       "80":"y"
     },
     "and_chr":{
-      "136":"y"
+      "137":"y"
     },
     "and_ff":{
-      "137":"y"
+      "139":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -661,7 +662,8 @@
       "24":"y",
       "25":"y",
       "26":"y",
-      "27":"y"
+      "27":"y",
+      "28":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -679,8 +681,8 @@
     "1":"Does not have `FileReader` support. ",
     "2":"Does not support the `File` constructor"
   },
-  "usage_perc_y":96.3,
-  "usage_perc_a":0.61,
+  "usage_perc_y":95.99,
+  "usage_perc_a":0.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"FileReader",

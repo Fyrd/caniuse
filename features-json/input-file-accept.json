@@ -89,7 +89,8 @@
       "133":"y",
       "134":"y",
       "135":"y",
-      "136":"y"
+      "136":"y",
+      "137":"y"
     },
     "firefox":{
       "2":"n",
@@ -601,7 +602,7 @@
       "4.2-4.3":"a #2",
       "4.4":"n #3",
       "4.4.3-4.4.4":"n #3",
-      "136":"n #3"
+      "137":"n #3"
     },
     "bb":{
       "7":"a #2",
@@ -617,10 +618,10 @@
       "80":"n #3"
     },
     "and_chr":{
-      "136":"a #2"
+      "137":"a #2"
     },
     "and_ff":{
-      "137":"n"
+      "139":"n"
     },
     "ie_mob":{
       "10":"n #3",
@@ -653,7 +654,8 @@
       "24":"a #2",
       "25":"a #2",
       "26":"a #2",
-      "27":"a #2"
+      "27":"a #2",
+      "28":"a #2"
     },
     "and_qq":{
       "14.9":"a #2"
@@ -673,8 +675,8 @@
     "3":"Does not allow any files to be picked at all",
     "4":"Supports the type format but does not allow any file to be picked when using the extension format"
   },
-  "usage_perc_y":32.49,
-  "usage_perc_a":61.35,
+  "usage_perc_y":30.53,
+  "usage_perc_a":63.13,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
