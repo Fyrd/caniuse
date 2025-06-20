@@ -242,8 +242,8 @@
       "138":"n d #1",
       "139":"n d #1",
       "140":"n d #1",
-      "141":"n d #1",
-      "142":"n d #1"
+      "141":"a d #1 #6",
+      "142":"a d #1 #6"
     },
     "chrome":{
       "4":"n",
@@ -684,7 +684,8 @@
     "2":"Can be enabled in Safari with the `WebGPU` feature flag.",
     "3":"Can be enabled in some Chromium browsers (on Windows, MacOS, Linux) with the `enable-unsafe-webgpu` flag.",
     "4":"Part of an origin trial.",
-    "5":"Not enabled on Linux by default."
+    "5":"Not enabled on Linux by default.",
+    "6":"Only enabled by default on Windows"
   },
   "usage_perc_y":72.74,
   "usage_perc_a":0,
