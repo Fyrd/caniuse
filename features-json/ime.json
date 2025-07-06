@@ -90,7 +90,8 @@
       "134":"n",
       "135":"n",
       "136":"n",
-      "137":"n"
+      "137":"n",
+      "138":"n"
     },
     "firefox":{
       "2":"n",
@@ -606,7 +607,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "137":"n"
+      "138":"n"
     },
     "bb":{
       "7":"n",
@@ -622,10 +623,10 @@
       "80":"n"
     },
     "and_chr":{
-      "137":"n"
+      "138":"n"
     },
     "and_ff":{
-      "139":"n"
+      "140":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -676,7 +677,7 @@
   "notes_by_num":{
     "1":"Prefixed implementation uses `msGetInputContext()` method from an earlier version of the spec to get the `InputMethodContext`, rather than the `inputMethodContext` attribute. Also includes support for `getCompositionAlternatives()` from the latest Editor'"
   },
-  "usage_perc_y":0.49,
+  "usage_perc_y":0.48,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

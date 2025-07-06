@@ -126,7 +126,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "firefox":{
       "2":"n",
@@ -642,7 +643,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n #2",
-      "137":"n #2"
+      "138":"n #2"
     },
     "bb":{
       "7":"n",
@@ -658,10 +659,10 @@
       "80":"y"
     },
     "and_chr":{
-      "137":"y"
+      "138":"y"
     },
     "and_ff":{
-      "139":"y"
+      "140":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -716,8 +717,8 @@
     "4":"Only supported on Windows and Chrome OS",
     "5":"Did not support share click that would trigger a [fetch call](https://bugs.webkit.org/show_bug.cgi?id=197779)"
   },
-  "usage_perc_y":88.57,
-  "usage_perc_a":2.65,
+  "usage_perc_y":87.12,
+  "usage_perc_a":4.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"web share,share,share api,intents api,navigator.share,navigator.canShare",

@@ -98,7 +98,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "firefox":{
       "2":"y #2",
@@ -614,7 +615,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "137":"y"
+      "138":"y"
     },
     "bb":{
       "7":"y",
@@ -630,10 +631,10 @@
       "80":"y"
     },
     "and_chr":{
-      "137":"y"
+      "138":"y"
     },
     "and_ff":{
-      "139":"y"
+      "140":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -685,7 +686,7 @@
     "1":"IE<=8 instead only supports the [proprietary `.attachEvent()` method](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener). It also does not support the [capture phase](https://www.w3.org/TR/DOM-Level-3-Events/#event-flow) of DOM event dispatch; it only supports event bubbling.",
     "2":"The `useCapture` parameter is non-optional and must be provided. Future versions made it optional, with a default value of `false`."
   },
-  "usage_perc_y":96.66,
+  "usage_perc_y":96.75,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

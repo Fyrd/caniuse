@@ -119,7 +119,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "firefox":{
       "2":"n",
@@ -635,7 +636,7 @@
       "4.2-4.3":"n",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "137":"y"
+      "138":"y"
     },
     "bb":{
       "7":"n",
@@ -651,10 +652,10 @@
       "80":"y"
     },
     "and_chr":{
-      "137":"y"
+      "138":"y"
     },
     "and_ff":{
-      "139":"y"
+      "140":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -706,8 +707,8 @@
     "1":"From Gecko 2.0 (Firefox 4.0) to Gecko 14.0 (Firefox 14.0) included, Gecko supported an older syntax, slightly different from the modern one: https://hacks.mozilla.org/2010/11/firefox-4-font-feature-support/",
     "2":"Partial support in older Chrome versions refers to lacking support in Mac OS X."
   },
-  "usage_perc_y":96.49,
-  "usage_perc_a":0.08,
+  "usage_perc_y":96.63,
+  "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"font-feature,font-feature-settings,kern,kerning,font-variant-alternates,ligatures,font-variant-ligatures",

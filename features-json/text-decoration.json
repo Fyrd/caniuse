@@ -106,7 +106,8 @@
       "134":"a #5",
       "135":"a #5",
       "136":"a #5",
-      "137":"a #5"
+      "137":"a #5",
+      "138":"a #5"
     },
     "firefox":{
       "2":"n",
@@ -622,7 +623,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "137":"y"
+      "138":"y"
     },
     "bb":{
       "7":"n",
@@ -638,10 +639,10 @@
       "80":"a #5"
     },
     "and_chr":{
-      "137":"a #5"
+      "138":"a #5"
     },
     "and_ff":{
-      "139":"a #4"
+      "140":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -696,8 +697,8 @@
     "4":"Partial support refers to not supporting the `text-decoration-skip` property.",
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
-  "usage_perc_y":0.8,
-  "usage_perc_a":95.03,
+  "usage_perc_y":0.69,
+  "usage_perc_a":95.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",

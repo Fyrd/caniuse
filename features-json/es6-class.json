@@ -98,7 +98,8 @@
       "134":"y",
       "135":"y",
       "136":"y",
-      "137":"y"
+      "137":"y",
+      "138":"y"
     },
     "firefox":{
       "2":"n",
@@ -614,7 +615,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "137":"y"
+      "138":"y"
     },
     "bb":{
       "7":"n",
@@ -630,10 +631,10 @@
       "80":"y"
     },
     "and_chr":{
-      "137":"y"
+      "138":"y"
     },
     "and_ff":{
-      "139":"y"
+      "140":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -684,8 +685,8 @@
   "notes_by_num":{
     "1":"Requires strict mode. Non-strict mode support is behind the flag 'Enable Experimental JavaScript', disabled by default."
   },
-  "usage_perc_y":95.97,
-  "usage_perc_a":0.09,
+  "usage_perc_y":96.13,
+  "usage_perc_a":0.07,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,JavaScript,class",
