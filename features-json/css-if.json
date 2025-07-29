@@ -25,7 +25,9 @@
       "title":"Minimal vanilla JavaScript polyfill and PostCSS plugin"
     }
   ],
-  "bugs":[],
+  "bugs":[
+    
+  ],
   "categories":[
     "CSS"
   ],
@@ -688,12 +690,14 @@
     }
   },
   "notes":"",
-  "notes_by_num":{},
-  "usage_perc_y":15.3,
+  "notes_by_num":{
+    
+  },
+  "usage_perc_y":63.83,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"condition,media,supports,style",
   "chrome_id":"6313805904347136",
-  "shown":true
+  "shown":false
 }
