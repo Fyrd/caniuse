@@ -91,7 +91,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -238,7 +239,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"n",
@@ -428,7 +430,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5":"y",
+      "18.5-18.6":"y",
       "26.0":"y",
       "TP":"y"
     },
@@ -593,7 +595,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5":"y",
+      "18.5-18.6":"y",
       "26.0":"y"
     },
     "op_mini":{
@@ -609,7 +611,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"n",
@@ -625,10 +627,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "141":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -641,28 +643,28 @@
       "4":"n",
       "5.0-5.4":"n",
       "6.2-6.4":"n",
-      "7.2-7.4":"n",
+      "7.2-7.4":"y",
       "8.2":"n",
       "9.2":"n",
       "10.1":"n",
       "11.1-11.2":"n",
       "12.0":"n",
       "13.0":"n",
-      "14.0":"y",
-      "15.0":"y",
-      "16.0":"y",
-      "17.0":"y",
-      "18.0":"y",
-      "19.0":"y",
-      "20":"y",
-      "21":"y",
-      "22":"y",
-      "23":"y",
-      "24":"y",
-      "25":"y",
-      "26":"y",
-      "27":"y",
-      "28":"y"
+      "14.0":"n",
+      "15.0":"n",
+      "16.0":"n",
+      "17.0":"n",
+      "18.0":"n",
+      "19.0":"n",
+      "20":"n",
+      "21":"n",
+      "22":"n",
+      "23":"n",
+      "24":"n",
+      "25":"n",
+      "26":"n",
+      "27":"n",
+      "28":"n #6"
     },
     "and_qq":{
       "14.9":"n"
@@ -681,9 +683,10 @@
     "2":"Can be enabled in Chrome(Chromium) via the `--enable-quic` & `--quic-version=h3-23` command line arguments.",
     "3":"Can be enabled in Chrome(Chromium) via the `--enable-quic` & `--quic-version=h3-29` command line arguments.",
     "4":"Requires macOS 11 Big Sur or later.",
-    "5":"Since Sept 2024, HTTP3 is enabled for all users of Safari 16 and newer. Before then, it was enabled for a subset of users. Enabling the feature flag ensured support."
+    "5":"Since Sept 2024, HTTP3 is enabled for all users of Safari 16 and newer. Before then, it was enabled for a subset of users. Enabling the feature flag ensured support.",
+    "6":"Based on real-world data from July 2025, the current versions of Samsung Internet do not support HTTP/3."
   },
-  "usage_perc_y":93.9,
+  "usage_perc_y":91.83,
   "usage_perc_a":0.77,
   "ucprefix":false,
   "parent":"",
