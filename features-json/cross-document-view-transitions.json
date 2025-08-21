@@ -252,8 +252,8 @@
       "141":"n",
       "142":"n",
       "143":"n",
-      "144":"n",
-      "145":"n"
+      "144":"n x d a #1",
+      "145":"n x d a #1"
     },
     "chrome":{
       "4":"n",
@@ -692,7 +692,7 @@
   },
   "notes":"See also support for the [Navigation API](/mdn-api_navigation) which can be used for some view transition behavior.",
   "notes_by_num":{
-    
+    "1":"Partial support can be enabled using the `dom.viewTransitions.enabled` flag. Enabled by default only in Firefox Nightly"
   },
   "usage_perc_y":78.58,
   "usage_perc_a":0,
