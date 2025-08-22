@@ -636,7 +636,7 @@
       "139":"a #7"
     },
     "and_ff":{
-      "141":"a #4"
+      "142":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -693,8 +693,8 @@
     "6":"Supports `cut` & `copy` events without a focused editable field, but not `paste` (presumably for security reasons)",
     "7":"Supports `cut` & `copy` events without a focused editable field, but does not fire `paste` with `document.execCommand('paste')`  "
   },
-  "usage_perc_y":15.52,
-  "usage_perc_a":81.08,
+  "usage_perc_y":15.62,
+  "usage_perc_a":81.09,
   "ucprefix":false,
   "parent":"",
   "keywords":"cut,copy,paste,clipboarddata,clipboardevent",
