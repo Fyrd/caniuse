@@ -103,7 +103,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -250,7 +251,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"n",
@@ -621,7 +623,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"n",
@@ -637,10 +639,10 @@
       "80":"a #2"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"a #2"
+      "142":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -692,8 +694,8 @@
     "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
     "2":"Does not support `currentcolor` or system color keywords ([Firefox bug 1893966](https://bugzilla.mozilla.org/show_bug.cgi?id=1893966))"
   },
-  "usage_perc_y":79.09,
-  "usage_perc_a":6.64,
+  "usage_perc_y":79.54,
+  "usage_perc_a":6.31,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

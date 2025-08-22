@@ -103,7 +103,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -250,7 +251,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"n",
@@ -621,7 +623,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"n",
@@ -637,10 +639,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "142":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -692,7 +694,7 @@
     "1":"WebKit browsers clamp the maximum value returned to 2 on iOS devices and 8 on all others. Disabled in Safari behind the ENABLE_NAVIGATOR_HWCONCURRENCY build option.",
     "2":"Safari clamps this property to 4 or 8 cores, to prevent device fingerprinting."
   },
-  "usage_perc_y":95.31,
+  "usage_perc_y":95.42,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -113,7 +113,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -260,7 +261,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"y",
@@ -631,7 +633,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"y",
@@ -647,10 +649,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "142":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -704,7 +706,7 @@
     "3":"Ignores the `autoplay` attribute by default, though autoplay behavior can be [enabled by users](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)",
     "4":"On iOS the `volume` property is read-only."
   },
-  "usage_perc_y":96.56,
+  "usage_perc_y":96.68,
   "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",

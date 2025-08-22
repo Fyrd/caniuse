@@ -91,7 +91,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -238,7 +239,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"n",
@@ -609,7 +611,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"n",
@@ -625,10 +627,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "142":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -684,7 +686,7 @@
     "5":"Since Sept 2024, HTTP3 is enabled for all users of Safari 16 and newer. Before then, it was enabled for a subset of users. Enabling the feature flag ensured support.",
     "6":"Based on real-world data from July 2025, the current versions of Samsung Internet do not support HTTP/3."
   },
-  "usage_perc_y":91.83,
+  "usage_perc_y":91.95,
   "usage_perc_a":0.77,
   "ucprefix":false,
   "parent":"",

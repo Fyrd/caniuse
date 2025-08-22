@@ -95,7 +95,8 @@
       "135":"y #3",
       "136":"y #3",
       "137":"y #3",
-      "138":"y #3"
+      "138":"y #3",
+      "139":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -242,7 +243,8 @@
       "141":"y #3",
       "142":"y #3",
       "143":"y #3",
-      "144":"y #3"
+      "144":"y #3",
+      "145":"y #3"
     },
     "chrome":{
       "4":"n",
@@ -613,7 +615,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y #3"
+      "139":"y #3"
     },
     "bb":{
       "7":"n",
@@ -629,10 +631,10 @@
       "80":"y #3"
     },
     "and_chr":{
-      "138":"y #3"
+      "139":"y #3"
     },
     "and_ff":{
-      "140":"y #3"
+      "142":"y #3"
     },
     "ie_mob":{
       "10":"n",
@@ -685,7 +687,7 @@
     "2":"Partial support in Safari refers to being limited to OS X 10.11 El Capitan and newer.",
     "3":"Only supports HTTP/2 if the server supports protocol negotiation via ALPN."
   },
-  "usage_perc_y":95.9,
+  "usage_perc_y":96.01,
   "usage_perc_a":0.61,
   "ucprefix":false,
   "parent":"",

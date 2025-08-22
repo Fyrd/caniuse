@@ -99,7 +99,8 @@
       "135":"y #2",
       "136":"y #2",
       "137":"y #2",
-      "138":"y #2"
+      "138":"y #2",
+      "139":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -246,7 +247,8 @@
       "141":"y #2",
       "142":"y #2",
       "143":"y #2",
-      "144":"y #2"
+      "144":"y #2",
+      "145":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -617,7 +619,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "138":"y #2"
+      "139":"y #2"
     },
     "bb":{
       "7":"n",
@@ -633,10 +635,10 @@
       "80":"y #2"
     },
     "and_chr":{
-      "138":"y #2"
+      "139":"y #2"
     },
     "and_ff":{
-      "140":"y #2"
+      "142":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -689,7 +691,7 @@
     "2":"Does not support [tail call optimization](https://compat-table.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":95.72,
+  "usage_perc_y":95.83,
   "usage_perc_a":0.85,
   "ucprefix":false,
   "parent":"",

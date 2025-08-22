@@ -95,7 +95,8 @@
       "135":"y #2",
       "136":"y #2",
       "137":"y #2",
-      "138":"y #2"
+      "138":"y #2",
+      "139":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -242,7 +243,8 @@
       "141":"y #2",
       "142":"y #2",
       "143":"y #2",
-      "144":"y #2"
+      "144":"y #2",
+      "145":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -613,7 +615,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"n"
+      "139":"n"
     },
     "bb":{
       "7":"n",
@@ -629,10 +631,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "142":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -689,8 +691,8 @@
     "6":"Supported in Safari, not WKWebView nor SFSafariViewController",
     "7":"Requires website to first be added to the Home Screen."
   },
-  "usage_perc_y":80.82,
-  "usage_perc_a":12.76,
+  "usage_perc_y":80.83,
+  "usage_perc_a":12.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"web push,push notifications",

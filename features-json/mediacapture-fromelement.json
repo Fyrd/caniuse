@@ -100,7 +100,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -247,7 +248,8 @@
       "141":"a #2",
       "142":"a #2",
       "143":"a #2",
-      "144":"a #2"
+      "144":"a #2",
+      "145":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -618,7 +620,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"n",
@@ -634,10 +636,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"a #2"
+      "142":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -689,7 +691,7 @@
     "1":"Does not support capture from `<video>`/`<audio>`",
     "2":"Capture from `<video>`/`<audio>` can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":77.49,
+  "usage_perc_y":77.5,
   "usage_perc_a":4.99,
   "ucprefix":false,
   "parent":"stream",

@@ -95,7 +95,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -242,7 +243,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"y",
@@ -613,7 +615,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "138":"y #6"
+      "139":"y #6"
     },
     "bb":{
       "7":"y",
@@ -629,10 +631,10 @@
       "80":"y #6"
     },
     "and_chr":{
-      "138":"y #6"
+      "139":"y #6"
     },
     "and_ff":{
-      "140":"y #6"
+      "142":"y #6"
     },
     "ie_mob":{
       "10":"y",
@@ -688,7 +690,7 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":96.59,
+  "usage_perc_y":96.7,
   "usage_perc_a":0.1,
   "ucprefix":false,
   "parent":"form-validation",

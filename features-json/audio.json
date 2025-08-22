@@ -120,7 +120,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -267,7 +268,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"y",
@@ -638,7 +640,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"y",
@@ -654,10 +656,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "142":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -709,8 +711,8 @@
     "1":"Old Firefox versions were missing support for some properties: `loop` was added in v11, `played` in v15, `playbackRate` in v20.",
     "2":"iOS volume is read-only."
   },
-  "usage_perc_y":83.29,
-  "usage_perc_a":13.32,
+  "usage_perc_y":83.3,
+  "usage_perc_a":13.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"<audio>",

@@ -107,7 +107,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -254,7 +255,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"n",
@@ -625,7 +627,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"u",
@@ -641,10 +643,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "142":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -698,7 +700,7 @@
     "3":"On Windows pre 8.1 and macOS Sierra (10.12) and below falls back to using FreeType: [Chromium bug 882844](https://bugs.chromium.org/p/chromium/issues/detail?id=882844#c3)",
     "4":"COLRv0 support was disabled by a regression bug in Safari 17.0 and 17.1: [Issue 262223](https://bugs.webkit.org/show_bug.cgi?id=262223)"
   },
-  "usage_perc_y":96.02,
+  "usage_perc_y":96.14,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

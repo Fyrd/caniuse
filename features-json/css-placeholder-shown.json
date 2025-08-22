@@ -95,7 +95,8 @@
       "135":"y",
       "136":"y",
       "137":"y",
-      "138":"y"
+      "138":"y",
+      "139":"y"
     },
     "firefox":{
       "2":"n",
@@ -242,7 +243,8 @@
       "141":"y",
       "142":"y",
       "143":"y",
-      "144":"y"
+      "144":"y",
+      "145":"y"
     },
     "chrome":{
       "4":"n",
@@ -613,7 +615,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "138":"y"
+      "139":"y"
     },
     "bb":{
       "7":"n",
@@ -629,10 +631,10 @@
       "80":"y"
     },
     "and_chr":{
-      "138":"y"
+      "139":"y"
     },
     "and_ff":{
-      "140":"y"
+      "142":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -684,7 +686,7 @@
     "1":"Partial support in Firefox refers to using the non-standard `:-moz-placeholder` name rather than `:placeholder-shown`.",
     "2":"Partial support in IE refers to using the non-standard `:-ms-input-placeholder` name rather than `:placeholder-shown`."
   },
-  "usage_perc_y":95.78,
+  "usage_perc_y":95.89,
   "usage_perc_a":0.69,
   "ucprefix":false,
   "parent":"",
