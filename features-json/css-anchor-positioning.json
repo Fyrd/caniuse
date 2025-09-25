@@ -450,7 +450,7 @@
       "18.3":"n",
       "18.4":"n",
       "18.5-18.6":"n",
-      "26.0":"y",
+      "26.0":"a #2",
       "26.1":"y",
       "TP":"y"
     },
@@ -705,7 +705,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
+    "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
+    "2": "There's a [bug with `position: fixed` and non-initial containing blocks](https://codepen.io/pavelp/pen/KwVPrrB)."
   },
   "usage_perc_y":71.39,
   "usage_perc_a":0,
