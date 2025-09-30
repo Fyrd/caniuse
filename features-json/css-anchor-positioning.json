@@ -257,8 +257,8 @@
       "142":"n",
       "143":"n",
       "144":"n",
-      "145":"n",
-      "146":"n"
+      "145":"n d #2",
+      "146":"n d #2"
     },
     "chrome":{
       "4":"n",
@@ -705,7 +705,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
+    "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
+    "2":"Can be enabled using the `layout.css.anchor-positioning.enabled` flag. Enabled by default in Firefox Nightly only"
   },
   "usage_perc_y":71.39,
   "usage_perc_a":0,
