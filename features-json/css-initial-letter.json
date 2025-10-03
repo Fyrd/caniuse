@@ -450,11 +450,11 @@
       "18.1":"a x #1 #2",
       "18.2":"a x #1 #2",
       "18.3":"a x #1 #2",
-      "18.4":"a x #1 #2",
-      "18.5-18.6":"a x #1 #2",
-      "26.0":"a x #1 #2",
-      "26.1":"a x #1 #2",
-      "TP":"a x #1 #2"
+      "18.4":"a x #2",
+      "18.5-18.6":"a x #2",
+      "26.0":"a x #2",
+      "26.1":"a x #2",
+      "TP":"a x #2"
     },
     "opera":{
       "9":"n",
@@ -621,10 +621,10 @@
       "18.1":"a x #1 #2",
       "18.2":"a x #1 #2",
       "18.3":"a x #1 #2",
-      "18.4":"a x #1 #2",
-      "18.5-18.6":"a x #1 #2",
-      "26.0":"a x #1 #2",
-      "26.1":"a x #1 #2"
+      "18.4":"a x #2",
+      "18.5-18.6":"a x #2",
+      "26.0":"a x #2",
+      "26.1":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -707,8 +707,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Safari implementation is incomplete. Does not allow applying web fonts to the initial letter.",
-    "2":"Partial support refers to only supporting the `initial-letter` property (not `initial-letter-align` or `initial-letter-wrap`)"
+    "1":"Web fonts have no affect on the initial letter. Instead a fallback system font is used.",
+    "2":"Only supports the `initial-letter` property (not `initial-letter-align` or `initial-letter-wrap`)."
   },
   "usage_perc_y":0,
   "usage_perc_a":90.18,
