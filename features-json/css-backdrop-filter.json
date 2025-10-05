@@ -107,7 +107,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -397,7 +398,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -635,7 +637,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"n",
@@ -651,10 +653,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -707,7 +709,7 @@
     "2":"Currently only supported with the `-webkit-` prefix (not -ms-)",
     "3":"Can be enabled by setting the `layout.css.backdrop-filter.enabled` and `gfx.webrender.all` preference to `true` in about:config."
   },
-  "usage_perc_y":95.4,
+  "usage_perc_y":95.33,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

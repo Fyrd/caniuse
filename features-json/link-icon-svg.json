@@ -110,7 +110,8 @@
       "137":"y #3 #4",
       "138":"y #3 #4",
       "139":"y #3 #4",
-      "140":"y #3 #4"
+      "140":"y #3 #4",
+      "141":"y #3 #4"
     },
     "firefox":{
       "2":"n",
@@ -400,7 +401,8 @@
       "140":"y #3 #4",
       "141":"y #3 #4",
       "142":"y #3 #4",
-      "143":"y #3 #4"
+      "143":"y #3 #4",
+      "144":"y #3 #4"
     },
     "safari":{
       "3.1":"n",
@@ -638,7 +640,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"n"
+      "141":"n"
     },
     "bb":{
       "7":"n",
@@ -654,10 +656,10 @@
       "80":"y #3 #4"
     },
     "and_chr":{
-      "140":"y #3 #4"
+      "141":"y #3 #4"
     },
     "and_ff":{
-      "142":"n"
+      "143":"n"
     },
     "ie_mob":{
       "10":"n #1",
@@ -711,7 +713,7 @@
     "3":"Requires the served mime-type to be `image/svg+xml`.",
     "4":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0)."
   },
-  "usage_perc_y":79.43,
+  "usage_perc_y":81.77,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

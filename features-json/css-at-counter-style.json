@@ -101,7 +101,8 @@
       "137":"a #1",
       "138":"a #1",
       "139":"a #1",
-      "140":"a #1"
+      "140":"a #1",
+      "141":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -391,7 +392,8 @@
       "140":"a #1",
       "141":"a #1",
       "142":"a #1",
-      "143":"a #1"
+      "143":"a #1",
+      "144":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -629,7 +631,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"a #1"
+      "141":"a #1"
     },
     "bb":{
       "7":"n",
@@ -645,10 +647,10 @@
       "80":"a #1"
     },
     "and_chr":{
-      "140":"a #1"
+      "141":"a #1"
     },
     "and_ff":{
-      "142":"a #1"
+      "143":"a #1"
     },
     "ie_mob":{
       "10":"n",
@@ -699,8 +701,8 @@
   "notes_by_num":{
     "1":"Partial support refers to lacking support for image symbols: [Firefox bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1024179), [Chrome bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1176323)"
   },
-  "usage_perc_y":0.82,
-  "usage_perc_a":92.14,
+  "usage_perc_y":0.6,
+  "usage_perc_a":92.67,
   "ucprefix":false,
   "parent":"",
   "keywords":"css @counter-style, list-style",

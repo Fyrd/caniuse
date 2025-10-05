@@ -97,7 +97,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -387,7 +388,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -625,7 +627,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"n",
@@ -641,10 +643,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -698,8 +700,8 @@
     "3":"Can be enabled in Chrome and Opera via the `#tls13-variant` flag in `chrome://flags` or `opera://flags`.",
     "4":"Partial support in Safari refers to being limited to macOS 10.14 Mojave and later."
   },
-  "usage_perc_y":95.04,
-  "usage_perc_a":0.03,
+  "usage_perc_y":95.1,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

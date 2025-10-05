@@ -155,7 +155,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"a x #1",
@@ -445,7 +446,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"a x #1",
@@ -683,7 +685,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"a x #1",
@@ -699,10 +701,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"a x #2",
@@ -756,8 +758,8 @@
     "3":"Does not support flex-wrap, flex-flow or align-content properties",
     "4":"Partial support is due to large amount of bugs present (see known issues)"
   },
-  "usage_perc_y":95.98,
-  "usage_perc_a":0.72,
+  "usage_perc_y":95.94,
+  "usage_perc_a":0.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"flex-box,displayflex,flex-direction,flex-wrap,flex-flow,flex-grow,flex-shrink,flex-basis,display:flex,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",

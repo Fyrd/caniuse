@@ -97,7 +97,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -387,7 +388,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -625,7 +627,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"n",
@@ -641,10 +643,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y #5"
+      "143":"y #5"
     },
     "ie_mob":{
       "10":"n",
@@ -699,8 +701,8 @@
     "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) `Referer` headers to the page's origin, ignoring the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies.",
     "5":"[Firefox 92+ ignores](https://bugzilla.mozilla.org/show_bug.cgi?id=1720294) the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies, defaulting to `strict-origin-when-cross-origin`."
   },
-  "usage_perc_y":95.19,
-  "usage_perc_a":1.42,
+  "usage_perc_y":95.23,
+  "usage_perc_a":1.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"meta,referrer,referer",

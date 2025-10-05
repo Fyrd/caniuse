@@ -97,7 +97,8 @@
       "137":"y #3",
       "138":"y #3",
       "139":"y #3",
-      "140":"y #3"
+      "140":"y #3",
+      "141":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -387,7 +388,8 @@
       "140":"y #3",
       "141":"y #3",
       "142":"y #3",
-      "143":"y #3"
+      "143":"y #3",
+      "144":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -625,7 +627,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"n"
+      "141":"n"
     },
     "bb":{
       "7":"n",
@@ -641,10 +643,10 @@
       "80":"y #3"
     },
     "and_chr":{
-      "140":"y #3"
+      "141":"y #3"
     },
     "and_ff":{
-      "142":"y #3"
+      "143":"y #3"
     },
     "ie_mob":{
       "10":"n",
@@ -697,7 +699,7 @@
     "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
     "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](/mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](/mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
-  "usage_perc_y":93.62,
+  "usage_perc_y":93.95,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

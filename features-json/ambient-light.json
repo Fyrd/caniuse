@@ -101,7 +101,8 @@
       "137":"n d #2",
       "138":"n d #2",
       "139":"n d #2",
-      "140":"n d #2"
+      "140":"n d #2",
+      "141":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -391,7 +392,8 @@
       "140":"n d #2",
       "141":"n d #2",
       "142":"n d #2",
-      "143":"n d #2"
+      "143":"n d #2",
+      "144":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -629,7 +631,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"n"
+      "141":"n"
     },
     "bb":{
       "7":"n",
@@ -645,10 +647,10 @@
       "80":"n"
     },
     "and_chr":{
-      "140":"n d #2"
+      "141":"n d #2"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -700,8 +702,8 @@
     "1":"Implements an [outdated version of the spec](https://www.w3.org/TR/2015/WD-ambient-light-20150903/).",
     "2":"Available by enabling the \"Generic Sensor Extra Classes\" experimental flag in `about:flags`"
   },
-  "usage_perc_y":0.33,
-  "usage_perc_a":0.05,
+  "usage_perc_y":0.31,
+  "usage_perc_a":0.06,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -105,7 +105,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -395,7 +396,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -633,7 +635,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"a #2"
+      "141":"a #2"
     },
     "bb":{
       "7":"n",
@@ -649,10 +651,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -704,8 +706,8 @@
     "1":"Partial support refers to only supporting the \"writeText\" method.",
     "2":"Supports writing to clipboard but not reading."
   },
-  "usage_perc_y":93.63,
-  "usage_perc_a":1.39,
+  "usage_perc_y":93.93,
+  "usage_perc_a":1.14,
   "ucprefix":false,
   "parent":"",
   "keywords":"clipboard,async,cut,copy,paste,clipboarddata,clipboardevent",

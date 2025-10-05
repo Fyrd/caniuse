@@ -111,7 +111,8 @@
       "137":"y #4",
       "138":"y #4",
       "139":"y #4",
-      "140":"y #4"
+      "140":"y #4",
+      "141":"y #4"
     },
     "firefox":{
       "2":"n",
@@ -401,7 +402,8 @@
       "140":"y #4",
       "141":"y #4",
       "142":"y #4",
-      "143":"y #4"
+      "143":"y #4",
+      "144":"y #4"
     },
     "safari":{
       "3.1":"n",
@@ -639,7 +641,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"y #4"
+      "141":"y #4"
     },
     "bb":{
       "7":"n",
@@ -655,10 +657,10 @@
       "80":"y #4"
     },
     "and_chr":{
-      "140":"y #4"
+      "141":"y #4"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"a x #2 #5",
@@ -714,8 +716,8 @@
     "5":"Only works on `<img>`, not CSS backgrounds or `<canvas>`.",
     "6":"Only works on `<img>` and CSS backgrounds, _not_ `<canvas>`. "
   },
-  "usage_perc_y":95.93,
-  "usage_perc_a":0.77,
+  "usage_perc_y":95.88,
+  "usage_perc_a":0.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"image-rendering,crisp-edges",

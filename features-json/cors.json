@@ -121,7 +121,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -411,7 +412,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -649,7 +651,7 @@
       "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"a #1",
@@ -665,10 +667,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -722,8 +724,8 @@
     "3":"Does not support CORS for `<video>` in `<canvas>`: https://bugs.webkit.org/show_bug.cgi?id=135379",
     "4":"Does not support CORS for resources which redirect: https://bugzilla.mozilla.org/show_bug.cgi?id=1346749"
   },
-  "usage_perc_y":96.65,
-  "usage_perc_a":0.08,
+  "usage_perc_y":96.3,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

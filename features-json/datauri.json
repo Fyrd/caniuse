@@ -107,7 +107,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"y",
@@ -397,7 +398,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"y",
@@ -635,7 +637,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"y",
@@ -651,10 +653,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"a #2",
@@ -707,8 +709,8 @@
     "2":"Support is limited to images and linked resources like CSS or JS, not HTML files. Maximum size limit is 4GB.",
     "3":"SVGs with XML declarations are not displayed when used in data-urls"
   },
-  "usage_perc_y":96.02,
-  "usage_perc_a":0.75,
+  "usage_perc_y":95.97,
+  "usage_perc_a":0.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"data url,datauris,data uri,dataurl,dataurls,base64",

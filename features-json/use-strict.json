@@ -97,7 +97,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -387,7 +388,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -625,7 +627,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"y",
@@ -641,10 +643,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -695,7 +697,7 @@
   "notes_by_num":{
     "1":"Partial support in older Safari refers to strict mode still accepting a lot of JS that should be considered invalid."
   },
-  "usage_perc_y":96.71,
+  "usage_perc_y":96.37,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es5",

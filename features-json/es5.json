@@ -105,7 +105,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"a",
@@ -395,7 +396,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"a",
@@ -633,7 +635,7 @@
       "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"a",
@@ -649,10 +651,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -706,8 +708,8 @@
     "3":"Does not support zero-width chars in identifiers & Immutable `undefined`",
     "4":"IE8 has virtually no ES5 support, but does support `Object.defineProperty`, `Object.getOwnPropertyDescriptor`, JSON parsing & Property access on strings"
   },
-  "usage_perc_y":96.62,
-  "usage_perc_a":0.11,
+  "usage_perc_y":96.3,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"",
   "keywords":"es5,javascript,js,javascriptes5,function.bind,array.foreach,array.indexof,array.map,object.keys,date.now,defineproperties,getprototypeof,keys,seal,freeze,preventextensions,issealed,isfrozen,isextensible,getownpropertydescriptorgetownpropertynames,toisostringc,isarray,lastindexof,every,some,reduce,reduceright,getter,setter",

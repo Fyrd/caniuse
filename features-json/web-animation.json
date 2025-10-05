@@ -106,7 +106,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -396,7 +397,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -634,7 +636,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"n",
@@ -650,10 +652,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -708,8 +710,8 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu",
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
-  "usage_perc_y":94.63,
-  "usage_perc_a":0.69,
+  "usage_perc_y":94.69,
+  "usage_perc_a":0.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState,WAAPI",

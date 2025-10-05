@@ -105,7 +105,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -395,7 +396,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -633,7 +635,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"n",
@@ -649,10 +651,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -704,8 +706,8 @@
     "1":"IE10 (and IE 10&11 mobile) does not support `Uint8ClampedArray`",
     "2":"Does not support `Float64Array`"
   },
-  "usage_perc_y":96.7,
-  "usage_perc_a":0.01,
+  "usage_perc_y":96.34,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"es6",
   "keywords":"ES6,JavaScript,dataview,arraybuffer",

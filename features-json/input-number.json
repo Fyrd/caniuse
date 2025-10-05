@@ -122,7 +122,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -412,7 +413,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -650,7 +652,7 @@
       "4.2-4.3":"a #1 #2",
       "4.4":"a #1 #2",
       "4.4.3-4.4.4":"a #1 #2",
-      "140":"a #1 #2"
+      "141":"a #1 #2"
     },
     "bb":{
       "7":"n",
@@ -666,10 +668,10 @@
       "80":"a #1 #2"
     },
     "and_chr":{
-      "140":"a #1 #2"
+      "141":"a #1 #2"
     },
     "and_ff":{
-      "142":"y #1 #3"
+      "143":"y #1 #3"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -723,8 +725,8 @@
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
     "4":"Does not include increment/decrement buttons, but does support increment/decrement via arrow up & down keys."
   },
-  "usage_perc_y":33.3,
-  "usage_perc_a":63.33,
+  "usage_perc_y":35.78,
+  "usage_perc_a":60.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"spinner,input type=\"number\"",

@@ -120,7 +120,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"a",
@@ -410,7 +411,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"a",
@@ -648,7 +650,7 @@
       "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"y",
@@ -664,10 +666,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"y #2",
@@ -720,8 +722,8 @@
     "2":"Partial support in IE9-11 refers to not supporting animations.",
     "3":"IE9-11 & Edge don't properly scale SVG files. [Adding height, width, viewBox, and CSS rules](https://codepen.io/tomByrer/pen/qEBbzw?editors=110) seems to be the best workaround."
   },
-  "usage_perc_y":96.02,
-  "usage_perc_a":0.71,
+  "usage_perc_y":95.97,
+  "usage_perc_a":0.44,
   "ucprefix":false,
   "parent":"",
   "keywords":".svg,rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset,stroke-opacity",

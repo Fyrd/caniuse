@@ -140,7 +140,8 @@
       "137":"y",
       "138":"y",
       "139":"y",
-      "140":"y"
+      "140":"y",
+      "141":"y"
     },
     "firefox":{
       "2":"n",
@@ -430,7 +431,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "safari":{
       "3.1":"n",
@@ -668,7 +670,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "140":"y"
+      "141":"y"
     },
     "bb":{
       "7":"n",
@@ -684,10 +686,10 @@
       "80":"y"
     },
     "and_chr":{
-      "140":"y"
+      "141":"y"
     },
     "and_ff":{
-      "142":"y"
+      "143":"y"
     },
     "ie_mob":{
       "10":"a #2",
@@ -740,8 +742,8 @@
     "2":"Partial support refers to not supporting the \"vmax\" unit. ",
     "3":"Partial support in iOS7 is due to buggy behavior of the \"vh\" unit (see workarounds: [1](https://gist.github.com/pburtchaell/e702f441ba9b3f76f587), [2](https://gist.github.com/BenMorel/e9e34c08360ebbbd0634))."
   },
-  "usage_perc_y":95.93,
-  "usage_perc_a":0.72,
+  "usage_perc_y":95.9,
+  "usage_perc_a":0.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"vm,viewport-percentage,100vh,100vw",
