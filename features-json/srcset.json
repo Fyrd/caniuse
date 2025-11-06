@@ -458,6 +458,7 @@
       "18.5-18.6":"a #4 #5",
       "26.0":"a #4 #5",
       "26.1":"a #4 #5",
+      "26.2":"a #4 #5",
       "TP":"a #4 #5"
     },
     "opera":{
@@ -696,7 +697,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -717,8 +719,8 @@
     "4":"Does not support min/max expressions.",
     "5":"For JavaScript-generated img elements, loads src first, even if srcset will also make it load another image (see known issues)"
   },
-  "usage_perc_y":83.68,
-  "usage_perc_a":12.21,
+  "usage_perc_y":84.41,
+  "usage_perc_a":10.47,
   "ucprefix":false,
   "parent":"",
   "keywords":"srcset attribute",

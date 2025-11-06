@@ -441,6 +441,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -679,7 +680,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -698,7 +700,7 @@
     "2":"Partial support in Edge 15+ refers to support for only the HTTP header format, not the `<link rel>` format.",
     "3":"Firefox support regressed from versions 71 - 114. See [bug 1543990](https://bugzilla.mozilla.org/show_bug.cgi?id=1543990) for details."
   },
-  "usage_perc_y":95.44,
+  "usage_perc_y":94.53,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

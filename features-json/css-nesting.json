@@ -453,6 +453,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -691,7 +692,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -710,8 +712,8 @@
     "2":"Available behind the `layout.css.nesting.enabled` flag",
     "3":"Does not allow nesting of type (element) selectors without starting with a symbol, like the `&` nesting selector. [Chromium issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1427259)"
   },
-  "usage_perc_y":87.18,
-  "usage_perc_a":4.09,
+  "usage_perc_y":87.61,
+  "usage_perc_a":3.36,
   "ucprefix":false,
   "parent":"",
   "keywords":"&,@nest,nested css",

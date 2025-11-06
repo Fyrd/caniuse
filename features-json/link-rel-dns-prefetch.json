@@ -451,6 +451,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -689,7 +690,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -707,8 +709,8 @@
     "1":"IE9 [supported `dns-prefetch` as `prefetch`](https://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
     "2":"Firefox < 127 only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
   },
-  "usage_perc_y":84.09,
-  "usage_perc_a":0.39,
+  "usage_perc_y":85.83,
+  "usage_perc_a":0.45,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

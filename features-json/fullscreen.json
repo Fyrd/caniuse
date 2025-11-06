@@ -467,6 +467,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -705,7 +706,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -726,8 +728,8 @@
     "4":"Unprefixed support is available behind the `full-screen-api.unprefix.enabled` flag",
     "5":"Partial support refers to supporting only iPad, not iPhone. Shows an overlay button which can not be disabled."
   },
-  "usage_perc_y":83.36,
-  "usage_perc_a":11.76,
+  "usage_perc_y":84.61,
+  "usage_perc_a":9.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"full-screen,requestFullScreen,exitFullScreen",

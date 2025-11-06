@@ -455,6 +455,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -693,7 +694,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -711,8 +713,8 @@
     "1":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property.",
     "2":"Has [a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1082669) where the browser is not maintaining the image\u2019s aspect ratio when `object-fit: cover` and `image-orientation: from-image` are used together."
   },
-  "usage_perc_y":94.83,
-  "usage_perc_a":0.44,
+  "usage_perc_y":94.07,
+  "usage_perc_a":0.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"image-orientation,from-image,flip",

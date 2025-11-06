@@ -441,6 +441,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -679,7 +680,8 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"n"
+      "28":"n",
+      "29":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -696,8 +698,8 @@
   "notes_by_num":{
     "1":"`-webkit-user-drag: none` works, but `-webkit-user-drag: element` does not appear to have an effect."
   },
-  "usage_perc_y":1.13,
-  "usage_perc_a":32.98,
+  "usage_perc_y":1.21,
+  "usage_perc_a":40.3,
   "ucprefix":false,
   "parent":"",
   "keywords":"-webkit-user-drag:none,-webkit-user-drag:element,-webkit-user-drag:auto",

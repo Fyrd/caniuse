@@ -470,6 +470,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -708,7 +709,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -727,8 +729,8 @@
     "2":"Support in Safari before version 11 was using the `crypto.webkitSubtle` prefix.",
     "3":"In Edge 12-18, Web Crypto was not supported in Web Workers and Service Workers."
   },
-  "usage_perc_y":95.89,
-  "usage_perc_a":0.37,
+  "usage_perc_y":94.88,
+  "usage_perc_a":0.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"subtle,subtlecrypto",

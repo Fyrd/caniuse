@@ -465,6 +465,7 @@
       "18.5-18.6":"a #6",
       "26.0":"a #6",
       "26.1":"a #6",
+      "26.2":"a #6",
       "TP":"a #6"
     },
     "opera":{
@@ -703,7 +704,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -726,8 +728,8 @@
     "6":"Partial support refers to not supporting the `week` and `month` input type.",
     "7":"Does not support the `min`, `max` or `step` attributes on date inputs."
   },
-  "usage_perc_y":90.39,
-  "usage_perc_a":5.43,
+  "usage_perc_y":89.5,
+  "usage_perc_a":5.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"datepicker,timepicker,inputdate,input type=\"date\",input type=\"time\",input date,datetime-local",

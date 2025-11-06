@@ -441,6 +441,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -679,7 +680,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -697,8 +699,8 @@
     "1":"The spec requires that comparisons of nodes in different documents, and comparisons where at least one node is not in any document, must arbitrarily (but consistently) set either the `DOCUMENT_POSITION_PRECEDING` or `DOCUMENT_POSITION_FOLLOWING` bit in the result. These browser versions don't set either bit in some such cases.",
     "2":"Sets neither the `DOCUMENT_POSITION_DISCONNECTED` bit nor the `DOCUMENT_POSITION_IMPLEMENTATION_SPECIFIC` bit in some cases when comparing nodes in different documents or when comparing a node which is not in any document."
   },
-  "usage_perc_y":96.38,
-  "usage_perc_a":0.03,
+  "usage_perc_y":95.28,
+  "usage_perc_a":0.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"Node,compareDocumentPosition,compare,document,position,preceding,following,disconnected,before,after,contains,contained,DOM",

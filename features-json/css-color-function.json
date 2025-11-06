@@ -453,6 +453,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -691,7 +692,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -710,8 +712,8 @@
     "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "3":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true"
   },
-  "usage_perc_y":92.3,
-  "usage_perc_a":0.53,
+  "usage_perc_y":91.85,
+  "usage_perc_a":0.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"color(),Display-P3,A98-RGB,ProPhoto-RGB,REC-2020,Device-Dependent Colors,Profiled Colors,@color-profile,color space",

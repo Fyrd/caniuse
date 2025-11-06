@@ -457,6 +457,7 @@
       "18.5-18.6":"n",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -695,7 +696,8 @@
       "25":"n",
       "26":"n",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -713,7 +715,7 @@
     "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
     "2":"Can be enabled using the `layout.css.anchor-positioning.enabled` flag. Enabled by default in Firefox Nightly only"
   },
-  "usage_perc_y":74.18,
+  "usage_perc_y":76.84,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

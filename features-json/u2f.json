@@ -462,6 +462,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -700,7 +701,8 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"n"
+      "28":"n",
+      "29":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -719,7 +721,7 @@
     "2":"Support can be enabled with the `security.webauth.u2f` flag",
     "3":"Supported [via the internal CryptoTokenExtension.](https://github.com/google/u2f-ref-code/blob/master/u2f-gae-demo/war/js/u2f-api.js)"
   },
-  "usage_perc_y":13.58,
+  "usage_perc_y":11.84,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

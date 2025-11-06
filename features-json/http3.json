@@ -441,6 +441,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -679,7 +680,8 @@
       "25":"n",
       "26":"n",
       "27":"n",
-      "28":"n #6"
+      "28":"n #6",
+      "29":"n #6"
     },
     "and_qq":{
       "14.9":"n"
@@ -701,8 +703,8 @@
     "5":"Since Sept 2024, HTTP3 is enabled for all users of Safari 16 and newer. Before then, it was enabled for a subset of users. Enabling the feature flag ensured support.",
     "6":"Based on real-world data from July 2025, the current versions of Samsung Internet do not support HTTP/3."
   },
-  "usage_perc_y":92.19,
-  "usage_perc_a":0.56,
+  "usage_perc_y":91.55,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"https/3",

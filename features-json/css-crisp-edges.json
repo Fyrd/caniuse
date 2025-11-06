@@ -459,6 +459,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -697,7 +698,8 @@
       "25":"y #4",
       "26":"y #4",
       "27":"y #4",
-      "28":"y #4"
+      "28":"y #4",
+      "29":"y #4"
     },
     "and_qq":{
       "14.9":"y #4"
@@ -719,8 +721,8 @@
     "5":"Only works on `<img>`, not CSS backgrounds or `<canvas>`.",
     "6":"Only works on `<img>` and CSS backgrounds, _not_ `<canvas>`. "
   },
-  "usage_perc_y":95.88,
-  "usage_perc_a":0.52,
+  "usage_perc_y":94.89,
+  "usage_perc_a":0.39,
   "ucprefix":false,
   "parent":"",
   "keywords":"image-rendering,crisp-edges",

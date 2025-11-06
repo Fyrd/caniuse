@@ -445,6 +445,7 @@
       "18.5-18.6":"y",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -683,7 +684,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -701,8 +703,8 @@
     "1":"Internet Explorer supports different values from an [earlier version of the spec](https://www.w3.org/TR/2003/CR-css3-text-20030514/#Progression), which originated from SVG.",
     "2":"Supported in Firefox under the `layout.css.vertical-text.enabled` flag"
   },
-  "usage_perc_y":95.9,
-  "usage_perc_a":0.49,
+  "usage_perc_y":94.89,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

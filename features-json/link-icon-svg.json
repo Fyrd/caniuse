@@ -458,6 +458,7 @@
       "18.5-18.6":"n",
       "26.0":"y",
       "26.1":"y",
+      "26.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -696,7 +697,8 @@
       "25":"y #3 #4",
       "26":"y #3 #4",
       "27":"y #3 #4",
-      "28":"y #3 #4"
+      "28":"y #3 #4",
+      "29":"y #3 #4"
     },
     "and_qq":{
       "14.9":"n"
@@ -716,7 +718,7 @@
     "3":"Requires the served mime-type to be `image/svg+xml`.",
     "4":"Chromium browsers serve the SVG in [secure static mode](https://svgwg.org/svg2-draft/conform.html#secure-static-mode), but apply SMIL animations using the document start time (0)."
   },
-  "usage_perc_y":81.77,
+  "usage_perc_y":83.74,
   "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",

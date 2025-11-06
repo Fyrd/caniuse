@@ -450,6 +450,7 @@
       "18.5-18.6":"a #1",
       "26.0":"a #1",
       "26.1":"a #1",
+      "26.2":"a #1",
       "TP":"a #1"
     },
     "opera":{
@@ -688,7 +689,8 @@
       "25":"y",
       "26":"y",
       "27":"y",
-      "28":"y"
+      "28":"y",
+      "29":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -707,8 +709,8 @@
     "2":"Enabled through the `dom.webcomponents.enabled` preference in `about:config`.",
     "3":"Enabled through the `dom.webcomponents.customelements.enabled` preference in `about:config`."
   },
-  "usage_perc_y":83.31,
-  "usage_perc_a":12.31,
+  "usage_perc_y":84.1,
+  "usage_perc_a":10.53,
   "ucprefix":false,
   "parent":"",
   "keywords":"webcomponents,customelements",
