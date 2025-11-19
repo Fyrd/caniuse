@@ -250,7 +250,8 @@
       "144":"n",
       "145":"n",
       "146":"n",
-      "147":"n"
+      "147":"n",
+      "148":"n"
     },
     "chrome":{
       "4":"n",
@@ -444,10 +445,10 @@
       "18.3":"y",
       "18.4":"y",
       "18.5-18.6":"y",
-      "26.0":"n #4",
-      "26.1":"n #4",
-      "26.2":"n #4",
-      "TP":"n #4"
+      "26.0":"a #5",
+      "26.1":"a #5",
+      "26.2":"a #5",
+      "TP":"a #5"
     },
     "opera":{
       "9":"n",
@@ -704,10 +705,11 @@
     "1":"Desktop Chrome only uses the color on installed `progressive web apps`.",
     "2":"Desktop Chrome 39-72 claimed to have support, but did not actually use the color anywhere. Chrome for Android did use the color in the toolbar.",
     "3":"Chrome for Android does not use the color on devices with native `dark-mode` enabled unless it's an installed `progressive web app` or a `trusted web activity`.",
-    "4":"Supported, but does not actually use the color anywhere."
+    "4":"Supported, but does not actually use the color anywhere.",
+    "5":"Only supported for installed web apps."
   },
   "usage_perc_y":10.69,
-  "usage_perc_a":73.14,
+  "usage_perc_a":73.46,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
