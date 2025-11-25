@@ -251,10 +251,10 @@
       "142":"a d #1 #6",
       "143":"a d #1 #6",
       "144":"a d #1 #6",
-      "145":"a d #1 #6",
-      "146":"a d #1 #6",
-      "147":"a d #1 #6",
-      "148":"a d #1 #6"
+      "145":"a d #1 #8",
+      "146":"a d #1 #8",
+      "147":"a d #1 #8",
+      "148":"a d #1 #8"
     },
     "chrome":{
       "4":"n",
@@ -711,7 +711,8 @@
     "4":"Part of an origin trial.",
     "5":"Not enabled on Linux by default.",
     "6":"Only enabled by default on Windows.",
-    "7":"Partial support refers to only being enabled by default on macOS 26 Tahoe or later."
+    "7":"Partial support refers to only being enabled by default on macOS 26 Tahoe or later.",
+    "8":"Only enabled by default on Windows as well as macOS 26 Tahoe or later on Apple Silicon."
   },
   "usage_perc_y":77.94,
   "usage_perc_a":1.59,
