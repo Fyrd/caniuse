@@ -10,7 +10,11 @@
     },
     {
       "url":"https://mozilla.github.io/standards-positions/#trusted-types",
-      "title":"Firefox position: non-harmful"
+      "title":"Firefox position: positive"
+    },
+    {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=1508286",
+      "title":"Firefox meta bug"
     }
   ],
   "bugs":[
@@ -250,10 +254,10 @@
       "142":"n",
       "143":"n",
       "144":"n",
-      "145":"n",
-      "146":"n",
-      "147":"n",
-      "148":"n"
+      "145":"n d #1",
+      "146":"n d #1",
+      "147":"n d #1",
+      "148":"n d #1"
     },
     "chrome":{
       "4":"n",
@@ -704,7 +708,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    
+    "1":"Enabled by default in Firefox Nightly only"
   },
   "usage_perc_y":82.89,
   "usage_perc_a":0,
