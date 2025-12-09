@@ -118,7 +118,8 @@
       "139":"y",
       "140":"y",
       "141":"y",
-      "142":"y"
+      "142":"y",
+      "143":"y"
     },
     "firefox":{
       "2":"p",
@@ -635,7 +636,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5-18.6":"y",
+      "18.5-18.7":"y",
       "26.0":"y",
       "26.1":"y"
     },
@@ -726,8 +727,8 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList` or the `replace()` method"
   },
-  "usage_perc_y":94.88,
-  "usage_perc_a":0.35,
+  "usage_perc_y":93.2,
+  "usage_perc_a":0.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"classlist.contains(),classlist.toggle(),classlist.add(),classlist.remove()",

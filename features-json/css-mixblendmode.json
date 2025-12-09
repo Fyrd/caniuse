@@ -104,7 +104,8 @@
       "139":"y",
       "140":"y",
       "141":"y",
-      "142":"y"
+      "142":"y",
+      "143":"y"
     },
     "firefox":{
       "2":"n",
@@ -621,7 +622,7 @@
       "18.2":"a #2",
       "18.3":"a #2",
       "18.4":"a #2",
-      "18.5-18.6":"a #2",
+      "18.5-18.7":"a #2",
       "26.0":"a #2",
       "26.1":"a #2"
     },
@@ -710,8 +711,8 @@
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial in Safari refers to not supporting the `hue`, `saturation`, `color`, and `luminosity` blend modes."
   },
-  "usage_perc_y":84.4,
-  "usage_perc_a":10.47,
+  "usage_perc_y":82.5,
+  "usage_perc_a":10.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"mix-blend-mode,css blend modes,css blending modes",

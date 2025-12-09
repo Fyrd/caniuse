@@ -115,7 +115,8 @@
       "139":"y",
       "140":"y",
       "141":"y",
-      "142":"y"
+      "142":"y",
+      "143":"y"
     },
     "firefox":{
       "2":"n",
@@ -632,7 +633,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5-18.6":"y",
+      "18.5-18.7":"y",
       "26.0":"y",
       "26.1":"y"
     },
@@ -726,8 +727,8 @@
     "6":"Partial support refers to supporting mask-image, mask-size, mask-position, mask-repeat and mask-composite",
     "7":"Edge also recognizes and supports all the `-webkit-` prefixed equivalents of the unprefixed properties for site compatibility"
   },
-  "usage_perc_y":89,
-  "usage_perc_a":5.92,
+  "usage_perc_y":86.69,
+  "usage_perc_a":6.58,
   "ucprefix":false,
   "parent":"",
   "keywords":"clip,clip-path,clip-rule,mask,mask-border,mask-clip,mask-image,mask-mode,mask-type,css masking",

@@ -117,7 +117,8 @@
       "139":"a #1",
       "140":"a #1",
       "141":"a #1",
-      "142":"a #1"
+      "142":"a #1",
+      "143":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -634,7 +635,7 @@
       "18.2":"n",
       "18.3":"n",
       "18.4":"n",
-      "18.5-18.6":"n",
+      "18.5-18.7":"n",
       "26.0":"n",
       "26.1":"n"
     },
@@ -723,8 +724,8 @@
     "1":"Chromium does not support ahead-of-time compilation but performance doubled in Chrome 28: [https://en.wikipedia.org/wiki/Asm.js#Implementations](https://en.wikipedia.org/wiki/Asm.js#Implementations)",
     "2":"Supported in MS Edge under the \"Enable experimental JavaScript features\" flag."
   },
-  "usage_perc_y":2.13,
-  "usage_perc_a":82.28,
+  "usage_perc_y":2.19,
+  "usage_perc_a":80.32,
   "ucprefix":false,
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",

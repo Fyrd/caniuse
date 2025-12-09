@@ -108,7 +108,8 @@
       "139":"y",
       "140":"y",
       "141":"y",
-      "142":"y"
+      "142":"y",
+      "143":"y"
     },
     "firefox":{
       "2":"n",
@@ -625,7 +626,7 @@
       "18.2":"y #5",
       "18.3":"y #5",
       "18.4":"y #5",
-      "18.5-18.6":"y #5",
+      "18.5-18.7":"y #5",
       "26.0":"y #5",
       "26.1":"y #5"
     },
@@ -717,8 +718,8 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu",
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
-  "usage_perc_y":93.87,
-  "usage_perc_a":0.64,
+  "usage_perc_y":92.3,
+  "usage_perc_a":0.57,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState,WAAPI",

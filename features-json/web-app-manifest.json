@@ -112,7 +112,8 @@
       "139":"y",
       "140":"y",
       "141":"y",
-      "142":"y"
+      "142":"y",
+      "143":"y"
     },
     "firefox":{
       "2":"n",
@@ -629,7 +630,7 @@
       "18.2":"a",
       "18.3":"a",
       "18.4":"a",
-      "18.5-18.6":"a",
+      "18.5-18.7":"a",
       "26.0":"a",
       "26.1":"a"
     },
@@ -719,8 +720,8 @@
     "2":"Safari on iOS does not support A2HS in WebViews like Chrome and Firefox.",
     "3":"Firefox is experimenting with desktop support behind the `browser.ssb.enabled` flag."
   },
-  "usage_perc_y":81.62,
-  "usage_perc_a":9.82,
+  "usage_perc_y":80.21,
+  "usage_perc_a":10.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa,progressive web app,web app,wam,web app manifest,install,installable",

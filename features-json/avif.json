@@ -107,7 +107,8 @@
       "139":"y",
       "140":"y",
       "141":"y",
-      "142":"y"
+      "142":"y",
+      "143":"y"
     },
     "firefox":{
       "2":"n",
@@ -624,7 +625,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5-18.6":"y",
+      "18.5-18.7":"y",
       "26.0":"y",
       "26.1":"y"
     },
@@ -717,7 +718,7 @@
     "5":"Supports only still images by default. Animated image sequences can be enabled via the `image.avif.sequence.enabled` pref in `about:config`.",
     "6":"Can be enabled via the `--enable-features=msEdgeAVIF` runtime flag in insider channels."
   },
-  "usage_perc_y":93.21,
+  "usage_perc_y":91.61,
   "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",

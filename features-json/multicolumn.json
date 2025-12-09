@@ -140,7 +140,8 @@
       "139":"a #3",
       "140":"a #3",
       "141":"a #3",
-      "142":"a #3"
+      "142":"a #3",
+      "143":"a #3"
     },
     "firefox":{
       "2":"a x #1",
@@ -657,7 +658,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5-18.6":"y",
+      "18.5-18.7":"y",
       "26.0":"y",
       "26.1":"y"
     },
@@ -748,8 +749,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":10.77,
-  "usage_perc_a":84.46,
+  "usage_perc_y":11.05,
+  "usage_perc_a":82.59,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",
