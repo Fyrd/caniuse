@@ -279,7 +279,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"n",
@@ -477,6 +478,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -596,7 +598,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -647,7 +652,9 @@
       "18.4":"a #3",
       "18.5-18.7":"a #3",
       "26.0":"a #3",
-      "26.1":"a #3"
+      "26.1":"a #3",
+      "26.2":"a #3",
+      "26.3":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -662,7 +669,7 @@
       "4.2-4.3":"n",
       "4.4":"a x",
       "4.4.3-4.4.4":"a x",
-      "142":"a x"
+      "143":"a x"
     },
     "bb":{
       "7":"n",
@@ -678,10 +685,10 @@
       "80":"a x"
     },
     "and_chr":{
-      "142":"y #2"
+      "143":"y #2"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -735,8 +742,8 @@
     "2":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)",
     "3":"Requires website to first be [added to the Home Screen](/web-app-manifest)"
   },
-  "usage_perc_y":80.54,
-  "usage_perc_a":9.72,
+  "usage_perc_y":81.12,
+  "usage_perc_a":12.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

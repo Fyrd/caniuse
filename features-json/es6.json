@@ -255,7 +255,8 @@
       "145":"y #2",
       "146":"y #2",
       "147":"y #2",
-      "148":"y #2"
+      "148":"y #2",
+      "149":"y #2"
     },
     "chrome":{
       "4":"n",
@@ -453,6 +454,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -572,7 +574,10 @@
       "119":"y #2",
       "120":"y #2",
       "121":"y #2",
-      "122":"y #2"
+      "122":"y #2",
+      "123":"y #2",
+      "124":"y #2",
+      "125":"y #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -623,7 +628,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -638,7 +645,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "142":"y #2"
+      "143":"y #2"
     },
     "bb":{
       "7":"n",
@@ -654,10 +661,10 @@
       "80":"y #2"
     },
     "and_chr":{
-      "142":"y #2"
+      "143":"y #2"
     },
     "and_ff":{
-      "144":"y #2"
+      "146":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -711,7 +718,7 @@
     "2":"Does not support [tail call optimization](https://compat-table.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":93.03,
+  "usage_perc_y":96.08,
   "usage_perc_a":0.55,
   "ucprefix":false,
   "parent":"",

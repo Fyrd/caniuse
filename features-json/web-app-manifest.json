@@ -264,7 +264,8 @@
       "145":"n",
       "146":"n",
       "147":"n",
-      "148":"n"
+      "148":"n",
+      "149":"n"
     },
     "chrome":{
       "4":"n",
@@ -462,6 +463,7 @@
       "26.0":"a",
       "26.1":"a",
       "26.2":"a",
+      "26.3":"a",
       "TP":"a"
     },
     "opera":{
@@ -581,7 +583,10 @@
       "119":"n",
       "120":"n",
       "121":"n",
-      "122":"n"
+      "122":"n",
+      "123":"n",
+      "124":"n",
+      "125":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -632,7 +637,9 @@
       "18.4":"a",
       "18.5-18.7":"a",
       "26.0":"a",
-      "26.1":"a"
+      "26.1":"a",
+      "26.2":"a",
+      "26.3":"a"
     },
     "op_mini":{
       "all":"n"
@@ -647,7 +654,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -663,10 +670,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -721,7 +728,7 @@
     "3":"Firefox is experimenting with desktop support behind the `browser.ssb.enabled` flag."
   },
   "usage_perc_y":80.21,
-  "usage_perc_a":10.08,
+  "usage_perc_a":12.54,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa,progressive web app,web app,wam,web app manifest,install,installable",

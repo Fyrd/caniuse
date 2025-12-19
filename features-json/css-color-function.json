@@ -259,7 +259,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"n",
@@ -457,6 +458,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -576,7 +578,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -627,7 +632,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -642,7 +649,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -658,10 +665,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -715,7 +722,7 @@
     "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "3":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true"
   },
-  "usage_perc_y":89.85,
+  "usage_perc_y":92.9,
   "usage_perc_a":0.42,
   "ucprefix":false,
   "parent":"",

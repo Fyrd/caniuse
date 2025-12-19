@@ -263,7 +263,8 @@
       "145":"n",
       "146":"n",
       "147":"n",
-      "148":"n"
+      "148":"n",
+      "149":"n"
     },
     "chrome":{
       "4":"n",
@@ -461,6 +462,7 @@
       "26.0":"n",
       "26.1":"n",
       "26.2":"n",
+      "26.3":"n",
       "TP":"n"
     },
     "opera":{
@@ -580,7 +582,10 @@
       "119":"y #4",
       "120":"y #4",
       "121":"y #4",
-      "122":"y #4"
+      "122":"y #4",
+      "123":"y #4",
+      "124":"y #4",
+      "125":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -631,7 +636,9 @@
       "18.4":"n",
       "18.5-18.7":"n",
       "26.0":"n",
-      "26.1":"n"
+      "26.1":"n",
+      "26.2":"n",
+      "26.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -646,7 +653,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y #4"
+      "143":"y #4"
     },
     "bb":{
       "7":"n",
@@ -662,10 +669,10 @@
       "80":"y #4"
     },
     "and_chr":{
-      "142":"y #4"
+      "143":"y #4"
     },
     "and_ff":{
-      "144":"n"
+      "146":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -720,7 +727,7 @@
     "3":"Available in [Origin Trials](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials) for Chrome OS, Android M, and Mac",
     "4":"Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/main/implementation-status.md#chrome)"
   },
-  "usage_perc_y":80.05,
+  "usage_perc_y":80.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

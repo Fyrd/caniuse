@@ -259,7 +259,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -457,6 +458,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -576,7 +578,10 @@
       "119":"a #1 #2",
       "120":"a #1 #2",
       "121":"a #1 #2",
-      "122":"a #1 #2"
+      "122":"a #1 #2",
+      "123":"a #1 #2",
+      "124":"a #1 #2",
+      "125":"a #1 #2"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -627,7 +632,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -642,7 +649,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "142":"a #1 #2"
+      "143":"a #1 #2"
     },
     "bb":{
       "7":"a #1",
@@ -658,10 +665,10 @@
       "80":"a #1 #2"
     },
     "and_chr":{
-      "142":"a #1 #2"
+      "143":"a #1 #2"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -714,8 +721,8 @@
     "1":"Partial support refers to supporting a `<length>` value, but not the `each-line` or `hanging` keywords.",
     "2":"Support for `each-line` & `hanging` is available behind the Experimental Web Platform features flag"
   },
-  "usage_perc_y":11.67,
-  "usage_perc_a":82.05,
+  "usage_perc_y":14.14,
+  "usage_perc_a":82.63,
   "ucprefix":false,
   "parent":"",
   "keywords":"each-line,hanging",

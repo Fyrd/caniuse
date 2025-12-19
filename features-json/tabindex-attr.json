@@ -249,7 +249,8 @@
       "145":"y #1",
       "146":"y #1",
       "147":"y #1",
-      "148":"y #1"
+      "148":"y #1",
+      "149":"y #1"
     },
     "chrome":{
       "4":"u",
@@ -447,6 +448,7 @@
       "26.0":"y #2",
       "26.1":"y #2",
       "26.2":"y #2",
+      "26.3":"y #2",
       "TP":"y #2"
     },
     "opera":{
@@ -566,7 +568,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"y #2 #3",
@@ -617,7 +622,9 @@
       "18.4":"y #2 #3",
       "18.5-18.7":"y #2 #3",
       "26.0":"y #2 #3",
-      "26.1":"y #2 #3"
+      "26.1":"y #2 #3",
+      "26.2":"y #2 #3",
+      "26.3":"y #2 #3"
     },
     "op_mini":{
       "all":"u"
@@ -632,7 +639,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "142":"u"
+      "143":"u"
     },
     "bb":{
       "7":"u",
@@ -648,10 +655,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -705,7 +712,7 @@
     "2":"`<a>` elements are never keyboard-focusable, even if they have `tabindex=\"0\"`. Unless Full Keyboard Access is enabled, then `<button>`s, radio buttons, and checkboxes are also not keyboard-focusable, even if they have `tabindex=\"0\"`.",
     "3":"Has \"previous\" and \"next\" virtual keyboard buttons that follow tabindex order."
   },
-  "usage_perc_y":91.3,
+  "usage_perc_y":94.35,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

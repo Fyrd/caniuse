@@ -276,7 +276,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"p",
@@ -474,6 +475,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -593,7 +595,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -644,7 +649,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"p"
@@ -659,7 +666,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"p",
@@ -675,10 +682,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -733,7 +740,7 @@
     "3":"<summary> is not keyboard accessible",
     "4":"Some versions of Safari display smaller font-size than intended when using `rem` units with system fonts. (See: https://colloq.io/blog/safaris-detailssummary-rem-font-size-issue)"
   },
-  "usage_perc_y":93.17,
+  "usage_perc_y":96.22,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

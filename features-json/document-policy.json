@@ -256,7 +256,8 @@
       "145":"n",
       "146":"n",
       "147":"n",
-      "148":"n"
+      "148":"n",
+      "149":"n"
     },
     "chrome":{
       "4":"n",
@@ -454,6 +455,7 @@
       "26.0":"n",
       "26.1":"n",
       "26.2":"n",
+      "26.3":"n",
       "TP":"n"
     },
     "opera":{
@@ -573,7 +575,10 @@
       "119":"a #1",
       "120":"a #1",
       "121":"a #1",
-      "122":"a #1"
+      "122":"a #1",
+      "123":"a #1",
+      "124":"a #1",
+      "125":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -624,7 +629,9 @@
       "18.4":"n",
       "18.5-18.7":"n",
       "26.0":"n",
-      "26.1":"n"
+      "26.1":"n",
+      "26.2":"n",
+      "26.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -639,7 +646,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"a #1"
+      "143":"a #1"
     },
     "bb":{
       "7":"n",
@@ -655,10 +662,10 @@
       "80":"a #1"
     },
     "and_chr":{
-      "142":"a #1"
+      "143":"a #1"
     },
     "and_ff":{
-      "144":"n"
+      "146":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -711,7 +718,7 @@
     "1":"Chromium browsers only support the HTTP header."
   },
   "usage_perc_y":0,
-  "usage_perc_a":77.33,
+  "usage_perc_a":77.91,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,policy,attribute,policy attribute,attribute policy,feature-policy,feature policy,document-policy,force-load-at-top",

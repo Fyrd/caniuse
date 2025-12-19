@@ -270,7 +270,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"p",
@@ -468,6 +469,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -587,7 +589,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"p",
@@ -638,7 +643,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -653,7 +660,7 @@
       "4.2-4.3":"p",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"p",
@@ -669,10 +676,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -726,7 +733,7 @@
     "2":"Partial support in Safari 7.1 \u2013 9.3 refers to [seriously buggy behavior](http://www.raymondcamden.com/2014/09/25/IndexedDB-on-iOS-8-Broken-Bad/) as well as a lack of support in WebViews.",
     "3":"Partial support [refers to a bug](https://bugs.webkit.org/show_bug.cgi?id=226547) in Safari 14.1.1 that causes indexedDB to not load when the browser is initially opened."
   },
-  "usage_perc_y":93.2,
+  "usage_perc_y":96.24,
   "usage_perc_a":0.39,
   "ucprefix":false,
   "parent":"",

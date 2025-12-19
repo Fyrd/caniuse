@@ -269,7 +269,8 @@
       "145":"a #2",
       "146":"a #2",
       "147":"a #2",
-      "148":"a #2"
+      "148":"a #2",
+      "149":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -467,6 +468,7 @@
       "26.0":"a #2 #3",
       "26.1":"a #2 #3",
       "26.2":"a #2 #3",
+      "26.3":"a #2 #3",
       "TP":"a #2 #3"
     },
     "opera":{
@@ -586,7 +588,10 @@
       "119":"y #4",
       "120":"y #4",
       "121":"y #4",
-      "122":"y #4"
+      "122":"y #4",
+      "123":"y #4",
+      "124":"y #4",
+      "125":"y #4"
     },
     "ios_saf":{
       "3.2":"n",
@@ -637,7 +642,9 @@
       "18.4":"a #2 #3",
       "18.5-18.7":"a #2 #3",
       "26.0":"a #2 #3",
-      "26.1":"a #2 #3"
+      "26.1":"a #2 #3",
+      "26.2":"a #2 #3",
+      "26.3":"a #2 #3"
     },
     "op_mini":{
       "all":"n"
@@ -652,7 +659,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -668,10 +675,10 @@
       "80":"y #4"
     },
     "and_chr":{
-      "142":"y #4"
+      "143":"y #4"
     },
     "and_ff":{
-      "144":"a #2"
+      "146":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -726,8 +733,8 @@
     "3":"Safari doesn't support a [list of origins](https://bugs.webkit.org/show_bug.cgi?id=189901) or a [wildcard](https://bugs.webkit.org/show_bug.cgi?id=187816).",
     "4":"At least partially supports [Permissions Policy](/permissions-policy), the main replacement for this spec."
   },
-  "usage_perc_y":79.98,
-  "usage_perc_a":12.74,
+  "usage_perc_y":80.56,
+  "usage_perc_a":15.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"feature,security,header,allow,attribute,allow attribute,attribute allow,feature-policy,document.featurePolicy,document.policy",

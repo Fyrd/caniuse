@@ -259,7 +259,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"n",
@@ -457,6 +458,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -576,7 +578,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -627,7 +632,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -642,7 +649,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -658,10 +665,10 @@
       "80":"a #2"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -714,7 +721,7 @@
     "1":"Can be enabled in Chrome via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
     "2":"Does not support `currentcolor` or system color keywords ([Firefox bug 1893966](https://bugzilla.mozilla.org/show_bug.cgi?id=1893966))"
   },
-  "usage_perc_y":78.64,
+  "usage_perc_y":81.68,
   "usage_perc_a":7.22,
   "ucprefix":false,
   "parent":"",

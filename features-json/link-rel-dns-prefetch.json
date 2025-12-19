@@ -257,7 +257,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"y",
@@ -455,6 +456,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -574,7 +576,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -625,7 +630,9 @@
       "18.4":"u",
       "18.5-18.7":"u",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -640,7 +647,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "142":"u"
+      "143":"u"
     },
     "bb":{
       "7":"u",
@@ -656,10 +663,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -712,7 +719,7 @@
     "1":"IE9 [supported `dns-prefetch` as `prefetch`](https://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
     "2":"Firefox < 127 only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
   },
-  "usage_perc_y":84.52,
+  "usage_perc_y":85.1,
   "usage_perc_a":0.43,
   "ucprefix":false,
   "parent":"",

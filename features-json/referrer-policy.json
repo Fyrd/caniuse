@@ -251,7 +251,8 @@
       "145":"y #5",
       "146":"y #5",
       "147":"y #5",
-      "148":"y #5"
+      "148":"y #5",
+      "149":"y #5"
     },
     "chrome":{
       "4":"n",
@@ -449,6 +450,7 @@
       "26.0":"y #4",
       "26.1":"y #4",
       "26.2":"y #4",
+      "26.3":"y #4",
       "TP":"y #4"
     },
     "opera":{
@@ -568,7 +570,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -619,7 +624,9 @@
       "18.4":"y #4",
       "18.5-18.7":"y #4",
       "26.0":"y #4",
-      "26.1":"y #4"
+      "26.1":"y #4",
+      "26.2":"y #4",
+      "26.3":"y #4"
     },
     "op_mini":{
       "all":"n"
@@ -634,7 +641,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -650,10 +657,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y #5"
+      "146":"y #5"
     },
     "ie_mob":{
       "10":"n",
@@ -709,7 +716,7 @@
     "4":"[Safari's ITP](https://webkit.org/blog/9661/preventing-tracking-prevention-tracking/) (on by default) downgrades _all_ cross-site subresource request (not page navigation) `Referer` headers to the page's origin, ignoring the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies.",
     "5":"[Firefox 92+ ignores](https://bugzilla.mozilla.org/show_bug.cgi?id=1720294) the `unsafe-url`, `no-referrer-when-downgrade`, and `origin-when-cross-origin` referrer policies, defaulting to `strict-origin-when-cross-origin`."
   },
-  "usage_perc_y":92.79,
+  "usage_perc_y":95.84,
   "usage_perc_a":0.74,
   "ucprefix":false,
   "parent":"",

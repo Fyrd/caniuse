@@ -264,7 +264,8 @@
       "145":"y #2 #4",
       "146":"y #2 #4",
       "147":"y #2 #4",
-      "148":"y #2 #4"
+      "148":"y #2 #4",
+      "149":"y #2 #4"
     },
     "chrome":{
       "4":"n",
@@ -462,6 +463,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -581,7 +583,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -632,7 +637,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -647,7 +654,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -663,10 +670,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -721,7 +728,7 @@
     "3":"In Firefox 58-59, the `privacy.reduceTimerPrecision` preference is enabled by default and defaults to 20us.",
     "4":"In Firefox, the `privacy.reduceTimerPrecision` preference is enabled by default and defaults to 2ms."
   },
-  "usage_perc_y":93.53,
+  "usage_perc_y":96.58,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

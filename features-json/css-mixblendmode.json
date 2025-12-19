@@ -256,7 +256,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"n",
@@ -454,6 +455,7 @@
       "26.0":"a #2",
       "26.1":"a #2",
       "26.2":"a #2",
+      "26.3":"a #2",
       "TP":"a #2"
     },
     "opera":{
@@ -573,7 +575,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -624,7 +629,9 @@
       "18.4":"a #2",
       "18.5-18.7":"a #2",
       "26.0":"a #2",
-      "26.1":"a #2"
+      "26.1":"a #2",
+      "26.2":"a #2",
+      "26.3":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -639,7 +646,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -655,10 +662,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -711,8 +718,8 @@
     "1":"Enabled in Chrome through the \"experimental Web Platform features\" flag in chrome://flags",
     "2":"Partial in Safari refers to not supporting the `hue`, `saturation`, `color`, and `luminosity` blend modes."
   },
-  "usage_perc_y":82.5,
-  "usage_perc_a":10.69,
+  "usage_perc_y":83.09,
+  "usage_perc_a":13.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"mix-blend-mode,css blend modes,css blending modes",

@@ -267,7 +267,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"a x #1",
@@ -465,6 +466,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -584,7 +586,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"a x #1",
@@ -635,7 +640,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -650,7 +657,7 @@
       "4.2-4.3":"a x #1 #3",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"a x #1",
@@ -666,10 +673,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -727,7 +734,7 @@
     "6":"Partial support refers to supporting mask-image, mask-size, mask-position, mask-repeat and mask-composite",
     "7":"Edge also recognizes and supports all the `-webkit-` prefixed equivalents of the unprefixed properties for site compatibility"
   },
-  "usage_perc_y":86.69,
+  "usage_perc_y":89.74,
   "usage_perc_a":6.58,
   "ucprefix":false,
   "parent":"",

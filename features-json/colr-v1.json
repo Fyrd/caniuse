@@ -271,7 +271,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "chrome":{
       "4":"n",
@@ -469,6 +470,7 @@
       "26.0":"n",
       "26.1":"n",
       "26.2":"n",
+      "26.3":"n",
       "TP":"n"
     },
     "opera":{
@@ -588,7 +590,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -639,7 +644,9 @@
       "18.4":"n",
       "18.5-18.7":"n",
       "26.0":"n",
-      "26.1":"n"
+      "26.1":"n",
+      "26.2":"n",
+      "26.3":"n"
     },
     "op_mini":{
       "all":"n"
@@ -654,7 +661,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"u",
@@ -670,10 +677,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y"
+      "146":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -727,7 +734,7 @@
     "2":"Firefox actively supports this format and will consider implementing it in the future: [https://mozilla.github.io/standards-positions/#font-colrv1](https://mozilla.github.io/standards-positions/#font-colrv1)",
     "3":"Can be enabled by setting `gfx.font_rendering.colr_v1.enabled` to true"
   },
-  "usage_perc_y":81.81,
+  "usage_perc_y":82.39,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fontface",

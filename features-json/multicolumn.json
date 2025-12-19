@@ -292,7 +292,8 @@
       "145":"a #4",
       "146":"a #4",
       "147":"a #4",
-      "148":"a #4"
+      "148":"a #4",
+      "149":"a #4"
     },
     "chrome":{
       "4":"a x #1 #2",
@@ -490,6 +491,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -609,7 +611,10 @@
       "119":"a #3",
       "120":"a #3",
       "121":"a #3",
-      "122":"a #3"
+      "122":"a #3",
+      "123":"a #3",
+      "124":"a #3",
+      "125":"a #3"
     },
     "ios_saf":{
       "3.2":"a x #1 #2",
@@ -660,7 +665,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"y"
@@ -675,7 +682,7 @@
       "4.2-4.3":"a x #1 #2",
       "4.4":"a x #1 #2",
       "4.4.3-4.4.4":"a x #1 #2",
-      "142":"a #3"
+      "143":"a #3"
     },
     "bb":{
       "7":"a x #1 #2",
@@ -691,10 +698,10 @@
       "80":"a #3"
     },
     "and_chr":{
-      "142":"a #3"
+      "143":"a #3"
     },
     "and_ff":{
-      "144":"a #4"
+      "146":"a #4"
     },
     "ie_mob":{
       "10":"y",
@@ -749,8 +756,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":11.05,
-  "usage_perc_a":82.59,
+  "usage_perc_y":13.51,
+  "usage_perc_a":83.17,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

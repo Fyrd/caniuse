@@ -251,7 +251,8 @@
       "145":"n",
       "146":"n",
       "147":"n",
-      "148":"n"
+      "148":"n",
+      "149":"n"
     },
     "chrome":{
       "4":"n",
@@ -449,6 +450,7 @@
       "26.0":"n",
       "26.1":"n",
       "26.2":"n",
+      "26.3":"n",
       "TP":"n"
     },
     "opera":{
@@ -568,7 +570,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -619,7 +624,9 @@
       "18.4":"y x",
       "18.5-18.7":"y x",
       "26.0":"y x",
-      "26.1":"y x"
+      "26.1":"y x",
+      "26.2":"y x",
+      "26.3":"y x"
     },
     "op_mini":{
       "all":"n"
@@ -634,7 +641,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -650,10 +657,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"y x"
+      "146":"y x"
     },
     "ie_mob":{
       "10":"y x #1",
@@ -706,7 +713,7 @@
     "1":"If the viewport size is set using a `<meta>` element, the `-ms-text-size-adjust` property is ignored. See [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-size-adjust)",
     "2":"Old versions of WebKit-based desktop browsers (Chrome<27, Safari<6) [suffer from a bug](https://bugs.webkit.org/show_bug.cgi?id=56543) where if `-webkit-text-size-adjust` is explicitly set to `none`, instead of ignoring the property, the browsers will prevent the user from zooming in or out on the webpage."
   },
-  "usage_perc_y":89.83,
+  "usage_perc_y":92.88,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

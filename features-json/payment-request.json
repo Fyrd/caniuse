@@ -267,7 +267,8 @@
       "145":"a d #8",
       "146":"a d #8",
       "147":"a d #8",
-      "148":"a d #8"
+      "148":"a d #8",
+      "149":"a d #8"
     },
     "chrome":{
       "4":"n",
@@ -465,6 +466,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -584,7 +586,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -635,7 +640,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -650,7 +657,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"n"
+      "143":"n"
     },
     "bb":{
       "7":"n",
@@ -666,10 +673,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y #5"
+      "143":"y #5"
     },
     "and_ff":{
-      "144":"n"
+      "146":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -728,7 +735,7 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":89.36,
+  "usage_perc_y":92.4,
   "usage_perc_a":2.03,
   "ucprefix":false,
   "parent":"",

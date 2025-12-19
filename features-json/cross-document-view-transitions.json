@@ -260,7 +260,8 @@
       "145":"a #2",
       "146":"a #2",
       "147":"a #2",
-      "148":"a #2"
+      "148":"a #2",
+      "149":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -458,6 +459,7 @@
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
+      "26.3":"y",
       "TP":"y"
     },
     "opera":{
@@ -577,7 +579,10 @@
       "119":"y",
       "120":"y",
       "121":"y",
-      "122":"y"
+      "122":"y",
+      "123":"y",
+      "124":"y",
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -628,7 +633,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -643,7 +650,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"y"
+      "143":"y"
     },
     "bb":{
       "7":"n",
@@ -659,10 +666,10 @@
       "80":"y"
     },
     "and_chr":{
-      "142":"y"
+      "143":"y"
     },
     "and_ff":{
-      "144":"a #2"
+      "146":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -715,7 +722,7 @@
     "1":"Partial support can be enabled using the `dom.viewTransitions.enabled` flag. Enabled by default in Firefox Nightly only",
     "2":"Partial support refers to only supporting [View Transitions Level 1](/view-transitions)"
   },
-  "usage_perc_y":79.3,
+  "usage_perc_y":82.35,
   "usage_perc_a":1.64,
   "ucprefix":false,
   "parent":"",

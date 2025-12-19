@@ -252,7 +252,8 @@
       "145":"a #2",
       "146":"a #2",
       "147":"a #2",
-      "148":"a #2"
+      "148":"a #2",
+      "149":"a #2"
     },
     "chrome":{
       "4":"n",
@@ -450,6 +451,7 @@
       "26.0":"a #2",
       "26.1":"a #2",
       "26.2":"a #2",
+      "26.3":"a #2",
       "TP":"a #2"
     },
     "opera":{
@@ -569,7 +571,10 @@
       "119":"a #2",
       "120":"a #2",
       "121":"a #2",
-      "122":"a #2"
+      "122":"a #2",
+      "123":"a #2",
+      "124":"a #2",
+      "125":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -620,7 +625,9 @@
       "18.4":"y",
       "18.5-18.7":"y",
       "26.0":"y",
-      "26.1":"y"
+      "26.1":"y",
+      "26.2":"y",
+      "26.3":"y"
     },
     "op_mini":{
       "all":"n"
@@ -635,7 +642,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"a #2"
+      "143":"a #2"
     },
     "bb":{
       "7":"n",
@@ -651,10 +658,10 @@
       "80":"a #2"
     },
     "and_chr":{
-      "142":"a #2"
+      "143":"a #2"
     },
     "and_ff":{
-      "144":"a #2"
+      "146":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -708,8 +715,8 @@
     "2":"Buttons are not accessible with `display: contents` applied. See issues for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1366037), [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1791648), and [WebKit](https://bugs.webkit.org/show_bug.cgi?id=255149)",
     "3":"HTML tables and nodes with ARIA roles `directory`, `grid`, `treegrid`, `table`, `row`, `gridcell`, `cell`, `columnheader`, `tree`, and `treeitem` are not accessible with `display: contents` applied. See WebKit bugs [239478](https://bugs.webkit.org/show_bug.cgi?id=239478), [239479](https://bugs.webkit.org/show_bug.cgi?id=239479), [239478](https://bugs.webkit.org/show_bug.cgi?id=239478), and [257458](https://bugs.webkit.org/show_bug.cgi?id=257458)"
   },
-  "usage_perc_y":8.05,
-  "usage_perc_a":84.75,
+  "usage_perc_y":10.52,
+  "usage_perc_a":85.33,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

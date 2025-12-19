@@ -265,7 +265,8 @@
       "145":"n",
       "146":"n",
       "147":"n",
-      "148":"n"
+      "148":"n",
+      "149":"n"
     },
     "chrome":{
       "4":"n",
@@ -463,6 +464,7 @@
       "26.0":"a x #2",
       "26.1":"a x #2",
       "26.2":"a x #2",
+      "26.3":"a x #2",
       "TP":"a x #2"
     },
     "opera":{
@@ -582,7 +584,10 @@
       "119":"a #2",
       "120":"a #2",
       "121":"a #2",
-      "122":"a #2"
+      "122":"a #2",
+      "123":"a #2",
+      "124":"a #2",
+      "125":"a #2"
     },
     "ios_saf":{
       "3.2":"n",
@@ -633,7 +638,9 @@
       "18.4":"a x #2",
       "18.5-18.7":"a x #2",
       "26.0":"a x #2",
-      "26.1":"a x #2"
+      "26.1":"a x #2",
+      "26.2":"a x #2",
+      "26.3":"a x #2"
     },
     "op_mini":{
       "all":"n"
@@ -648,7 +655,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "142":"a #2"
+      "143":"a #2"
     },
     "bb":{
       "7":"n",
@@ -664,10 +671,10 @@
       "80":"a #2"
     },
     "and_chr":{
-      "142":"a #2"
+      "143":"a #2"
     },
     "and_ff":{
-      "144":"n"
+      "146":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -721,7 +728,7 @@
     "2":"Only supports the `initial-letter` property (not `initial-letter-align` or `initial-letter-wrap`)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":88.35,
+  "usage_perc_a":91.4,
   "ucprefix":false,
   "parent":"",
   "keywords":"initial-letter,initial letter,letter,drop cap,dropcap,initial letters,letters",
