@@ -1,0 +1,49 @@
+{
+  "title": "ECMAScript 2024 (ES15)",
+  "description": "Features added in the 15th edition of ECMAScript",
+  "spec": "https://tc39.es/ecma262/2024/",
+  "status": "other",
+  "links": [
+    {
+      "url": "https://caniuse.com/?feats=mdn-javascript_builtins_object_groupby,wf-array-group,wf-promise-withresolvers,mdn-javascript_builtins_arraybuffer_transfer,mdn-javascript_builtins_string_iswellformed,mdn-javascript_builtins_string_towellformed,wf-atomics-wait-async,mdn-javascript_builtins_arraybuffer_resize,mdn-javascript_builtins_sharedarraybuffer_grow",
+      "title": "Feature support list"
+    },
+    {
+      "url": "https://caniuse.com/mdn-javascript_builtins_object_groupby",
+      "title": "Support for Object.groupBy()"
+    },
+    {
+      "url": "https://caniuse.com/wf-array-group",
+      "title": "Support for Array grouping"
+    },
+    {
+      "url": "https://caniuse.com/wf-promise-withresolvers",
+      "title": "Support for Promise.withResolvers()"
+    },
+    {
+      "url": "https://caniuse.com/mdn-javascript_builtins_arraybuffer_transfer",
+      "title": "Support for ArrayBuffer.transfer()"
+    },
+    {
+      "url": "https://caniuse.com/mdn-javascript_builtins_string_iswellformed",
+      "title": "Support for String.isWellFormed()"
+    },
+    {
+      "url": "https://caniuse.com/mdn-javascript_builtins_string_towellformed",
+      "title": "Support for String.toWellFormed()"
+    },
+    {
+      "url": "https://caniuse.com/wf-atomics-wait-async",
+      "title": "Support for Atomics.waitAsync()"
+    },
+    {
+      "url": "https://caniuse.com/mdn-javascript_builtins_arraybuffer_resize",
+      "title": "Support for ArrayBuffer.resize()"
+    },
+    {
+      "url": "https://caniuse.com/mdn-javascript_builtins_sharedarraybuffer_grow",
+      "title": "Support for SharedArrayBuffer.grow()"
+    }
+  ],
+  "shown": false
+}
