@@ -17,5 +17,17 @@
   },
   "scripts": {
     "validate": "node validator/validate-jsons.js"
-  }
+  },
+  "files": [
+    "CONTRIBUTING.md",
+    "data.json",
+    "features-json",
+    "fulldata-json",
+    "LICENSE",
+    "package.json",
+    "README.md",
+    "region-usage-json",
+    "sample-data.json",
+    "validator"
+  ]
 }
