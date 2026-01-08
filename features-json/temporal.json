@@ -464,7 +464,7 @@
       "26.1":"n",
       "26.2":"n",
       "26.3":"n",
-      "TP":"n"
+      "TP":"n d #2"
     },
     "opera":{
       "9":"n",
@@ -723,7 +723,8 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137"
+    "1":"Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137",
+    "2":"Can be enabled via the `useTemporal` runtime flag"
   },
   "usage_perc_y":1.81,
   "usage_perc_a":0,
