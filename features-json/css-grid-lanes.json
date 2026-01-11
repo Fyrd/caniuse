@@ -1,6 +1,6 @@
 {
   "title":"CSS Grid Lanes",
-  "description":"CSS Grid Lanes extends CSS Grid to create layouts with columns *or* rows (not both), allowing mixed aspect ratio content to pack neatly.",
+  "description":"CSS Grid Lanes extends CSS Grid to create layouts with columns *or* rows (not both), allowing mixed aspect ratio content to pack neatly (also known as  \"masonry\" or \"waterfall\" layout).",
   "spec":"https://www.w3.org/TR/css-grid-3/",
   "status":"wd",
   "links":[
@@ -568,8 +568,8 @@
       "121":"n",
       "122":"n",
       "123":"n",
-      "124":"n",
-      "125":"n"
+      "124":"p d #1",
+      "125":"p d #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -653,10 +653,10 @@
       "80":"n"
     },
     "and_chr":{
-      "143":"n"
+      "143":"p d #1"
     },
     "and_ff":{
-      "146":"n"
+      "146":"p d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -713,6 +713,6 @@
   "ucprefix":false,
   "parent":"",
   "keywords":"display:grid-lanes,grid,grid-row,grid-column,display:grid,masonry,waterfall,grid-template-columns:masonry,grid-template-rows:masonry,display:masonry",
-  "shown":false,
-  "chrome_id":""
+  "chrome_id":"5149560434589696",
+  "shown":true
 }
