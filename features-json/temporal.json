@@ -113,7 +113,8 @@
       "140":"n",
       "141":"n",
       "142":"n",
-      "143":"n"
+      "143":"n",
+      "144":"y"
     },
     "firefox":{
       "2":"n",
@@ -265,7 +266,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "chrome":{
       "4":"n",
@@ -409,7 +411,8 @@
       "143":"n",
       "144":"y",
       "145":"y",
-      "146":"y"
+      "146":"y",
+      "147":"y"
     },
     "safari":{
       "3.1":"n",
@@ -654,7 +657,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "143":"n"
+      "144":"y"
     },
     "bb":{
       "7":"n",
@@ -670,10 +673,10 @@
       "80":"n"
     },
     "and_chr":{
-      "143":"n"
+      "144":"y"
     },
     "and_ff":{
-      "146":"y"
+      "147":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -726,7 +729,7 @@
     "1":"Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137",
     "2":"Can be enabled via the `useTemporal` runtime flag"
   },
-  "usage_perc_y":1.81,
+  "usage_perc_y":46.48,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

@@ -100,7 +100,8 @@
       "140":"y",
       "141":"y",
       "142":"y",
-      "143":"y"
+      "143":"y",
+      "144":"y"
     },
     "firefox":{
       "2":"n",
@@ -252,7 +253,8 @@
       "146":"n",
       "147":"n",
       "148":"n",
-      "149":"n"
+      "149":"n",
+      "150":"n"
     },
     "chrome":{
       "4":"n",
@@ -396,7 +398,8 @@
       "143":"y",
       "144":"y",
       "145":"y",
-      "146":"y"
+      "146":"y",
+      "147":"y"
     },
     "safari":{
       "3.1":"n",
@@ -573,7 +576,7 @@
       "122":"n d #2",
       "123":"n d #2",
       "124":"n d #2",
-      "125":"n d #2"
+      "125":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -641,7 +644,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "143":"y"
+      "144":"y"
     },
     "bb":{
       "7":"n",
@@ -657,10 +660,10 @@
       "80":"n"
     },
     "and_chr":{
-      "143":"y"
+      "144":"y"
     },
     "and_ff":{
-      "146":"n"
+      "147":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -713,7 +716,7 @@
     "1":"Available behind a [Safari feature flag](https://developer.apple.com/documentation/safari-developer-tools/feature-flag-settings).",
     "2":"Can be enabled via the `#text-box-trim` flag in `chrome://flags`"
   },
-  "usage_perc_y":79.69,
+  "usage_perc_y":79.91,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
