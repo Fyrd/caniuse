@@ -464,7 +464,7 @@
       "18.3":"n",
       "18.4":"n",
       "18.5-18.6":"n",
-      "26.0":"y",
+      "26.0":"a #3",
       "26.1":"y",
       "26.2":"y",
       "26.3":"y",
@@ -730,7 +730,8 @@
   "notes":"",
   "notes_by_num":{
     "1":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`",
-    "2":"Can be enabled using the `layout.css.anchor-positioning.enabled` flag. Enabled by default in Firefox Nightly only"
+    "2":"Can be enabled using the `layout.css.anchor-positioning.enabled` flag. Enabled by default in Firefox Nightly only",
+    "3": "There's a [bug with `position: fixed` and non-initial containing blocks](https://codepen.io/pavelp/pen/KwVPrrB)."
   },
   "usage_perc_y":76.65,
   "usage_perc_a":0,
