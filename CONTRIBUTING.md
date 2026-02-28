@@ -1,4 +1,4 @@
-# Contributing to the caniuse data
+# Contributing to the caniuse data 
 
 ## Filing issues
 
