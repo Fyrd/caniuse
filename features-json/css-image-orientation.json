@@ -412,7 +412,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "safari":{
       "3.1":"n",
@@ -462,7 +463,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5-18.6":"y",
+      "18.5-18.7":"y",
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
@@ -590,7 +591,9 @@
       "122":"y",
       "123":"y",
       "124":"y",
-      "125":"y"
+      "125":"y",
+      "126":"y",
+      "127":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -731,7 +734,7 @@
     "1":"Partial support in iOS refers to the browser using EXIF data by default, though it does not actually support the property.",
     "2":"Has [a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=1082669) where the browser is not maintaining the image\u2019s aspect ratio when `object-fit: cover` and `image-orientation: from-image` are used together."
   },
-  "usage_perc_y":95.52,
+  "usage_perc_y":96.81,
   "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"",

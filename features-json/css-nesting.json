@@ -410,7 +410,8 @@
       "145":"y",
       "146":"y",
       "147":"y",
-      "148":"y"
+      "148":"y",
+      "149":"y"
     },
     "safari":{
       "3.1":"n",
@@ -460,7 +461,7 @@
       "18.2":"y",
       "18.3":"y",
       "18.4":"y",
-      "18.5-18.6":"y",
+      "18.5-18.7":"y",
       "26.0":"y",
       "26.1":"y",
       "26.2":"y",
@@ -588,7 +589,9 @@
       "122":"y",
       "123":"y",
       "124":"y",
-      "125":"y"
+      "125":"y",
+      "126":"y",
+      "127":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -730,7 +733,7 @@
     "2":"Available behind the `layout.css.nesting.enabled` flag",
     "3":"Does not allow nesting of type (element) selectors without starting with a symbol, like the `&` nesting selector. [Chromium issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1427259)"
   },
-  "usage_perc_y":87.53,
+  "usage_perc_y":88.83,
   "usage_perc_a":3,
   "ucprefix":false,
   "parent":"",
