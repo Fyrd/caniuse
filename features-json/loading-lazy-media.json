@@ -17,8 +17,16 @@
       "title":"Mozilla Standards Position (positive)"
     },
     {
+      "url":"https://bugzilla.mozilla.org/show_bug.cgi?id=2005072",
+      "title":"Firefox support bug"
+    },
+    {
       "url":"https://scottjehl.com/posts/lazy-media/",
       "title":"Blog post by Scott Jehl"
+    },
+    {
+      "url":"https://github.com/WebKit/standards-positions/issues/586",
+      "title":"WebKit Standards Position (positive pending)"
     }
   ],
   "bugs":[
@@ -729,7 +737,7 @@
   },
   "notes":"",
   "notes_by_num":{
-    "1":"Available behind the LazyLoadVideoAndAudio flag (can be enabled via chrome://flags or --enable-features=LazyLoadVideoAndAudio)"
+    "1":"Available behind the `LazyLoadVideoAndAudio` flag (can be enabled via `chrome://flags` or `--enable-features=LazyLoadVideoAndAudio`)"
   },
   "usage_perc_y":0,
   "usage_perc_a":0,
