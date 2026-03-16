@@ -1,8 +1,0 @@
-sudo: false
-language: node_js
-node_js:
-  - stable
-  - "10"
-  - "8"
-  - "6"
-script: node validator/validate-jsons.js
