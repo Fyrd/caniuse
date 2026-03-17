@@ -1,9 +1,17 @@
 {
   "title":"Customizable Select element",
   "description":"Customization of the `<select>` element's appearance. Previously envisioned as a separate element (`<selectlist>` or `<selectmenu>`). ",
-  "spec":"https://open-ui.org/components/customizableselect/",
-  "status":"unoff",
+  "spec":"https://html.spec.whatwg.org/multipage/form-elements.html#the-select-element",
+  "status":"ls",
   "links":[
+    {
+      "url":"https://drafts.csswg.org/css-ui/#base-appearance",
+      "title":"CSS specification aspect"
+    },
+    {
+      "url":"https://open-ui.org/components/customizableselect/",
+      "title":"Original Open UI explainer"
+    },
     {
       "url":"https://hidde.blog/custom-select-with-selectlist/",
       "title":"Blog post: Two levels of customising <selectlist>"
