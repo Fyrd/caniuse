@@ -449,7 +449,8 @@
       "147":"a #3",
       "148":"a #3",
       "149":"a #3",
-      "150":"a #3"
+      "150":"a #3",
+      "151":"a #3"
     },
     "safari":{
       "3.1":"a x #1 #2",
@@ -775,8 +776,8 @@
     "3":"Does not support the values `avoid` (in the column context), `avoid-column`, and `avoid-page` for the properties `break-after`, `break-before`, and `break-inside`; does not support the value `column` for the properties `break-after` and `break-before`.",
     "4":"Does not support the values `avoid` (in the column context) for the properties `break-after`, `break-before`, and `break-inside`; does not support the values `avoid-column`, `avoid-page`, and `column` for the properties `break-before` and `break-after`."
   },
-  "usage_perc_y":18.01,
-  "usage_perc_a":79.01,
+  "usage_perc_y":16.99,
+  "usage_perc_a":79.15,
   "ucprefix":false,
   "parent":"",
   "keywords":"column-count,column-width,column-gap,column-rule,column-rule-type,column-span,column-fill,break-before,break-after,break-inside",

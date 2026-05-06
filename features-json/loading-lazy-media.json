@@ -424,7 +424,8 @@
       "147":"n d #1",
       "148":"y",
       "149":"y",
-      "150":"y"
+      "150":"y",
+      "151":"y"
     },
     "safari":{
       "3.1":"n",
@@ -747,7 +748,7 @@
   "notes_by_num":{
     "1":"Available behind the `LazyLoadVideoAndAudio` flag (can be enabled via `chrome://flags` or `--enable-features=LazyLoadVideoAndAudio`)"
   },
-  "usage_perc_y":0,
+  "usage_perc_y":0.03,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"loading-lazy-attr",

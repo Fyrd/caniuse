@@ -425,7 +425,8 @@
       "147":"y",
       "148":"y",
       "149":"y",
-      "150":"y"
+      "150":"y",
+      "151":"y"
     },
     "safari":{
       "3.1":"n",
@@ -751,8 +752,8 @@
     "3":"Before iOS 14.3 `getUserMedia` returned no video input devices in `UIWebView` or `WKWebView`, but only directly in Safari.",
     "4":"Does not work in standalone running (\"installed\") PWAs."
   },
-  "usage_perc_y":96.2,
-  "usage_perc_a":0.5,
+  "usage_perc_y":95.57,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"camera,device,getUserMedia,media stream,mediastream,Media Capture API",

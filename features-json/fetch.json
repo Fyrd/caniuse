@@ -412,7 +412,8 @@
       "147":"y",
       "148":"y",
       "149":"y",
-      "150":"y"
+      "150":"y",
+      "151":"y"
     },
     "safari":{
       "3.1":"n",
@@ -738,8 +739,8 @@
     "3":"Available in Chrome and Opera within Window and Workers by enabling the \"Experimental Web Platform Features\" flag in `chrome://flags`",
     "4":"Firefox <40 is not completely conforming to the specs and does not respect the <base> tag for relative URIs in fetch requests. See [bug 1161625](https://bugzilla.mozilla.org/show_bug.cgi?id=1161625)."
   },
-  "usage_perc_y":96.61,
-  "usage_perc_a":0.07,
+  "usage_perc_y":95.87,
+  "usage_perc_a":0.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"fetch,service,workers,xhr,xmlhttprequest",
