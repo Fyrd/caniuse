@@ -120,7 +120,8 @@
       "144":"n",
       "145":"n",
       "146":"n",
-      "147":"n"
+      "147":"n",
+      "148":"y"
     },
     "firefox":{
       "2":"n",
@@ -677,7 +678,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "147":"n"
+      "148":"y"
     },
     "bb":{
       "7":"n",
@@ -693,7 +694,7 @@
       "80":"n"
     },
     "and_chr":{
-      "147":"n"
+      "148":"y"
     },
     "and_ff":{
       "150":"n"
@@ -748,7 +749,7 @@
   "notes_by_num":{
     "1":"Available behind the `LazyLoadVideoAndAudio` flag (can be enabled via `chrome://flags` or `--enable-features=LazyLoadVideoAndAudio`)"
   },
-  "usage_perc_y":0.03,
+  "usage_perc_y":43.61,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"loading-lazy-attr",
