@@ -285,7 +285,7 @@
       "150":"n d #2 #5",
       "151":"n d #2",
       "152":"n d #7",
-      "153":"n d #7"
+      "153":"n d #8"
     },
     "chrome":{
       "4":"n",
@@ -761,7 +761,8 @@
     "4":"Supports still images. Animated image sequences are not supported.",
     "5":"Partial support refers to not supporting progressive decoding.",
     "6":"Can be enabled via `chrome://flags/#enable-jxl-image-format`.",
-    "7":"Can be enabled via the `image.jxl.enabled` flag in `about:config`."
+    "7":"Can be enabled via the `image.jxl.enabled` flag in `about:config`.",
+    "8":"Can be enabled via the `image.jxl.enabled` flag in `about:config`. Enabled by default in Nightly only."
   },
   "usage_perc_y":0,
   "usage_perc_a":15.34,
