@@ -23,6 +23,10 @@
     {
       "url":"https://mozilla.github.io/standards-positions/#web-bluetooth",
       "title":"Mozilla Specification Positions: Harmful"
+    },
+    {
+      "url":"https://github.com/wklm/ioswebble-sdk",
+      "title":"iOSWebBLE (Safari extension polyfill that adds navigator.bluetooth on iOS/iPadOS Safari)"
     }
   ],
   "bugs":[
@@ -742,7 +746,7 @@
       "3.0-3.1":"n"
     }
   },
-  "notes":"",
+  "notes":"Safari on iOS and iPadOS has no native support. A third-party Safari web extension, iOSWebBLE, polyfills `navigator.bluetooth` in JavaScript by bridging to CoreBluetooth, so a website can use Web Bluetooth once a user installs and enables the extension. This is userland support and not part of WebKit, so the support status above stays unsupported.",
   "notes_by_num":{
     "1":"Available by enabling the \"Web Bluetooth\" experimental flag in `about:flags`. Currently support [varies by OS](https://github.com/WebBluetoothCG/web-bluetooth/blob/main/implementation-status.md)",
     "2":"Only in Opera Mobile",
