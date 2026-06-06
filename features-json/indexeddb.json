@@ -738,7 +738,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -757,8 +758,8 @@
     "2":"Partial support in Safari 7.1 \u2013 9.3 refers to [seriously buggy behavior](http://www.raymondcamden.com/2014/09/25/IndexedDB-on-iOS-8-Broken-Bad/) as well as a lack of support in WebViews.",
     "3":"Partial support [refers to a bug](https://bugs.webkit.org/show_bug.cgi?id=226547) in Safari 14.1.1 that causes indexedDB to not load when the browser is initially opened."
   },
-  "usage_perc_y":95.96,
-  "usage_perc_a":0.17,
+  "usage_perc_y":96.21,
+  "usage_perc_a":0.16,
   "ucprefix":false,
   "parent":"",
   "keywords":"indexdb",

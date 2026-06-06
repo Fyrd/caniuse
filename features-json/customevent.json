@@ -724,7 +724,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -742,8 +743,8 @@
     "1":"While a `window.CustomEvent` object exists, it cannot be called as a constructor. Instead of `new CustomEvent(...)`, you must use `e = document.createEvent('CustomEvent')` and then `e.initCustomEvent(...)`",
     "2":"There is no `window.CustomEvent` object, but `document.createEvent('CustomEvent')` still works."
   },
-  "usage_perc_y":96,
-  "usage_perc_a":0.27,
+  "usage_perc_y":96.25,
+  "usage_perc_a":0.26,
   "ucprefix":false,
   "parent":"",
   "keywords":"custom events,custom,event",

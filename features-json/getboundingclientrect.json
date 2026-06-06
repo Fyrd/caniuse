@@ -727,7 +727,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -748,8 +749,8 @@
     "4":"Existing properties of the returned object are immutable.",
     "5":"The returned object lacks `x` & `y` values, though existing `top` & `left` values can be used instead."
   },
-  "usage_perc_y":96.23,
-  "usage_perc_a":0.05,
+  "usage_perc_y":96.46,
+  "usage_perc_a":0.04,
   "ucprefix":false,
   "parent":"",
   "keywords":"getBoundingClientRect,bounding,client,rect,DOMRect,box,cssom",

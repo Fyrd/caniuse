@@ -727,7 +727,8 @@
       "26":"y",
       "27":"y",
       "28":"y",
-      "29":"y"
+      "29":"y",
+      "30":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -751,8 +752,8 @@
     "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported.",
     "8":"Supported for devices with hardware support, software fallback in some cases. See [details here on MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs#hevc_h.265)."
   },
-  "usage_perc_y":18.37,
-  "usage_perc_a":74.53,
+  "usage_perc_y":16.55,
+  "usage_perc_a":74.89,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",
