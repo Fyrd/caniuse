@@ -5,16 +5,16 @@
   "status":"ls",
   "links":[
     {
-      "url":"https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker",
-      "title":"MDN article about SharedWorker"
-    },
-    {
       "url":"https://www.sitepoint.com/javascript-shared-web-workers-html5/",
       "title":"Sitepoint article"
     },
     {
       "url":"https://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
       "title":"Blog post"
+    },
+    {
+      "url":"https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker",
+      "title":"MDN article about SharedWorker"
     }
   ],
   "bugs":[
@@ -267,7 +267,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "chrome":{
       "4":"y",
@@ -670,7 +671,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "149":"y"
+      "149":"n"
     },
     "bb":{
       "7":"y",
@@ -686,7 +687,7 @@
       "80":"n"
     },
     "and_chr":{
-      "149":"y"
+      "149":"n"
     },
     "and_ff":{
       "151":"y"
