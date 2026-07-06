@@ -110,7 +110,8 @@
       "146":"y #2",
       "147":"y #2",
       "148":"y #2",
-      "149":"y #2"
+      "149":"y #2",
+      "150":"y #2"
     },
     "firefox":{
       "2":"n",
@@ -418,7 +419,8 @@
       "149":"y #2",
       "150":"y #2",
       "151":"y #2",
-      "152":"y #2"
+      "152":"y #2",
+      "153":"y #2"
     },
     "safari":{
       "3.1":"n",
@@ -690,7 +692,7 @@
       "149":"y #2"
     },
     "and_ff":{
-      "151":"y #2"
+      "152":"y #2"
     },
     "ie_mob":{
       "10":"n",
@@ -745,8 +747,8 @@
     "2":"Does not support [tail call optimization](https://compat-table.github.io/compat-table/es6/#test-proper_tail_calls_%28tail_call_optimisation%29)",
     "3":"Only has partial Symbol support and partial support for `RegExp.prototype` properties"
   },
-  "usage_perc_y":95.32,
-  "usage_perc_a":1.25,
+  "usage_perc_y":95.65,
+  "usage_perc_a":1.28,
   "ucprefix":false,
   "parent":"",
   "keywords":"javascript,block-scoped,string.prototype.includes,string.prototype.endswith,string.prototype.repeat,array.prototype.find,array.prototype.findindex,array.prototype.fill,object.assign",

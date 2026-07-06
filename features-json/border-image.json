@@ -111,7 +111,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -419,7 +420,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"a x #1 #2 #3 #4",
@@ -691,7 +693,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -747,8 +749,8 @@
     "3":"Partial support refers to supporting the shorthand syntax, but not the individual properties (`border-image-source`, `border-image-slice`, etc). ",
     "4":"Partial support refers to not supporting `border-image-repeat: round`"
   },
-  "usage_perc_y":95.02,
-  "usage_perc_a":1.55,
+  "usage_perc_y":95.44,
+  "usage_perc_a":1.48,
   "ucprefix":false,
   "parent":"",
   "keywords":"border-image-source,border-image-slice,border-image-repeat,border-image-width,,border-image-outset",

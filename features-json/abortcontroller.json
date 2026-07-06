@@ -110,7 +110,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -418,7 +419,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -690,7 +692,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -743,7 +745,7 @@
   "notes_by_num":{
     "1":"Safari has window.AbortController defined in the DOM but it's just a stub, it does not abort requests at all. The same issue also affects Chrome on IOS and Firefox on IOS because they use the same WebKit rendering engine as Safari."
   },
-  "usage_perc_y":94.12,
+  "usage_perc_y":94.36,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"fetch",

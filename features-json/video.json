@@ -124,7 +124,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -432,7 +433,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"y",
@@ -704,7 +706,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -760,8 +762,8 @@
     "3":"Ignores the `autoplay` attribute by default, though autoplay behavior can be [enabled by users](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)",
     "4":"On iOS the `volume` property is read-only."
   },
-  "usage_perc_y":96.65,
-  "usage_perc_a":0.04,
+  "usage_perc_y":96.9,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"<video>,videoHeight,videoWidth,HTMLVideoElement.videoHeight,HTMLVideoElement.videoWidth",

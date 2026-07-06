@@ -111,7 +111,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -419,7 +420,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -691,7 +693,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"a #2"
+      "152":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -745,8 +747,8 @@
     "1":"Does not support capture from `<video>`/`<audio>`",
     "2":"Capture from `<video>`/`<audio>` can be enabled via the Experimental Web Platform Features flag."
   },
-  "usage_perc_y":76.89,
-  "usage_perc_a":5.41,
+  "usage_perc_y":76.44,
+  "usage_perc_a":6.5,
   "ucprefix":false,
   "parent":"stream",
   "keywords":"canvas,mediastream,capturestream,canvas.capturestream",
