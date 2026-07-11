@@ -411,16 +411,16 @@
       "141":"y #5",
       "142":"y #5",
       "143":"y #5",
-      "144":"y #5",
-      "145":"y #5",
-      "146":"y #5",
-      "147":"y #5",
-      "148":"y #5",
-      "149":"y #5",
-      "150":"y #5",
-      "151":"y #5",
-      "152":"y #5",
-      "153":"y #5"
+      "144":"y #9",
+      "145":"y #9",
+      "146":"y #9",
+      "147":"y #9",
+      "148":"y #9",
+      "149":"y #9",
+      "150":"y #9",
+      "151":"y #9",
+      "152":"y #9",
+      "152":"y #9"
     },
     "safari":{
       "3.1":"n",
@@ -750,7 +750,8 @@
     "5":"Not enabled on Linux by default.",
     "6":"Only enabled by default on Windows.",
     "7":"Partial support refers to only being enabled by default on macOS 26 Tahoe or later.",
-    "8":"Only enabled by default on Windows as well as macOS 26 Tahoe or later on Apple Silicon."
+    "8":"Only enabled by default on Windows as well as macOS 26 Tahoe or later on Apple Silicon.",
+    "9":"Support on Linux depends on hardware and drivers."
   },
   "usage_perc_y":82.17,
   "usage_perc_a":2.83,
