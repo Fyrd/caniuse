@@ -115,7 +115,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -423,7 +424,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -695,7 +697,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"a #2"
+      "152":"a #2"
     },
     "ie_mob":{
       "10":"n",
@@ -749,8 +751,8 @@
     "1":"Partial support can be enabled using the `dom.viewTransitions.enabled` flag. Enabled by default in Firefox Nightly only",
     "2":"Partial support refers to only supporting [View Transitions Level 1](/view-transitions)"
   },
-  "usage_perc_y":80.9,
-  "usage_perc_a":1.77,
+  "usage_perc_y":81.7,
+  "usage_perc_a":1.73,
   "ucprefix":false,
   "parent":"",
   "keywords":"ViewTransition,@view-transition",

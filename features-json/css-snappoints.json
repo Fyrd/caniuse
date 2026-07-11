@@ -122,7 +122,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -430,7 +431,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -702,7 +704,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -760,8 +762,8 @@
     "6":"Partial support in IE & Edge refers to not supporting `scroll-snap-coordinate` and `scroll-snap-destination`.",
     "7":"Available behind the \"Experimental Web Platform features\" feature flag"
   },
-  "usage_perc_y":94.42,
-  "usage_perc_a":0.16,
+  "usage_perc_y":94.77,
+  "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-margin,scroll-snap-points-x,scroll-snap-points-y,scroll-snap-type,scroll-snap-destination,scroll-snap-coordinate,scroll-snap-margin,scroll-snap-align,scroll-snap-stop",

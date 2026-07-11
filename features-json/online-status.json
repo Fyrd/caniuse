@@ -102,7 +102,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -410,7 +411,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -682,7 +684,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -738,8 +740,8 @@
     "3":"Desktop Firefox responds to the status of its \"Work Offline\" mode. If not in that mode, `navigator.onLine` is always `true`, regardless of the actual network connectivity status. [See bug](https://bugzilla.mozilla.org/show_bug.cgi?id=654579) for details.",
     "4":"Safari 7.0 supports only the event listener on `window`, and not on `document.body`"
   },
-  "usage_perc_y":96.65,
-  "usage_perc_a":0.04,
+  "usage_perc_y":96.9,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

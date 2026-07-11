@@ -120,7 +120,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -428,7 +429,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -700,7 +702,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -754,8 +756,8 @@
     "1":"Partial support in older IE refers to a buggy implementation (see issue).",
     "2":"Deferred scripts may run after DOMContentLoaded - https://bugzilla.mozilla.org/show_bug.cgi?id=688580"
   },
-  "usage_perc_y":96.57,
-  "usage_perc_a":0.13,
+  "usage_perc_y":96.93,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -103,7 +103,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -411,7 +412,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -683,7 +685,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -736,8 +738,8 @@
   "notes_by_num":{
     "1":"Safari does not update the `devicePixelRatio` value when the page is zoomed. See [bug 124862](https://bugs.webkit.org/show_bug.cgi?id=124862)"
   },
-  "usage_perc_y":81.02,
-  "usage_perc_a":15.5,
+  "usage_perc_y":81.85,
+  "usage_perc_a":15.05,
   "ucprefix":false,
   "parent":"",
   "keywords":"device,pixel,ratio,size",

@@ -111,7 +111,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -419,7 +420,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -691,7 +693,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -744,8 +746,8 @@
   "notes_by_num":{
     "1":"Does not support `readAsBinaryString`, but `readAsBinaryString` [can be polyfilled](https://stackoverflow.com/q/31391207)"
   },
-  "usage_perc_y":96.44,
-  "usage_perc_a":0.13,
+  "usage_perc_y":96.71,
+  "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"fileapi",
   "keywords":"",

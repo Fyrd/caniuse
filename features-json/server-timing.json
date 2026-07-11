@@ -112,7 +112,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -420,7 +421,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -692,7 +694,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -747,8 +749,8 @@
     "2":"Chrome v64: The current API is behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag.",
     "3":"Safari v12.1+: Supports the Server Timing reporting in the Web Inspector Network tab, but not the JavaScript API"
   },
-  "usage_perc_y":92.25,
-  "usage_perc_a":0.21,
+  "usage_perc_y":92.49,
+  "usage_perc_a":0.2,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,performance.timing,resource,performancenavigation,PerformanceServerTiming",

@@ -116,7 +116,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -424,7 +425,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -696,7 +698,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"a #2",
@@ -750,8 +752,8 @@
     "1":"Partial support refers to missing the default styling, as technically the elements are considered \"[unknown](https://developer.mozilla.org/en-US/docs/Web/API/HTMLUnknownElement)\". This is easily taken care of by manually setting the default `display` value for each tag.",
     "2":"Partial support refers to only the `<main>` element (added later to the spec) being \"unknown\", though it can still be used and styled."
   },
-  "usage_perc_y":96.39,
-  "usage_perc_a":0.31,
+  "usage_perc_y":96.68,
+  "usage_perc_a":0.25,
   "ucprefix":false,
   "parent":"",
   "keywords":"section,article,aside,header,footer,nav,figure,figcaption,time,mark,main,<section>,<article>,<aside>,<header>,<footer>,<nav>,<figure>,<figcaption>,<time>,<mark>,<main>",

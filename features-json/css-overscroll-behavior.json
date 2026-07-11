@@ -118,7 +118,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -426,7 +427,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -698,7 +700,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -754,8 +756,8 @@
     "3":"Incorrectly treats `none` as `contain` see [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior#Browser_compatibility) and [Edge 18 changelog](https://aka.ms/devguide_edgehtml_18)",
     "4":"Can be enabled in the \"Experimental Features\" developer menu"
   },
-  "usage_perc_y":93.66,
-  "usage_perc_a":0.13,
+  "usage_perc_y":93.91,
+  "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"scroll-boundary-behavior,overscroll-behavior-x,overscroll-behavior-y,-ms-scroll-chaining",

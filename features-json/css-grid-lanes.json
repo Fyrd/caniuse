@@ -7,6 +7,10 @@
     {
       "url":"https://webkit.org/blog/17660/introducing-css-grid-lanes/",
       "title":"Introducing CSS Grid Lanes"
+    },
+    {
+      "url":"https://gridlanes.webkit.org/",
+      "title":"WebKit: The Field Guide to Grid Lanes"
     }
   ],
   "bugs":[
@@ -102,7 +106,8 @@
       "146":"p d #1",
       "147":"p d #1",
       "148":"p d #1",
-      "149":"p d #1"
+      "149":"p d #1",
+      "150":"p d #1"
     },
     "firefox":{
       "2":"n",
@@ -410,7 +415,8 @@
       "149":"p d #1",
       "150":"p d #1",
       "151":"p d #1",
-      "152":"p d #1"
+      "152":"p d #1",
+      "153":"p d #1"
     },
     "safari":{
       "3.1":"n",
@@ -682,7 +688,7 @@
       "149":"p d #1"
     },
     "and_ff":{
-      "151":"p d #1"
+      "152":"p d #1"
     },
     "ie_mob":{
       "10":"n",
@@ -735,7 +741,7 @@
   "notes_by_num":{
     "1":"An earlier version of the spec available behind a flag."
   },
-  "usage_perc_y":6.77,
+  "usage_perc_y":8.9,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

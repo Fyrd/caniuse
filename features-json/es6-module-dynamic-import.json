@@ -120,7 +120,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -428,7 +429,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -700,7 +702,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -753,7 +755,7 @@
   "notes_by_num":{
     "1":"Support can be enabled via `javascript.options.dynamicImport` flag. See [bug 1517546](https://bugzil.la/1517546)."
   },
-  "usage_perc_y":94.43,
+  "usage_perc_y":94.78,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"es6-module",

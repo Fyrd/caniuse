@@ -111,7 +111,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -419,7 +420,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -691,7 +693,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -746,8 +748,8 @@
     "2":"Partial support in older Firefox and Opera Mini/Mobile refers to SVG images being blurry when scaled.",
     "3":"Partial support in Edge 15 and older refers to a lack of support for SVG data URIs. [see bug](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6274479/)"
   },
-  "usage_perc_y":96.65,
-  "usage_perc_a":0.04,
+  "usage_perc_y":96.9,
+  "usage_perc_a":0.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"svg-in-css,svgincss,css-svg",

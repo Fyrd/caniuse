@@ -126,7 +126,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"n",
@@ -434,7 +435,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"n",
@@ -706,7 +708,7 @@
       "149":"y"
     },
     "and_ff":{
-      "151":"y"
+      "152":"y"
     },
     "ie_mob":{
       "10":"a x #2",
@@ -762,8 +764,8 @@
     "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag",
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))"
   },
-  "usage_perc_y":94.81,
-  "usage_perc_a":0.13,
+  "usage_perc_y":95.14,
+  "usage_perc_a":0.22,
   "ucprefix":false,
   "parent":"",
   "keywords":"grids,grid-row,grid-column,grid-template,display:grid,displaygrid,inline-grid,fr unit,fractional unit,cssgrid,justify-content:space-between,justify-content:space-around,align-content:space-between,align-content:space-around,space-between",

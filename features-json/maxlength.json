@@ -106,7 +106,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "firefox":{
       "2":"a #1 #2 #3",
@@ -414,7 +415,8 @@
       "149":"y",
       "150":"y",
       "151":"y",
-      "152":"y"
+      "152":"y",
+      "153":"y"
     },
     "safari":{
       "3.1":"u",
@@ -686,7 +688,7 @@
       "149":"y #6"
     },
     "and_ff":{
-      "151":"y #6"
+      "152":"y #6"
     },
     "ie_mob":{
       "10":"y",
@@ -744,8 +746,8 @@
     "5":"`<input>`'s UI does not prevent the user from typing additional characters beyond the `maxlength` limit between two existing characters of the string.",
     "6":"Allows text beyond maxlength to be entered at first, but removes all characters past the maxlength when focus is lost."
   },
-  "usage_perc_y":96.57,
-  "usage_perc_a":0.13,
+  "usage_perc_y":96.93,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"form-validation",
   "keywords":"maximum,length,input,textarea,too,long,validity,state",
