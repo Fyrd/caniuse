@@ -471,10 +471,10 @@
       "26.1":"y #3 #6",
       "26.2":"y #3 #6",
       "26.3":"y #3 #6",
-      "26.4":"y #3 #6",
-      "26.5":"y #3 #6",
-      "27":"y #3 #6",
-      "TP":"y #3 #6"
+      "26.4":"y #6",
+      "26.5":"y #6",
+      "27":"y #6",
+      "TP":"y #6"
     },
     "opera":{
       "9":"n",
@@ -741,7 +741,7 @@
   "notes_by_num":{
     "1":"Partial support refers to not supporting `PushEvent.data` and `PushMessageData`",
     "2":"Requires full browser to be running to receive messages",
-    "3":"Safari 7.0 - 16.0 supported a custom implementation which remains available in later versions, see [Safari Push Notifications](https://developer.apple.com/notifications/safari-push-notifications/) and [WWDC video](https://web.archive.org/web/20210419000205/https://developer.apple.com/videos/play/wwdc2013/614/)",
+    "3":"Safari 7.0 - 26.3 supported Safari Push Notifications",
     "4":"Disabled on Firefox ESR, but can be re-enabled with the `dom.serviceWorkers.enabled` and `dom.push.enabled` flags",
     "5":"Only available on macOS 13 Ventura or later",
     "6":"Supported in Safari, not WKWebView nor SFSafariViewController",
