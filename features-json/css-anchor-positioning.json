@@ -120,7 +120,8 @@
       "148":"a #3",
       "149":"a #3",
       "150":"a #3",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -433,7 +434,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"n",
@@ -492,6 +494,7 @@
       "26.5":"a #3",
       "26.6":"a #3",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -677,7 +680,9 @@
       "26.3":"a #3",
       "26.4":"a #3",
       "26.5":"a #3",
-      "26.6":"a #3"
+      "26.6":"a #3",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -692,7 +697,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "151":"a #3"
+      "152":"y"
     },
     "bb":{
       "7":"n",
@@ -708,10 +713,10 @@
       "80":"n"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"a #4"
+      "155":"a #4"
     },
     "ie_mob":{
       "10":"n",
@@ -767,8 +772,8 @@
     "3":"Does not support `position-anchor: normal`",
     "4":"Does not support animating the `anchor()` and `anchor-size()` CSS functions"
   },
-  "usage_perc_y":46.49,
-  "usage_perc_a":38.29,
+  "usage_perc_y":57.74,
+  "usage_perc_a":28.19,
   "ucprefix":false,
   "parent":"",
   "keywords":"anchor,position,anchor-element,anchor-name,anchor-default,anchor-scroll,position-fallback,position-fallback-bounds",

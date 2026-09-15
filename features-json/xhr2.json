@@ -127,7 +127,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -440,7 +441,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"n",
@@ -499,6 +501,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -684,7 +687,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -699,7 +704,7 @@
       "4.2-4.3":"a #1 #2 #3 #4",
       "4.4":"a #1 #2 #4",
       "4.4.3-4.4.4":"a #4",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"a #1 #2 #4",
@@ -715,10 +720,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"a #1 #4",
@@ -774,8 +779,8 @@
     "3":"Partial support refers to not supporting `blob` as `responseType`",
     "4":"Partial support refers to missing some newer `FormData` functionality (search for specific APIs for details)."
   },
-  "usage_perc_y":96.79,
-  "usage_perc_a":0.56,
+  "usage_perc_y":96.78,
+  "usage_perc_a":0.49,
   "ucprefix":false,
   "parent":"",
   "keywords":"xhr level 2",

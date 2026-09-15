@@ -120,7 +120,8 @@
       "148":"a #2",
       "149":"a #2",
       "150":"a #2",
-      "151":"a #2"
+      "151":"a #2",
+      "152":"a #2"
     },
     "firefox":{
       "2":"n",
@@ -433,7 +434,8 @@
       "151":"a #2",
       "152":"a #2",
       "153":"a #2",
-      "154":"a #2"
+      "154":"a #2",
+      "155":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -492,6 +494,7 @@
       "26.5":"a #2",
       "26.6":"a #2",
       "27":"a #2",
+      "27.1":"a #2",
       "TP":"a #2"
     },
     "opera":{
@@ -677,7 +680,9 @@
       "26.3":"a #2",
       "26.4":"a #2",
       "26.5":"a #2",
-      "26.6":"a #2"
+      "26.6":"a #2",
+      "27.0":"a #2",
+      "27.1":"a #2"
     },
     "op_mini":{
       "all":"n"
@@ -692,7 +697,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #2",
       "4.4.3-4.4.4":"a x #2",
-      "151":"a #2"
+      "152":"a #2"
     },
     "bb":{
       "7":"n",
@@ -708,10 +713,10 @@
       "80":"a #2"
     },
     "and_chr":{
-      "151":"a #2"
+      "152":"a #2"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -768,8 +773,8 @@
     "4":"Partial support can be enabled on MS Edge with the Enable CSS Clip-Path Flag",
     "5":"While Edge doesn't seem to recognize any `<basic-shape>` function, it does allow you to use `polygon()` in HTML and SVG"
   },
-  "usage_perc_y":3.24,
-  "usage_perc_a":93.84,
+  "usage_perc_y":2.88,
+  "usage_perc_a":94.15,
   "ucprefix":false,
   "parent":"css-masks",
   "keywords":"clippath",

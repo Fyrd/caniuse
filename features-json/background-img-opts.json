@@ -123,7 +123,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -436,7 +437,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"a #2 #3",
@@ -495,6 +497,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -680,7 +683,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -695,7 +700,7 @@
       "4.2-4.3":"a #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"y",
@@ -711,10 +716,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"y",
@@ -769,7 +774,7 @@
     "2":"Partial support in Safari 6 refers to not supporting background sizing offset from edges syntax.",
     "3":"Does not support `background-size` values in the `background` shorthand"
   },
-  "usage_perc_y":97.34,
+  "usage_perc_y":97.26,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

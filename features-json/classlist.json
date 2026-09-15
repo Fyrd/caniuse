@@ -127,7 +127,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"p",
@@ -440,7 +441,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"p",
@@ -499,6 +501,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -684,7 +687,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"a #1 #2 #3"
@@ -699,7 +704,7 @@
       "4.2-4.3":"a #1 #2 #3",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"a #1 #2 #3",
@@ -715,10 +720,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"a #1 #2 #3",
@@ -774,8 +779,8 @@
     "3":"Does not support multiple parameters for the `add()` & `remove()` methods",
     "4":"Does not support assign to `classList` or the `replace()` method"
   },
-  "usage_perc_y":97.07,
-  "usage_perc_a":0.28,
+  "usage_perc_y":97.02,
+  "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"classlist.contains(),classlist.toggle(),classlist.add(),classlist.remove()",

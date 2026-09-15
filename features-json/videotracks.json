@@ -104,7 +104,8 @@
       "148":"n d #2",
       "149":"n d #2",
       "150":"n d #2",
-      "151":"n d #2"
+      "151":"n d #2",
+      "152":"n d #2"
     },
     "firefox":{
       "2":"n",
@@ -417,7 +418,8 @@
       "151":"n d #2",
       "152":"n d #2",
       "153":"n d #2",
-      "154":"n d #2"
+      "154":"n d #2",
+      "155":"n d #2"
     },
     "safari":{
       "3.1":"n",
@@ -476,6 +478,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -661,7 +664,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -676,7 +681,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "151":"n"
+      "152":"n"
     },
     "bb":{
       "7":"n",
@@ -692,10 +697,10 @@
       "80":"n d #2"
     },
     "and_chr":{
-      "151":"n d #2"
+      "152":"n d #2"
     },
     "and_ff":{
-      "153":"n"
+      "155":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -749,7 +754,7 @@
     "1":"Supported in Firefox by enabling \"media.track.enabled\" in about:config",
     "2":"Supported in Chrome and Opera by enabling \"enable-experimental-web-platform-features\" in chrome:flags"
   },
-  "usage_perc_y":16.22,
+  "usage_perc_y":15.67,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

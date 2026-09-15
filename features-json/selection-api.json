@@ -104,7 +104,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -417,7 +418,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"u",
@@ -476,6 +478,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -661,7 +664,9 @@
       "26.3":"a #3",
       "26.4":"a #3",
       "26.5":"a #3",
-      "26.6":"a #3"
+      "26.6":"a #3",
+      "27.0":"a #3",
+      "27.1":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -676,7 +681,7 @@
       "4.2-4.3":"y #4",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"u",
@@ -692,10 +697,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"u",
@@ -752,8 +757,8 @@
     "4":"`window.getSelection()` may fail on tapping buttons, as the selection is lost right before the listener code runs.",
     "5":"Selection events are supported behind the `dom.select_events.enabled` flag"
   },
-  "usage_perc_y":83.6,
-  "usage_perc_a":13.74,
+  "usage_perc_y":84.05,
+  "usage_perc_a":13.21,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

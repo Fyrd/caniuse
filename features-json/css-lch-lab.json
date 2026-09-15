@@ -124,7 +124,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -437,7 +438,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"n",
@@ -496,6 +498,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -681,7 +684,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -696,7 +701,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"n",
@@ -712,10 +717,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -769,7 +774,7 @@
     "1":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true",
     "2":"Can be enabled via the `#enable-experimental-web-platform-features` flag in `chrome://flags`"
   },
-  "usage_perc_y":93.94,
+  "usage_perc_y":94.27,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

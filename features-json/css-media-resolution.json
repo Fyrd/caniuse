@@ -131,7 +131,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -444,7 +445,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"n",
@@ -503,6 +505,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -688,7 +691,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -703,7 +708,7 @@
       "4.2-4.3":"a x #3",
       "4.4":"a #4",
       "4.4.3-4.4.4":"a #4",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"a x #3",
@@ -719,10 +724,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -778,8 +783,8 @@
     "3":"Supports the non-standard `min`/`max-device-pixel-ratio`.",
     "4":"Does not support `x` unit (alias for `dppx` unit), e.g: `@media (min-resolution: 2x) { }`."
   },
-  "usage_perc_y":95.93,
-  "usage_perc_a":1.41,
+  "usage_perc_y":96.04,
+  "usage_perc_a":1.23,
   "ucprefix":false,
   "parent":"css-mediaqueries",
   "keywords":"@media,device-pixel-ratio,resolution,dppx,dpcm,dpi",

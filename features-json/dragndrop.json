@@ -146,7 +146,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"p",
@@ -459,7 +460,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"y",
@@ -518,6 +520,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -703,7 +706,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -718,7 +723,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "151":"y #4"
+      "152":"y #4"
     },
     "bb":{
       "7":"n",
@@ -734,10 +739,10 @@
       "80":"y #4"
     },
     "and_chr":{
-      "151":"y #4"
+      "152":"y #4"
     },
     "and_ff":{
-      "153":"n"
+      "155":"n"
     },
     "ie_mob":{
       "10":"y",
@@ -793,8 +798,8 @@
     "3":"Partial support refers to limited supported formats for `dataTransfer.setData`/`getData`.",
     "4":"Not supported in Chromium browsers on Android 6 or older."
   },
-  "usage_perc_y":95.14,
-  "usage_perc_a":0.27,
+  "usage_perc_y":95.17,
+  "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"draganddrop, draggable",

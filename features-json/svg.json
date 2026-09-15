@@ -131,7 +131,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"a",
@@ -444,7 +445,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"a",
@@ -503,6 +505,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -688,7 +691,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"y"
@@ -703,7 +708,7 @@
       "4.2-4.3":"a #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"y",
@@ -719,10 +724,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"y #2",
@@ -777,8 +782,8 @@
     "2":"Partial support in IE9-11 refers to not supporting animations.",
     "3":"IE9-11 & Edge don't properly scale SVG files. [Adding height, width, viewBox, and CSS rules](https://codepen.io/tomByrer/pen/qEBbzw?editors=110) seems to be the best workaround."
   },
-  "usage_perc_y":97.08,
-  "usage_perc_a":0.27,
+  "usage_perc_y":97.03,
+  "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",
   "keywords":".svg,rect,circle,ellipse,line,polyline,polygon,defs,symbol,use,tspan,tref,textpath,stroke-dasharray,stroke-dashoffset,stroke-opacity",

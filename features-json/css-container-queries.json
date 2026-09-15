@@ -128,7 +128,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -441,7 +442,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"n",
@@ -500,6 +502,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -685,7 +688,9 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y"
     },
     "op_mini":{
       "all":"n"
@@ -700,7 +705,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"n",
@@ -716,10 +721,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -774,8 +779,8 @@
     "2":"The initial Chrome prototype used an earlier draft syntax based on the `contain` property",
     "3":"Combining size container queries and table layout inside a multicolumn layout doesn't work"
   },
-  "usage_perc_y":94.62,
-  "usage_perc_a":0.09,
+  "usage_perc_y":94.79,
+  "usage_perc_a":0.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"container query,@container,container-name,container-type",

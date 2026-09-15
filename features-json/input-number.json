@@ -133,7 +133,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -446,7 +447,8 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y"
     },
     "safari":{
       "3.1":"n",
@@ -505,6 +507,7 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
       "TP":"y"
     },
     "opera":{
@@ -690,7 +693,9 @@
       "26.3":"a #1 #2",
       "26.4":"a #1 #2",
       "26.5":"a #1 #2",
-      "26.6":"a #1 #2"
+      "26.6":"a #1 #2",
+      "27.0":"a #1 #2",
+      "27.1":"a #1 #2"
     },
     "op_mini":{
       "all":"n"
@@ -705,7 +710,7 @@
       "4.2-4.3":"a #1 #2",
       "4.4":"a #1 #2",
       "4.4.3-4.4.4":"a #1 #2",
-      "151":"a #1 #2"
+      "152":"a #1 #2"
     },
     "bb":{
       "7":"n",
@@ -721,10 +726,10 @@
       "80":"a #1 #2"
     },
     "and_chr":{
-      "151":"a #1 #2"
+      "152":"a #1 #2"
     },
     "and_ff":{
-      "153":"y #1 #3"
+      "155":"y #1 #3"
     },
     "ie_mob":{
       "10":"a #1 #2",
@@ -780,8 +785,8 @@
     "3":"Firefox doesn't support [autocomplete content via datalist](https://codepen.io/graste/pen/bNoVKW) elements.",
     "4":"Does not include increment/decrement buttons, but does support increment/decrement via arrow up & down keys."
   },
-  "usage_perc_y":34.15,
-  "usage_perc_a":63.18,
+  "usage_perc_y":37.02,
+  "usage_perc_a":60.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"spinner,input type=\"number\"",
