@@ -1,12 +1,20 @@
 {
-  "title":"JPEG XL image format",
-  "description":"A modern image format optimized for web environments. JPEG XL generally has better compression than [WebP](/webp), JPEG, PNG and GIF and is designed to supersede them. JPEG XL competes with [AVIF](/avif) which has similar compression quality but fewer features overall.",
+  "title":"JPEG XL (JXL) image format",
+  "description":"A modern image format optimized for web environments. JPEG XL (also known as JXL) generally has better compression than [WebP](/webp), JPEG, PNG and GIF and is designed to supersede them. JPEG XL competes with [AVIF](/avif) which has similar compression quality but fewer features overall.",
   "spec":"https://jpeg.org/jpegxl/documentation.html",
   "status":"other",
   "links":[
     {
       "url":"https://jpeg.org/jpegxl/index.html",
       "title":"Official website"
+    },
+    {
+      "url":"https://jpegxl.info",
+      "title":"Official community website"
+    },
+    {
+      "url":"https://arxiv.org/pdf/2506.05987",
+      "title":"In-depth overview of the format's rationale, features, and history"
     },
     {
       "url":"https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs",
