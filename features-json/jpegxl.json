@@ -1,20 +1,12 @@
 {
-  "title":"JPEG XL (JXL) image format",
-  "description":"A modern image format optimized for web environments. JPEG XL (also known as JXL) generally has better compression than [WebP](/webp), JPEG, PNG and GIF and is designed to supersede them. JPEG XL competes with [AVIF](/avif) which has similar compression quality but fewer features overall.",
+  "title":"JPEG\u00a0XL (JXL) image format",
+  "description":"A modern image format optimized for web environments. JPEG\u00a0XL (also known as JXL) generally has better compression than [WebP](/webp), JPEG, PNG and GIF and is designed to supersede them. JPEG\u00a0XL competes with [AVIF](/avif) which has similar compression quality but fewer features overall.",
   "spec":"https://jpeg.org/jpegxl/documentation.html",
   "status":"other",
   "links":[
     {
       "url":"https://jpeg.org/jpegxl/index.html",
       "title":"Official website"
-    },
-    {
-      "url":"https://jpegxl.info",
-      "title":"Official community website"
-    },
-    {
-      "url":"https://arxiv.org/pdf/2506.05987",
-      "title":"In-depth overview of the format's rationale, features, and history"
     },
     {
       "url":"https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs",
@@ -43,6 +35,14 @@
     {
       "url":"https://www.phoronix.com/news/JPEG-XL-Returns-Chrome-Chromium",
       "title":"JPEG-XL Image Support Returns To Latest Chrome / Chromium Code"
+    },
+    {
+      "url":"https://jpegxl.info",
+      "title":"Official community website"
+    },
+    {
+      "url":"https://arxiv.org/pdf/2506.05987",
+      "title":"In-depth overview of the format's rationale, features, and history"
     }
   ],
   "bugs":[
@@ -302,7 +302,8 @@
       "155":"n d #8",
       "156":"n d #8",
       "157":"n d #8",
-      "158":"n d #8"
+      "158":"n d #8",
+      "159":"n d #8"
     },
     "chrome":{
       "4":"n",
@@ -455,7 +456,8 @@
       "152":"n d #6",
       "153":"n d #6",
       "154":"n d #6",
-      "155":"n d #6"
+      "155":"n d #6",
+      "156":"n d #6"
     },
     "safari":{
       "3.1":"n",
@@ -515,6 +517,7 @@
       "26.6":"a #4 #5",
       "27":"a #4 #5",
       "27.1":"a #4 #5",
+      "27.2":"a #4 #5",
       "TP":"a #4 #5"
     },
     "opera":{
@@ -702,7 +705,8 @@
       "26.5":"a #4 #5",
       "26.6":"a #4 #5",
       "27.0":"a #4 #5",
-      "27.1":"a #4 #5"
+      "27.1":"a #4 #5",
+      "27.2":"a #4 #5"
     },
     "op_mini":{
       "all":"n"
