@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"In Safari the characters `U+0027` and `U+0022` are not supported by the `first` and `last` keywords."
+      "description":"Safari 10-26.4 had an issue where the characters `U+0027` and `U+0022` were not supported by the `first` and `last` keywords. Fixed in 26.5"
     }
   ],
   "categories":[
