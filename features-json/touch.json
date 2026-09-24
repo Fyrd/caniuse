@@ -130,7 +130,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -290,7 +291,9 @@
       "154":"y",
       "155":"y",
       "156":"y",
-      "157":"y"
+      "157":"y",
+      "158":"y",
+      "159":"y"
     },
     "chrome":{
       "4":"n",
@@ -442,7 +445,9 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y",
+      "156":"y"
     },
     "safari":{
       "3.1":"n",
@@ -501,6 +506,8 @@
       "26.5":"n",
       "26.6":"n",
       "27":"n",
+      "27.1":"n",
+      "27.2":"n",
       "TP":"n"
     },
     "opera":{
@@ -629,7 +636,8 @@
       "131":"y",
       "132":"y",
       "133":"y",
-      "134":"y"
+      "134":"y",
+      "135":"y"
     },
     "ios_saf":{
       "3.2":"y",
@@ -685,7 +693,10 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y",
+      "27.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -700,7 +711,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"y",
@@ -716,10 +727,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"p",
@@ -774,8 +785,8 @@
     "2":"Supported on IE11 Mobile for phones with \"[Windows Phone 8.1 Update](http://blogs.msdn.com/b/ie/archive/2014/07/31/the-mobile-web-should-just-work-for-everyone.aspx)\"",
     "3":"Can be enabled in Edge using the \"Enable touch events\" flag under `about:flags`"
   },
-  "usage_perc_y":93.94,
-  "usage_perc_a":0.01,
+  "usage_perc_y":94.55,
+  "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
   "keywords":"touchstart,touchend,touchmove,touchenter,touchleave,touchcancel",

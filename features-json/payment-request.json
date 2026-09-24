@@ -124,7 +124,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -284,7 +285,9 @@
       "154":"a d #8",
       "155":"a d #8",
       "156":"a d #8",
-      "157":"a d #8"
+      "157":"a d #8",
+      "158":"a d #8",
+      "159":"a d #8"
     },
     "chrome":{
       "4":"n",
@@ -436,7 +439,9 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y",
+      "156":"y"
     },
     "safari":{
       "3.1":"n",
@@ -495,6 +500,8 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
+      "27.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -623,7 +630,8 @@
       "131":"y",
       "132":"y",
       "133":"y",
-      "134":"y"
+      "134":"y",
+      "135":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -679,7 +687,10 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y",
+      "27.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -694,7 +705,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "151":"n"
+      "152":"n"
     },
     "bb":{
       "7":"n",
@@ -710,10 +721,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y #5"
+      "152":"y #5"
     },
     "and_ff":{
-      "153":"n"
+      "155":"n"
     },
     "ie_mob":{
       "10":"n",
@@ -773,8 +784,8 @@
     "7":"Missing support for PaymentResponse.prototype.retry() method",
     "8":"Disabled by default in Nightly. To enable, go to \"about:config\" and set \"dom.payments.request.enabled\" to true, and \"dom.payments.request.supportedRegions\" to \"US,CA\"."
   },
-  "usage_perc_y":91.57,
-  "usage_perc_a":3.06,
+  "usage_perc_y":92.7,
+  "usage_perc_a":2.69,
   "ucprefix":false,
   "parent":"",
   "keywords":"PaymentRequest,Web Payments",

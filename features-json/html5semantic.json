@@ -118,7 +118,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -278,7 +279,9 @@
       "154":"y",
       "155":"y",
       "156":"y",
-      "157":"y"
+      "157":"y",
+      "158":"y",
+      "159":"y"
     },
     "chrome":{
       "4":"a #1",
@@ -430,7 +433,9 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y",
+      "156":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -489,6 +494,8 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
+      "27.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -617,7 +624,8 @@
       "131":"y",
       "132":"y",
       "133":"y",
-      "134":"y"
+      "134":"y",
+      "135":"y"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -673,7 +681,10 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y",
+      "27.2":"y"
     },
     "op_mini":{
       "all":"a #1"
@@ -688,7 +699,7 @@
       "4.2-4.3":"a #2",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "151":"y"
+      "152":"y"
     },
     "bb":{
       "7":"a #2",
@@ -704,10 +715,10 @@
       "80":"y"
     },
     "and_chr":{
-      "151":"y"
+      "152":"y"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"a #2",
@@ -761,8 +772,8 @@
     "1":"Partial support refers to missing the default styling, as technically the elements are considered \"[unknown](https://developer.mozilla.org/en-US/docs/Web/API/HTMLUnknownElement)\". This is easily taken care of by manually setting the default `display` value for each tag.",
     "2":"Partial support refers to only the `<main>` element (added later to the spec) being \"unknown\", though it can still be used and styled."
   },
-  "usage_perc_y":96.41,
-  "usage_perc_a":0.28,
+  "usage_perc_y":97.02,
+  "usage_perc_a":0.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"section,article,aside,header,footer,nav,figure,figcaption,time,mark,main,<section>,<article>,<aside>,<header>,<footer>,<nav>,<figure>,<figcaption>,<time>,<mark>,<main>",

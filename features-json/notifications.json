@@ -136,7 +136,8 @@
       "148":"y",
       "149":"y",
       "150":"y",
-      "151":"y"
+      "151":"y",
+      "152":"y"
     },
     "firefox":{
       "2":"n",
@@ -296,7 +297,9 @@
       "154":"y",
       "155":"y",
       "156":"y",
-      "157":"y"
+      "157":"y",
+      "158":"y",
+      "159":"y"
     },
     "chrome":{
       "4":"n",
@@ -448,7 +451,9 @@
       "151":"y",
       "152":"y",
       "153":"y",
-      "154":"y"
+      "154":"y",
+      "155":"y",
+      "156":"y"
     },
     "safari":{
       "3.1":"n",
@@ -507,6 +512,8 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
+      "27.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -635,7 +642,8 @@
       "131":"y",
       "132":"y",
       "133":"y",
-      "134":"y"
+      "134":"y",
+      "135":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -691,7 +699,10 @@
       "26.3":"a #3",
       "26.4":"a #3",
       "26.5":"a #3",
-      "26.6":"a #3"
+      "26.6":"a #3",
+      "27.0":"a #3",
+      "27.1":"a #3",
+      "27.2":"a #3"
     },
     "op_mini":{
       "all":"n"
@@ -706,7 +717,7 @@
       "4.2-4.3":"n",
       "4.4":"a x",
       "4.4.3-4.4.4":"a x",
-      "151":"a x"
+      "152":"a x"
     },
     "bb":{
       "7":"n",
@@ -722,10 +733,10 @@
       "80":"a x"
     },
     "and_chr":{
-      "151":"y #2"
+      "152":"y #2"
     },
     "and_ff":{
-      "153":"y"
+      "155":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -780,8 +791,8 @@
     "2":"Chrome for Android requires the call to be made with a [service worker registration](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API#Service_worker_additions)",
     "3":"Requires website to first be [added to the Home Screen](/web-app-manifest)"
   },
-  "usage_perc_y":80.23,
-  "usage_perc_a":14.13,
+  "usage_perc_y":81.44,
+  "usage_perc_a":13.68,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
