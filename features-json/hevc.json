@@ -116,7 +116,8 @@
       "148":"a #4",
       "149":"a #4",
       "150":"a #4",
-      "151":"a #4"
+      "151":"a #4",
+      "152":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -276,7 +277,9 @@
       "154":"a #8",
       "155":"a #8",
       "156":"a #8",
-      "157":"a #8"
+      "157":"a #8",
+      "158":"a #8",
+      "159":"a #8"
     },
     "chrome":{
       "4":"n",
@@ -428,7 +431,9 @@
       "151":"a #5",
       "152":"a #5",
       "153":"a #5",
-      "154":"a #5"
+      "154":"a #5",
+      "155":"a #5",
+      "156":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -487,6 +492,8 @@
       "26.5":"y",
       "26.6":"y",
       "27":"y",
+      "27.1":"y",
+      "27.2":"y",
       "TP":"y"
     },
     "opera":{
@@ -615,7 +622,8 @@
       "131":"a #5",
       "132":"a #5",
       "133":"a #5",
-      "134":"a #5"
+      "134":"a #5",
+      "135":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -671,7 +679,10 @@
       "26.3":"y",
       "26.4":"y",
       "26.5":"y",
-      "26.6":"y"
+      "26.6":"y",
+      "27.0":"y",
+      "27.1":"y",
+      "27.2":"y"
     },
     "op_mini":{
       "all":"n"
@@ -686,7 +697,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "151":"a #5"
+      "152":"a #5"
     },
     "bb":{
       "7":"n",
@@ -702,10 +713,10 @@
       "80":"n #2"
     },
     "and_chr":{
-      "151":"a #5"
+      "152":"a #5"
     },
     "and_ff":{
-      "153":"a #8"
+      "155":"a #8"
     },
     "ie_mob":{
       "10":"n",
@@ -765,8 +776,8 @@
     "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported.",
     "8":"Supported for devices with hardware support, software fallback in some cases. See [details here on MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs#hevc_h.265)."
   },
-  "usage_perc_y":17.51,
-  "usage_perc_a":74.81,
+  "usage_perc_y":16.94,
+  "usage_perc_a":76.59,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

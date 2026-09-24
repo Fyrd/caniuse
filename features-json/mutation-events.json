@@ -104,7 +104,8 @@
       "148":"n",
       "149":"n",
       "150":"n",
-      "151":"n"
+      "151":"n",
+      "152":"n"
     },
     "firefox":{
       "2":"n",
@@ -264,7 +265,9 @@
       "154":"n",
       "155":"n",
       "156":"n",
-      "157":"n"
+      "157":"n",
+      "158":"n",
+      "159":"n"
     },
     "chrome":{
       "4":"u",
@@ -416,7 +419,9 @@
       "151":"n",
       "152":"n",
       "153":"n",
-      "154":"n"
+      "154":"n",
+      "155":"n",
+      "156":"n"
     },
     "safari":{
       "3.1":"u",
@@ -475,6 +480,8 @@
       "26.5":"n",
       "26.6":"n",
       "27":"n",
+      "27.1":"n",
+      "27.2":"n",
       "TP":"n"
     },
     "opera":{
@@ -603,7 +610,8 @@
       "131":"n d",
       "132":"n d",
       "133":"n d",
-      "134":"n d"
+      "134":"n d",
+      "135":"n d"
     },
     "ios_saf":{
       "3.2":"u",
@@ -659,7 +667,10 @@
       "26.3":"n",
       "26.4":"n",
       "26.5":"n",
-      "26.6":"n"
+      "26.6":"n",
+      "27.0":"n",
+      "27.1":"n",
+      "27.2":"n"
     },
     "op_mini":{
       "all":"n"
@@ -674,7 +685,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "151":"n"
+      "152":"n"
     },
     "bb":{
       "7":"a #1",
@@ -690,10 +701,10 @@
       "80":"a #1"
     },
     "and_chr":{
-      "151":"n"
+      "152":"n"
     },
     "and_ff":{
-      "153":"n"
+      "155":"n"
     },
     "ie_mob":{
       "10":"a #2",
@@ -748,7 +759,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":13.88,
+  "usage_perc_a":12.72,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",
