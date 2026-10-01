@@ -19,6 +19,10 @@
     {
       "url":"https://bugs.webkit.org/show_bug.cgi?id=107250",
       "title":"WebKit support bug"
+    },
+    {
+      "url":"https://triglavmodular.hu/mods/safari-webmidi/",
+      "title":"Web MIDI for Safari (Safari extension that adds the API on macOS)"
     }
   ],
   "bugs":[
@@ -769,7 +773,7 @@
       "3.0-3.1":"n"
     }
   },
-  "notes":"",
+  "notes":"Safari has no native support. On macOS, a third-party Safari web extension, Web MIDI for Safari, adds `navigator.requestMIDIAccess()` backed by CoreMIDI, so a website can use Web MIDI once a user installs and enables the extension (Safari 18.4 and later). This is userland support and not part of WebKit, so the support status above stays unsupported.",
   "notes_by_num":{
     
   },
