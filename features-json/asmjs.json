@@ -130,7 +130,8 @@
       "152":"a #1",
       "153":"a #1",
       "154":"a #1",
-      "155":"a #1"
+      "155":"a #1",
+      "156":"a #1"
     },
     "firefox":{
       "2":"n",
@@ -452,7 +453,8 @@
       "156":"a #1",
       "157":"a #1",
       "158":"a #1",
-      "159":"a #1"
+      "159":"a #1",
+      "160":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -642,7 +644,11 @@
       "132":"a #1",
       "133":"a #1",
       "134":"a #1",
-      "135":"a #1"
+      "135":"a #1",
+      "136":"a #1",
+      "137":"a #1",
+      "138":"a #1",
+      "139":"a #1"
     },
     "ios_saf":{
       "3.2":"n",
@@ -716,7 +722,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "156":"a #1"
+      "157":"a #1"
     },
     "bb":{
       "7":"n",
@@ -732,7 +738,7 @@
       "80":"a #1"
     },
     "and_chr":{
-      "156":"a #1"
+      "157":"a #1"
     },
     "and_ff":{
       "159":"y"
@@ -771,7 +777,8 @@
       "27":"a #1",
       "28":"a #1",
       "29":"a #1",
-      "30":"a #1"
+      "30":"a #1",
+      "31":"a #1"
     },
     "and_qq":{
       "14.9":"a #1"
@@ -789,8 +796,8 @@
     "1":"Chromium does not support ahead-of-time compilation but performance doubled in Chrome 28: [https://en.wikipedia.org/wiki/Asm.js#Implementations](https://en.wikipedia.org/wiki/Asm.js#Implementations)",
     "2":"Supported in MS Edge under the \"Enable experimental JavaScript features\" flag."
   },
-  "usage_perc_y":2.72,
-  "usage_perc_a":76.66,
+  "usage_perc_y":2.5,
+  "usage_perc_a":78.76,
   "ucprefix":false,
   "parent":"",
   "keywords":"asm,asm.js,asmjs,WebAssembly",

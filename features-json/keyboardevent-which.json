@@ -108,7 +108,8 @@
       "152":"y",
       "153":"y",
       "154":"y",
-      "155":"y"
+      "155":"y",
+      "156":"y"
     },
     "firefox":{
       "2":"y",
@@ -430,7 +431,8 @@
       "156":"y",
       "157":"y",
       "158":"y",
-      "159":"y"
+      "159":"y",
+      "160":"y"
     },
     "safari":{
       "3.1":"n",
@@ -620,7 +622,11 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y",
+      "137":"y",
+      "138":"y",
+      "139":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -694,7 +700,7 @@
       "4.2-4.3":"y",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "156":"y"
+      "157":"y"
     },
     "bb":{
       "7":"y",
@@ -710,7 +716,7 @@
       "80":"y"
     },
     "and_chr":{
-      "156":"a #1"
+      "157":"a #1"
     },
     "and_ff":{
       "159":"a #1"
@@ -749,7 +755,8 @@
       "27":"a #1",
       "28":"a #1",
       "29":"a #1",
-      "30":"a #1"
+      "30":"a #1",
+      "31":"a #1"
     },
     "and_qq":{
       "14.9":"y"
@@ -766,8 +773,8 @@
   "notes_by_num":{
     "1":"`event.which` number for keys does not always match expected value (difference may be dependent on hardware vs. on-screen keyboard?). "
   },
-  "usage_perc_y":52.16,
-  "usage_perc_a":45.33,
+  "usage_perc_y":51.23,
+  "usage_perc_a":46.34,
   "ucprefix":false,
   "parent":"",
   "keywords":"keyboard,event,which",

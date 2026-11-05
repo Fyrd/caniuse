@@ -124,7 +124,8 @@
       "152":"y",
       "153":"y",
       "154":"y",
-      "155":"y"
+      "155":"y",
+      "156":"y"
     },
     "firefox":{
       "2":"n",
@@ -446,7 +447,8 @@
       "156":"y",
       "157":"y",
       "158":"y",
-      "159":"y"
+      "159":"y",
+      "160":"y"
     },
     "safari":{
       "3.1":"n",
@@ -636,7 +638,11 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y",
+      "137":"y",
+      "138":"y",
+      "139":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -710,7 +716,7 @@
       "4.2-4.3":"a x #1",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "156":"y"
+      "157":"y"
     },
     "bb":{
       "7":"u",
@@ -726,7 +732,7 @@
       "80":"y"
     },
     "and_chr":{
-      "156":"y"
+      "157":"y"
     },
     "and_ff":{
       "159":"y"
@@ -765,7 +771,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "and_qq":{
       "14.9":"a d #1 #4"
@@ -785,8 +792,8 @@
     "3":"Only supports the deprecated `:-moz-any()` pseudo-class.",
     "4":"Support for `:is()` can be enabled with the `Experimental Web Platform features` flag"
   },
-  "usage_perc_y":96.99,
-  "usage_perc_a":0.29,
+  "usage_perc_y":97.17,
+  "usage_perc_a":0.23,
   "ucprefix":false,
   "parent":"",
   "keywords":":is,is,:matches,matches,:any,any,:-moz-any,-moz-any,:-webkit-any,-webkit-any",

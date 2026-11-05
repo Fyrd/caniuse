@@ -108,7 +108,8 @@
       "152":"n",
       "153":"n",
       "154":"n",
-      "155":"n"
+      "155":"n",
+      "156":"n"
     },
     "firefox":{
       "2":"n",
@@ -430,7 +431,8 @@
       "156":"n",
       "157":"n",
       "158":"n",
-      "159":"n"
+      "159":"n",
+      "160":"n"
     },
     "safari":{
       "3.1":"u",
@@ -620,7 +622,11 @@
       "132":"n d",
       "133":"n d",
       "134":"n d",
-      "135":"n d"
+      "135":"n d",
+      "136":"n d",
+      "137":"n d",
+      "138":"n d",
+      "139":"n d"
     },
     "ios_saf":{
       "3.2":"u",
@@ -694,7 +700,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "156":"n"
+      "157":"n"
     },
     "bb":{
       "7":"a #1",
@@ -710,7 +716,7 @@
       "80":"a #1"
     },
     "and_chr":{
-      "156":"n"
+      "157":"n"
     },
     "and_ff":{
       "159":"n"
@@ -749,7 +755,8 @@
       "27":"a #1",
       "28":"a #1",
       "29":"a #1",
-      "30":"a #1"
+      "30":"a #1",
+      "31":"a #1"
     },
     "and_qq":{
       "14.9":"a #1"
@@ -768,7 +775,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":12.16,
+  "usage_perc_a":11.43,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

@@ -124,7 +124,8 @@
       "152":"n #3",
       "153":"n #3",
       "154":"n #3",
-      "155":"n #3"
+      "155":"n #3",
+      "156":"n #3"
     },
     "firefox":{
       "2":"n",
@@ -446,7 +447,8 @@
       "156":"a x #1",
       "157":"a x #1",
       "158":"a x #1",
-      "159":"a x #1"
+      "159":"a x #1",
+      "160":"a x #1"
     },
     "safari":{
       "3.1":"n",
@@ -636,7 +638,11 @@
       "132":"n #3",
       "133":"n #3",
       "134":"n #3",
-      "135":"n #3"
+      "135":"n #3",
+      "136":"n #3",
+      "137":"n #3",
+      "138":"n #3",
+      "139":"n #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -710,7 +716,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "156":"n"
+      "157":"n"
     },
     "bb":{
       "7":"n",
@@ -726,7 +732,7 @@
       "80":"a x #1"
     },
     "and_chr":{
-      "156":"a x #1"
+      "157":"a x #1"
     },
     "and_ff":{
       "159":"n"
@@ -765,7 +771,8 @@
       "27":"a x #1",
       "28":"a x #1",
       "29":"a x #1",
-      "30":"a x #1"
+      "30":"a x #1",
+      "31":"a x #1"
     },
     "and_qq":{
       "14.9":"a x #1"
@@ -786,7 +793,7 @@
     "4":"Safari 14.1 and TP 119+ include prefixed support for `webkitSpeechRecognition` without support for `SpeechGrammar` or `SpeechGrammarList`. Siri needs to be enabled. [Not available in SafariViewController and web apps added to Home Screen](https://bugs.webkit.org/show_bug.cgi?id=225298#c3)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":87.96,
+  "usage_perc_a":88.82,
   "ucprefix":false,
   "parent":"",
   "keywords":"#web-speech,speechrecognition,ASR",

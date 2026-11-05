@@ -125,7 +125,8 @@
       "152":"y",
       "153":"y",
       "154":"y",
-      "155":"y"
+      "155":"y",
+      "156":"y"
     },
     "firefox":{
       "2":"n",
@@ -447,7 +448,8 @@
       "156":"y",
       "157":"y",
       "158":"y",
-      "159":"y"
+      "159":"y",
+      "160":"y"
     },
     "safari":{
       "3.1":"n",
@@ -637,7 +639,11 @@
       "132":"n",
       "133":"n",
       "134":"n",
-      "135":"n"
+      "135":"n",
+      "136":"n",
+      "137":"n",
+      "138":"n",
+      "139":"n"
     },
     "ios_saf":{
       "3.2":"n",
@@ -711,7 +717,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "156":"y"
+      "157":"y"
     },
     "bb":{
       "7":"n",
@@ -727,7 +733,7 @@
       "80":"y"
     },
     "and_chr":{
-      "156":"y"
+      "157":"y"
     },
     "and_ff":{
       "159":"y"
@@ -766,7 +772,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -785,8 +792,8 @@
     "2":"Safari on iOS does not support A2HS in WebViews like Chrome and Firefox.",
     "3":"Firefox is experimenting with desktop support behind the `browser.ssb.enabled` flag."
   },
-  "usage_perc_y":76.32,
-  "usage_perc_a":17.6,
+  "usage_perc_y":78.21,
+  "usage_perc_a":15.84,
   "ucprefix":false,
   "parent":"",
   "keywords":"manifest,pwa,progressive web app,web app,wam,web app manifest,install,installable",

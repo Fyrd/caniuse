@@ -120,7 +120,8 @@
       "152":"y",
       "153":"y",
       "154":"y",
-      "155":"y"
+      "155":"y",
+      "156":"y"
     },
     "firefox":{
       "2":"n",
@@ -442,7 +443,8 @@
       "156":"y",
       "157":"y",
       "158":"y",
-      "159":"y"
+      "159":"y",
+      "160":"y"
     },
     "safari":{
       "3.1":"n",
@@ -632,7 +634,11 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y",
+      "137":"y",
+      "138":"y",
+      "139":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -706,7 +712,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "156":"y"
+      "157":"y"
     },
     "bb":{
       "7":"n",
@@ -722,7 +728,7 @@
       "80":"y"
     },
     "and_chr":{
-      "156":"y"
+      "157":"y"
     },
     "and_ff":{
       "159":"y"
@@ -761,7 +767,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -780,8 +787,8 @@
     "2":"Available behind the `layout.css.nesting.enabled` flag",
     "3":"Does not allow nesting of type (element) selectors without starting with a symbol, like the `&` nesting selector. [Chromium issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1427259)"
   },
-  "usage_perc_y":92.9,
-  "usage_perc_a":1.58,
+  "usage_perc_y":93.39,
+  "usage_perc_a":1.35,
   "ucprefix":false,
   "parent":"",
   "keywords":"&,@nest,nested css",

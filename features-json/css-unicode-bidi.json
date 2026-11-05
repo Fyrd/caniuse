@@ -108,7 +108,8 @@
       "152":"y",
       "153":"y",
       "154":"y",
-      "155":"y"
+      "155":"y",
+      "156":"y"
     },
     "firefox":{
       "2":"a #1",
@@ -430,7 +431,8 @@
       "156":"y",
       "157":"y",
       "158":"y",
-      "159":"y"
+      "159":"y",
+      "160":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -620,7 +622,11 @@
       "132":"a #1",
       "133":"a #1",
       "134":"a #1",
-      "135":"a #1"
+      "135":"a #1",
+      "136":"a #1",
+      "137":"a #1",
+      "138":"a #1",
+      "139":"a #1"
     },
     "ios_saf":{
       "3.2":"a #1",
@@ -694,7 +700,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "156":"y"
+      "157":"y"
     },
     "bb":{
       "7":"u",
@@ -710,7 +716,7 @@
       "80":"y"
     },
     "and_chr":{
-      "156":"y"
+      "157":"y"
     },
     "and_ff":{
       "159":"y"
@@ -749,7 +755,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -768,8 +775,8 @@
     "2":"isolate keyword could be used together with bidi-override instead of isolate-override value support",
     "3":"Only normal, embed, bidi-override and isolate values support"
   },
-  "usage_perc_y":78.63,
-  "usage_perc_a":18.86,
+  "usage_perc_y":80.33,
+  "usage_perc_a":17.24,
   "ucprefix":false,
   "parent":"",
   "keywords":"css,writing,direction,i18n,vertical,ltr,rtl",

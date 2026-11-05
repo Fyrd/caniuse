@@ -116,7 +116,8 @@
       "152":"y #1",
       "153":"y #1",
       "154":"y #1",
-      "155":"y #1"
+      "155":"y #1",
+      "156":"y #1"
     },
     "firefox":{
       "2":"n",
@@ -438,7 +439,8 @@
       "156":"y #1",
       "157":"y #1",
       "158":"y #1",
-      "159":"y #1"
+      "159":"y #1",
+      "160":"y #1"
     },
     "safari":{
       "3.1":"n",
@@ -628,7 +630,11 @@
       "132":"y #1",
       "133":"y #1",
       "134":"y #1",
-      "135":"y #1"
+      "135":"y #1",
+      "136":"y #1",
+      "137":"y #1",
+      "138":"y #1",
+      "139":"y #1"
     },
     "ios_saf":{
       "3.2":"a #1 #2",
@@ -702,7 +708,7 @@
       "4.2-4.3":"y x #1",
       "4.4":"y x #1",
       "4.4.3-4.4.4":"y x #1",
-      "156":"y #1"
+      "157":"y #1"
     },
     "bb":{
       "7":"y x #1",
@@ -718,7 +724,7 @@
       "80":"y #1"
     },
     "and_chr":{
-      "156":"y #1"
+      "157":"y #1"
     },
     "and_ff":{
       "159":"y"
@@ -757,7 +763,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "and_qq":{
       "14.9":"y x #1"
@@ -775,8 +782,8 @@
     "1":"Doesn't work with a stacking context (e.g. `position: relative`), see [Chromium bug](https://crbug.com/1500148)",
     "2":"Doesn't work with flex/grid container, see [WebKit bug](https://bugs.webkit.org/show_bug.cgi?id=169125)"
   },
-  "usage_perc_y":97.13,
-  "usage_perc_a":0.15,
+  "usage_perc_y":97.28,
+  "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"background-img-opts",
   "keywords":"background-clip,text,clip",

@@ -112,7 +112,8 @@
       "152":"y #3",
       "153":"y #3",
       "154":"y #3",
-      "155":"y #3"
+      "155":"y #3",
+      "156":"y #3"
     },
     "firefox":{
       "2":"n",
@@ -434,7 +435,8 @@
       "156":"y #3",
       "157":"y #3",
       "158":"y #3",
-      "159":"y #3"
+      "159":"y #3",
+      "160":"y #3"
     },
     "safari":{
       "3.1":"n",
@@ -624,7 +626,11 @@
       "132":"y #3",
       "133":"y #3",
       "134":"y #3",
-      "135":"y #3"
+      "135":"y #3",
+      "136":"y #3",
+      "137":"y #3",
+      "138":"y #3",
+      "139":"y #3"
     },
     "ios_saf":{
       "3.2":"n",
@@ -698,7 +704,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "156":"n"
+      "157":"n"
     },
     "bb":{
       "7":"n",
@@ -714,7 +720,7 @@
       "80":"y #3"
     },
     "and_chr":{
-      "156":"y #3"
+      "157":"y #3"
     },
     "and_ff":{
       "159":"y #3"
@@ -753,7 +759,8 @@
       "27":"y #3",
       "28":"y #3",
       "29":"y #3",
-      "30":"y #3"
+      "30":"y #3",
+      "31":"y #3"
     },
     "and_qq":{
       "14.9":"n"
@@ -772,7 +779,7 @@
     "2":"Enabled by default in Nightly, but not in Beta/Developer/Release.",
     "3":"Requires cross-origin isolation by having [Cross-Origin-Embedder-Policy (COEP)](/mdn-http_headers_cross-origin-embedder-policy) and [Cross-Origin-Opener-Policy (COOP)](/mdn-http_headers_cross-origin-opener-policy) headers set. [Mozilla Hacks article](https://hacks.mozilla.org/2020/07/safely-reviving-shared-memory/) for context."
   },
-  "usage_perc_y":96.94,
+  "usage_perc_y":97.13,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

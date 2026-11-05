@@ -120,7 +120,8 @@
       "152":"a #4",
       "153":"a #4",
       "154":"a #4",
-      "155":"a #4"
+      "155":"a #4",
+      "156":"a #4"
     },
     "firefox":{
       "2":"n",
@@ -442,7 +443,8 @@
       "156":"a #5",
       "157":"a #5",
       "158":"a #5",
-      "159":"a #5"
+      "159":"a #5",
+      "160":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -632,7 +634,11 @@
       "132":"a #5",
       "133":"a #5",
       "134":"a #5",
-      "135":"a #5"
+      "135":"a #5",
+      "136":"a #5",
+      "137":"a #5",
+      "138":"a #5",
+      "139":"a #5"
     },
     "ios_saf":{
       "3.2":"n",
@@ -706,7 +712,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "156":"a #5"
+      "157":"a #5"
     },
     "bb":{
       "7":"n",
@@ -722,7 +728,7 @@
       "80":"n #2"
     },
     "and_chr":{
-      "156":"a #5"
+      "157":"a #5"
     },
     "and_ff":{
       "159":"a #8"
@@ -761,7 +767,8 @@
       "27":"y",
       "28":"y",
       "29":"y",
-      "30":"y"
+      "30":"y",
+      "31":"y"
     },
     "and_qq":{
       "14.9":"n"
@@ -785,8 +792,8 @@
     "7":"Supported for devices with hardware support (the range is the same as Edge) on Windows only. Enabled by default in Nightly and can be enabled via the `media.wmf.hevc.enabled` pref in `about:config`. 10-bit or higher colors are not supported.",
     "8":"Supported for devices with hardware support, software fallback in some cases. See [details here on MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs#hevc_h.265)."
   },
-  "usage_perc_y":19.99,
-  "usage_perc_a":74.95,
+  "usage_perc_y":18.06,
+  "usage_perc_a":76.69,
   "ucprefix":false,
   "parent":"video",
   "keywords":"h265",

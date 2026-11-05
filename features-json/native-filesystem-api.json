@@ -120,7 +120,8 @@
       "152":"y",
       "153":"y",
       "154":"y",
-      "155":"y"
+      "155":"y",
+      "156":"y"
     },
     "firefox":{
       "2":"n",
@@ -442,7 +443,8 @@
       "156":"y",
       "157":"y",
       "158":"y",
-      "159":"y"
+      "159":"y",
+      "160":"y"
     },
     "safari":{
       "3.1":"n",
@@ -632,7 +634,11 @@
       "132":"y",
       "133":"y",
       "134":"y",
-      "135":"y"
+      "135":"y",
+      "136":"y",
+      "137":"y",
+      "138":"y",
+      "139":"y"
     },
     "ios_saf":{
       "3.2":"n",
@@ -706,7 +712,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "156":"n"
+      "157":"n"
     },
     "bb":{
       "7":"n",
@@ -722,7 +728,7 @@
       "80":"n"
     },
     "and_chr":{
-      "156":"n"
+      "157":"n"
     },
     "and_ff":{
       "159":"n"
@@ -761,7 +767,8 @@
       "27":"n",
       "28":"n",
       "29":"n",
-      "30":"n"
+      "30":"n",
+      "31":"n"
     },
     "and_qq":{
       "14.9":"n"
@@ -779,8 +786,8 @@
     "1":"Can be enabled in desktop Chromium browsers with the `#native-file-system-api` flag.",
     "2":"Parts of the API are still missing."
   },
-  "usage_perc_y":29.93,
-  "usage_perc_a":0.29,
+  "usage_perc_y":30.63,
+  "usage_perc_a":0.27,
   "ucprefix":false,
   "parent":"",
   "keywords":"File System,File System API,chooseFileSystemEntries,getFile",
